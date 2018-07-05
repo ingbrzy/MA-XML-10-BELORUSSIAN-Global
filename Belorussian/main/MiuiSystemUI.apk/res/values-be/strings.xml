@@ -1046,7 +1046,6 @@
     <string name="power_remaining_charging_duration_only">%1$s засталося да поўнай зарадкі</string>
     <string name="power_remaining_duration_only">Засталося каля %1$s</string>
     <string name="power_remaining_duration_only_short">Засталося %1$s</string>
-    <string name="process_kernel_label">АС Android</string>
     <string name="profile_owned_footer">Профіль можа адсочвацца</string>
     <string name="prompt_danger">Пагроза</string>
     <string name="prompt_detecting">Выяўленне</string>

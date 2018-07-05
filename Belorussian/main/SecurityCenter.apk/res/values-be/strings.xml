@@ -432,7 +432,6 @@
     <string name="managed_user_title">Усе праграмы для працы</string>
     <string name="pref_about_traffic_title">Налады трафіка</string>
     <string name="pref_traffic_manage_title">Кантроль трафіка</string>
-    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_package_traffic_settings">Тарыфны план</string>
     <string name="pref_adjust_traffic_data">Задаць трафік</string>
     <string name="pref_category_title_other">Дадатковыя налады</string>
@@ -956,7 +955,6 @@ Rolled over extra data"</string>
     <string name="om_formatted_percent_string">%s%%</string>
     <string name="om_cpu_usage_warn_title_text">"Гэта праграма можа запаволіць
 працу вашай прылады"</string>
-    <string name="om_memory_clean_memory_info_text">%1$s / %2$s</string>
     <string name="om_ill_proc_handle_unstaill_title">Выдаліць %s?</string>
     <string name="om_ill_proc_handle_uninstall_prompt">Выдаліце ​​праграму, каб вырашыць праблемы з батарэяй.</string>
     <string name="om_ill_proc_type_wakelock_title">Праграма блакуе рэжым сну і разраджае батарэю</string>
@@ -1015,7 +1013,6 @@ Rolled over extra data"</string>
     <string name="usage_type_data_send">Мабільныя дадзеныя адпраўлены</string>
     <string name="usage_type_no_coverage">Час адсутнасці сігналу</string>
     <string name="usage_type_gps">GPS</string>
-    <string name="process_kernel_label">Android</string>
     <string name="process_mediaserver_label">Медыя-сервер</string>
     <string name="power_screen">Экран</string>
     <string name="power_wifi">Wi-Fi</string>
@@ -1361,7 +1358,6 @@ Rolled over extra data"</string>
     <string name="menu_text_networkassistants">Трафік</string>
     <string name="menu_text_networkassistants_remain">%s засталося</string>
     <string name="menu_text_networkassistants_danger">перавышана на %s</string>
-    <string name="menu_text_networkassistants_data">%1$s %2$s</string>
     <string name="menu_text_networkassistants_unit_gb">ГБ</string>
     <string name="menu_text_networkassistants_unit_mb">МБ</string>
     <string name="menu_text_networkassistants_unit_kb">КБ</string>
@@ -1736,7 +1732,6 @@ Rolled over extra data"</string>
     <string name="card_main_deepclean_wechat_action">Ачысціць</string>
     <string name="card_main_sectool_title">Інструменты</string>
     <string name="card_main_monthreport_action">Прагледзець</string>
-    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_netcheck_title">Дыягностыка сеткі</string>
     <string name="card_main_netcheck_summary">Пратэстуйце сетку на наяўнасць праблем</string>
     <string name="card_main_netcheck_action">Тэст</string>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hmode_app_groups">
+        <item>Карыстальніцкі</item>
+        <item>Энергазберажэнне</item>
+    </string-array>
+    <string-array name="thermal_entries">
+        <item>Кантроль тэмпературы па змаўчанні</item>
+        <item>Рэжым прадукцыйнасці</item>
+    </string-array>
+    <string-array name="thermal_summaries">
+        <item>Бягучы рэжым кантролю тэмпературы</item>
+        <item>Бягучы рэжым прадукцыйнасці</item>
+    </string-array>
+    <string-array name="power_mode_entries">
+        <item>Прадукцыйнасць</item>
+        <item>Збалансаваны</item>
+    </string-array>
+</resources>

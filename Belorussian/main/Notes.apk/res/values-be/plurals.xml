@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="cloud_state_unsynced_count">
+        <item quantity="other">%1$s не сінхранізавана</item>
+        <item quantity="one">%1$s не сінхранізавана</item>
+        <item quantity="few">%1$s не сінхранізавана</item>
+        <item quantity="many">%1$s не сінхранізавана</item>
+    </plurals>
+    <plurals name="folder_terms">
+        <item quantity="other">%1$s папак</item>
+        <item quantity="one">%1$s папка</item>
+        <item quantity="few">%1$s папкі</item>
+        <item quantity="many">%1$s папак</item>
+    </plurals>
+    <plurals name="note_terms">
+        <item quantity="other">%1$s нататкі</item>
+        <item quantity="one">%1$s нататка</item>
+        <item quantity="few">%1$s нататкі</item>
+        <item quantity="many">%1$s нататак</item>
+    </plurals>
+    <plurals name="record_last_ten_seconds_reminder">
+        <item quantity="other">%d seconds left</item>
+        <item quantity="one">%d second left</item>
+        <item quantity="few">%d seconds left</item>
+        <item quantity="many">%d seconds left</item>
+    </plurals>
+    <plurals name="word_count">
+        <item quantity="other">%s characters</item>
+        <item quantity="one">%s character</item>
+        <item quantity="few">%s characters</item>
+        <item quantity="many">%s characters</item>
+    </plurals>
+</resources>

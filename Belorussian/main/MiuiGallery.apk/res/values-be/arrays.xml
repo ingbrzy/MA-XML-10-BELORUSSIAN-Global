@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="baby_sexy">
+        <item>Хлопчык</item>
+        <item>Дзяўчынка</item>
+    </string-array>
+    <string-array name="collage_month">
+        <item>Стд</item>
+        <item>Лют</item>
+        <item>Сак</item>
+        <item>Крс</item>
+        <item>Май</item>
+        <item>Чрв</item>
+        <item>Ліп</item>
+        <item>Жнв</item>
+        <item>Вер</item>
+        <item>Каст</item>
+        <item>Ліст</item>
+        <item>Снеж</item>
+    </string-array>
+    <string-array name="owner_relation">
+        <item>Бацька</item>
+        <item>Маці</item>
+        <item>Дзед па бацьку</item>
+        <item>Бабка па бацьку</item>
+        <item>Дзед па маці</item>
+        <item>Бабка па маці</item>
+    </string-array>
+    <string-array name="relation_with_me">
+        <item>Я</item>
+        <item>Дзіця</item>
+        <item>"Сям'я"</item>
+        <item>Калегі</item>
+        <item>Аднакласнікі</item>
+        <item>Сябры</item>
+        <item>Нявызначаныя</item>
+    </string-array>
+    <string-array name="sharer_relation_addressive">
+        <item>Бацька</item>
+        <item>Маці</item>
+        <item>Дзед па бацьку</item>
+        <item>Бабка па бацьку</item>
+        <item>Дзед па маці</item>
+        <item>Бабка па маці</item>
+    </string-array>
+</resources>

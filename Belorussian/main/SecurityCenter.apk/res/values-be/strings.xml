@@ -1365,9 +1365,7 @@ Rolled over extra data"</string>
     <string name="menu_text_antispam">Чорны спіс</string>
     <string name="menu_text_license_manager">Дазволы</string>
     <string name="menu_text_garbage_cleanup">Ачыстка</string>
-    <string name="menu_text_garbage_cleanup_danger">перавышана на %s</string>
     <string name="menu_text_power_manager">Выкарыстанне батарэі</string>
-    <string name="menu_text_power_percent_title">Батарэя %s</string>
     <string name="menu_text_power_percent_title_default">Батарэя</string>
     <string name="last_check_canceled">Папярэдняя праверка была скасавана</string>
     <string name="examination_score_100">Усё добра!</string>

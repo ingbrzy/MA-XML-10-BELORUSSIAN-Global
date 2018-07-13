@@ -146,7 +146,7 @@
     <string name="passport_license_host_unreachable">Не ўдаецца злучыцца з сеткай. Для прагляду інфармацыі перайдзіце: %s.</string>
     <string name="passport_login_failed">Памылка аўтарызацыі</string>
     <string name="passport_reg_failed">Памылка рэгістрацыі</string>
-    <string name="passport_verification_failed">Памылка аўтэнтыфікацыі</string>
+    <string name="passport_verification_failed">Не атрымалася праверыць акаўнт</string>
     <string name="passport_reset_fail_title">Не атрымалася скінуць пароль</string>
     <string name="passport_identification_expired">Тэрмін дзеяння праверачнага кода скончыўся, пачніце спачатку</string>
     <string name="passport_bad_authentication">Няправільнае імя карыстальніка ці пароль</string>

@@ -54,6 +54,7 @@
     <string name="album_name_people">Людзі</string>
     <string name="album_name_recent_discovery">Нядаўнія</string>
     <string name="album_name_tags">Меткі</string>
+    <string name="album_notes">Notes</string>
     <string name="album_others_share_baby_info_format">Альбом дзіця ад \"%s\"</string>
     <string name="album_others_share_info_format">Ад %s</string>
     <string name="album_owner_share">Адпраўленыя</string>
@@ -373,7 +374,6 @@
     <string name="enable_cloud_for_sharing">Для прагляду агульных фота неабходна ўключыць Mi Cloud.</string>
     <string name="enable_face_album_summary">Аўтаматычна сартаваць фота па адзначаных людзях</string>
     <string name="enable_face_album_title">Сартаваць па асобах</string>
-    <string name="enabling_face_feature">Хвілінку…</string>
     <string name="enter_choice_mode">Entered Share dialog</string>
     <string name="enter_email_hint">Увядзіце адрас Email</string>
     <string name="error_album_not_exist">Альбом не існуе</string>
@@ -446,7 +446,6 @@
     <string name="exit_video_play">Выйсці</string>
     <string name="expand_desc">Яшчэ</string>
     <string name="expand_people">Паказаць больш людзей</string>
-    <string name="face_album_detecting_tip">Хвілінку…</string>
     <string name="face_album_empty">"Недастаткова фота, каб распазнаць людзей.
 Рабіце больш фота вашых сяброў!"</string>
     <string name="face_album_empty_syncing">Сінхранізацыя дадзеных, вяртайцеся пазней</string>
@@ -454,7 +453,6 @@
     <string name="face_album_long_tap_tip">Для выбару некалькіх людзей або змены налад групы, націсніце і ўтрымлівайце фота профілю</string>
     <string name="face_album_new_name_hint">Новае імя</string>
     <string name="face_album_not_named">Без імені</string>
-    <string name="face_album_pending_enable_tip">Фота будуць сартавацца пры падключэнні да сеткі Wi-Fi</string>
     <string name="face_album_rename_hint">Увядзіце імя</string>
     <string name="face_album_title">Фота з %s</string>
     <string name="face_album_use_tip">Аўтаматычна сартаваць фота па асобах.</string>
@@ -465,6 +463,7 @@
     <string name="face_name_edit">Змяніць</string>
     <string name="face_name_input">Увядзіце імя</string>
     <string name="face_recommend">Парады</string>
+    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="fail_hint">Не атрымалася завяршыць аперацыю</string>
     <string name="fail_to_pick_email">Няправільны Email</string>
     <string name="fail_to_sync_album">Не атрымалася сінхранізаваць альбом. Праверце параметры сеткі.</string>
@@ -472,7 +471,10 @@
     <string name="fancy_color_desc">Колеры</string>
     <string name="fast_share_auto_render">Паляпшэнне</string>
     <string name="fast_share_auto_render_finish">Палепшана</string>
-    <string name="feature_guidance_photo_effects">Photo effects</string>
+    <string name="feature_guidance_photo_effects">"New photo effects
+are available"</string>
+    <string name="feature_guidance_video_editor_smart_effects">New effects are available</string>
+    <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="filter_bi_memory">Памяць</string>
     <string name="filter_bi_mono">Мона</string>
     <string name="filter_bi_pink">Ружовы</string>
@@ -541,6 +543,7 @@
     <string name="gif_tip">GIF</string>
     <string name="gigabyteShort">ГБ</string>
     <string name="grant_permission_go_and_set">Усталяваць</string>
+    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_text">"Для звычайнай працы Галерэі патрэбны доступ да 
 %s
 , націсніце \"Наладзіць\", каб перайсці да дазволаў."</string>
@@ -736,6 +739,7 @@
     <string name="people_mark_mode_title_no_mark_name">Выберыце чалавека</string>
     <string name="people_page_label">Людзі</string>
     <string name="people_page_unname">Без імені</string>
+    <string name="percent_sign">%</string>
     <string name="pet_album_display_name">Фота жывёл</string>
     <string name="petabyteShort">ПБ</string>
     <string name="photo">Фота</string>
@@ -810,7 +814,13 @@
     <string name="photo_print_package_installing">Спампоўка ўбудовы…</string>
     <string name="photo_save_to_msg">Захаваць у %s</string>
     <string name="photomovie_audio_custom">На прыладзе</string>
+    <string name="photomovie_audio_default">Memory</string>
+    <string name="photomovie_audio_kawaii">Romantic</string>
+    <string name="photomovie_audio_light">Ballad</string>
+    <string name="photomovie_audio_linear">Rock</string>
     <string name="photomovie_audio_none">Няма</string>
+    <string name="photomovie_audio_soft">Ukulele</string>
+    <string name="photomovie_audio_sport">Techno</string>
     <string name="photomovie_cancel_download">Скасаваць</string>
     <string name="photomovie_delete_disable">Вам неабходна мінімум 3 фота, каб стварыць кліп.</string>
     <string name="photomovie_download">Спампаваць</string>
@@ -832,6 +842,11 @@
     <string name="photomovie_tab_music">Музыка</string>
     <string name="photomovie_tab_template">Шаблон</string>
     <string name="photomovie_template_default">Павольны</string>
+    <string name="photomovie_template_kawaii">Charms</string>
+    <string name="photomovie_template_light">Breeze</string>
+    <string name="photomovie_template_linear">Roadtrip</string>
+    <string name="photomovie_template_soft">Youth</string>
+    <string name="photomovie_template_sport">Vigor</string>
     <string name="pick_from_contact">Выбраць з кантактаў</string>
     <string name="pick_too_many_recipients">Занадта шмат атрымальнікаў</string>
     <string name="picker_cancel_download">Скасаваць спампаванне</string>
@@ -844,6 +859,7 @@
     <string name="picker_image_will_download">%d з выбраных фота няма на прыладзе. Яны будуць спампаваны.</string>
     <string name="picker_no_network_message">Падключыцеся да інтэрнэту для спампоўкі</string>
     <string name="picker_origin_need_download">%1$d выбраных фота (%2$dМБ) не на прыладзе. Спампаваць праз мабільны інтэрнэт?</string>
+    <string name="picker_origin_request_progress_message">Preparing original files (%1$d/%2$d)…</string>
     <string name="picker_title_format">Выберыце ад %1$d да %2$d фота</string>
     <string name="picker_title_selection_format">Выбрана фота %d</string>
     <string name="picker_title_selection_format_multiple">Выберыце ад %1$d да %2$d фота (%3$d)</string>
@@ -957,12 +973,12 @@
     <string name="search_net_error">Адбылася памылка сеткі. Падлучыцеся да іншай сеткі і паўтарыце спробу.</string>
     <string name="search_request_applied">Ужыта</string>
     <string name="search_request_open">Далучыцеся да каманды тэсціравання</string>
+    <string name="search_request_requesting">Applied. Wait a while before you start.</string>
     <string name="search_result_empty">Нічога не знойдзена</string>
     <string name="search_retry">Паспрабаваць зноў</string>
     <string name="search_select_network">Выберыце сетку</string>
     <string name="search_set_network_connection">Налады сеткі</string>
     <string name="search_setting_sub_title">"Шукайце людзей, месцы і аб'екты на вашых фота."</string>
-    <string name="search_setting_sub_title_open">Ужыта. Пачакайце трохі перад пачаткам.</string>
     <string name="search_setting_title">Знайсці фота ў Галерэі</string>
     <string name="search_syncing">Сінхранізацыя дадзеных, вяртайцеся пазней</string>
     <string name="search_title_album">Альбом</string>
@@ -975,6 +991,9 @@
     <string name="search_title_recommend">Рэкамендацыі</string>
     <string name="search_title_suggestion">Прапановы</string>
     <string name="search_title_tag">"Аб'екты"</string>
+    <string name="search_transition_element_icon">search_icon</string>
+    <string name="search_transition_element_input">search_input</string>
+    <string name="search_transition_element_voice">search_voice</string>
     <string name="searching_cast_devices">Пошук праектара…</string>
     <string name="secret_album_card_description">Лепшае месца для вашых маленькіх сакрэтаў</string>
     <string name="secret_album_card_title">Паспрабуйце схаваныя альбомы</string>
@@ -992,6 +1011,7 @@
     <string name="secret_reason_too_large">Файл занадта вялікі</string>
     <string name="secret_reason_type_not_support">Тып файла не падтрымліваецца</string>
     <string name="secret_reason_unknow_reasons">Невядомая памылка</string>
+    <string name="secret_reason_video_not_support">"Can't add videos to hidden album"</string>
     <string name="see_ignore_faces">Прагледзець прапушчаныя фота</string>
     <string name="select_item_face">"Гэта '%s'?"</string>
     <string name="select_origin_tip">Арыгінал (%s)</string>
@@ -1205,7 +1225,7 @@
     <string name="video_editor_smart_effect_fastslow">Motion</string>
     <string name="video_editor_smart_effect_freesze">Stop motion</string>
     <string name="video_editor_smart_effect_halo">Halo</string>
-    <string name="video_editor_smart_effect_high_iframes_text">This effect works best with high frame rate videos.</string>
+    <string name="video_editor_smart_effect_high_iframes_text">This effect works best for 120 fps videos.</string>
     <string name="video_editor_smart_effect_movie">Movie</string>
     <string name="video_editor_smart_effect_none">None</string>
     <string name="video_editor_smart_effect_radical">Upbeat</string>
@@ -1233,6 +1253,7 @@
     <string name="video_editor_unsupport_audio_file">Аўдыяфайл не падтрымліваецца</string>
     <string name="video_editor_unzip_file_fail">"Couldn't unpack video."</string>
     <string name="video_editor_video_is_short">"Can't edit this video."</string>
+    <string name="video_editor_video_loading">Preparing video,Wait a second or two and try again.</string>
     <string name="video_editor_watermark">Watermark</string>
     <string name="video_err">Не ўдаецца прайграць відэа</string>
     <string name="video_not_exist">Відэа не існуе</string>
@@ -1241,8 +1262,8 @@
     <string name="view_by_gallery_tip">Галерэя MIUI</string>
     <string name="view_face_album">Праглядзець альбом</string>
     <string name="view_more_face_desc">Паказаць больш людзей</string>
-    <string name="view_queuing_status">Праверыць статус</string>
     <string name="voice_assistant">Voice input</string>
+    <string name="welcome_to_auto_backup">@string/welcome_to_micloud</string>
     <string name="welcome_to_micloud">Сардэчна запрашаем у Мі Cloud</string>
     <string name="where_is_barcode">Дзе атрымаць QR-код?</string>
     <string name="who_is_this">Хто гэта?</string>

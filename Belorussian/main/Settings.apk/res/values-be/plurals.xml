@@ -354,6 +354,12 @@
         <item quantity="few">Засталося %1$d крокі да адпраўкі паведамлення пра памылку.</item>
         <item quantity="many">Засталося %1$d крокаў да адпраўкі паведамлення пра памылку.</item>
     </plurals>
+    <plurals name="show_reset_countdown">
+        <item quantity="other">Засталося %1$d крокаў да скіду да заводскіх налад</item>
+        <item quantity="one">Застаўся %1$d крок да скіду да заводскіх налад</item>
+        <item quantity="few">Засталіся %1$d крокі да скіду да заводскіх налад</item>
+        <item quantity="many">Засталося %1$d крокаў да скіду да заводскіх налад</item>
+    </plurals>
     <plurals name="special_access_summary">
         <item quantity="other">%d праграмы могуць выкарыстоўваць даныя без абмежаванняў</item>
         <item quantity="one">%d праграма можа выкарыстоўваць даныя без абмежаванняў</item>

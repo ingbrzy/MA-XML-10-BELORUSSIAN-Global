@@ -68,6 +68,7 @@
     <string name="accessibility_wifi_two_bars">Два слупкi Wi-Fi.</string>
     <string name="accessibility_wifi_three_bars">Тры слупкi Wi-Fi.</string>
     <string name="accessibility_wifi_signal_full">Поўны сігнал Wi-Fi.</string>
+    <string name="process_kernel_label">АС Android</string>
     <string name="data_usage_uninstalled_apps">Выдаленыя прыкладанні</string>
     <string name="data_usage_uninstalled_apps_users">Выдаленыя прыкладанні і карыстальнiкi</string>
     <string name="tether_settings_title_usb">USB-мадэм</string>

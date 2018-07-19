@@ -298,7 +298,7 @@
     <string name="xspace_default_setting_label">Праграма па змаўчанні</string>
     <string name="xspace_default_app_title">Праграма па змаўчанні</string>
     <string name="xspace_default_app_summary">Усталяваць праграму па змаўчанні для плацяжоў, сумеснага выкарыстання, выбраных ды іншых.</string>
-    <string name="xspace_default_setting_dialog_title">Па змаўчанні</string>
+    <string name="xspace_default_setting_dialog_title"> змаўчанні</string>
     <string name="xspace_default_guide_notification_content">Націсніце, каб змяніць</string>
     <string name="xspace_default_guide_notification_main_title">Выкарыстоўваецца праграма па змаўчанні</string>
     <string name="xspace_default_guide_notification_xspace_title">Выкарыстоўваецца клон праграмы</string>

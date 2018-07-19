@@ -895,6 +895,8 @@
     <string name="bt_hci_snoop_log">Журнал Bluetooth HCI</string>
     <string name="bt_hci_snoop_log_summary">Захоўваць усе пакеты Bluetooth HCI ў файле</string>
     <string name="bt_ldac_declaration">Калі прылада Bluetooth падтрымлівае LDAC, ён будзе ўключаны па змаўчанні. LDAC забяспечвае высокую якасць гуку, але і прыводзіць да болей высокага энергаспажывання</string>
+    <string name="bt_ldac_dialog_summary">"LDAC забяспечвае высокую якасць гуку, але таксама прыводзіць до больш высокага энергаспажывання
+Гэту функцыю можна выключыць у [Наладах]"</string>
     <string name="bt_ldac_dialog_title">Гэта прылада падтрылімвае LDAC, які ўключаны па змаўчанні:</string>
     <string name="bt_ldac_open_dialog_summary">LDAC забяспечвае высокую якасць гуку, але і прыводзіць да болей высокага энергаспажывання</string>
     <string name="bt_ldac_open_dialog_title">Уключыць LDAC?</string>
@@ -2078,7 +2080,6 @@
     <string name="instant_app_details_summary">Дадатковая інфармацыя ў %1$s</string>
     <string name="instant_apps_account">Уліковы запіс імгненных праграм</string>
     <string name="instruction_privacy_password">Гэты пароль абараняе наступныя элементы</string>
-    <string name="instruction_title">Інструкцыі</string>
     <string name="insufficient_storage">Не хапае месца для захоўвання.</string>
     <string name="intent_sender_account_label">Уліковы запіс:</string>
     <string name="intent_sender_resource_label">Resource</string>
@@ -2226,6 +2227,7 @@
     <string name="lift_to_wake_title">Абуджэнне пры падняцці</string>
     <string name="line_breaking_summary">Выправіць разрывы радкоў абзаца</string>
     <string name="line_breaking_title">Аптымізацыя тэксту</string>
+    <string name="link_speed">%1$d Мб/с</string>
     <string name="list_bg_header_text">Пры абмежаванні фонавых злучэнняў новыя праграмы не змогуць злучацца з інтэрнэтам у фонавым рэжыме. Яны больш не змогуць атрымліваць паведамленні ці абнаўляць дадзеныя.</string>
     <string name="list_empty_text">Пуста</string>
     <string name="loading_notification_apps">Загрузка дадаткаў...</string>
@@ -2818,6 +2820,7 @@
     <string name="nfc_how_it_works_got_it">Зразумела</string>
     <string name="nfc_how_it_works_title">Аплата ў тэрмінале</string>
     <string name="nfc_more_title">Больш...</string>
+    <string name="nfc_payment_app_and_desc">%1$s – %2$s</string>
     <string name="nfc_payment_default">Стандартны спосаб аплаты</string>
     <string name="nfc_payment_default_not_set">Не задана</string>
     <string name="nfc_payment_favor_default">Заўсёды выкарыстоўвайце праграму па змаўчанні</string>
@@ -3309,6 +3312,7 @@
     <string name="private_sms_recording_intro_header">Намаляваць графічны ключ для разблакавання:</string>
     <string name="private_sms_reset_by_account">Каб скінуць ваш пароль, увайдзіце ў Mi Акаўнт</string>
     <string name="process_dex2oat_label">Аптымізацыя дадаткаў</string>
+    <string name="process_kernel_label">АС Android</string>
     <string name="process_mediaserver_label">Сервер медыя</string>
     <string name="process_provider_in_use_description">Выкарыстоўваецца пастаўшчык паслуг %1$s.</string>
     <string name="process_service_in_use_description">Служба %1$s выкарыстоўваецца.</string>
@@ -3507,6 +3511,7 @@
     <string name="retail_demo_reset_next">Далей</string>
     <string name="retail_demo_reset_title">Патрабуецца пароль</string>
     <string name="retry">Паспрабаваць ізноў</string>
+    <string name="rgb_manage_facerecoginition_text">Кіраванне 2D-дадзенымі твару</string>
     <string name="ring_volume_option_title">Гучнасць выкліку</string>
     <string name="ring_volume_title">Гучнасць званка</string>
     <string name="ringtone_slot_setting_title">Налады адной SIM-карты</string>
@@ -4157,6 +4162,7 @@
     <string name="sim_reenter_new">Увядзіце новы PIN-код яшчэ раз</string>
     <string name="sim_select_card">Выбар SIM-карты</string>
     <string name="sim_selection_required_pref">Трэба выбраць</string>
+    <string name="sim_settings_summary">%1$s – %2$s</string>
     <string name="sim_settings_title">SIM-карты</string>
     <string name="sim_setup_wizard_title">SIM-карты</string>
     <string name="sim_signal_strength">%1$d дБм %2$d asu</string>
@@ -4205,6 +4211,8 @@
     <string name="sound_settings_summary">Гучнасць званка – %1$s</string>
     <string name="sound_settings_summary_silent">Для гуку выкліку заданы бязгучны рэжым</string>
     <string name="sound_settings_summary_vibrate">Для гуку выкліку заданы рэжым вібрацыі</string>
+    <string name="sound_stereo_mode_summary">Даступна толькі пры прайграванні гуку праз дынамік</string>
+    <string name="sound_stereo_mode_title">Стэрэагук</string>
     <string name="sound_vibrate_settings">Гукі і вібрацыя</string>
     <string name="sound_work_settings">Гукі працоўнага профілю</string>
     <string name="special_access">Асобы доступ для праграм</string>
@@ -4233,6 +4241,7 @@
     <string name="status_bar_app_enable_message">Гузікі</string>
     <string name="status_bar_carrier_settings_no_sim_card">Няма SIM-карты</string>
     <string name="status_bar_key_position_custom">Змяніць становішча кнопак</string>
+    <string name="status_bar_notification_info_overflow">больш за 999</string>
     <string name="status_bar_screen_button_force_immersive_desc">Каб паказаць экранныя кнопкі, правядзіце па экране знізу ўверх</string>
     <string name="status_bar_screen_button_key_force_immersive">Схаваць наэкранныя кнопкі</string>
     <string name="status_bar_screen_key_back">Клавіша \"назад\"</string>
@@ -4450,6 +4459,9 @@
     <string name="strict_mode">Строгі рэжым уключаны</string>
     <string name="strict_mode_summary">Міргаць экранам у час доўгіх аперацый у галоўным працэсе</string>
     <string name="structure_add_facerecoginition_text">Дадаць 3D-дадзеныя твару</string>
+    <string name="structure_face_enroll_not_able_low_electric_itle">Нізкі зарад батарэі</string>
+    <string name="structure_face_enroll_not_able_low_electric_msg">Для пачатку запісу зарад батарэі мусіць быць не меней за 5%.</string>
+    <string name="structure_manage_facerecoginition_text">Кіраванне 3D-дадзенымі твару</string>
     <string name="suggest_unrestrict_max_aspect_ratio_title">Гэтыя праграмы лепш працуюць у поўнаэкранным рэжыме</string>
     <string name="suggested_fingerprint_lock_settings_summary">Разблакіруйце з дапамогай адбітка пальца</string>
     <string name="suggested_fingerprint_lock_settings_title">Выкарыстоўваць адбітак пальца</string>
@@ -4461,6 +4473,7 @@
     <string name="suggestion_remove">Выдаліць</string>
     <string name="suggestions_title">Прапановы</string>
     <string name="sum_carrier_select">Выбраць аператара сеткі</string>
+    <string name="summary_range_symbol_combination">%1$s – %2$s</string>
     <string name="summary_range_verbal_combination">%1$s – %2$s</string>
     <string name="super_resolution_access_title">Даступныя праграмы</string>
     <string name="super_resolution_desc">Павышэнне рэзкасці выяў з дапамогай алгарытму AI</string>

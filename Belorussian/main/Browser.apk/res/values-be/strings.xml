@@ -732,6 +732,8 @@ Are you sure you want to navigate away from this page?"</string>
     <string name="mw_snippets_disabled_generic_prompt">Get personalized content</string>
     <string name="mw_snippets_disabled_signed_out_instructions">To get personalized content suggested by Google, sign in to Chrome.</string>
     <string name="mw_time_picker_dialog_am">AM</string>
+    <string name="mw_time_picker_dialog_hour_minute_separator">:</string>
+    <string name="mw_time_picker_dialog_minute_second_separator">:</string>
     <string name="mw_time_picker_dialog_pm">PM</string>
     <string name="mw_time_picker_dialog_second_subsecond_separator">.</string>
     <string name="mw_time_picker_dialog_title">Set time</string>
@@ -1036,6 +1038,7 @@ Are you sure you want to navigate away from this page?"</string>
     <string name="snapshot_failed">Не ўдалося захаваць старонку</string>
     <string name="snapshot_successed">Для прагляду старонкі адкрыйце Закладкі/Гісторыя->Прылада</string>
     <string name="soft_toast_see_view">View</string>
+    <string name="source_dislike">Dislike</string>
     <string name="ssl_bad_clock_date_settings">Усталяваць дату</string>
     <string name="ssl_bad_clock_warning" formatted="false">Абароненае падлучэнне да %s1 не можа быць усталявана, бо налады даты і часу на вашай прыладзе (%s2) няправільныя.</string>
     <string name="ssl_certificate">Сертыфікат бяспекі</string>

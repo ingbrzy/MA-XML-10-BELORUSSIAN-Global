@@ -377,10 +377,11 @@
     <string name="pref_camera_delay_capture_entry_5s">Затрымка 5 сек.</string>
     <string name="pref_camera_delay_capture_entry_10s">Затрымка 10 сек.</string>
     <string name="pref_ai_detect">Вызначэнне AI</string>
+    <string name="pref_google_lens">Google Lens</string>
     <string name="pref_camera_beauty">Паляпшэнне</string>
     <string name="pref_camera_beauty_deep">Паляпшэнне</string>
     <string name="pref_camera_asd_night_title">Аўтаматычна паляпшаць фота з дрэнным асвятленнем</string>
-    <string name="pref_camera_super_resolution_title">Turn on SR</string>
+    <string name="pref_camera_super_resolution_title">Уключыць SR</string>
     <string name="simple_mode_button_text_scene">Адключыць рэжым \"Сюжэт\"</string>
     <string name="pref_camera_peak_title">Вызначэнне вобласці факусіравання</string>
     <string name="pref_camera_peak_entry_off">Выкл</string>
@@ -430,6 +431,7 @@
     <string name="portrait_mode_depth_effect_success_hint">Эфект глыбіні</string>
     <string name="portrait_mode_use_hint">"Партрэтны рэжым размывае фон
 і павялічвае выразнасць пярэдняга плана."</string>
+    <string name="portrait_mode_use_hint_with_switch">@string/portrait_mode_use_hint</string>
     <string name="pref_camera_square_mode_title">Квадрат</string>
     <string name="simple_mode_button_text_square">Адключыць кадраванне</string>
     <string name="face_beauty_smart">Разумны</string>
@@ -444,6 +446,7 @@
     <string name="pref_camera_beautify_entry_low">Нізкі</string>
     <string name="pref_camera_beautify_entry_normal">Сярэдні</string>
     <string name="pref_camera_beautify_entry_high">Высокі</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="camera_mode_options">Рэжымы</string>
     <string name="button_front_camera_title">Зрабіць сэлфі</string>
     <string name="button_normal_video_title">Запіс відэа</string>

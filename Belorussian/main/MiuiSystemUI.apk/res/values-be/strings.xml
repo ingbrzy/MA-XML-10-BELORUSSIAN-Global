@@ -755,7 +755,6 @@
     <string name="keyguard_charged">Зараджана</string>
     <string name="keyguard_charging_info_battery_used_time_text">Праца ад батарэі</string>
     <string name="keyguard_charging_info_click_to_detail">Падрабязнасці</string>
-    <string name="keyguard_charging_info_data_ma">%s mA</string>
     <string name="keyguard_charging_info_drained_power_percent_text">Спажыванне зараду</string>
     <string name="keyguard_charging_info_last_charge_time">dd.MM H:mm</string>
     <string name="keyguard_charging_info_last_charge_today_time">Сёння %s</string>
@@ -1129,7 +1128,6 @@
     <string name="power_remaining_charging_duration_only">%1$s засталося да поўнай зарадкі</string>
     <string name="power_remaining_duration_only">Засталося каля %1$s</string>
     <string name="power_remaining_duration_only_short">Засталося %1$s</string>
-    <string name="process_kernel_label">АС Android</string>
     <string name="profile_owned_footer">Профіль можа адсочвацца</string>
     <string name="prompt_danger">Пагроза</string>
     <string name="prompt_detecting">Выяўленне</string>

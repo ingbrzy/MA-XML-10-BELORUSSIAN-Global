@@ -27,5 +27,4 @@
     <string name="exo_controls_rewind_description">Перамотка назад</string>
     <string name="exo_controls_stop_description">Спыніць</string>
     <string name="search_menu_title">Пошук</string>
-    <string name="status_bar_notification_info_overflow">больш за 999</string>
 </resources>

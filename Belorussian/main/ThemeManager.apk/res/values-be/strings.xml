@@ -23,7 +23,6 @@
     <string name="s4">Адхіліць</string>
     <string name="s5">Стварыць падзею календара</string>
     <string name="s6">Дазволіць рэкламе стварыць падзею календара?</string>
-    <string name="status_bar_notification_info_overflow">больш за 999</string>
     <string name="account_info">Мой акаўнт</string>
     <string name="account_name_not_login">Увайсці</string>
     <string name="account_unactivated">Акаўнт не актывіраваны</string>
@@ -129,7 +128,6 @@
     <string name="incompatible_dialog_ok">Зразумела</string>
     <string name="incompatible_dialog_title">Праблемы сумяшчальнасці</string>
     <string name="is_setting_wallpaper_message">Усталёўка шпалер…</string>
-    <string name="item_resource_audio_divider">│</string>
     <string name="item_resource_audio_optional_alarm_ring">Будзільнікі</string>
     <string name="item_resource_audio_optional_color_ring">Мелодыя выкліку</string>
     <string name="item_resource_audio_optional_notification_ring">Апавяшчэнні</string>
@@ -322,7 +320,6 @@
     <string name="resource_pack_price_info">Арыгінальны кошт: %1$s</string>
     <string name="resource_pack_warning">Вы ўжо купілі %1$d кампанентаў гэтай тэмы. Будзе танней дакупіць астатнія кампаненты асобна.</string>
     <string name="resource_present">Падарунак</string>
-    <string name="resource_price_format">(%1$s)</string>
     <string name="resource_price_free">Бясплатна</string>
     <string name="resource_price_unit"> Mi Credits</string>
     <string name="resource_purchase_common_error">Здарылася памылка, паспрабуйце зноў</string>
@@ -469,7 +466,6 @@
     <string name="theme_is_external_priority_storage">Захаваць на SD-карту</string>
     <string name="theme_is_external_priority_storage_summary">Праграма Тэмы перазапусціцца для ўжывання змяненняў.</string>
     <string name="theme_multiple_button_title_customize">Персаналізуй</string>
-    <string name="theme_name">%1$s</string>
     <string name="theme_no">Не</string>
     <string name="theme_purchased_list_empty">Няма купленых тэм.</string>
     <string name="theme_purchased_non_local">Анлайн</string>

@@ -114,7 +114,6 @@
     <string name="menu_title_select_folder">Выберыце папку</string>
     <string name="menu_unhide">Unhide</string>
     <string name="menu_unstick">Адмацаваць</string>
-    <string name="micloud_state_total_count">%1$s</string>
     <string name="not_now">Не зараз</string>
     <string name="note_description_content">The Notes app is a great tool for recording your ideas. It has built-in reminders and syncs your items to Mi Cloud so you can access them anywhere, anytime. Make sure you can do without these features before you delete the app.</string>
     <string name="note_description_title">About Notes</string>
@@ -126,7 +125,6 @@
     <string name="note_sort_way">Select how you want to sort your notes</string>
     <string name="notealert_enter">Адкрыць нататку</string>
     <string name="notealert_ok">Зачыніць</string>
-    <string name="notelist_string_info">...</string>
     <string name="notify_alarm_title">Нататкавы напамін</string>
     <string name="permdesc_accessNote">Злаўмысныя праграмы могуць выкарыстоўваць гэты дазвол для атрымання вашых асабістых дадзеных.</string>
     <string name="permlab_accessNote">Доступ да нататак</string>

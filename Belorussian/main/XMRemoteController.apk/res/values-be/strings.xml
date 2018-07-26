@@ -20,7 +20,6 @@
     <string name="abc_shareactionprovider_share_with_application">Абагуліць з %s</string>
     <string name="abc_toolbar_collapse_description">Згарнуць</string>
     <string name="search_menu_title">Пошук</string>
-    <string name="status_bar_notification_info_overflow">больш за 999</string>
     <string name="ac_gree">Gree AC</string>
     <string name="ac_mode_auto">Auto</string>
     <string name="ac_mode_cold">Cooling</string>
@@ -103,7 +102,6 @@
     <string name="bind_stb">Continue pairing set-top box</string>
     <string name="bind_stb_dlg">Pair set-top box to switch channels</string>
     <string name="bind_stb_dlg_agree">Pair</string>
-    <string name="brand_device">%1$s %2$s</string>
     <string name="brand_search_box_hint">Абярыце вытворцу</string>
     <string name="brand_title_all">Усе</string>
     <string name="brand_title_hot">Папулярныя</string>
@@ -306,7 +304,6 @@
     <string name="hot_videos">Папулярныя</string>
     <string name="hour">гадз</string>
     <string name="humidity">Humidity:</string>
-    <string name="humidity_frame">%1$d%%</string>
     <string name="increase">Up</string>
     <string name="input_complete">OK</string>
     <string name="input_dialogue_cancel_button">Cancel</string>
@@ -406,7 +403,6 @@
     <string name="loading_more">Just a sec…</string>
     <string name="locate_current_place">Знайсці бягучае месцазнаходжанне</string>
     <string name="location_select">Rename device</string>
-    <string name="lock_screen_device_sum">%1$d</string>
     <string name="login">Sign in</string>
     <string name="login_directly">Sign in</string>
     <string name="login_done">Паспяховы ўваход</string>
@@ -433,7 +429,6 @@
     <string name="match_data">Інфармацыя пра падлучэнне</string>
     <string name="match_data_error_tips">"Couldn't get info
 Go back to continue"</string>
-    <string name="match_dataset_frame">%1$d/%2$d</string>
     <string name="match_direction_default">Do direction buttons work?</string>
     <string name="match_dvd_intro_pause">Release when DVD playback pauses</string>
     <string name="match_dvd_intro_play">Release when DVD starts playing</string>
@@ -663,8 +658,6 @@ Open the remote's settings and tap \"Share\"."</string>
     <string name="scaning">Пошук…</string>
     <string name="scanning_milink">Searching for devices…</string>
     <string name="scene_default">Default</string>
-    <string name="scene_name_frame">%1$s %2$s%3$s</string>
-    <string name="scene_name_frame_short">%1$s%2$s</string>
     <string name="screenshot">Screenshot</string>
     <string name="screenshot_failed">"Couldn't capture screen"</string>
     <string name="screenshot_failed_and_check_connection">"Couldn't capture screen, check connected devices"</string>
@@ -772,7 +765,6 @@ Go to Home page > \"+\" > Scanner."</string>
     <string name="start_diagnosis">Test</string>
     <string name="start_match">Pair</string>
     <string name="stb">Тэлепрыстаўка</string>
-    <string name="stb_detail_title_frame">%1$s - %2$d</string>
     <string name="stb_power">STB on/off</string>
     <string name="steps">Спроба #%d</string>
     <string name="sticky_on_top">Pin</string>

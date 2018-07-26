@@ -26,8 +26,8 @@
     <string name="cert_too_large_error">Не атрымлiваецца ўсталяваць, таму што памер сертыфiката занадта вялікі.</string>
     <string name="cert_missing_error">Не атрымлiваецца ўсталяваць, таму што немагчыма размясцiць файл сертыфіката.</string>
     <string name="cert_read_error">Не атрымлiваецца ўсталяваць, таму што немагчыма прачытаць файл сертыфіката.</string>
-    <string name="no_cert_file_found">Сертыфікат не знойдзены ва USB-назапашвальнiку.</string>
-    <string name="sdcard_not_present">USB-назапашвальнiк адсутнічае.</string>
+    <string name="no_cert_file_found">На SD-карце не знойдзены файл сертыфіката.</string>
+    <string name="sdcard_not_present">SD-карта не знойдзена.</string>
     <string name="only_primary_user_allowed">Сертыфiкаты можа ўсталёўваць толькi ўладальнiк гэтай прылады.</string>
     <string name="credential_usage_label">Выкарыстанне ўліковых дадзеных:</string>
     <string name="wifi_title">Профіль Wi-Fi</string>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ac_mode_array">
+        <item>Астуджэнне</item>
+        <item>Падагрэў</item>
+        <item>Асушванне</item>
+        <item>Вентылятар</item>
+    </string-array>
+    <string-array name="answer">
+        <item>Ваша прылада можа падключацца да Mi TV, Mi Box і некаторых іншых Android-прылад толькі праз Wi-Fi.</item>
+        <item>"Make sure you've selected the right A/C model in the pairing process. Follow the prompts on your device until the pairing is complete."</item>
+        <item>Не. У дадзены момант функцыю ІЧ пульта падтрымліваюць наступныя мадэлі: Mi 4, Mi 4c і Redmi Note 2.</item>
+    </string-array>
+    <string-array name="epg_week_tab">
+        <item>Ндз</item>
+        <item>Пн</item>
+        <item>Аўт</item>
+        <item>Ср</item>
+        <item>Чц</item>
+        <item>Пт</item>
+        <item>Сб</item>
+    </string-array>
+    <string-array name="question">
+        <item>Чаму мой тэлефон працягвае пошук бяздротавых прылад?</item>
+        <item>Чаму я магу толькі ўключыць свой A/C, а не магу выключыць яго?</item>
+        <item>Ці магчыма карыстацца Mi 3, Mi 2 ды Redmi у якасці ІЧ-пульта?</item>
+    </string-array>
+    <string-array name="voice_ac_help">
+        <item>Уключыць кандыцыянер Haier у гасцёўні</item>
+        <item>Устанавіць тэмпературу 25 градусаў</item>
+        <item>Выставіць напрамак паветра \"Дагары\"</item>
+    </string-array>
+    <string-array name="voice_fan_help">
+        <item>Уключыць Gree AC</item>
+        <item>Пераключыць у рэжым павароту</item>
+        <item>Павялічыць паток паветра</item>
+    </string-array>
+    <string-array name="voice_stb_help">
+        <item>Уключыць прыстаўку</item>
+        <item>Я хачу глядзець Hunan Tv</item>
+        <item>Вярнуцца да 15 канала</item>
+    </string-array>
+    <string-array name="voice_tips">
+        <item>Уключыць кандыцыянер</item>
+        <item>Я хачу глядзець Shenzhen TV</item>
+        <item>Вярнуцца да 12 канала</item>
+    </string-array>
+    <string-array name="voice_tv_help">
+        <item>Уключыць тэлевізар у спальні</item>
+        <item>Выключыць TV</item>
+        <item>Дабавіць гуку ў тэлевізары</item>
+    </string-array>
+</resources>

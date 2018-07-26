@@ -419,7 +419,7 @@
     <string name="root">Root-доступ</string>
     <string name="app_detail">Падрабязнасці</string>
     <string name="app_version">Версія:</string>
-    <string name="app_mobile">Mobile data</string>
+    <string name="app_mobile">Мабільныя дадзеныя</string>
     <string name="app_wifi">Wi-Fi</string>
     <string name="traffic_none">Няма</string>
     <string name="sorted_dialog_title">Сартаванне</string>
@@ -433,6 +433,7 @@
     <string name="managed_user_title">Усе праграмы для працы</string>
     <string name="pref_about_traffic_title">Налады трафіка</string>
     <string name="pref_traffic_manage_title">Кантроль трафіка</string>
+    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_package_traffic_settings">Тарыфны план</string>
     <string name="pref_adjust_traffic_data">Задаць трафік</string>
     <string name="pref_category_title_other">Дадатковыя налады</string>
@@ -896,7 +897,7 @@ Rolled over extra data"</string>
     <string name="tether_over_limit_dialog_message">Вы дасягнулі ліміту трафіка кропкі доступу.</string>
     <string name="tether_over_limit_dialog_cancle_btn">Скінуць кропку доступу</string>
     <string name="network_traffic_warning_title">Трафік сістэмных праграм</string>
-    <string name="network_traffic_warning_text">"MIUI can't calculate data usage stats for individual system apps here. You will be able to see the data usage related info in the app details in case this app is using mobile data actively."</string>
+    <string name="network_traffic_warning_text">MIUI не можа разлічыць статыстыку трафіка для асобных сістэмных праграм. Вы зможаце ўбачыць інфармацыю пра трафік у звестках аб праграме, калі яна актыўна выкарыстоўвае мабільны інтэрнэт.</string>
     <string name="optimize_manage_title">Павелічэнне хуткасці</string>
     <string name="cpu_usage_android_system">Сістэма Android</string>
     <string name="cpu_usage_process_run_time_little_time">Менш за хвіліну</string>
@@ -958,6 +959,7 @@ Rolled over extra data"</string>
     <string name="om_formatted_percent_string">%s%%</string>
     <string name="om_cpu_usage_warn_title_text">"Гэта праграма можа запаволіць
 працу вашай прылады"</string>
+    <string name="om_memory_clean_memory_info_text">%1$s / %2$s</string>
     <string name="om_ill_proc_handle_unstaill_title">Выдаліць %s?</string>
     <string name="om_ill_proc_handle_uninstall_prompt">Выдаліце ​​праграму, каб вырашыць праблемы з батарэяй.</string>
     <string name="om_ill_proc_type_wakelock_title">Праграма блакуе рэжым сну і разраджае батарэю</string>
@@ -1016,6 +1018,7 @@ Rolled over extra data"</string>
     <string name="usage_type_data_send">Мабільныя дадзеныя адпраўлены</string>
     <string name="usage_type_no_coverage">Час адсутнасці сігналу</string>
     <string name="usage_type_gps">GPS</string>
+    <string name="process_kernel_label">Android</string>
     <string name="process_mediaserver_label">Медыя-сервер</string>
     <string name="power_screen">Экран</string>
     <string name="power_wifi">Wi-Fi</string>
@@ -1362,11 +1365,13 @@ Rolled over extra data"</string>
     <string name="menu_text_optimize_manage">Паскарэнне</string>
     <string name="menu_text_networkassistants">Трафік</string>
     <string name="menu_summary_networkassistants">Кіруйце сваім тарыфам</string>
+    <string name="menu_text_networkassistants_2">%s</string>
     <string name="menu_summary_networkassistants_2">Перавышаны ліміт трафіка</string>
     <string name="menu_summary_networkassistants_3">Трафіка дастаткова</string>
     <string name="menu_summary_networkassistants_4">Трафік заканчваецца</string>
     <string name="menu_text_networkassistants_remain">%s засталося</string>
     <string name="menu_text_networkassistants_danger">перавышана на %s</string>
+    <string name="menu_text_networkassistants_data">%1$s %2$s</string>
     <string name="menu_text_networkassistants_unit_gb">ГБ</string>
     <string name="menu_text_networkassistants_unit_mb">МБ</string>
     <string name="menu_text_networkassistants_unit_kb">КБ</string>
@@ -1379,12 +1384,14 @@ Rolled over extra data"</string>
     <string name="menu_summary_garbage_cleanup">Няма смецця</string>
     <string name="menu_summary_garbage_cleanup_2">Памер смецця</string>
     <string name="menu_summary_garbage_cleanup_3">Ачысціць смецце</string>
+    <string name="menu_text_garbage_cleanup_danger">%s</string>
     <string name="menu_text_power_manager">Выкарыстанне батарэі</string>
     <string name="menu_summary_power_manager">Энергазберажэнне павялічвае час паміж зарадкамі</string>
     <string name="menu_summary_power_manager_1">Батарэя зараджана</string>
     <string name="menu_summary_power_manager_2">Засталося %s</string>
     <string name="menu_summary_power_manager_3">Батарэя разраджана</string>
     <string name="menu_summary_power_manager_4">Да поўнага зараду %s</string>
+    <string name="menu_text_power_percent_title">%s</string>
     <string name="last_check_canceled">Папярэдняя праверка была скасавана</string>
     <string name="examination_score_100">Усё добра!</string>
     <string name="examination_score_80_100">Некалькі рэчаў можна аптымізаваць</string>
@@ -1750,6 +1757,7 @@ Rolled over extra data"</string>
     <string name="card_main_deepclean_wechat_action">Ачысціць</string>
     <string name="card_main_sectool_title">Інструменты</string>
     <string name="card_main_monthreport_action">Прагледзець</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_netcheck_title">Дыягностыка сеткі</string>
     <string name="card_main_netcheck_summary">Пратэстуйце сетку на наяўнасць праблем</string>
     <string name="card_main_netcheck_action">Тэст</string>
@@ -2285,8 +2293,8 @@ Rolled over extra data"</string>
     <string name="gamebox_type_gesture">Правесці для паказу</string>
     <string name="gb_first_window_title">Паскарэнне гульняў</string>
     <string name="gb_first_window_summary">Павялічвайце прадукцыйнасць на сістэмным узроўні</string>
-    <string name="gb_first_window_gamebox_summary_four">Use quick replies, make screen recordings and screenshots</string>
-    <string name="gb_first_window_gamebox_summary_six">Clear cache, make screen recordings and screenshots</string>
+    <string name="gb_first_window_gamebox_summary_four">Выкарыстоўвайце хуткія адказы, рабіце запісы і здымкі экрана</string>
+    <string name="gb_first_window_gamebox_summary_six">Вызваляйце памяць, рабіце запісы і здымкі экрана</string>
     <string name="gb_first_window_handsfree_title">Свабодныя рукі</string>
     <string name="gb_first_window_handsfree_summary">Дынамік уключаецца аўтаматычна</string>
     <string name="gb_first_window_antimsg_title">Зручныя апавяшчэнні</string>

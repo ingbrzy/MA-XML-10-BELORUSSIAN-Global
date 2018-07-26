@@ -23,8 +23,10 @@
     <string name="dialog_alert_title">Увага</string>
     <string name="VideoView_error_text_invalid_progressive_playback">Відэа не падыходзіць для патокавай перадачы на ​​гэту прыладу.</string>
     <string name="selectTextMode">Выбраць тэкст</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="fingerprint_icon_content_description">Значок адбіткаў пальцаў</string>
     <string name="paste_as_plain_text">Уставіць як звычайны тэкст</string>
+    <string name="autofill">Аўтазапаўненне</string>
     <string name="BaMmi">Забарона выкліку</string>
     <string name="CLIRDefaultOffNextCallOff">Налады ідэнтыфікатару АВН па змаўчанні: не абмяжавана. Наступны выклік: не абмежавана</string>
     <string name="CLIRDefaultOffNextCallOn">Па змаўчанні ідэнтыфікатар АВН не абмежаваны. Наступны выклік: абмежаваны</string>
@@ -134,7 +136,6 @@
     <string name="app_running_notification_text">Дакраніцеся, каб атрымаць дадатковую інфармацыю або спыніць праграму.</string>
     <string name="app_running_notification_title">Прыкладанне %1$s працуе</string>
     <string name="app_upgrading_toast">%1$s абнаўляецца…</string>
-    <string name="autofill">Аўтазапаўненне</string>
     <string name="autofill_address_name_separator">" "</string>
     <string name="autofill_address_summary_format">$1$2$3</string>
     <string name="autofill_address_summary_name_format">$1$2$3</string>
@@ -268,10 +269,6 @@
     <string name="deleted_key">Выдалена: %1$s</string>
     <string name="demo_restarting_message">Ідзе скід налад прылады…</string>
     <string name="demo_starting_message">Ідзе запуск дэманстрацыі…</string>
-    <string name="demo_user_inactivity_timeout_countdown">Усе змены будуць страчаны, і дэманстрацыя пачнецца зноў праз %1$s с…</string>
-    <string name="demo_user_inactivity_timeout_left_button">Скасаваць</string>
-    <string name="demo_user_inactivity_timeout_right_button">Выканаць скід</string>
-    <string name="demo_user_inactivity_timeout_title">Скінуць налады прылады?</string>
     <string name="deny">Адмовіць</string>
     <string name="description_target_unlock_tablet">Прагартайце, каб разблакаваць.</string>
     <string name="device_storage_monitor_notification_channel">Сховішча на прыладзе</string>
@@ -291,18 +288,6 @@
     <string name="dump_heap_notification_detail">Быў сабраны дамп кучы; дакраніцеся, каб абагуліць</string>
     <string name="dump_heap_text">Працэс %1$s перавысіў ліміт памяці працэсу %2$s. Дамп дынамічнай вобласці даступны для вас, вы можаце абагуліць яго з распрацоўшчыкам. Будзьце асцярожныя: гэты дамп дынамічнай вобласці можа ўтрымліваць асабістую інфармацыю, да якой маюць доступ праграмы.</string>
     <string name="dump_heap_title">Абагуліць дамп дынамічнай вобласці?</string>
-    <string name="durationDayHour">%1$d дз. %2$d гадз</string>
-    <string name="durationDayHours">%1$d дз. %2$d гадз</string>
-    <string name="durationDays">%1$d сут</string>
-    <string name="durationHourMinute">%1$d гадз %2$d хв</string>
-    <string name="durationHourMinutes">%1$d гадз %2$d хв</string>
-    <string name="durationHours">%1$d гадз</string>
-    <string name="durationMinute">%1$d хвіліна</string>
-    <string name="durationMinuteSecond">%1$d хв %2$d с</string>
-    <string name="durationMinuteSeconds">%1$d хв %2$d с</string>
-    <string name="durationMinutes">%1$d хв</string>
-    <string name="durationSecond">%1$d секунда</string>
-    <string name="durationSeconds">%1$d с</string>
     <string name="editTextMenuTitle">Дзеянні з тэкстам</string>
     <string name="elapsed_time_short_format_h_mm_ss">%1$d:%2$02d:%3$02d</string>
     <string name="elapsed_time_short_format_mm_ss">%1$02d:%2$02d</string>
@@ -382,6 +367,7 @@
     <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
     <string name="fcComplete">"Код аб'екта завершаны."</string>
     <string name="fcError">Праблема падлучэння ці няправільны код функцыі.</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="find">Пошук</string>
     <string name="find_next">Знайсці нiжэй</string>
     <string name="find_on_page">Знайсці на старонцы</string>
@@ -568,6 +554,7 @@
     <string name="kg_reordering_delete_drop_target_text">Выдалiць</string>
     <string name="kg_sim_pin_instructions">Увядзіце PIN-код SIM-карты</string>
     <string name="kg_sim_unlock_progress_dialog_message">Разблакiроўка SIM-карты...</string>
+    <string name="kg_text_message_separator">" — "</string>
     <string name="kg_too_many_failed_attempts_countdown">Паўтарыце спробу праз %1$d с.</string>
     <string name="kg_too_many_failed_password_attempts_dialog_message">"Вы няправільна ўвялі пароль пэўную колькасць разоў: %1$d. 
 
@@ -819,7 +806,6 @@
     <string name="notification_channel_device_admin">Адміністраванне прылады</string>
     <string name="notification_channel_emergency_callback">Рэжым экстраннага зваротнага выкліку</string>
     <string name="notification_channel_foreground_service">Праграмы, якія працуюць у фонавым рэжыме</string>
-    <string name="notification_channel_mobile_data_alert">Абвесткі пра мабільныя даныя</string>
     <string name="notification_channel_network_alert">Абвесткі</string>
     <string name="notification_channel_network_alerts">Абвесткі сеткі</string>
     <string name="notification_channel_network_available">Сетка даступная</string>
@@ -834,9 +820,9 @@
     <string name="notification_channel_voice_mail">Паведамленні галасавой пошты</string>
     <string name="notification_channel_vpn">Стан VPN</string>
     <string name="notification_channel_wfc">Wi-Fi-тэлефанія</string>
-    <string name="notification_hidden_by_policy_text">Змесціва, схаванае ў адпаведнасці з палітыкай</string>
     <string name="notification_hidden_text">Змесціва схавана</string>
     <string name="notification_listener_binding_label">Слухач апавяшчэння</string>
+    <string name="notification_messaging_title_template">%1$s: %2$s</string>
     <string name="notification_ranker_binding_label">Служба ацэнкі важнасці апавяшчэнняў</string>
     <string name="notification_title">Памылка ўваходу ва ўлiковы запiс %1$s</string>
     <string name="notification_work_profile_content_description">Працоўны профіль</string>
@@ -947,8 +933,8 @@
     <string name="permdesc_requestInstallPackages">Дазваляе праграме запытваць усталёўку пакетаў.</string>
     <string name="permdesc_route_media_output">Дазваляе прыкладанням маршрутызаваць мультымедыйны выхад на iншыя знешнiя прылады.</string>
     <string name="permdesc_runInBackground">Гэта праграма можа працаваць у фоне. Гэта можа прывесці да хутчэйшага спажывання зараду акумулятара.</string>
-    <string name="permdesc_sdcardRead">Дазваляе праграме счытваць змесціва вашага USB-сховішча.</string>
-    <string name="permdesc_sdcardWrite">Дазваляе прыкладаням выконваць запіс ва USB-назапашвальнік.</string>
+    <string name="permdesc_sdcardRead">Дазваляе праграме счытваць змесціва вашай SD-карты.</string>
+    <string name="permdesc_sdcardWrite">Дазваляе прыкладанням запісваць на SD-карту.</string>
     <string name="permdesc_sendSms">Дазваляе прыкладанне для адпраўкі SMS паведамленняў. Гэта можа прывесці да нечаканых абвінавачванняў. Шкоднасныя праграмы могуць каштаваць вам грошай на адпраўку паведамленняў без вашага пацвярджэння.</string>
     <string name="permdesc_setAlarm">Дазваляе прыкладанню ўсталёўваць сігнал на ўсталяваным прыкладанні будзільніка. Пэўныя прыкладанні будзільніка не могуць рэалізоўваць гэтую магчымасць.</string>
     <string name="permdesc_setInputCalibration">Дазваляе праграме змяняць параметры каліброўкі сэнсарнага экрана. Ніколі не павінна патрабавацца для звычайных праграм.</string>
@@ -1074,8 +1060,8 @@
     <string name="permlab_requestInstallPackages">запытваць усталёўку пакетаў</string>
     <string name="permlab_route_media_output">накіроўваць вывад мультымедыйнага змесціва</string>
     <string name="permlab_runInBackground">працаваць у фоне</string>
-    <string name="permlab_sdcardRead">чытанне змесціва USB-назапашв.</string>
-    <string name="permlab_sdcardWrite">зм. або выд. змес. USB-назап.</string>
+    <string name="permlab_sdcardRead">чытанне змесціва SD-карты</string>
+    <string name="permlab_sdcardWrite">змяніць або выдаліць змесціва SD-карты</string>
     <string name="permlab_sendSms">адпраўляць і праглядаць SMS-паведамленні</string>
     <string name="permlab_setAlarm">усталёўка сігналу</string>
     <string name="permlab_setInputCalibration">змена каліброўкі прылады ўводу</string>
@@ -1163,7 +1149,7 @@
     <string name="print_service_installed_title">Усталявана служба %s</string>
     <string name="profile_encrypted_detail">Рабочы профіль заблакіраваны</string>
     <string name="profile_encrypted_message">Кран., каб разбл. раб. профіль</string>
-    <string name="progress_erasing">Выдаленне дадзеных з USB-назапашвальнiка...</string>
+    <string name="progress_erasing">Выдаленне дадзеных з SD-карты...</string>
     <string name="quick_contacts_not_available">Адсутнічае праграма для прагляду гэтага кантакту.</string>
     <string name="reason_service_unavailable">Служба друку не ўключана</string>
     <string name="reason_unknown">невядома</string>
@@ -1197,8 +1183,6 @@
     <string name="replace">Замяніць...</string>
     <string name="report">Справаздача</string>
     <string name="reset">Скінуць</string>
-    <string name="reset_retail_demo_mode_text">Дакраніцеся, каб скінуць налады прылады</string>
-    <string name="reset_retail_demo_mode_title">Скінуць налады прылады?</string>
     <string name="restr_pin_confirm_pin">Пацвердзіць новы PIN-код</string>
     <string name="restr_pin_create_pin">Стварыць PIN-код для абмежавання змянення</string>
     <string name="restr_pin_enter_admin_pin">Увядзіце PIN-код адміністратара</string>
@@ -1351,7 +1335,6 @@
     <string name="system_error_manufacturer">На вашай прыладзе ўзнікла ўнутраная праблема. Для атрымання дадатковай інфармацыі звярніцеся да вытворцы.</string>
     <string name="system_error_wipe_data">На вашай прыладзе ўзнікла ўнутраная праблема, і яна можа працаваць нестабільна, пакуль вы не зробіце скід да заводскіх налад.</string>
     <string name="taking_remote_bugreport_notification_title">Стварэнне справаздачы пра памылку…</string>
-    <string name="terabyteShort">Тб</string>
     <string name="tethered_notification_message">Дакраніцеся, каб наладзіць.</string>
     <string name="tethered_notification_title">USB-мадэм або кропка доступу Wi-Fi актыўныя</string>
     <string name="textSelectionCABTitle">Вылучэнне тэксту</string>
@@ -1501,5 +1484,27 @@
     <string name="zen_mode_feature_name">Не турбаваць</string>
     <string name="zen_mode_forever">Пакуль вы не выключыце рэжым \"Не турбаваць\"</string>
     <string name="zen_mode_forever_dnd">Пакуль вы не выключыце рэжым «Не турбаваць»</string>
+    <string name="zen_mode_rule_name_combination">%1$s / %2$s</string>
     <string name="zen_mode_until">Да %1$s</string>
+    <string name="demo_user_inactivity_timeout_countdown">Усе змены будуць страчаны, і дэманстрацыя пачнецца зноў праз %1$s с…</string>
+    <string name="demo_user_inactivity_timeout_left_button">Скасаваць</string>
+    <string name="demo_user_inactivity_timeout_right_button">Выканаць скід</string>
+    <string name="demo_user_inactivity_timeout_title">Скінуць налады прылады?</string>
+    <string name="durationDayHour">%1$d дз. %2$d гадз</string>
+    <string name="durationDayHours">%1$d дз. %2$d гадз</string>
+    <string name="durationDays">%1$d сут</string>
+    <string name="durationHourMinute">%1$d гадз %2$d хв</string>
+    <string name="durationHourMinutes">%1$d гадз %2$d хв</string>
+    <string name="durationHours">%1$d гадз</string>
+    <string name="durationMinute">%1$d хвіліна</string>
+    <string name="durationMinuteSecond">%1$d хв %2$d с</string>
+    <string name="durationMinuteSeconds">%1$d хв %2$d с</string>
+    <string name="durationMinutes">%1$d хв</string>
+    <string name="durationSecond">%1$d секунда</string>
+    <string name="durationSeconds">%1$d с</string>
+    <string name="notification_channel_mobile_data_alert">Абвесткі пра мабільныя даныя</string>
+    <string name="notification_hidden_by_policy_text">Змесціва, схаванае ў адпаведнасці з палітыкай</string>
+    <string name="reset_retail_demo_mode_text">Дакраніцеся, каб скінуць налады прылады</string>
+    <string name="reset_retail_demo_mode_title">Скінуць налады прылады?</string>
+    <string name="terabyteShort">Тб</string>
 </resources>

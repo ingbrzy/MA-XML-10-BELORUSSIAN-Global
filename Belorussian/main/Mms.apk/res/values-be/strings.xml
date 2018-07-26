@@ -193,6 +193,7 @@
     <string name="file_size">Памер:</string>
     <string name="file_title">Імя:</string>
     <string name="file_width_height">Памер:</string>
+    <string name="flatshow_page_no">%1$d</string>
     <string name="force_touch_new_message_title">Новае паведамленне</string>
     <string name="forward_from">Ад:</string>
     <string name="forward_prefix">"Ад: "</string>
@@ -361,8 +362,6 @@
     <string name="no_subject_view">(Без тэмы)</string>
     <string name="non_english_subject_limit">Не больш за 13 сімвалаў</string>
     <string name="nosend_message">Не адпраўленна</string>
-    <string name="notification_channel_description">Notifications from Messaging</string>
-    <string name="notification_channel_name">Messaging</string>
     <string name="notification_copy">Copy OTP</string>
     <string name="notification_failed_multiple">Не адпраўлена паведамленняў: %s</string>
     <string name="notification_failed_multiple_title">Паведамленні не адпраўлены</string>
@@ -544,6 +543,7 @@
     <string name="send_signature_confirm_dialog_title">Адпраўка паведамленні</string>
     <string name="send_sms">Адправіць паведамленне</string>
     <string name="send_to">Каму:</string>
+    <string name="send_to_index_contact">%1$s/%2$s</string>
     <string name="sent_at_time">Адпраўлена: %1s</string>
     <string name="sent_label">Адпраўленна:</string>
     <string name="service_message_not_found">Тэрмін дзеяння паведамлення скончыўся ці яно недасяжнае</string>
@@ -675,4 +675,6 @@
     <string name="wild_msg_title">Выберыце тэлефон для сінхранізацыі</string>
     <string name="yes">ОК</string>
     <string name="yesterday">Учора</string>
+    <string name="notification_channel_description">Notifications from Messaging</string>
+    <string name="notification_channel_name">Messaging</string>
 </resources>

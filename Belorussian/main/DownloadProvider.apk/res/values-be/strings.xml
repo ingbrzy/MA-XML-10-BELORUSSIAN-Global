@@ -11,7 +11,7 @@
     <string name="permdesc_downloadManagerAdvanced">Дазваляе праграме атрымліваць доступ да пашыраных функцый дыспетчара спамповак. Шкоднасныя праграмы могуць выкарыстоўваць гэта для доступу да асабістай інфармацыі.</string>
     <string name="permlab_downloadCompletedIntent">Адпраўляць апавяшчэнні аб спампаванні.</string>
     <string name="permdesc_downloadCompletedIntent">Дазваляе праграме адпраўляць апавяшчэнні аб завершаных спампоўках. Шкоднасныя праграмы могуць выкарыстоўваць гэта для падману іншых праграм, якія пампуюць файлы.</string>
-    <string name="permlab_seeAllExternal">Прагляд спамповак на USB-сховішчы</string>
+    <string name="permlab_seeAllExternal">Прагляд спамповак на SD-карце</string>
     <string name="permdesc_seeAllExternal">Дазваляе праграме праглядаць усе спампоўкі на знешнім сховішчы незалежна ад таго, якая праграма іх спампавала.</string>
     <string name="permlab_downloadCacheNonPurgeable">Рэзерваванне месца ў кэшы спамповак</string>
     <string name="permdesc_downloadCacheNonPurgeable">Дазваляе праграме пампаваць файлы ў кэш спамповак, які не можа быць аўтаматычна выдалены адміністратарам спамповак для вызвалення месца.</string>

@@ -11,7 +11,7 @@
     <string name="the_following_is_your_mdm">Наступнай праграме спатрэбіцца доступ да гэтага профілю:</string>
     <string name="the_following_is_your_mdm_for_device">Наступная праграма будзе кіраваць вашай прыладай:</string>
     <string name="next">Далей</string>
-    <string name="setting_up_workspace">Наладжванне працоўнага профілю...</string>
+    <string name="setting_up_workspace">Ідзе наладжванне працоўнага профілю…</string>
     <string name="admin_has_ability_to_monitor_profile">У вашага адміністратара ёсць магчымасць маніторынгу і адміністравання налад, карпаратыўнага доступу, праграм, дазволаў і даных, звязаных з гэтым профілем, у тым ліку інфармацыі пра вашу сеткавую актыўнасць, а таксама месцазнаходжанне прылады, гісторыю выклікаў і гісторыю пошуку кантактаў.&lt;br>&lt;br>Звярніцеся да свайго адміністратара для атрымання дадатковай інфармацыі, у тым ліку палітыкі прыватнасці вашай арганізацыі.</string>
     <string name="admin_has_ability_to_monitor_device">У вашага адміністратара ёсць магчымасць маніторынгу і адміністравання налад, карпаратыўнага доступу, праграм, дазволаў і даных, звязаных з гэтай прыладай, у тым ліку інфармацыі пра вашу сеткавую актыўнасць, а таксама месцазнаходжанне прылады, гісторыю выклікаў і гісторыю пошуку кантактаў.&lt;br>&lt;br>Звярніцеся да свайго адміністратара для атрымання дадатковай інфармацыі, у тым ліку палітыкі прыватнасці вашай арганізацыі.</string>
     <string name="theft_protection_disabled_warning">Для выкарыстання функцыі абароны ад крадзяжу вы павінны мець абароненую паролем блакіроўку экрана вашай прылады.</string>
@@ -27,7 +27,7 @@
     <string name="default_managed_profile_name">Працоўны профіль</string>
     <string name="default_first_meat_user_name">Асноўны карыстальнік</string>
     <string name="delete_profile_title">Выдаліць існы профіль?</string>
-    <string name="opening_paragraph_delete_profile">У вас ужо ёсць працоўны профіль, які знаходзіцца пад кіраваннем з выкарыстаннем наступнай праграмы:</string>
+    <string name="opening_paragraph_delete_profile">У вас ужо ёсць працоўны профіль. Ён знаходзіцца пад кіраваннем з выкарыстаннем наступнай праграмы:</string>
     <string name="read_more_delete_profile">Перш чым працягнуць, <a href="#read_this_link">прачытайце гэта</a>.</string>
     <string name="sure_you_want_to_delete_profile">Калі вы працягнеце, усе праграмы і даныя ў гэтым профілі будуць выдалены.</string>
     <string name="delete_profile">Выдаліць</string>
@@ -40,17 +40,15 @@
     <string name="continue_provisioning_notify_text">Краніце, каб працягнуць наладжванне рабочага профілю</string>
     <string name="managed_provisioning_error_text">Не атрымалася наладзіць ваш працоўны профіль. Звярніцеся ў аддзел ІТ або паўтарыце спробу пазней.</string>
     <string name="cant_add_work_profile">Немагчыма дадаць працоўны профіль</string>
-    <string name="user_cant_have_work_profile_contact_admin">Гэты карыстальнік не можа мець працоўны профіль. Звярніцеся да адміністратара па дапамогу.</string>
-    <string name="user_cannot_have_work_profiles_contact_admin">Гэты карыстальнік не можа мець працоўныя профілі. Звярніцеся да адміністратара.</string>
-    <string name="device_owner_exists">Працоўныя профілі нельга наладзіць на кіраванай прыладзе</string>
-    <string name="too_many_users_on_device_remove_user_try_again">На гэтай прыладзе можа быць занадта шмат карыстальнікаў. Выдаліце карыстальніка і паўтарыце спробу.</string>
+    <string name="cant_replace_or_remove_work_profile">Немагчыма замяніць ці выдаліць працоўны профіль</string>
+    <string name="work_profile_cant_be_added_contact_admin">На гэту прыладу немагчыма дадаць працоўны профіль. Калі ў вас ёсць пытанні, звярніцеся да адміністратара.</string>
     <string name="change_device_launcher">Змяніце праграму запуску на прыладзе</string>
     <string name="launcher_app_cant_be_used_by_work_profile">Гэту праграму запуску немагчыма выкарыстоўваць у вашым працоўным профілі</string>
     <string name="cancel_provisioning">Скасаваць</string>
     <string name="pick_launcher">ОК</string>
     <string name="user_setup_incomplete">Наладжванне карыстальніка не завершана</string>
     <string name="default_owned_device_username">Карыстальнік працоўнай прылады</string>
-    <string name="setup_work_device">Наладжванне працоўнай прылады</string>
+    <string name="setup_work_device">Ідзе наладжванне працоўнай прылады…</string>
     <string name="progress_data_process">Апрацоўка даных наладжвання...</string>
     <string name="progress_connect_to_wifi">Падлучэнне да Wi-Fi...</string>
     <string name="progress_download">Спампоўка праграмы для адміністравання...</string>
@@ -118,6 +116,7 @@
     <string name="comp_profile_benefits_description">Выкарыстоўваючы працоўны профіль працы, вы можаце захоўваць свае працоўныя праграмы ў адным месцы</string>
     <string name="setup_profile_encryption">Наладжванне профілю. Шыфраванне</string>
     <string name="setup_profile_progress">Наладжванне профілю. Паказ ходу выканання</string>
+    <string name="setup_device">Наладжванне прылады</string>
     <string name="setup_device_encryption">Наладжванне прылады. Шыфраванне</string>
     <string name="setup_device_progress">Наладжванне прылады. Паказ ходу выканання</string>
     <string name="learn_more_label">Кнопка «Даведацца больш»</string>

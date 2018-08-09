@@ -52,6 +52,7 @@
     <string name="accessibility_camera_button">Камера</string>
     <string name="accessibility_carrier_network_change_mode">Змена сеткі аператара.</string>
     <string name="accessibility_cast_name">Падлучана да %s.</string>
+    <string name="accessibility_casting">@string/quick_settings_casting</string>
     <string name="accessibility_casting_turned_off">Трансляцыя экрана была спынена.</string>
     <string name="accessibility_cell_data">Мабільны інтэрнэт</string>
     <string name="accessibility_cell_data_off">Мабільны інтэрнэт адключаны</string>
@@ -78,7 +79,7 @@
     <string name="accessibility_data_signal_full">Сігнал перадачы дадзеных: самы лепшы.</string>
     <string name="accessibility_data_three_bars">Сігнал перадачы дадзеных: тры дзялення.</string>
     <string name="accessibility_data_two_bars">Сігнал перадачы дадзеных: два дзялення.</string>
-    <string name="accessibility_desc_close">Зачыніць</string>
+    <string name="accessibility_desc_close">Закрыць</string>
     <string name="accessibility_desc_connected">Злучана.</string>
     <string name="accessibility_desc_connecting">Злучэнне.</string>
     <string name="accessibility_desc_lock_screen">Экран блакавання.</string>
@@ -103,7 +104,7 @@
     <string name="accessibility_home">Дадому</string>
     <string name="accessibility_ime_switch_button">Пераключыце спосаб уводу.</string>
     <string name="accessibility_key">Карыстальніцкая кнопка навігацыі</string>
-    <string name="accessibility_left_button">ярлык</string>
+    <string name="accessibility_left_button">Ярлык</string>
     <string name="accessibility_location_active">Пошук месцазнаходжання актыўны</string>
     <string name="accessibility_managed_profile">Працоўны профіль</string>
     <string name="accessibility_menu">Меню</string>
@@ -144,6 +145,7 @@
     <string name="accessibility_quick_settings_airplane_off">Рэжым палёту выключаны.</string>
     <string name="accessibility_quick_settings_airplane_on">Рэжым палёту ўключаны.</string>
     <string name="accessibility_quick_settings_alarm">Будзільнік усталяваны на %s.</string>
+    <string name="accessibility_quick_settings_alarm_on">Будзільнік уключаны.</string>
     <string name="accessibility_quick_settings_alarm_set">Будзільнік усталяваны.</string>
     <string name="accessibility_quick_settings_battery">Батарэя %s.</string>
     <string name="accessibility_quick_settings_bluetooth">Bluetooth.</string>
@@ -151,9 +153,10 @@
     <string name="accessibility_quick_settings_bluetooth_changed_on">Bluetooth уключаны.</string>
     <string name="accessibility_quick_settings_bluetooth_connected">Bluetooth падлучаны.</string>
     <string name="accessibility_quick_settings_bluetooth_connecting">Злучэнне з Bluetooth.</string>
+    <string name="accessibility_quick_settings_bluetooth_handsfree_battery_level">Зарад батарэі прылады Bluetooth у працэнтах: %d.</string>
     <string name="accessibility_quick_settings_bluetooth_off">Bluetooth выключаны.</string>
     <string name="accessibility_quick_settings_bluetooth_on">Bluetooth уключаны.</string>
-    <string name="accessibility_quick_settings_close">Зачыніць панэль.</string>
+    <string name="accessibility_quick_settings_close">Закрыць панэль.</string>
     <string name="accessibility_quick_settings_collapse">Закрыць быстрыя налады.</string>
     <string name="accessibility_quick_settings_color_inversion_changed_off">Інверсія колеру адключана.</string>
     <string name="accessibility_quick_settings_color_inversion_changed_on">Інверсія колеру ўключана.</string>
@@ -199,7 +202,7 @@
     <string name="accessibility_quick_settings_work_mode_off">Рабочы рэжым адкл.</string>
     <string name="accessibility_quick_settings_work_mode_on">Рабочы рэжым укл.</string>
     <string name="accessibility_recent">Агляд</string>
-    <string name="accessibility_recent_task_exit">Нядаўнія зачынены</string>
+    <string name="accessibility_recent_task_exit">Нядаўнія закрыты</string>
     <string name="accessibility_recent_task_locked">Прычэплена, правядзіце ўніз, каб адчапіць.</string>
     <string name="accessibility_recent_task_locked_state">Заблакавана</string>
     <string name="accessibility_recent_task_memory_info">"Агульны аб'ём аператыўнай памяці: %2$s | З іх даступна: %1$s. Націсніце двойчы, каб ачысціць."</string>
@@ -225,8 +228,8 @@
     <string name="accessibility_settings">Налады</string>
     <string name="accessibility_settings_button">Сістэмныя налады.</string>
     <string name="accessibility_signal_full">Поўны сігнал.</string>
-    <string name="accessibility_splite_screen_primary">Added as the primary app in Split screen</string>
-    <string name="accessibility_splite_screen_secondary">Added as the secondary app in Split screen</string>
+    <string name="accessibility_splite_screen_primary">Дададзена, як асноўная праграма для падзеленага экрана</string>
+    <string name="accessibility_splite_screen_secondary">Дададзена, як дадатковая праграма для падзеленага экрана</string>
     <string name="accessibility_status_bar_headphones">Злучана з навушнікамі</string>
     <string name="accessibility_status_bar_headset">Гарнітура падлучана</string>
     <string name="accessibility_status_bar_hotspot">Пункт доступу</string>
@@ -274,7 +277,7 @@
     <string name="apn_settings_not_available">Гэты карыстальнік не можа змяніць налады пункта доступу</string>
     <string name="app_info">Аб праграме</string>
     <string name="app_label">Інтэрфейс</string>
-    <string name="app_name">Блакаванне</string>
+    <string name="app_name">Экран блакавання</string>
     <string name="app_process_limit_title">Абмяжоўваць фонавыя працэсы</string>
     <string name="as_important">Важнае</string>
     <string name="as_unimportant">Няважнае</string>
@@ -453,7 +456,7 @@
     <string name="daltonizer_type_overridden">Перазапісана %1$s</string>
     <string name="data_connection_no_internet">Няма злучэння з інтэрнэтам</string>
     <string name="data_saver">Эканомія трафіку</string>
-    <string name="data_saver_description">To help reduce data usage, Data Saver prevents some apps from sending or receiving data in the background. An app you’re currently using can access data, but may do so less frequently. This may mean, for example, that images don’t display until you tap them.</string>
+    <string name="data_saver_description">Для эканоміі трафіку гэтая функцыя не дазваляе некаторым праграмам адпраўляць або атрымліваць дадзеныя ў фонавым рэжыме. Праграма звяртацца да дадзеных, але будзе рабіць гэта радзей. Гэта можа азначаць, напрыклад, што выявы не будуць адлюстроўвацца, пакуль вы не націснеце на іх.</string>
     <string name="data_saver_enable_button">Уключыць</string>
     <string name="data_saver_enable_title">Уключыць эканомію трафіку?</string>
     <string name="data_usage_disabled_dialog">"Ліміт дадзеных дасягнуты. Вы больш не выкарыстоўваеце мабільныя дадзеныя.
@@ -510,7 +513,7 @@
     <string name="disabled_by_admin_summary_text">Кантралюецца адміністратарам</string>
     <string name="disconnect_vpn">Адлучыць VPN</string>
     <string name="dismount_storage">Толькі зарадка</string>
-    <string name="divider_menu_close">Зачыніць</string>
+    <string name="divider_menu_close">Закрыць</string>
     <string name="divider_menu_select_apps">Выбраць</string>
     <string name="divider_menu_swap_task">Замяніць</string>
     <string name="dlg_confirm_kill_storage_users_text">Пры ўключэнне USB сховішча, некаторыя праграмы могуць быць спынены і могуць быць недаступныя да адключэння USB сховішча.</string>
@@ -713,6 +716,7 @@
     <string name="incorrect_pukcode">Няправільны PUK-код</string>
     <string name="input_password_after_boot_msg">Для разблакавання прылады ўвядзіце пароль</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_calling">Немагчыма пераключацца паміж прасторамі падчас выкліку</string>
+    <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">Нельга пераходзіць паміж прасторамі пры ўключаным бацькоўскім кантролі</string>
     <string name="input_password_after_boot_msg_must_enter_owner_space">Пасля перазагрузкі прылады вам неабходна ўвайсці ў першую прастору</string>
     <string name="input_password_handle_sdcard_fs">Немагчыма ўвайсці ў Другую прастору з экрана блакіроўкі. Увайдзіце з Першай прасторы.</string>
     <string name="input_password_hint_text">Увядзіце пароль</string>
@@ -790,10 +794,14 @@
     <string name="keyguard_accessibility_pin_area">Вобласць уводу PIN-кода</string>
     <string name="keyguard_accessibility_sim_pin_area">Вобласць уводу PIN-кода SIM-карты</string>
     <string name="keyguard_accessibility_sim_puk_area">Вобласць уводу PUK-кода SIM-карты</string>
-    <string name="keyguard_carrier_default">Няма сеткі.</string>
+    <string name="keyguard_carrier_default">Няма сеткі</string>
     <string name="keyguard_charged">Зараджана</string>
     <string name="keyguard_charging_info_battery_used_time_text">Праца ад батарэі</string>
     <string name="keyguard_charging_info_click_to_detail">Падрабязнасці</string>
+    <string name="keyguard_charging_info_data_c">%s℃</string>
+    <string name="keyguard_charging_info_data_ma">%s mA</string>
+    <string name="keyguard_charging_info_data_percent">%s%%</string>
+    <string name="keyguard_charging_info_data_v">%sV</string>
     <string name="keyguard_charging_info_drained_power_percent_text">Спажыванне зараду</string>
     <string name="keyguard_charging_info_last_charge_time">dd.MM H:mm</string>
     <string name="keyguard_charging_info_last_charge_today_time">Сёння %s</string>
@@ -803,7 +811,7 @@
     <string name="keyguard_charging_info_tip_text2">Не трымай прыладу доўга пад зарадкаю. Некалькі кароткіх зарадак лепш, чым адна доўгая ўначы.</string>
     <string name="keyguard_charging_info_tip_text3">Пазбягайце зарадкі прылады пры тэмпературах ніжэй за 0℃.</string>
     <string name="keyguard_charging_info_tip_text4">Не выкарыстоўвайце актыўна прыладу пры зарадцы, каб пазбегнуць перагравання.</string>
-    <string name="keyguard_charging_info_tip_text5">Батарэя будзе зараджацца даўжэй пры павышанай тэмпературы.</string>
+    <string name="keyguard_charging_info_tip_text5">Батарэі зараджаюцца павольней, калі яны нагрэтыя.</string>
     <string name="keyguard_charging_info_tip_text6">Выключыце экран і адкладзіце прыладу ўбок, каб яна астыла.</string>
     <string name="keyguard_indication_charging_time">Зарадка (%s да поўнага зараду)</string>
     <string name="keyguard_indication_charging_time_fast">Хуткая зарадка (%s да поўнага зараду)</string>
@@ -817,10 +825,11 @@
     <string name="keyguard_missing_sim_instructions_long">SIM-карта адсутнічае або не чытаецца. Устаўце SIM-карту.</string>
     <string name="keyguard_missing_sim_message">У тэлефоне няма SIM-карты.</string>
     <string name="keyguard_missing_sim_message_short">Няма SIM-карты</string>
+    <string name="keyguard_more_overflow_text">+%d</string>
     <string name="keyguard_network_locked_message">Сетка заблакавана</string>
-    <string name="keyguard_password_enter_password_code">Увядзіце пароль</string>
+    <string name="keyguard_password_enter_password_code">Увядзіце пароль для разблакавання</string>
     <string name="keyguard_password_enter_pin_code">Увядзіце PIN-код</string>
-    <string name="keyguard_password_enter_pin_password_code">Увядзіце PIN-код</string>
+    <string name="keyguard_password_enter_pin_password_code">Увядзіце PIN-код для разблакавання</string>
     <string name="keyguard_password_enter_pin_prompt">Новы PIN-код SIM-карты</string>
     <string name="keyguard_password_enter_puk_code">Увядзіце PUK-код SIM-карты і новы PIN</string>
     <string name="keyguard_password_enter_puk_prompt">PUK-код SIM-карты</string>
@@ -838,7 +847,7 @@
     <string name="keyguard_sim_unlock_progress_dialog_message">Разблакаванне SIM-карты…</string>
     <string name="keyguard_torch_cover_text">Каб ліхтарык быў уключаным, трымайце кнопку сілкавання</string>
     <string name="keyguard_unlock">Правядзіце ўверх для разблакавання</string>
-    <string name="kg_enter_confirm_pin_hint">Пацвердзіце пажаданы PIN-код</string>
+    <string name="kg_enter_confirm_pin_hint">Пацвердзіце новы PIN-код</string>
     <string name="kg_failed_attempts_almost_at_erase_profile">Вы зрабілі %1$d памылковых спроб разблакавання. Пасля яшчэ %2$dпамылковых спроб, з тэлефона будуць выдалены ўсе дадзеныя і скінуты налады да значэнняў па змаўчанні.</string>
     <string name="kg_failed_attempts_almost_at_erase_user">Вы зрабілі %1$d памылковых спроб разблакавання. Пасля яшчэ %2$dпамылковых спроб, з тэлефона будуць выдалены ўсе дадзеныя і скінуты налады да значэнняў па змаўчанні.</string>
     <string name="kg_failed_attempts_almost_at_login">"Вы ўвялі няправільны графічны ключ %1$d раз(оў). Пасля %2$d няўдалых спроб уводу, вам будзе прапанавана разблакаваць прыладу праз электронную пошту.
@@ -848,19 +857,19 @@
     <string name="kg_failed_attempts_now_erasing_profile">Вы зрабілі %d памылковых спроб разблакавання. Налады будуць скінуты да значэнняў па змаўчанні.</string>
     <string name="kg_failed_attempts_now_erasing_user">Вы зрабілі %d памылковых спроб разблакавання. Налады будуць скінуты да значэнняў па змаўчанні.</string>
     <string name="kg_failed_attempts_now_wiping">Вы зрабілі %d памылковых спроб разблакавання. Налады будуць скінуты да значэнняў па змаўчанні.</string>
-    <string name="kg_forgot_pattern_button_text">Забылі ключ?</string>
+    <string name="kg_forgot_pattern_button_text">Забылі ключ</string>
     <string name="kg_invalid_confirm_pin_hint">PIN-коды не супадаюць</string>
-    <string name="kg_invalid_puk">Увядзіце правільны PUK-код. Пасля некалькіх няўдалых спроб SIM-карта была заблакавана.</string>
+    <string name="kg_invalid_puk">Увядзіце правільны PUK-код. Пасля некалькіх няўдалых спроб SIM-карта будзе заблакавана.</string>
     <string name="kg_invalid_sim_pin_hint">У PIN павінна быць ад 4 да 8 лічбаў.</string>
     <string name="kg_invalid_sim_puk_hint">PUK-код павінен змяшчаць не меней за 8 лічбаў.</string>
     <string name="kg_login_too_many_attempts">Зашмат папытак уводу</string>
     <string name="kg_password_instructions">Увядзіце пароль</string>
-    <string name="kg_password_pin_failed">Памылка аперацыі PIN SIM-карты!</string>
-    <string name="kg_password_puk_failed">Памылка аперацыі PUK SIM-карты!</string>
-    <string name="kg_password_wrong_pin_code_pukked">Няправільны PIN-код. Для разблакавання SIM-карты звярніцеся да аператара сувязі.</string>
+    <string name="kg_password_pin_failed">Не атрымалася разблакаваць SIM-карту з дапамогай PIN-кода</string>
+    <string name="kg_password_puk_failed">Не атрымалася разблакаваць SIM-карту з дапамогай PUK-кода</string>
+    <string name="kg_password_wrong_pin_code_pukked">PIN-код SIM-карты няправільны. Звярніцеся да аператара сувязі, каб разблакаваць прыладу.</string>
     <string name="kg_password_wrong_puk_code_dead">SIM-карта заблакавана назаўжды. Звярніцеся да аператара сувязі.</string>
     <string name="kg_pattern_instructions">Задайце графічны ключ</string>
-    <string name="kg_pin_accepted">Код прыняты!</string>
+    <string name="kg_pin_accepted">Код прыняты</string>
     <string name="kg_pin_instructions">Увядзіце PIN-код</string>
     <string name="kg_prompt_reason_device_admin">Прылада заблакавана адміністратарам</string>
     <string name="kg_prompt_reason_restart_password">Увядзіце пароль</string>
@@ -873,7 +882,7 @@
     <string name="kg_prompt_reason_timeout_pattern">Для дадатковай бяспекі неабходна ўвесці графічны ключ</string>
     <string name="kg_prompt_reason_timeout_pin">Для дадатковай бяспекі неабходна ўвесці PIN-код</string>
     <string name="kg_prompt_reason_user_request">Прылада заблакавана ўручную</string>
-    <string name="kg_puk_enter_pin_hint">Увядзіце пажаданы PIN-код</string>
+    <string name="kg_puk_enter_pin_hint">Увядзіце новы PIN-код</string>
     <string name="kg_puk_enter_puk_hint">SIM-карта заблакавана. Каб працягнуць, увядзіце PUK-код. За падрабязнай інфармацыяй звярніцеся да свайго аператара сувязі.</string>
     <string name="kg_puk_enter_puk_hint_multi">SIM-карта \"%1$s\" заблакавана. Каб працягнуць, увядзіце PUK-код. За падрабязнай інфармацыяй звярніцеся да свайго аператара сувязі.</string>
     <string name="kg_sim_pin_instructions">Увядзіце PIN-код SIM-карты</string>
@@ -900,14 +909,15 @@
     <string name="left_keycode">Код левай кнопкі</string>
     <string name="left_nav_bar_button_type">Дадатковы тып левай кнопкі</string>
     <string name="legacy_vpn_name">VPN</string>
+    <string name="list_delimeter">", "</string>
     <string name="local_backup_password_summary_change">Націсніце, каб змяніць ці выдаліць пароль</string>
     <string name="local_backup_password_summary_none">Поўныя рэзервовыя копіі галоўнага экрана не абаронены</string>
     <string name="local_backup_password_title">Пароль для рэзервовых копій пачатковага экрана</string>
     <string name="local_backup_password_toast_confirmation_mismatch">Паролі не супадаюць</string>
     <string name="local_backup_password_toast_success">Новы пароль ад рэзервовых копій усталяваны</string>
     <string name="local_backup_password_toast_validation_failure">Не атрымалася ўсталяваць пароль для рэзервовай копіі</string>
-    <string name="lock_screen_date">EEEE, MMMM d</string>
-    <string name="lock_screen_date_12">EEEE, MMMM d</string>
+    <string name="lock_screen_date">EEEE, d MMMM</string>
+    <string name="lock_screen_date_12">EEEE, d MMMM</string>
     <string name="lock_screen_no_sim_card">Няма SIM-карты</string>
     <string name="lock_wallpaper_enter">Увайсці</string>
     <string name="lock_wallpaper_learn_more">Больш</string>
@@ -927,8 +937,7 @@
     <string name="lockscreen_none">Адсутнічае</string>
     <string name="lockscreen_shortcut_left">Левы ярлык</string>
     <string name="lockscreen_shortcut_right">Правы ярлык</string>
-    <string name="lockscreen_sim_error_message_short">SIM-карта нядзейсная.</string>
-    <string name="lockscreen_storage_locked">Разблакуйце для доступу да ўсіх функцый</string>
+    <string name="lockscreen_sim_error_message_short">SIM-карта несапраўдная.</string>
     <string name="lockscreen_unlock_left">Левы ярлык таксама разблакаваны</string>
     <string name="lockscreen_unlock_right">Правы ярлык таксама разблакаваны</string>
     <string name="long_screenshot_not_support_msg">Гэтая праграма не падтрымлівае пашыраныя здымкі экрана</string>
@@ -962,6 +971,7 @@
     <string name="miui_guide_dialog_message">Гукі медыя (музыка, відэа і г. д.) будуць прайгравацца ў рэжыме \"Без гуку\". Вы можаце змяніць гэта ў Наладах.</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">Разблакіравана Bluetooth прыладай</string>
     <string name="miui_ringer_count_down">Зваротны адлік</string>
+    <string name="miui_ringer_count_down_time">%s</string>
     <string name="miui_ringer_standard">Без гуку</string>
     <string name="miui_ringer_standard_description">Адключэнне гуку для ўваходных выклікаў і апавяшчэнняў</string>
     <string name="miui_ringer_total">Не турбаваць</string>
@@ -988,12 +998,14 @@
 
 За больш падрабязнай інфармацыяй звяртайцеся да адмінісратара."</string>
     <string name="monitoring_description_ca_cert_settings">Адкрытыя надзейныя ўліковыя дадзеныя</string>
+    <string name="monitoring_description_ca_cert_settings_separator">" "</string>
     <string name="monitoring_description_ca_certificate">На прыладзе ўсталяваны цэнтр сертыфікацыі. Ваш абаронены сеткавы трафік могуць праглядаць ці змяняць.</string>
     <string name="monitoring_description_do_body">Ваш адміністратар можа адсочваць і кіраваць наладамі, карпаратыўным доступам, праграмамі, дадзенымі, звязанымі з вашай прыладай, і інфармацыяй пра месцазнаходжанне вашай прылады.</string>
     <string name="monitoring_description_do_body_vpn">Вы падлучаныя да праграмы %1$s, якая можа адсочваць вашыя дзеянні ў сетцы, у тым ліку працу з электроннай поштай, праграмамі і сайтамі.</string>
     <string name="monitoring_description_do_header_generic">Ваша прылада кіруецца %1$s.</string>
     <string name="monitoring_description_do_header_with_name">%1$s выкарыстоўвае %2$s, каб кіраваць вашай прыладай.</string>
     <string name="monitoring_description_do_learn_more">Даведацца больш</string>
+    <string name="monitoring_description_do_learn_more_separator">" "</string>
     <string name="monitoring_description_managed_profile_ca_certificate">Ваша арганізацыя ўсталявала ў працоўным профілі цэнтр сертыфікацыі. Ваш абаронены сеткавы трафік могуць праглядаць ці змяняць.</string>
     <string name="monitoring_description_managed_profile_named_vpn">Ваш працоўны профіль падлучаны да прыстасавання %1$s, якое можа адсочваць вашыя дзеянні ў сетцы, у тым ліку працу з электроннай поштай, прыстасаваннямі і сайтамі.</string>
     <string name="monitoring_description_management">"Вашай прыладай кіруе арганізацыя.
@@ -1025,6 +1037,7 @@
 
 Вы таксама падлучаны да VPN, які можа кантраляваць сеткавую актыўнасць."</string>
     <string name="monitoring_description_vpn_settings">Адчыніць налады VPN</string>
+    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_subtitle_ca_certificate">Сертыфікат CA</string>
     <string name="monitoring_subtitle_network_logging">Сеткавы журнал</string>
     <string name="monitoring_subtitle_vpn">VPN</string>
@@ -1039,6 +1052,7 @@
     <string name="nav_guide_message">Выкарыстоўвайце жэсты, каб схаваць/паказаць наэкранныя кнопкі.</string>
     <string name="nav_guide_ok">Наладзіць</string>
     <string name="nav_guide_title">Схаваць наэкранныя кнопкі</string>
+    <string name="network_speed_suffix">%1$s%2$s</string>
     <string name="no_application">Нічога</string>
     <string name="no_multi_window_app">Няма праграм, якія падтрымліваюць падзяленне экрана</string>
     <string name="no_notification_tips">Няма апавяшчэнняў</string>
@@ -1057,7 +1071,7 @@
     <string name="notification_channel_screenshot">Скрыншоты</string>
     <string name="notification_channel_storage">Сховішча</string>
     <string name="notification_channel_switch_accessibility">Дазволіць апавяшчэнні з гэтага каналу</string>
-    <string name="notification_channel_tv_pip">Выява ў выяве</string>
+    <string name="notification_channel_tv_pip">Відарыс у відарысе</string>
     <string name="notification_channel_usb">USB</string>
     <string name="notification_channels_list_desc_2">%1$s, %2$s</string>
     <string name="notification_default_channel_desc">Гэта праграма не мае катэгорыі паведамлення</string>
@@ -1126,12 +1140,12 @@
     <string name="phone_locked_string">Тэлефон заблакаваны</string>
     <string name="picture_color_mode">Каляровы рэжым Малюнак</string>
     <string name="picture_color_mode_desc">Выкарыстоўваць sRGB</string>
-    <string name="pip_close">Закрыць</string>
+    <string name="pip_close">Закрыць Відарыс у відарысе</string>
     <string name="pip_fullscreen">На ўвесь экран</string>
-    <string name="pip_menu_title">Меню рэжыму \"выява ў выяве\"</string>
+    <string name="pip_menu_title">Меню рэжыму Відарыс у відарысе</string>
     <string name="pip_notification_message">Калі ня хочаце выкарыстоўваць гэтыя функцыі%s, адкрыць налады і выключыце.</string>
     <string name="pip_notification_title">%s гэта відарыс у відарысе</string>
-    <string name="pip_notification_unknown_title">(Без назвы)</string>
+    <string name="pip_notification_unknown_title">(Няма назва праграмы)</string>
     <string name="pip_pause">Прыпыніць</string>
     <string name="pip_phone_close">Зачыніць</string>
     <string name="pip_phone_dismiss_hint">Пацягніце ўніз, каб закрыць</string>
@@ -1175,6 +1189,7 @@
     <string name="power_remaining_charging_duration_only">%1$s засталося да поўнай зарадкі</string>
     <string name="power_remaining_duration_only">Засталося каля %1$s</string>
     <string name="power_remaining_duration_only_short">Засталося %1$s</string>
+    <string name="process_kernel_label">АС Android</string>
     <string name="profile_owned_footer">Профіль можа адсочвацца</string>
     <string name="prompt_danger">Пагроза</string>
     <string name="prompt_detecting">Выяўленне</string>
@@ -1344,8 +1359,8 @@
     <string name="saved_network">Захавана%1$s</string>
     <string name="screen_button_notification_text">Каб уключыць, націсніце кнопкі \"Дадому\" і \"Сілкаванне\" адначасова.</string>
     <string name="screen_button_notification_title">Кнопкі навігацыі адключаны</string>
-    <string name="screen_pinning_description">Гэта захоўвае выгляд пакуль не разблакуеце. &amp; Утрымлівайце кнопку назад і агляд каб разблакаваць.</string>
-    <string name="screen_pinning_description_accessible">Гэта захоўвае выгляд пакуль не разблакуеце. &amp; Утрымлівайце кнопку агляд каб разблакаваць.</string>
+    <string name="screen_pinning_description">Праграма застанецца актыўнай, пакуль вы не адмяніце блакаванне, націснуўшы і ўтрымліваючы кнопкі \"Назад\" і \"Агляд\".</string>
+    <string name="screen_pinning_description_accessible">Праграма застанецца актыўнай, пакуль вы не адмяніце блакаванне, націснуўшы і ўтрымліваючы кнопку \"Агляд\".</string>
     <string name="screen_pinning_negative">Не, дзякуй</string>
     <string name="screen_pinning_positive">Зразумела</string>
     <string name="screen_pinning_title">Экран замацаваны</string>
@@ -1701,6 +1716,7 @@ d MMMM"</string>
     <string name="wait_for_debugger">Чаканне адладжвальніка</string>
     <string name="wait_for_debugger_summary">Праграма, якая адладжваеца, будзе чакаць адладжвальніка перад запускам</string>
     <string name="wallpaper_global_des_drop_down_notify_text">Пусціце, каб паглядзець падрабязнасці</string>
+    <string name="weather_description_no_aqi">%1$s</string>
     <string name="weather_publish_time">Абноўлена %1$s</string>
     <string name="wifi_aggressive_handover">Агрэсіўны Wi‑Fi для мабільнай перадачы</string>
     <string name="wifi_aggressive_handover_summary">Калі ўключана, то будзе адбывацца аўтаматычнае пераключэнне на мабільны інтэрнэт, калі сігнал Wi-Fi слабы.</string>
@@ -1725,9 +1741,11 @@ d MMMM"</string>
     <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_security_none">Адсутнічае</string>
     <string name="wifi_security_passpoint">Passpoint</string>
+    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
     <string name="wifi_security_short_eap">802.1x</string>
+    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_wep">WEP</string>
     <string name="wifi_security_short_wpa">WPA</string>
     <string name="wifi_security_short_wpa2">WPA2</string>

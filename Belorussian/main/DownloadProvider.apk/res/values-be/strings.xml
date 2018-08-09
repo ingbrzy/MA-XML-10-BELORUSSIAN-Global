@@ -42,5 +42,4 @@
     <string name="download_running">Спампоўка</string>
     <string name="download_error">Не атрымалася спампаваць</string>
     <string name="download_running_percent">Спампавана %s</string>
-    <string name="common_google_play_services_unknown_issue">У праграмы %1$s узніклі праблемы са службамі Google Play. Паўтарыце спробу.</string>
 </resources>

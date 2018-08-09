@@ -42,41 +42,23 @@
         <item quantity="few">Няправільны PUK-код, засталося %d спробы</item>
         <item quantity="many">Няправільны PUK-код, засталося %d спробы</item>
     </plurals>
-    <plurals name="keyguard_charging_info_charging_full_need_hour_time__text">
-        <item quantity="other">Засталося каля %d гадзін да поўнай зарадкі</item>
-        <item quantity="one">Засталося каля %d гадзіны да поўнай зарадкі</item>
-        <item quantity="few">Засталося каля %d гадзін да поўнай зарадкі</item>
-        <item quantity="many">Засталося каля %d гадзін да поўнай зарадкі</item>
-    </plurals>
-    <plurals name="keyguard_charging_info_charging_full_need_min_time__text">
-        <item quantity="other">Засталоя каля %d хвіліны да поўнай зарадкі</item>
-        <item quantity="one">Засталоя каля %d хвіліны да поўнай зарадкі</item>
-        <item quantity="few">Засталоя каля %d хвілін да поўнай зарадкі</item>
-        <item quantity="many">Засталоя каля %d хвілін да поўнай зарадкі</item>
-    </plurals>
-    <plurals name="keyguard_charging_info_charging_full_need_time__text">
-        <item quantity="other">About %1$d h %2$d m until full</item>
-        <item quantity="one">About %1$d h %2$d m until full</item>
-        <item quantity="few">About %1$d h %2$d m until full</item>
-        <item quantity="many">About %1$d h %2$d m until full</item>
-    </plurals>
     <plurals name="keyguard_charging_info_could_use_hour_time_text">
-        <item quantity="other">About %d hours left</item>
-        <item quantity="one">About %d hour left</item>
-        <item quantity="few">About %d hours left</item>
-        <item quantity="many">About %d hours left</item>
+        <item quantity="other">Засталося %d гадзін</item>
+        <item quantity="one">Засталася %d гадзіна</item>
+        <item quantity="few">Засталося %d гадзіны</item>
+        <item quantity="many">Засталося %d гадзін</item>
     </plurals>
     <plurals name="keyguard_charging_info_could_use_min_time_text">
-        <item quantity="other">About %d minutes left</item>
-        <item quantity="one">About %d minute left</item>
-        <item quantity="few">About %d minutes left</item>
-        <item quantity="many">About %d minutes left</item>
+        <item quantity="other">Застаслося %d хвілін</item>
+        <item quantity="one">Застаслася %d хвіліна</item>
+        <item quantity="few">Застаслося %d хвіліны</item>
+        <item quantity="many">Застаслося %d хвілін</item>
     </plurals>
     <plurals name="keyguard_charging_info_could_use_time_text">
-        <item quantity="other">About %1$d h %2$d m left</item>
-        <item quantity="one">About %1$d h %2$d m left</item>
-        <item quantity="few">About %1$d h %2$d m left</item>
-        <item quantity="many">About %1$d h %2$d m left</item>
+        <item quantity="other">Засталося каля %1$d г %2$d хв</item>
+        <item quantity="one">Засталося каля %1$d г %2$d хв</item>
+        <item quantity="few">Засталося каля %1$d г %2$d хв</item>
+        <item quantity="many">Засталося каля %1$d г %2$d хв</item>
     </plurals>
     <plurals name="keyguard_charging_info_drained_hour_time_format">
         <item quantity="other">%d гадзін</item>
@@ -97,22 +79,22 @@
         <item quantity="many">"%1$d  г %2$d  хв"</item>
     </plurals>
     <plurals name="kg_password_default_pin_message">
-        <item quantity="other">Enter SIM PIN, you have %d remaining attempts.</item>
-        <item quantity="one">Enter SIM PIN, you have %d remaining attempt before you must contact your carrier to unlock your device.</item>
-        <item quantity="few">Enter SIM PIN, you have %d remaining attempts.</item>
-        <item quantity="many">Enter SIM PIN, you have %d remaining attempts.</item>
+        <item quantity="other">Увядзіце PIN-код. Засталося %d спроб. Пасля гэтага SIM-карта будзе заблакавана і вам прыйдзецца звярнуцца да аператара сувязі.</item>
+        <item quantity="one">Увядзіце PIN-код. Засталася %d спроба. Пасля гэтага SIM-карта будзе заблакавана і вам прыйдзецца звярнуцца да аператара сувязі.</item>
+        <item quantity="few">Увядзіце PIN-код. Засталося %d спробы. Пасля гэтага SIM-карта будзе заблакавана і вам прыйдзецца звярнуцца да аператара сувязі.</item>
+        <item quantity="many">Увядзіце PIN-код. Засталося %d спроб. Пасля гэтага SIM-карта будзе заблакавана і вам прыйдзецца звярнуцца да аператара сувязі.</item>
     </plurals>
     <plurals name="kg_password_default_puk_message">
-        <item quantity="other">SIM is now disabled. Enter PUK code to continue. You have %d remaining attempts before SIM becomes permanently unusable. Contact carrier for details.</item>
-        <item quantity="one">SIM is now disabled. Enter PUK code to continue. You have %d remaining attempt before SIM becomes permanently unusable. Contact carrier for details.</item>
-        <item quantity="few">SIM is now disabled. Enter PUK code to continue. You have %d remaining attempts before SIM becomes permanently unusable. Contact carrier for details.</item>
-        <item quantity="many">SIM is now disabled. Enter PUK code to continue. You have %d remaining attempts before SIM becomes permanently unusable. Contact carrier for details.</item>
+        <item quantity="other">SIM-карта заблакавана. Для працягу увядзіце PUK-код. Засталося %d спроб. Пасля гэтага SIM-карта будзе заблакавана назаўжды. За падрабязнай інфармацыяй звяртайцеся да свайго аператару сувязі.</item>
+        <item quantity="one">SIM-карта заблакавана. Для працягу увядзіце PUK-код. Засталася %d спроба. Пасля гэтага SIM-карта будзе заблакавана назаўжды. За падрабязнай інфармацыяй звяртайцеся да свайго аператару сувязі.</item>
+        <item quantity="few">SIM-карта заблакавана. Для працягу увядзіце PUK-код. Засталося %d спробы. Пасля гэтага SIM-карта будзе заблакавана назаўжды. За падрабязнай інфармацыяй звяртайцеся да свайго аператару сувязі.</item>
+        <item quantity="many">SIM-карта заблакавана. Для працягу увядзіце PUK-код. Засталося %d спроб. Пасля гэтага SIM-карта будзе заблакавана назаўжды. За падрабязнай інфармацыяй звяртайцеся да свайго аператару сувязі.</item>
     </plurals>
     <plurals name="kg_password_wrong_pin_code">
-        <item quantity="other">Няправільны PIN-код. Засталося %d спроб. Пасля гэтага SIM-карта будзе заблакавана і вам прыйдзецца звярнуцца да аператара сувязі.</item>
+        <item quantity="other">Няправільны PIN-код. Засталася %d спроб. Пасля гэтага SIM-карта будзе заблакавана і вам прыйдзецца звярнуцца да аператара сувязі.</item>
         <item quantity="one">Няправільны PIN-код. Засталася %d спроба. Пасля гэтага SIM-карта будзе заблакавана і вам прыйдзецца звярнуцца да аператара сувязі.</item>
-        <item quantity="few">Няправільны PIN-код. Засталося %d спробы. Пасля гэтага SIM-карта будзе заблакавана і вам прыйдзецца звярнуцца да аператара сувязі.</item>
-        <item quantity="many">Няправільны PIN-код. Засталося %d спроб. Пасля гэтага SIM-карта будзе заблакавана і вам прыйдзецца звярнуцца да аператара сувязі.</item>
+        <item quantity="few">Няправільны PIN-код. Засталася %d спробы. Пасля гэтага SIM-карта будзе заблакавана і вам прыйдзецца звярнуцца да аператара сувязі.</item>
+        <item quantity="many">Няправільны PIN-код. Засталася %d спроб. Пасля гэтага SIM-карта будзе заблакавана і вам прыйдзецца звярнуцца да аператара сувязі.</item>
     </plurals>
     <plurals name="kg_password_wrong_puk_code">
         <item quantity="other">Няправільны PUK-код. Засталося %d спроб. Пасля гэтага SIM-карта будзе заблакавана назаўжды.</item>
@@ -121,22 +103,22 @@
         <item quantity="many">Няправільны PUK-код. Засталося %d спроб. Пасля гэтага SIM-карта будзе заблакавана назаўжды.</item>
     </plurals>
     <plurals name="kg_prompt_reason_time_password">
-        <item quantity="other">"Device hasn't been unlocked for %d hours. Confirm password."</item>
-        <item quantity="one">"Device hasn't been unlocked for %d hour. Confirm password."</item>
-        <item quantity="few">"Device hasn't been unlocked for %d hours. Confirm password."</item>
-        <item quantity="many">"Device hasn't been unlocked for %d hours. Confirm password."</item>
+        <item quantity="other">Прыладу не разблакоўвалі %d гадзін. Увядзіце пароль.</item>
+        <item quantity="one">Прыладу не разблакоўвалі %d гадзіну. Увядзіце пароль.</item>
+        <item quantity="few">Прыладу не разблакоўвалі %d гадзіны. Увядзіце пароль.</item>
+        <item quantity="many">Прыладу не разблакоўвалі %d гадзін. Увядзіце пароль.</item>
     </plurals>
     <plurals name="kg_prompt_reason_time_pattern">
-        <item quantity="other">"Device hasn't been unlocked for %d hours. Confirm pattern."</item>
-        <item quantity="one">"Device hasn't been unlocked for %d hour. Confirm pattern."</item>
-        <item quantity="few">"Device hasn't been unlocked for %d hours. Confirm pattern."</item>
-        <item quantity="many">"Device hasn't been unlocked for %d hours. Confirm pattern."</item>
+        <item quantity="other">Прыладу не разблакоўвалі %d гадзін. Увядзіце графічны ключ.</item>
+        <item quantity="one">Прыладу не разблакоўвалі %d гадзіну. Увядзіце графічны ключ.</item>
+        <item quantity="few">Прыладу не разблакоўвалі %d гадзіны. Увядзіце графічны ключ.</item>
+        <item quantity="many">Прыладу не разблакоўвалі %d гадзін. Увядзіце графічны ключ.</item>
     </plurals>
     <plurals name="kg_prompt_reason_time_pin">
-        <item quantity="other">"Device hasn't been unlocked for %d hours. Confirm PIN."</item>
-        <item quantity="one">"Device hasn't been unlocked for %d hour. Confirm PIN."</item>
-        <item quantity="few">"Device hasn't been unlocked for %d hours. Confirm PIN."</item>
-        <item quantity="many">"Device hasn't been unlocked for %d hours. Confirm PIN."</item>
+        <item quantity="other">Прыладу не разблакоўвалі %d гадзін. Увядзіце лічбавы код.</item>
+        <item quantity="one">Прыладу не разблакоўвалі %d гадзіну. Увядзіце лічбавы код.</item>
+        <item quantity="few">Прыладу не разблакоўвалі %d гадзіны. Увядзіце лічбавы код.</item>
+        <item quantity="many">Прыладу не разблакоўвалі %d гадзін. Увядзіце лічбавы код.</item>
     </plurals>
     <plurals name="new_notifications_msg">
         <item quantity="other">%d новых апавяшчэнняў</item>

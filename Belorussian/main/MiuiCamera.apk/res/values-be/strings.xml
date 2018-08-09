@@ -22,7 +22,7 @@
     <string name="confirm_location_alert">Запамінаць месцазнаходжанне для фота</string>
     <string name="start_capture">OК</string>
     <string name="pref_camera_recordlocation_title">Захаваць месцазнаходжанне для фота</string>
-    <string name="pref_camera_recordlocation_entry_off">Выключана</string>
+    <string name="pref_camera_recordlocation_entry_off">Адкл</string>
     <string name="pref_camera_recordlocation_entry_on">Уключана</string>
     <string name="pref_camera_sound_title">Гук здымкі</string>
     <string name="pref_camera_proximity_lock_title">Кішэнны рэжым</string>
@@ -81,7 +81,7 @@
     <string name="pref_camera_flashmode_title">Выбліск</string>
     <string name="pref_camera_flashmode_entry_auto">Аўта</string>
     <string name="pref_camera_flashmode_entry_on">Укл</string>
-    <string name="pref_camera_flashmode_entry_off">Выкл</string>
+    <string name="pref_camera_flashmode_entry_off">Адкл</string>
     <string name="pref_camera_flashmode_entry_torch">Ліхтарык</string>
     <string name="pref_camera_front_bokeh_entry_on">Укл</string>
     <string name="pref_camera_front_bokeh_entry_off">Адкл</string>
@@ -147,7 +147,7 @@
     <string name="portait_effect_entry_story">Гісторыя</string>
     <string name="portait_effect_entry_riddle">Загадка</string>
     <string name="portait_effect_entry_movie">Фільм</string>
-    <string name="pref_camera_touchafaec_entry_off">Выкл</string>
+    <string name="pref_camera_touchafaec_entry_off">Адкл</string>
     <string name="pref_camera_touchafaec_entry_on">Укл</string>
     <string name="pref_camera_multilevel_entry_lowest">Самая нізкая</string>
     <string name="pref_camera_multilevel_entry_lower">Вельмі нізкая</string>
@@ -161,7 +161,7 @@
     <string name="pref_camera_saturation_title">Насычанасць</string>
     <string name="pref_camera_sharpness_title">Выразнасць</string>
     <string name="pref_camera_scenemode_title">Сцэна</string>
-    <string name="pref_camera_scenemode_entry_off">Выкл</string>
+    <string name="pref_camera_scenemode_entry_off">Адкл</string>
     <string name="pref_camera_scenemode_entry_auto">Аўта</string>
     <string name="pref_camera_scenemode_entry_portrait">Партрэт</string>
     <string name="pref_camera_scenemode_entry_landscape">Краявід</string>
@@ -185,7 +185,7 @@
     <string name="spaceIsLow_content_primary_storage_priority">USB памяць амаль запоўненая</string>
     <string name="spaceIsLow_content_external_storage_priority">SD-карта амаль запоўненая</string>
     <string name="video_reach_size_limit">Дасягнуты максімальны памер відэа.</string>
-    <string name="pref_camera_hfr_entry_off">Выкл</string>
+    <string name="pref_camera_hfr_entry_off">Адкл</string>
     <string name="pref_camera_hfr_entry_2x">60</string>
     <string name="pref_camera_hfr_entry_3x">90</string>
     <string name="pref_camera_hfr_entry_4x">120</string>
@@ -215,7 +215,7 @@
     <string name="accessibility_hdr_live">HDR Live уключаны</string>
     <string name="accessibility_hdr_on">HDR уключаны</string>
     <string name="accessibility_filter_open_panel">Меню фільтра адкрыта</string>
-    <string name="accessibility_filter_close_panel">Меню фільтра зачынена</string>
+    <string name="accessibility_filter_close_panel">Меню фільтра закрыта</string>
     <string name="accessibility_bokeh_normal">Размыццё фона франтальнай камеры адключана</string>
     <string name="accessibility_bokeh_on">Размыццё фона франтальнай камеры ўключана</string>
     <string name="accessibility_ai_scene_on">AI камера уключана</string>
@@ -247,7 +247,7 @@
     <string name="pref_camera_video_duration_entry_10">10 хвілін</string>
     <string name="pref_camera_video_duration_entry_30">30 хвілін</string>
     <string name="pref_camera_video_duration_entry_120">Без абмежаванняў</string>
-    <string name="pref_camera_zsl_entry_off">Выкл</string>
+    <string name="pref_camera_zsl_entry_off">Адкл</string>
     <string name="pref_camera_zsl_entry_on">Укл</string>
     <string name="pref_camera_facedetection_title">Вызначэнне твараў</string>
     <string name="camera_facedetection_sub_option_hint">Эксперыментальная функцыя</string>
@@ -307,7 +307,7 @@
     <string name="face_beauty_intelligent_level_3">Высокі</string>
     <string name="pref_camera_show_gender_age_config_title">Узрост і пол</string>
     <string name="pref_camera_show_gender_age_title">Узрост і пол</string>
-    <string name="pref_camera_show_gender_age_entry_off">Выкл</string>
+    <string name="pref_camera_show_gender_age_entry_off">Адкл</string>
     <string name="pref_camera_show_gender_age_entry_on">Паказаць узрост і пол у рэжыме паляпшэння</string>
     <string name="pref_camera_show_gender_age_entry_alias">Паказваць узрост у рэжыме паляпшэння</string>
     <string name="pref_camera_show_gender_age_label_on">Узрост і пол</string>
@@ -350,7 +350,7 @@
     <string name="pref_front_mirror_entry_auto">Калі твар распазнаны</string>
     <string name="pref_front_mirror_label_auto">Аўта</string>
     <string name="pref_front_mirror_entry_on">Укл.</string>
-    <string name="pref_front_mirror_entry_off">Выкл.</string>
+    <string name="pref_front_mirror_entry_off">Адкл</string>
     <string name="pref_burst_shoot_title">Серыйная здымка</string>
     <string name="burst_shoot_exit_button_text">Адключыць серыйную здымку</string>
     <string name="pref_camera_long_pressing_shutter_title">Утрымлівайце кнопку здымкі для блакіроўкі AE/AF/AWB</string>
@@ -365,10 +365,10 @@
     <string name="pref_camera_long_pressing_burst_shooting_entry_focus">Фокус</string>
     <string name="pref_camera_long_pressing_burst_shooting_entry_burst">Здымак</string>
     <string name="pref_camera_hdr_entry_auto">Аўта</string>
-    <string name="pref_camera_hdr_entry_off">Выкл.</string>
+    <string name="pref_camera_hdr_entry_off">Адкл</string>
     <string name="pref_camera_hdr_entry_normal">Pro</string>
     <string name="pref_camera_hdr_entry_live">Жывы</string>
-    <string name="pref_simple_hdr_entry_off">Выкл.</string>
+    <string name="pref_simple_hdr_entry_off">Адкл</string>
     <string name="pref_simple_hdr_entry_on">Укл.</string>
     <string name="pref_camera_delay_capture_title">Таймер</string>
     <string name="simple_mode_button_text_delay_capture">Адключыць таймер</string>
@@ -384,7 +384,7 @@
     <string name="pref_camera_super_resolution_title">Уключыць SR</string>
     <string name="simple_mode_button_text_scene">Адключыць рэжым \"Сюжэт\"</string>
     <string name="pref_camera_peak_title">Вызначэнне вобласці факусіравання</string>
-    <string name="pref_camera_peak_entry_off">Выкл</string>
+    <string name="pref_camera_peak_entry_off">Адкл</string>
     <string name="pref_camera_peak_entry_on">Укл</string>
     <string name="pref_camera_gradienter_title">Выраўноўванне</string>
     <string name="simple_mode_button_text_gradienter">Адключыць выраўноўванне</string>
@@ -398,7 +398,7 @@
     <string name="pref_camera_snap_entry_take_movie">Хуткія здымкі (відэа)</string>
     <string name="pref_camera_snap_label_take_picture">Фота</string>
     <string name="pref_camera_snap_label_take_movie">Відэа</string>
-    <string name="pref_camera_snap_entry_off">Выкл</string>
+    <string name="pref_camera_snap_entry_off">Адкл</string>
     <string name="pref_camera_snap_toast_when_volume_can_wake_screen">Не магчыма выкарыстоўваць рэжым Хуткіх здымкаў калі ўключаны рэжым \"Абуджэнне кнопкамі гучнасці\".</string>
     <string name="pref_camera_tilt_shift_title">Tilt-shift</string>
     <string name="simple_mode_button_text_tilt_shift">Адключыць Tilt-shift</string>
@@ -431,11 +431,12 @@
     <string name="portrait_mode_depth_effect_success_hint">Эфект глыбіні</string>
     <string name="portrait_mode_use_hint">"Партрэтны рэжым размывае фон
 і павялічвае выразнасць пярэдняга плана."</string>
+    <string name="portrait_mode_use_hint_with_switch">@string/portrait_mode_use_hint</string>
     <string name="pref_camera_square_mode_title">Квадрат</string>
     <string name="simple_mode_button_text_square">Адключыць кадраванне</string>
     <string name="face_beauty_smart">Разумны</string>
     <string name="face_beauty_advanced">Pro</string>
-    <string name="face_beauty_close">Выкл</string>
+    <string name="face_beauty_close">Адкл</string>
     <string name="pref_skin_beautify_intelligent_title">Разумны</string>
     <string name="pref_skin_beautify_slim_title">Складнасць</string>
     <string name="pref_skin_beautify_eye_title">Вочы</string>
@@ -445,6 +446,7 @@
     <string name="pref_camera_beautify_entry_low">Нізкі</string>
     <string name="pref_camera_beautify_entry_normal">Сярэдні</string>
     <string name="pref_camera_beautify_entry_high">Высокі</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="camera_mode_options">Рэжымы</string>
     <string name="button_front_camera_title">Зрабіць сэлфі</string>
     <string name="button_normal_video_title">Запіс відэа</string>
@@ -490,6 +492,7 @@
     <string name="beauty_fragment_tab_name_makeup">Яшчэ</string>
     <string name="beauty_fragment_tab_name_3d_beauty">Паляпшэнне</string>
     <string name="beauty_fragment_tab_name_3d_remodeling">Карэкцыя</string>
+    <string name="beauty_fragment_tab_name_3d_makeup">Макіяж</string>
     <string name="edit_skin_white">Тон</string>
     <string name="edit_skin_smooth">Гладкасць</string>
     <string name="edit_eye_large">Вялікія вочы</string>
@@ -503,6 +506,10 @@
     <string name="edit_smile">Усмешка</string>
     <string name="edit_slim_nose">Нос</string>
     <string name="popup_tip_3d_beauty_intro_text">3D паляпшэнне</string>
+    <string name="edit_eyebrow_dye">Бровы</string>
+    <string name="edit_pupil_line">Падводка</string>
+    <string name="edit_jelly_lips">Бляск для вуснаў</string>
+    <string name="edit_blusher">Румяна</string>
     <string name="sticker_tab1">Мілы</string>
     <string name="sticker_tab2">Пацешны</string>
     <string name="user_agreement2">Умовы выкарыстання</string>

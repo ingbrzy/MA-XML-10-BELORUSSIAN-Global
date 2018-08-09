@@ -26,7 +26,7 @@
     <string name="empty_title_apk">Усталёвачных APK не знойдзена</string>
     <string name="empty_title_residual">Смецце не знойдзена</string>
     <string name="btn_text_quick_cleanup">Ачыстка</string>
-    <string name="hints_title_garbage">смецце</string>
+    <string name="hints_title_garbage">Смецце</string>
     <string name="activity_title_main">Ачыстка</string>
     <string name="activity_title_deep_clean">Глыбокая ачыстка</string>
     <string name="activity_title_cache">Кэш</string>
@@ -91,6 +91,7 @@
     <string name="hints_apk_header_left">Пакеты</string>
     <string name="hints_residual_header_left">Рэшткі файлаў</string>
     <string name="hints_memory_header_left">Памяць</string>
+    <string name="hints_header_left">%d</string>
     <string name="hints_large_file_header_left">Вялікія файлы: %d</string>
     <string name="hints_installed_apps_header_left">Усталяваныя праграмы: %d</string>
     <string name="toast_resolve_apk_error">Рашыць праблему файла apk</string>
@@ -195,7 +196,7 @@
     <string name="deepclean_normal_title">Аўтаматычная ачыстка</string>
     <string name="deepclean_normal_item_desc1">Смецце</string>
     <string name="deepclean_normal_item_desc2">Актыўнасць ачысткі не будзе ўплываць на прадукцыйнасць сістэмы</string>
-    <string name="deepclean_1_k_clean">Хуткая ачыстка</string>
+    <string name="deepclean_1_k_clean">Ачысціць памяць</string>
     <string name="similar_image_title">Фота</string>
     <string name="similar_image_desc">Выдаліць фота, што паўтараюцца</string>
     <string name="similar_image_scaning">Праверка…</string>
@@ -291,7 +292,7 @@
     <string name="total_clean">Ачышчана ўсяго: %s</string>
     <string name="toast_network_switch">Праграма можа далучацца да інтэрнэту</string>
     <string name="open">Уключыць</string>
-    <string name="close">Зачыніць</string>
+    <string name="close">Закрыць</string>
     <string name="download">Спампаваць</string>
     <string name="installed">Усталяваныя</string>
     <string name="install_sucess">Усталяванне %s завершана</string>
@@ -299,6 +300,7 @@
     <string name="downloading">Спампоўка</string>
     <string name="installing">Усталёўка</string>
     <string name="start_install">Усталяваць</string>
+    <string name="empty">" "</string>
     <string name="open_browser">Адкрыць у браўзеры</string>
     <string name="title_share_link">Падзяліцца спасылкай</string>
     <string name="connecting">Злучэнне…</string>
@@ -529,7 +531,7 @@
     <string name="wechat_msg_time_long">dd.MM.yyyy</string>
     <string name="wechat_msg_time_short">dd.MM</string>
     <string name="wechat_video_time">%1$s:%2$s</string>
-    <string name="main_total_garbage">Усяго смецця</string>
+    <string name="main_total_garbage">Памер смецця</string>
     <string name="whatsapp_group_image">Выявы</string>
     <string name="whatsapp_group_video">Відэа</string>
     <string name="whatsapp_group_voice">Галасавыя паведамленні</string>
@@ -544,7 +546,7 @@
     <string name="whatsapp_type_document_recv">Атрыманыя файлы</string>
     <string name="whatsapp_file_show_order">Сёння</string>
     <string name="whatsapp_clean_exit_confirm_title">Спыніць сканаванне?</string>
-    <string name="whatsapp_clean_exit_confirm_msg">"Haven't finished scanning WhataApp yet. Stop scanning now?"</string>
+    <string name="whatsapp_clean_exit_confirm_msg">Праверка WhatsApp не завершана. Спыніць праверку і выйсці?</string>
     <string name="whatsapp_clean_exit_confirm_cancel">Працягнуць сканаванне</string>
     <string name="whatsapp_clean_exit_confirm_ok">Спыніць</string>
     <string name="whatsapp_delete_confirm_ok">OK</string>
@@ -552,7 +554,17 @@
     <string name="whatsapp_content_empty">"Няма аб'ектаў."</string>
     <string name="whatsapp_delete_confirm_message">Выдаліць зараз?</string>
     <string name="whatsapp_delete_done">Зроблена</string>
-    <string name="whatsapp_title">Whatsapp cleaner</string>
-    <string name="whatsapp_function_title">WhatsApp cleaner</string>
-    <string name="whatsapp_function_summery">Clear WhatsApp attachments</string>
+    <string name="whatsapp_title">Ачыстка WhatsApp</string>
+    <string name="whatsapp_function_title">Ачыстка WhatsApp</string>
+    <string name="whatsapp_function_summery">Ачысціць ўкладанні ў WhatsApp</string>
+    <string name="clean_summary">Ачышчана %1$s файлаў</string>
+    <string name="onekeyclean_boosting_title">Паскарэнне</string>
+    <string name="onekeyclean_boosted_title">Ачышчана паспяхова</string>
+    <string name="onekeyclean_boost_cleaned">%s Ачышчана</string>
+    <string name="onekeyclean_boost_available">%s даступна</string>
+    <string name="onekeyclean_card_summery">Ачысціце сметніцу, каб вызваліць месца</string>
+    <string name="onekeyclean_card_btn">Ачысціць зараз</string>
+    <string name="memory_clean_icon_text">Ачысціць памяць</string>
+    <string name="pref_title_create_onekeyclean_shortcut">Дадаць ярлык на працоўны стол</string>
+    <string name="memory_clean_no_trash_tip">Ачыстка не патрабуецца</string>
 </resources>

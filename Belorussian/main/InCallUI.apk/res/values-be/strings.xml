@@ -109,7 +109,7 @@
     <string name="description_image_button_message_enter">Адказаць паведамленнем</string>
     <string name="description_image_button_message_exit">Схаваць паведамленні</string>
     <string name="description_image_button_hangup">Скончыць</string>
-    <string name="description_image_button_dialpad">Клавіятура</string>
+    <string name="description_image_button_dialpad">Панэль набору</string>
     <string name="description_image_button_tools">Опцыі</string>
     <string name="description_target_answer">Адказаць</string>
     <string name="ok">OK</string>
@@ -128,6 +128,8 @@
     <string name="select_sim_hint">Немагчыма выкарыстоўваць SIM %2$d, пакуль SIM %1$d выкарыстоўваецца.</string>
     <string name="select_one_sim_title">Можна выкарыстоўваць толькі SIM %1$d</string>
     <string name="can_not_use">Нельга выкарыстоўваць</string>
+    <string name="sim1_description">SIM1</string>
+    <string name="sim2_description">SIM2</string>
     <string name="call_description_recording">Запіс…</string>
     <string name="call_recording_error_privacy">Немагчыма запісваць, калі вы знаходзіцеся ў гасцявым рэжыме</string>
     <string name="call_recording_error_sd_access">Няма доступу да SD-карты</string>
@@ -171,7 +173,7 @@
     <string name="close_camera_requesting">Адключэнне камеры…</string>
     <string name="close_camera_failed">Не атрымалася адключыць камеру…</string>
     <string name="change_to_voice_tips_when_background">Другі бок пераключыўся на відэавыклік</string>
-    <string name="video_crbt_title">%s відэасігнал выкліку</string>
+    <string name="video_crbt_title">Відэасігнал зваротнага выкліку іншага боку</string>
     <string name="crbt_second_hold_prompt">%s на ўтрыманні…</string>
     <string name="crbt_second_hold_prompt_no_name">Папярэдні выклік на ўтрыманні…</string>
     <string name="crbt_second_hold_prompt_conference">Канферэнц-сувязь на ўтрыманні…</string>

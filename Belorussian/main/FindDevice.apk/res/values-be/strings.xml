@@ -13,7 +13,7 @@
     <string name="find_device_error_server">Памылка сервера (%s).</string>
     <string name="find_device_error_account_sys_timeout">"Не атрымалася падлучыцца да Mi Акаўнта. "</string>
     <string name="find_device_error_account_unknown_error">Памылка Mi Акаўнта (%s).</string>
-    <string name="find_device_crash">Пошук прылады нечакана зачынены.</string>
+    <string name="find_device_crash">Пошук прылады нечакана закрыты.</string>
     <string name="find_device_storage_corrupted">Сховішча пашкоджана. Ваша прылада пад пагрозай.</string>
     <string name="find_device_telephony_fault">Знайсці прыладу: Памылка тэлефаніі (%s).</string>
     <string name="time_correction_success">Час зменена</string>

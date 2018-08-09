@@ -455,7 +455,7 @@
     <string name="account_bind_devices">Прылады</string>
     <string name="account_protection">Абарона акаўнта</string>
     <string name="account_protection_on">Укл</string>
-    <string name="account_protection_off">Выкл</string>
+    <string name="account_protection_off">Адкл</string>
     <string name="logout_account">Выйсці з акаўнта</string>
     <string name="mipay">Аплата</string>
     <string name="mipay_bank_card">Банкаўская картка</string>

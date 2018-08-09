@@ -35,6 +35,8 @@
     <string name="mx_sub_dspt_provision_with_voip">Інтэрнэт тэлефанія</string>
     <string name="phone_number_required_dspt_provision">"Гэты сэрвіс запытвае ваш нумар тэлефона. "</string>
     <string name="sync_dspt_provision">"Сінхранізуйце фатаграфіі, кантакты, нататкі і многае іншае на ўсіх вашых прыладах або атрымаць доступ да іх у "</string>
+    <string name="sync_dspt_provision2">i.mi.com</string>
+    <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
     <string name="sync_dspt_provision3">". Адключыць гэтую функцыю можна ў наладах.
 "</string>
     <string name="sync_dspt_entrance_provision">"Сінхранізуйце фота, кантакты, журнал выклікаў і паведамленні на ўсіх прыладах і праглядайце сінхранізаваныя аб'екты ў любым браўзеры на %s. "</string>
@@ -45,6 +47,8 @@
     <string name="sync_dspt_entrance_provision_skip">Прапусціць</string>
     <string name="sync_dspt_entrance_provision_network">Для звычайнай працы дадатку неабходнае падлучэнне да інтэрнэту. Сінхранізацыя магчыма праз мабільную сетку і Wi-Fi.</string>
     <string name="find_device_dspt_provision">Пры страце прылады вы зможаце выявіць яго месцазнаходжанне, заблакаваць або ачысціць дадзеныя на %s. Функцыю можна актываваць у наладах ў любы час.</string>
+    <string name="find_device_dspt_provision_2">i.mi.com</string>
+    <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
     <string name="find_device_send_sms_alert">Калі вы замянілі SIM-карту, SMS для паўторнай актывацыі будзе адпраўлена аўтаматычна.</string>
     <string name="mx_dspt_provision">"Mi Паведамленні дазваляюць карыстальнікам MIUI абменьвацца паведамленнямі бясплатна па Wi-Fi. 
 
@@ -85,6 +89,7 @@
     <string name="micloud_dspt">Выкарыстоўвайце Mi Cloud для сінхранізацыі дадзеных і пошуку прылады</string>
     <string name="micloud_sec_dspt">і дзяліцца інфармацыяй з сябрамі.</string>
     <string name="micloud_dspt_provision">Выкарыстоўвайце Mi Cloud для сінхранізацыі дадзеных, пошуку прылады і абмену інфармацыяй з сябрамі.</string>
+    <string name="micloud_dspt_provision_xms">Выкарыстоўвайце Mi Cloud для сінхранізацыі дадзеных.</string>
     <string name="micloud_proceed">Працягнуць</string>
     <string name="master_alert_notif_title">Уключыць сінхранізацыю з Mi Cloud</string>
     <string name="master_alert_notif_content">Памылка сінхранізацыі</string>
@@ -155,6 +160,7 @@
 Выкарыстоўвайце іншы акаўнт."</string>
     <string name="micloud_main_cancel_sync">Скасаваць сінхранізацыю</string>
     <string name="micloud_main_query_again">Запытаць яшчэ раз</string>
+    <string name="micloud_main_cancel_sync_now">Скасаванне…</string>
     <string name="micloud_main_wait_wlan">Чаканне Wi-Fi</string>
     <string name="micloud_main_wait_wlan_charge_sleep">Падлучыцеся да Wi-Fi, выключыце экран і поўнасцю зарадзіце прыладу.</string>
     <string name="micloud_main_wait_wlan_charge">Падлучыцеся да Wi-Fi і поўнасцю зарадзіце прыладу.</string>
@@ -164,6 +170,11 @@
     <string name="micloud_main_button_set_internet">Налады</string>
     <string name="micloud_main_button_activate">Актывіраваць</string>
     <string name="micloud_main_button_authorize">Аўтарызацыя</string>
+    <string name="micloud_main_simple_synced">Сінхранізавана</string>
+    <string name="micloud_main_simple_syncing">Сінхранізацыя</string>
+    <string name="micloud_main_simple_pending">Чаканне</string>
+    <string name="micloud_main_simple_off">Сінхранізацыя адключана</string>
+    <string name="micloud_main_simple_last_sync_time">Апошняя сінхранізацыі: %s</string>
     <string name="micloud_detail_syncing">Сінхранізацыя</string>
     <string name="micloud_detail_pending">Чаканне</string>
     <string name="micloud_detail_success">Сінхранізавана</string>
@@ -279,6 +290,7 @@
     <string name="micloud_find_device_opened">Пошук прылады ўключаны</string>
     <string name="micloud_find_device_open_fail">Не атрымалася ўключыць пошук прылады</string>
     <string name="micloud_find_device_opened_content">Знайдзіце сваю прыладу на %s</string>
+    <string name="micloud_find_device_opened_content_url">i.mi.com</string>
     <string name="micloud_find_device_verify_fail">Не ўдалося актываваць Пошук прылады</string>
     <string name="micloud_find_device_close_fail">Не ўдалося адключыць Пошук прылады</string>
     <string name="micloud_find_device_finish">Гатова</string>
@@ -345,6 +357,8 @@
     <string name="micloud_main_head_menu_state_close">Адключана</string>
     <string name="micloud_main_head_menu_state_unavailable">Не падтрымліваецца</string>
     <string name="micloud_main_head_menu_finddevice_unavailable">Пошук прылады недаступны з Другога сховішча.</string>
+    <string name="micloud_footer_normal_url">i.mi.com</string>
+    <string name="micloud_footer_international_url">mi.com/micloud</string>
     <string name="ks_fingerprint_payment">Аплата адбіткам пальца</string>
     <string name="ks_name_fido">FIDO</string>
     <string name="ks_name_alipay">IFAA</string>
@@ -371,15 +385,11 @@
     <string name="member_menu_vipname_premium">Прэміум</string>
     <string name="member_menu_vipname_mega">Ультра</string>
     <string name="member_menu_vipname_ultra">Ультра</string>
+    <string name="micloud_storage_unit_mb">%sМБ</string>
+    <string name="micloud_storage_unit_gb">%sГБ</string>
     <string name="micloud_main_memory_low_title">Памяць тэлефона амаль запоўненая</string>
     <string name="micloud_notif_title_memory_low">Не атрымалася сінхранізаваць з Mi Cloud</string>
     <string name="find_device_service_title">Пошук прылады</string>
     <string name="micloud_wipe_data_confirm_title">"Выдаліць аб'екты, сінхранізаваныя з Mi Cloud, пасля выхаду?"</string>
     <string name="wipe_data_dialog_msg">"Некаторыя аб'екты (%s) не сінхранізаваны. Яны будуць захаваны на прыладзе і не будуць выдалены."</string>
-    <string name="hybrid_check_network">Налады сеткі</string>
-    <string name="hybrid_try_again">Паспрабаваць зноў</string>
-    <string name="hybrid_network_unavaliable">Немагчыма злучыцца з сеткай</string>
-    <string name="hybrid_network_access_denied">Доступ да інтэрнэту забаронены</string>
-    <string name="hybrid_service_unavailiable">Сэрвіс недаступны</string>
-    <string name="hybrid_data_error">Адбылася памылка</string>
 </resources>

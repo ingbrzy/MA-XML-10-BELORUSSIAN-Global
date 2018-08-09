@@ -193,6 +193,7 @@
     <string name="file_size">Памер:</string>
     <string name="file_title">Імя:</string>
     <string name="file_width_height">Памер:</string>
+    <string name="flatshow_page_no">%1$d</string>
     <string name="force_touch_new_message_title">Новае паведамленне</string>
     <string name="forward_from">Ад:</string>
     <string name="forward_prefix">"Ад: "</string>
@@ -361,9 +362,18 @@
     <string name="no_subject_view">(Без тэмы)</string>
     <string name="non_english_subject_limit">Не больш за 13 сімвалаў</string>
     <string name="nosend_message">Не адпраўленна</string>
+    <string name="notification_channel_msg_description">Notifications about messages</string>
+    <string name="notification_channel_msg_name">Messages</string>
+    <string name="notification_channel_other_description">Other notifications</string>
+    <string name="notification_channel_other_name">Other</string>
+    <string name="notification_channel_sim1_description">Notifications about SIM 1 messages</string>
+    <string name="notification_channel_sim1_name">SIM 1 messages</string>
+    <string name="notification_channel_sim2_description">Notifications about SIM 2 messages</string>
+    <string name="notification_channel_sim2_name">SIM 2 messages</string>
     <string name="notification_copy">Copy OTP</string>
     <string name="notification_failed_multiple">Не адпраўлена паведамленняў: %s</string>
     <string name="notification_failed_multiple_title">Паведамленні не адпраўлены</string>
+    <string name="notification_group_name">Messaging</string>
     <string name="notification_multiple">[%s]</string>
     <string name="notification_multiple_title">Новыя паведамленні</string>
     <string name="number_add_hint">Увядзіце нумар тэлефона</string>
@@ -398,7 +408,7 @@
     <string name="pref_show_sms_template_entry_summary">Detect one-time passwords and show quick menus</string>
     <string name="pref_show_sms_template_in_summary">Аўтаматычна распазнаваць аднаразовыя паролі ў SMS</string>
     <string name="pref_show_sms_template_summary">Уключыце смарт-функцыі Mi Паведамленняў, такія як капіяванне кодаў, праверка балансу і г.д.</string>
-    <string name="pref_smart_messages_settings">Разумныя паведамленні</string>
+    <string name="pref_smart_messages_settings">Smart Messaging</string>
     <string name="pref_sms_storage_title">Сховішча</string>
     <string name="pref_sms_theme_title">Адлюстраванне</string>
     <string name="pref_summary_allow_si_sl_push">Дазволіць паведамленням спампоўваць змест з сайтаў</string>
@@ -542,6 +552,7 @@
     <string name="send_signature_confirm_dialog_title">Адпраўка паведамленні</string>
     <string name="send_sms">Адправіць паведамленне</string>
     <string name="send_to">Каму:</string>
+    <string name="send_to_index_contact">%1$s/%2$s</string>
     <string name="sent_at_time">Адпраўлена: %1s</string>
     <string name="sent_label">Адпраўленна:</string>
     <string name="service_message_not_found">Тэрмін дзеяння паведамлення скончыўся ці яно недасяжнае</string>
@@ -653,6 +664,7 @@
     <string name="unstick">Адмацаваць</string>
     <string name="unstick_conversation">Адмацаваць дыялог</string>
     <string name="unsticked_conversation">Дыялог ужо адмацаваны</string>
+    <string name="unsubscribe">Unsubscribe</string>
     <string name="unsupported_media_format">Непадтрымліваемы фармат (%1$s).</string>
     <string name="url_fraud_dangerous_alert">"Сайт можа быць небяспечным. Ёсць пагроза для прылады і вашых дадзеных. Усё адно перайсці?
 %s"</string>
@@ -673,6 +685,4 @@
     <string name="wild_msg_title">Выберыце тэлефон для сінхранізацыі</string>
     <string name="yes">ОК</string>
     <string name="yesterday">Учора</string>
-    <string name="notification_channel_description">Notifications from Messaging</string>
-    <string name="notification_channel_name">Messaging</string>
 </resources>

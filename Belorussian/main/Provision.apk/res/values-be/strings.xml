@@ -45,19 +45,30 @@
     <string name="ime_privacy_policy">Палітыка канфідэнцыяльнасці для выбранай клавіятуры</string>
     <string name="ime_privacy_policy_no_network">Няма падключэння да сеткі. Паказаць Палітыку канфідэнцыяльнасці для гэтай клавіятуры на %s.</string>
     <string name="terms_of_use">Умовы выкарыстання</string>
-    <string name="terms_of_use_label">"Ваша прыватнасць вельмі важная для нас. Калі ласка, прачытайце Умовы выкарыстання і Палітыку канфідэнцыяльнасці, каб зразумець, якую інфармацыю мы збіраем, як мы яе выкарыстоўваем і варыянты даступныя для вас.
+    <string name="terms_of_use_label">"Ваша канфідэнцыяльнасць вельмі важная для нас. Прачытайце нашы Умовы выкарыстання і Палітыку канфідэнцыяльнасці, каб зразумець, якую інфармацыю мы збіраем, як мы яе выкарыстоўваем і якія варыянты даступныя для Вас.
 
-Вы павінны згадзіцца з нашымі Умовамі выкарыстання і Палітыкай канфідэнцыйнасці, перш чым выкарыстоўваць MIUI. Mi паслугі, паслугі актывацыі Mi SIM, Mi Cloud, Пошук прылады, Працоўны стол, Гульнявы цэнтр, сістэмныя кампаненты MAB, MIUI Daemon і MSA, TranslationService, хуткія праграмы, Асабісты памочнік, статыстыка, смарт-карткі, Mi Link і кампаненты Mi Акаўнта падключацца да інтэрнэту і атрымаюць дадзеныя пра ваша месцазнаходжанне."</string>
-    <string name="terms_of_use_label_gms">"Ваша прыватнасць вельмі важная для нас. Калі ласка, прачытайце Умовы выкарыстання і Палітыку канфідэнцыяльнасці, каб зразумець, якую інфармацыю мы збіраем, як мы яе выкарыстоўваем і варыянты даступныя для вас.
+Вы павінны прыняць нашы Умовы выкарыстання і Палітыку канфідэнцыяльнасці, перш чым выкарыстоўваць MIUI. %s і кампаненты Mi акаўнта падключацца да інтэрнэту і атрымаюць дадзеныя Вашага месцазнаходжання."</string>
+    <string name="terms_of_use_lable_apps">Сэрвісы Mi, Сэрвіс актывацыі Xiaomi SIM, Mi Cloud, Пошук прылады, Працоўны стол, Гульнявы цэнтр, MAB, MIUI Daemon і сістэмныя кампаненты MSA, Сэрвіс перакладу, Quick apps, Стужка віджэтаў, статыстыка, Mi Link</string>
+    <string name="terms_of_use_lable_gms">, сэрвісы Google Play</string>
+    <string name="terms_of_use_label_systemhelper">, самастойная рэгістрацыя</string>
+    <string name="terms_of_use_lable_smart_cards">, смарт-карты</string>
+    <string name="terms_of_use_lable_default_input_method_facemoji">"
 
-Вы павінны згадзіцца з нашымі Умовамі выкарыстання і Палітыкай канфідэнцыйнасці, перш чым выкарыстоўваць MIUI. Mi паслугі, паслугі актывацыі Mi SIM, Mi Cloud, Пошук прылады, Працоўны стол, Гульнявы цэнтр, сістэмныя кампаненты MAB, MIUI Daemon і MSA, TranslationService, хуткія праграмы, Асабісты памочнік, статыстыка, смарт-карткі, Mi Link, Mi Акаўнт і кампаненты сервісаў Google Play падключацца да інтэрнэту і атрымаюць дадзеныя пра ваша месцазнаходжанне."</string>
+Перад выкарыстаннем гэтага сродку вам неабходна прыняць Палітыку канфідэнцыяльнасці Facemoji."</string>
+    <string name="terms_of_use_lable_default_input_method_kika">"
+
+Перад выкарыстаннем гэтага сродку вам неабходна прыняць Палітыку канфідэнцыяльнасці Kika."</string>
     <string name="user_agreement">Умовы выкарыстання</string>
     <string name="privacy_policy">Палітыка канфідэнцыяльнасці</string>
+    <string name="terms_privacy_policy_input_method_kika">Палітыка канфідэнцыяльнасці Kika</string>
+    <string name="terms_privacy_policy_input_method_facemoji">Палітыка канфідэнцыяльнасці Facemoji</string>
     <string name="application_permissions">Дазволы праграм</string>
     <string name="agree">Згадзіцца</string>
     <string name="disagree">Скасаваць</string>
     <string name="setting_locale">Налады рэгіёна…</string>
     <string name="agree_terms">Я прачытаў і згаджаюся з Умовамі выкарыстання і Палітыкай канфідэнцыяльнасці.</string>
+    <string name="agree_terms_input_method_facemoji">Я прачытаў і прымаю Палітыку канфідэнцыяльнасці Facemoji.</string>
+    <string name="agree_terms_input_method_kika">Я прачытаў і прымаю Палітыку канфідэнцыяльнасці Kika.</string>
     <string name="miui_terms_no_network">Няма падключэння да інтэрнэту. Азнаёміцца з Умовамі выкарыстання на %s.</string>
     <string name="miui_privacy_policy_no_network">Няма падключэння да інтэрнэту. Азнаёміцца з Палітыкай канфідэнцыяльнасці на %s.</string>
     <string name="locale_picker_title">Выберыце свой рэгіён</string>
@@ -72,7 +83,7 @@
     <string name="desc_international_fingerprint">Выкарыстоўвайце адбітак пальца для разблакавання прылады або для ўваходу ў праграмы і сэрвісы.</string>
     <string name="content_description_start">Пачаць</string>
     <string name="start_up_slogan">Новая эра поўнаэкранных смартфонаў</string>
-    <string name="content_description_miui_version">MIUI 9</string>
+    <string name="content_description_miui_version">MIUI 10</string>
     <string name="content_description_complete">Завершана</string>
     <string name="language_picker_other_languages_title">Іншыя мовы</string>
     <string name="language_settings">Выбраць мову</string>
@@ -89,4 +100,5 @@
     <string name="continue_to_enable_accessibility">Працягвайце націскаць на экран двумя пальцамі каб уключыць TalkBack.</string>
     <string name="voice_assist_title">Галасавы дапаможнік</string>
     <string name="voice_assist_desp">Скажыце \"Мі АІ\" вашай прыладзе. Мі АІ распазнае ваш голас і дапаможа кіраваць вашай прыладай.</string>
+    <string name="voice_assist_desp_screen_light">Пасля ўключэння экрана скажыце \"Mi AI\" свайму тэлефоне. Mi AI распазнае ваш голас і зможа кіраваць вашай прыладай.</string>
 </resources>

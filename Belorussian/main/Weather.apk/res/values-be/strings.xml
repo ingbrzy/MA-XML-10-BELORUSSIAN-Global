@@ -81,9 +81,11 @@
     <string name="daily_forecast_add_city_message">Follow the weather in %1$s for a more detailed forecast.</string>
     <string name="daily_forecast_add_city_title">Follow the weather in %1$s</string>
     <string name="daily_forecast_detail_date">dd.MM</string>
+    <string name="daily_forecast_detail_date_format">%1$s - %2$s</string>
     <string name="daily_forecast_no_data">Дадзеныя не атрыманы. Пацягніце ўніз для абнаўлення ці праверце налады сеткі</string>
     <string name="data_provided_by">Дадзеныя прадастаўленыя</string>
     <string name="edit_city">Змяніць горад</string>
+    <string name="empty">" "</string>
     <string name="eu_region_version_first_start_network_msg">Выкарыстоўваючы гэты прадукт, вы згаджаецеся, што Xiaomi будзе збіраць, апрацоўваць і выкарыстоўваць вашу асабістую інфармацыю, уключаючы каардынаты гарадоў, каторыя вы будзеце шукаць, і іншыя тыпы дадзеных, указаных у нашай Палітыцы канфідэнцыяльнасці. Звярніцеся да нашай Палітыкі канфідэнцыяльнасці, каб даведацца, як мы збіраем і апрацоўваем інфармацыю. Націснуўшы \"Пагадзіцца\", вы прымаеце %1$s і %2$s Xiaomi.</string>
     <string name="feedback_heavy_rain">Моцны дождж</string>
     <string name="feedback_heavy_snow">Снег</string>
@@ -96,6 +98,8 @@
     <string name="first_start_network_title">Падключэнне да інтэрнэту і доступ да месцазнаходжання</string>
     <string name="global_aqi">AQI: %1$s %2$s</string>
     <string name="hourly_forcast_now">Зараз</string>
+    <string name="hourly_forecast_bottom_aqi_chinese">%1$s %2$s</string>
+    <string name="hourly_forecast_bottom_aqi_else">%1$s</string>
     <string name="hourly_forecast_date">dd.MM</string>
     <string name="index_item_experience_now">Усталяваць</string>
     <string name="index_item_install_dialog" />
@@ -107,10 +111,12 @@
     <string name="indices_title_feel">Адчуваецца</string>
     <string name="indices_title_pressure">Ціск</string>
     <string name="install">Усталяваць</string>
+    <string name="install_progress">%1$s%%</string>
     <string name="international_details_pressure_title">ЦІСК</string>
     <string name="international_details_real_feel_title">REAL FEEL®</string>
     <string name="international_details_title">Падрабязнасці</string>
     <string name="international_details_uv_index_title">ІНДЭКС УФ</string>
+    <string name="international_details_wind_connect">%1$s %2$s</string>
     <string name="international_details_wind_title">ВЕЦЕР</string>
     <string name="it_is_going_to_rain">Збіраецца на дождж</string>
     <string name="locate_fail_detail_err">"Немагчыма вызначыць месцазнаходжанне
@@ -181,6 +187,7 @@
     <string name="share_menu_title">Падзяліцца</string>
     <string name="share_subject">Падзяліцца</string>
     <string name="share_weather_desc">"\#Надвор'е MIUI#Сёння %1$s %2$s"</string>
+    <string name="share_weather_desc_alert">%1$s%2$s</string>
     <string name="share_weather_desc_split">,</string>
     <string name="share_weather_save_pic_fail">Немагчыма зрабіць здымак экрана</string>
     <string name="some_where_on_earth">Дзесьці на Зямлі</string>

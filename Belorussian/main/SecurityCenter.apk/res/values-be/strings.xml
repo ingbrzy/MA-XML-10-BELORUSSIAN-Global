@@ -282,7 +282,7 @@
     <string name="organization">Арганізацыя</string>
     <string name="im">IM</string>
     <string name="sip_phone">SIP тэлефон</string>
-    <string name="birthday">Дзень народзінаў</string>
+    <string name="birthday">Дзень нараджэння</string>
     <string name="website">Вэб-сайт</string>
     <string name="address">Адрас</string>
     <string name="note">Нататка</string>
@@ -433,6 +433,7 @@
     <string name="managed_user_title">Усе праграмы для працы</string>
     <string name="pref_about_traffic_title">Налады трафіка</string>
     <string name="pref_traffic_manage_title">Кантроль трафіка</string>
+    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_package_traffic_settings">Тарыфны план</string>
     <string name="pref_adjust_traffic_data">Задаць трафік</string>
     <string name="pref_category_title_other">Дадатковыя налады</string>
@@ -442,8 +443,8 @@
     <string name="pref_title_declaration">Адмова ад адказнасці</string>
     <string name="pref_new_installed_preconfig_title">Налады для новых праграм</string>
     <string name="pref_bg_network_title">Фонавае падключэнне</string>
-    <string name="pref_mi_sim_settings">Налады Mi SIM</string>
-    <string name="pref_title_upload_data_usage">Паведамляць статыстыку выкарыстання дадзеных</string>
+    <string name="pref_mi_sim_settings">Налады пакетаў %s</string>
+    <string name="pref_title_upload_data_usage">Адпраўляць справаздачы пра трафік</string>
     <string name="pref_summary_upload_data_usage">Адпраўляйце справаздачы аб трафіку, каб дапамагчы нам палепшыць MIUI. Справаздачнасць ажыццяўляецца ў адпаведнасці з нашай Палітыкай канфідэнцыяльнасці.</string>
     <string name="pref_manual_adjust">Увесці статыстыку трафіка ўручную</string>
     <string name="pref_daily_adjust">Увод дзённага трафіка</string>
@@ -885,6 +886,7 @@ Rolled over extra data"</string>
     <string name="status_bar_network_flow_content">Сёння: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Засталося: %2$s</string>
     <string name="status_bar_network_flow_content_not_setting">Сёння: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;За месяц: %2$s</string>
     <string name="status_bar_network_flow_today">Сёння: %1$s</string>
+    <string name="status_bar_network_flow_content_virtual_card">%1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;%2$s&amp;nbsp;&amp;nbsp;&amp;nbsp;</string>
     <string name="pref_key_tethering_setting">Аднаразовы ліміт трафіка</string>
     <string name="pref_key_tethering_title">Аднаразовы ліміт трафіка</string>
     <string name="tether_limit_value_custom">Уласны</string>
@@ -958,6 +960,7 @@ Rolled over extra data"</string>
     <string name="om_formatted_percent_string">%s%%</string>
     <string name="om_cpu_usage_warn_title_text">"Гэта праграма можа запаволіць
 працу вашай прылады"</string>
+    <string name="om_memory_clean_memory_info_text">%1$s / %2$s</string>
     <string name="om_ill_proc_handle_unstaill_title">Выдаліць %s?</string>
     <string name="om_ill_proc_handle_uninstall_prompt">Выдаліце ​​праграму, каб вырашыць праблемы з батарэяй.</string>
     <string name="om_ill_proc_type_wakelock_title">Праграма блакуе рэжым сну і разраджае батарэю</string>
@@ -1016,6 +1019,7 @@ Rolled over extra data"</string>
     <string name="usage_type_data_send">Мабільныя дадзеныя адпраўлены</string>
     <string name="usage_type_no_coverage">Час адсутнасці сігналу</string>
     <string name="usage_type_gps">GPS</string>
+    <string name="process_kernel_label">Android</string>
     <string name="process_mediaserver_label">Медыя-сервер</string>
     <string name="power_screen">Экран</string>
     <string name="power_wifi">Wi-Fi</string>
@@ -1309,7 +1313,7 @@ Rolled over extra data"</string>
     <string name="path_securitycenter">Сістэмныя праграмы/Бяспека</string>
     <string name="resource_cleanmaster">Ачыстка</string>
     <string name="keywords_cleanmaster">Смецце;Ачысціць;Хуткасць;Памяць;Кэш;Ачысціць памяць;ачысціць смецце;смецце;вызваліць;вызваліць памяць;вызваліць месца;ачысціць;глыбокая ачыстка;ачысціць</string>
-    <string name="path_cleanmaster">Сістэмныя праграмы/Бяспека/Ачысціць</string>
+    <string name="path_cleanmaster">Сістэмныя праграмы/Бяспека/Ачыстка</string>
     <string name="resource_antivirus">Антывірус</string>
     <string name="keywords_antivirus">Вірус;Пагроза;Антывірус;Праверка;Праверка бяспекі плацяжоў;бяспечная аплата;бяспечны плацеж;бяспечныя плацяжы;абарона аплаты;абарона плацяжоў;абароненыя плацяжы;бяспечная зона;зона аплаты</string>
     <string name="path_antivirus">Сістэмныя праграмы/Бяспека/Антывірус</string>
@@ -1362,11 +1366,13 @@ Rolled over extra data"</string>
     <string name="menu_text_optimize_manage">Паскарэнне</string>
     <string name="menu_text_networkassistants">Трафік</string>
     <string name="menu_summary_networkassistants">Кіруйце сваім тарыфам</string>
+    <string name="menu_text_networkassistants_2">%s</string>
     <string name="menu_summary_networkassistants_2">Перавышаны ліміт трафіка</string>
     <string name="menu_summary_networkassistants_3">Трафіка дастаткова</string>
     <string name="menu_summary_networkassistants_4">Трафік заканчваецца</string>
     <string name="menu_text_networkassistants_remain">%s засталося</string>
     <string name="menu_text_networkassistants_danger">перавышана на %s</string>
+    <string name="menu_text_networkassistants_data">%1$s %2$s</string>
     <string name="menu_text_networkassistants_unit_gb">ГБ</string>
     <string name="menu_text_networkassistants_unit_mb">МБ</string>
     <string name="menu_text_networkassistants_unit_kb">КБ</string>
@@ -1379,12 +1385,14 @@ Rolled over extra data"</string>
     <string name="menu_summary_garbage_cleanup">Няма смецця</string>
     <string name="menu_summary_garbage_cleanup_2">Памер смецця</string>
     <string name="menu_summary_garbage_cleanup_3">Ачысціць смецце</string>
+    <string name="menu_text_garbage_cleanup_danger">%s</string>
     <string name="menu_text_power_manager">Выкарыстанне батарэі</string>
     <string name="menu_summary_power_manager">Энергазберажэнне павялічвае час паміж зарадкамі</string>
     <string name="menu_summary_power_manager_1">Батарэя зараджана</string>
     <string name="menu_summary_power_manager_2">Засталося %s</string>
     <string name="menu_summary_power_manager_3">Батарэя разраджана</string>
     <string name="menu_summary_power_manager_4">Да поўнага зараду %s</string>
+    <string name="menu_text_power_percent_title">%s</string>
     <string name="last_check_canceled">Папярэдняя праверка была скасавана</string>
     <string name="examination_score_100">Усё добра!</string>
     <string name="examination_score_80_100">Некалькі рэчаў можна аптымізаваць</string>
@@ -1750,6 +1758,7 @@ Rolled over extra data"</string>
     <string name="card_main_deepclean_wechat_action">Ачысціць</string>
     <string name="card_main_sectool_title">Інструменты</string>
     <string name="card_main_monthreport_action">Прагледзець</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_netcheck_title">Дыягностыка сеткі</string>
     <string name="card_main_netcheck_summary">Пратэстуйце сетку на наяўнасць праблем</string>
     <string name="card_main_netcheck_action">Тэст</string>
@@ -1918,6 +1927,9 @@ Rolled over extra data"</string>
     <string name="set_pattern_password_name">Задайце графічны ключ</string>
     <string name="set_numeric_password_name">Усталяваць PIN</string>
     <string name="set_mixed_password_name">Задайце пароль</string>
+    <string name="reset_data_title">Не ўдаецца аднавіць пароль</string>
+    <string name="reset_data_dialog_message">Гэта прылада не звязана з вашым Мі акаўнтам. Немагчыма аднавіць або скінуць пароль. Стварыце рэзервную копію ўсіх важных дадзеных і выканайце скід налад. Пры гэтым усе дадзеныя будуць выдалены назаўжды, а ваша SD-карта будзе адфарматавана.</string>
+    <string name="reset_data_dialog_ok">Скід налад</string>
     <string name="wakepath_confirm_start_activity">Дазволіць %1$s адкрыць %2$s?</string>
     <string name="unlike">Не, дзякуй</string>
     <string name="toast_network_eror">Немагчыма злучыцца з сеткай</string>
@@ -2152,7 +2164,7 @@ Rolled over extra data"</string>
     <string name="top_no_network_detial">Не атрымалася спампаваць файлы, праверце налады сеткі і паспрабуйце ізноў</string>
     <string name="boosting">Паскарэнне…</string>
     <string name="get_sys_info">Атрыманне інфармацыі…</string>
-    <string name="function_close">Выкл</string>
+    <string name="function_close">Адкл</string>
     <string name="add_done">Паспяхова дададзена</string>
     <string name="boost_done">Паспяхова паскорана</string>
     <string name="boost_stop">Выключыць паскарэнне</string>
@@ -2170,7 +2182,7 @@ Rolled over extra data"</string>
     <string name="sys_title_gamebooster_unit_mb">МБ</string>
     <string name="gmscore_support_service">Сэрвісы Google</string>
     <string name="gmscore_support_remind">Уключыце гэтую функцыю, калі ў вас ёсць праблемы з выкарыстаннем Gmail, Карт і іншых праграм Google. Гэта крыху павялічыць расход зараду батарэі.</string>
-    <string name="google_base_app_install_choice">\"%s\" патрабуе наяўнасці Google Service Framework для звычайнай працы, спампаваць і ўсталяваць?</string>
+    <string name="google_base_app_install_choice">Праграма патрабуе наяўнасці Google Services Framework для нармальнай працы, спампаваць і ўсталяваць?</string>
     <string name="application_item_disable">Забаронена</string>
     <string name="application_item_already_permission">Дазволена</string>
     <string name="man_add_application">Дадаць праграму з аўтазапускам</string>
@@ -2267,7 +2279,7 @@ Rolled over extra data"</string>
     <string name="gb_signed_title">Адзначана ў гэтым месяцы</string>
     <string name="gb_network_status_bad">Здарылася памылка злучэння.</string>
     <string name="gs_open_game_booster_summary">Паскарэнне хуткасці сеткі для гульняў</string>
-    <string name="gb_signed_gift_loading_summary">Секунду…</string>
+    <string name="gb_signed_gift_loading_summary">Хвілінку…</string>
     <string name="gb_signed_gift_loading_fail">Не атрымалася загрузіць</string>
     <string name="gb_msg_completely_shielded">Схаваць паведамленні</string>
     <string name="gb_msg_quickly_answer">Дазволіць хуткія адказы</string>

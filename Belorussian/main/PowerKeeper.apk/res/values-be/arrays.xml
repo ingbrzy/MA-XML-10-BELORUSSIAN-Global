@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="hmode_app_groups">
-        <item>Карыстальніцкі</item>
-        <item>Энергазберажэнне</item>
+    <string-array name="pc_manage_active_app_items">
+        <item>Перавесці праграмы ў сон</item>
+        <item>Эканоміць энергію</item>
+    </string-array>
+    <string-array name="hmode_app_classify1">
+        <item>Асаблівы</item>
+        <item>Эканомія зараду батарэі</item>
+    </string-array>
+    <string-array name="hmode_app_classify2">
+        <item>Актыўныя праграмы</item>
+        <item>Спячыя праграмы</item>
     </string-array>
     <string-array name="thermal_entries">
         <item>Кантроль тэмпературы па змаўчанні</item>
         <item>Рэжым прадукцыйнасці</item>
     </string-array>
     <string-array name="thermal_summaries">
-        <item>Бягучы рэжым кантролю тэмпературы</item>
-        <item>Бягучы рэжым прадукцыйнасці</item>
+        <item>Прыярытэт кантролю тэмпературы</item>
+        <item>Прыярытэт прадукцыйнасці</item>
     </string-array>
     <string-array name="power_mode_entries">
         <item>Прадукцыйнасць</item>

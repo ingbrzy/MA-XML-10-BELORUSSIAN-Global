@@ -164,11 +164,11 @@
     <string name="done_remove">Выдаленне завершана</string>
     <string name="doing_restore_home">Аднаўленне працоўнага стала і налад…</string>
     <string name="title_alert_cancel_restore">Спыніць аднаўленне</string>
-    <string name="msg_alert_cancel_restore">Cloud backup is restoring, stop it?</string>
+    <string name="msg_alert_cancel_restore">Ідзе аднаўленне. Спыніць яго?</string>
     <string name="btn_restore_cancel">Скасаваць</string>
     <string name="btn_restore_resume">Працягнуць</string>
-    <string name="title_alert_restore_error">Здарылася памылка пры аднаўленні</string>
-    <string name="msg_alert_restore_error">Restore cloud backup failed, try again please.</string>
-    <string name="btn_restore_retry">Паўтарыць</string>
+    <string name="title_alert_restore_error">Не атрымалася аднавіць</string>
+    <string name="msg_alert_restore_error">"Не атрымалася аднавіць аб'екты з Mi Cloud. Паспрабуйце яшчэ раз."</string>
+    <string name="btn_restore_retry">Паспрабаваць зноў</string>
     <string name="btn_restore_abort">Скасаваць</string>
 </resources>

@@ -86,4 +86,7 @@
     <string name="sleepmode_privacy_link">Падрабязней пра канфідэнцыяльнасць</string>
     <string name="sleepmode_disclaimer_cancel">Скасаваць</string>
     <string name="sleepmode_disclaimer_agree">Пагадзіцца</string>
+    <string name="appconfig_active_app_dialog_title">Кіраванне актыўнасцю</string>
+    <string name="config_classify">Сартаваць па наладах</string>
+    <string name="active_classify">Сартаваць па актыўнасці</string>
 </resources>

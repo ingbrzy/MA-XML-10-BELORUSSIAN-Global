@@ -1,54 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="delete_confirm_multiple_files">
+    <plurals name="a">
         <item quantity="other">Delete %d selected files?</item>
         <item quantity="one">Delete %d selected file?</item>
         <item quantity="few">Delete %d selected files?</item>
         <item quantity="many">Delete %d selected files?</item>
     </plurals>
-    <plurals name="notif_receive_cancel">
+    <plurals name="b">
         <item quantity="other">Адменена перадача з %1$s</item>
         <item quantity="one">Адменена перадача з %1$s</item>
         <item quantity="few">Адменена перадача з %1$s</item>
         <item quantity="many">Canceled transfer from %1$s</item>
     </plurals>
-    <plurals name="notif_receive_progress">
+    <plurals name="c">
         <item quantity="other">Атрыманне %1$s файлаў…</item>
         <item quantity="one">Атрыманне %1$s файла…</item>
         <item quantity="few">Атрыманне %1$s файлаў…</item>
         <item quantity="many">Receiving %1$s files…</item>
     </plurals>
-    <plurals name="notif_receive_success">
+    <plurals name="d">
         <item quantity="other">Файлы з %1$s атрыманы паспяхова</item>
         <item quantity="one">Файл з %1$s атрыманы паспяхова</item>
         <item quantity="few">Файлы з %1$s атрыманы паспяхова</item>
         <item quantity="many">Received files from %1$s successfully</item>
     </plurals>
-    <plurals name="receiver_file_num">
+    <plurals name="e">
         <item quantity="other">%2$d файлаў з %1$s</item>
         <item quantity="one">%2$d файл з %1$s</item>
         <item quantity="few">%2$d файлы з %1$s</item>
         <item quantity="many">%2$d files from %1$s</item>
     </plurals>
-    <plurals name="selected_file_num">
+    <plurals name="f">
         <item quantity="other">Selected %d items</item>
         <item quantity="one">Selected %d item</item>
         <item quantity="few">Selected %d items</item>
         <item quantity="many">Selected %d items</item>
     </plurals>
-    <plurals name="sender_file_num">
+    <plurals name="g">
         <item quantity="other">"%1$d аб'ект"</item>
         <item quantity="one">"%1$d аб'ект"</item>
         <item quantity="few">"%1$d аб'ект"</item>
         <item quantity="many">"%1$d аб'ект"</item>
     </plurals>
-    <plurals name="transfer_list_received_header">
+    <plurals name="h">
         <item quantity="other">Атрымана %1$d файлаў ад (%2$s)</item>
         <item quantity="one">Receive %1$d file (%2$s)</item>
         <item quantity="few">Receive %1$d files (%2$s)</item>
         <item quantity="many">Receive %1$d files (%2$s)</item>
     </plurals>
-    <plurals name="transfer_list_sent_header">
+    <plurals name="i">
         <item quantity="other">Адправіць %1$d файлаў (%2$s)</item>
         <item quantity="one">Адправіць %1$d файл (%2$s)</item>
         <item quantity="few">Адправіць %1$d файлы (%2$s)</item>

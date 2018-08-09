@@ -2,7 +2,7 @@
 <resources>
     <string name="label">MIUI SDK</string>
     <string name="send">Даслаць</string>
-    <string name="close">Зачыніць</string>
+    <string name="close">Закрыць</string>
     <string name="date_picker_label_year" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_day" />
@@ -46,6 +46,7 @@
     <string name="size_giga_byte">ГБ</string>
     <string name="size_tera_byte">ТБ</string>
     <string name="size_peta_byte">ПБ</string>
+    <string name="size_suffix">%1$s%2$s</string>
     <string name="date_time_done">Зроблена</string>
     <string name="date_picker_dialog_title">Усталяваць дату</string>
     <string name="time_picker_dialog_title">Усталяваць час</string>
@@ -65,6 +66,7 @@
     <string name="error_forbidden">Сінхранізацыя адключана з-за праблем з вашым Mi Акаўнтам.</string>
     <string name="error_not_acceptable">Сінхранізацыя адключана.</string>
     <string name="more">Больш</string>
+    <string name="empty" />
     <string name="solar_term_slight_cold">Slight Cold</string>
     <string name="solar_term_great_cold">Great Cold</string>
     <string name="solar_term_spring_begins">Spring Begins</string>
@@ -249,7 +251,7 @@
     <string name="organization">Арганізацыя</string>
     <string name="im">IM</string>
     <string name="sip_phone">SIP тэлефон</string>
-    <string name="birthday">Дзень народзінаў</string>
+    <string name="birthday">Дзень нараджэння</string>
     <string name="website">Сайт</string>
     <string name="address">Адрас</string>
     <string name="note">Нататка</string>
@@ -583,7 +585,7 @@
     <string name="webview_reload">Паспрабаваць зноў</string>
     <string name="hybrid_provider">Прадастаўлена %1$s</string>
     <string name="xiaomi_mobile">Mi Mobile</string>
-    <string name="immersion_button_close_description">Зачыніць</string>
+    <string name="immersion_button_close_description">Закрыць</string>
     <string name="search_input_description">Пошук</string>
     <string name="search_mode_button_back_description">Назад</string>
     <string name="actionbar_immersion_button_more_description">Больш</string>

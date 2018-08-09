@@ -425,4 +425,5 @@
     <string name="xiaomi_calendar_display_name">Каляндар Mi Акаўнта</string>
     <string name="yearly">Штогод (%s)</string>
     <string name="yearly_plain">Штогод</string>
+    <string name="discard_label">Cancel</string>
 </resources>

@@ -54,6 +54,12 @@
         <item quantity="few">Імпартаваны %1$d кантакты</item>
         <item quantity="many">Імпартавана %1$d кантактаў</item>
     </plurals>
+    <plurals name="device_import_progress_toast_plurals">
+        <item quantity="other">Імпартавана %1$d кантактаў</item>
+        <item quantity="one">Імпартаваны %1$d кантакт</item>
+        <item quantity="few">Імпартавана %1$d кантакты</item>
+        <item quantity="many">Імпартавана %1$d кантактаў</item>
+    </plurals>
     <plurals name="dlg_add_blacklist">
         <item quantity="other">Дадаць %1$d нумара ў чорны спіс?</item>
         <item quantity="one">Дадаць %1$d нумар у чорны спіс?</item>

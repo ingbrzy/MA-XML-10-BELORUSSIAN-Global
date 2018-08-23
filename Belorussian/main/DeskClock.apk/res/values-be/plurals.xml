@@ -19,10 +19,10 @@
         <item quantity="many">Выдаліць выбраныя часавыя паясы?</item>
     </plurals>
     <plurals name="second">
-        <item quantity="other">%d seconds</item>
-        <item quantity="one">%d second</item>
-        <item quantity="few">%d seconds</item>
-        <item quantity="many">%d seconds</item>
+        <item quantity="other">%d секунд</item>
+        <item quantity="one">%d секунда</item>
+        <item quantity="few">%d секунды</item>
+        <item quantity="many">%d секунд</item>
     </plurals>
     <plurals name="snooze_message">
         <item quantity="other">Адкласці на %d хвіліны</item>

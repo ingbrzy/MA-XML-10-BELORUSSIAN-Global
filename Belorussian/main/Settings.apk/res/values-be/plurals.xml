@@ -330,6 +330,12 @@
         <item quantity="few">"%1$d перамыкача з'явіцца ў панэлі апавяшчэнняў"</item>
         <item quantity="many">"%1$d перамыкачоў з'явіцца ў панэлі апавяшчэнняў"</item>
     </plurals>
+    <plurals name="show_audio_logcat_countdown">
+        <item quantity="other">%1$d steps left before you can get audio log</item>
+        <item quantity="one">%1$d step left before you can get audio log</item>
+        <item quantity="few">%1$d steps left before you can get audio log</item>
+        <item quantity="many">%1$d steps left before you can get audio log</item>
+    </plurals>
     <plurals name="show_cit_countdown">
         <item quantity="other">Засталося %1$d кроку да адкрыцця Інжынернага меню.</item>
         <item quantity="one">Застаўся %1$d крок да адкрыцця Інжынернага меню.</item>
@@ -341,6 +347,18 @@
         <item quantity="one">Зараз вы ў %1$d кроку ад таго, каб стаць распрацоўшчыкам.</item>
         <item quantity="few">Зараз вы ў %1$d кроках ад таго, каб стаць распрацоўшчыкам.</item>
         <item quantity="many">Зараз вы ў %1$d кроках ад таго, каб стаць распрацоўшчыкам.</item>
+    </plurals>
+    <plurals name="show_gps_logcat_countdown">
+        <item quantity="other">%1$d steps left before you can get GPS log</item>
+        <item quantity="one">%1$d step left before you can get GPS log</item>
+        <item quantity="few">%1$d steps left before you can get GPS log</item>
+        <item quantity="many">%1$d steps left before you can get GPS log</item>
+    </plurals>
+    <plurals name="show_modem_logcat_countdown">
+        <item quantity="other">%1$d steps left before you can get modem log</item>
+        <item quantity="one">%1$d step left before you can get modem log</item>
+        <item quantity="few">%1$d steps left before you can get modem log</item>
+        <item quantity="many">%1$d steps left before you can get modem log</item>
     </plurals>
     <plurals name="show_pho_countdown">
         <item quantity="other">Засталося %1$d кроку да адкрыцця інфармацыі аб тэлефоне.</item>

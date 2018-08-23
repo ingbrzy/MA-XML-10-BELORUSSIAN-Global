@@ -164,7 +164,7 @@
     <string name="list_icon_delete">Delete</string>
     <string name="list_icon_drag">Rearrange</string>
     <string name="live">LIVE</string>
-    <string name="loading">Just a sec…</string>
+    <string name="loading">Хвілінку…</string>
     <string name="locating_fail">"Couldn't get location"</string>
     <string name="locations_preferences">Адрасы</string>
     <string name="login_ola">Sign in</string>
@@ -299,9 +299,10 @@
     <string name="title_schema_title">Highlight name</string>
     <string name="toast_function_add_not_allowed">Вы можаце дадаць да 8 ярлыкоў</string>
     <string name="toast_function_remove_not_allowed">Вы павінны дадаць хаця б 1 ярлык</string>
+    <string name="today_apps">Recommended</string>
     <string name="today_apps_bref">Discover cool new apps</string>
     <string name="today_apps_detail">Here you can find fresh apps that are becoming popular right now.</string>
-    <string name="today_apps_loading">Just a sec…</string>
+    <string name="today_apps_loading">Хвілінку…</string>
     <string name="today_apps_network_err">"Couldn't refresh info. Tap to try again."</string>
     <string name="today_apps_network_unavaliable">Connect to the network and try again.</string>
     <string name="today_deal">"Today's deals"</string>

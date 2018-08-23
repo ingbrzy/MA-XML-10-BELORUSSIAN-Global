@@ -48,6 +48,10 @@
         <item>Гэта і будучая падзея</item>
         <item>Усе падзеі</item>
     </string-array>
+    <string-array name="english_premium_league">
+        <item>4</item>
+        <item>@string/english_premium_league</item>
+    </string-array>
     <string-array name="gemini_info">
         <item>двайняты</item>
         <item>Двайняты</item>
@@ -217,7 +221,7 @@
         <item>Цэнтральны час</item>
         <item>Мехіка</item>
         <item>Саскачаван</item>
-        <item>Bogotá</item>
+        <item>Багата</item>
         <item>Усходні час</item>
         <item>Венесуэла</item>
         <item>Атлантычны час (Барбадас)</item>
@@ -231,7 +235,7 @@
         <item>Мантэвідэа</item>
         <item>Сярэднеатлантычны час</item>
         <item>Азорскія астравы</item>
-        <item>Cape Verde</item>
+        <item>Каба-Вэрдэ</item>
         <item>Касабланка</item>
         <item>Лондан, Дублін</item>
         <item>Амстэрдам, Берлін</item>
@@ -270,26 +274,26 @@
         <item>Бангкок</item>
         <item>Пекін</item>
         <item>Ганконг</item>
-        <item>Macao</item>
-        <item>Singapore</item>
-        <item>Irkutsk</item>
-        <item>Kuala Lumpur</item>
-        <item>Perth</item>
-        <item>Taipei</item>
-        <item>Seoul</item>
-        <item>Tokyo, Osaka</item>
-        <item>Yakutsk</item>
-        <item>Adelaide</item>
-        <item>Darwin</item>
-        <item>Brisbane</item>
-        <item>Hobart</item>
-        <item>Sydney, Canberra</item>
-        <item>Vladivostok</item>
-        <item>Guam</item>
-        <item>Magadan</item>
-        <item>Auckland</item>
-        <item>Fiji</item>
-        <item>Tonga</item>
+        <item>Макаа</item>
+        <item>Сінгапур</item>
+        <item>Іркуцк</item>
+        <item>Куала-Лумпур</item>
+        <item>Перт</item>
+        <item>Тайбэй</item>
+        <item>Сеул</item>
+        <item>Токіа, Осака</item>
+        <item>Якуцк</item>
+        <item>Адэлаіда</item>
+        <item>Дарвін</item>
+        <item>Брысбэн</item>
+        <item>Хобарт</item>
+        <item>Сіднэй, Канбера</item>
+        <item>Уладзівасток</item>
+        <item>Гуам</item>
+        <item>Магадан</item>
+        <item>Оклэнд</item>
+        <item>Фіджы</item>
+        <item>Тонга</item>
     </string-array>
     <string-array name="travel_reminder_minutes_labels">
         <item>За 3 гадзіны</item>

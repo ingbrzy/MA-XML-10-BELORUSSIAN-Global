@@ -10,7 +10,7 @@
     <string name="search_enable_earpiece_title">Выкарыстоўваць дынамік для прайгравання аўдыя</string>
     <string name="search_quliaty_title">Якасць запісу</string>
     <string name="keywords_search_record_list">Дыктафон;Расшыфроўка;Расшыфроўкі;Запіс;Падзяліцца запісам;Запіс;Запісы</string>
-    <string name="keywords_search_record">Новы запіс;Дадаць запіс;Запіс;Запісы;Расшыфроўка;Расшыфраваць;Дыктафон;Запіс гутаркі;Запіс гука;Дыктафон;Праграма для запісу;Як запісаць;Як запісаць гук;Як адшукаць Дыктафон;Дыктофон MIUI</string>
+    <string name="keywords_search_record">Новы запіс;Дадаць запіс;Запіс;Запісы;Расшыфроўка;Расшыфраваць;Дыктафон;Запіс гутаркі;Запіс гуку;Дыктафон;Праграма для запісу;Як запісаць;Як запісаць гук;Як адшукаць Дыктафон;Дыктофон MIUI</string>
     <string name="keywords_search_call_record">Запісаць выклікі;Запісаць выклік;Запіс выкліку;Запіс выклікаў</string>
     <string name="app_name">Дыктафон</string>
     <string name="record">Запіс</string>
@@ -42,7 +42,7 @@
     <string name="details">Падрабязнасці</string>
     <string name="deleting_message">Выдаленне…</string>
     <string name="rename_dialog_title">Перайменаванне запісу</string>
-    <string name="rename_duplicate">Запіс з такім імём ужо існуе.</string>
+    <string name="rename_duplicate">Запіс з такім імем ужо існуе.</string>
     <string name="rename_no_more_tip">Больш не паказваць</string>
     <string name="dialog_title_storage_full">Недастаткова вольнага месца</string>
     <string name="dialog_content_storage_full">Запіс была спыненая з-за недахопу месца ў памяці прылады.</string>
@@ -95,6 +95,7 @@
     <string name="error_sdcard_unmounted">SD-карта не падлучана</string>
     <string name="record_back_pressed_hint">Каб спыніць запіс, націсніце Назад зноў</string>
     <string name="record_mark_point">Пазнака %s</string>
+    <string name="record_format_preference_title">Фармат запісу</string>
     <string name="record_quliaty_preference_title">Якасць запісу</string>
     <string name="cloud_record_tip">Сінхранізаваць запісы з Mi Cloud.</string>
     <string name="cloud_record_open">Сінхранізаваць запісы</string>
@@ -152,4 +153,5 @@
     <string name="head_set_tip_dialog_ok">Зразумела</string>
     <string name="rename_fail_tip">Не атрымалася перайменаваць. Файл з такім імем ужо існуе.</string>
     <string name="dialog_privacy_revoke_tips">Пасля таго, як вы адклічаце аўтарызацыю, праграма спыніць збор дадзеных, а таксама ўсе звязаныя з імі дадзеныя будуць выдалены з сервераў. Гэта можа зрабіць праграму практычна непрыдатнай для выкарыстання. Усё роўна адклікаць аўтарызацыю? Для таго, каб гарантаваць бяспеку вашага акаўнта, ўвайдзіце ў i.mi.com, перш чым ануляваць аўтарызацыю на паслугі Mi Cloud.</string>
+    <string name="privacy_policy_title">Палітыка канфідэнцыяльнасці</string>
 </resources>

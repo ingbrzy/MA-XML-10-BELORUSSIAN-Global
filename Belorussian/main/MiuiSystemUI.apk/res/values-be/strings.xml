@@ -52,6 +52,7 @@
     <string name="accessibility_camera_button">Камера</string>
     <string name="accessibility_carrier_network_change_mode">Змена сеткі аператара.</string>
     <string name="accessibility_cast_name">Падлучана да %s.</string>
+    <string name="accessibility_casting">@string/quick_settings_casting</string>
     <string name="accessibility_casting_turned_off">Трансляцыя экрана была спынена.</string>
     <string name="accessibility_cell_data">Мабільны інтэрнэт</string>
     <string name="accessibility_cell_data_off">Мабільны інтэрнэт адключаны</string>
@@ -98,6 +99,9 @@
     <string name="accessibility_enter_lock_wallpaper">Націсніце, каб адкрыць карусель шпалер</string>
     <string name="accessibility_ethernet_connected">Злучана з сеткай.</string>
     <string name="accessibility_ethernet_disconnected">Адлучана ад сеткі.</string>
+    <string name="accessibility_fingerprint_dialog_app_icon">Значок праграмы</string>
+    <string name="accessibility_fingerprint_dialog_fingerprint_icon">Значок адбітка пальца</string>
+    <string name="accessibility_fingerprint_dialog_help_area">Даведачнае паведамленне</string>
     <string name="accessibility_gps_acquiring">GPS - налада месцазнаходжання.</string>
     <string name="accessibility_gps_enabled">GPS уключаны.</string>
     <string name="accessibility_home">Дадому</string>
@@ -288,6 +292,7 @@
     <string name="available_via_passpoint">Даступна праз %1$s</string>
     <string name="back">Назад</string>
     <string name="battery">Батарэя</string>
+    <string name="battery_can_use_time">Approximately %s remaining</string>
     <string name="battery_detail_charging_summary">Рэжым энергазберажэння недаступны падчас зарадкі</string>
     <string name="battery_detail_switch_summary">Скарачае прадуктыўнасць і фонавыя дадзеныя</string>
     <string name="battery_detail_switch_title">Энергазберажэнне</string>
@@ -515,10 +520,17 @@
     <string name="divider_menu_close">Закрыць</string>
     <string name="divider_menu_select_apps">Выбраць</string>
     <string name="divider_menu_swap_task">Замяніць</string>
+    <string name="dlg_cancel">Cancel</string>
+    <string name="dlg_confirm">Turn on</string>
     <string name="dlg_confirm_kill_storage_users_text">Пры ўключэнне USB сховішча, некаторыя праграмы могуць быць спынены і могуць быць недаступныя да адключэння USB сховішча.</string>
     <string name="dlg_confirm_kill_storage_users_title">Уключэнне USB сховішча</string>
     <string name="dlg_error_title">USB аперацыя не атрымалася</string>
     <string name="dlg_ok">OK</string>
+    <string name="dlg_summary_close_app">Restrict background activity and notifications</string>
+    <string name="dlg_summary_close_theme">Restrict animated themes</string>
+    <string name="dlg_summary_close_wifi">Turn off Wi-Fi, Bluetooth, and portable hotspot</string>
+    <string name="dlg_summary_nfc">Turn off NFC</string>
+    <string name="dlg_summary_title">Extreme battery saver stops all background activity after you leave an app and go back to the Home screen. If you want an app to be running in the background, add it to background exceptions.</string>
     <string name="dnd_is_off">Рэжым \"Не турбаваць\" адкл.</string>
     <string name="do_disclosure_generic">Гэта прылада кіруецца вашай арганізацыяй</string>
     <string name="do_disclosure_with_name">Гэта прылада кіруецца %s</string>
@@ -542,6 +554,7 @@
     <string name="enable_bluetooth_message">Каб злучыць клавіятуру з планшэтам, уключыце Bluetooth.</string>
     <string name="enable_bluetooth_title">Уключыць Bluetooth?</string>
     <string name="enable_demo_mode">Уключыць дэманстрацыйны рэжым</string>
+    <string name="enable_extreme_power_save_mode">Extreme battery saver</string>
     <string name="enable_freeform_support">Дазволіць стварэнне акон вольнай формы</string>
     <string name="enable_freeform_support_summary">Уключыць падтрымку для акон вольнай формы.</string>
     <string name="enable_opengl_traces_title">Уключыць OpenGL адсочванне</string>
@@ -628,6 +641,7 @@
     <string name="fingerprint_add_text">Інтэрфейс праграмы адбіткаў пальцаў быў абноўлены. Дадайце адбіткі пальцаў зноў.</string>
     <string name="fingerprint_add_title">Дадаць адбітак пальца</string>
     <string name="fingerprint_again_identified_msg">Цяпер адбітак пальца актыўны. Каб разблакаваць прыладу, можна карыстацца ім або ўвесці пароль.</string>
+    <string name="fingerprint_dialog_touch_sensor">Дакраніцеся да сканару адбіткаў</string>
     <string name="fingerprint_enter_second_psw_msg">Калі ласка, увядзіце пароль для Другой прасторы пасля перазагрузкі прылады, каб выкарыстоўваць функцыю распазнання адбіткаў пальцаў</string>
     <string name="fingerprint_enter_second_psw_msg_oldman">Немагчыма ўвайсці ў Другую прастору ў палегчаным рэжыме</string>
     <string name="fingerprint_enter_second_psw_title">Увядзіце пароль Другой прасторы</string>
@@ -797,6 +811,10 @@
     <string name="keyguard_charged">Зараджана</string>
     <string name="keyguard_charging_info_battery_used_time_text">Праца ад батарэі</string>
     <string name="keyguard_charging_info_click_to_detail">Падрабязнасці</string>
+    <string name="keyguard_charging_info_data_c">%s℃</string>
+    <string name="keyguard_charging_info_data_ma">%s mA</string>
+    <string name="keyguard_charging_info_data_percent">%s%%</string>
+    <string name="keyguard_charging_info_data_v">%sV</string>
     <string name="keyguard_charging_info_drained_power_percent_text">Спажыванне зараду</string>
     <string name="keyguard_charging_info_last_charge_time">dd.MM H:mm</string>
     <string name="keyguard_charging_info_last_charge_today_time">Сёння %s</string>
@@ -820,6 +838,7 @@
     <string name="keyguard_missing_sim_instructions_long">SIM-карта адсутнічае або не чытаецца. Устаўце SIM-карту.</string>
     <string name="keyguard_missing_sim_message">У тэлефоне няма SIM-карты.</string>
     <string name="keyguard_missing_sim_message_short">Няма SIM-карты</string>
+    <string name="keyguard_more_overflow_text">+%d</string>
     <string name="keyguard_network_locked_message">Сетка заблакавана</string>
     <string name="keyguard_password_enter_password_code">Увядзіце пароль для разблакавання</string>
     <string name="keyguard_password_enter_pin_code">Увядзіце PIN-код</string>
@@ -903,6 +922,7 @@
     <string name="left_keycode">Код левай кнопкі</string>
     <string name="left_nav_bar_button_type">Дадатковы тып левай кнопкі</string>
     <string name="legacy_vpn_name">VPN</string>
+    <string name="list_delimeter">", "</string>
     <string name="local_backup_password_summary_change">Націсніце, каб змяніць ці выдаліць пароль</string>
     <string name="local_backup_password_summary_none">Поўныя рэзервовыя копіі галоўнага экрана не абаронены</string>
     <string name="local_backup_password_title">Пароль для рэзервовых копій пачатковага экрана</string>
@@ -964,6 +984,7 @@
     <string name="miui_guide_dialog_message">Гукі медыя (музыка, відэа і г. д.) будуць прайгравацца ў рэжыме \"Без гуку\". Вы можаце змяніць гэта ў Наладах.</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">Разблакіравана Bluetooth прыладай</string>
     <string name="miui_ringer_count_down">Зваротны адлік</string>
+    <string name="miui_ringer_count_down_time">%s</string>
     <string name="miui_ringer_standard">Без гуку</string>
     <string name="miui_ringer_standard_description">Адключэнне гуку для ўваходных выклікаў і апавяшчэнняў</string>
     <string name="miui_ringer_total">Не турбаваць</string>
@@ -990,12 +1011,14 @@
 
 За больш падрабязнай інфармацыяй звяртайцеся да адмінісратара."</string>
     <string name="monitoring_description_ca_cert_settings">Адкрытыя надзейныя ўліковыя дадзеныя</string>
+    <string name="monitoring_description_ca_cert_settings_separator">" "</string>
     <string name="monitoring_description_ca_certificate">На прыладзе ўсталяваны цэнтр сертыфікацыі. Ваш абаронены сеткавы трафік могуць праглядаць ці змяняць.</string>
     <string name="monitoring_description_do_body">Ваш адміністратар можа адсочваць і кіраваць наладамі, карпаратыўным доступам, праграмамі, дадзенымі, звязанымі з вашай прыладай, і інфармацыяй пра месцазнаходжанне вашай прылады.</string>
     <string name="monitoring_description_do_body_vpn">Вы падлучаныя да праграмы %1$s, якая можа адсочваць вашыя дзеянні ў сетцы, у тым ліку працу з электроннай поштай, праграмамі і сайтамі.</string>
     <string name="monitoring_description_do_header_generic">Ваша прылада кіруецца %1$s.</string>
     <string name="monitoring_description_do_header_with_name">%1$s выкарыстоўвае %2$s, каб кіраваць вашай прыладай.</string>
     <string name="monitoring_description_do_learn_more">Даведацца больш</string>
+    <string name="monitoring_description_do_learn_more_separator">" "</string>
     <string name="monitoring_description_managed_profile_ca_certificate">Ваша арганізацыя ўсталявала ў працоўным профілі цэнтр сертыфікацыі. Ваш абаронены сеткавы трафік могуць праглядаць ці змяняць.</string>
     <string name="monitoring_description_managed_profile_named_vpn">Ваш працоўны профіль падлучаны да прыстасавання %1$s, якое можа адсочваць вашыя дзеянні ў сетцы, у тым ліку працу з электроннай поштай, прыстасаваннямі і сайтамі.</string>
     <string name="monitoring_description_management">"Вашай прыладай кіруе арганізацыя.
@@ -1027,6 +1050,7 @@
 
 Вы таксама падлучаны да VPN, які можа кантраляваць сеткавую актыўнасць."</string>
     <string name="monitoring_description_vpn_settings">Адчыніць налады VPN</string>
+    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_subtitle_ca_certificate">Сертыфікат CA</string>
     <string name="monitoring_subtitle_network_logging">Сеткавы журнал</string>
     <string name="monitoring_subtitle_vpn">VPN</string>
@@ -1041,6 +1065,7 @@
     <string name="nav_guide_message">Выкарыстоўвайце жэсты, каб схаваць/паказаць наэкранныя кнопкі.</string>
     <string name="nav_guide_ok">Наладзіць</string>
     <string name="nav_guide_title">Схаваць наэкранныя кнопкі</string>
+    <string name="network_speed_suffix">%1$s%2$s</string>
     <string name="no_application">Нічога</string>
     <string name="no_multi_window_app">Няма праграм, якія падтрымліваюць падзяленне экрана</string>
     <string name="no_notification_tips">Няма апавяшчэнняў</string>
@@ -1110,6 +1135,7 @@
     <string name="oldman_airplane_mode_text">Рэжым палёту</string>
     <string name="oldman_incall_text">Вярнуцца да выкліку</string>
     <string name="open_camera_hint_text">Правядзіце ўлева, каб адкрыць камеру</string>
+    <string name="open_extreme_power_save_mode_title">Turn on Extreme battery saver</string>
     <string name="open_remote_center_hint_text">Правядзіце ўправа, каб адкрыць Мі Пульт</string>
     <string name="other">Іншыя</string>
     <string name="overlay_display_devices_title">Эмуляцыя другасных дысплэяў</string>
@@ -1177,6 +1203,7 @@
     <string name="power_remaining_charging_duration_only">%1$s засталося да поўнай зарадкі</string>
     <string name="power_remaining_duration_only">Засталося каля %1$s</string>
     <string name="power_remaining_duration_only_short">Засталося %1$s</string>
+    <string name="process_kernel_label">АС Android</string>
     <string name="profile_owned_footer">Профіль можа адсочвацца</string>
     <string name="prompt_danger">Пагроза</string>
     <string name="prompt_detecting">Выяўленне</string>
@@ -1239,7 +1266,8 @@
     <string name="quick_settings_done">Зроблена</string>
     <string name="quick_settings_drivemode_label">Аўтамабільны рэжым</string>
     <string name="quick_settings_dual_location_label">Двайны GPS</string>
-    <string name="quick_settings_edit_label">Рэдагаваць</string>
+    <string name="quick_settings_edit_label">Больш</string>
+    <string name="quick_settings_extreme_batterysaver_label">Extreme battery saver</string>
     <string name="quick_settings_flashlight_label">Ліхтарык</string>
     <string name="quick_settings_gps_label">GPS</string>
     <string name="quick_settings_hotspot_label">Пункт доступу</string>
@@ -1703,6 +1731,7 @@ d MMMM"</string>
     <string name="wait_for_debugger">Чаканне адладжвальніка</string>
     <string name="wait_for_debugger_summary">Праграма, якая адладжваеца, будзе чакаць адладжвальніка перад запускам</string>
     <string name="wallpaper_global_des_drop_down_notify_text">Пусціце, каб паглядзець падрабязнасці</string>
+    <string name="weather_description_no_aqi">%1$s</string>
     <string name="weather_publish_time">Абноўлена %1$s</string>
     <string name="wifi_aggressive_handover">Агрэсіўны Wi‑Fi для мабільнай перадачы</string>
     <string name="wifi_aggressive_handover_summary">Калі ўключана, то будзе адбывацца аўтаматычнае пераключэнне на мабільны інтэрнэт, калі сігнал Wi-Fi слабы.</string>
@@ -1727,9 +1756,11 @@ d MMMM"</string>
     <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_security_none">Адсутнічае</string>
     <string name="wifi_security_passpoint">Passpoint</string>
+    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
     <string name="wifi_security_short_eap">802.1x</string>
+    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_wep">WEP</string>
     <string name="wifi_security_short_wpa">WPA</string>
     <string name="wifi_security_short_wpa2">WPA2</string>

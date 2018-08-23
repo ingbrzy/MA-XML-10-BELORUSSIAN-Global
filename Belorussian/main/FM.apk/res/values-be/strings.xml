@@ -12,6 +12,7 @@
     <string name="menu_save_station_presets">Дадаць у абранае</string>
     <string name="menu_speaker">Уключыць дынамік</string>
     <string name="menu_headset">Уключыць навушнікі</string>
+    <string name="menu_privacy">Privacy Policy</string>
     <string name="menu_exit">Выйсці</string>
     <string name="dialog_sleep_title">Таймер сну</string>
     <string name="search_dialog_title">Пошук станцый</string>

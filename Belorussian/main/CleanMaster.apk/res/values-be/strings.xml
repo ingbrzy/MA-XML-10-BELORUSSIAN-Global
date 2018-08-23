@@ -61,6 +61,7 @@
     <string name="pref_category_title_garbage_cleanup_check">Апавяшчэнні</string>
     <string name="pref_summary_garbage_cleanup_check_time">Стварыць расклад ачысткі</string>
     <string name="pref_title_garbage_cleanup_check_time">Расклад</string>
+    <string name="pref_about_privacy_title">Палітыка канфідэнцыяльнасці</string>
     <string name="pref_summary_garbage_cleanup_check_size">Ачышчаць аўтаматычна, калі назбіраецца пэўная колькасць смецця</string>
     <string name="pref_title_garbage_cleanup_check_size">Памер смецця</string>
     <string name="pref_title_garbage_cleanup_size">Памер смецця</string>
@@ -91,6 +92,7 @@
     <string name="hints_apk_header_left">Пакеты</string>
     <string name="hints_residual_header_left">Рэшткі файлаў</string>
     <string name="hints_memory_header_left">Памяць</string>
+    <string name="hints_header_left">%d</string>
     <string name="hints_large_file_header_left">Вялікія файлы: %d</string>
     <string name="hints_installed_apps_header_left">Усталяваныя праграмы: %d</string>
     <string name="toast_resolve_apk_error">Рашыць праблему файла apk</string>
@@ -299,6 +301,7 @@
     <string name="downloading">Спампоўка</string>
     <string name="installing">Усталёўка</string>
     <string name="start_install">Усталяваць</string>
+    <string name="empty">" "</string>
     <string name="open_browser">Адкрыць у браўзеры</string>
     <string name="title_share_link">Падзяліцца спасылкай</string>
     <string name="connecting">Злучэнне…</string>
@@ -554,7 +557,7 @@
     <string name="whatsapp_delete_done">Зроблена</string>
     <string name="whatsapp_title">Ачыстка WhatsApp</string>
     <string name="whatsapp_function_title">Ачыстка WhatsApp</string>
-    <string name="whatsapp_function_summery">Ачысціць ўкладанні ў WhatsApp</string>
+    <string name="whatsapp_function_summery">Ачысціць укладанні ў WhatsApp</string>
     <string name="clean_summary">Ачышчана %1$s файлаў</string>
     <string name="onekeyclean_boosting_title">Паскарэнне</string>
     <string name="onekeyclean_boosted_title">Ачышчана паспяхова</string>

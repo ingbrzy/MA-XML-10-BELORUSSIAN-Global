@@ -19,15 +19,15 @@
         <item quantity="many">%1$s нататак</item>
     </plurals>
     <plurals name="record_last_ten_seconds_reminder">
-        <item quantity="other">%d seconds left</item>
-        <item quantity="one">%d second left</item>
-        <item quantity="few">%d seconds left</item>
-        <item quantity="many">%d seconds left</item>
+        <item quantity="other">Засталося %d секунд</item>
+        <item quantity="one">Засталася %d секунда</item>
+        <item quantity="few">Засталося %d секунды</item>
+        <item quantity="many">Засталося %d секунд</item>
     </plurals>
     <plurals name="word_count">
-        <item quantity="other">%d characters</item>
-        <item quantity="one">%d character</item>
-        <item quantity="few">%d characters</item>
-        <item quantity="many">%d characters</item>
+        <item quantity="other">%d сімвалаў</item>
+        <item quantity="one">%d сімвал</item>
+        <item quantity="few">%d сімвала</item>
+        <item quantity="many">%d сімвалаў</item>
     </plurals>
 </resources>

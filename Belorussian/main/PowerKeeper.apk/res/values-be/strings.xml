@@ -4,7 +4,8 @@
     <string name="error_filename_too_long">Уведзенае імя файла занадта доўгае.</string>
     <string name="power_config_select_apps_title">Праграмы</string>
     <string name="power_config_event_delete">Выдаліць</string>
-    <string name="hide_mode_desc">Калі праграма запушчаная ў фонавым рэжыме, яе актыўнасць кантралюецца каб зменшыць расход батарэі.</string>
+    <string name="hide_mode_desc"><font color="#000000">When an app runs in the background, its activities will be monitored to reduce battery usage. This function will get and use user data according to %s</font></string>
+    <string name="privacy">Privacy policy</string>
     <string name="power_hide_mode_title">Батарэя і прадукцыйнасць</string>
     <string name="power_config_apps">Энергазберажэнне</string>
     <string name="app_list_title">Выбар праграм</string>
@@ -12,6 +13,7 @@
     <string name="about_hide_mode">Пра энергазберажэнне</string>
     <string name="show_system_app">Паказаць сістэмныя праграмы</string>
     <string name="hide_system_app">Схаваць сістэмныя праграмы</string>
+    <string name="about_extreme_mode">Extreme battery saver</string>
     <string name="scenario_policies_title">Разумныя сцэнары</string>
     <string name="config_scenario_policies_title">Сцэнары</string>
     <string name="scenario_policies_summary">Прымяняць розныя стратэгіі энергазберажэння для розных сцэнарыяў.</string>
@@ -89,4 +91,6 @@
     <string name="appconfig_active_app_dialog_title">Кіраванне актыўнасцю</string>
     <string name="config_classify">Сартаваць па наладах</string>
     <string name="active_classify">Сартаваць па актыўнасці</string>
+    <string name="extreme_mode_max_item_alert">Only 4 apps can be selected to be run in background in extreme battery save mode</string>
+    <string name="message_i_know">I Know</string>
 </resources>

@@ -65,6 +65,6 @@
     <string name="open_perm_title">Неабходны дазвол</string>
     <string name="cancel">Скасаваць</string>
     <string name="allow">Дазволіць</string>
-    <string name="preference_other">Other</string>
-    <string name="preference_privacy_title">Privacy Policy</string>
+    <string name="preference_other">Іншае</string>
+    <string name="preference_privacy_title">Палітыка канфідэнцыяльнасці</string>
 </resources>

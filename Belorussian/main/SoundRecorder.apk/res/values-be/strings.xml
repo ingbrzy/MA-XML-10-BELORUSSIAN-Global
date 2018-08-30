@@ -80,9 +80,9 @@
     <string name="record_download_complete">Спампавана</string>
     <string name="retry">Паўтарыць</string>
     <string name="start">Працягнуць</string>
-    <string name="record_downloading_notification">Спампоўка…</string>
+    <string name="record_downloading_notification">Спампаванне…</string>
     <string name="record_downloading_notification_count">%d спампоўваецца</string>
-    <string name="record_downloading_notification_complete">Спампоўка завершана</string>
+    <string name="record_downloading_notification_complete">Спампавана</string>
     <string name="wifi_recommended_title">Папярэджанне аб выкарыстанні трафіка</string>
     <string name="wifi_recommended_body" formatted="false">Пры пампаванні файла (%s) магчыма празмернае спажыванне мабільнага трафіка, што можа прывесці да збірання дадатковай платы мабільным аператарам. Націсніце %s для працягу спампоўкі пры наступным падключэнні да сеткі Wi-Fi.</string>
     <string name="button_queue_for_wifi">Адкласці</string>
@@ -139,7 +139,7 @@
     <string name="recognition_error_download_ok">Спампаваць</string>
     <string name="recognition_error_download_cancel">Пазней</string>
     <string name="recognition_error_download_fail">Памылка спампоўкі. Праверце налады сеткі і паспрабуйце ізноў.</string>
-    <string name="recognition_error_downloading">Спампоўка</string>
+    <string name="recognition_error_downloading">Спампаванне</string>
     <string name="recognition_status_downloading">Спампоўваецца</string>
     <string name="runtime_permission_ungranted">Немагчыма карыстацца Дыктафонам без адпаведных дазволаў</string>
     <string name="alert_message_clear_records">Выдаліць выбраныя запісы?</string>

@@ -513,27 +513,27 @@
         <item quantity="many">Адзначана %d разоў запар</item>
     </plurals>
     <plurals name="hide_txt_hint_with_blank_2">
-        <item quantity="other">    +%1$d more characters</item>
-        <item quantity="one">    +%1$d more character</item>
-        <item quantity="few">    +%1$d more characters</item>
-        <item quantity="many">    +%1$d more characters</item>
+        <item quantity="other">    +%1$d сімвалаў</item>
+        <item quantity="one">    +%1$d сімвал</item>
+        <item quantity="few">    +%1$d сімвалы</item>
+        <item quantity="many">    +%1$d сімвалаў</item>
     </plurals>
     <plurals name="privacy_apps_enable_header_title">
-        <item quantity="other">Can hide %d apps</item>
-        <item quantity="one">Can hide %d app</item>
-        <item quantity="few">Can hide %d apps</item>
-        <item quantity="many">Can hide %d apps</item>
+        <item quantity="other">Можна схаваць %d праграм</item>
+        <item quantity="one">Можна схаваць %d праграму</item>
+        <item quantity="few">Можна схаваць %d праграмы</item>
+        <item quantity="many">Можна схаваць %d праграм</item>
     </plurals>
     <plurals name="privacy_apps_disable_header_title">
-        <item quantity="other">%d apps are hidden</item>
-        <item quantity="one">%d app is hidden</item>
-        <item quantity="few">%d apps are hidden</item>
-        <item quantity="many">%d apps are hidden</item>
+        <item quantity="other">%d праграм схавана</item>
+        <item quantity="one">%d праграма схавана</item>
+        <item quantity="few">%d праграмы схаваны</item>
+        <item quantity="many">%d праграм схавана</item>
     </plurals>
     <plurals name="first_aid_result_summary_exception">
-        <item quantity="other">%1$d issues require optimization</item>
-        <item quantity="one">%1$d issue requires optimization</item>
-        <item quantity="few">%1$d issues require optimization</item>
-        <item quantity="many">%1$d issues require optimization</item>
+        <item quantity="other">%1$d праблем патрабуюць аптымізацыі</item>
+        <item quantity="one">%1$d праблема патрабуе аптымізацыі</item>
+        <item quantity="few">%1$d праблемы патрабуюць аптымізацыі</item>
+        <item quantity="many">%1$d праблем патрабуюць аптымізацыі</item>
     </plurals>
 </resources>

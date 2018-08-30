@@ -36,7 +36,7 @@
     <string name="button_cancel_download">Скасаваць</string>
     <string name="button_start_now">Пачаць</string>
     <string name="download_remaining">Засталося %s</string>
-    <string name="download_no_application_title">Не атрымалася адчыніць файл</string>
+    <string name="download_no_application_title">Не атрымалася адкрыць файл</string>
     <string name="root_downloads">Спампоўкі</string>
     <string name="download_queued">У чарзе</string>
     <string name="download_running">Спампоўка</string>

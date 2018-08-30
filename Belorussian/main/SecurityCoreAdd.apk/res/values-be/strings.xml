@@ -418,18 +418,18 @@
     <string name="ent_agree_privacy_policy">Я прачытаў і прымаю Палітыку канфідэнцыяльнасці</string>
     <string name="ent_activation">Актываваць</string>
     <string name="ent_activating">Актывацыя…</string>
-    <string name="ent_installing">Installing…</string>
+    <string name="ent_installing">Усталяванне…</string>
     <string name="ent_network_error">Не атрымалася злучыцца з сеткай. Праверце налады сеткі і паспрабуйце зноў.</string>
     <string name="ent_invalid_qr">"QR-код з'яўляецца памылковым."</string>
     <string name="ent_invalid_agency">Няслушны код прадпрыемства.</string>
     <string name="ent_privacy_policy_notice">* Асабістыя дадзеныя ў гэтым рэжыме збіраюцца ў адпаведнасці з палітыкай, устаноўленай вашым прадпрыемствам. Xiaomi не збірае асабістыя дадзеныя ў гэтым рэжыме.</string>
     <string name="ent_confirm_dialog_content">Пасля актывацыі рэжыму прадпрыемства вы не зможаце вярнуцца да бягучага стану вашай сістэмы. Аднак усе вашыя дадзеныя будуць па-ранейшаму захоўвацца на прыладзе. Вам прыйдзецца перазагрузіць прылада для актывацыі рэжыму прадпрыемства. Актываваць яго?</string>
     <string name="ent_error_dialog_content">Па меншай меры адзін з уведзеных вамі кодаў быў няслушным. Праверце коды прадпрыемства і ліцэнзіі і ўвядзіце іх зноў.</string>
-    <string name="ent_download_install_dialog_content">You must install corporate apps to activate Enterprise mode. Install now?</string>
-    <string name="ent_download_install_dialog_title">Download corporate apps</string>
-    <string name="ent_downloading_message">Downloading %d%%</string>
-    <string name="install">Install</string>
-    <string name="install_error">"Couldn't install. Try again."</string>
-    <string name="ent_install_dialog_content">Install apps and reboot your device now?</string>
+    <string name="ent_download_install_dialog_content">Вы павінны ўсталяваць карпаратыўныя праграмы, каб актываваць рэжым Прадпрыемства. Усталяваць зараз?</string>
+    <string name="ent_download_install_dialog_title">Спампаваць карпаратыўныя праграмы</string>
+    <string name="ent_downloading_message">Спампаванне: %d%%</string>
+    <string name="install">Усталяваць</string>
+    <string name="install_error">Не атрымалася ўсталяваць. Паспрабуйце яшчэ раз.</string>
+    <string name="ent_install_dialog_content">Усталяваць праграмы і перазагрузіць прыладу зараз?</string>
     <string name="ent_disallow_running">Запуск праграм забаронены</string>
 </resources>

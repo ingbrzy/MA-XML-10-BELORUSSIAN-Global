@@ -67,7 +67,7 @@
     <string name="backup_size">Памер: %s</string>
     <string name="device_delete_prompt">Выдаліць рэзервовую копію %s?</string>
     <string name="desktop_waiting">Чаканне</string>
-    <string name="desktop_downloading">Спампоўка</string>
+    <string name="desktop_downloading">Спампаванне</string>
     <string name="desktop_installing">Усталёўка</string>
     <string name="desktop_wait_wifi">Чаканне</string>
     <string name="desktop_failed">Памылка</string>

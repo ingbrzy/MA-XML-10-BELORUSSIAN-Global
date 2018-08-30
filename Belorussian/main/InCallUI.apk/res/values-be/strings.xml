@@ -135,7 +135,7 @@
     <string name="call_recording_error_sd_access">Няма доступу да SD-карты</string>
     <string name="call_recording_error_sd_unmounted">Запіс спынены: SD-карта вынятая.</string>
     <string name="call_recording_error_low_storage">Не хапае месца на захоўванне.</string>
-    <string name="call_recording_error_start_failed">Recorder выкарыстоўваецца іншым дадаткам.</string>
+    <string name="call_recording_error_start_failed">Дыктафон выкарыстоўваецца іншай праграмай.</string>
     <string name="call_recording_error_unknown">Здарылася невядомая памылка.</string>
     <string name="call_recording_notification_title">Выклік запісваецца</string>
     <string name="call_recording_notification_title_error">Не атрымалася запісаць званок</string>

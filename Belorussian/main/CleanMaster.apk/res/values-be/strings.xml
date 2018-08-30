@@ -92,6 +92,7 @@
     <string name="hints_apk_header_left">Пакеты</string>
     <string name="hints_residual_header_left">Рэшткі файлаў</string>
     <string name="hints_memory_header_left">Памяць</string>
+    <string name="hints_header_left">%d</string>
     <string name="hints_large_file_header_left">Вялікія файлы: %d</string>
     <string name="hints_installed_apps_header_left">Усталяваныя праграмы: %d</string>
     <string name="toast_resolve_apk_error">Рашыць праблему файла apk</string>
@@ -296,10 +297,11 @@
     <string name="download">Спампаваць</string>
     <string name="installed">Усталяваныя</string>
     <string name="install_sucess">Усталяванне %s завершана</string>
-    <string name="open_app">Адчыніць</string>
+    <string name="open_app">Адкрыць</string>
     <string name="downloading">Спампоўка</string>
     <string name="installing">Усталёўка</string>
     <string name="start_install">Усталяваць</string>
+    <string name="empty">" "</string>
     <string name="open_browser">Адкрыць у браўзеры</string>
     <string name="title_share_link">Падзяліцца спасылкай</string>
     <string name="connecting">Злучэнне…</string>
@@ -412,8 +414,8 @@
     <string name="btn_text_quick_cleanup_video">Выдаліць выбранае відэа %1$s</string>
     <string name="btn_text_quick_cleanup_apk">Выдаліць выбраныя APK %1$s</string>
     <string name="deepclean_install_info_desc2">Выдаліце ​​праграму, каб вызваліць месца</string>
-    <string name="ad_install_success_dialog_title">Усталёўка %1$s завершана. Адчыніць зараз?</string>
-    <string name="ad_install_success_dialog_lunch">Адчыніць</string>
+    <string name="ad_install_success_dialog_title">Усталёўка %1$s завершана. Адкрыць зараз?</string>
+    <string name="ad_install_success_dialog_lunch">Адкрыць</string>
     <string name="deepclean_empty">Ачыстка не патрабуецца</string>
     <string name="scanning">Сканаванне…</string>
     <string name="buy_a_new_phone">Атрымаць больш месца для захоўвання</string>

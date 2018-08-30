@@ -38,7 +38,9 @@
     <string name="aqi_quality_ambient_air_quality">Якасць навакольнага паветра</string>
     <string name="aqi_quality_co_desc">Угарны газ</string>
     <string name="aqi_quality_detail_15_days">Прагноз на 15 дзён</string>
+    <string name="aqi_quality_detail_24_hours">24-hour forecast</string>
     <string name="aqi_quality_detail_48_hours">Прагноз на 48 гадзін</string>
+    <string name="aqi_quality_detail_5_days">5-day forecast</string>
     <string name="aqi_quality_major_pollutants">Забруджвальныя агенты</string>
     <string name="aqi_quality_map_title">Карта якасці паветра</string>
     <string name="aqi_quality_no2_desc">Дыаксід азоту</string>
@@ -62,7 +64,7 @@
     <string name="button_sure_abandon">Скасаваць змены?</string>
     <string name="card_vote_item_vs">VS</string>
     <string name="change_alert">Праверце злучэнне і паўтарыце спробу</string>
-    <string name="china_version_first_start_network_msg">Выкарыстоўваючы гэты прадукт, вы згаджаецеся з %1$s і %2$s Xiaomi. Гэтай праграме патрэбна падлучэнне да інтэрнэту і атрыманне доступу да вашага месцазнаходжання, каб нармальна працаваць.</string>
+    <string name="china_version_first_start_network_msg">"By using this product, you agree to Xiaomi's %1$s and %2$s. To help you get more accurate weather information, the weather will get your location information and deal with it, and it need to connect the network. Do you agree?"</string>
     <string name="city_exceeded_warning">Вы можаце дадаць да дзесяці гарадоў</string>
     <string name="common_loading_text">Хвілінку…</string>
     <string name="connect_fail">Не атрымалася злучыцца з сеткай, паспрабуйце яшчэ раз</string>
@@ -81,10 +83,12 @@
     <string name="daily_forecast_add_city_message">Follow the weather in %1$s for a more detailed forecast.</string>
     <string name="daily_forecast_add_city_title">Follow the weather in %1$s</string>
     <string name="daily_forecast_detail_date">dd.MM</string>
+    <string name="daily_forecast_detail_date_format">%1$s - %2$s</string>
     <string name="daily_forecast_no_data">Дадзеныя не атрыманы. Пацягніце ўніз для абнаўлення ці праверце налады сеткі</string>
     <string name="data_provided_by">Дадзеныя прадастаўленыя</string>
     <string name="edit_city">Змяніць горад</string>
-    <string name="eu_region_version_first_start_network_msg">Выкарыстоўваючы гэты прадукт, вы згаджаецеся, што Xiaomi будзе збіраць, апрацоўваць і выкарыстоўваць вашу асабістую інфармацыю, уключаючы каардынаты гарадоў, каторыя вы будзеце шукаць, і іншыя тыпы дадзеных, указаных у нашай Палітыцы канфідэнцыяльнасці. Звярніцеся да нашай Палітыкі канфідэнцыяльнасці, каб даведацца, як мы збіраем і апрацоўваем інфармацыю. Націснуўшы \"Пагадзіцца\", вы прымаеце %1$s і %2$s Xiaomi.</string>
+    <string name="empty">" "</string>
+    <string name="eu_region_version_first_start_network_msg">"By using this product, you agree that this product will connect the network, collect, process, and use you personal information, including the coordinates of the cities you search, and other types of data specified in our Privacy Policy. Refer to our Privacy Policy to learn how we collect and process information. By tapping \"Agree\", you agree to Xiaomi's %1$s and %2$s."</string>
     <string name="feedback_heavy_rain">Моцны дождж</string>
     <string name="feedback_heavy_snow">Снег</string>
     <string name="feedback_light_rain">Невялікі дождж</string>
@@ -96,6 +100,8 @@
     <string name="first_start_network_title">Падключэнне да інтэрнэту і доступ да месцазнаходжання</string>
     <string name="global_aqi">AQI: %1$s %2$s</string>
     <string name="hourly_forcast_now">Зараз</string>
+    <string name="hourly_forecast_bottom_aqi_chinese">%1$s %2$s</string>
+    <string name="hourly_forecast_bottom_aqi_else">%1$s</string>
     <string name="hourly_forecast_date">dd.MM</string>
     <string name="hourly_forecast_title_24_hours_desc">24-hour forecast</string>
     <string name="hourly_forecast_title_hourly_desc">Hourly forecast</string>
@@ -109,10 +115,12 @@
     <string name="indices_title_feel">Адчуваецца</string>
     <string name="indices_title_pressure">Ціск</string>
     <string name="install">Усталяваць</string>
+    <string name="install_progress">%1$s%%</string>
     <string name="international_details_pressure_title">ЦІСК</string>
     <string name="international_details_real_feel_title">REAL FEEL®</string>
     <string name="international_details_title">Падрабязнасці</string>
     <string name="international_details_uv_index_title">ІНДЭКС УФ</string>
+    <string name="international_details_wind_connect">%1$s %2$s</string>
     <string name="international_details_wind_title">ВЕЦЕР</string>
     <string name="it_is_going_to_rain">Збіраецца на дождж</string>
     <string name="locate_fail_detail_err">"Немагчыма вызначыць месцазнаходжанне
@@ -157,6 +165,7 @@
     <string name="privacy_grant_failed">Не атрымалася прадаставіць аўтарызацыю. Пачакайце крыху і паспрабуйце ізноў.</string>
     <string name="privacy_grant_or_revoke_settings">Прадастаўленне і скасаванне аўтарызацыі</string>
     <string name="privacy_grant_success">Дазвол прадастаўлены</string>
+    <string name="privacy_policy">Privacy Policy</string>
     <string name="privacy_revoke_failed">Не атрымалася скасаваць аўтарызацыю. Крыху пачакайце і паспрабуйце зноў.</string>
     <string name="privacy_revoke_success">Аўтарызацыя паспяхова скасавана</string>
     <string name="privacy_settings">Палітыка канфідэнцыяльнасці</string>
@@ -184,6 +193,7 @@
     <string name="share_menu_title">Падзяліцца</string>
     <string name="share_subject">Падзяліцца</string>
     <string name="share_weather_desc">"\#Надвор'е MIUI#Сёння %1$s %2$s"</string>
+    <string name="share_weather_desc_alert">%1$s%2$s</string>
     <string name="share_weather_desc_split">,</string>
     <string name="share_weather_save_pic_fail">Немагчыма зрабіць здымак экрана</string>
     <string name="some_where_on_earth">Дзесьці на Зямлі</string>
@@ -219,6 +229,7 @@
     <string name="update_setting_title_text">"Абнавіць звесткі пра надвор'е"</string>
     <string name="updated_a_moment_ago">Абноўлена хвіліну таму</string>
     <string name="updating">Абнаўленне…</string>
+    <string name="user_agreement">Terms of Service</string>
     <string name="video_dialog_no_play" />
     <string name="video_dialog_play" />
     <string name="video_dialog_subtitle" />

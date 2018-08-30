@@ -11,18 +11,18 @@
         <item>Да сігналу будзільніка: %1$s %2$s %3$s</item>
     </string-array>
     <string-array name="alarm_repeat_type">
-        <item>Адзін раз</item>
+        <item>Аднакроць</item>
         <item>Штодня</item>
         <item>Працоўная дні</item>
         <item>Выхадныя</item>
         <item>З ПН па ПТ</item>
-        <item>Выбраць дні</item>
+        <item>Свая</item>
     </string-array>
     <string-array name="alarm_repeat_type_no_workdays">
         <item>Адзін раз</item>
         <item>Штодня</item>
         <item>З ПН па ПТ</item>
-        <item>Свая ўсталёўка</item>
+        <item>Усталяваць сваю</item>
     </string-array>
     <string-array name="alarm_set">
         <item>Будзільнік зазвініць менш чым праз хвіліну.</item>

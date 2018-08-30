@@ -91,7 +91,7 @@
     <string name="permission_warning_template_ask">Даць %1$s наступныя дазволы?</string>
     <string name="screen_overlay_title">Выяўлена накладанне экранаў</string>
     <string name="screen_overlay_message">Каб змяніць гэты дазвол, вы павінны адключыць накладанне экранаў у наладах > праграмы.</string>
-    <string name="screen_overlay_button">Адчыніць налады</string>
+    <string name="screen_overlay_button">Адкрыць налады</string>
     <string name="grant_dialog_button_allow">Дазволіць</string>
     <string name="grant_dialog_button_deny">Забараніць</string>
     <string name="current_permission_template">%1$s з %2$s</string>

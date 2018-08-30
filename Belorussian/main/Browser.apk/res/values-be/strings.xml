@@ -25,6 +25,7 @@
     <string name="s5">Стварыць падзею календара</string>
     <string name="s6">Дазволіць рэкламе стварыць падзею календара?</string>
     <string name="s7">Тэставая рэклама</string>
+    <string name="status_bar_notification_info_overflow">больш за 999</string>
     <string name="abc_action_bar_home_description">Перайсці на галоўную</string>
     <string name="abc_action_bar_up_description">Наверх</string>
     <string name="abc_action_menu_overflow_description">Больш</string>
@@ -86,7 +87,6 @@
     <string name="add_to_quicklink">Стартавая старонка</string>
     <string name="added_to_bookmarks">Дададзена ў закладкі</string>
     <string name="adjust_text_zoom_toast">Змяненне маштабу тэксту можа прывесці да адлюстроўвацца некаторых сайтаў няправільна</string>
-    <string name="adx_loading_str">Just a sec…</string>
     <string name="agree">Згадзіцца</string>
     <string name="agree_permissions_request">Allow</string>
     <string name="alert_tips">Гэтая старонка можа быць небяспечнай</string>
@@ -102,7 +102,6 @@
     <string name="aqi_quality_index_moderate">Умераны</string>
     <string name="aqi_quality_index_pure">Выдатны</string>
     <string name="aqi_quality_index_unhealthy">Шкодны</string>
-    <string name="articles_updated">Updated %1$d articles</string>
     <string name="autoSwithcingSearchEngineTips">Пераключана на сістэму пошуку, якая найчасцей выкарыстоўваецца</string>
     <string name="autologin_bar_error">Не атрымалася выканаць уваход</string>
     <string name="autologin_bar_hide_text">Схаваць</string>
@@ -148,7 +147,7 @@
     <string name="cancel">Скасаваць</string>
     <string name="cannot_download">Спампоўка магчыма толькі з URL, што пачынаецца з \"http\" ці \"https\"</string>
     <string name="card_setting_close_recommend">Атрымліваць рэкамендацыі</string>
-    <string name="cast_video">Cast video</string>
+    <string name="cast_video">Трансляваць відэа</string>
     <string name="channels_edit">Змяніць</string>
     <string name="channels_finish">Завяршыць</string>
     <string name="choosertitle_sharevia">Падзяліцца праз</string>
@@ -172,7 +171,7 @@
     <string name="cloud_tab">Воблачныя ўкладкі</string>
     <string name="cloud_time_tips">Апошняя сінхранізацыя</string>
     <string name="cloud_up_to_loading_tips">Адпусціце для сінхранізацыі</string>
-    <string name="collect_video">Collect video</string>
+    <string name="collect_video">Забраць відэа</string>
     <string name="comment_app_menu">Каментарый</string>
     <string name="comment_description">Каментарый</string>
     <string name="comment_hint">Каментарый</string>
@@ -211,8 +210,8 @@
     <string name="custom_head_card_text_incognito">"Вы інкогніта!
 Старонкі, якія вы праглядаеце, не будуць адлюстроўвацца ў гісторыі."</string>
     <string name="data_error">Памылка дадзеных</string>
-    <string name="data_traffic_prompt_message">"Using your mobile data connection to browse videos will increase your data usage. If you go over your plan’s data usage limit,     your carrier could charge you additional fees."</string>
-    <string name="data_traffic_prompt_title">Data usage warning</string>
+    <string name="data_traffic_prompt_message">Выкарыстанне мабільнага інтэрнэту для прагляду відэа павялічыць расход дадзеных. Калі вы перавысіце ліміт трафіка, усталяваны вашым тарыфам, аператар сувязі можа браць дадатковую аплату.</string>
+    <string name="data_traffic_prompt_title">Папярэджанне аб выкарастанні дадзеных</string>
     <string name="delete">Выдаліць</string>
     <string name="delete_bookmark">Выдаліць</string>
     <string name="delete_bookmark_group_warning">Выдаліць \"Закладка%s\"? Усе закладкі з гэтай групы будуць выдаленыя.</string>
@@ -279,7 +278,7 @@
     <string name="download_success">Завершана</string>
     <string name="download_title">Спампоўкі</string>
     <string name="download_update_background">Downloading updates in the background</string>
-    <string name="download_video">Download video</string>
+    <string name="download_video">Спампаваць відэа</string>
     <string name="download_wait_connect">Чаканне далучэння</string>
     <string name="edit">Змяніць</string>
     <string name="edit_bookmark">Змяніць закладку</string>
@@ -297,7 +296,7 @@
     <string name="error_unauthorized">Сінхранізацыя з Mi Акаўнтам адключана з-за вялікай колькасці спробаў уваходу.</string>
     <string name="exit">Выйсці</string>
     <string name="exit_browser_warning">Выйсці з браўзера?</string>
-    <string name="exit_fullscreen">Exit fullscreen</string>
+    <string name="exit_fullscreen">Выйсці з поўнаэкраннага рэжыму</string>
     <string name="fast_search_title">Хуткі пошук</string>
     <string name="file_dir">Змяніць папку</string>
     <string name="file_name">"Імя: "</string>
@@ -347,6 +346,7 @@
     <string name="ignore_add_pwa_dialog_today">"Don't show today"</string>
     <string name="in_incognito">"Цяпер вы ў рэжыме інкогніта! Прагледжаныя старонкі не з'явяцца ў гісторыі браўзера."</string>
     <string name="in_secureaccess">Браўзер пераключыўся ў бяспечны рэжым</string>
+    <string name="into_info_flow_guide">View more articles</string>
     <string name="isReplacePage">Файл ужо існуе, замяніць?</string>
     <string name="is_first_history_item">Гэта першы запіс у гісторыі браўзера</string>
     <string name="is_first_tab">Гэта першая ўкладка</string>
@@ -455,7 +455,7 @@
     <string name="mw_choose">Choose</string>
     <string name="mw_color_picker_button_black">Black</string>
     <string name="mw_color_picker_button_blue">Blue</string>
-    <string name="mw_color_picker_button_cancel">Cancel</string>
+    <string name="mw_color_picker_button_cancel">Скасаваць</string>
     <string name="mw_color_picker_button_cyan">Cyan</string>
     <string name="mw_color_picker_button_green">Green</string>
     <string name="mw_color_picker_button_magenta">Magenta</string>
@@ -470,9 +470,9 @@
     <string name="mw_color_picker_value">Value</string>
     <string name="mw_config_webSettingsDefaultTextEncoding">UTF-8</string>
     <string name="mw_copy_to_clipboard_failure_message">Failed to copy to the clipboard</string>
-    <string name="mw_data_traffic_prompt_change">"Using your mobile data connection to watch videos will increase your data usage. If you go over your plan’s data usage limit, y    our carrier could charge you additional fees."</string>
-    <string name="mw_data_traffic_prompt_message">"Using your mobile data connection to browse videos will increase your data usage. If you go over your plan’s data usage limit,     your carrier could charge you additional fees."</string>
-    <string name="mw_data_traffic_prompt_message_short">Using mobile data to stream video may cause you to go over your plans data usage limit.</string>
+    <string name="mw_data_traffic_prompt_change">"Using your mobile data connection to watch videos will increase your data usage. If you go over your plan's data usage limit, your carrier could charge you additional fees."</string>
+    <string name="mw_data_traffic_prompt_message">"Using your mobile data connection to browse videos will increase your data usage. If you go over your plan's data usage limit, your carrier could charge you additional fees."</string>
+    <string name="mw_data_traffic_prompt_message_short">"Using mobile data to stream video may cause you to go over your plan's data usage limit."</string>
     <string name="mw_data_traffic_prompt_title">Data usage warning</string>
     <string name="mw_date_picker_dialog_clear">Clear</string>
     <string name="mw_date_picker_dialog_other_button_label">Other</string>
@@ -486,34 +486,34 @@
     <string name="mw_http_post_warning_resend">Continue</string>
     <string name="mw_js_dialog_before_unload">"%s
 
-Are you sure you want to navigate away from this page?"</string>
-    <string name="mw_js_dialog_before_unload_negative_button">Stay on this Page</string>
-    <string name="mw_js_dialog_before_unload_positive_button">Leave this Page</string>
-    <string name="mw_js_dialog_before_unload_title">Confirm Navigation</string>
+Navigate away from this page?"</string>
+    <string name="mw_js_dialog_before_unload_negative_button">Stay on this page</string>
+    <string name="mw_js_dialog_before_unload_positive_button">Leave this page</string>
+    <string name="mw_js_dialog_before_unload_title">Confirm navigation</string>
     <string name="mw_js_dialog_title">The page at \"%s\" says:</string>
     <string name="mw_js_dialog_title_default">JavaScript</string>
     <string name="mw_last_month">Last month</string>
-    <string name="mw_license_activity_title">System WebView licenses</string>
+    <string name="mw_license_activity_title">Ліцэнзіі сістэмы WebView</string>
     <string name="mw_login_dialog_ok_button_label">Log in</string>
     <string name="mw_login_dialog_password_field">Password</string>
     <string name="mw_login_dialog_title">Authentication required</string>
     <string name="mw_login_dialog_username_field">Username</string>
     <string name="mw_low_memory_error">Unable to complete previous operation due to low memory</string>
     <string name="mw_media_player_error_button">OK</string>
-    <string name="mw_media_player_error_text_invalid_progressive_playback">Sorry, this video is not valid for streaming to this device.</string>
-    <string name="mw_media_player_error_text_unknown">Sorry, this video cannot be played.</string>
-    <string name="mw_media_player_error_title">Cannot play video</string>
-    <string name="mw_media_player_loading_video">Loading video</string>
-    <string name="mw_miui_content_copy">Copy</string>
-    <string name="mw_miui_content_cut">Cut</string>
-    <string name="mw_miui_content_extent_select">Select more</string>
-    <string name="mw_miui_content_open_url">Open URL</string>
-    <string name="mw_miui_content_paste">Paste</string>
-    <string name="mw_miui_content_select">Select</string>
-    <string name="mw_miui_content_select_all">Select all</string>
-    <string name="mw_miui_content_share">Share</string>
-    <string name="mw_miui_content_translate">Translate</string>
-    <string name="mw_miui_content_web_search">Search</string>
+    <string name="mw_media_player_error_text_invalid_progressive_playback">"This video isn't valid for streaming to this device."</string>
+    <string name="mw_media_player_error_text_unknown">"This video can't be played."</string>
+    <string name="mw_media_player_error_title">"Can't play video"</string>
+    <string name="mw_media_player_loading_video">Загрузка відэа...</string>
+    <string name="mw_miui_content_copy">Капіяваць</string>
+    <string name="mw_miui_content_cut">Выразаць</string>
+    <string name="mw_miui_content_extent_select">Выбраць больш</string>
+    <string name="mw_miui_content_open_url">Адкрыць URL</string>
+    <string name="mw_miui_content_paste">Уставіць</string>
+    <string name="mw_miui_content_select">Выбраць</string>
+    <string name="mw_miui_content_select_all">Выбраць усе</string>
+    <string name="mw_miui_content_share">Падзяліцца</string>
+    <string name="mw_miui_content_translate">Пераклад</string>
+    <string name="mw_miui_content_web_search">Пошук</string>
     <string name="mw_miuichromium_error_page_airplane_mode">Airplane mode</string>
     <string name="mw_miuichromium_error_page_airplane_mode_on">Turn off Airplane mode to connect</string>
     <string name="mw_miuichromium_error_page_btn_close">Close</string>
@@ -606,13 +606,13 @@ Are you sure you want to navigate away from this page?"</string>
         &lt;/ul>"</string>
     <string name="mw_no_matches">No matches</string>
     <string name="mw_notification_category_browser">Browser</string>
-    <string name="mw_notification_category_content_suggestions">Content Suggestions</string>
+    <string name="mw_notification_category_content_suggestions">Content suggestions</string>
     <string name="mw_notification_category_downloads">Downloads</string>
     <string name="mw_notification_category_fullscreen_controls">Full screen site controls</string>
     <string name="mw_notification_category_group_general">General</string>
     <string name="mw_notification_category_incognito">Incognito</string>
     <string name="mw_notification_category_media">Media</string>
-    <string name="mw_notification_category_screen_capture">Screen Capture</string>
+    <string name="mw_notification_category_screen_capture">Screen capture</string>
     <string name="mw_notification_category_sites">Sites</string>
     <string name="mw_notification_hidden_text">Contents hidden</string>
     <string name="mw_ntp_title_no_suggestions">That’s all for now</string>
@@ -666,7 +666,7 @@ Are you sure you want to navigate away from this page?"</string>
     <string name="mw_payments_edit_contact_details_label">Edit contact info</string>
     <string name="mw_payments_email_invalid_validation_message">Enter a valid email address</string>
     <string name="mw_payments_email_required">Email required</string>
-    <string name="mw_payments_error_message">There was an error processing your order. Please try again.</string>
+    <string name="mw_payments_error_message">There was an error processing your order. Try again.</string>
     <string name="mw_payments_field_required_validation_message">Required field</string>
     <string name="mw_payments_invalid_address">Enter a valid address</string>
     <string name="mw_payments_loading_message">Loading</string>
@@ -700,21 +700,21 @@ Are you sure you want to navigate away from this page?"</string>
     <string name="mw_payments_unsupported_shipping_address">Can’t ship to this address. Select a different address.</string>
     <string name="mw_payments_unsupported_shipping_option">This shipping method isn’t available. Try a different method.</string>
     <string name="mw_payments_updated_label">Updated</string>
-    <string name="mw_permission_alert_window">To use the feature, please open system option Diplay pop-up window.</string>
-    <string name="mw_permission_unknown">Unknown Option</string>
+    <string name="mw_permission_alert_window">To use the feature, open Display pop-up window.</string>
+    <string name="mw_permission_unknown">Unknown option</string>
     <string name="mw_photo_picker_browse">Browse</string>
     <string name="mw_photo_picker_camera">Camera</string>
     <string name="mw_photo_picker_select_images">Select images</string>
-    <string name="mw_private_browsing_warning">This functionality is not supported in this version of Android.</string>
-    <string name="mw_profiler_error_toast">Failed to start profiler</string>
-    <string name="mw_profiler_no_storage_toast">"Can't start profiler because external storage is not ready"</string>
+    <string name="mw_private_browsing_warning">Функцыя не падтрымліваецца ў гэтай версіі Android.</string>
+    <string name="mw_profiler_error_toast">"Couldn't start profiler"</string>
+    <string name="mw_profiler_no_storage_toast">"Can't start profiler because external storage isn't ready"</string>
     <string name="mw_profiler_started_toast">Profiler started</string>
     <string name="mw_profiler_stopped_toast">Profiler finished. Results are in %1$s.</string>
     <string name="mw_sad_tab_message">Something went wrong while displaying this webpage.</string>
     <string name="mw_sad_tab_oom_message_notabs">Try exiting other programs to free up memory.</string>
     <string name="mw_sad_tab_oom_message_tabs">Try closing other tabs or programs to free up memory.</string>
     <string name="mw_sad_tab_reload_close_notabs">Close other apps</string>
-    <string name="mw_sad_tab_reload_incognito">Open page in a new Incognito tab</string>
+    <string name="mw_sad_tab_reload_incognito">Open page in a new incognito tab</string>
     <string name="mw_sad_tab_reload_label">Reload</string>
     <string name="mw_sad_tab_reload_learn_more">Learn more</string>
     <string name="mw_sad_tab_reload_restart_browser">Restart Chromium</string>
@@ -724,13 +724,15 @@ Are you sure you want to navigate away from this page?"</string>
     <string name="mw_sad_tab_send_feedback_label">Send Feedback</string>
     <string name="mw_sad_tab_title">Aw, Snap!</string>
     <string name="mw_sad_tab_uma_optin">Automatically send usage statistics and crash reports to Google</string>
-    <string name="mw_save_password_message">Do you want the browser to remember this password?</string>
+    <string name="mw_save_password_message">Remember this password?</string>
     <string name="mw_save_password_never">Never</string>
     <string name="mw_save_password_notnow">Not now</string>
     <string name="mw_save_password_remember">Remember</string>
     <string name="mw_snippets_disabled_generic_prompt">Get personalized content</string>
     <string name="mw_snippets_disabled_signed_out_instructions">To get personalized content suggested by Google, sign in to Chrome.</string>
     <string name="mw_time_picker_dialog_am">AM</string>
+    <string name="mw_time_picker_dialog_hour_minute_separator">:</string>
+    <string name="mw_time_picker_dialog_minute_second_separator">:</string>
     <string name="mw_time_picker_dialog_pm">PM</string>
     <string name="mw_time_picker_dialog_second_subsecond_separator">.</string>
     <string name="mw_time_picker_dialog_title">Set time</string>
@@ -740,7 +742,7 @@ Are you sure you want to navigate away from this page?"</string>
     <string name="mw_video_float_window_playing">Playing video</string>
     <string name="mw_video_play_error">"Couldn't play video"</string>
     <string name="mw_webview_find_on_page">Find on page</string>
-    <string name="mw_webviewchromium_private_browsing_warning">This functionality is not supported in this version of Android.</string>
+    <string name="mw_webviewchromium_private_browsing_warning">"This functionality isn't supported in this version of Android."</string>
     <string name="mw_week_picker_dialog_title">Set week</string>
     <string name="my_cahnnel">Мае каналы</string>
     <string name="nav_bottom_bar_back">Назад</string>
@@ -748,9 +750,8 @@ Are you sure you want to navigate away from this page?"</string>
     <string name="nav_bottom_bar_new_tab">Новая ўкладка</string>
     <string name="nav_screen_container_tab_incognito">Укладка інкогніта</string>
     <string name="nav_screen_container_tab_normal">Звычайная ўкладка</string>
-    <string name="nav_screen_incognito_message">"У рэжыме інкогніта не захоўваюцца гісторыі праглядаў і пошуку.
-Звярніце ўвагу, што спампаваныя файлы і дададзеныя закладкі будуць захаваныя."</string>
-    <string name="nav_screen_incognito_title">Рэжым інкогніта</string>
+    <string name="nav_screen_incognito_message">"Your browsing and search history won't be saved in incognito mode. Remember that the files you download and the bookmarks you add will still be saved."</string>
+    <string name="nav_screen_incognito_title"> Incognito mode</string>
     <string name="navigation_delete_all">Правядзіце пальцам налева ці направа, каб закрыць усе ўкладкі</string>
     <string name="navigationbar_rightbutton_actiontext_cancle">Скасаваць</string>
     <string name="navigationbar_rightbutton_actiontext_go">Перайсці</string>
@@ -793,9 +794,9 @@ Are you sure you want to navigate away from this page?"</string>
     <string name="pay_failed_toast">Не атрымалася выканаць аплату</string>
     <string name="pay_success_toast">Аплачана паспяхова</string>
     <string name="permission_notification">%s wants to send notifications.</string>
-    <string name="play_pause_video">Play or pause video</string>
-    <string name="play_video">Play video</string>
-    <string name="popup_video">Popup video</string>
+    <string name="play_pause_video">Прайграць або прыпыніць відэа</string>
+    <string name="play_video">Прайграць відэа</string>
+    <string name="popup_video">Усплывальнае відэа</string>
     <string name="popup_window_attempt">Адчыніць вокны гэтага сайта, што ўсплываюць?</string>
     <string name="positive_confirm_message">Усё роўна выключыць</string>
     <string name="pref_accessibility">Спецыяльныя магчымасці</string>
@@ -803,11 +804,12 @@ Are you sure you want to navigate away from this page?"</string>
     <string name="pref_accessibility_url_shortcut_enter_summary">Камбінацыі спалучэння сімвалаў, якія часта выкарыстоўваюцца, могуць быць уведзеныя ў адрасны радок адным націсканнем</string>
     <string name="pref_accessibility_url_shortcut_enter_title">Хуткі ўвод URL</string>
     <string name="pref_adblock_title">Блакаванне рэкламы</string>
+    <string name="pref_auto_update">Update automatically</string>
     <string name="pref_auto_update_under_wifi">Абнаўленне па Wi-Fi</string>
     <string name="pref_automatic_matching_searchengines_title">Аўтавыбар сістэмы пошуку</string>
     <string name="pref_card_setting">Парадак сайтаў</string>
     <string name="pref_category_hint">Катэгорыі</string>
-    <string name="pref_check_recommendation_app_quicklink">Suggested for You</string>
+    <string name="pref_check_recommendation_app_quicklink">Recommended for you</string>
     <string name="pref_check_security_url_summary">Адпраўляць адрасы сайтаў на серверы Mi для праверкі</string>
     <string name="pref_check_security_url_summary_international">Дазволіць браўзеру доступ да адрасоў сайтаў, якія вы наведвалі, для атрымання больш падыходзячых рэкамендацый.</string>
     <string name="pref_check_security_url_title">Праверыць бяспеку сайтаў</string>
@@ -912,7 +914,7 @@ Are you sure you want to navigate away from this page?"</string>
     <string name="privacy_accept">Agree &amp; continue</string>
     <string name="privacy_agreement">User Agreement</string>
     <string name="privacy_message">Read and agree to our %1$s and %2$s to continue.</string>
-    <string name="privacy_policy">Privacy Policy</string>
+    <string name="privacy_policy">Палітыка канфідэнцыяльнасці</string>
     <string name="privacy_title">Welcome to Mi Browser</string>
     <string name="progress_dialog_setting_wallpaper">Усталёўка шпалер…</string>
     <string name="pull_to_refresh">Пацягніце ўніз для абнаўлення</string>
@@ -952,6 +954,7 @@ Are you sure you want to navigate away from this page?"</string>
     <string name="readmodelist_bookmarks_to_show">Спіс чытання</string>
     <string name="refresh">Абнавіць</string>
     <string name="refresh_fail">"Couldn't load info"</string>
+    <string name="refresh_guide">Back to top</string>
     <string name="refreshing">Абнаўленне…</string>
     <string name="refuse_permissions_request">Restrict</string>
     <string name="release_to_refresh">Адпусціце для абнаўлення</string>
@@ -1026,7 +1029,7 @@ Are you sure you want to navigate away from this page?"</string>
     <string name="sendstartpage">Пачатковая старонка</string>
     <string name="share_image_text">Зірніце, чым я падзяліўся(-лася)! @MIUI</string>
     <string name="share_page_text">Зірніце, чым я падзяліўся(-лася): %1$s @MIUI| %2$s</string>
-    <string name="share_video">Share video</string>
+    <string name="share_video">Падзяліцца відэа</string>
     <string name="sign_in_to" formatted="false">Увайсці ў %s1 %s2\"</string>
     <string name="site_sort_des">"Перацягвайце аб'екты, каб змяніць іх парадак"</string>
     <string name="skip_button_label">Прапусціць</string>
@@ -1034,7 +1037,7 @@ Are you sure you want to navigate away from this page?"</string>
     <string name="snapshot">На прыладзе</string>
     <string name="snapshot_failed">Не ўдалося захаваць старонку</string>
     <string name="snapshot_successed">Для прагляду старонкі адкрыйце Закладкі/Гісторыя->Прылада</string>
-    <string name="soft_toast_see_view">View</string>
+    <string name="soft_toast_see_view">Прагляд</string>
     <string name="source_dislike">Dislike</string>
     <string name="ssl_bad_clock_date_settings">Усталяваць дату</string>
     <string name="ssl_bad_clock_warning" formatted="false">Абароненае падлучэнне да %s1 не можа быць усталявана, бо налады даты і часу на вашай прыладзе (%s2) няправільныя.</string>
@@ -1077,8 +1080,8 @@ Are you sure you want to navigate away from this page?"</string>
     <string name="title_bar_loading">Загрузка…</string>
     <string name="too_many_windows_dialog_message">Немагчыма адкрыць новую ўкладку: закройце хаця б адну</string>
     <string name="too_many_windows_dialog_title">Адчынена максімальная колькасць укладак</string>
-    <string name="transfer_prompt_0">Play video</string>
-    <string name="transfer_restart">Restart</string>
+    <string name="transfer_prompt_0">Прайграць відэа</string>
+    <string name="transfer_restart">Перазапуск</string>
     <string name="unSwitchText">НЕ</string>
     <string name="undo">Скасаваць</string>
     <string name="unknown_title">Невядома</string>
@@ -1114,15 +1117,16 @@ Are you sure you want to navigate away from this page?"</string>
     <string name="version_check_button_resume_download">Аднавіць спампоўку</string>
     <string name="version_check_button_update">Абнавіць</string>
     <string name="version_check_failed">"Couldn't check for updates"</string>
+    <string name="version_dialog_4G_checkbox">You can update system apps using mobile data. This might generate additional data fees.</string>
     <string name="version_dialog_buttion_ok">OK</string>
     <string name="version_dialog_buttion_update">Абнавіць</string>
     <string name="version_update_file_download_toast">Спампоўка</string>
     <string name="version_update_file_not_found">Абнаўленні не знойдзеныя</string>
     <string name="video_activity_name">Абраныя</string>
     <string name="video_buffering_percent_string">"Буферызацыя "</string>
-    <string name="video_collect_cancel">Remove from favorites</string>
+    <string name="video_collect_cancel">Прыбраць з абраных</string>
     <string name="video_collect_success">Дададзена ў абранае</string>
-    <string name="video_download_complete">Downloaded successfully</string>
+    <string name="video_download_complete">Спампавана паспяхова</string>
     <string name="video_download_empty">Няма відэа</string>
     <string name="video_download_error">Памылка</string>
     <string name="video_download_error_http_gone">Файл не знойдзены</string>
@@ -1132,15 +1136,15 @@ Are you sure you want to navigate away from this page?"</string>
     <string name="video_download_finding_address">Атрыманне спасылкі URL</string>
     <string name="video_download_pause">Прыпынена</string>
     <string name="video_download_start">Спампоўка…</string>
-    <string name="video_download_success">Downloaded successfully</string>
-    <string name="video_download_unknown_name">Unknown name</string>
-    <string name="video_download_unknown_size">Unknown size</string>
+    <string name="video_download_success">Спампавана паспяхова</string>
+    <string name="video_download_unknown_name">Невядомае імя</string>
+    <string name="video_download_unknown_size">Невядомы памер</string>
     <string name="video_download_unsupport">Не падтрымліваецца</string>
     <string name="video_download_wait_for_wifi">Чаканне сеткі Wi-Fi</string>
     <string name="video_downloaded_group">Спампавана</string>
     <string name="video_downloading_group">Спампоўка</string>
     <string name="video_edit">Змяніць</string>
-    <string name="video_float_window_text">Pop-up</string>
+    <string name="video_float_window_text">Усплывальнае акно</string>
     <string name="video_fragment_name_collections">Абраныя</string>
     <string name="video_fragment_name_download">Лакальнае відэа</string>
     <string name="video_fragment_name_historys">Гісторыя</string>
@@ -1153,7 +1157,7 @@ Are you sure you want to navigate away from this page?"</string>
     <string name="video_project_title">Трансляцыя відэа</string>
     <string name="video_push_multi_title">Даступна новая версія</string>
     <string name="video_push_single_message">Націсніце для абнаўлення да %1$d.</string>
-    <string name="video_service_notification_title">Playing pop-up video</string>
+    <string name="video_service_notification_title">Прайграванне ўсплывальнага відэа</string>
     <string name="video_subtitle_last_message1">Засталося менш за хвіліну</string>
     <string name="video_subtitle_prefix1">Прагледжана</string>
     <string name="video_subtitle_prefix2">"Прагледжана "</string>
@@ -1216,6 +1220,7 @@ Are you sure you want to navigate away from this page?"</string>
     <string name="date_picker_dialog_set">Выбраць</string>
     <string name="date_picker_dialog_title">Усталяваць дату</string>
     <string name="date_time_picker_dialog_title">Усталяваць дату і час</string>
+    <string name="external_app_restricted_access_error">Mi Browser does not have access to the requested resource.</string>
     <string name="find_next">Знайсці наступнае</string>
     <string name="find_previous">Знайсці папярэдняе</string>
     <string name="js_dialog_before_unload">"%s

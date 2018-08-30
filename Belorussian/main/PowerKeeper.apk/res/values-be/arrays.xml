@@ -13,8 +13,8 @@
         <item>Спячыя праграмы</item>
     </string-array>
     <string-array name="emode_app_groups">
-        <item>System apps</item>
-        <item>Other apps</item>
+        <item>Сістэмныя праграмы</item>
+        <item>Іншыя праграмы</item>
     </string-array>
     <string-array name="thermal_entries">
         <item>Кантроль тэмпературы па змаўчанні</item>

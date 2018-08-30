@@ -13,10 +13,10 @@
         <item quantity="many">"%d аб'ектаў заблакаваныя"</item>
     </plurals>
     <plurals name="articles_updated_amount">
-        <item quantity="other">%1$d articles updated for you</item>
-        <item quantity="one">%1$d article updated for you</item>
-        <item quantity="few">%1$d articles updated for you</item>
-        <item quantity="many">%1$d articles updated for you</item>
+        <item quantity="other">Check out %1$d new articles</item>
+        <item quantity="one">Check out %1$d new article</item>
+        <item quantity="few">Check out %1$d new articles</item>
+        <item quantity="many">Check out %1$d new articles</item>
     </plurals>
     <plurals name="dialog_confirm_delete_downloads_message">
         <item quantity="other">Выдаліць задачы (%d)?</item>
@@ -73,10 +73,10 @@
         <item quantity="many">Папулярных песень: %d</item>
     </plurals>
     <plurals name="transfer_prompt">
-        <item quantity="other">Play video in %1$d seconds</item>
-        <item quantity="one">Play video in %1$d second</item>
-        <item quantity="few">Play video in %1$d seconds</item>
-        <item quantity="many">Play video in %1$d seconds</item>
+        <item quantity="other">Прайграць відэа праз %1$d секунд</item>
+        <item quantity="one">Прайграць відэа праз %1$d секунду</item>
+        <item quantity="few">Прайграць відэа праз %1$d секунды</item>
+        <item quantity="many">Прайграць відэа праз %1$d секунд</item>
     </plurals>
     <plurals name="v5_edit_mode_title">
         <item quantity="other">Выбрана: %1$d</item>
@@ -109,10 +109,10 @@
         <item quantity="many">"Выдаліць %1$d аб'ектаў з гісторыі?"</item>
     </plurals>
     <plurals name="video_push_multi_message">
-        <item quantity="other">%1$d updates available.</item>
-        <item quantity="one">%1$d update available.</item>
-        <item quantity="few">%1$d updates available.</item>
-        <item quantity="many">%1$d updates available.</item>
+        <item quantity="other">Даступна %1$d абнаўленняў.</item>
+        <item quantity="one">Даступна %1$d абнаўленне.</item>
+        <item quantity="few">Даступна %1$d абнаўленне.</item>
+        <item quantity="many">Даступна %1$d абнаўленне.</item>
     </plurals>
     <plurals name="video_subtitle_last_message">
         <item quantity="other">Засталося %d хвіліны</item>
@@ -121,10 +121,10 @@
         <item quantity="many">Засталося %d хвілін</item>
     </plurals>
     <plurals name="videos_updated_amount">
-        <item quantity="other">%1$d videos updated for you</item>
-        <item quantity="one">%1$d video updated for you</item>
-        <item quantity="few">%1$d videos updated for you</item>
-        <item quantity="many">%1$d videos updated for you</item>
+        <item quantity="other">Check out %1$d new videos</item>
+        <item quantity="one">Check out %1$d new video</item>
+        <item quantity="few">Check out %1$d new videos</item>
+        <item quantity="many">Check out %1$d new videos</item>
     </plurals>
     <plurals name="view_realtime_clear">
         <item quantity="other">Ясна</item>

@@ -21,6 +21,7 @@
     <string name="add_to_secret_successful">Дадаць у схаваны альбом</string>
     <string name="add_to_share_album_not_delete">Немагчыма выдаліць фота з агульнага альбома</string>
     <string name="added_to_favorites">Дададзена ў абранае</string>
+    <string name="added_to_favorites_desc">Дададзена ў абранае</string>
     <string name="added_to_favorites_tip">Дададзена ў альбом \"Абраныя\"</string>
     <string name="adding">Дадаванне…</string>
     <string name="adding_recipients">Дадаванне атрымальнікаў…</string>
@@ -98,7 +99,6 @@
     <string name="app_name_view_picture">Праглядзець фота</string>
     <string name="app_name_view_video">Праглядзець відэа</string>
     <string name="apply">Прымяніць</string>
-    <string name="assistant_page_label">Памочнік</string>
     <string name="associate_face_album">Выбраць альбом</string>
     <string name="auto_backup_introduce">Аўтазахаванне фота і відэа (патрабуецца Mi Акаўнт)</string>
     <string name="auto_download_media_title">Аўтаматычна пампаваць фота з Mi Cloud</string>
@@ -208,7 +208,7 @@
     <string name="change_to_photo_mode">Паказваць поўную версію</string>
     <string name="change_to_visible">Аднавіць гэта фота?</string>
     <string name="checked">Выбрана</string>
-    <string name="checked_something">Выбрана</string>
+    <string name="checked_something">Выбрана %s</string>
     <string name="choose_baby_sexy">Пол</string>
     <string name="choose_owner_relation">Адносіны</string>
     <string name="choose_people">Выберыце альбом</string>
@@ -226,7 +226,7 @@
     <string name="cleaner_screen_shot_action">Ачысціць</string>
     <string name="cleaner_screen_shot_description">Выдаляйце больш непатрэбныя скрыншоты.</string>
     <string name="cleaner_screen_shot_title">Выдаліць скрыншоты</string>
-    <string name="cleaner_slim_action">Запуск аптымізацыі…</string>
+    <string name="cleaner_slim_action">Start optimization</string>
     <string name="cleaner_slim_description">Захоўвайце на сваёй прыладзе сціснутыя фота. Сыходныя файлы будуць захоўвацца ў Mi Cloud.</string>
     <string name="cleaner_slim_start">Аптымізаваць</string>
     <string name="cleaner_slim_title">Аптымізаваць фота</string>
@@ -261,6 +261,9 @@
     <string name="cloudfolder_name_reserved">Назва альбома занята</string>
     <string name="collage__talkback_effect">Эфект %d</string>
     <string name="collage_choose">Выбраць</string>
+    <string name="collage_drawable_normal_date_format">dd/MM/yyyy</string>
+    <string name="collage_drawable_rect_date_month_day">dd MMM</string>
+    <string name="collage_drawable_rect_date_year">yyyy</string>
     <string name="collage_margin_text">Межы</string>
     <string name="collage_mirror">Адлюстраваць</string>
     <string name="collage_poster_global_cat_text">ЛАПКІ</string>
@@ -463,6 +466,7 @@
     <string name="face_name_edit">Змяніць</string>
     <string name="face_name_input">Увядзіце імя</string>
     <string name="face_recommend">Парады</string>
+    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="fail_hint">Не атрымалася завяршыць аперацыю</string>
     <string name="fail_to_pick_email">Няправільны Email</string>
     <string name="fail_to_sync_album">Не атрымалася сінхранізаваць альбом. Праверце параметры сеткі.</string>
@@ -473,6 +477,7 @@
     <string name="feature_guidance_photo_effects">"Даступныя
 новыя эфекты"</string>
     <string name="feature_guidance_video_editor_smart_effects">Даступныя новыя эфекты</string>
+    <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="filter_bi_memory">Памяць</string>
     <string name="filter_bi_mono">Мона</string>
     <string name="filter_bi_pink">Ружовы</string>
@@ -541,6 +546,7 @@
     <string name="gif_tip">GIF</string>
     <string name="gigabyteShort">ГБ</string>
     <string name="grant_permission_go_and_set">Усталяваць</string>
+    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_text">"Для звычайнай працы Галерэі патрэбны доступ да 
 %s
 , націсніце \"Наладзіць\", каб перайсці да дазволаў."</string>
@@ -649,6 +655,7 @@
     <string name="merge_album_title">"Аб'яднаць з чалавекам"</string>
     <string name="messagelist_sender_self">Я</string>
     <string name="micloud_introduce">Аўтазахаванне фота і відэа (патрабуецца Mi Акаўнт)</string>
+    <string name="more">Больш</string>
     <string name="more_album_hint">і г.д.</string>
     <string name="more_face">Яшчэ падобныя людзі</string>
     <string name="more_face_album_name">Больш людзей</string>
@@ -699,6 +706,7 @@
     <string name="operation_edit_video">Змяніць</string>
     <string name="operation_enable_auto_upload">Уключыць сінхранізацыю з Mi Cloud</string>
     <string name="operation_failed">Не атрымалася завяршыць аперацыю</string>
+    <string name="operation_favorites">Абранае</string>
     <string name="operation_force_top">Замацаваць</string>
     <string name="operation_hide">Зрабіць нябачным</string>
     <string name="operation_in_process">Апрацоўка…</string>
@@ -736,6 +744,7 @@
     <string name="people_mark_mode_title_no_mark_name">Выберыце чалавека</string>
     <string name="people_page_label">Людзі</string>
     <string name="people_page_unname">Без імені</string>
+    <string name="percent_sign">%</string>
     <string name="pet_album_display_name">Фота жывёл</string>
     <string name="petabyteShort">ПБ</string>
     <string name="photo">Фота</string>
@@ -867,6 +876,10 @@
     <string name="play_gif_desc">Прайграць GIF</string>
     <string name="play_video_desc">Прайграць відэа</string>
     <string name="preparing_data">Хвілінку…</string>
+    <string name="privacy_permission_request_message">Галерэе патрэбны доступ да %3$s. Інфармацыя, якую мы збіраем, апрацоўваецца ў адпаведнасці з %1$s і %2$s. Дазволіць?</string>
+    <string name="privacy_permission_request_negative">Абмежаваць</string>
+    <string name="privacy_permission_request_positive">Дазволіць</string>
+    <string name="privacy_permission_request_title">Запыт дазволаў</string>
     <string name="projection_cancel">Скасаваць</string>
     <string name="projection_checkbox_text">Запомніць гэты дысплэй</string>
     <string name="projection_device_connection_failed">Не атрымалася падключыць праектар</string>
@@ -912,6 +925,7 @@
     <string name="remove_from_secret_successful">Выдалена з прыватнага альбома</string>
     <string name="remove_to_album_title">"Аб'яднаць з"</string>
     <string name="remove_to_other_album">"Аб'яднаць з іншым чалавекам"</string>
+    <string name="removed_from_favorites_desc">Выдалена з абранага</string>
     <string name="remover_edit_type_free">"Аб'екты"</string>
     <string name="remover_edit_type_line">Лініі</string>
     <string name="remover_erase_aera_too_big">Вобласць сцірання</string>
@@ -988,6 +1002,9 @@
     <string name="search_title_recommend">Рэкамендацыі</string>
     <string name="search_title_suggestion">Прапановы</string>
     <string name="search_title_tag">"Аб'екты"</string>
+    <string name="search_transition_element_icon">search_icon</string>
+    <string name="search_transition_element_input">search_input</string>
+    <string name="search_transition_element_voice">search_voice</string>
     <string name="searching_cast_devices">Пошук праектара…</string>
     <string name="secret_album_card_description">Лепшае месца для вашых маленькіх сакрэтаў</string>
     <string name="secret_album_card_title">Паспрабуйце схаваныя альбомы</string>
@@ -1170,10 +1187,15 @@
     <string name="video_editor_auto_trim">Аўта абрэзка</string>
     <string name="video_editor_auto_trim_tip">Аўта абрэзка…</string>
     <string name="video_editor_cancel">Скасаваць</string>
+    <string name="video_editor_cancel_download">Адмена</string>
     <string name="video_editor_done">Гатова</string>
     <string name="video_editor_down_load_later">Пазней</string>
     <string name="video_editor_down_load_no_wifi_tips">Падключыцеся да Wi-Fi для спампоўкі</string>
     <string name="video_editor_down_load_now">Спампаваць</string>
+    <string name="video_editor_download">Спампаваць</string>
+    <string name="video_editor_download_failed_for_notwork">Памылка спампоўкі. Злучыцеся з сеткай і паўтарыце спробу.</string>
+    <string name="video_editor_download_without_wifi_msg">Выкарыстанне мабільнага інтэрнэту для спампоўкі файлаў павялічыць расход трафіка. Калі вы перавысіце ліміт, усталяваны вашым тарыфам, мабільны аператар можа спаганяць дадатковую плату.</string>
+    <string name="video_editor_download_without_wifi_title">Папярэджанне</string>
     <string name="video_editor_encode_video">Кадаванне відэа…</string>
     <string name="video_editor_encode_video_error">Не атрымалася кадзіраваць відэа</string>
     <string name="video_editor_fatal_error">Невядомая памылка</string>
@@ -1212,6 +1234,8 @@
     <string name="video_editor_res_download_mobil_network_confirm_msg">Спампаваць саўндтрэкі праз мабільны інтэрнэт?</string>
     <string name="video_editor_res_download_mobil_network_confirm_title">Выкарыстоўваецца мабільны інтэрнэт</string>
     <string name="video_editor_res_not_load_dialog_msg">Спампаваць саўндтрэкі для выкарыстання гэтай функцыі (больш за 20 МБ).</string>
+    <string name="video_editor_return">Назад</string>
+    <string name="video_editor_save">Захаваць</string>
     <string name="video_editor_smart_effect_beat">Біт</string>
     <string name="video_editor_smart_effect_big_film">Эпічны</string>
     <string name="video_editor_smart_effect_cadence">Рытм</string>
@@ -1257,6 +1281,7 @@
     <string name="view_face_album">Праглядзець альбом</string>
     <string name="view_more_face_desc">Паказаць больш людзей</string>
     <string name="voice_assistant">Галасавы ўвод</string>
+    <string name="welcome_to_auto_backup">@string/welcome_to_micloud</string>
     <string name="welcome_to_micloud">Сардэчна запрашаем у Мі Cloud</string>
     <string name="where_is_barcode">Дзе атрымаць QR-код?</string>
     <string name="who_is_this">Хто гэта?</string>

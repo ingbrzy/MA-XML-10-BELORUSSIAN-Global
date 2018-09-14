@@ -11,7 +11,7 @@
 перайдзіце на %s з любой прылады, злучанай з сеткай."</string>
     <string name="permdesc_accessDrm">Дазваляе праграме доступ да кантэнту, абароненага DRM.</string>
     <string name="open_wifi_connect_title">Падлучана да %1$s</string>
-    <string name="open_wifi_connect_and_use_data_summary">прадоўжыце выкарыстоўваць трафік, націсніце для пераключэння на Wi-Fi і праверкі.</string>
+    <string name="open_wifi_connect_and_use_data_summary">Выкарыстоўваецца мабільны інтэрнэт. Націсніце, каб далучыцца да Wi-Fi.</string>
     <string name="open_wifi_connect_summary">Націсніце для прагляду інфармацыі.</string>
     <string name="settings_license_activity_title">Ліцэнзіі з адкрытым кодам</string>
     <string name="settings_license_activity_loading">Хвілінку…</string>
@@ -25,4 +25,5 @@
     <string name="settings_ad_loading">Хвілінку…</string>
     <string name="settings_ad_loading_unavailable">Не атрымалася загрузіць дадзеныя.</string>
     <string name="autoconnect">Падлучацца аўтаматычна</string>
+    <string name="poco_privacy_policy">"Палітыка прыватнасці і Карыстальніцкае пагадненне POCO Launcher "</string>
 </resources>

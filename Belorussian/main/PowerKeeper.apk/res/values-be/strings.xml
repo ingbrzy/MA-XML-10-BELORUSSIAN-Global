@@ -36,9 +36,9 @@
     <string name="warm_performance_tip">Ваша прылада будзе награваецца, калі запушчана шмат працэсаў.</string>
     <string name="vip_feedback">VIP справаздача</string>
     <string name="vip_feedback_enable">Уключыць VIP справаздачу</string>
-    <string name="extreme_power_config_mode_category">Экстрэмальны рэжым</string>
-    <string name="extreme_power_config_mode_title">Экстрэмальны рэжым</string>
-    <string name="extreme_power_config_mode_desc">Пераключыць у экстрэмальны рэжым, будзе выключана сінхранізацыя, Bluetooth, GPS, NFC, двайное націсканне, падсветка кнопак, уключэнне экрана блакавання для апавяшчэнняў, а таксама светлавыя сігналы апавяшчэнняў. MIUI засяродзіцца на захаванні энергіі.</string>
+    <string name="extreme_power_config_mode_category">Максімальнае энергазберажэнне</string>
+    <string name="extreme_power_config_mode_title">Максімальнае энергазберажэнне</string>
+    <string name="extreme_power_config_mode_desc">Пры уключэнні максімальнага энергазберажэння будзе выключана сінхранізацыя, Bluetooth, GPS, NFC, двайное націсканне, падсветка кнопак, уключэнне экрана блакавання для апавяшчэнняў, а таксама светлавыя сігналы апавяшчэнняў. MIUI засяродзіцца на захаванні энергіі.</string>
     <string name="empty_title_apps_container_list">Няма праграм</string>
     <string name="hints_loading_text">Хвілінку…</string>
     <string name="config_mode_title">Налада фонавай актыўнасці</string>
@@ -91,6 +91,6 @@
     <string name="appconfig_active_app_dialog_title">Кіраванне актыўнасцю</string>
     <string name="config_classify">Сартаваць па наладах</string>
     <string name="active_classify">Сартаваць па актыўнасці</string>
-    <string name="extreme_mode_max_item_alert">У рэжыме максімальнага энергазберажэння могуць быць выбраны толькі 4 праграмы для запуску ў фонавым рэжыме</string>
+    <string name="extreme_mode_max_item_alert">Вы можаце абраць да 4 праграм для работы ў фонавым рэжыме</string>
     <string name="message_i_know">Зразумела</string>
 </resources>

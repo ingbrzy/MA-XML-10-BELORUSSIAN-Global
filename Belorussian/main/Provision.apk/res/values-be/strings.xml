@@ -38,7 +38,7 @@
     <string name="sim_redetection">Праверце яшчэ раз</string>
     <string name="navigation_picker_gesture_guide">Кіраўніцтва па жэстах</string>
     <string name="congratulation_title">Налады завершаны</string>
-    <string name="congratulation_label">Атрымалася!​</string>
+    <string name="congratulation_label">Усё гатова!​</string>
     <string name="pref_title_voice_slot">Пераважная SIM для размоў</string>
     <string name="pref_title_data_slot">Пераважная SIM для інтэрнэту</string>
     <string name="summary_not_set">Не наладжана</string>
@@ -67,6 +67,7 @@
     <string name="disagree">Скасаваць</string>
     <string name="setting_locale">Налады рэгіёна…</string>
     <string name="agree_terms">Я прачытаў і згаджаюся з Умовамі выкарыстання і Палітыкай канфідэнцыяльнасці.</string>
+    <string name="poco_agree_terms_other">(У тым ліку Палітыка прыватнасці і Карыстальніцкае пагадненне POCO Launcher)</string>
     <string name="agree_terms_input_method_facemoji">Я прачытаў і прымаю Палітыку канфідэнцыяльнасці Facemoji.</string>
     <string name="agree_terms_input_method_kika">Я прачытаў і прымаю Палітыку канфідэнцыяльнасці Kika.</string>
     <string name="miui_terms_no_network">Няма падключэння да інтэрнэту. Азнаёміцца з Умовамі выкарыстання на %s.</string>
@@ -100,5 +101,16 @@
     <string name="continue_to_enable_accessibility">Працягвайце націскаць на экран двумя пальцамі каб уключыць TalkBack.</string>
     <string name="voice_assist_title">Галасавы дапаможнік</string>
     <string name="voice_assist_desp">Скажыце \"Мі АІ\" вашай прыладзе. Мі АІ распазнае ваш голас і дапаможа кіраваць вашай прыладай.</string>
-    <string name="voice_assist_desp_screen_light">Пасля ўключэння экрана скажыце \"Mi AI\" свайму тэлефоне. Mi AI распазнае ваш голас і зможа кіраваць вашай прыладай.</string>
+    <string name="voice_assist_condition">"Вы зможаце карыстацца Mi AI у наступных выпадках:
+1. Пры уключаным экране.
+2. Калі слухаеце музыку з выключаным экранам."</string>
+    <string name="voice_assist_advice">Mi AI дазваляе вам кіраваць прыладай з дапамогай голасу, але павышае спажыванне энергіі (+1% у гадзіну).</string>
+    <string name="ai_button_title">Пра кнопку AI</string>
+    <string name="ai_button_desc">Карыстуйцеся гэтай кнопкай, каб запускаць Mi AI і кіраваць прыладай з дапамогай голасу.</string>
+    <string name="ai_button_long_press">Націск і ўтрыманне</string>
+    <string name="ai_button_long_press_desc">Скажыце каманду і адпусціце кнопку</string>
+    <string name="ai_button_single_press">Націск</string>
+    <string name="ai_button_single_press_desc">Запуск Mi AI</string>
+    <string name="ai_button_double_press">Падвоены націск</string>
+    <string name="ai_button_double_press_desc">Налады функцый Mi AI</string>
 </resources>

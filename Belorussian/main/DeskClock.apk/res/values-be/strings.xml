@@ -59,10 +59,10 @@
     <string name="dialog_message_not_remind">Больш не паказваць</string>
     <string name="done">Здзейснена</string>
     <string name="dynamic_alarm_speech">Разумны будзільнік</string>
-    <string name="edit_alarm">Рэдагаваць будзільник</string>
+    <string name="edit_alarm">Рэдагаваць будзільнiк</string>
     <string name="edit_systemtime">Налады даты і часу</string>
     <string name="every_day">Штодня</string>
-    <string name="expired_timers_dismissed">Timer dismissed</string>
+    <string name="expired_timers_dismissed">Таймер адключаны</string>
     <string name="force_touch_add_alarm">Дадаць будзільнік</string>
     <string name="force_touch_enter_stopwatch">Секундамер</string>
     <string name="force_touch_enter_timer">Таймер</string>
@@ -73,7 +73,7 @@
     <string name="install_weather_app_error">Не атрымалася запусціць праграму</string>
     <string name="install_weather_app_loading">Хвілінку…</string>
     <string name="invalid_time">Няслушны час: %3$s %1$d: %2$d</string>
-    <string name="invalid_timer_length">Invalid timer length</string>
+    <string name="invalid_timer_length">Недапушчальная працягласць таймера</string>
     <string name="keep_screen_on">Не выключаць экран</string>
     <string name="label">Усталяваць застаўку</string>
     <string name="label_pref_summary">Апісанне</string>
@@ -152,6 +152,7 @@
     <string name="shutdown_alarm_enable_summary">Будзільнік будзе працаваць пасля адключэння тэлефона</string>
     <string name="shutdown_alarm_title">Выключыць</string>
     <string name="silent_alarm_summary">Без гука</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">Адключыць адзін раз %s</string>
     <string name="slider_text">Правядзіце пальцам уверх, каб выключыць</string>
     <string name="snooze_confirm_cancel">Адключыць будзільнік</string>
@@ -160,6 +161,7 @@
     <string name="start_up">Пачаць</string>
     <string name="stopwatch_lap_empty_text">Няма кругоў</string>
     <string name="stopwatch_title">Секундамер</string>
+    <string name="symbol_colon">:</string>
     <string name="system_time_setting">Галерэя</string>
     <string name="system_time_settings_category_title">Час</string>
     <string name="temperature_unit">%1$s°</string>
@@ -184,7 +186,7 @@
     <string name="timer_clock_alert_text">Усталяваць таймер</string>
     <string name="timer_continue">Далей</string>
     <string name="timer_continue_timer">Узнавіць таймер</string>
-    <string name="timer_created">Timer created</string>
+    <string name="timer_created">Таймер створаны</string>
     <string name="timer_end_time">Таймер спыніцца ў %s</string>
     <string name="timer_end_time_format">Hh:mm d MMM</string>
     <string name="timer_end_time_format_today">HH:mm</string>

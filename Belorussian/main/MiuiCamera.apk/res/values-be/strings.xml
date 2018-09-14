@@ -38,6 +38,9 @@
     <string name="pref_video_quality_entry_1080p_60fps">FHD 1080P, 60fps</string>
     <string name="pref_video_quality_entry_720p">HD 720P, 30fps</string>
     <string name="pref_video_quality_entry_480p">SD 480P, 30fps</string>
+    <string name="pref_new_slow_motion_video_quality_entry_1080p">FHD 1080p</string>
+    <string name="pref_new_slow_motion_video_quality_entry_720p">HD 720p</string>
+    <string name="pref_new_slow_motion_video_quality_240_720only">Налада 240fps даступная толькі для відэа 720p</string>
     <string name="pref_video_encoder_title">Відэакодэр</string>
     <string name="pref_video_encoder_entry_h264">H.264 (сумяшчальнасць)</string>
     <string name="pref_video_encoder_entry_h265">H.265 (прадукцыйнасць)</string>
@@ -414,7 +417,7 @@
     <string name="dual_camera_lens_covered_toast">"Аб'ектыў зачынены."</string>
     <string name="dual_camera_use_hint">"Пераканайцеся, што аб'ект знаходзіцца не далей за 2 метры."</string>
     <string name="bokeh_use_hint">Эфект глыбіні</string>
-    <string name="back_bokeh_use_hint">"Пераканайцеся, што аб'ект знаходзіцца не далей за 1.5 метры."</string>
+    <string name="back_bokeh_use_hint">"Трымаеце аб'ект у межах 1,5 метраў для лепшага эфекту"</string>
     <string name="pref_camera_zoom_ratio_wide">100</string>
     <string name="pref_camera_zoom_ratio_tele">200</string>
     <string name="pref_camera_zoom_mode_title">ЛІНЗЫ</string>
@@ -432,6 +435,9 @@
     <string name="portrait_mode_depth_effect_success_hint">Эфект глыбіні</string>
     <string name="portrait_mode_use_hint">"Партрэтны рэжым размывае фон
 і павялічвае выразнасць пярэдняга плана."</string>
+    <string name="portrait_mode_use_hint_with_switch">@string/portrait_mode_use_hint</string>
+    <string name="portrait_mode_use_hint_for_bokeh">"Паспрабуйце зрабіць фота ў партрэтным рэжыме.
+Аб'еут здымкі застанецца ў фокусе, а фон будзе размыты."</string>
     <string name="pref_camera_square_mode_title">Квадрат</string>
     <string name="simple_mode_button_text_square">Адключыць кадраванне</string>
     <string name="face_beauty_smart">Разумны</string>
@@ -446,6 +452,7 @@
     <string name="pref_camera_beautify_entry_low">Нізкі</string>
     <string name="pref_camera_beautify_entry_normal">Сярэдні</string>
     <string name="pref_camera_beautify_entry_high">Высокі</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="camera_mode_options">Рэжымы</string>
     <string name="button_front_camera_title">Зрабіць сэлфі</string>
     <string name="button_normal_video_title">Запіс відэа</string>
@@ -470,6 +477,7 @@
     <string name="hint_ae_af_lock">Аўтафокус/аўтаэкспазіцыя зафіксаваны</string>
     <string name="hint_device_water_mark">Вадзяны знак будзе дададзены аўтаматычна.</string>
     <string name="module_name_fun">Відэакліп</string>
+    <string name="module_name_new_slow_motion">Запаволеная здымка</string>
     <string name="module_name_video">Відэа</string>
     <string name="module_name_capture">Фота</string>
     <string name="module_name_beauty">Паляпшэнне</string>
@@ -559,4 +567,5 @@
     <string name="lighting_pattern_dot">Пункты</string>
     <string name="lighting_pattern_shutter">Шторкі</string>
     <string name="view_privacy_policy">Прагледзець Палітыку канфідэнцыяльнасці</string>
+    <string name="fps960_toast">Запаволеная здымка пачнецца, калі таймер дасягне белай кропкі</string>
 </resources>

@@ -114,6 +114,7 @@
     <string name="menu_title_select_folder">Выберыце папку</string>
     <string name="menu_unhide">Не хаваць</string>
     <string name="menu_unstick">Адмацаваць</string>
+    <string name="micloud_state_total_count">%1$s</string>
     <string name="not_now">Не зараз</string>
     <string name="note_description_content">Нататкі - выдатны сродак для запісу вашых думак. Там знаходзяцца напаміны, і ён сінхранізуе вашы нататкі з Mi Cloud, каб вы маглі атрымаць доступ да іх у любым месцы ў любы час. Перад выдаленнем праграмы ўпэўніцеся, што вы можаце абысціся без гэтых функцый.</string>
     <string name="note_description_title">Аб праграме</string>
@@ -125,6 +126,7 @@
     <string name="note_sort_way">Выберыце, як вы хочыце сартыраваць нататкі</string>
     <string name="notealert_enter">Адкрыць нататку</string>
     <string name="notealert_ok">Зачыніць</string>
+    <string name="notelist_string_info">…</string>
     <string name="notify_alarm_title">Нататкавы напамін</string>
     <string name="permdesc_accessNote">Злаўмысныя праграмы могуць выкарыстоўваць гэты дазвол для атрымання вашых асабістых дадзеных.</string>
     <string name="permlab_accessNote">Доступ да нататак</string>
@@ -200,8 +202,8 @@
     <string name="toast_message_add_image_fail">Немагчыма дадаць выяву</string>
     <string name="toast_notes_delete_success">Нататка выдалена</string>
     <string name="toast_notes_hidden_count">Схавана: %1$s</string>
-    <string name="toast_notes_hidden_edit">This note was hidden successfully. Pull down to see hidden notes.</string>
-    <string name="toast_notes_hidden_home">This note was hidden successfully. Pull down to see hidden notes.</string>
+    <string name="toast_notes_hidden_edit">Нататка паспяхова схаваная. Пацягніце ўніз для прагляду схаваных нататак.</string>
+    <string name="toast_notes_hidden_home">Нататка паспяхова схаваная. Пацягніце ўніз для прагляду схаваных нататак.</string>
     <string name="toast_notes_unhidden">Утойванне нататкі скасавана</string>
     <string name="toast_notes_unhidden_count">Утойванне скасавана: %1$s</string>
     <string name="toast_reach_text_limit_attachment">Немагчыма прымацаваць файл. Няма вольнага месца ў нататцы</string>

@@ -57,20 +57,20 @@
         <item>Delhi</item>
         <item>Mumbai</item>
         <item>Moscow</item>
-        <item>Chennai</item>
-        <item>Istanbul</item>
-        <item>Rio de Janeiro</item>
-        <item>Singapore</item>
-        <item>Berlin</item>
-        <item>Rome</item>
-        <item>New York</item>
-        <item>Los Angeles</item>
-        <item>Chicago</item>
-        <item>Tokyo</item>
-        <item>Paris</item>
-        <item>Bangkok</item>
-        <item>Seoul</item>
-        <item>Kuala Lumpur</item>
+        <item>Ченнаі</item>
+        <item>Стамбул</item>
+        <item>Рыо-дэ-Жанэйра</item>
+        <item>Сінгапур</item>
+        <item>Берлін</item>
+        <item>Рым</item>
+        <item>Нью-Ёрк</item>
+        <item>Лос-Анджэлес</item>
+        <item>Чыкага</item>
+        <item>Токіо</item>
+        <item>Парыж</item>
+        <item>Бангкок</item>
+        <item>Сеул</item>
+        <item>Куала Лумпур</item>
     </string-array>
     <string-array name="minute_rain_array">
         <item>Моцны</item>

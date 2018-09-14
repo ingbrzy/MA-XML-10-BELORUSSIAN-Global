@@ -78,6 +78,24 @@
         <item quantity="few">"%1$d  г %2$d  хв"</item>
         <item quantity="many">"%1$d  г %2$d  хв"</item>
     </plurals>
+    <plurals name="keyguard_extreme_power_info_could_use_hour_time_text">
+        <item quantity="other">Засталося %d гадзін</item>
+        <item quantity="one">Засталася %d гадзіна</item>
+        <item quantity="few">Засталіся %d гадзіны</item>
+        <item quantity="many">Засталося %d гадзін</item>
+    </plurals>
+    <plurals name="keyguard_extreme_power_info_could_use_min_time_text">
+        <item quantity="other">Засталося %d хвілін</item>
+        <item quantity="one">Засталася %d хвіліна</item>
+        <item quantity="few">Засталіся %d хвіліны</item>
+        <item quantity="many">Засталося %d хвілін</item>
+    </plurals>
+    <plurals name="keyguard_extreme_power_info_could_use_time_text">
+        <item quantity="other">Засталося %1$d гадз. %2$d хв.</item>
+        <item quantity="one">Засталося %1$d гадз. %2$d хв.</item>
+        <item quantity="few">Засталося %1$d гадз. %2$d хв.</item>
+        <item quantity="many">Засталося %1$d гадз. %2$d хв.</item>
+    </plurals>
     <plurals name="kg_password_default_pin_message">
         <item quantity="other">Увядзіце PIN-код. Засталося %d спроб. Пасля гэтага SIM-карта будзе заблакавана і вам прыйдзецца звярнуцца да аператара сувязі.</item>
         <item quantity="one">Увядзіце PIN-код. Засталася %d спроба. Пасля гэтага SIM-карта будзе заблакавана і вам прыйдзецца звярнуцца да аператара сувязі.</item>

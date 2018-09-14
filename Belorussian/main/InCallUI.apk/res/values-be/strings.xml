@@ -58,7 +58,7 @@
     <string name="caller_manage_header">Канферэнц-выклік %s</string>
     <string name="incall_call_type_label_sip">Інтэрнэт-выклік</string>
     <string name="incoming_call_forwarded_title">Перанакіраванне выклікаў</string>
-    <string name="call_title_redialing_with_times">Перанабраны %d разоў</string>
+    <string name="call_title_redialing_with_times">Паўторных выклікаў: %d</string>
     <string name="card_title_dialing">Набор</string>
     <string name="card_title_conf_call">Канферэнц-выклік</string>
     <string name="card_title_video_conf_call">Відэаканферэнц-выклік</string>

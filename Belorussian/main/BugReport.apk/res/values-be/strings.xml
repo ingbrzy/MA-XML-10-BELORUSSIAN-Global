@@ -57,6 +57,7 @@
     <string name="save_pic_success">Выява захавана ў %s</string>
     <string name="save_pic_fail">Не атрымалася захаваць выяву, праверце SD-карту</string>
     <string name="pic_not_exist">Гэта выява не існуе</string>
+    <string name="pic_view_format">%1$s\"/\"%2$s</string>
     <string name="michat_skillset_product_title">Выберыце прадукт</string>
     <string name="michat_skillset_business_type_title">Выберыце сэрвіс</string>
     <string name="michat_close_text">Чат завершаны</string>
@@ -161,13 +162,16 @@
     <string name="cta_cancel">Скасаваць</string>
     <string name="cta_confirm">ОК</string>
     <string name="submit_dialog_title">Адпраўка справаздачы</string>
-    <string name="submit_dialog_content">Ваша справаздача разам з ўкладаннямі і журналамі будзе адпраўлена на серверы MIUI. Яна можа ўтрымліваць асабістую інфармацыю і дадзеныя аб месцазнаходжанні.</string>
-    <string name="submit_dialog_content_global">Ваш водгук, нароўні з прымацаваннямі (калі такія маюцца) і часопісамі (вы можаце зняць адпаведныя сцяжкі для элементаў, якія вы не хочаце загружаць) будуць адпраўленыя на сервер MIUI і ў абмежаваны раздзел форуму MIUI для распрацоўнікаў. Інфармацыя аб вашых тэмах і актыўнасці на форуме таксама будзе збірацца для аналізу і далейшых зносін. Часопісы могуць утрымліваць асабістыя дадзеныя і зьвесткі пра месцазнаходжанне.</string>
+    <string name="submit_dialog_content"><Data>Ваша справаздача разам з укладаннямі і журналамі будзе адпраўлена на серверы MIUI. Яна можа ўтрымліваць асабістую інфармацыю і зьвесткі пра месца. Націскаючы \"Згодзен\" азначае, што вы прачыталі і прымаеце нашу &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Палітыку канфідэнцыяльнасці&lt;/a> і &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Умовы выкарыстання&lt;/a>.</Data></string>
+    <string name="submit_dialog_content_global"><Data>"Ваша справаздача разам з укладаннямі (калі ёсць) і журналамі (вы можаце зняць сцяжкі з адпаведных палёў для аб'ектаў, якія вы не хочаце адпраўляць) будзе адпраўлены на серверы MIUI і ў закрыты раздзел форуму MIUI для распрацоўшчыкаў. Інфармацыя аб вашых тэмах і актыўнасці на форуме таксама будзе сабраная для аналізу і далейшых зносін. Журналы могуць утрымліваць асабістую інфармацыю і зьвесткі пра месца. Націскаючы \"Згодзен \" азначае, што вы прачыталі і прымаеце нашу &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Палітыку канфідэнцыяльнасці &lt;/a> і &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Умовы выкарыстання&lt;/a>."</Data></string>
     <string name="submit_dialog_cancel">Не згаджацца</string>
     <string name="submit_dialog_confirm">Згадзіцца</string>
+    <string name="tab_title_preferences">Налады</string>
+    <string name="privacy_policy_title">Палітыка канфідэнцыяльнасці</string>
+    <string name="privacy_category_title">Канфідэнцыяльнасць</string>
     <string name="mobile_data_note_dialog_title">Папярэджанне пра трафік</string>
-    <string name="mobile_data_note_dialog_content">Выкарыстанне мабільнага інтэрнэту для запампавання логаў можа прывесці да дадатковых выдаткаў.</string>
-    <string name="mobile_data_note_dialog_content_with_file_size">Для адпраўкі журнала праз мабільны інтэрнэт патрабуецца %s Мб дадзеных.</string>
+    <string name="mobile_data_note_dialog_content">Вы падлучаны да платнай сеткі. Адпраўка журналаў можа выклікаць дадатковыя выдаткі.</string>
+    <string name="mobile_data_note_dialog_content_with_file_size">Вы падлучаны да платнай сеткі. Адпраўка журналаў запатрабуе %s МБ мабільнага трафіка.</string>
     <string name="mobile_data_note_dialog_cancel">Чаканне Wi-Fi</string>
     <string name="mobile_data_note_dialog_confirm">Запампаваць</string>
     <string name="modem_tool_log_dumping_title">Стварыць справаздачу мадэма</string>
@@ -177,7 +181,7 @@
     <string name="modem_tool_log_finish_title">Справаздача мадэма створана</string>
     <string name="modem_tool_log_finish_desc">Справаздача захавана як %s</string>
     <string name="bugreport_dialog_not_show_again">Больш не паказваць</string>
-    <string name="bugreport_dialog_submit_content">Вы захоўваеце журналы праграмнага забеспячэння на прыладзе. Журналы могуць змяшчаць асабістую інфармацыю і дадзеныя пра месцазнаходжанне. Не дзяліцеся журналамі ні з кім, калі не хочаце разгалошваць гэтыя звесткі.</string>
+    <string name="bugreport_dialog_submit_content"><Data>Журналы праграмнага забеспячэння захоўваюцца на гэтай прыладзе. Яны могуць утрымліваць асабістую інфармацыю і зьвесткі пра месца. Ня дзяліцеся журналамі ні з кім, калі не хочаце раскрыцця гэтай інфармацыі. Націскаючы \"Згодзен\" азначае, што вы прачыталі і прымаеце нашу &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Палітыку канфідэнцыяльнасці &lt;/a> і &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Умовы выкарыстання &lt;/a>.</Data></string>
     <string name="bugreport_dump_start_notification_title">Стварэнне справаздачы пра памылку…</string>
     <string name="bugreport_dump_start_notification_summary">Гэта можа заняць некалькі хвілін.</string>
     <string name="bugreport_dump_complete_notification_title">Справаздача створана</string>
@@ -191,7 +195,7 @@
     <string name="nothing">--</string>
     <string name="feedback_id">ID: %d</string>
     <string name="feedback_jira_key">JIRA Key: %s</string>
-    <string name="feedback_collect_log_failed">Не атрымалася свыбраць логі</string>
+    <string name="feedback_collect_log_failed">Не атрымалася сабраць логі</string>
     <string name="feedback_package_log_failed">Не атрымалася сціснуць логі</string>
     <string name="submit_feedback_info_failed">Не атрымалася адправіць справаздачу</string>
     <string name="post_miui_bbs_failed">Не атрымалася размясціць на форуме MIUI</string>
@@ -242,6 +246,7 @@
     <string name="feedback_third_packagename_hint">Якая праграма выклікае праблемы?</string>
     <string name="toast_third_packagename_required">Увядзіце назву праграмы</string>
     <string name="feedback_contact_info_hint">Тэлефон/Email</string>
+    <string name="toast_loading_app_id">Атрыманне дадзеных…</string>
     <string name="feedback_status_commit_succ_title">Адпраўлена</string>
     <string name="feedback_status_commit_uploading_title">Адпраўка…</string>
     <string name="feedback_status_commit_failed_title">Не атрымалася адправіць справаздачу</string>
@@ -254,12 +259,12 @@
     <string name="feedback_status_jira_comment">Дадаць каментарый</string>
     <string name="feedback_status_forum_reply">Адказаць</string>
     <string name="feedback_status_submit_attachment">Укладанне паспяхова накіравана</string>
-    <string name="feedback_status_collect_log_failed">Не атрымалася свыбраць логі</string>
-    <string name="feedback_status_submit_feedback_failed">"Couldn't submit feedback"</string>
-    <string name="feedback_status_save_log_info_failed">"Couldn't change attachment URL"</string>
-    <string name="feedback_status_submit_bbs_failed">"Couldn't submit feedback content"</string>
-    <string name="feedback_status_get_and_save_bbs_info_failed">"Couldn't get attachment URL"</string>
-    <string name="feedback_status_upload_log_failed">"Couldn't upload attachments"</string>
+    <string name="feedback_status_collect_log_failed">Не атрымалася сабраць журналы</string>
+    <string name="feedback_status_submit_feedback_failed">Не атрымалася адправіць водгук</string>
+    <string name="feedback_status_save_log_info_failed">Не атрымалася змяніць URL-прымацаванні</string>
+    <string name="feedback_status_submit_bbs_failed">Не атрымалася адправіць змест водгуку</string>
+    <string name="feedback_status_get_and_save_bbs_info_failed">Не атрымалася атрымаць URL-прымацаванні</string>
+    <string name="feedback_status_upload_log_failed">Не атрымалася адправіць прымацаванні</string>
     <string name="feedback_status_change_notification_title">Вашы справаздачы ў працэсе былі абноўленыя</string>
     <string name="feedback_bug_status_change_notification_desc">%1$s праблема \"%2$s\"</string>
     <string name="feedback_suggestion_status_change_notification_desc">%1$s прапанова \"%2$s\"</string>
@@ -285,6 +290,8 @@
     <string name="warning_field_invalid">Выберыце сапраўдны %1$s</string>
     <string name="min_error">Ваш %1$s занадта кароткі.</string>
     <string name="max_error">Ваш %1$s занадта доўгі.</string>
+    <string name="reply_option_log_hint">可选</string>
+    <string name="reply_select_log_hint">选择日志文件</string>
     <string name="title_mi_family">Mi Homes паблізу</string>
     <string name="hint_feedback_main">Апішыце праблему</string>
     <string name="goon_feedback_main">Працягнуць</string>
@@ -305,7 +312,7 @@
     <string name="module_medias">Медыя</string>
     <string name="module_communication">Зносіны</string>
     <string name="module_tools">Сістэмныя інструменты</string>
-    <string name="module_desktop">Галоўны экран і налады</string>
+    <string name="module_desktop">Налады Працоўнага стала</string>
     <string name="module_security">Бяспека і Mi Cloud</string>
     <string name="module_data">Памяць і клоны праграм</string>
     <string name="module_finance">Фінансы і Mi Wallet</string>
@@ -314,13 +321,12 @@
     <string name="module_google_apps">Google apps</string>
     <string name="app_search">Пошук праграм</string>
     <string name="feedback_submit_hint">Паведамляйце аб праблемах кожны раз, калі вы сутыкаецеся з імі, каб дапамагчы нам вырашыць іх хутчэй.</string>
-    <string name="feedback_submit_hint_gone">Паведамленне зачынена</string>
+    <string name="feedback_submit_hint_gone">Паведамленне закрыта</string>
     <string name="toast_post_deleted">Гэтая тэма не існуе, была выдаленая або зменена.</string>
     <string name="toast_log_not_exists">Неабходны журнал быў выдалены ці не існуе</string>
     <string name="toast_pic_not_exists">Захаваная выява была выдалена</string>
     <string name="toast_screenshot_too_large">Немагчыма запампаваць файл больш за 10 Мб.</string>
     <string name="toast_log_too_large">Не ўдаецца запампаваць. Файл занадта вялікі.</string>
-    <string name="title_bbs_feedback_main">Даведайцеся больш пра Mi Тэлефоны</string>
     <string name="title_customer_service">Абслугоўванне карыстальнікаў</string>
     <string name="customer_service_apply">Запыт у службу абслугоўвання кліентаў</string>
     <string name="customer_service_complain">Паведаміць аб службе абслугоўвання кліентаў</string>

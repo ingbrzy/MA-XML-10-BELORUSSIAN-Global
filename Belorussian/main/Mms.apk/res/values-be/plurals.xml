@@ -19,10 +19,10 @@
         <item quantity="many">%d паведамленняў не сінхранізавана</item>
     </plurals>
     <plurals name="confirm_delete_conversation">
-        <item quantity="other">Delete %1$d selected conversations?</item>
-        <item quantity="one">Delete %1$d selected conversation?</item>
-        <item quantity="few">Delete %1$d selected conversations?</item>
-        <item quantity="many">Delete %1$d selected conversations?</item>
+        <item quantity="other">Выдаліць %1$d выбраных дыялогаў?</item>
+        <item quantity="one">Выдаліць %1$d выбраны дыялог?</item>
+        <item quantity="few">Выдаліць %1$d выбраных дыялога?</item>
+        <item quantity="many">Выдаліць %1$d выбраных дыялогаў?</item>
     </plurals>
     <plurals name="custom_select_title_items_selected">
         <item quantity="other">%d выбрана</item>
@@ -41,6 +41,12 @@
         <item quantity="one">%d паведамленне</item>
         <item quantity="few">%d паведамленні</item>
         <item quantity="many">%d паведамленняў</item>
+    </plurals>
+    <plurals name="mark_number_dialog_subtitle">
+        <item quantity="other">Пазначана як %2$s %1$d людзьмі</item>
+        <item quantity="one">Пазначана як %2$s %1$d чалавекам</item>
+        <item quantity="few">Пазначана як %2$s %1$d людзьмі</item>
+        <item quantity="many">Пазначана як %2$s %1$d людзьмі</item>
     </plurals>
     <plurals name="message_count">
         <item quantity="other">%1$s паведамлення</item>

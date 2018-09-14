@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="status_bar_notification_info_overflow">больш за 999</string>
     <string name="accessibility_calllog_detail">Гісторыя выклікаў</string>
     <string name="accessibility_contact_detail">Інфармацыя пра кантакт</string>
     <string name="account_container_title">З акаўнта</string>
@@ -55,7 +56,6 @@
     <string name="btn_split_contact">Раздзяліць кантакт</string>
     <string name="button_cancel_scan">Спыніць</string>
     <string name="button_join_service_number">Дадаць сэрвісны нумар</string>
-    <string name="button_my_center">Профіль</string>
     <string name="button_scan">Сканаваць</string>
     <string name="caching_vcard_message">Кэшаванне файлаў vCard на прыладу…</string>
     <string name="caching_vcard_title">Кэшаванне</string>
@@ -99,6 +99,7 @@
     <string name="call_sim_menu_title_suffix">(Асноўны)</string>
     <string name="call_telex">Тэлекс</string>
     <string name="call_tty_tdd">Тэлетайп</string>
+    <string name="call_type_and_date">%1$s %2$s</string>
     <string name="call_unit">CNY</string>
     <string name="call_work">Працоўны тэлефон</string>
     <string name="call_work_mobile">Працоўны мабільны</string>
@@ -191,6 +192,7 @@
     <string name="composer_failed_to_get_database_infomation">Не ўдалося атрымаць інфармацыю з базы дадзеных.</string>
     <string name="composer_has_no_exportable_contact">Кантакты для экспарту не знойдзены. Магчыма, экспарт кантактаў з прылады не падтрымліваецца пастаўшчыком паслуг перадачы дадзеных.</string>
     <string name="composer_not_initialized">Рэдактар vCard запушчаны некаррэктна.</string>
+    <string name="conference_call_disable_tip">Немагчыма ажыццяўляць выклікі. Ваша прылада пваінна далучыцца да сеткі 4G з падтрымкай VoLTE.</string>
     <string name="confirm_delete_contact_all_call_logs">Выдаліць усе запісы для кантакта %s?</string>
     <string name="confirm_delete_selected_all_call_logs">Ачысціць гісторыю выклікаў?</string>
     <string name="confirm_delete_sim_entry_miui_title">Выдаліць</string>
@@ -398,10 +400,11 @@
     <string name="dialer_menu_description">Паказаць меню</string>
     <string name="dialer_menu_title">Опцыі меню</string>
     <string name="dialer_returnToInCallScreen">Вярнуцца да выкліку</string>
+    <string name="dialer_title_divider">" ｜ "</string>
     <string name="dialer_useDtmfDialpad">Выкарыстоўвайце танальную клавіятуру</string>
     <string name="dialog_import">Імпарт кантактаў</string>
     <string name="dialog_import_export">Імпарт/экспарт кантактаў</string>
-    <string name="dialog_new_contact_account">Create contacts under account</string>
+    <string name="dialog_new_contact_account">Стварыць кантакты у акаўнце</string>
     <string name="dialog_new_group_account">Стварыць групу ў акаўнце</string>
     <string name="dialog_phone_call_prohibited_message">Выклік не адпраўлены</string>
     <string name="dialog_sync_add">Уключыць сінхранізацыю групы</string>
@@ -485,8 +488,8 @@
     <string name="firewall_setting">Чорны спіс</string>
     <string name="force_touch_miprofile">Візітка</string>
     <string name="force_touch_new_contact">Новы кантакт</string>
-    <string name="foundTooManyContacts">Знойдзена больш %d.</string>
     <string name="frequentList">Частыя</string>
+    <string name="from_account_format">%1$s</string>
     <string name="full_name">Імя</string>
     <string name="gallery">Галерэя</string>
     <string name="generic_no_account_prompt">Трымайце свае кантакты ў бяспецы нават калі Вы згубіце свой тэлефон: сінхранізацыя з анлайн-сэрвісам.</string>
@@ -654,7 +657,6 @@
     <string name="menu_splitAggregate">Раздзяліць</string>
     <string name="menu_sync_remove">Адключыць сінхранізацыю групы</string>
     <string name="menu_viewContact">Прагледзець кантакт</string>
-    <string name="merge_contact_message">%1$d кантакты з аднолькавымі дадзенымі</string>
     <string name="messageShortcutActivityTitle">Выбраць нумар для адпраўкі паведамлення</string>
     <string name="miprofile_account_type">Візіткі</string>
     <string name="miprofile_alertdialog_edit">Увядзіце імя</string>
@@ -668,6 +670,7 @@
     <string name="miprofile_contact_header">Кантакты з візіткамі</string>
     <string name="miprofile_contact_meaasge">Кантакты на прыладзе</string>
     <string name="miprofile_contact_verifying">Праверка</string>
+    <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miprofile_edit_title">Рэдагаваць профіль</string>
     <string name="miprofile_error_accept_self">Нельга абмяняцца візіткамі з сабой</string>
     <string name="miprofile_error_no_miaccount">Увайсці ў Mi Акаўнт</string>
@@ -812,7 +815,10 @@
     <string name="path_wipe_data">Сістэмныя праграмы/Кантакты/Дадаткова/Ачысціць дадзеныя</string>
     <string name="payphone">Таксафон</string>
     <string name="people">Кантакты</string>
+    <string name="percent_sign">%</string>
+    <string name="percentage">%s%%</string>
     <string name="phoneLabelsGroup">Тэлефон</string>
+    <string name="phone_info_divider">" ｜ "</string>
     <string name="phone_number_too_long_toast">Нумар занадта доўгі</string>
     <string name="phone_primary">Асноўны</string>
     <string name="photoPickerNotFoundText">Няма выяў.</string>
@@ -928,7 +934,7 @@
     <string name="quickcontact_missing_app">Няма праграмы для выканання гэтай дзеі</string>
     <string name="quit_dialog_confirm_message">"Выйсці з рэжыму аб'яднання"</string>
     <string name="quit_dialog_confirm_title">"Скасаваць аб'яднанне кантактаў"</string>
-    <string name="rcs_app_name">Mini app</string>
+    <string name="rcs_app_name">Міні-праграма</string>
     <string name="readOnlyContactDeleteConfirmation">Гэты кантакт утрымлівае інфармацыю з розных акаўнтаў. Інфармацыя з акаўнтаў, даступная толькі для чытання, будзе схавана ў вашых спісах кантактаў, але не будзе выдалена.</string>
     <string name="readOnlyContactWarning">Немагчыма выдаліць кантакты з акаўнта, даступнага толькі для чытання, аднак іх можна схаваць у спісах кантактаў.</string>
     <string name="readingSimContacts">Чытанне кантактаў з SIM-карты…</string>
@@ -1007,8 +1013,6 @@
     <string name="search_wipe_data">Дадаткова;Кантакты</string>
     <string name="searching_vcard_message">Пошук дадзеных vCard з прылады…</string>
     <string name="select_all">Выбраць усё</string>
-    <string name="select_all_exceed">Выберыце не больш за %1$d, нельга выбраць усе</string>
-    <string name="select_exceed">Выберыце не больш за %1$d</string>
     <string name="select_groups">Выбраць групы</string>
     <string name="select_none">"Аб'екты не выбраны"</string>
     <string name="select_show_contacts">Адлюстраванне</string>
@@ -1061,6 +1065,7 @@
     <string name="sim_unloaded">SIM-карта не ўсталявана</string>
     <string name="sina_weibo">Sina Weibo</string>
     <string name="single_group_list_empty">Няма кантактаў у групе</string>
+    <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
     <string name="smart_group_company_label">Па кампаніям</string>
     <string name="smart_group_company_unavailable">Няма кампаніі</string>
     <string name="smart_group_frequency_1">Напрацягу месяца</string>
@@ -1195,6 +1200,7 @@
     <string name="voip_audio_description">Выклік VoIP</string>
     <string name="voip_video_description">Відэавыклік VoIP</string>
     <string name="websiteLabelsGroup">Сайт</string>
+    <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
     <string name="wipe_data">Ачысціць дадзеныя</string>
     <string name="yellowPageNavigationIconLabel">Даведнік</string>
     <string name="yellowPageNavigationLabel">Даведнік</string>
@@ -1221,4 +1227,5 @@
     <string name="yellowpage_search_the_yellowpage">Пошук у даведніку</string>
     <string name="yellowpage_user_profile">Профіль</string>
     <string name="zero_items_selected">Выберыце кантакт</string>
+    <string name="button_my_center">Профіль</string>
 </resources>

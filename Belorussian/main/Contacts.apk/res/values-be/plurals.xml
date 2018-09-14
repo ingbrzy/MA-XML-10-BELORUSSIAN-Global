@@ -78,6 +78,12 @@
         <item quantity="few">На SIM-карце можна захваць %1$d кантакты.</item>
         <item quantity="many">На SIM-карце можна захваць %1$d кантактаў.</item>
     </plurals>
+    <plurals name="foundTooManyContacts_plurals">
+        <item quantity="other">Знойдзена больш за %d кантактаў.</item>
+        <item quantity="one">Знойдзена больш за %d кантакт.</item>
+        <item quantity="few">Знойдзена больш за %d кантакта.</item>
+        <item quantity="many">Знойдзена больш за %d кантактаў.</item>
+    </plurals>
     <plurals name="group_add_success_toast">
         <item quantity="other">Дададзена %1$d кантакта</item>
         <item quantity="one">Дададзены %1$d кантакт</item>
@@ -120,6 +126,12 @@
         <item quantity="few">%1$d нумары</item>
         <item quantity="many">%1$d нумароў</item>
     </plurals>
+    <plurals name="label_duplicate_count_plurals">
+        <item quantity="other">(%1$d)</item>
+        <item quantity="one">(%1$d)</item>
+        <item quantity="few">(%1$d)</item>
+        <item quantity="many">(%1$d)</item>
+    </plurals>
     <plurals name="listFoundAllContacts">
         <item quantity="other">Знойдзена: %d</item>
         <item quantity="one">Знойдзена: 1</item>
@@ -137,6 +149,12 @@
         <item quantity="one">Кантактаў з нумарамі тэлефонаў: 1</item>
         <item quantity="few">Кантактаў з нумарамі тэлефонаў: %d</item>
         <item quantity="many">Кантактаў з нумарамі тэлефонаў: %d</item>
+    </plurals>
+    <plurals name="merge_contact_message_plurals">
+        <item quantity="other">%1$d кантактаў з аднолькавымі дадзенымі</item>
+        <item quantity="one">%1$d кантакт з аднолькавымі дадзенымі</item>
+        <item quantity="few">%1$d кантакту з аднолькавымі дадзенымі</item>
+        <item quantity="many">%1$d кантактаў з аднолькавымі дадзенымі</item>
     </plurals>
     <plurals name="merge_info">
         <item quantity="other">"аб/'яднаны з %0$d крыніцы"</item>
@@ -209,6 +227,18 @@
         <item quantity="one">Знойдзена: 1</item>
         <item quantity="few">Знойдзена: %d</item>
         <item quantity="many">Знойдзена: %d</item>
+    </plurals>
+    <plurals name="select_all_exceed_plurals">
+        <item quantity="other">Выберыце не больш за %1$d, нельга выбраць усе</item>
+        <item quantity="one">Выберыце не больш за %1$d, нельга выбраць усе</item>
+        <item quantity="few">Выберыце не больш за %1$d, нельга выбраць усе</item>
+        <item quantity="many">Выберыце не больш за %1$d, нельга выбраць усе</item>
+    </plurals>
+    <plurals name="select_exceed_plurals">
+        <item quantity="other">Выберыце не больш за %1$d</item>
+        <item quantity="one">Выберыце не больш за %1$d</item>
+        <item quantity="few">Выберыце не больш за %1$d</item>
+        <item quantity="many">Выберыце не больш за %1$d</item>
     </plurals>
     <plurals name="smart_group_member_count">
         <item quantity="other">%1$d кантакта</item>

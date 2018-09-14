@@ -300,6 +300,7 @@
     <string name="user_avatar_uploading">Хвілінку…</string>
     <string name="user_avatar_update_title">Змяніць фота профілю</string>
     <string name="photoPickerNotFoundText">Няма даступных фотаздымкаў.</string>
+    <string name="account_invalid_user_avatar">Фота недапушчальнае. Паспрабуйце іншае.</string>
     <string name="account_none_binded_info">Няма</string>
     <string name="account_bind_secure_phone_title">Дадайце нумар тэлефона</string>
     <string name="account_bind_secure_email_title">Дадайце адрас электроннай пошты</string>

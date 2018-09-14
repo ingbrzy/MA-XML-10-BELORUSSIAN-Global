@@ -17,7 +17,7 @@
     <string name="recording">Запіс</string>
     <string name="recording_stopped">Спынена</string>
     <string name="timer_format" formatted="false">%02d:%02d</string>
-    <string name="error_sdcard_access">Памяць недаступна</string>
+    <string name="error_sdcard_access">Няма доступу да SD-карты</string>
     <string name="error_app_internal">Праверце, ці не выкарыстоўваецца функцыя запісу іншай праграмай.</string>
     <string name="error_app_internal_title">Памылка запісу гуку</string>
     <string name="error_file_access">Файл не існуе або пашкоджаны</string>
@@ -36,6 +36,7 @@
     <string name="no_file">Нічога няма</string>
     <string name="alert_message_delete_record_title">Выдаліць абраны запіс?</string>
     <string name="alert_message_delete_record">Выдаленне запісу з прылады таксама выдаліць яго і з Mi Cloud. Выдаліць?</string>
+    <string name="alert_message_delete_local_record">Выдаліць гэты запіс?</string>
     <string name="share">Падзяліцца</string>
     <string name="rename">Змяніць імя</string>
     <string name="delete">Выдаліць</string>

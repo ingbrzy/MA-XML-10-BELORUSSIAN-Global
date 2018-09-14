@@ -92,6 +92,7 @@
     <string name="hints_apk_header_left">Пакеты</string>
     <string name="hints_residual_header_left">Рэшткі файлаў</string>
     <string name="hints_memory_header_left">Памяць</string>
+    <string name="hints_header_left">%d</string>
     <string name="hints_large_file_header_left">Вялікія файлы: %d</string>
     <string name="hints_installed_apps_header_left">Усталяваныя праграмы: %d</string>
     <string name="toast_resolve_apk_error">Рашыць праблему файла apk</string>
@@ -300,6 +301,7 @@
     <string name="downloading">Спампоўка</string>
     <string name="installing">Усталёўка</string>
     <string name="start_install">Усталяваць</string>
+    <string name="empty">" "</string>
     <string name="open_browser">Адкрыць у браўзеры</string>
     <string name="title_share_link">Падзяліцца спасылкай</string>
     <string name="connecting">Злучэнне…</string>
@@ -556,14 +558,16 @@
     <string name="whatsapp_title">Ачыстка WhatsApp</string>
     <string name="whatsapp_function_title">Ачыстка WhatsApp</string>
     <string name="whatsapp_function_summery">Ачысціць укладанні ў WhatsApp</string>
-    <string name="clean_summary">Ачышчана %1$s файлаў</string>
+    <string name="clean_summary">Ачышчана %1$s</string>
     <string name="onekeyclean_boosting_title">Паскарэнне</string>
     <string name="onekeyclean_boosted_title">Ачышчана паспяхова</string>
-    <string name="onekeyclean_boost_cleaned">%s Ачышчана</string>
+    <string name="onekeyclean_boost_cleaned">Ачышчана %s</string>
     <string name="onekeyclean_boost_available">%s даступна</string>
     <string name="onekeyclean_card_summery">Ачысціце сметніцу, каб вызваліць месца</string>
     <string name="onekeyclean_card_btn">Ачысціць зараз</string>
     <string name="memory_clean_icon_text">Ачысціць памяць</string>
     <string name="pref_title_create_onekeyclean_shortcut">Дадаць ярлык на працоўны стол</string>
     <string name="memory_clean_no_trash_tip">Ачыстка не патрабуецца</string>
+    <string name="toast_updater_open_4g_text">Праграмы будуць абнаўляцца праз мабільны інтэрнет (4G)</string>
+    <string name="toast_updater_close_4g_text">Праграмы не будуць абнаўляцца праз мабільны інтэрнет (4G)</string>
 </resources>

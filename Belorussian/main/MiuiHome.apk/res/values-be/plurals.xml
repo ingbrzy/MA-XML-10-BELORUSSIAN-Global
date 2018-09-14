@@ -7,10 +7,10 @@
         <item quantity="many">Перацягванне %1$d элементаў</item>
     </plurals>
     <plurals name="announce_for_unread">
-        <item quantity="other">%2$s unread from %1$s</item>
-        <item quantity="one">%2$s unread from %1$s</item>
-        <item quantity="few">%2$s unread from %1$s</item>
-        <item quantity="many">%2$s unread from %1$s</item>
+        <item quantity="other">%2$s непрачытаных з %1$s</item>
+        <item quantity="one">%2$s непрачытаный з %1$s</item>
+        <item quantity="few">%2$s непрачытаных з %1$s</item>
+        <item quantity="many">%2$s непрачытаных з %1$s</item>
     </plurals>
     <plurals name="delete_wallpapers_message">
         <item quantity="other">Выдаліць %1$d шпалер?</item>

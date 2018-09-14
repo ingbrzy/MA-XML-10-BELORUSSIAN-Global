@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="status_bar_notification_info_overflow">больш за 999</string>
     <string name="action_add_to_workspace">Дадаць да працоўнай прасторы</string>
     <string name="activity_not_found">Праграма не знойдзеная</string>
     <string name="add_screen">Дадаць экран</string>
-    <string name="announce_for_checked">%1$s, checked</string>
+    <string name="announce_for_checked">%1$s, праверана</string>
     <string name="announce_for_choose_default_screen">Усталяваць экран %1$d як пачатковы</string>
     <string name="announce_for_close_default_preview">Налады выбару пачатковага экрана зачыненыя</string>
     <string name="announce_for_close_folder">Папка закрыта</string>
@@ -23,13 +24,13 @@
     <string name="announce_for_drop_workspace">Экран нумар %1$d, радок нумар %2$d, слупок нумар %3$d</string>
     <string name="announce_for_edit_mode">Выкананы ўваход у рэжым рэдагавання</string>
     <string name="announce_for_edit_mode_disable">Вы выйшлі з рэжыму рэдагавання</string>
-    <string name="announce_for_move">Move to row %1$d column %2$d</string>
-    <string name="announce_for_move_hotseat">Move to dock position %1$d</string>
+    <string name="announce_for_move">Перамясціць у радок %1$d слупок %2$d</string>
+    <string name="announce_for_move_hotseat">Перамясціць у док-пазіцыю %1$d</string>
     <string name="announce_for_open_default_preview">Адчынены налады выбару пачатковага экрана</string>
     <string name="announce_for_open_folder">Адкрыта папка %1$s</string>
     <string name="announce_for_open_launcher_menu">Меню адчынена</string>
     <string name="announce_for_show_uninstall_dialog">Паявіўся дыялог выдалення. Скасуйце або пагадзіцеся.</string>
-    <string name="announce_for_unchecked">%1$s, unchecked</string>
+    <string name="announce_for_unchecked">%1$s, не праверана</string>
     <string name="app_already_exist">Праграма ўжо існуе</string>
     <string name="app_being_backup_message">Ствараецца рэзервовая копія праграмы</string>
     <string name="app_being_restored_message">Праграма аднаўляецца</string>
@@ -62,7 +63,7 @@
     <string name="aqi_quality_index_light_pollution">Увага</string>
     <string name="aqi_quality_index_moderate">Умерана</string>
     <string name="aqi_quality_index_unhealthy">Нездарова</string>
-    <string name="backup_fail">"Couldn't backup launcher"</string>
+    <string name="backup_fail">Збой рэзервовага капіявання лаунчера</string>
     <string name="bad_wallpaper_source_prompt">Не атрымалася загрузіць шпалеры</string>
     <string name="buffering">Буферызацыя…</string>
     <string name="cancel_action">Скасаваць</string>
@@ -92,7 +93,7 @@
     <string name="default_folder_title_microsoft">Microsoft</string>
     <string name="default_folder_title_recommend">Іншыя праграмы</string>
     <string name="default_folder_title_security">Сістэма</string>
-    <string name="default_folder_title_services">Services</string>
+    <string name="default_folder_title_services">Сэрвісы</string>
     <string name="default_folder_title_telcel">Telcel</string>
     <string name="default_folder_title_tools">Прылады</string>
     <string name="default_screen_preview_title">Націсніце для выбару экрана</string>
@@ -181,7 +182,7 @@
     <string name="guide_install_app_title">Знайсці і ўсталяваць праграму?</string>
     <string name="guide_tips_editing_mode">Press &amp; hold to pick up a widget</string>
     <string name="home_screen">Галоўны экран</string>
-    <string name="icon_reorganize_channel">Arrange icons</string>
+    <string name="icon_reorganize_channel">Спарадкаваць значкі</string>
     <string name="image_too_small_message">Зыходная выява недастаткова вялікая.</string>
     <string name="install">Усталяваць</string>
     <string name="invalid_contact_shortcut">Некарэктны кантакт</string>
@@ -231,14 +232,14 @@
     <string name="normal_wallpaper">Шпалеры</string>
     <string name="notification_installed">Паспяхова ўсталявана</string>
     <string name="notification_open_button">Адкрыць</string>
-    <string name="notification_reset_title">Arranged icons successfully</string>
+    <string name="notification_reset_title">Значкі паспяхова ўпарадкаваны</string>
     <string name="online_wallpaper">Анлайн</string>
     <string name="open_personal_assistant_dialog_btn_cancel">Скасаваць</string>
     <string name="open_personal_assistant_dialog_btn_confirm">Адключыць</string>
     <string name="open_personal_assistant_dialog_desc">Вы не зможаце выкарыстоўваць стужку віджэтаў і атрымліваць яе абнаўленні. Адключыць зараз?</string>
-    <string name="open_personal_assistant_dialog_desc_international">"You won't be able to use App vault cards (Stocks, Shortcuts, etc.) and receive updates after you turn this feature off."</string>
+    <string name="open_personal_assistant_dialog_desc_international">Пасля адключэння гэтай функцыі вы не зможаце выкарыстоўваць карткі Стужкі віджэтаў (Акцыі, Цэтлікі і г. д.) і атрымліваць абнаўлення.</string>
     <string name="open_personal_assistant_dialog_title">Адключыць стужку віджэтаў</string>
-    <string name="open_personal_assistant_title">App vault</string>
+    <string name="open_personal_assistant_title">Стужка віджэтаў</string>
     <string name="out_of_space">На гэтым экране няма вольнага месца</string>
     <string name="permdesc_install_shortcut">Дазваляе праграме дадаваць ярлыкі без удзелу карыстальніка.</string>
     <string name="permdesc_install_widget">Дазваляе праграме дадаваць віджэты без удзелу карыстальніка.</string>
@@ -269,7 +270,7 @@
     <string name="preferences_general_title">Дадатковыя налады</string>
     <string name="preferences_title">Налады рабочага стала</string>
     <string name="preferred_app_settings_not_selected">Не выбрана</string>
-    <string name="quick_app">Quick apps</string>
+    <string name="quick_app">Быстрыя праграмы</string>
     <string name="recents_config_title">Апошнія</string>
     <string name="recommend_apk_size_and_desc">%1$dMB | %2$s</string>
     <string name="recommend_apps_default_title">Пуста</string>
@@ -279,12 +280,12 @@
     <string name="recommend_apps_switch_title">Рэкамендаваныя праграмы</string>
     <string name="recommend_apps_tips">Для гэтай функцыі неабходна злучэнне з інтэрнэтам. Каб адключыць гэту функцыю, націсніце на назву папкі.</string>
     <string name="recommend_loading">Загрузка</string>
-    <string name="refresh">Refresh</string>
-    <string name="reset_description_first_time">You can restore the layout from %1$s within 2 hours</string>
-    <string name="reset_description_others">You can restore the layout from %1$s</string>
-    <string name="reset_fail">"Couldn't restore"</string>
+    <string name="refresh">Абнавіць</string>
+    <string name="reset_description_first_time">Вы можаце аднавіць макет з %1$s на працягу 2 гадзін</string>
+    <string name="reset_description_others">Вы можаце аднавіць макет з %1$s</string>
+    <string name="reset_fail">Не атрымалася аднавіць</string>
     <string name="reset_scene_prompt">Размяшчэнне значкоў на галоўным экране будзе зменена на стандартнае.</string>
-    <string name="reset_title">Restore</string>
+    <string name="reset_title">Аднавіць</string>
     <string name="screen_cells_config_title">Выгляд працоўнага стала</string>
     <string name="screen_locked_toast">Стан галоўнага экрана заблакаваны.</string>
     <string name="screen_number">%d экран</string>

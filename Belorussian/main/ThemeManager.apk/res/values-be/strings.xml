@@ -36,9 +36,7 @@
     <string name="exo_download_notification_channel_name">Спампоўкі</string>
     <string name="exo_download_removing">Выдаленне спамповак</string>
     <string name="exo_item_list">%1$s, %2$s</string>
-    <string name="exo_track_bitrate">%1$.2f Мбіт/с</string>
     <string name="exo_track_mono">Мона</string>
-    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">Аўтаматычна</string>
     <string name="exo_track_selection_none">Няма</string>
     <string name="exo_track_selection_title_audio">Аўдыя</string>
@@ -55,7 +53,6 @@
     <string name="s4">Адхіліць</string>
     <string name="s5">Стварыць падзею календара</string>
     <string name="s6">Дазволіць рэкламе стварыць падзею календара?</string>
-    <string name="status_bar_notification_info_overflow">больш за 999</string>
     <string name="accessibiliy_description_content_account">Профіль</string>
     <string name="accessibiliy_description_content_ad">Рэклама</string>
     <string name="accessibiliy_description_content_add_resource">Дадаць элементы</string>
@@ -177,7 +174,6 @@
     <string name="incompatible_dialog_ok">Зразумела</string>
     <string name="incompatible_dialog_title">Праблемы сумяшчальнасці</string>
     <string name="is_setting_wallpaper_message">Усталёўка шпалер…</string>
-    <string name="item_resource_audio_divider">│</string>
     <string name="item_resource_audio_optional_alarm_ring">Будзільнікі</string>
     <string name="item_resource_audio_optional_color_ring">Мелодыя выкліку</string>
     <string name="item_resource_audio_optional_notification_ring">Апавяшчэнні</string>
@@ -399,7 +395,6 @@
     <string name="resource_pack_price_info">Арыгінальны кошт: %1$s</string>
     <string name="resource_pack_warning">Вы ўжо купілі %1$d кампанентаў гэтай тэмы. Будзе танней дакупіць астатнія кампаненты асобна.</string>
     <string name="resource_present">Падарунак</string>
-    <string name="resource_price_format">(%1$s)</string>
     <string name="resource_price_free">Бясплатна</string>
     <string name="resource_price_unit"> Mi Credits</string>
     <string name="resource_purchase_common_error">Здарылася памылка, паспрабуйце зноў</string>
@@ -411,10 +406,6 @@
     <string name="resource_ranking">Папулярныя</string>
     <string name="resource_ranking_free">Бясплатныя</string>
     <string name="resource_ranking_purchase">Платныя</string>
-    <string name="resource_ring_ranking_list_divider">-</string>
-    <string name="resource_ring_ranking_list_rank_1">1</string>
-    <string name="resource_ring_ranking_list_rank_2">2</string>
-    <string name="resource_ring_ranking_list_rank_3">3</string>
     <string name="resource_ringtone_default">Мелодыі</string>
     <string name="resource_ringtone_playing_error">Памылка</string>
     <string name="resource_ringtone_volume_mute">Гук адключаны</string>
@@ -546,7 +537,6 @@
     <string name="theme_is_external_priority_storage">Захаваць на SD-карту</string>
     <string name="theme_is_external_priority_storage_summary">Праграма Тэмы перазапусціцца для ўжывання змяненняў.</string>
     <string name="theme_multiple_button_title_customize">Персаналізуй</string>
-    <string name="theme_name">%1$s</string>
     <string name="theme_no">Не</string>
     <string name="theme_purchased_list_empty">Няма купленых тэм.</string>
     <string name="theme_purchased_non_local">Анлайн</string>

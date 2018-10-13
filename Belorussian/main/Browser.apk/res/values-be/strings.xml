@@ -25,7 +25,6 @@
     <string name="s5">Стварыць падзею календара</string>
     <string name="s6">Дазволіць рэкламе стварыць падзею календара?</string>
     <string name="s7">Тэставая рэклама</string>
-    <string name="status_bar_notification_info_overflow">больш за 999</string>
     <string name="abc_action_bar_home_description">Перайсці на галоўную</string>
     <string name="abc_action_bar_up_description">Наверх</string>
     <string name="abc_action_menu_overflow_description">Больш</string>
@@ -732,8 +731,6 @@
     <string name="mw_snippets_disabled_generic_prompt">Атрымлівайце персанальны кантэнт</string>
     <string name="mw_snippets_disabled_signed_out_instructions">Для атрымання персанальнага кантэнту, рэкамендаванага Google, ўвайдзіце ў Chrome.</string>
     <string name="mw_time_picker_dialog_am">Да паўдня</string>
-    <string name="mw_time_picker_dialog_hour_minute_separator">:</string>
-    <string name="mw_time_picker_dialog_minute_second_separator">:</string>
     <string name="mw_time_picker_dialog_pm">Пасля паўдня</string>
     <string name="mw_time_picker_dialog_second_subsecond_separator">.</string>
     <string name="mw_time_picker_dialog_title">Усталяваць час</string>

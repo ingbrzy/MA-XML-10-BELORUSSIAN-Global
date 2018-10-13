@@ -36,7 +36,7 @@
     <string name="no_file">Нічога няма</string>
     <string name="alert_message_delete_record_title">Выдаліць абраны запіс?</string>
     <string name="alert_message_delete_record">Выдаленне запісу з прылады таксама выдаліць яго і з Mi Cloud. Выдаліць?</string>
-    <string name="alert_message_delete_local_record">Выдаліць гэты запіс?</string>
+    <string name="alert_message_delete_local_record">Delete this recording?</string>
     <string name="share">Падзяліцца</string>
     <string name="rename">Змяніць імя</string>
     <string name="delete">Выдаліць</string>
@@ -146,13 +146,13 @@
     <string name="alert_message_clear_records">Выдаліць выбраныя запісы?</string>
     <string name="clear_records">Выдаленне сінхранізаваных запісаў</string>
     <string name="network_tip_dialog_title">Неабходна падлучэнне да інтэрнэту</string>
-    <string name="network_tip_dialog_content">Для звычайнай працы дыктафон патрабуецца падлучэнне да інтэрнэту і доступ да кантактаў. Дазволіць?</string>
+    <string name="network_tip_dialog_content">Для нармальнай працы Дыктафону патрабуецца падлучэнне да Інтэрнэту. Вы згодны?</string>
     <string name="network_tip_dialog_ok">Дазволіць</string>
-    <string name="network_tip_dialog_cancel">Скасаваць</string>
+    <string name="network_tip_dialog_cancel">Не згодны</string>
     <string name="head_set_tip_dialog_title">Выкарыстоўвайце ўбудаваны мікрафон</string>
     <string name="head_set_tip_dialog_msg">Адключыце гарнітуру для магчымасці запісу гуку з зададзенымі ўсталёўкамі (напрыклад, Музыка або Голас).</string>
     <string name="head_set_tip_dialog_ok">Зразумела</string>
-    <string name="rename_fail_tip">Не атрымалася перайменаваць. Файл з такім імем ужо існуе.</string>
+    <string name="rename_fail_tip">"Couldn't rename. Item with this name already exists."</string>
     <string name="dialog_privacy_revoke_tips">Пасля таго, як вы адклічаце аўтарызацыю, праграма спыніць збор дадзеных, а таксама ўсе звязаныя з імі дадзеныя будуць выдалены з сервераў. Гэта можа зрабіць праграму практычна непрыдатнай для выкарыстання. Усё роўна адклікаць аўтарызацыю? Для таго, каб гарантаваць бяспеку вашага акаўнта, ўвайдзіце ў i.mi.com, перш чым ануляваць аўтарызацыю на паслугі Mi Cloud.</string>
     <string name="privacy_policy_title">Палітыка канфідэнцыяльнасці</string>
 </resources>

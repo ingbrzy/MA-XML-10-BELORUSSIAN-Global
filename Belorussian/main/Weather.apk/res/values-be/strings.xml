@@ -64,7 +64,7 @@
     <string name="button_sure_abandon">Скасаваць змены?</string>
     <string name="card_vote_item_vs">VS</string>
     <string name="change_alert">Праверце злучэнне і паўтарыце спробу</string>
-    <string name="china_version_first_start_network_msg">"Карыстаючыся гэтым прадуктам, вы згаджаецеся з %1$s і %2$s. Каб дапамагчы вам атрымаць больш дакладную інфармацыю аб надвор'і, прыкладанне атрымае дадзеныя вашага месцазнаходжання і апрацуе іх, і яму таксама неабходна падлучыцца да сеткі. Вы згодны?"</string>
+    <string name="china_version_first_start_network_msg">"Для выкарыстання Надвор'я вы павінны прыняць %1$s і %2$s Xiaomi. Для нармальнай работы Надвор'я патрабуецца падлучэнне да інтэрнэту і доступ да месцазнаходжання. Згодны?"</string>
     <string name="city_exceeded_warning">Вы можаце дадаць да дзесяці гарадоў</string>
     <string name="common_loading_text">Хвілінку…</string>
     <string name="connect_fail">Не атрымалася злучыцца з сеткай, паспрабуйце яшчэ раз</string>
@@ -72,8 +72,9 @@
     <string name="content_desc_activity_main_add_city_manage">Наладзіць гарады</string>
     <string name="content_desc_activity_main_more_settings">Больш наладаў</string>
     <string name="content_desc_back_button">Назад</string>
+    <string name="content_desc_city_manage_del">Выдаліць</string>
+    <string name="content_desc_city_manage_edit">Наладзіць гарады</string>
     <string name="content_desc_close_button">Зачыніць</string>
-    <string name="content_desc_edit_city_manage">Кіраванне гарадамі</string>
     <string name="daily_forcast_no_stable_direction">Легкі вецер</string>
     <string name="daily_forcast_no_wind">0</string>
     <string name="daily_forcast_weather_transfer">%1$s. Пазней %2$s.</string>
@@ -83,9 +84,11 @@
     <string name="daily_forecast_add_city_message">"Падпішыцеся на надвор'е ў %1$s для падрабязнага прагнозу."</string>
     <string name="daily_forecast_add_city_title">"Падпішыцеся на надвор'е ў %1$s"</string>
     <string name="daily_forecast_detail_date">dd.MM</string>
+    <string name="daily_forecast_detail_date_format">%1$s - %2$s</string>
     <string name="daily_forecast_no_data">Дадзеныя не атрыманы. Пацягніце ўніз для абнаўлення ці праверце налады сеткі</string>
     <string name="data_provided_by">Дадзеныя прадастаўленыя</string>
     <string name="edit_city">Змяніць горад</string>
+    <string name="empty">" "</string>
     <string name="eu_region_version_first_start_network_msg">Выкарыстоўваючы гэты прадукт, вы згаджаецеся, што ён падключыцца да сеткі і будзе збіраць, апрацоўваць і выкарыстоўваць вашу асабістую інфармацыю, уключаючы каардынаты гарадоў, каторыя вы будзеце шукаць, і іншыя тыпы дадзеных, указаных у нашай Палітыцы канфідэнцыяльнасці. Звярніцеся да нашай Палітыкі канфідэнцыяльнасці, каб даведацца, як мы збіраем і апрацоўваем інфармацыю. Націснуўшы \"Пагадзіцца\", вы прымаеце %1$s і %2$s Xiaomi.</string>
     <string name="feedback_heavy_rain">Моцны дождж</string>
     <string name="feedback_heavy_snow">Снег</string>
@@ -98,6 +101,8 @@
     <string name="first_start_network_title">Падключэнне да інтэрнэту і доступ да месцазнаходжання</string>
     <string name="global_aqi">AQI: %1$s %2$s</string>
     <string name="hourly_forcast_now">Зараз</string>
+    <string name="hourly_forecast_bottom_aqi_chinese">%1$s %2$s</string>
+    <string name="hourly_forecast_bottom_aqi_else">%1$s</string>
     <string name="hourly_forecast_date">dd.MM</string>
     <string name="hourly_forecast_title_24_hours_desc">Прагноз на 24 гадзіны</string>
     <string name="hourly_forecast_title_hourly_desc">Прагноз па гадзінах</string>
@@ -111,10 +116,12 @@
     <string name="indices_title_feel">Адчуваецца</string>
     <string name="indices_title_pressure">Ціск</string>
     <string name="install">Усталяваць</string>
+    <string name="install_progress">%1$s%%</string>
     <string name="international_details_pressure_title">ЦІСК</string>
     <string name="international_details_real_feel_title">REAL FEEL®</string>
     <string name="international_details_title">Падрабязнасці</string>
     <string name="international_details_uv_index_title">ІНДЭКС УФ</string>
+    <string name="international_details_wind_connect">%1$s %2$s</string>
     <string name="international_details_wind_title">ВЕЦЕР</string>
     <string name="it_is_going_to_rain">Збіраецца на дождж</string>
     <string name="locate_fail_detail_err">"Немагчыма вызначыць месцазнаходжанне
@@ -187,6 +194,7 @@
     <string name="share_menu_title">Падзяліцца</string>
     <string name="share_subject">Падзяліцца</string>
     <string name="share_weather_desc">"\#Надвор'е MIUI#Сёння %1$s %2$s"</string>
+    <string name="share_weather_desc_alert">%1$s%2$s</string>
     <string name="share_weather_desc_split">,</string>
     <string name="share_weather_save_pic_fail">Немагчыма зрабіць здымак экрана</string>
     <string name="some_where_on_earth">Дзесьці на Зямлі</string>
@@ -222,7 +230,7 @@
     <string name="update_setting_title_text">"Абнавіць звесткі пра надвор'е"</string>
     <string name="updated_a_moment_ago">Абноўлена хвіліну таму</string>
     <string name="updating">Абнаўленне…</string>
-    <string name="user_agreement">Умовы карыстання</string>
+    <string name="user_agreement">Карыстальніцкае пагадненне</string>
     <string name="video_dialog_no_play" />
     <string name="video_dialog_play" />
     <string name="video_dialog_subtitle" />

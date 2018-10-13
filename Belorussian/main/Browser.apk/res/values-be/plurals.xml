@@ -13,10 +13,10 @@
         <item quantity="many">"%d аб'ектаў заблакаваныя"</item>
     </plurals>
     <plurals name="articles_updated_amount">
-        <item quantity="other">Check out %1$d new articles</item>
-        <item quantity="one">Check out %1$d new article</item>
-        <item quantity="few">Check out %1$d new articles</item>
-        <item quantity="many">Check out %1$d new articles</item>
+        <item quantity="other">Паглядзіце %1$d новых артыкулаў</item>
+        <item quantity="one">Паглядзіце %1$d новы артыкул</item>
+        <item quantity="few">Паглядзіце %1$d новых артыкула</item>
+        <item quantity="many">Паглядзіце %1$d новых артыкулаў</item>
     </plurals>
     <plurals name="dialog_confirm_delete_downloads_message">
         <item quantity="other">Выдаліць задачы (%d)?</item>
@@ -31,14 +31,14 @@
         <item quantity="many">%d супадзенняў</item>
     </plurals>
     <plurals name="mw_last_num_days">
-        <item quantity="other">Last %d days</item>
-        <item quantity="one">Last %d days</item>
-        <item quantity="few">Last %d days</item>
-        <item quantity="many">Last %d days</item>
+        <item quantity="other">Папярэднія %d дзен</item>
+        <item quantity="one">Папярэдні %d дзень</item>
+        <item quantity="few">Папярэднія %d дня</item>
+        <item quantity="many">Папярэднія %d дзен</item>
     </plurals>
     <plurals name="mw_matches_found">
         <item quantity="other">%1$d of %2$d</item>
-        <item quantity="one">1 match</item>
+        <item quantity="one">1 супадзенне</item>
         <item quantity="few">%1$d of %2$d</item>
         <item quantity="many">%1$d of %2$d</item>
     </plurals>
@@ -121,16 +121,22 @@
         <item quantity="many">Засталося %d хвілін</item>
     </plurals>
     <plurals name="videos_updated_amount">
-        <item quantity="other">Check out %1$d new videos</item>
-        <item quantity="one">Check out %1$d new video</item>
-        <item quantity="few">Check out %1$d new videos</item>
-        <item quantity="many">Check out %1$d new videos</item>
+        <item quantity="other">Паглядзіце %1$d новых відэа</item>
+        <item quantity="one">Паглядзіце %1$d новае відэа</item>
+        <item quantity="few">Паглядзіце %1$d новых відэа</item>
+        <item quantity="many">Паглядзіце %1$d новых відэа</item>
     </plurals>
     <plurals name="view_realtime_clear">
         <item quantity="other">Ясна</item>
         <item quantity="one">Ясна</item>
         <item quantity="few">Ясна</item>
         <item quantity="many">Ясна</item>
+    </plurals>
+    <plurals name="vote_all_people">
+        <item quantity="other">Усяго %d галасоў</item>
+        <item quantity="one">Усяго %d голас</item>
+        <item quantity="few">Усяго %d галасы</item>
+        <item quantity="many">Усяго %d галасоў</item>
     </plurals>
     <plurals name="last_num_days">
         <item quantity="other">За папярэднія %d дня</item>

@@ -30,12 +30,12 @@
     <string name="cloud_back_up_share_activity_title">Палепшыць Mi Акаўнт</string>
     <string name="cloud_back_up_share_activity_discription">Павелічэнне памераў воблачнага сховішча, штодзённыя рэзервовыя копіі і іншыя магчымасці.</string>
     <string name="cloud_back_up_share_activity_confirm">Паляпшэнне</string>
-    <string name="cloud_back_up_detail_discription">"Калі прылада далучыцца да Wi-Fi, у Mi Cloud будуць створаныя рэзервовыя копіі для наступных элементаў: 
-*\u0009\u0009\u0009\u0009Праграмы, шпалеры, раскладка працоўнага стала 
-*\u0009\u0009\u0009\u0009Будзільнік, гадзіннік і налады часу 
-*\u0009\u0009\u0009\u0009Налады апавяшчэнняў 
-*\u0009\u0009\u0009\u0009MIUI і сістэмныя налады 
-\"Увага: Дадзеныя ўсталяваных праграм не будуць захаваныя ў Mi Cloud.\""</string>
+    <string name="cloud_back_up_detail_discription">"Пры падключэнні прылады да Wi-Fi у Mi Cloud будуць створаны рэзервовыя копіі наступных аб'ектаў: 
+*  Праграмы, знешні выгляд Галоўнага экрана і шпалеры; 
+*  Будзільнік, гадзіннік і налады часу 
+*  Настройки апавяшчэнняў 
+*  Настройки MIUI і сістэмы 
+\"Нататка: дадзеныя устаноўленых праграм не будуць захаваны ў Mi Cloud\"."</string>
     <string name="cloud_app_no_data">Няма рэзервовых копій</string>
     <string name="cloud_app_restore_error">Не атрымалася аднавіць</string>
     <string name="cloud_app_restore_success">Праграмы адноўлены</string>
@@ -45,10 +45,13 @@
     <string name="button_delete">Выдаліць</string>
     <string name="customization"><u>Наладзіць</u></string>
     <string name="home_hint_global_launcher">Працоўны стол Poco</string>
-    <string name="self_phone">Гэтая прылада</string>
-    <string name="self_phone_home">Гэтая прылада: %s</string>
+    <string name="home_hint_other_launcher">Іншы галоўны экран</string>
+    <string name="self_device">"Гэты тэлефон "</string>
+    <string name="main_space">Першая прастора</string>
+    <string name="second_space">Другое сховішча</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s%3$s: %4$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s%3$s)</string>
     <string name="process_whole_recovery">Аднаўленне \"%s\"</string>
-    <string name="device_xiaomi">Mi Тэлефон</string>
     <string name="size_unknown">Невядомы памер</string>
     <string name="recovering">Аднаўленне \"%s\"</string>
     <string name="start_recover">Аднавіць %s</string>
@@ -76,7 +79,6 @@
     <string name="open_wifi">Уключыць Wi-Fi</string>
     <string name="open_wifi_description">Падлучыцеся да Wi-Fi для аднаўлення</string>
     <string name="open_wifi_setting">Налады Wi-Fi</string>
-    <string name="name_model">Прылада: %2$s (%1$s)</string>
     <string name="download_settings">Спампоўка параметраў працоўнага стала %s%%</string>
     <string name="cloud_back_up_date_format">HH:mm dd/MM/yyyy</string>
     <string name="recover_home_settings">Аднаўленне налад працоўнага стала</string>
@@ -129,12 +131,18 @@
     <string name="restore_data_title">Аднаўленне дадзеных</string>
     <string name="provision_error_connect_msg">Праверце сетку і паспрабуйце яшчэ раз. Рэзервовая копія недаступная, калі ваша прылада адлучаная ад сеткі.</string>
     <string name="provision_error_connect_title">Немагчыма падлучыцца</string>
+    <string name="loading_user_backup">Загрузка рэзервовых копій…</string>
+    <string name="loading_progress_num">(%s%%)</string>
+    <string name="error_num_placeholder">--</string>
     <string name="authentication_failed">Не атрымалася праверыць акаўнт.</string>
     <string name="no_account">Не выкананы ўваход у Mi Акаўнт.</string>
     <string name="no_backup">Няма рэзервовых копій у Mi Cloud.</string>
     <string name="download_meta_failed">Не атрымалася загрузіць дадзеныя.</string>
     <string name="home_restore_error">Не атрымалася аднавіць працоўны стол</string>
     <string name="get_device_id_error">Немагчыма атрымаць ID прылады</string>
+    <string name="unsupported_home">Абнавіце АС да апошняй версіі.</string>
+    <string name="error_retry_later">Памылка, паспрабуйце яшчэ раз пазней.</string>
+    <string name="try_continue">Націсніце, каб працягнуць</string>
     <string name="download_home_data">Спампоўка дадзеных працоўнага стала…</string>
     <string name="restore_home_failed">Не атрымалася аднавіць працоўны стол.</string>
     <string name="arrange_restore_order">Упарадкаванне праграм…</string>
@@ -145,6 +153,7 @@
     <string name="download_meta_again">Не атрымалася спампаваць, паўтарыце спробу.</string>
     <string name="cancel_restore_home">Скасаванне…</string>
     <string name="cancel_backup">Скасаванне капіявання…</string>
+    <string name="load_backup_failed">Не атрымалася загрузіць рэзервовыя копіі</string>
     <string name="dialog_title_require_wlan">Злучыцца з Wi-Fi</string>
     <string name="dialog_msg_restore_require_wlan">Каб аднавіць з рэзервовай копіі, патрабуецца злучэнне з Wi-Fi.</string>
     <string name="dialog_btn_next">Далей</string>

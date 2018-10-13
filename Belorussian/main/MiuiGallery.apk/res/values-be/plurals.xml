@@ -390,4 +390,10 @@
         <item quantity="few">"%d аб'екты"</item>
         <item quantity="many">"%d аб'ектаў"</item>
     </plurals>
+    <plurals name="creation_max_image">
+        <item quantity="other">Выберыце да %d да фота</item>
+        <item quantity="one">Выберыце да %d да фота</item>
+        <item quantity="few">Выберыце да %d да фота</item>
+        <item quantity="many">Выберыце да %d да фота</item>
+    </plurals>
 </resources>

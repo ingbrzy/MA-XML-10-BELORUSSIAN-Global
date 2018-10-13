@@ -8,7 +8,6 @@
     <string name="close_panel">Адключыць асістэнт дотыку</string>
     <string name="customize_entries">Выбраць ярлыкі</string>
     <string name="enable_touch_assistant">Уключыць асістэнт дотыку</string>
-    <string name="enabled_for_pad_hint">Не адключаць пры блакаванні наэкранных кнопак у альбомным рэжыме</string>
     <string name="function_settings">Налады ярлыкоў</string>
     <string name="handy_mode_default_to_close_whether_open">Рэжым кіравання адной рукой адключаны па змаўчанні. Уключыць?</string>
     <string name="hide_touch_assistant">Хаваць аўтаматычна</string>

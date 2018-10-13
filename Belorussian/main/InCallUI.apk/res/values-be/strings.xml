@@ -112,6 +112,7 @@
     <string name="description_image_button_dialpad">Панэль набору</string>
     <string name="description_image_button_tools">Опцыі</string>
     <string name="description_target_answer">Адказаць</string>
+    <string name="description_message_list_title">Спіс хуткіх адказаў</string>
     <string name="ok">OK</string>
     <string name="cancel">Скасаваць</string>
     <string name="wait_prompt_str">"Адправіць наступныя танальныя сігналы?
@@ -199,4 +200,5 @@
     <string name="dialpad_eight">8</string>
     <string name="dialpad_nine">9</string>
     <string name="prompt_no_volte_when_failed">Немагчыма рабіць выклікі. Пераканайцеся, што прылада злучана з сеткай 4G з падтрымкай VoLTE.</string>
+    <string name="volume_boost_text">Гучнасць паспяхова павялічана</string>
 </resources>

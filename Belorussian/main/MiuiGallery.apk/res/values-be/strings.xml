@@ -226,7 +226,7 @@
     <string name="cleaner_screen_shot_action">Ачысціць</string>
     <string name="cleaner_screen_shot_description">Выдаляйце больш непатрэбныя скрыншоты.</string>
     <string name="cleaner_screen_shot_title">Выдаліць скрыншоты</string>
-    <string name="cleaner_slim_action">Start optimization</string>
+    <string name="cleaner_slim_action">Пачаць аптымізацыю</string>
     <string name="cleaner_slim_description">Захоўвайце на сваёй прыладзе сціснутыя фота. Сыходныя файлы будуць захоўвацца ў Mi Cloud.</string>
     <string name="cleaner_slim_start">Аптымізаваць</string>
     <string name="cleaner_slim_title">Аптымізаваць фота</string>
@@ -466,6 +466,7 @@
     <string name="face_name_edit">Змяніць</string>
     <string name="face_name_input">Увядзіце імя</string>
     <string name="face_recommend">Парады</string>
+    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="fail_hint">Не атрымалася завяршыць аперацыю</string>
     <string name="fail_to_pick_email">Няправільны Email</string>
     <string name="fail_to_sync_album">Не атрымалася сінхранізаваць альбом. Праверце параметры сеткі.</string>
@@ -476,6 +477,7 @@
     <string name="feature_guidance_photo_effects">"Даступныя
 новыя эфекты"</string>
     <string name="feature_guidance_video_editor_smart_effects">Даступныя новыя эфекты</string>
+    <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="filter_bi_memory">Памяць</string>
     <string name="filter_bi_mono">Мона</string>
     <string name="filter_bi_pink">Ружовы</string>
@@ -544,6 +546,7 @@
     <string name="gif_tip">GIF</string>
     <string name="gigabyteShort">ГБ</string>
     <string name="grant_permission_go_and_set">Усталяваць</string>
+    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_text">"Для звычайнай працы Галерэі патрэбны доступ да 
 %s
 , націсніце \"Наладзіць\", каб перайсці да дазволаў."</string>
@@ -741,6 +744,7 @@
     <string name="people_mark_mode_title_no_mark_name">Выберыце чалавека</string>
     <string name="people_page_label">Людзі</string>
     <string name="people_page_unname">Без імені</string>
+    <string name="percent_sign">%</string>
     <string name="pet_album_display_name">Фота жывёл</string>
     <string name="petabyteShort">ПБ</string>
     <string name="photo">Фота</string>
@@ -998,6 +1002,9 @@
     <string name="search_title_recommend">Рэкамендацыі</string>
     <string name="search_title_suggestion">Прапановы</string>
     <string name="search_title_tag">"Аб'екты"</string>
+    <string name="search_transition_element_icon">search_icon</string>
+    <string name="search_transition_element_input">search_input</string>
+    <string name="search_transition_element_voice">search_voice</string>
     <string name="searching_cast_devices">Пошук праектара…</string>
     <string name="secret_album_card_description">Лепшае месца для вашых маленькіх сакрэтаў</string>
     <string name="secret_album_card_title">Паспрабуйце схаваныя альбомы</string>
@@ -1274,6 +1281,7 @@
     <string name="view_face_album">Праглядзець альбом</string>
     <string name="view_more_face_desc">Паказаць больш людзей</string>
     <string name="voice_assistant">Галасавы ўвод</string>
+    <string name="welcome_to_auto_backup">@string/welcome_to_micloud</string>
     <string name="welcome_to_micloud">Сардэчна запрашаем у Мі Cloud</string>
     <string name="where_is_barcode">Дзе атрымаць QR-код?</string>
     <string name="who_is_this">Хто гэта?</string>
@@ -1281,6 +1289,10 @@
     <string name="yes">Так</string>
     <string name="yesterday">Учора</string>
     <string name="you_are">Для дзіцяці вы</string>
+    <string name="collage_select_image_range">Калажы могуць змяшчаць 1-4 фота</string>
+    <string name="operation_produce">Творчасць</string>
+    <string name="photo_editor_crop_auto_tips">Cropped automatically</string>
+    <string name="photo_movie_select_image_range">Кліпы могуць змяшчаць 3-6 фота</string>
     <string name="refocus_discard_confirm_message">Захаваць змены?</string>
     <string name="refocus_discard_negative_btn">Адмяніць</string>
     <string name="refocus_discard_positive_btn">Захаваць</string>
@@ -1293,4 +1305,6 @@
     <string name="refocus_title">Размыццё</string>
     <string name="refocus_type_static">Ступень размыцця</string>
     <string name="refocus_type_video">Light trails</string>
+    <string name="select_image_operation">Дадаванне фота</string>
+    <string name="unsupport_video">%s не працуе з відэа</string>
 </resources>

@@ -131,6 +131,7 @@
     <string name="security_permission_xiaomi_account_missed_text">Увядзіце ID свайго Mi Акаўнта</string>
     <string name="security_permission_validate_warning">Дзякуй, вы дапамагаеце зрабіць MIUI лепш!</string>
     <string name="security_permission_wifi_and_data_opened_text">Wi-Fi і мабільны інтэрнэт уключаны</string>
+    <string name="security_permission_network_failed_text">Не атрымалася злучыцца з сеткай. Праверце налады сеткі і паспрабуйце зноў.</string>
     <string name="xspace_resolver_activity_title">Выберыце праграму</string>
     <string name="user_switching_dialog_text">Пераключэнне…</string>
     <string name="activity_package_delete_confirm_title">Увага</string>
@@ -180,4 +181,6 @@
     <string name="miui_warning_button_ok">ОК</string>
     <string name="miui_warning_button_cancel">Скасаваць</string>
     <string name="miui_warning_tip_info">У праграме %1$s адбылася памылка. Закрыць праграму зараз?</string>
+    <string name="talk_back_water_mark_string1">TalkBack уключаны</string>
+    <string name="talk_back_water_mark_string2">Для адключэння зацісніце \"Гучнасць +\" і \"Громкость-\" на 3 секунды</string>
 </resources>

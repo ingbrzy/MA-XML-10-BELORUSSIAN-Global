@@ -18,7 +18,7 @@
     <string name="dialog_title_not_available">Не атрымліваецца спампаваць</string>
     <string name="dialog_title_queued_body">Файл яшчэ не даступны</string>
     <string name="download_error">Не атрымліваецца спампаваць</string>
-    <string name="download_no_application_title">Не атрымалася адчыніць файл</string>
+    <string name="download_no_application_title">Не атрымалася адкрыць файл</string>
     <string name="download_queued">Дададзена ў чаргу спамповак</string>
     <string name="download_running">Спампоўка…</string>
     <string name="download_share_dialog">Падзяліцца з дапамогай…</string>
@@ -138,8 +138,8 @@
     <string name="notify_disabled_net_by_app">Доступ да Інтэрнэту абмежаваны</string>
     <string name="notify_only_wifi_download">Чаканне сеткі Wi-Fi</string>
     <string name="only_support_torrent">Падтрымліваюцца толькі торэнт-файлы</string>
-    <string name="open">Адчыніць</string>
-    <string name="open_download">Адчыніць</string>
+    <string name="open">Адкрыць</string>
+    <string name="open_download">Адкрыць</string>
     <string name="open_folder">Адкрыць папку</string>
     <string name="other">Іншыя</string>
     <string name="other_filter">Іншыя</string>
@@ -167,7 +167,7 @@
     <string name="recommend_install">Усталяваць</string>
     <string name="recommend_installing">Усталёўка…</string>
     <string name="recommend_loading">Загрузка…</string>
-    <string name="recommend_open">Адчыніць</string>
+    <string name="recommend_open">Адкрыць</string>
     <string name="recommend_paused">Прыпынена</string>
     <string name="recommend_prepare">Чаканне…</string>
     <string name="restart_download">Перазапуск</string>
@@ -197,7 +197,11 @@
     <string name="toast_only_wifi_download">"Падключыцеся да Wi-Fi, каб спампаваць гэты аб'ект"</string>
     <string name="total_speedup">Паскарэнне (усяго)</string>
     <string name="version">Версія: %s</string>
+    <string name="check_new_downloaded_action">Прагляд</string>
+    <string name="check_new_downloaded_file">Знойдзены новы файл</string>
     <string name="get_data_failed">Немагчыма атрымаць дадзеныя. Пачакайце хвілінку і паўтарыце спробу.</string>
+    <string name="info_download_details">Падрабязнасці</string>
+    <string name="info_download_progress">Паказваць працэс спампавання</string>
     <string name="load_finish_hint">Гэта ўсё на дадзены момант.</string>
     <string name="loading">Хвілінку…</string>
     <string name="net_error">Падлучыцеся да сеткі і паўтарыце спробу</string>

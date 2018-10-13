@@ -9,7 +9,7 @@
     <string name="passport_login">Увайсці</string>
     <string name="passport_relogin">Увайсці зноў</string>
     <string name="passport_skip_login">Прапусціць</string>
-    <string name="passport_skip_setup_account_title">Прапусціць налады</string>
+    <string name="passport_skip_setup_account_title">Не выкарыстоўваць Mi Cloud?</string>
     <string name="passport_skip_setup_account_msg">Вы можаце настроіць Мі Акаўнт пазней у Наладах.</string>
     <string name="passport_confirm_login">Працягнуць</string>
     <string name="passport_find_password_on_web_msg">Наведайце account.mi.com каб змяніць свой пароль.</string>

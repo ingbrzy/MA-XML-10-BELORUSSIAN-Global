@@ -49,8 +49,8 @@
         <item>Планшэт</item>
     </string-array>
     <string-array name="pref_navscreen_layoutstate_choices">
-        <item>Vertical view</item>
-        <item>Horizontal view</item>
+        <item>Вертыкальны выгляд</item>
+        <item>Гарызантальны выгляд</item>
     </string-array>
     <string-array name="pref_text_zoom_choices">
         <item>Вельмі маленькі</item>

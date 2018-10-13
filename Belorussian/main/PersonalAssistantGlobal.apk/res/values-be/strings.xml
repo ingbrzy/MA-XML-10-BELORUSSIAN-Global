@@ -113,6 +113,10 @@
     <string name="cleanup_power">Глыбокая ачыстка</string>
     <string name="company">Праца</string>
     <string name="company_or_school">Праца ці школа</string>
+    <string name="cricket_content_provider">Кантэнт-правайдэр</string>
+    <string name="cricket_fixtures_label">Матчы</string>
+    <string name="cricket_news_label">Навіны</string>
+    <string name="cricket_select_series">Выберыце любімыя серыялы</string>
     <string name="cta_desc">Збірайце важныя ярлыкі і інфармацыю проста тут.</string>
     <string name="cta_dialog_negative">Выйсці</string>
     <string name="cta_dialog_positive">Пагадзіцца</string>
@@ -234,6 +238,7 @@
     <string name="scan_code">QR-код</string>
     <string name="scan_doc">Дакумент</string>
     <string name="scan_parent">Сканер</string>
+    <string name="search_card_view_date">EE d.M.y</string>
     <string name="search_tip">Пошук…</string>
     <string name="security">Бяспека</string>
     <string name="service_unavailiable">Connect to the network and try again.</string>

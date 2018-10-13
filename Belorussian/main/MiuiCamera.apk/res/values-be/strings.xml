@@ -34,13 +34,13 @@
     <string name="pref_video_hfr_title">Відэа HFR</string>
     <string name="pref_video_quality_entry_4kuhd">UHD 4K, 30fps</string>
     <string name="pref_video_quality_entry_4kuhd_60fps">UHD 4K, 60fps</string>
-    <string name="pref_video_quality_entry_1080p">FHD 1080P, 30fps</string>
-    <string name="pref_video_quality_entry_1080p_60fps">FHD 1080P, 60fps</string>
-    <string name="pref_video_quality_entry_720p">HD 720P, 30fps</string>
-    <string name="pref_video_quality_entry_480p">SD 480P, 30fps</string>
+    <string name="pref_video_quality_entry_1080p">FHD 1080p, 30fps</string>
+    <string name="pref_video_quality_entry_1080p_60fps">FHD 1080p, 60fps</string>
+    <string name="pref_video_quality_entry_720p">HD 720p, 30fps</string>
+    <string name="pref_video_quality_entry_480p">SD 480p, 30fps</string>
     <string name="pref_new_slow_motion_video_quality_entry_1080p">FHD 1080p</string>
     <string name="pref_new_slow_motion_video_quality_entry_720p">HD 720p</string>
-    <string name="pref_new_slow_motion_video_quality_240_720only">Налада 240fps даступная толькі для відэа 720p</string>
+    <string name="pref_new_slow_motion_video_quality_240_720only">Вы можаце запісаць з 240fps толькі відэа 720p</string>
     <string name="pref_video_encoder_title">Відэакодэр</string>
     <string name="pref_video_encoder_entry_h264">H.264 (сумяшчальнасць)</string>
     <string name="pref_video_encoder_entry_h265">H.265 (прадукцыйнасць)</string>
@@ -435,6 +435,7 @@
     <string name="portrait_mode_depth_effect_success_hint">Эфект глыбіні</string>
     <string name="portrait_mode_use_hint">"Партрэтны рэжым размывае фон
 і павялічвае выразнасць пярэдняга плана."</string>
+    <string name="portrait_mode_use_hint_with_switch">@string/portrait_mode_use_hint</string>
     <string name="portrait_mode_use_hint_for_bokeh">"Паспрабуйце зрабіць фота ў партрэтным рэжыме.
 Аб'еут здымкі застанецца ў фокусе, а фон будзе размыты."</string>
     <string name="pref_camera_square_mode_title">Квадрат</string>
@@ -451,6 +452,7 @@
     <string name="pref_camera_beautify_entry_low">Нізкі</string>
     <string name="pref_camera_beautify_entry_normal">Сярэдні</string>
     <string name="pref_camera_beautify_entry_high">Высокі</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="camera_mode_options">Рэжымы</string>
     <string name="button_front_camera_title">Зрабіць сэлфі</string>
     <string name="button_normal_video_title">Запіс відэа</string>

@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="resource_comment_score_count">
+        <item quantity="other">%d каментарыяў</item>
+        <item quantity="one">%d каментарый</item>
+        <item quantity="few">%d каментарыя</item>
+        <item quantity="many">%d каментарыяў</item>
+    </plurals>
     <plurals name="theme_batch_has_update_text">
         <item quantity="other">Даступны абнаўленні для %1$d тэмы.</item>
         <item quantity="one">Даступны абнаўленні для %1$d тэмы.</item>

@@ -363,16 +363,16 @@
         <item quantity="many">%d дзён з часу апошняй праверкі</item>
     </plurals>
     <plurals name="hints_handle_item_text_risk_number">
-        <item quantity="other">%d пагрозы</item>
-        <item quantity="one">%d пагроза</item>
-        <item quantity="few">%d пагрозы</item>
-        <item quantity="many">%d пагроз</item>
+        <item quantity="other">%d risks,</item>
+        <item quantity="one">%d risk,</item>
+        <item quantity="few">%d risks,</item>
+        <item quantity="many">%d risks,</item>
     </plurals>
     <plurals name="hints_handle_item_text_virus_number">
-        <item quantity="other">%d траяна</item>
-        <item quantity="one">%d траян</item>
-        <item quantity="few">%d траяны</item>
-        <item quantity="many">%d траянаў</item>
+        <item quantity="other">%d trojans</item>
+        <item quantity="one">%d trojan</item>
+        <item quantity="few">%d trojans</item>
+        <item quantity="many">%d trojans</item>
     </plurals>
     <plurals name="white_list_risk_app_header">
         <item quantity="other">Небяспечных праграм: %d</item>

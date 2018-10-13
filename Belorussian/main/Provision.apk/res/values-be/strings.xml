@@ -67,7 +67,7 @@
     <string name="disagree">Скасаваць</string>
     <string name="setting_locale">Налады рэгіёна…</string>
     <string name="agree_terms">Я прачытаў і згаджаюся з Умовамі выкарыстання і Палітыкай канфідэнцыяльнасці.</string>
-    <string name="poco_agree_terms_other">(У тым ліку Палітыка прыватнасці і Карыстальніцкае пагадненне POCO Launcher)</string>
+    <string name="poco_agree_terms_other">(У тым ліку Палітыка канфідэнцыяльнасці і Карыстальніцкае пагадненне POCO Launcher)</string>
     <string name="agree_terms_input_method_facemoji">Я прачытаў і прымаю Палітыку канфідэнцыяльнасці Facemoji.</string>
     <string name="agree_terms_input_method_kika">Я прачытаў і прымаю Палітыку канфідэнцыяльнасці Kika.</string>
     <string name="miui_terms_no_network">Няма падключэння да інтэрнэту. Азнаёміцца з Умовамі выкарыстання на %s.</string>

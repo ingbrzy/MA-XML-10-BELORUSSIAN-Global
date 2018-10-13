@@ -225,6 +225,8 @@
     <string name="tax_social_insurance">Сацыяльнае страхаванне</string>
     <string name="tax_thershold_foreign">%s (замежныя грамадзяне)</string>
     <string name="tax_thershold_native">%s (Мацерыковы Кітай)</string>
+    <string name="tax_thershold_native_new">%s (новы)</string>
+    <string name="tax_thershold_native_new_description">Падаткі будуць разлічвацца ў адпаведнасці з новым падатковым заканадаўствам з 1 кастрычніка 2018 г.</string>
     <string name="tax_threshold">Безпадатковы парог</string>
     <string name="tax_title_primary" />
     <string name="tax_title_secondary" />

@@ -219,6 +219,7 @@
     <string name="allow_bind_app_widget_activity_allow_bind_title">Стварыць віджэт і дазволіць доступ?</string>
     <string name="allow_bind_app_widget_activity_always_allow_bind">Заўсёды дазваляць %1$s ствараць віджэты і атрымліваць доступ да іх дадзеных</string>
     <string name="allow_data_usage_title">Дазволіць выкарыстанне даных у роўмінгу</string>
+    <string name="allow_device_id_access">Apps with device identification</string>
     <string name="allow_mock_location">Дазволіць ілжывыя месцазнаходжанні</string>
     <string name="allow_mock_location_summary">Дазволіць ілжывыя месцазнаходжанні</string>
     <string name="allow_overlay_description">Дазволіць гэтай праграме паказвацца паверх іншых праграм, якія вы выкарыстоўваеце. Гэта можа перашкодзіць выкарыстанню гэтых праграм або змяніць спосаб, якім яны могуць паказвацца або працаваць.</string>
@@ -924,6 +925,7 @@
     <string name="bootloader_status_unlocked">Разблакавана</string>
     <string name="bootloader_status_unlocked_info">Прылада разблакавана</string>
     <string name="bootloader_summary">Прашыўка прылады праз USB</string>
+    <string name="bootloader_unlock_webhome">https://unlock.update.miui.com</string>
     <string name="breathing_light_color_menu_title">Колер індыкатара</string>
     <string name="breathing_light_color_summary">Колер індыкатара пры атрыманні новага паведамлення</string>
     <string name="breathing_light_freq_summary">Міргаць пры новых апавяшчэннях</string>
@@ -985,6 +987,7 @@
     <string name="calls_title">Выклікі</string>
     <string name="camera_double_tap_power_gesture_desc">Хутка адкрыць камеру без разблакіроўкі экрана</string>
     <string name="camera_double_tap_power_gesture_title">Каб адкр. кам., двойчы кран. кнопку сіл.</string>
+    <string name="camera_front">Франтальная %s</string>
     <string name="camera_gesture_desc">Адкрыйце дадатак камеры, двойчы павярнуўшы сваё запясце</string>
     <string name="camera_gesture_title">Павярніце двойчы, каб адкрыць камеру</string>
     <string name="camera_key_action_app_title">Адкрыць праграму</string>
@@ -999,6 +1002,7 @@
     <string name="camera_key_action_shortcut_wake">Блакаваць прыладу</string>
     <string name="camera_key_action_title">Mi-кнопка</string>
     <string name="camera_key_action_toggle_title">Дзеянне на перамыкач</string>
+    <string name="camera_rear">Асноўная %s</string>
     <string name="cancel">Скасаваць</string>
     <string name="cancel_action">Скасаваць</string>
     <string name="cancel_alert">Скасаваць змены?</string>
@@ -1262,6 +1266,7 @@
     <string name="dangerous_option">Небяспечныя функцыі рэжыму распрацоўшчыка</string>
     <string name="dangerous_option_hint">Ўключана функцыя %1$s. Націсніце для змены налад.</string>
     <string name="dangerous_option_hint_title">Ўключаная небяспечная функцыя</string>
+    <string name="dangerous_option_switch_title">Паведамляць пра апасныя функцыі</string>
     <string name="dashboard_title">Налады</string>
     <string name="data_limit">Ліміт трафіку</string>
     <string name="data_saver_off">Выключана</string>
@@ -1455,6 +1460,7 @@
     <string name="device_available_memory">Даступнае сховішча</string>
     <string name="device_battery">Батарэя</string>
     <string name="device_build_id">Нумар версіі</string>
+    <string name="device_camera">Камера</string>
     <string name="device_cellular_network">Сканіраванне мабільнай сеткі</string>
     <string name="device_complete_parameters">Усе параметры</string>
     <string name="device_cpu">Працэсар</string>
@@ -1466,6 +1472,7 @@
     <string name="device_display_layout_title">Магчымасці Mi 5</string>
     <string name="device_edit_title">Змяніць імя тэлефона</string>
     <string name="device_feedback">Адправіць водгук пра гэту прыладу</string>
+    <string name="device_id">Device identification</string>
     <string name="device_info_default">Невядома</string>
     <string name="device_info_label">Звесткі аб прыладзе</string>
     <string name="device_info_not_available">Недаступны</string>
@@ -1510,6 +1517,7 @@
     <string name="dialog_title_hdmi_color_calibration">Перадусталёўкі карэкцыі колеру</string>
     <string name="dialog_title_login">Увайдзіце ў Mi Акаўнт</string>
     <string name="dialog_yes">Так</string>
+    <string name="digital_clock_dot">:</string>
     <string name="direct_boot_unaware_dialog_message">Заўвага. Каб запусціць гэту праграму пасля перазапуску, разблакуйце экран.</string>
     <string name="disable_overlays">Адключыць накладанне апаратнымі сродкамі</string>
     <string name="disable_overlays_summary">Заўсёды выкарыстоўваць GPU для адмалёўкі экрана</string>
@@ -1570,6 +1578,7 @@
     <string name="dndm_auto_button_title">Паўтараць рэжым \"Не турбаваць\"</string>
     <string name="dndm_auto_setting_group">Расклад</string>
     <string name="dndm_auto_time_setting">Усталяваць час</string>
+    <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
     <string name="dndm_auto_time_turn_off">Да</string>
     <string name="dndm_auto_time_turn_off_title">Аўтаматычнае адключэнне рэжыму \"Не турбаваць\"</string>
     <string name="dndm_auto_time_turn_on">З</string>
@@ -1673,6 +1682,8 @@
     <string name="empty_list_msg">У вас няма ўсталяваных дадаткаў ад іншых пастаўшчыкоў.</string>
     <string name="enable_adb">Адладка па USB</string>
     <string name="enable_adb_summary">"Уключыць рэжым адладкі пры падключэнні да камп'ютара па USB"</string>
+    <string name="enable_atrace">Turn on ATrace</string>
+    <string name="enable_atrace_summary">Capture kernel events using ATrace</string>
     <string name="enable_compatibility">Шкала прыкладання</string>
     <string name="enable_freeform_support">Дазволіць стварэнне акон вольнай формы</string>
     <string name="enable_freeform_support_summary">Уключыць падтрымку для акон вольнай формы.</string>
@@ -2031,6 +2042,7 @@
     <string name="gadget_picker_title">Выберыце гаджэт</string>
     <string name="gadget_state_off">выкл.</string>
     <string name="gadget_state_on">укл.</string>
+    <string name="gadget_state_template">%1$s %2$s</string>
     <string name="gadget_state_turning_off">выключэнне</string>
     <string name="gadget_state_turning_on">уключэнне</string>
     <string name="gadget_sync">Сінхранiзацыя</string>
@@ -2349,6 +2361,7 @@
     <string name="lift_to_wake_title">Абуджэнне пры падняцці</string>
     <string name="line_breaking_summary">Выправіць разрывы радкоў абзаца</string>
     <string name="line_breaking_title">Аптымізацыя тэксту</string>
+    <string name="link_speed">%1$d Мб/с</string>
     <string name="list_bg_header_text">Пры абмежаванні фонавых злучэнняў новыя праграмы не змогуць злучацца з інтэрнэтам у фонавым рэжыме. Яны больш не змогуць атрымліваць паведамленні ці абнаўляць дадзеныя.</string>
     <string name="list_empty_text">Пуста</string>
     <string name="loading_notification_apps">Загрузка дадаткаў...</string>
@@ -2704,6 +2717,7 @@
     <string name="memory_title">Даступна: %1$s\u0009\u0009Усяго: %2$s</string>
     <string name="memory_usage">Выкарыстанне памяці</string>
     <string name="memory_usage_apps">Выкарыстанне памяці праграмамі</string>
+    <string name="memory_use_running_format">%1$s / %2$s</string>
     <string name="memory_use_summary">%1$s – сярэдняе значэнне памяці, выкарыстанай за апошнія 3 гадзіны</string>
     <string name="menu_cancel">Адхіліць</string>
     <string name="menu_check">Досвед</string>
@@ -3009,6 +3023,7 @@
     <string name="nfc_how_it_works_got_it">Зразумела</string>
     <string name="nfc_how_it_works_title">Аплата ў тэрмінале</string>
     <string name="nfc_more_title">Больш...</string>
+    <string name="nfc_payment_app_and_desc">%1$s – %2$s</string>
     <string name="nfc_payment_default">Стандартны спосаб аплаты</string>
     <string name="nfc_payment_default_not_set">Не задана</string>
     <string name="nfc_payment_favor_default">Заўсёды выкарыстоўвайце праграму па змаўчанні</string>
@@ -3219,6 +3234,7 @@
     <string name="overlay_display_devices_title">Эмуляцыя другасных дысплэяў</string>
     <string name="overlay_settings">Паказваць паверх іншых праграм</string>
     <string name="owner_info_settings_edit_text_hint">Напрыклад, Android Лявона</string>
+    <string name="owner_info_settings_status">%1$d / %2$d</string>
     <string name="owner_info_settings_summary">Няма</string>
     <string name="owner_info_settings_title">Подпіс на экране блакавання</string>
     <string name="owner_space">Першая прастора</string>
@@ -3388,6 +3404,7 @@
     <string name="pref_manage_bg_network">Кіраваць фонавымі злучэннямі праграм</string>
     <string name="pref_new_installed_preconfig_title">Налады для новых праграм</string>
     <string name="pref_operational_key">Кнопкі навігацыі</string>
+    <string name="pref_show_lunar_calendar_title">Show traditional Chinese calendar on Lock screen</string>
     <string name="pref_title_lang_selection">Моўныя параметры</string>
     <string name="pref_title_update_notification">Апавяшчэнне пра трафік</string>
     <string name="pref_volume_launch_camera_summary">Націсніце кнопку змяншэння гучнасці двойчы, каб запусціць Камеру</string>
@@ -3531,6 +3548,8 @@
     <string name="private_sms_recording_intro_header">Намаляваць графічны ключ для разблакавання:</string>
     <string name="private_sms_reset_by_account">Каб скінуць ваш пароль, увайдзіце ў Mi Акаўнт</string>
     <string name="process_dex2oat_label">Аптымізацыя дадаткаў</string>
+    <string name="process_format">%1$s (%2$d)</string>
+    <string name="process_kernel_label">АС Android</string>
     <string name="process_mediaserver_label">Сервер медыя</string>
     <string name="process_provider_in_use_description">Выкарыстоўваецца пастаўшчык паслуг %1$s.</string>
     <string name="process_service_in_use_description">Служба %1$s выкарыстоўваецца.</string>
@@ -3720,6 +3739,11 @@
     <string name="resolver_settings_label">Сартаванне</string>
     <string name="restore_default_apn">Аднаўленне параметраў APN па змаўчанні</string>
     <string name="restore_default_apn_completed">Скід налад кропкі доступу па змаўчанні завершаны.</string>
+    <string name="restore_device_id_content">Reset personalized recommendation</string>
+    <string name="restore_device_id_title">Restore device identification</string>
+    <string name="restore_dialog_content">Restoring device identification will reset your personalized recommendation.</string>
+    <string name="restore_dialog_positive">Restore</string>
+    <string name="restore_dialog_title">Reminder</string>
     <string name="restr_pin_enter_admin_pin">Увядзіце PIN-код адміністратара</string>
     <string name="restrict_background_blacklisted">Фонавая перадача даных выключана</string>
     <string name="restrict_bg_app">Абмежаваць</string>
@@ -4152,6 +4176,7 @@
     <string name="security_encryption_attention_3">Вам прыйдзецца ўсталяваць новы пароль блакавання экрана.</string>
     <string name="security_encryption_attention_4">Запомніце свой пароль блакавання экрана, інакш вам прыйдзецца выканаць поўны скід, і ўсе дадзеныя на прыладзе будуць страчаны.</string>
     <string name="security_encryption_attention_info">Вы можаце зашыфраваць свае акаўнты, налады, усталяваныя праграмы і іх дадзеныя, медыяфайлы і г.д.</string>
+    <string name="security_encryption_attention_symbol">•</string>
     <string name="security_encryption_attention_title">Важнае</string>
     <string name="security_encryption_close_dialog_info">Пры адключэнні шыфравання прылады з дапамогай пароля блакавання экрана некаторыя сэрвісы Google могуць стаць недаступнымі.</string>
     <string name="security_encryption_close_dialog_title">Вяртанне да абароны паролем па змаўчанні</string>
@@ -4404,6 +4429,7 @@
     <string name="sim_reenter_new">Увядзіце новы PIN-код яшчэ раз</string>
     <string name="sim_select_card">Выбар SIM-карты</string>
     <string name="sim_selection_required_pref">Трэба выбраць</string>
+    <string name="sim_settings_summary">%1$s – %2$s</string>
     <string name="sim_settings_title">SIM-карты</string>
     <string name="sim_setup_wizard_title">SIM-карты</string>
     <string name="sim_signal_strength">%1$d дБм %2$d asu</string>
@@ -4417,6 +4443,7 @@
     <string name="size_kilo_byte">КБ</string>
     <string name="size_mega_byte">МБ</string>
     <string name="size_peta_byte">ПБ</string>
+    <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">ТБ</string>
     <string name="skip_anyway_button_label">Усё роўна прапусціць</string>
     <string name="skip_label">Прапусціць</string>
@@ -4501,10 +4528,12 @@
     <string name="status_bar_settings_all_app_display_loading">Хвілінку…</string>
     <string name="status_bar_settings_app_notification_preferences">Налады праграмы</string>
     <string name="status_bar_settings_basic_settings">Базавыя</string>
+    <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
     <string name="status_bar_settings_custom_carrier">Змяніць назву аператара</string>
     <string name="status_bar_settings_custom_wifi_name">Змяніць імя Wi-Fi</string>
-    <string name="status_bar_settings_customer_feedback">feedback</string>
+    <string name="status_bar_settings_customer_feedback">Водгук</string>
     <string name="status_bar_settings_enable_notification">Паказваць апавяшчэнні</string>
+    <string name="status_bar_settings_expandable_under_keyguard">Show on lock screen</string>
     <string name="status_bar_settings_function_description">Пра гэту функцыю</string>
     <string name="status_bar_settings_long_click_sort">Націскайце і ўтрымлівайце для стварэння перамыкача</string>
     <string name="status_bar_settings_manage_notification">Апавяшчэнні праграм</string>
@@ -4515,7 +4544,9 @@
     <string name="status_bar_settings_notification_priority_summary">Паказваць апавяшчэнні ў верхней частцы спісу</string>
     <string name="status_bar_settings_notification_shade_shortcut">Ярлык у панэлі паведамленняў</string>
     <string name="status_bar_settings_notification_sound">Гук</string>
+    <string name="status_bar_settings_notification_style">Notification style</string>
     <string name="status_bar_settings_notification_vibrate">Вібрацыя</string>
+    <string name="status_bar_settings_peek_notification_icon">Паказваць значкі апавяшчэнняў</string>
     <string name="status_bar_settings_show_carrier">Паказваць аператара</string>
     <string name="status_bar_settings_show_carrier_summary">Назва аператара будзе адлюстроўвацца на экране блакіравання і на панэлі апавяшчэнняў, калі гэтая функцыя адключаная</string>
     <string name="status_bar_settings_show_carrier_under_keyguard">Паказваць імя аператара, калі прылада заблакавана</string>
@@ -4742,6 +4773,7 @@
     <string name="suggestions_title">Прапановы</string>
     <string name="sum_carrier_select">Выбраць аператара сеткі</string>
     <string name="summary_divider_text">", "</string>
+    <string name="summary_range_symbol_combination">%1$s – %2$s</string>
     <string name="summary_range_verbal_combination">%1$s – %2$s</string>
     <string name="super_resolution_access_title">Даступныя праграмы</string>
     <string name="super_resolution_desc">Павышэнне рэзкасці выяў з дапамогай алгарытму AI</string>
@@ -5739,9 +5771,11 @@
     <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_security_none">Адсутнічае</string>
     <string name="wifi_security_passpoint">Passpoint</string>
+    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
     <string name="wifi_security_short_eap">802.1x</string>
+    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_wep">WEP</string>
     <string name="wifi_security_short_wpa">WPA</string>
     <string name="wifi_security_short_wpa2">WPA2</string>

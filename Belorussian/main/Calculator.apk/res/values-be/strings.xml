@@ -62,6 +62,21 @@
     <string name="fund" />
     <string name="fund_loan">Пазыковы фонд</string>
     <string name="global_network_confirm_content">Для звычайнай працы канвертара валют неабходна падлучыцца да інтэрнэту.</string>
+    <string name="global_search_key_area_convertion">Плошча;Канвэртар плошчы;Пераўтварэнне плошчы</string>
+    <string name="global_search_key_calculation">Вылічаць;Калькулятар;Пераўтварэнне адзінак;Канвэртар;Канвэртар адзінак</string>
+    <string name="global_search_key_date_convertion">Канвэртар часу;Адзінкі часу;Пераўтварэнне часу;Час</string>
+    <string name="global_search_key_exchange_rate">Курс валют;Канверсія курсаў валют;Канвэртар валют;Валюта;Курсы валют</string>
+    <string name="global_search_key_length_convertion">Даўжыня;Канвэртар даўжыні;Пераўтварэнне даўжыні</string>
+    <string name="global_search_key_mortgage">Разлік іпатэкі;Іпатэчны калькулятар;Іпатэка</string>
+    <string name="global_search_key_personal_tax">Падаходны падатак;Прыбытак пасля выплаты падаткаў;Падатковы калькулятар;Разлік асабістага даходу;Разлік даходу;Разлік даходу пасля выплаты падаткаў;Падаходны падатак; падатак; падаткі</string>
+    <string name="global_search_key_scientific_convertion">Інжынерны калькулятар;Вылічэнне функцый;Матэматыка;Алгебра</string>
+    <string name="global_search_key_speed_convertion">Пераўтварэнне адзінак хуткасці;Пераўтварэнне хуткасці;Канвэртар хуткасці;Хуткасць</string>
+    <string name="global_search_key_temperature_convertion">Пераўтварэнне адзінак тэмпературы;Пераўтварэнне тэмпературы;Канвэртар тэмпературы;Фарэнгейт;Цэльсій;Шкала Цэльсія</string>
+    <string name="global_search_key_volume_convertion">"Пераўтварэнне адзінак аб'ёму;Пераўтварэнне аб'ёму;Канвэртар аб'ёму"</string>
+    <string name="global_search_key_weight_convertion">Пераўтварэнне адзінак масы;Пераўтварэнне масы;Канвэртар масы;Кіло;Кг;Кілаграмы;Фунт;Фунты;lbs</string>
+    <string name="global_search_key_word_figure">Фінансавыя сімвалы</string>
+    <string name="golbal_search_calculator_setting">Калькулятар;Налады каульклятара;Налады</string>
+    <string name="golbal_search_path_calculator_setting">Сістэмныя праграмы/Калькулятар/Налады</string>
     <string name="home_title_calculator">Калькулятар</string>
     <string name="income_type" />
     <string name="install">Усталяваць</string>
@@ -141,6 +156,7 @@
     <string name="negDesc">Пераключэнне паміж тэмпературамі ніжэй і вышэй за нуль</string>
     <string name="network_confirm_content">Для звычайнай працы канвертара валют, падаткавага і крэдытнага калькулятараў патрэбна падлучэнне да інтэрнэту і доступ да месцазнаходжання.</string>
     <string name="network_confirm_title">Запыт доступу</string>
+    <string name="not_supported_due_to_language">Гэтая функцыя даступная толькі для кітайскай мовы</string>
     <string name="percent" />
     <string name="percentDesc">адсотак</string>
     <string name="piDesc">пі</string>
@@ -536,5 +552,15 @@
     <string name="word_figure_unit_shi">拾</string>
     <string name="word_figure_yuan">元</string>
     <string name="word_figure_zheng">整</string>
+    <string name="xiaomi_bytes_unit">%1$sБ</string>
+    <string name="xiaomi_connect_download_manager_fail">Не атрымалася пачаць загрузку. Пераканайцеся ў «Ўпраўленні праграмамі», што Дыспетчар загрузак працуе нармальна.</string>
+    <string name="xiaomi_external_storage_unavailable">Памяць недаступная, праверце SD-карту.</string>
+    <string name="xiaomi_kilobytes_unit">%1$sКБ</string>
+    <string name="xiaomi_megabytes_unit">%1$sМБ</string>
+    <string name="xiaomi_update_dialog_message">"Даступная версія %1$s
+Памер: %2$s"</string>
+    <string name="xiaomi_update_dialog_message_diff">"Даступная версія %1$s
+Памер дэльта-абнаўлення: %2$s"</string>
+    <string name="xiaomi_update_dialog_title">%1$s абнаўленне!</string>
     <string name="year" />
 </resources>

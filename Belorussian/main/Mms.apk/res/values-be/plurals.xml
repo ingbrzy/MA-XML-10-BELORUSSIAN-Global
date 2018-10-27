@@ -30,6 +30,12 @@
         <item quantity="few">%d выбрана</item>
         <item quantity="many">%d выбрана</item>
     </plurals>
+    <plurals name="delivery_toast_body_more_plurals">
+        <item quantity="other">Паведамленне дастаўлена %1$s і %2$d іншым людзям</item>
+        <item quantity="one">Паведамленне дастаўлена %1$s і %2$d іншым людзям</item>
+        <item quantity="few">Паведамленне дастаўлена %1$s і %2$d іншым людзям</item>
+        <item quantity="many">Паведамленне дастаўлена %1$s і %2$d іншым людзям</item>
+    </plurals>
     <plurals name="group_message_failed_title">
         <item quantity="other">Не атрымалася адправіць %d кантактам</item>
         <item quantity="one">Не атрымалася адправіць %d кантакту</item>

@@ -23,6 +23,7 @@
     <string name="dialog_alert_title">Увага</string>
     <string name="VideoView_error_text_invalid_progressive_playback">Відэа не падыходзіць для патокавай перадачы на ​​гэту прыладу.</string>
     <string name="selectTextMode">Выбраць тэкст</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="fingerprint_icon_content_description">Значок адбіткаў пальцаў</string>
     <string name="paste_as_plain_text">Уставіць як звычайны тэкст</string>
     <string name="autofill">Аўтазапаўненне</string>
@@ -366,6 +367,7 @@
     <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
     <string name="fcComplete">"Код аб'екта завершаны."</string>
     <string name="fcError">Праблема падлучэння ці няправільны код функцыі.</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="find">Пошук</string>
     <string name="find_next">Знайсці нiжэй</string>
     <string name="find_on_page">Знайсці на старонцы</string>
@@ -552,6 +554,7 @@
     <string name="kg_reordering_delete_drop_target_text">Выдалiць</string>
     <string name="kg_sim_pin_instructions">Увядзіце PIN-код SIM-карты</string>
     <string name="kg_sim_unlock_progress_dialog_message">Разблакiроўка SIM-карты...</string>
+    <string name="kg_text_message_separator">" — "</string>
     <string name="kg_too_many_failed_attempts_countdown">Паўтарыце спробу праз %1$d с.</string>
     <string name="kg_too_many_failed_password_attempts_dialog_message">"Вы няправільна ўвялі пароль пэўную колькасць разоў: %1$d. 
 
@@ -819,6 +822,7 @@
     <string name="notification_channel_wfc">Wi-Fi-тэлефанія</string>
     <string name="notification_hidden_text">Змесціва схавана</string>
     <string name="notification_listener_binding_label">Слухач апавяшчэння</string>
+    <string name="notification_messaging_title_template">%1$s: %2$s</string>
     <string name="notification_ranker_binding_label">Служба ацэнкі важнасці апавяшчэнняў</string>
     <string name="notification_title">Памылка ўваходу ва ўлiковы запiс %1$s</string>
     <string name="notification_work_profile_content_description">Працоўны профіль</string>
@@ -1480,6 +1484,7 @@
     <string name="zen_mode_feature_name">Не турбаваць</string>
     <string name="zen_mode_forever">Пакуль вы не выключыце рэжым \"Не турбаваць\"</string>
     <string name="zen_mode_forever_dnd">Пакуль вы не выключыце рэжым «Не турбаваць»</string>
+    <string name="zen_mode_rule_name_combination">%1$s / %2$s</string>
     <string name="zen_mode_until">Да %1$s</string>
     <string name="demo_user_inactivity_timeout_countdown">Усе змены будуць страчаны, і дэманстрацыя пачнецца зноў праз %1$s с…</string>
     <string name="demo_user_inactivity_timeout_left_button">Скасаваць</string>

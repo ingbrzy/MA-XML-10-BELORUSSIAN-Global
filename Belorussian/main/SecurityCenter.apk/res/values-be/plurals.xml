@@ -182,6 +182,12 @@
         <item quantity="few">Знойдзена %d праблемы з батарэяй, вырашыце іх</item>
         <item quantity="many">Знойдзена %d праблем з батарэяй, вырашыце іх</item>
     </plurals>
+    <plurals name="notification_battery_consume_abnormal_summary">
+        <item quantity="other">Drained %2$d%% of the battery during last %1$d minutes</item>
+        <item quantity="one">Drained %2$d%% of the battery during last %1$d minute</item>
+        <item quantity="few">Drained %2$d%% of the battery during last %1$d minutes</item>
+        <item quantity="many">Drained %2$d%% of the battery during last %1$d minutes</item>
+    </plurals>
     <plurals name="power_center_menu_text">
         <item quantity="other">"аб'ектаў"</item>
         <item quantity="one">"аб'ект"</item>
@@ -363,16 +369,16 @@
         <item quantity="many">%d дзён з часу апошняй праверкі</item>
     </plurals>
     <plurals name="hints_handle_item_text_risk_number">
-        <item quantity="other">%d risks,</item>
-        <item quantity="one">%d risk,</item>
-        <item quantity="few">%d risks,</item>
-        <item quantity="many">%d risks,</item>
+        <item quantity="other">%d пагроз,</item>
+        <item quantity="one">%d пагроза,</item>
+        <item quantity="few">%d пагрозы,</item>
+        <item quantity="many">%d пагроз,</item>
     </plurals>
     <plurals name="hints_handle_item_text_virus_number">
-        <item quantity="other">%d trojans</item>
-        <item quantity="one">%d trojan</item>
-        <item quantity="few">%d trojans</item>
-        <item quantity="many">%d trojans</item>
+        <item quantity="other">%d траянаў</item>
+        <item quantity="one">%d траян</item>
+        <item quantity="few">%d траяны</item>
+        <item quantity="many">%d траянаў</item>
     </plurals>
     <plurals name="white_list_risk_app_header">
         <item quantity="other">Небяспечных праграм: %d</item>
@@ -553,5 +559,17 @@
         <item quantity="one">%1$d праблема патрабуе аптымізацыі</item>
         <item quantity="few">%1$d праблемы патрабуюць аптымізацыі</item>
         <item quantity="many">%1$d праблем патрабуюць аптымізацыі</item>
+    </plurals>
+    <plurals name="game_booster_incoming_call_duration_p1">
+        <item quantity="other">%1$s:</item>
+        <item quantity="one">%1$s:</item>
+        <item quantity="few">%1$s:</item>
+        <item quantity="many">%1$s:</item>
+    </plurals>
+    <plurals name="game_booster_incoming_call_duration_p2">
+        <item quantity="other">%1$s</item>
+        <item quantity="one">%1$s</item>
+        <item quantity="few">%1$s</item>
+        <item quantity="many">%1$s</item>
     </plurals>
 </resources>

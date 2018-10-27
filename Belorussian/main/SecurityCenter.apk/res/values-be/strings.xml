@@ -19,7 +19,9 @@
     <string name="exo_download_notification_channel_name">Спампоўкі</string>
     <string name="exo_download_removing">Выдаленне спамповак</string>
     <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Мбіт/с</string>
     <string name="exo_track_mono">Мона</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">Аўтаматычна</string>
     <string name="exo_track_selection_none">Няма</string>
     <string name="exo_track_selection_title_audio">Аўдыя</string>
@@ -205,7 +207,7 @@
     <string name="report_only">Выберыце паведамленне для справаздачы</string>
     <string name="report_success">Справаздача адпраўлена</string>
     <string name="report_error">Не ўдаецца адправіць справаздачу</string>
-    <string name="report_warning">"Report %1$s SMS to Mi? These messages and phone numbers they were sent from will be uploaded to Mi's servers for review. Any personal info associated with these messages is always kept anonymous."</string>
+    <string name="report_warning">Паскардзіцца на %1$s SMS праз сэрвіс Mi? Паведамленні і адпаведныя нумары тэлефонаў будуць дасланы на Mi-серверы і своечасова разгледжаны. Любая асабістая інфармацыя, звязаная з гэтымі паведамленнямі, застанецца ананімнай.</string>
     <string name="report_warning_title">Увага</string>
     <string name="st_sub_title_customize_mode_name">Назва</string>
     <string name="read_all_sms">Прачытаць усё</string>
@@ -455,6 +457,7 @@
     <string name="managed_user_title">Усе праграмы для працы</string>
     <string name="pref_about_traffic_title">Налады трафіка</string>
     <string name="pref_traffic_manage_title">Кантроль трафіка</string>
+    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_package_traffic_settings">Тарыфны план</string>
     <string name="pref_adjust_traffic_data">Задаць трафік</string>
     <string name="pref_category_title_other">Дадатковыя налады</string>
@@ -660,7 +663,7 @@ Rolled over extra data"</string>
     <string name="tc_sms_report_notify_correction_body">Перайдзіце ў праграму \"Трафік\" ды паспрабуйце аднавіць уручную.</string>
     <string name="tc_sms_report_notify_get_failure_body">Не ўдалося адправіць справаздачу пра трафік. Пераканайцеся, што вы падключаныя да мабільнай сеткі.</string>
     <string name="tc_sms_report_tips_dialog_title">SMS справаздача пра трафік</string>
-    <string name="tc_sms_report_tips_dialog_message">"An SMS is sent to get the latest data usage info from your carrier. If you think the info isn't correct, send us your feedback."</string>
+    <string name="tc_sms_report_tips_dialog_message">Для атрымання апошніх дадзеных пра трафік ад вашага аператара адсылаецца SMS. Калі вы лічыце, што інфармацыя няправільная, дашліце нам свой водгук.</string>
     <string name="tc_sms_report_get_sms_failure">Не ўдалося атрымаць інфармацыю пра трафік</string>
     <string name="tc_sms_report_get_sms_timeout">Час чакання сышоў</string>
     <string name="tc_sms_report_get_sms_successs">Інфармацыя пра трафік паспяхова абноўлена</string>
@@ -972,6 +975,7 @@ Rolled over extra data"</string>
     <string name="om_formatted_percent_string">%s%%</string>
     <string name="om_cpu_usage_warn_title_text">"Гэта праграма можа запаволіць
 працу вашай прылады"</string>
+    <string name="om_memory_clean_memory_info_text">%1$s / %2$s</string>
     <string name="om_ill_proc_handle_unstaill_title">Выдаліць %s?</string>
     <string name="om_ill_proc_handle_uninstall_prompt">Выдаліце ​​праграму, каб вырашыць праблемы з батарэяй.</string>
     <string name="om_ill_proc_type_wakelock_title">Праграма блакуе рэжым сну і разраджае батарэю</string>
@@ -1016,7 +1020,7 @@ Rolled over extra data"</string>
     <string name="menu_item_force_stop">Спыніць прымусова</string>
     <string name="menu_item_uninstall">Выдаліць</string>
     <string name="menu_item_app_details">Падрабязнасці</string>
-    <string name="details_subtitle">Usage details</string>
+    <string name="details_subtitle">Падрабязнасці</string>
     <string name="packages_subtitle">Укладзеныя пакеты</string>
     <string name="battery_desc_standby">Выкарыстанне батарэі ў рэжыме чакання</string>
     <string name="battery_desc_radio">Батарэя выкарыстоўваецца для радыё</string>
@@ -1030,6 +1034,7 @@ Rolled over extra data"</string>
     <string name="usage_type_data_send">Мабільныя дадзеныя адпраўлены</string>
     <string name="usage_type_no_coverage">Час адсутнасці сігналу</string>
     <string name="usage_type_gps">GPS</string>
+    <string name="process_kernel_label">Android</string>
     <string name="process_mediaserver_label">Медыя-сервер</string>
     <string name="power_screen">Экран</string>
     <string name="power_wifi">Wi-Fi</string>
@@ -1124,7 +1129,6 @@ Rolled over extra data"</string>
     <string name="deep_save_ontime_boot_shutdown_summary">Расклад для ўключэння ды выключэння прылады</string>
     <string name="btn_text_quick_save_power">Ахаладзіць</string>
     <string name="notification_battery_consume_abnormal_title">Зарад батарэі зніжаецца занадта хутка</string>
-    <string name="notification_battery_consume_abnormal_summary">Разрад %2$s за апошнія %1$d хвілін</string>
     <string name="app_check_no_issue">Праблем з батарэяй не знойдзена. Цудоўна!</string>
     <string name="power_save_mode_enable">Энергазберажэнне</string>
     <string name="power_save_mode_summary">Кантроль за фонавымі працэсамі ды выключэнне сінхранізацыі.</string>
@@ -1257,12 +1261,17 @@ Rolled over extra data"</string>
     <string name="power_center_list_item_auto_brightness">Рэгулюйце яркасць аўтаматычна</string>
     <string name="power_center_list_item_deep_save_title">Пашыраныя налады</string>
     <string name="power_center_list_item_battery_status_time">г</string>
+    <string name="power_center_list_item_battery_status_temperature">℃</string>
+    <string name="power_center_list_item_battery_status_capacity">мАг</string>
     <string name="power_center_stop_scan_title">Спыніць сканаванне</string>
     <string name="hide_mode_result_summary_text">Параметры энергасберажэння для асобных праграм</string>
     <string name="auto_task_result_summary_text">Наладзьце аўтаматычныя задачы для рэжыму энергасберажэння</string>
     <string name="pc_settings_title">Налады батарэі</string>
     <string name="pc_main_activity_back">Назад</string>
     <string name="extreme_power_save_mode_card_summary">Карыстуйцеся Максімальным энергазберажэннем, калі батарэя амаль разраджана.</string>
+    <string name="power_center_list_item_battery_health_model_voltage">%s V</string>
+    <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
+    <string name="power_center_list_item_battery_health_model_volume">%s mAh</string>
     <string name="handle_bar_title_system">Сістэма</string>
     <string name="apps_list_header_title_sms">Праверце прыладу Паведамленні</string>
     <string name="apps_list_header_title_sms_access">Абмежаваць доступ да кодаў верыфікацыі</string>
@@ -1416,11 +1425,13 @@ Rolled over extra data"</string>
     <string name="menu_text_optimize_manage">Паскарэнне</string>
     <string name="menu_text_networkassistants">Трафік</string>
     <string name="menu_summary_networkassistants">Кіруйце сваім тарыфам</string>
+    <string name="menu_text_networkassistants_2">%s</string>
     <string name="menu_summary_networkassistants_2">Перавышаны ліміт трафіка</string>
     <string name="menu_summary_networkassistants_3">Трафіка дастаткова</string>
     <string name="menu_summary_networkassistants_4">Трафік заканчваецца</string>
     <string name="menu_text_networkassistants_remain">%s засталося</string>
     <string name="menu_text_networkassistants_danger">перавышана на %s</string>
+    <string name="menu_text_networkassistants_data">%1$s %2$s</string>
     <string name="menu_text_networkassistants_unit_gb">ГБ</string>
     <string name="menu_text_networkassistants_unit_mb">МБ</string>
     <string name="menu_text_networkassistants_unit_kb">КБ</string>
@@ -1433,12 +1444,14 @@ Rolled over extra data"</string>
     <string name="menu_summary_garbage_cleanup">Няма смецця</string>
     <string name="menu_summary_garbage_cleanup_2">Памер смецця</string>
     <string name="menu_summary_garbage_cleanup_3">Ачысціць смецце</string>
+    <string name="menu_text_garbage_cleanup_danger">%s</string>
     <string name="menu_text_power_manager">Выкарыстанне батарэі</string>
     <string name="menu_summary_power_manager">Энергазберажэнне павялічвае час паміж зарадкамі</string>
     <string name="menu_summary_power_manager_1">Батарэя зараджана</string>
     <string name="menu_summary_power_manager_2">Засталося %s</string>
     <string name="menu_summary_power_manager_3">Батарэя разраджана</string>
     <string name="menu_summary_power_manager_4">Да поўнага зараду %s</string>
+    <string name="menu_text_power_percent_title">%s</string>
     <string name="last_check_canceled">Папярэдняя праверка была скасавана</string>
     <string name="examination_score_100">Усё добра!</string>
     <string name="examination_score_80_100">Некалькі рэчаў можна аптымізаваць</string>
@@ -1653,6 +1666,8 @@ Rolled over extra data"</string>
     <string name="summary_cloud_space_full">Атрымаць больш месца ў воблачным сховішчы, а таксама доступ да дадатковага функцыяналу</string>
     <string name="title_auto_update">Аўтаматычнае абнаўленне</string>
     <string name="summary_auto_update">MIUI падбярэ найбольш прыдатны час для спампоўкі і ўсталёўкі абнаўленняў.</string>
+    <string name="title_rcs_switch">Уключыць паведамленні China Mobile</string>
+    <string name="summary_rcs_switch">Бясплатная адпраўка SMS іншым абанентам China Mobile</string>
     <string name="title_miui_update_latest">Усталявана апошняя версія MIUI</string>
     <string name="title_miui_update">Даступнае абнаўленне</string>
     <string name="summary_miui_update">Даступнае абнаўленне: %s.</string>
@@ -1812,6 +1827,7 @@ Rolled over extra data"</string>
     <string name="card_main_deepclean_wechat_action">Ачысціць</string>
     <string name="card_main_sectool_title">Інструменты</string>
     <string name="card_main_monthreport_action">Прагледзець</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_netcheck_title">Дыягностыка сеткі</string>
     <string name="card_main_netcheck_summary">Пратэстуйце сетку на наяўнасць праблем</string>
     <string name="card_main_netcheck_action">Тэст</string>
@@ -1853,7 +1869,7 @@ Rolled over extra data"</string>
     <string name="ac_notification_contentTitle">Абараніце вашы праграмы</string>
     <string name="ac_pre_notification_contentTitle">Абарона праграм</string>
     <string name="ac_post_notification_contentTitle">Уключыце Абарону праграм</string>
-    <string name="midrop_post_notification_contentTitle">Need to share files?</string>
+    <string name="midrop_post_notification_contentTitle">Трэба перадаць файлы?</string>
     <string name="notification_masked_item">Схаваць апавяшчэнні</string>
     <string name="lock_mode_title">Налады блакавання</string>
     <string name="after_the_lock_screen">Блакаваць праграмы разам з экранам</string>
@@ -1863,7 +1879,7 @@ Rolled over extra data"</string>
     <string name="ac_notification_contentText">Націсніце, каб уключыць</string>
     <string name="ac_pre_notification_contentText">Абараніце вашы асабістыя дадзеныя</string>
     <string name="ac_post_notification_contentText">Абарона на сістэмным узроўні</string>
-    <string name="midrop_post_notification_contentText">Transfer files at speeds up to 50 Mbps in Mi Drop.</string>
+    <string name="midrop_post_notification_contentText">Паспрабуйце Mi Drop з хуткасцю да 50 Мбіт/с.</string>
     <string name="notification_masked_subtitle">Хаваць апавяшчэнні ад абароненых праграм</string>
     <string name="ac_enter_applock">Увядзіце пароль блакавання</string>
     <string name="ac_mask_all_apps">Схаваць для ўсіх праграм</string>
@@ -1983,6 +1999,7 @@ Rolled over extra data"</string>
     <string name="reset_data_title">Не ўдаецца аднавіць пароль</string>
     <string name="reset_data_dialog_message">Гэта прылада не звязана з вашым Мі акаўнтам. Немагчыма аднавіць або скінуць пароль. Стварыце рэзервную копію ўсіх важных дадзеных і выканайце скід налад. Пры гэтым усе дадзеныя будуць выдалены назаўжды, а ваша SD-карта будзе адфарматавана.</string>
     <string name="reset_data_dialog_ok">Скід налад</string>
+    <string name="ad_split_screen_title">Please switch to full screen mode to unlock</string>
     <string name="wakepath_confirm_start_activity">Дазволіць %1$s адкрыць %2$s?</string>
     <string name="unlike">Не, дзякуй</string>
     <string name="toast_network_eror">Немагчыма злучыцца з сеткай</string>
@@ -2194,6 +2211,7 @@ Rolled over extra data"</string>
     <string name="gs_call_handsfree_mute">Бязгучны рэжым</string>
     <string name="gs_gamebox">Ярлыкі падчас гульні</string>
     <string name="gs_gamebox_detail">Паказваць панэль ярлыкоў падчас гульні</string>
+    <string name="gs_gamebox_slip">Зрушце экран уніз, каб адкрыць</string>
     <string name="gs_forbid_autosync">Абмежаваць сінхранізацыю</string>
     <string name="gs_app_back_self_start">Энергазберажэнне</string>
     <string name="gs_only_self_start_for_list">Абмежаваць фонавыя працэсы, каб захаваць зарад батарэі для гульняў</string>
@@ -2345,6 +2363,7 @@ Rolled over extra data"</string>
     <string name="screenrecord_not_find">Усталяваць апошнюю версію Запісу экрана і паспрабаваць зноў.</string>
     <string name="gamebox_qq_not_find">Усталяваць QQ і паспрабаваць зноў.</string>
     <string name="gamebox_wechat_not_find">Усталяваць WeChat і паспрабаваць зноў.</string>
+    <string name="gamebox_app_not_find">Праграма не знойдзена</string>
     <string name="gamebox_type_close">Не паказваць</string>
     <string name="gamebox_type_float">Фіксаваная</string>
     <string name="gamebox_type_gesture">Правесці для паказу</string>
@@ -2361,6 +2380,7 @@ Rolled over extra data"</string>
     <string name="gb_create_icon_summary">Стварыць ярлык на галоўным экране</string>
     <string name="title_reply">Водгук</string>
     <string name="title_like">Падабаецца</string>
+    <string name="ellipsis">…</string>
     <string name="game_video_net_data">Мабільны інтэрнэт</string>
     <string name="game_wid_viewpoint_buttom">Зрабіце кароткі перапынак.</string>
     <string name="video_repeat">Паўтарыць</string>
@@ -2409,9 +2429,6 @@ Rolled over extra data"</string>
     <string name="first_aid_card_airplane_title">Немагчыма здзяйсняць званкі або падлучацца да сеткі</string>
     <string name="first_aid_card_airplane_summary">Адключыце рэжым палёту, каб здзяйсняць званкі і падлучацца да сеткі</string>
     <string name="first_aid_card_airplane_button">Адключыць</string>
-    <string name="first_aid_card_apn_title">Немагчыма злучыцца з сеткай</string>
-    <string name="first_aid_card_apn_summary">Пункты доступу (APN) былі змененыя. Зафіксуйце іх, каб мець магчымасць падлучэння да сеткі.</string>
-    <string name="first_aid_card_apn_button">Выправіць</string>
     <string name="first_aid_card_unable_install_title">Немагчыма ўсталяваць праграмы</string>
     <string name="first_aid_card_unable_install_summary">Даступна толькі %s сховішча. Вызваліце месца, каб мець магчымасць усталёўваць праграмы.</string>
     <string name="first_aid_card_unable_install_button">Вызваліць месца</string>

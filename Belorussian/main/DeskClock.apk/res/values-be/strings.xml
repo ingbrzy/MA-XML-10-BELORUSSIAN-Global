@@ -152,6 +152,7 @@
     <string name="shutdown_alarm_enable_summary">Будзільнік будзе працаваць пасля адключэння тэлефона</string>
     <string name="shutdown_alarm_title">Выключыць</string>
     <string name="silent_alarm_summary">Без гука</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">Адключыць адзін раз %s</string>
     <string name="slider_text">Правядзіце пальцам уверх, каб выключыць</string>
     <string name="snooze_confirm_cancel">Адключыць будзільнік</string>
@@ -160,6 +161,7 @@
     <string name="start_up">Пачаць</string>
     <string name="stopwatch_lap_empty_text">Няма кругоў</string>
     <string name="stopwatch_title">Секундамер</string>
+    <string name="symbol_colon">:</string>
     <string name="system_time_setting">Галерэя</string>
     <string name="system_time_settings_category_title">Час</string>
     <string name="temperature_unit">%1$s°</string>
@@ -172,6 +174,10 @@
     <string name="timer_alarm_cancel_pad">Націсніце на экран, каб адключыць сігнал</string>
     <string name="timer_alarm_dot_matrix_label">ТАЙМЕР</string>
     <string name="timer_alert_alert_silenced">Адключыць таймер праз %d хв.</string>
+    <string name="timer_alert_mute_off">Сігнал будзе гучаць пасля спыненьня таймера</string>
+    <string name="timer_alert_mute_on">Сігнал не будзе гучаць пасля спыненьня таймера</string>
+    <string name="timer_alert_mute_remind">Націсніце, каб адключыць сігнал</string>
+    <string name="timer_alert_mute_switch">Пераключыце для адключэння сігналаў таймера</string>
     <string name="timer_alert_type_beach">Пляж</string>
     <string name="timer_alert_type_forest">Лес</string>
     <string name="timer_alert_type_mute">Па змоўчанні</string>
@@ -215,7 +221,7 @@
     <string name="volume_button_setting_title">Клавішы гучнасці</string>
     <string name="workday_alarm_clock">Па працоўных днях</string>
     <string name="worldclock_empty_text">Няма гадзіннікаў</string>
-    <string name="worldclock_input_hint_text">Увядзіце назву</string>
+    <string name="worldclock_input_hint_text">Пошук краіны ці горада</string>
     <string name="worldclock_search_city">Выбраць горад</string>
     <string name="worldclock_title">Гадзіннік</string>
     <string name="worldclock_world_time">Часавы пояс</string>

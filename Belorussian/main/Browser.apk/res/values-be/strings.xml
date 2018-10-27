@@ -25,10 +25,11 @@
     <string name="s5">Стварыць падзею календара</string>
     <string name="s6">Дазволіць рэкламе стварыць падзею календара?</string>
     <string name="s7">Тэставая рэклама</string>
-    <string name="abc_action_bar_home_description">Перайсці на галоўную</string>
+    <string name="status_bar_notification_info_overflow">больш за 999</string>
+    <string name="abc_action_bar_home_description">На галоўную</string>
     <string name="abc_action_bar_up_description">Наверх</string>
     <string name="abc_action_menu_overflow_description">Больш</string>
-    <string name="abc_action_mode_done">Зроблена</string>
+    <string name="abc_action_mode_done">Гатова</string>
     <string name="abc_action_mode_select_all">Выбраць усё</string>
     <string name="accept_cookies_confirm_message">Адключэнне гэтай функцыі можа паўплываць на працу некаторых сайтаў.</string>
     <string name="accessibility_button_clear">Ачысціць увод</string>
@@ -147,6 +148,7 @@
     <string name="cannot_download">Спампоўка магчыма толькі з URL, што пачынаецца з \"http\" ці \"https\"</string>
     <string name="card_setting_close_recommend">Атрымліваць рэкамендацыі</string>
     <string name="cast_video">Трансляваць відэа</string>
+    <string name="change_news_language">Змяніць мову навін?</string>
     <string name="channels_edit">Змяніць</string>
     <string name="channels_finish">Завяршыць</string>
     <string name="choosertitle_sharevia">Падзяліцца праз</string>
@@ -240,6 +242,7 @@
     <string name="document_open_other">Іншыя праграмы</string>
     <string name="document_open_title">Адчыніць з дапамогай</string>
     <string name="dont_remind_again">Запомніць выбар</string>
+    <string name="download_btn">Download</string>
     <string name="download_btn_select_all">Выбраць усё</string>
     <string name="download_btn_select_none">Зняць выбар</string>
     <string name="download_complete">Спампавана паспяхова</string>
@@ -330,6 +333,7 @@
     <string name="go_supermarket_title">Больш праграм, хутчэйшае злучэнне і меншае выкарыстанне трафіка ў краме</string>
     <string name="gold_medals">Залатыя медалі</string>
     <string name="google_bookmarks">Google</string>
+    <string name="hash_tag">\# %1$s</string>
     <string name="have_sent_bookmark_to_home_screen">Размешчана на працоўным стале</string>
     <string name="hint">Падказка</string>
     <string name="history">Гісторыя</string>
@@ -731,6 +735,8 @@
     <string name="mw_snippets_disabled_generic_prompt">Атрымлівайце персанальны кантэнт</string>
     <string name="mw_snippets_disabled_signed_out_instructions">Для атрымання персанальнага кантэнту, рэкамендаванага Google, ўвайдзіце ў Chrome.</string>
     <string name="mw_time_picker_dialog_am">Да паўдня</string>
+    <string name="mw_time_picker_dialog_hour_minute_separator">:</string>
+    <string name="mw_time_picker_dialog_minute_second_separator">:</string>
     <string name="mw_time_picker_dialog_pm">Пасля паўдня</string>
     <string name="mw_time_picker_dialog_second_subsecond_separator">.</string>
     <string name="mw_time_picker_dialog_title">Усталяваць час</string>
@@ -964,6 +970,7 @@
     <string name="remove_snapshot">Выдаліць захаваную старонку</string>
     <string name="removed_from_bookmarks">Выдалена з закладак</string>
     <string name="replace">Замяніць</string>
+    <string name="replay">Play again</string>
     <string name="reply_comment_title">Re: %s</string>
     <string name="resume_download">Пачаць</string>
     <string name="retry_after_network_available">Немагчыма злучыцца з сеткай</string>
@@ -1027,6 +1034,7 @@
     <string name="sendstartpage">Пачатковая старонка</string>
     <string name="share_image_text">Зірніце, чым я падзяліўся(-лася)! @MIUI</string>
     <string name="share_page_text">Зірніце, чым я падзяліўся(-лася): %1$s @MIUI| %2$s</string>
+    <string name="share_slide_video_text">Look what I shared: %1$s</string>
     <string name="share_video">Падзяліцца відэа</string>
     <string name="sign_in_to" formatted="false">Увайсці ў %s1 %s2\"</string>
     <string name="site_sort_des">"Перацягвайце аб'екты, каб змяніць іх парадак"</string>
@@ -1163,6 +1171,9 @@
     <string name="video_unknown_duration">Невядомая працягласць</string>
     <string name="view_certificate">Праглядзець сертыфікат</string>
     <string name="view_document_downloaded_files">Праглядзець файлы ў Спампоўках</string>
+    <string name="view_source">View source</string>
+    <string name="vmate_download_content">Enjoy all prank, comedy, music, dance videos</string>
+    <string name="vmate_download_title">India’s most Entertaining App</string>
     <string name="voice_check_network">Праверце налады сеткі і паспрабуйце зноў.</string>
     <string name="voice_connect_network">Не атрымалася злучыцца з сеткай.</string>
     <string name="voice_description">Галасавы пошук</string>

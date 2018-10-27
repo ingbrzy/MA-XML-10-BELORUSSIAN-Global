@@ -108,6 +108,8 @@
     <string name="card_title_utilities">Ўтыліты</string>
     <string name="check_network">Check network settings</string>
     <string name="check_network_retry">Праверце налады сеткі і паспрабуйце зноў</string>
+    <string name="clean_grabage">Ачыстка</string>
+    <string name="clean_now">Праверыць</string>
     <string name="cleanup_garbage">Ачышчальнік</string>
     <string name="cleanup_memory">Ачысціць кэш</string>
     <string name="cleanup_power">Глыбокая ачыстка</string>
@@ -129,6 +131,7 @@
     <string name="cta_negative">Закрыць</string>
     <string name="cta_positive">Падрабязнасці</string>
     <string name="cta_title">Ваш асабісты памочнік</string>
+    <string name="current_optimization_value">Пагрозы зніжаюць бяспеку вашай прылады</string>
     <string name="data_error">An error occurred, wait a minute or two and try again.</string>
     <string name="data_error_show">"The order is completed, can't view details."</string>
     <string name="donnot_ask">Больш не пытацца</string>
@@ -225,7 +228,11 @@
     <string name="ola_trip">Выклікаць таксі</string>
     <string name="ola_trip_content">Ацаніце кошт праезду і выклічце Ola</string>
     <string name="ola_trip_content_detail">Ацаніце прыблізны кошт праезду і выклічце Ola.</string>
+    <string name="optimizate_now">Аптымізаваць</string>
+    <string name="optimization">Ацэнка бяспекі</string>
     <string name="phone_check">Optimization</string>
+    <string name="phone_has_garbage">Непатрэбныя файлы могуць запаволіць вашу прыладу</string>
+    <string name="phone_has_virus">Шкоднаснае праграмнае забеспячэнне і вірусы пагражаюць бяспецы</string>
     <string name="place_label">Часта наведвальныя месцы</string>
     <string name="record_name">Запіс</string>
     <string name="record_parent">Дыктафон</string>
@@ -241,6 +248,7 @@
     <string name="search_card_view_date">EE d.M.y</string>
     <string name="search_tip">Пошук…</string>
     <string name="security">Бяспека</string>
+    <string name="security_brief">Абараніце прыладу і вызваліце памяць</string>
     <string name="service_unavailiable">Connect to the network and try again.</string>
     <string name="set_home_failed">Не атрымалася дадаць адрас, паспрабуйце яшчэ раз.</string>
     <string name="set_office_failed">Не атрымалася дадаць адрас, паспрабуйце яшчэ раз.</string>
@@ -353,6 +361,7 @@
     <string name="upgrade_now">Update</string>
     <string name="user_id">User ID: %s</string>
     <string name="utilities_apps_bref">Дасьледуйце сэрвісы трэціх бакоў тут</string>
+    <string name="virus_scan">Праверка на вірусы</string>
     <string name="walk">Пешшу</string>
     <string name="webull_title">Webull</string>
     <string name="which_transport">Як вы звычайна дабіраецеся да пункта прызначэння?</string>

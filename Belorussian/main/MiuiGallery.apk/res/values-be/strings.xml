@@ -274,6 +274,7 @@
     <string name="collage_poster_global_summer_flower_text">ЛЕТА</string>
     <string name="collage_poster_global_tea_text">ПЕРАПЫНАК НА ГАРБАТУ</string>
     <string name="collage_rotate">Паварот</string>
+    <string name="collage_select_image_range">Калажы могуць змяшчаць 1-4 фота</string>
     <string name="collage_title_layout">Макет</string>
     <string name="collage_title_poster">Плакат</string>
     <string name="collaps_people">Схаваць</string>
@@ -466,6 +467,7 @@
     <string name="face_name_edit">Змяніць</string>
     <string name="face_name_input">Увядзіце імя</string>
     <string name="face_recommend">Парады</string>
+    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="fail_hint">Не атрымалася завяршыць аперацыю</string>
     <string name="fail_to_pick_email">Няправільны Email</string>
     <string name="fail_to_sync_album">Не атрымалася сінхранізаваць альбом. Праверце параметры сеткі.</string>
@@ -476,6 +478,7 @@
     <string name="feature_guidance_photo_effects">"Даступныя
 новыя эфекты"</string>
     <string name="feature_guidance_video_editor_smart_effects">Даступныя новыя эфекты</string>
+    <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="filter_bi_memory">Памяць</string>
     <string name="filter_bi_mono">Мона</string>
     <string name="filter_bi_pink">Ружовы</string>
@@ -537,6 +540,7 @@
     <string name="finish_fill_baby">Стварыць</string>
     <string name="flash_off">Без успышкі</string>
     <string name="flash_on">З успышкай</string>
+    <string name="frame_not_support_image_ratio">Гэтыя суадносіны бакоў не падтрымліваюцца</string>
     <string name="free_view_desc">3D фота</string>
     <string name="gallery_setting">Галерэя</string>
     <string name="gallery_sync_disable_toast">Сінхранізацыя галерэі не ўключаная</string>
@@ -544,6 +548,7 @@
     <string name="gif_tip">GIF</string>
     <string name="gigabyteShort">ГБ</string>
     <string name="grant_permission_go_and_set">Усталяваць</string>
+    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_text">"Для звычайнай працы Галерэі патрэбны доступ да 
 %s
 , націсніце \"Наладзіць\", каб перайсці да дазволаў."</string>
@@ -709,6 +714,7 @@
     <string name="operation_in_process">Апрацоўка…</string>
     <string name="operation_move_to_other_albums">Перамясціць у іншыя альбомы</string>
     <string name="operation_not_show_in_photos_tab">Не паказваць у Фота</string>
+    <string name="operation_produce">Творчасць</string>
     <string name="operation_projection">Праекцыя</string>
     <string name="operation_remove_face">Выдаліць</string>
     <string name="operation_remove_from_face_album">Выдаліць з альбома</string>
@@ -741,6 +747,7 @@
     <string name="people_mark_mode_title_no_mark_name">Выберыце чалавека</string>
     <string name="people_page_label">Людзі</string>
     <string name="people_page_unname">Без імені</string>
+    <string name="percent_sign">%</string>
     <string name="pet_album_display_name">Фота жывёл</string>
     <string name="petabyteShort">ПБ</string>
     <string name="photo">Фота</string>
@@ -751,10 +758,12 @@
     <string name="photo_editor_beauty_compare">Арыгінал</string>
     <string name="photo_editor_crop_and_rotate">Абрэзаць</string>
     <string name="photo_editor_crop_auto">Аўта</string>
+    <string name="photo_editor_crop_auto_tips">Абрэзана аўтаматычна</string>
     <string name="photo_editor_crop_reset">Скід</string>
     <string name="photo_editor_crop_rotation_format">%d°</string>
     <string name="photo_editor_doodle">Замалёўка</string>
     <string name="photo_editor_filter">Фільтр</string>
+    <string name="photo_editor_frame">Рамка</string>
     <string name="photo_editor_label">Змяніць</string>
     <string name="photo_editor_long_crop">Абрэзаць</string>
     <string name="photo_editor_miui_beauty">Паляпшэнне</string>
@@ -809,6 +818,7 @@
     <string name="photo_editor_talkback_redo">Вярнуць</string>
     <string name="photo_editor_talkback_undo">Скасаваць</string>
     <string name="photo_editor_text">Тэкст</string>
+    <string name="photo_movie_select_image_range">Кліпы могуць змяшчаць 3-6 фота</string>
     <string name="photo_page_save_uri_image_fail">Не атрымалася захаваць у галерэі</string>
     <string name="photo_page_save_uri_image_ok">Фота захавана ў галерэі</string>
     <string name="photo_print_menu_loading">Спампоўка ўбудовы…</string>
@@ -998,6 +1008,9 @@
     <string name="search_title_recommend">Рэкамендацыі</string>
     <string name="search_title_suggestion">Прапановы</string>
     <string name="search_title_tag">"Аб'екты"</string>
+    <string name="search_transition_element_icon">search_icon</string>
+    <string name="search_transition_element_input">search_input</string>
+    <string name="search_transition_element_voice">search_voice</string>
     <string name="searching_cast_devices">Пошук праектара…</string>
     <string name="secret_album_card_description">Лепшае месца для вашых маленькіх сакрэтаў</string>
     <string name="secret_album_card_title">Паспрабуйце схаваныя альбомы</string>
@@ -1017,6 +1030,7 @@
     <string name="secret_reason_unknow_reasons">Невядомая памылка</string>
     <string name="secret_reason_video_not_support">Немагчыма дадаваць відэа ў прыватны альбом</string>
     <string name="see_ignore_faces">Прагледзець прапушчаныя фота</string>
+    <string name="select_image_operation">Дадаванне фота</string>
     <string name="select_item_face">"Гэта '%s'?"</string>
     <string name="select_origin_tip">Арыгінал (%s)</string>
     <string name="send_file_beautify_failed">Не атрымалася адправіць</string>
@@ -1157,6 +1171,7 @@
     <string name="unpublish_failed">Памылка закрыцця доступу</string>
     <string name="unpublish_succeeded">Агульны доступ да альбома закрыты</string>
     <string name="unpublishing">Скасаваць…</string>
+    <string name="unsupport_video">%s не працуе з відэа</string>
     <string name="user_agree">Згадзіцца</string>
     <string name="user_agreement2">Умовы выкарыстання</string>
     <string name="user_agreement4">Палітыка канфідэнцыяльнасці</string>
@@ -1274,6 +1289,7 @@
     <string name="view_face_album">Праглядзець альбом</string>
     <string name="view_more_face_desc">Паказаць больш людзей</string>
     <string name="voice_assistant">Галасавы ўвод</string>
+    <string name="welcome_to_auto_backup">@string/welcome_to_micloud</string>
     <string name="welcome_to_micloud">Сардэчна запрашаем у Мі Cloud</string>
     <string name="where_is_barcode">Дзе атрымаць QR-код?</string>
     <string name="who_is_this">Хто гэта?</string>
@@ -1281,10 +1297,7 @@
     <string name="yes">Так</string>
     <string name="yesterday">Учора</string>
     <string name="you_are">Для дзіцяці вы</string>
-    <string name="collage_select_image_range">Калажы могуць змяшчаць 1-4 фота</string>
-    <string name="operation_produce">Творчасць</string>
-    <string name="photo_editor_crop_auto_tips">Cropped automatically</string>
-    <string name="photo_movie_select_image_range">Кліпы могуць змяшчаць 3-6 фота</string>
+    <string name="operation_set_slide_wallpaper">Усталяваць як шпалеры слайд-шоў</string>
     <string name="refocus_discard_confirm_message">Захаваць змены?</string>
     <string name="refocus_discard_negative_btn">Адмяніць</string>
     <string name="refocus_discard_positive_btn">Захаваць</string>
@@ -1297,6 +1310,6 @@
     <string name="refocus_title">Размыццё</string>
     <string name="refocus_type_static">Ступень размыцця</string>
     <string name="refocus_type_video">Light trails</string>
-    <string name="select_image_operation">Дадаванне фота</string>
-    <string name="unsupport_video">%s не працуе з відэа</string>
+    <string name="set_as_slide_wallpaper_description">Гэта паменшаная мініяцюра, спампаваць арыгінал?</string>
+    <string name="set_as_slide_wallpaper_title">Усталяваць як шпалеры слайд-шоў</string>
 </resources>

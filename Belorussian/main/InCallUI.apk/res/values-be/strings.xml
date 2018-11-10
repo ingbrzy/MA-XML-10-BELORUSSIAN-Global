@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="inCallLabel">Інтэрфейс выклікаў</string>
+    <string name="inCallLabel">Тэлефон</string>
     <string name="unknown">Невядомы абанент</string>
     <string name="private_num">Прыватны нумар</string>
     <string name="payphone">Тэлефон-аўтамат</string>

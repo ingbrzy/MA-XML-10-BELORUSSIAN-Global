@@ -116,11 +116,11 @@
         <item quantity="few">"Доступ да сеткі абмежаваны для &lt;font color='#ff0000'>%d&lt;/font> праграм"</item>
         <item quantity="many">"Доступ да сеткі абмежаваны для &lt;font color='#ff0000'>%d&lt;/font> праграм"</item>
     </plurals>
-    <plurals name="om_ill_proc_multi_app_title">
-        <item quantity="other">%d праграмы разраджае батарэю</item>
-        <item quantity="one">%d праграма разраджае батарэю</item>
-        <item quantity="few">%d праграмы разраджаюць батарэю</item>
-        <item quantity="many">%d праграм разраджаюць батарэю</item>
+    <plurals name="om_locked_apps_title">
+        <item quantity="other">Замацавана %d праграм</item>
+        <item quantity="one">Замацавана %d праграма</item>
+        <item quantity="few">Замацавана %d праграмы</item>
+        <item quantity="many">Замацавана %d праграм</item>
     </plurals>
     <plurals name="power_center_battery_day">
         <item quantity="other">"%d дня "</item>
@@ -183,10 +183,10 @@
         <item quantity="many">Знойдзена %d праблем з батарэяй, вырашыце іх</item>
     </plurals>
     <plurals name="notification_battery_consume_abnormal_summary">
-        <item quantity="other">Drained %2$d%% of the battery during last %1$d minutes</item>
-        <item quantity="one">Drained %2$d%% of the battery during last %1$d minute</item>
-        <item quantity="few">Drained %2$d%% of the battery during last %1$d minutes</item>
-        <item quantity="many">Drained %2$d%% of the battery during last %1$d minutes</item>
+        <item quantity="other">Зарад батарэі знізіўся на %2$d%% за апошнія %1$d хвілін</item>
+        <item quantity="one">Зарад батарэі знізіўся на %2$d%% за апошнюю %1$d хвіліну</item>
+        <item quantity="few">Зарад батарэі знізіўся на %2$d%% за апошнія %1$d хвіліны</item>
+        <item quantity="many">Зарад батарэі знізіўся на %2$d%% за апошнія %1$d хвілін</item>
     </plurals>
     <plurals name="power_center_menu_text">
         <item quantity="other">"аб'ектаў"</item>

@@ -30,6 +30,7 @@
     <string name="passport_register">Стварыць акаўнт</string>
     <string name="passport_new_user_register">Стварыць акаўнт</string>
     <string name="passport_vcode_sms_send_prompt">Даслаць код пацвярджэння на %s</string>
+    <string name="passport_input_phone_password">Увядзіце пароль для нумара %s</string>
     <string name="passport_get_verify_code">Атрымаць код</string>
     <string name="passport_re_get_verify_code">Атрымаць код яшчэ раз</string>
     <string name="passport_getting_verify_code">Атрыманне</string>
@@ -59,6 +60,7 @@
     <string name="passport_forget_password_no_underline">Забылі пароль?</string>
     <string name="passport_reg_type_email">Адрас Email</string>
     <string name="passport_register_by_email"><u>Рэгістрацыя па email адрасе</u></string>
+    <string name="passport_international_register_by_email">Стварыць уліковы запіс з дапамогай эл. пошты</string>
     <string name="passport_account_not_actived">Ваш акаўнт не быў актываваны</string>
     <string name="passport_active_email_visit">Праверце вашу пошту %s</string>
     <string name="passport_click_email_to_valid">"
@@ -177,6 +179,7 @@
     <string name="passport_quick_register_notice"><u>Не маеце Мі акаўнта? Стварыце яго.</u></string>
     <string name="passport_password_phone_login">Увайсці праз Mi Акаўнт</string>
     <string name="passport_sms_verification_code_login">Увайсці з дапамогай SMS</string>
+    <string name="passport_sms_verification_code_login_or_register">Увайсці ці зарэгістравацца з дапамогай SMS</string>
     <string name="passport_login_other_account">Іншы акаўнт</string>
     <string name="passport_reg_new_account">Стварыць акаўнт</string>
     <string name="passport_select_the_login_account">Выберыце акаўнт для ўвахода</string>

@@ -98,7 +98,6 @@
     <string name="app_name">Галерэя</string>
     <string name="app_name_view_picture">Праглядзець фота</string>
     <string name="app_name_view_video">Праглядзець відэа</string>
-    <string name="apply">Прымяніць</string>
     <string name="associate_face_album">Выбраць альбом</string>
     <string name="auto_backup_introduce">Аўтазахаванне фота і відэа (патрабуецца Mi Акаўнт)</string>
     <string name="auto_download_media_title">Аўтаматычна пампаваць фота з Mi Cloud</string>
@@ -123,10 +122,6 @@
     <string name="baby_album_sharers_page_title">"Падзяліцца з сям'ёй"</string>
     <string name="baby_birthday">Дзень народзінаў</string>
     <string name="baby_face_desc">Дзіцячы альбом</string>
-    <string name="baby_lock_wallpaper">Шпалеры экрана блакавання</string>
-    <string name="baby_lock_wallpaper_cancelled">Адноўлены шпалеры экрана блакавання па змаўчанні</string>
-    <string name="baby_lock_wallpaper_save_settings_msg">Прымяніць бягучыя налады?</string>
-    <string name="baby_lock_wallpaper_title">Выкарыстоўваць дзіцячыя фота як шпалеры экрана блакавання</string>
     <string name="baby_name_cannot_empty">Увядзіце імя</string>
     <string name="baby_name_cannot_start_with">Імя не можа пачынацца з \"%s\"</string>
     <string name="baby_name_contain_invalidate_char">Імя не можа ўтрымліваць \"%s\"</string>
@@ -196,7 +191,6 @@
     <string name="byteShort">Б</string>
     <string name="camera_needs_auto_backup_tip">Павінна быць створана рэзервовая копія альбома камеры</string>
     <string name="cancel">Скасаваць</string>
-    <string name="cancel_baby_lock_wallpaper_confirm_msg">Аднавіць шпалеры экрана блакавання па змаўчанні?</string>
     <string name="cancel_download_btn_text">Спыніць</string>
     <string name="cancel_hint">Дзеянне скасавана</string>
     <string name="cannot_remove_creator">Немагчыма выдаліць адпраўніка</string>
@@ -347,6 +341,11 @@
     <string name="disable_auto_upload_tip">Выключыць сінхранізацыю з Mi Cloud для гэтага альбома?</string>
     <string name="disable_auto_upload_title">Адключыць сінхранізацыю з Mi Cloud</string>
     <string name="do_not_remind_me">Больш не паказваць</string>
+    <string name="document_provider_guide_step_1">1. Націсніце кнопку \"Яшчэ\".</string>
+    <string name="document_provider_guide_step_2">2. Націсніце \"Паказаць ўнутраную памяць\".</string>
+    <string name="document_provider_guide_step_3">3. Націсніце кнопку бакавога меню.</string>
+    <string name="document_provider_guide_step_4">4. Абярыце \"SD-карта\".</string>
+    <string name="document_provider_guide_step_5">5. Націсніце \"Выбраць\".</string>
     <string name="double_tap_to_higher_definition">Націсніце двойчы для прагляду ў HD</string>
     <string name="download_canceled">Спампоўка скасавана</string>
     <string name="download_error_format">Не атрымліваецца спампаваць %s</string>
@@ -450,6 +449,18 @@
     <string name="exit_video_play">Выйсці</string>
     <string name="expand_desc">Яшчэ</string>
     <string name="expand_people">Паказаць больш людзей</string>
+    <string name="ext_sdcard_first_entrance_request_failed_text">"Галерэя будзе захоўваць аб'екты ва ўнутраную памяць. Для змены перайдзіце ў Налады > Сховішча > Налады памяці."</string>
+    <string name="ext_sdcard_first_entrance_request_failed_title">Не атрымалася прадаставіць дазволы.</string>
+    <string name="ext_sdcard_guide_first_page_button_text">Далей</string>
+    <string name="ext_sdcard_guide_last_page_button_text">Прадаставіць дазволы</string>
+    <string name="ext_sdcard_guide_text">Галерэі патрабуецца дазвол на доступ да SD-карты. Вось што вы можаце зрабіць:</string>
+    <string name="ext_sdcard_operation_failed_text">Галерэі патрабуецца дазвол на доступ да SD-карты.</string>
+    <string name="ext_sdcard_operation_failed_title">Не атрымалася завяршыць аперацыю</string>
+    <string name="ext_sdcard_permission_request_button_text">Зразумела</string>
+    <string name="ext_sdcard_permission_request_reason">Галерэі патрабуецца дазвол на доступ да SD-карты. Гэта дазволіць вам выдаляць і рэдагаваць фота і відэа, якія захоўваюцца на SD-карце.</string>
+    <string name="ext_sdcard_permission_request_title">Дазвольце Галерэі доступ да SD-карты</string>
+    <string name="ext_sdcard_request_failed_button_text">OК</string>
+    <string name="ext_sdcard_request_succeed_toast_text">Усё гатова!</string>
     <string name="face_album_empty">"Недастаткова фота, каб распазнаць людзей.
 Рабіце больш фота вашых сяброў!"</string>
     <string name="face_album_empty_syncing">Сінхранізацыя дадзеных, вяртайцеся пазней</string>
@@ -467,6 +478,7 @@
     <string name="face_name_edit">Змяніць</string>
     <string name="face_name_input">Увядзіце імя</string>
     <string name="face_recommend">Парады</string>
+    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="fail_hint">Не атрымалася завяршыць аперацыю</string>
     <string name="fail_to_pick_email">Няправільны Email</string>
     <string name="fail_to_sync_album">Не атрымалася сінхранізаваць альбом. Праверце параметры сеткі.</string>
@@ -477,6 +489,7 @@
     <string name="feature_guidance_photo_effects">"Даступныя
 новыя эфекты"</string>
     <string name="feature_guidance_video_editor_smart_effects">Даступныя новыя эфекты</string>
+    <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="filter_bi_memory">Памяць</string>
     <string name="filter_bi_mono">Мона</string>
     <string name="filter_bi_pink">Ружовы</string>
@@ -546,6 +559,7 @@
     <string name="gif_tip">GIF</string>
     <string name="gigabyteShort">ГБ</string>
     <string name="grant_permission_go_and_set">Усталяваць</string>
+    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_text">"Для звычайнай працы Галерэі патрэбны доступ да 
 %s
 , націсніце \"Наладзіць\", каб перайсці да дазволаў."</string>
@@ -721,6 +735,7 @@
     <string name="operation_save">Захаваць</string>
     <string name="operation_send">Адправіць</string>
     <string name="operation_set_contact_photo">Усталяваць як фота кантакту</string>
+    <string name="operation_set_slide_wallpaper">Усталяваць як шпалеры слайд-шоў</string>
     <string name="operation_set_wallpaper">Усталяваць як шпалеры</string>
     <string name="operation_share">Падзяліцца</string>
     <string name="operation_show_in_photos_tab">Паказваць у Фота</string>
@@ -744,6 +759,7 @@
     <string name="people_mark_mode_title_no_mark_name">Выберыце чалавека</string>
     <string name="people_page_label">Людзі</string>
     <string name="people_page_unname">Без імені</string>
+    <string name="percent_sign">%</string>
     <string name="pet_album_display_name">Фота жывёл</string>
     <string name="petabyteShort">ПБ</string>
     <string name="photo">Фота</string>
@@ -867,6 +883,7 @@
     <string name="picker_image_will_download">%d з выбраных фота няма на прыладзе. Яны будуць спампаваны.</string>
     <string name="picker_no_network_message">Падключыцеся да інтэрнэту для спампоўкі</string>
     <string name="picker_origin_need_download">%1$d выбраных фота (%2$dМБ) не на прыладзе. Спампаваць праз мабільны інтэрнэт?</string>
+    <string name="picker_origin_request_progress_fail">Не атрымалася загрузіць зыходны малюнак з-за памылкі сеткі.</string>
     <string name="picker_origin_request_progress_message">Падрыхтоўка першапачатковых файлаў (%1$d/%2$d)…</string>
     <string name="picker_title_format">Выберыце ад %1$d да %2$d фота</string>
     <string name="picker_title_selection_format">Выбрана фота %d</string>
@@ -1004,6 +1021,9 @@
     <string name="search_title_recommend">Рэкамендацыі</string>
     <string name="search_title_suggestion">Прапановы</string>
     <string name="search_title_tag">"Аб'екты"</string>
+    <string name="search_transition_element_icon">search_icon</string>
+    <string name="search_transition_element_input">search_input</string>
+    <string name="search_transition_element_voice">search_voice</string>
     <string name="searching_cast_devices">Пошук праектара…</string>
     <string name="secret_album_card_description">Лепшае месца для вашых маленькіх сакрэтаў</string>
     <string name="secret_album_card_title">Паспрабуйце схаваныя альбомы</string>
@@ -1032,7 +1052,8 @@
     <string name="send_secret_file_failed">Не атрымалася адправіць</string>
     <string name="send_secret_file_space_low">Недастаткова вольнага месца</string>
     <string name="send_too_many_files_error">"За адзін раз можна адправіць %d аб'ектаў"</string>
-    <string name="set_as_baby_lock_wallpaper">Усталяваць як шпалеры экрана блакавання</string>
+    <string name="set_as_slide_wallpaper_description">Гэта паменшаная мініяцюра, спампаваць арыгінал?</string>
+    <string name="set_as_slide_wallpaper_title">Усталяваць як шпалеры слайд-шоў</string>
     <string name="set_as_wallpaper_description">Гэта паменшаная выява, спампаваць арыгінал?</string>
     <string name="set_as_wallpaper_title">Усталяваць як шпалеры</string>
     <string name="set_face_group_toast_msg_new_user">Утрымлівайце чалавека, каб ігнараваць яго ці сумясціць альбомы.</string>
@@ -1282,6 +1303,7 @@
     <string name="view_face_album">Праглядзець альбом</string>
     <string name="view_more_face_desc">Паказаць больш людзей</string>
     <string name="voice_assistant">Галасавы ўвод</string>
+    <string name="welcome_to_auto_backup">@string/welcome_to_micloud</string>
     <string name="welcome_to_micloud">Сардэчна запрашаем у Мі Cloud</string>
     <string name="where_is_barcode">Дзе атрымаць QR-код?</string>
     <string name="who_is_this">Хто гэта?</string>
@@ -1289,7 +1311,7 @@
     <string name="yes">Так</string>
     <string name="yesterday">Учора</string>
     <string name="you_are">Для дзіцяці вы</string>
-    <string name="operation_set_slide_wallpaper">Усталяваць як шпалеры слайд-шоў</string>
+    <string name="photo_editor_talkback_crop_screen">Поўнаэкранные суадносіны бакоў</string>
     <string name="refocus_discard_confirm_message">Захаваць змены?</string>
     <string name="refocus_discard_negative_btn">Адмяніць</string>
     <string name="refocus_discard_positive_btn">Захаваць</string>
@@ -1302,6 +1324,4 @@
     <string name="refocus_title">Размыццё</string>
     <string name="refocus_type_static">Ступень размыцця</string>
     <string name="refocus_type_video">Light trails</string>
-    <string name="set_as_slide_wallpaper_description">Гэта паменшаная мініяцюра, спампаваць арыгінал?</string>
-    <string name="set_as_slide_wallpaper_title">Усталяваць як шпалеры слайд-шоў</string>
 </resources>

@@ -135,6 +135,7 @@
     <string name="security_permission_open_wifi_settings">Налады Wi-Fi</string>
     <string name="xspace_resolver_activity_title">Выберыце праграму</string>
     <string name="user_switching_dialog_text">Пераключэнне…</string>
+    <string name="xspace_head">Кланаваная праграма</string>
     <string name="activity_package_delete_confirm_title">Увага</string>
     <string name="button_text_cancel">Скасаваць</string>
     <string name="button_text_delete">Выдаліць</string>

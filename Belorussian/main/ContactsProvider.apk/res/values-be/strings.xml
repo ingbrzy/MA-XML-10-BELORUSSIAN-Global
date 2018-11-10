@@ -26,7 +26,7 @@
     <string name="search_the_yellowpage">Пошук у даведніку</string>
     <string name="edit_contact">Дадаць да кантакту</string>
     <string name="call_log_provider_label">Гісторыя выклікаў</string>
-    <string name="third_party_delete_contact_info">Праграма \"%s\" спрабуе выдаліць кантакты. Гэта дзеянне не можа быць выканана іншым праграмай. Для гэтага выкарыстоўвайце стандартнае прыкладанне \"Кантакты\".</string>
+    <string name="third_party_delete_contact_info">Праграма \"%s\" спрабуе выдаліць кантакты. Гэта дзеянне не можа быць выканана пабочнай праграмай. Для гэтага выкарыстоўвайце стандартную праграму \"Кантакты\".</string>
     <string name="low_memory_toast">Недастаткова памяці для працягу.</string>
     <string name="update_accounts_changed">Акаўнты зменены</string>
     <string name="sim_state_changed">SIM-карта змененая</string>

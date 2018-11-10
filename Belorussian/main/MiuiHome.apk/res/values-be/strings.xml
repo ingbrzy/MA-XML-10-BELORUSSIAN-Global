@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="status_bar_notification_info_overflow">больш за 999</string>
     <string name="action_add_to_workspace">Дадаць да працоўнай прасторы</string>
     <string name="activity_not_found">Праграма не знойдзеная</string>
     <string name="add_screen">Дадаць экран</string>
@@ -279,7 +280,6 @@
     <string name="recommend_apps_switch_title">Рэкамендаваныя праграмы</string>
     <string name="recommend_apps_tips">Для гэтай функцыі неабходна злучэнне з інтэрнэтам. Каб адключыць гэту функцыю, націсніце на назву папкі.</string>
     <string name="recommend_loading">Загрузка</string>
-    <string name="refresh">Абнавіць</string>
     <string name="reset_description_first_time">Вы можаце аднавіць макет з %1$s на працягу 2 гадзін</string>
     <string name="reset_description_others">Вы можаце аднавіць макет з %1$s</string>
     <string name="reset_fail">Не атрымалася аднавіць</string>
@@ -344,4 +344,10 @@
     <string name="widget_gadget_player">Музыка</string>
     <string name="widget_global_search">Пошук</string>
     <string name="widget_quick_function">Хуткі доступ</string>
+    <string name="announce_for_app_move_in_folder">Moved to position %1$d in the folder</string>
+    <string name="announce_for_create_folder_with_app">Created a folder with %1$s</string>
+    <string name="announce_for_widget_span">Width %1$d, height %2$d</string>
+    <string name="recommend_apps_no_data_toast">No recommendations for now.</string>
+    <string name="recommend_refresh">Refresh</string>
+    <string name="recommend_xout">"Don't show"</string>
 </resources>

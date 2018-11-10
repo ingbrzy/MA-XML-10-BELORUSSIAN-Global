@@ -67,10 +67,11 @@
     <string name="xspace_label">Кланаванне праграм</string>
     <string name="xspace_setting_label">Налады кланавання</string>
     <string name="xspace_account">Акаўнты праграм-клонаў</string>
+    <string name="xspace_remove">Выдаліць акаўнты-клоны прыкладанняў</string>
     <string name="declare_dialog_title">Пра кланаванне праграм</string>
     <string name="menu_item_about_privacy_title">Палітыка канфідэнцыяльнасці</string>
     <string name="stop_xspace_alert_title">Выдаленне акаўнтаў клонаў</string>
-    <string name="stop_xspace_alert_content">Вы выдалілі ўсе клоны праграм. Выдаліць акаўнты клонаў і дадзеныя праграм? Пасля гэтага вам давядзецца кланаваць праграмы зноў.</string>
+    <string name="stop_xspace_alert_content">Усе клоны прыкладанняў і іх дадзеныя будуць выдалены назаўсёды. Для прымянення змяненняў спатрэбіцца перазагрузка прылады. Выдаліць акаўнты зараз?</string>
     <string name="xspace_loading_msg">Загрузка праграм…</string>
     <string name="xspace_header">Кланаванне праграм</string>
     <string name="xspace_introduce">Рэкамендавана</string>

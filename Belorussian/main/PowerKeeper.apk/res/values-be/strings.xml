@@ -95,4 +95,7 @@
     <string name="message_i_know">Зразумела</string>
     <string name="high_temp_state">Высокая тэмпература</string>
     <string name="high_temp_state_message">Спрацавала абарона ад высокай тэмпературы. Выкарыстанне Інтэрнэту, кропкі доступу, GPS, камеры і г.д. будзе абмежавана</string>
+    <string name="atrace_start">Стварэнне журнала atrace…</string>
+    <string name="atrace_saving">Захаванне журнала atrace…</string>
+    <string name="atrace_saved">Захавана паспяхова</string>
 </resources>

@@ -42,6 +42,18 @@
         <item quantity="few">Няправільны PUK-код, засталося %d спробы</item>
         <item quantity="many">Няправільны PUK-код, засталося %d спробы</item>
     </plurals>
+    <plurals name="input_password_after_timeout_msg">
+        <item quantity="other">Пасля %d гадзін бяздзейнасці неабходна ўвесці пароль</item>
+        <item quantity="one">Пасля %d гадзіны бяздзейнасці неабходна ўвесці пароль</item>
+        <item quantity="few">Пасля %d гадзін бяздзейнасці неабходна ўвесці пароль</item>
+        <item quantity="many">Пасля %d гадзін бяздзейнасці неабходна ўвесці пароль</item>
+    </plurals>
+    <plurals name="input_pattern_after_timeout_msg">
+        <item quantity="other">Пасля %d гадзіны бяздзейнасці неабходна ўвесці графічны ключ</item>
+        <item quantity="one">Пасля %d гадзіны бяздзейнасці неабходна ўвесці графічны ключ</item>
+        <item quantity="few">Пасля %d гадзіны бяздзейнасці неабходна ўвесці графічны ключ</item>
+        <item quantity="many">Пасля %d гадзіны бяздзейнасці неабходна ўвесці графічны ключ</item>
+    </plurals>
     <plurals name="keyguard_charging_info_could_use_hour_time_text">
         <item quantity="other">Засталося %d гадзін</item>
         <item quantity="one">Засталася %d гадзіна</item>

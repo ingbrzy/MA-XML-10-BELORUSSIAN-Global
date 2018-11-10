@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="status_bar_notification_info_overflow">больш за 999</string>
     <string name="action_add_to_workspace">Дадаць да працоўнай прасторы</string>
     <string name="activity_not_found">Праграма не знойдзеная</string>
     <string name="add_screen">Дадаць экран</string>

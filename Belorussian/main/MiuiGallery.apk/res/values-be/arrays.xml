@@ -4,11 +4,6 @@
         <item>Хлопчык</item>
         <item>Дзяўчынка</item>
     </string-array>
-    <string-array name="menu_copy_or_move">
-        <item>Перамясціць</item>
-        <item>Капіраваць</item>
-        <item>@string/cancel</item>
-    </string-array>
     <string-array name="owner_relation">
         <item>Бацька</item>
         <item>Маці</item>

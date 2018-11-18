@@ -51,14 +51,12 @@
     <string name="onscreen_note_calls_text">Нататка</string>
     <string name="call_record_wait_label">Чаканне</string>
     <string name="contacts_icon_label">Кантакты</string>
-    <string name="conference_call_number">%s чалавек</string>
     <string name="conference_call_description" formatted="false">%s, %s і інш. агулам %s</string>
     <string name="conference_call_single_description" formatted="false">%s і інш. агулам %s</string>
     <string name="separate_from_conference">Раздзяліць выклік</string>
     <string name="caller_manage_header">Канферэнц-выклік %s</string>
     <string name="incall_call_type_label_sip">Інтэрнэт-выклік</string>
     <string name="incoming_call_forwarded_title">Перанакіраванне выклікаў</string>
-    <string name="call_title_redialing_with_times">Паўторных выклікаў: %d</string>
     <string name="card_title_dialing">Набор</string>
     <string name="card_title_conf_call">Канферэнц-выклік</string>
     <string name="card_title_video_conf_call">Відэаканферэнц-выклік</string>
@@ -146,7 +144,6 @@
     <string name="call_recording_deny_permission_msg">Вы не далі дазволу на запіс, запіс немагчымы.</string>
     <string name="call_contacts_deny_permission_msg">Вы не далі дазволу на доступ да кантактаў, немагчыма паказаць інфармацыю.</string>
     <string name="conference_call_recorder_title">Канферэнц-выклік</string>
-    <string name="antispam_marked_count">Паведаміла %1$d карыстальнікаў MIUI</string>
     <string name="antispam_local_marked">Адзначана лакальна</string>
     <string name="antispam_provider">Вызначана %s</string>
     <string name="antispam_notification_title">Невядомы нумар</string>

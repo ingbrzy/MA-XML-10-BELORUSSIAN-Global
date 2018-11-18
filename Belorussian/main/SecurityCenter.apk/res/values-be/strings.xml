@@ -19,7 +19,9 @@
     <string name="exo_download_notification_channel_name">Спампоўкі</string>
     <string name="exo_download_removing">Выдаленне спамповак</string>
     <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Мбіт/с</string>
     <string name="exo_track_mono">Мона</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">Аўтаматычна</string>
     <string name="exo_track_selection_none">Няма</string>
     <string name="exo_track_selection_title_audio">Аўдыя</string>
@@ -345,7 +347,7 @@
     <string name="cta_dialog_title">Інтэрнэт злучэнне</string>
     <string name="cta_dialog_msg">Праграме Бяспека для звычайнай працы патрабуецца злучэнне з сеткай інтэрнэт, каб атрымліваць абнаўленні, а таксама доступ да месцазнаходжання.</string>
     <string name="cta_settings">Дазволіць доступ да інтэрнэту</string>
-    <string name="gdpr_msg">" "<Data> Для таго, каб выкарыстоўваць асноўныя функцыі Бяспекі, вы павінны пагадзіцца, што Xiaomi будзе збіраць, апрацоўваць і выкарыстоўваць вашы асабістыя дадзеныя, уключаючы інфармацыю пра спосабы выкарыстання функцый Бяспекі (напрыклад, статыстыка мабільнага трафіку, інфармацыя аб шкоднасных праграмах, а таксама асноўная інфармацыя пра прыладу), і іншыя тыпы інфармацыі, каторыя вызначае наша &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Палітыка канфідэнцыяльнасці&lt;/a>. </Data>" "</string>
+    <string name="gdpr_msg"><Data>Для таго, каб выкарыстоўваць асноўныя функцыі Бяспекі, вы павінны пагадзіцца, што Xiaomi будзе збіраць, апрацоўваць і выкарыстоўваць вашы асабістыя дадзеныя, уключаючы інфармацыю пра спосабы выкарыстання функцый Бяспекі (напрыклад, статыстыка мабільнага трафіку, інфармацыя аб шкоднасных праграмах, а таксама асноўная інфармацыя пра прыладу), і іншыя тыпы інфармацыі, каторыя вызначае наша &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Палітыка канфідэнцыяльнасці&lt;/a>.</Data></string>
     <string name="app_name_na">Выкарыстанне дадзеных</string>
     <string name="list_empty_text">Нічога няма</string>
     <string name="dialog_title_attention">Увага</string>
@@ -357,6 +359,7 @@
     <string name="byteShort">Б</string>
     <string name="yuan">CNY</string>
     <string name="percent_text_formatted">%s%%</string>
+    <string name="main_traffic_detail">Выкарыстанне дадзеных</string>
     <string name="main_toolbar_firewall">Эканомія трафіка</string>
     <string name="main_toolbar_statistic">Статыстыка трафіка</string>
     <string name="main_toolbar_purchase">Папаўненне рахунку</string>
@@ -393,7 +396,7 @@
     <string name="main_tc_over">Каліброўка завершаная</string>
     <string name="main_purchase_tips">Рэклама</string>
     <string name="main_month_total_used">Выкарыстана за месяц</string>
-    <string name="main_daily_package">Сутачны ліміт</string>
+    <string name="main_daily_package">Сутачны тарыфны план</string>
     <string name="main_indicator_title">Актывацыя</string>
     <string name="main_tobe_added_desc">Мабільны трафік ад ¥0.03/МБ</string>
     <string name="main_button_mi_sim_close">Актываваць Mi SIM</string>
@@ -406,6 +409,9 @@
     <string name="tc_parse_error">Не атрымалася разабраць SMS</string>
     <string name="tc_get_cmd_error">Немагчыма атрымаць шаблон</string>
     <string name="tc_web_correct_error">Памылка каліброўкі</string>
+    <string name="main_daily_card_guide_dialog_title">Выберыце тып тарыфнага плана</string>
+    <string name="main_daily_card_guide_dialog_summary">Вы можаце выбіраць паміж сутачным, месячным і безлімітным тарыфнымі планамі. Выбраць тып тарыфнага плана цяпер?</string>
+    <string name="main_daily_card_guide_dialog_ok">Задаць</string>
     <string name="firewall_activity_lable">Абмежаванне выкарыстання трафіка праграмамі</string>
     <string name="firewall_applist">Праграмы</string>
     <string name="firewall_mobile">Мабільны інтэрнэт</string>
@@ -453,8 +459,10 @@
     <string name="background_traffic">Фонавы рэжым: %s</string>
     <string name="detail_app_button">Звесткі пра праграму</string>
     <string name="managed_user_title">Усе праграмы для працы</string>
+    <string name="not_limited_brand">Неабмежаваны</string>
     <string name="pref_about_traffic_title">Налады трафіка</string>
     <string name="pref_traffic_manage_title">Кантроль трафіка</string>
+    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_package_traffic_settings">Тарыфны план</string>
     <string name="pref_adjust_traffic_data">Задаць трафік</string>
     <string name="pref_category_title_other">Дадатковыя налады</string>
@@ -490,12 +498,19 @@
     <string name="adjust_traffic_carrier_summary_more_onemonth_before">Абноўлена больш за месяц таму</string>
     <string name="left_precent">60%</string>
     <string name="right_precent">100%</string>
+    <string name="pref_category_package_type_title">Тып тарыфнага плана</string>
+    <string name="pref_title_traffic_package_type">Тып тарыфнага плана</string>
+    <string name="pref_traffic_package_type_summary">Месячны/сутачны/неабмежаваны</string>
+    <string name="pref_traffic_daily_package">Сутачны тарыфны план</string>
+    <string name="pref_traffic_monthly_package">Месячны тарыфны план</string>
+    <string name="pref_traffic_unlimited_package">Неабмежаваны тарыфны план</string>
+    <string name="pref_traffic_daily_package_brand">Пастаўшчык сутачнага тарыфнага плану</string>
     <string name="pref_avaible_traffic">Месяцовы ліміт</string>
     <string name="pref_daily_traffic">Ліміт трафіка</string>
     <string name="pref_special_package_setting">Уласны тарыфны план</string>
     <string name="pref_data_usage_not_set">Невядомы тарыф</string>
     <string name="pref_operator_not_set">Аператар не ўсталяваны</string>
-    <string name="pref_special_package_setting_summary">Кіраванне бясплатным трафікам, пакетамі папаўнення, штодзённымі лімітамі і мэтавым трафікам</string>
+    <string name="pref_special_package_setting_summary">Кіраванне бясплатным трафікам, пакетамі папаўнення і мэтавым трафікам</string>
     <string name="pref_warning_values">Парог папярэджання</string>
     <string name="pref_pkg_begin_date">Дата пачатку ўліку</string>
     <string name="pref_more_settings">Дадатковыя налады</string>
@@ -508,6 +523,8 @@
     <string name="daily_pkg_traffic">Ліміт трафіка</string>
     <string name="input_aviable_traffic">Задаць ліміт трафіка</string>
     <string name="pkg_traffic">Задаць ліміт трафіка</string>
+    <string name="dialog_change_package_type_title">Змяніць тып тарыфнага плана</string>
+    <string name="dialog_change_package_type_summary">Змена тыпу тарыфнага плана прывядзе да скіду ўсіх налад перадачы дадзеных (напрыклад, лімітаў трафіку) да іх значэнняў па змаўчанні. Змяніць тып тарыфнага плану?</string>
     <string name="free_traffic_settings">Налады бясплатнага трафіка</string>
     <string name="free_time_traffic">Ліміт бясплатнага трафіка</string>
     <string name="power_save_on_time_start_time_summary_na">З</string>
@@ -529,9 +546,9 @@
     <string name="pref_key_half_year_package_switch">Паўгадавы пакет</string>
     <string name="pref_key_half_year_package_value">Памер пакета</string>
     <string name="pref_key_half_year_package_start">Пачатковая дата</string>
-    <string name="pref_category_daily_package_tile">Сутачны ліміт</string>
-    <string name="pref_key_daily_package_switch">Сутачны ліміт</string>
-    <string name="pref_key_daily_package_value">Сутачны ліміт</string>
+    <string name="pref_category_daily_package_tile">Сутачны тарыфны план</string>
+    <string name="pref_key_daily_package_switch">Сутачны тарыфны план</string>
+    <string name="pref_key_daily_package_value">Сутачны тарыфны план</string>
     <string name="pref_key_direction_traffic">Мэтавы трафік</string>
     <string name="pref_key_daily_package_summary">Уключыце, каб скінуць штодзённы тарыфны план</string>
     <string name="traffic_setting_fragment_title">Налады запытаў трафіка</string>
@@ -549,6 +566,21 @@
     <string name="traffic_setting_fragment_send_num_tips">Увядзіце нумар тэлефона</string>
     <string name="traffic_setting_fragment_sms_content_tips">Напішыце ваша паведамленне тут</string>
     <string name="traffic_setting_fragment_loacation_alert_nomore">Не паказваць зноў</string>
+    <string name="traffic_setting_fragment_packege_type">Налады тарыфнага плану</string>
+    <string name="traffic_setting_fragment_month_title">Месячны тарыфны план</string>
+    <string name="traffic_setting_fragment_month_summary">"Аб/'ём мабільных дадзеных і лік хвілін абнаўляюцца штомесяц"</string>
+    <string name="traffic_setting_fragment_daily_title">Сутачны тарыфны план</string>
+    <string name="traffic_setting_fragment_daily_summary">"Аб/'ём мабільных дадзеных абнаўляецца штодня"</string>
+    <string name="traffic_setting_fragment_not_limited_title">Неабмежаваны тарыфны план</string>
+    <string name="traffic_setting_fragment_not_limited_summary">Неабмежаваныя варыянты мабільнага інтэрнэту</string>
+    <string name="traffic_setting_fragment_next">Далей</string>
+    <string name="daily_card_setting_fragment_daily_card_setting">Налады сутачнага тарыфнага плана дадзеных</string>
+    <string name="daily_card_setting_fragment_daily_card_brand">Аператар</string>
+    <string name="daily_card_setting_fragment_daily_card_brand_value">Выбраць аператара</string>
+    <string name="daily_card_setting_fragment_daily_card_summary">MIUI ўсталюе ліміты трафіку ў адпаведнасці з абраным аператарам. Калі ваш аператар адсутнічае ў спісе, абярыце \"Іншы\" і наладзьце сутачны тарыфны план дадзеных ўручную.</string>
+    <string name="daily_card_setting_fragment_daily_package">Дзённы ліміт трафіка</string>
+    <string name="daily_card_setting_fragment_month_package">Месячны пакет дадзеных</string>
+    <string name="daily_card_setting_fragment_package_summary">Калі ваш сутачны тарыфны план дадзеных уключае ў сябе месячны пакет дадзеных, ён будзе выкарыстаны да сутачнага пакета.</string>
     <string name="data_usage_warning_body">Націсніце для прагляду.</string>
     <string name="data_usage_mobile_limit_title">Дасягнуты ліміт мабільнага трафіка</string>
     <string name="data_usage_limit_body">Націсніце, каб уключыць мабільны інтэрнэт.</string>
@@ -895,20 +927,10 @@ Rolled over extra data"</string>
     <string name="status_bar_network_flow_purchase">"   Набыць >"</string>
     <string name="status_bar_network_flow_setup_data_plan">"   Наладзіць тарыф >"</string>
     <string name="status_bar_network_flow_phone_balance">"   Баланс:%1$s "</string>
-    <string name="status_bar_network_flow_exceed_content">"Сёння: %1$s
-        &amp;nbsp;&amp;nbsp;&amp;nbsp;Перавышэнне:&lt;font color=%2$s>%3$s&lt;/font>
-        "</string>
-    <string name="status_bar_network_flow_content">"Сёння: %1$s
-        &amp;nbsp;&amp;nbsp;&amp;nbsp;
-        Засталося: %2$s"</string>
-    <string name="status_bar_network_flow_content_not_setting">"Сёння: %1$s
-        &amp;nbsp;&amp;nbsp;&amp;nbsp;
-        За месяц: %2$s"</string>
-    <string name="status_bar_network_flow_content_virtual_card">"%1$s
-        &amp;nbsp;&amp;nbsp;&amp;nbsp;
-        %2$s
-        &amp;nbsp;&amp;nbsp;&amp;nbsp;
-        "</string>
+    <string name="status_bar_network_flow_exceed_content">Сёння: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Перавышэнне:&lt;font color=%2$s>%3$s&lt;/font></string>
+    <string name="status_bar_network_flow_content">Сёння: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Засталося: %2$s</string>
+    <string name="status_bar_network_flow_content_not_setting">Сёння: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;За месяц: %2$s</string>
+    <string name="status_bar_network_flow_content_virtual_card">%1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;%2$s&amp;nbsp;&amp;nbsp;&amp;nbsp;</string>
     <string name="pref_key_tethering_setting">Аднаразовы ліміт трафіка</string>
     <string name="pref_key_tethering_title">Аднаразовы ліміт трафіка</string>
     <string name="tether_limit_value_custom">Уласны</string>
@@ -942,6 +964,7 @@ Rolled over extra data"</string>
     <string name="om_settings_memory_occupy_notify_never">Не апавяшчаць</string>
     <string name="om_lock_app_locked_app">Замацаваныя</string>
     <string name="om_lock_app_unlocked_app">Не замацаваныя</string>
+    <string name="om_memory_clean_memory_info_text">%1$s / %2$s</string>
     <string name="om_not_finish_speedboost">Патрабуецца паскарэнне</string>
     <string name="om_running_locked_apps">Запушчаныя (замацаваныя)</string>
     <string name="om_running_system_apps">Запушчаныя (сістэмныя)</string>
@@ -991,6 +1014,7 @@ Rolled over extra data"</string>
     <string name="usage_type_data_send">Мабільныя дадзеныя адпраўлены</string>
     <string name="usage_type_no_coverage">Час адсутнасці сігналу</string>
     <string name="usage_type_gps">GPS</string>
+    <string name="process_kernel_label">Android</string>
     <string name="process_mediaserver_label">Медыя-сервер</string>
     <string name="power_screen">Экран</string>
     <string name="power_wifi">Wi-Fi</string>
@@ -1207,12 +1231,17 @@ Rolled over extra data"</string>
     <string name="power_center_list_item_auto_brightness">Рэгулюйце яркасць аўтаматычна</string>
     <string name="power_center_list_item_deep_save_title">Пашыраныя налады</string>
     <string name="power_center_list_item_battery_status_time">г</string>
+    <string name="power_center_list_item_battery_status_temperature">℃</string>
+    <string name="power_center_list_item_battery_status_capacity">мАг</string>
     <string name="power_center_stop_scan_title">Спыніць сканаванне</string>
     <string name="hide_mode_result_summary_text">Параметры энергасберажэння для асобных праграм</string>
     <string name="auto_task_result_summary_text">Наладзьце аўтаматычныя задачы для рэжыму энергасберажэння</string>
     <string name="pc_settings_title">Налады батарэі</string>
     <string name="pc_main_activity_back">Назад</string>
     <string name="extreme_power_save_mode_card_summary">Карыстуйцеся Максімальным энергазберажэннем, калі батарэя амаль разраджана.</string>
+    <string name="power_center_list_item_battery_health_model_voltage">%s В</string>
+    <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
+    <string name="power_center_list_item_battery_health_model_volume">%s мАг</string>
     <string name="handle_bar_title_system">Сістэма</string>
     <string name="apps_list_header_title_sms">Праверце прыладу Паведамленні</string>
     <string name="apps_list_header_title_sms_access">Абмежаваць доступ да кодаў верыфікацыі</string>
@@ -1366,11 +1395,13 @@ Rolled over extra data"</string>
     <string name="menu_text_optimize_manage">Паскарэнне</string>
     <string name="menu_text_networkassistants">Трафік</string>
     <string name="menu_summary_networkassistants">Кіруйце сваім тарыфам</string>
+    <string name="menu_text_networkassistants_2">%s</string>
     <string name="menu_summary_networkassistants_2">Перавышаны ліміт трафіка</string>
     <string name="menu_summary_networkassistants_3">Трафіка дастаткова</string>
     <string name="menu_summary_networkassistants_4">Трафік заканчваецца</string>
     <string name="menu_text_networkassistants_remain">%s засталося</string>
     <string name="menu_text_networkassistants_danger">перавышана на %s</string>
+    <string name="menu_text_networkassistants_data">%1$s %2$s</string>
     <string name="menu_text_networkassistants_unit_gb">ГБ</string>
     <string name="menu_text_networkassistants_unit_mb">МБ</string>
     <string name="menu_text_networkassistants_unit_kb">КБ</string>
@@ -1383,12 +1414,14 @@ Rolled over extra data"</string>
     <string name="menu_summary_garbage_cleanup">Няма смецця</string>
     <string name="menu_summary_garbage_cleanup_2">Памер смецця</string>
     <string name="menu_summary_garbage_cleanup_3">Ачысціць смецце</string>
+    <string name="menu_text_garbage_cleanup_danger">%s</string>
     <string name="menu_text_power_manager">Выкарыстанне батарэі</string>
     <string name="menu_summary_power_manager">Энергазберажэнне павялічвае час паміж зарадкамі</string>
     <string name="menu_summary_power_manager_1">Батарэя зараджана</string>
     <string name="menu_summary_power_manager_2">Засталося %s</string>
     <string name="menu_summary_power_manager_3">Батарэя разраджана</string>
     <string name="menu_summary_power_manager_4">Да поўнага зараду %s</string>
+    <string name="menu_text_power_percent_title">%s</string>
     <string name="last_check_canceled">Папярэдняя праверка была скасавана</string>
     <string name="examination_score_100">Усё добра!</string>
     <string name="examination_score_80_100">Некалькі рэчаў можна аптымізаваць</string>
@@ -1764,6 +1797,7 @@ Rolled over extra data"</string>
     <string name="card_main_deepclean_wechat_action">Ачысціць</string>
     <string name="card_main_sectool_title">Інструменты</string>
     <string name="card_main_monthreport_action">Прагледзець</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_netcheck_title">Дыягностыка сеткі</string>
     <string name="card_main_netcheck_summary">Пратэстуйце сетку на наяўнасць праблем</string>
     <string name="card_main_netcheck_action">Тэст</string>
@@ -2080,14 +2114,14 @@ Rolled over extra data"</string>
     <string name="app_manager_clear_cache">Ачысціць кэш</string>
     <string name="app_manager_reset_app_preferences">Скінуць налады праграм</string>
     <string name="app_manager_reset_app_preferences_title">Скінуць налады праграм?</string>
-    <string name="app_manager_reset_app_preferences_desc">"Будуць скінуты наступныя налады:
+    <string name="app_manager_reset_app_preferences_desc">"Будуць скінутыя наступныя налады:
 
- "<li>адключаныя праграмы</li>"
- "<li>адключаныя апавяшчэнні</li>"
- "<li>праграмы па змаўчанні</li>"
- "<li>абмежаванне фонавага трафіка</li>"
+"<li>адключаныя праграмы</li>"
+"<li>адключаныя апавяшчэння</li>"
+"<li>праграмы па змаўчанні</li>"
+"<li>абмежаванні фонавага трафіку</li>"
 
- Дадзеныя праграм выдаляцца не будуць."</string>
+дадзеныя праграм выдалены не будуць."</string>
     <string name="app_manager_reset_app_preferences_button">Скінуць</string>
     <string name="app_manager_disable_text">Адключыць</string>
     <string name="app_manager_enable_text">Уключыць</string>
@@ -2317,6 +2351,7 @@ Rolled over extra data"</string>
     <string name="gb_create_icon_summary">Стварыць ярлык на галоўным экране</string>
     <string name="title_reply">Водгук</string>
     <string name="title_like">Падабаецца</string>
+    <string name="ellipsis">…</string>
     <string name="game_video_net_data">Мабільны інтэрнэт</string>
     <string name="game_wid_viewpoint_buttom">Зрабіце кароткі перапынак.</string>
     <string name="video_repeat">Паўтарыць</string>

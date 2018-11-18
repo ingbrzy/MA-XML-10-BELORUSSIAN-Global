@@ -57,6 +57,7 @@
     <string name="save_pic_success">Выява захавана ў %s</string>
     <string name="save_pic_fail">Не атрымалася захаваць выяву, праверце SD-карту</string>
     <string name="pic_not_exist">Гэта выява не існуе</string>
+    <string name="pic_view_format">%1$s\"/\"%2$s</string>
     <string name="michat_skillset_product_title">Выберыце прадукт</string>
     <string name="michat_skillset_business_type_title">Выберыце сэрвіс</string>
     <string name="michat_close_text">Чат завершаны</string>
@@ -161,8 +162,8 @@
     <string name="cta_cancel">Скасаваць</string>
     <string name="cta_confirm">ОК</string>
     <string name="submit_dialog_title">Адпраўка справаздачы</string>
-    <string name="submit_dialog_content">" "<Data> Ваша справаздача разам з укладаннямі і журналамі будзе адпраўлена на серверы MIUI. Яна можа ўтрымліваць асабістую інфармацыю і зьвесткі пра месца. Націскаючы \"Згодзен\" азначае, што вы прачыталі і прымаеце нашу &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Палітыку канфідэнцыяльнасці&lt;/a> і &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Умовы выкарыстання&lt;/a>. </Data>" "</string>
-    <string name="submit_dialog_content_global">" "<Data>" Ваша справаздача разам з укладаннямі (калі ёсць) і журналамі (вы можаце зняць сцяжкі з адпаведных палёў для аб'ектаў, якія вы не хочаце адпраўляць) будзе адпраўлены на серверы MIUI і ў закрыты раздзел форуму MIUI для распрацоўшчыкаў. Інфармацыя аб вашых тэмах і актыўнасці на форуме таксама будзе сабраная для аналізу і далейшых зносін. Журналы могуць утрымліваць асабістую інфармацыю і зьвесткі пра месца. Націскаючы \"Згодзен \" азначае, што вы прачыталі і прымаеце нашу &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Палітыку канфідэнцыяльнасці &lt;/a> і &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Умовы выкарыстання&lt;/a>. "</Data>" "</string>
+    <string name="submit_dialog_content"><Data>Ваша справаздача разам з укладаннямі і журналамі будзе адпраўлена на серверы MIUI. Яна можа ўтрымліваць асабістую інфармацыю і зьвесткі пра месца. Націскаючы \"Згодзен\" азначае, што вы прачыталі і прымаеце нашу &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Палітыку канфідэнцыяльнасці&lt;/a> і &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Умовы выкарыстання&lt;/a>.</Data></string>
+    <string name="submit_dialog_content_global"><Data>"Ваша справаздача разам з укладаннямі (калі ёсць) і журналамі (вы можаце зняць сцяжкі з адпаведных палёў для аб'ектаў, якія вы не хочаце адпраўляць) будзе адпраўлены на серверы MIUI і ў закрыты раздзел форуму MIUI для распрацоўшчыкаў. Інфармацыя аб вашых тэмах і актыўнасці на форуме таксама будзе сабраная для аналізу і далейшых зносін. Журналы могуць утрымліваць асабістую інфармацыю і зьвесткі пра месца. Націскаючы \"Згодзен \" азначае, што вы прачыталі і прымаеце нашу &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Палітыку канфідэнцыяльнасці &lt;/a> і &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Умовы выкарыстання&lt;/a>."</Data></string>
     <string name="submit_dialog_cancel">Не згаджацца</string>
     <string name="submit_dialog_confirm">Згадзіцца</string>
     <string name="tab_title_preferences">Налады</string>
@@ -180,7 +181,7 @@
     <string name="modem_tool_log_finish_title">Справаздача мадэма створана</string>
     <string name="modem_tool_log_finish_desc">Справаздача захавана як %s</string>
     <string name="bugreport_dialog_not_show_again">Больш не паказваць</string>
-    <string name="bugreport_dialog_submit_content">" "<Data> Журналы праграмнага забеспячэння захоўваюцца на гэтай прыладзе. Яны могуць утрымліваць асабістую інфармацыю і зьвесткі пра месца. Ня дзяліцеся журналамі ні з кім, калі не хочаце раскрыцця гэтай інфармацыі. Націскаючы \"Згодзен\" азначае, што вы прачыталі і прымаеце нашу &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Палітыку канфідэнцыяльнасці &lt;/a> і &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Умовы выкарыстання &lt;/a>. </Data>" "</string>
+    <string name="bugreport_dialog_submit_content"><Data>Журналы праграмнага забеспячэння захоўваюцца на гэтай прыладзе. Яны могуць утрымліваць асабістую інфармацыю і зьвесткі пра месца. Ня дзяліцеся журналамі ні з кім, калі не хочаце раскрыцця гэтай інфармацыі. Націскаючы \"Згодзен\" азначае, што вы прачыталі і прымаеце нашу &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Палітыку канфідэнцыяльнасці &lt;/a> і &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Умовы выкарыстання &lt;/a>.</Data></string>
     <string name="bugreport_dump_start_notification_title">Стварэнне справаздачы пра памылку…</string>
     <string name="bugreport_dump_start_notification_summary">Гэта можа заняць некалькі хвілін.</string>
     <string name="bugreport_dump_complete_notification_title">Справаздача створана</string>
@@ -210,7 +211,7 @@
     <string name="feedback_submit_succ_button">Гатова</string>
     <string name="feedback_title">Загаловак</string>
     <string name="feedback_description">Апісанне</string>
-    <string name="feedback_select_images">Дадаць выявы</string>
+    <string name="feedback_select_images">Дадаць выяву або кароткае відэа</string>
     <string name="feedback_delete_images">Выдаліць выяву</string>
     <string name="feedback_select_upload_log">Дадаць логі</string>
     <string name="feedback_select_modem_log">Дадаць справаздачу мадэма</string>
@@ -324,9 +325,10 @@
     <string name="toast_post_deleted">Гэтая тэма не існуе, была выдаленая або зменена.</string>
     <string name="toast_log_not_exists">Неабходны журнал быў выдалены ці не існуе</string>
     <string name="toast_pic_not_exists">Захаваная выява была выдалена</string>
-    <string name="toast_screenshot_too_large">Немагчыма запампаваць файл больш за 10 Мб.</string>
-    <string name="toast_log_too_large">Не ўдаецца запампаваць. Файл занадта вялікі.</string>
+    <string name="toast_screenshot_too_large">Немагчыма запампаваць выявы або відэа больш за 10 МБ.</string>
+    <string name="toast_log_too_large">Не ўдаецца запампаваць. Журнал занадта вялікі.</string>
     <string name="title_customer_service">Абслугоўванне карыстальнікаў</string>
+    <string name="title_first_aid">Першая дапамога</string>
     <string name="customer_service_apply">Запыт у службу абслугоўвання кліентаў</string>
     <string name="customer_service_complain">Паведаміць аб службе абслугоўвання кліентаў</string>
     <string name="customer_service_station">Месца абслугоўвання</string>
@@ -355,7 +357,7 @@
     <string name="catch_full_log_notification_content">Націсніце, каб вярнуцца</string>
     <string name="catch_full_log_start_dump_hprof">Стварэнне журнала затрымак</string>
     <string name="catch_full_log_dump_hprof_failed">Не атрымалася стварыць журнал затрымак</string>
-    <string name="catch_full_log_add_original_photo">Дадаць фота</string>
+    <string name="catch_full_log_add_original_photo">Дадаць арыгінальную або кароткае відэа</string>
     <string name="catch_full_log_add_photo_dialog_content">Калі праблема, пра якую вы паведамляеце, звязана з якасцю выявы камеры, дадайце ўзор фота (без абрэзкі), каб дапамагчы нам знайсці яе. Дадаць фота?</string>
     <string name="catch_full_log_submit_directly">Адправіць</string>
     <string name="catch_full_log_add_photo">Дадаць фота</string>

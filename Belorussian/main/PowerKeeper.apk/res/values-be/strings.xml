@@ -93,8 +93,8 @@
     <string name="active_classify">Сартаваць па актыўнасці</string>
     <string name="extreme_mode_max_item_alert">Вы можаце абраць да 4 праграм для работы ў фонавым рэжыме</string>
     <string name="message_i_know">Зразумела</string>
-    <string name="high_temp_state">Высокая тэмпература</string>
-    <string name="high_temp_state_message">Спрацавала абарона ад высокай тэмпературы. Выкарыстанне Інтэрнэту, кропкі доступу, GPS, камеры і г.д. будзе абмежавана</string>
+    <string name="high_temp_state">Перагрэў</string>
+    <string name="high_temp_state_message">Ваша прылада перагрэлась. Мабільны інтэрнэт, кропка доступу Wi-Fi, GPS і камера будуць адключаныя.</string>
     <string name="atrace_start">Стварэнне журнала atrace…</string>
     <string name="atrace_saving">Захаванне журнала atrace…</string>
     <string name="atrace_saved">Захавана паспяхова</string>

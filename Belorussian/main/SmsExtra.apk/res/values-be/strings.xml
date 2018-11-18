@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="status_bar_notification_info_overflow">больш за 999</string>
     <string name="activity_not_found">Няма праграмы для выканання гэтага дзеяння</string>
     <string name="allow_network_hint">Turn on \"Update info automatically\" or check your network connection</string>
     <string name="already_updated">Up to date</string>

@@ -19,9 +19,7 @@
     <string name="exo_download_notification_channel_name">Спампоўкі</string>
     <string name="exo_download_removing">Выдаленне спамповак</string>
     <string name="exo_item_list">%1$s, %2$s</string>
-    <string name="exo_track_bitrate">%1$.2f Мбіт/с</string>
     <string name="exo_track_mono">Мона</string>
-    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">Аўтаматычна</string>
     <string name="exo_track_selection_none">Няма</string>
     <string name="exo_track_selection_title_audio">Аўдыя</string>
@@ -462,7 +460,6 @@
     <string name="not_limited_brand">Неабмежаваны</string>
     <string name="pref_about_traffic_title">Налады трафіка</string>
     <string name="pref_traffic_manage_title">Кантроль трафіка</string>
-    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_package_traffic_settings">Тарыфны план</string>
     <string name="pref_adjust_traffic_data">Задаць трафік</string>
     <string name="pref_category_title_other">Дадатковыя налады</string>
@@ -964,7 +961,6 @@ Rolled over extra data"</string>
     <string name="om_settings_memory_occupy_notify_never">Не апавяшчаць</string>
     <string name="om_lock_app_locked_app">Замацаваныя</string>
     <string name="om_lock_app_unlocked_app">Не замацаваныя</string>
-    <string name="om_memory_clean_memory_info_text">%1$s / %2$s</string>
     <string name="om_not_finish_speedboost">Патрабуецца паскарэнне</string>
     <string name="om_running_locked_apps">Запушчаныя (замацаваныя)</string>
     <string name="om_running_system_apps">Запушчаныя (сістэмныя)</string>
@@ -1014,7 +1010,6 @@ Rolled over extra data"</string>
     <string name="usage_type_data_send">Мабільныя дадзеныя адпраўлены</string>
     <string name="usage_type_no_coverage">Час адсутнасці сігналу</string>
     <string name="usage_type_gps">GPS</string>
-    <string name="process_kernel_label">Android</string>
     <string name="process_mediaserver_label">Медыя-сервер</string>
     <string name="power_screen">Экран</string>
     <string name="power_wifi">Wi-Fi</string>
@@ -1231,17 +1226,12 @@ Rolled over extra data"</string>
     <string name="power_center_list_item_auto_brightness">Рэгулюйце яркасць аўтаматычна</string>
     <string name="power_center_list_item_deep_save_title">Пашыраныя налады</string>
     <string name="power_center_list_item_battery_status_time">г</string>
-    <string name="power_center_list_item_battery_status_temperature">℃</string>
-    <string name="power_center_list_item_battery_status_capacity">мАг</string>
     <string name="power_center_stop_scan_title">Спыніць сканаванне</string>
     <string name="hide_mode_result_summary_text">Параметры энергасберажэння для асобных праграм</string>
     <string name="auto_task_result_summary_text">Наладзьце аўтаматычныя задачы для рэжыму энергасберажэння</string>
     <string name="pc_settings_title">Налады батарэі</string>
     <string name="pc_main_activity_back">Назад</string>
     <string name="extreme_power_save_mode_card_summary">Карыстуйцеся Максімальным энергазберажэннем, калі батарэя амаль разраджана.</string>
-    <string name="power_center_list_item_battery_health_model_voltage">%s В</string>
-    <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
-    <string name="power_center_list_item_battery_health_model_volume">%s мАг</string>
     <string name="handle_bar_title_system">Сістэма</string>
     <string name="apps_list_header_title_sms">Праверце прыладу Паведамленні</string>
     <string name="apps_list_header_title_sms_access">Абмежаваць доступ да кодаў верыфікацыі</string>
@@ -1395,13 +1385,11 @@ Rolled over extra data"</string>
     <string name="menu_text_optimize_manage">Паскарэнне</string>
     <string name="menu_text_networkassistants">Трафік</string>
     <string name="menu_summary_networkassistants">Кіруйце сваім тарыфам</string>
-    <string name="menu_text_networkassistants_2">%s</string>
     <string name="menu_summary_networkassistants_2">Перавышаны ліміт трафіка</string>
     <string name="menu_summary_networkassistants_3">Трафіка дастаткова</string>
     <string name="menu_summary_networkassistants_4">Трафік заканчваецца</string>
     <string name="menu_text_networkassistants_remain">%s засталося</string>
     <string name="menu_text_networkassistants_danger">перавышана на %s</string>
-    <string name="menu_text_networkassistants_data">%1$s %2$s</string>
     <string name="menu_text_networkassistants_unit_gb">ГБ</string>
     <string name="menu_text_networkassistants_unit_mb">МБ</string>
     <string name="menu_text_networkassistants_unit_kb">КБ</string>
@@ -1414,14 +1402,12 @@ Rolled over extra data"</string>
     <string name="menu_summary_garbage_cleanup">Няма смецця</string>
     <string name="menu_summary_garbage_cleanup_2">Памер смецця</string>
     <string name="menu_summary_garbage_cleanup_3">Ачысціць смецце</string>
-    <string name="menu_text_garbage_cleanup_danger">%s</string>
     <string name="menu_text_power_manager">Выкарыстанне батарэі</string>
     <string name="menu_summary_power_manager">Энергазберажэнне павялічвае час паміж зарадкамі</string>
     <string name="menu_summary_power_manager_1">Батарэя зараджана</string>
     <string name="menu_summary_power_manager_2">Засталося %s</string>
     <string name="menu_summary_power_manager_3">Батарэя разраджана</string>
     <string name="menu_summary_power_manager_4">Да поўнага зараду %s</string>
-    <string name="menu_text_power_percent_title">%s</string>
     <string name="last_check_canceled">Папярэдняя праверка была скасавана</string>
     <string name="examination_score_100">Усё добра!</string>
     <string name="examination_score_80_100">Некалькі рэчаў можна аптымізаваць</string>
@@ -1797,7 +1783,6 @@ Rolled over extra data"</string>
     <string name="card_main_deepclean_wechat_action">Ачысціць</string>
     <string name="card_main_sectool_title">Інструменты</string>
     <string name="card_main_monthreport_action">Прагледзець</string>
-    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_netcheck_title">Дыягностыка сеткі</string>
     <string name="card_main_netcheck_summary">Пратэстуйце сетку на наяўнасць праблем</string>
     <string name="card_main_netcheck_action">Тэст</string>
@@ -2351,7 +2336,6 @@ Rolled over extra data"</string>
     <string name="gb_create_icon_summary">Стварыць ярлык на галоўным экране</string>
     <string name="title_reply">Водгук</string>
     <string name="title_like">Падабаецца</string>
-    <string name="ellipsis">…</string>
     <string name="game_video_net_data">Мабільны інтэрнэт</string>
     <string name="game_wid_viewpoint_buttom">Зрабіце кароткі перапынак.</string>
     <string name="video_repeat">Паўтарыць</string>

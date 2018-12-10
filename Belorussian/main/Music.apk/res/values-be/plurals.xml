@@ -12,11 +12,21 @@
         <item quantity="few">Searching for album covers and lyrics (%1$d/%2$d)</item>
         <item quantity="many">Searching for album covers and lyrics (%1$d/%2$d)</item>
     </plurals>
-    <plurals name="Nbackup_songs">
-        <item quantity="other">Backing up songs, %1$d songs remaining (%2$.1fMB)</item>
-        <item quantity="one">Backing up songs, %1$d song remaining (%2$.1fMB)</item>
-        <item quantity="few">Backing up songs, %1$d songs remaining (%2$.1fMB)</item>
-        <item quantity="many">Backing up songs, %1$d songs remaining (%2$.1fMB)</item>
+    <plurals name="Ndialog_renew_content">
+        <item quantity="other">"Ваша падпіска сканчаецца праз %d дзён.
+Помочь вам падоўжыць яе?"</item>
+        <item quantity="one">"Ваша падпіска сканчаецца праз %d дзень.
+Помочь вам падоўжыць яе?"</item>
+        <item quantity="few">"Ваша падпіска сканчаецца праз %d дні.
+Помочь вам падоўжыць яе?"</item>
+        <item quantity="many">"Ваша падпіска сканчаецца праз %d дзён.
+Помочь вам падоўжыць яе?"</item>
+    </plurals>
+    <plurals name="Nhungama_free_download_summary">
+        <item quantity="other">Вы можаце спампаваць %1$d бясплатных песняў. Спампаваць %2$s зараз?</item>
+        <item quantity="one">Вы можаце спампаваць %1$d бясплатную песню. Спампаваць %2$s зараз?</item>
+        <item quantity="few">Вы можаце спампаваць %1$d бясплатных песняў. Спампаваць %2$s зараз?</item>
+        <item quantity="many">Вы можаце спампаваць %1$d бясплатных песняў. Спампаваць %2$s зараз?</item>
     </plurals>
     <plurals name="Nquit_warning">
         <item quantity="other">Прайгравальнік будзе спынены праз %d хвілін</item>
@@ -33,12 +43,6 @@ total %2$d song"</item>
 total %2$d songs"</item>
         <item quantity="many">"Created on %1$s 
 total %2$d songs"</item>
-    </plurals>
-    <plurals name="Nstop_backup_songs_message">
-        <item quantity="other">"%d songs haven't been backed up to Mi Cloud. Stop now?"</item>
-        <item quantity="one">"%d song hasn't been backed up to Mi Cloud. Stop now?"</item>
-        <item quantity="few">"%d songs haven't been backed up to Mi Cloud. Stop now?"</item>
-        <item quantity="many">"%d songs haven't been backed up to Mi Cloud. Stop now?"</item>
     </plurals>
     <plurals name="Ntracks_add_to_playlist">
         <item quantity="other">%d песень дададзена да плэйліста</item>
@@ -63,18 +67,6 @@ total %2$d songs"</item>
         <item quantity="one">%d падобны трэк</item>
         <item quantity="few">%d падобныя трэкі</item>
         <item quantity="many">%d similar songs</item>
-    </plurals>
-    <plurals name="Nunbackup_audios">
-        <item quantity="other">"%1$d songs haven't been backed up (%2$.1fMB)\""</item>
-        <item quantity="one">"%1$d song hasn't been backed up (%2$.1fMB)"</item>
-        <item quantity="few">"%1$d songs haven't been backed up (%2$.1fMB)\""</item>
-        <item quantity="many">"%1$d songs haven't been backed up (%2$.1fMB)\""</item>
-    </plurals>
-    <plurals name="Nupload_song_button">
-        <item quantity="other">Back up %1$d songs (%2$.1fMB)</item>
-        <item quantity="one">Back up %1$d song (%2$.1fMB)</item>
-        <item quantity="few">Back up %1$d songs (%2$.1fMB)</item>
-        <item quantity="many">Back up %1$d songs (%2$.1fMB)</item>
     </plurals>
     <plurals name="comment_count">
         <item quantity="other">%d comments</item>
@@ -109,12 +101,6 @@ total %2$d songs"</item>
         <item quantity="one">Выдаленне %d песьні?</item>
         <item quantity="few">Выдаленне %d песень?</item>
         <item quantity="many">Remove %d songs?</item>
-    </plurals>
-    <plurals name="dialog_remove_from_cloud_descript">
-        <item quantity="other">Выдаліць %d песень з Mi Cloud? Яны таксама будуць выдалены з лакальных плэйлістоў.</item>
-        <item quantity="one">Выдаліць %d песьню з Mi Cloud? Яна таксама будзе выдалена з лакальных плэйлістоў.</item>
-        <item quantity="few">Выдаліць %d песьні з Mi Cloud? Яны таксама будуць выдалены з лакальных плэйлістоў.</item>
-        <item quantity="many">Delete %d songs from Mi Cloud? They will be deleted from local playlists as well.</item>
     </plurals>
     <plurals name="download_finished">
         <item quantity="other">&lt;font color==\"red\">%d песень&lt;/font> спампоўваецца</item>
@@ -170,10 +156,16 @@ total %2$d songs"</item>
         <item quantity="few">%d songs</item>
         <item quantity="many">%d songs</item>
     </plurals>
+    <plurals name="video_count">
+        <item quantity="other">Відэа</item>
+        <item quantity="one">Відэа</item>
+        <item quantity="few">Відэа</item>
+        <item quantity="many">Відэа</item>
+    </plurals>
     <plurals name="video_play_count">
-        <item quantity="other">%1$s views</item>
-        <item quantity="one">%1$s view</item>
-        <item quantity="few">%1$s views</item>
-        <item quantity="many">%1$s views</item>
+        <item quantity="other">%1$s праглядаў</item>
+        <item quantity="one">%1$s прагляд</item>
+        <item quantity="few">%1$s прагляду</item>
+        <item quantity="many">%1$s праглядаў</item>
     </plurals>
 </resources>

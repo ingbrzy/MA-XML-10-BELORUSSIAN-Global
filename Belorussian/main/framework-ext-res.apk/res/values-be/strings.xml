@@ -185,4 +185,5 @@
     <string name="miui_warning_tip_info">У праграме %1$s адбылася памылка. Закрыць праграму зараз?</string>
     <string name="talk_back_water_mark_string1">TalkBack уключаны</string>
     <string name="talk_back_water_mark_string2">Для адключэння зацісніце \"Гучнасць +\" і \"Громкость-\" на 3 секунды</string>
+    <string name="start_dump_log">Пачаць збор журналаў праблем</string>
 </resources>

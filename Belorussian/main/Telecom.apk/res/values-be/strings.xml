@@ -105,6 +105,7 @@
     <string name="accessibility_wifi_signal_full">Поўны сігнал Wi-Fi.</string>
     <string name="accessibility_wifi_security_type_none">Адкрытая сетка</string>
     <string name="accessibility_wifi_security_type_secured">Бяспечная сетка</string>
+    <string name="process_kernel_label">АС Android</string>
     <string name="data_usage_uninstalled_apps">Выдаленыя прыкладанні</string>
     <string name="data_usage_uninstalled_apps_users">Выдаленыя прыкладанні і карыстальнiкi</string>
     <string name="tether_settings_title_usb">USB-мадэм</string>
@@ -433,7 +434,7 @@
     <string name="answer_incoming_call">Адказаць</string>
     <string name="decline_incoming_call">Адхіліць</string>
     <string name="cant_call_due_to_ongoing_call">Вы не можаце здзейсніць новы выклік, пакуль не завершыце бягучы ў праграме %1$s.</string>
-    <string name="cant_call_due_to_ongoing_calls">Вы не можаце здзейсніць новыя выклікі, пакуль не завершыце бягучыя ў праграме %1$s.</string>
+    <string name="cant_call_due_to_ongoing_calls">Немагчыма выканаць выклік. Спачатку завершыце выклік %1$s.</string>
     <string name="cant_call_due_to_ongoing_unknown_call">Вы не можаце здзейсніць новы выклік, пакуль не завершыце бягучы ў іншай праграме.</string>
     <string name="notification_channel_incoming_call">Уваходныя выклікі</string>
     <string name="notification_channel_missed_call">Прапушчаныя выклікі</string>

@@ -203,7 +203,7 @@
     <string name="tap_to_exposure">Націсніце, каб наставіць экспазіцыю ўручную</string>
     <string name="accessibility_shutter_button">Кнопка затвора</string>
     <string name="accessibility_intent_done_apply">Зроблена</string>
-    <string name="accessibility_intent_done_retry">Перазняць</string>
+    <string name="accessibility_intent_done_retry">Паўтарыць</string>
     <string name="accessibility_review_thumbnail">Апошнія фота</string>
     <string name="accessibility_camera_picker">Пераключэнне камеры</string>
     <string name="accessibility_stereo_button">Стэрэа</string>
@@ -261,13 +261,12 @@
     <string name="pref_camera_referenceline_title">Сетка</string>
     <string name="pref_camera_volumekey_function_entry_volume">Гучнасць</string>
     <string name="pref_camera_volumekey_function_entry_shutter">Здымак</string>
+    <string name="pref_camera_volumekey_function_entry_timer">Таймер</string>
     <string name="pref_camera_volumekey_function_entry_zoom">Прыбліжэнне</string>
-    <string name="pref_camera_volumekey_function_entry_exposure">Вытрымка</string>
     <string name="pref_camera_volumekey_function_title">Функцыя клавіш гучнасці</string>
     <string name="error_fail_to_start_audio_capture">Не атрымалася запісаць гук</string>
     <string name="toast_start_audio_capture">Галасавое кіраванне здымкай</string>
     <string name="record_back_pressed_hint">Націсніце яшчэ раз для спынення запісу</string>
-    <string name="toast_burst_snap_finished_summary">Серыйная здымка скончана, зроблена %1$s фота</string>
     <string name="toast_burst_snap_forbidden_when_audio_capture_open">Серыйная здымка недаступна, калі ўключана здымка голасам</string>
     <string name="time_lapse_error">Для відэа такога памеру запаволеная здымка недаступна</string>
     <string name="pref_camera_movie_solid_title">Стабілізацыя выявы</string>
@@ -430,11 +429,12 @@
     <string name="pref_camera_portrait_mode_entry_off">Партрэтны рэжым выключаны</string>
     <string name="pref_camera_portrait_mode_entry_on">Партрэтны рэжым уключаны</string>
     <string name="portrait_mode_lowlight_hint">Зараз занадта цёмна</string>
-    <string name="portrait_mode_too_close_hint">"Адыдзіце далей ад аб'екта здымкі"</string>
-    <string name="portrait_mode_too_far_hint">"Падыдзіце да аб'екта здымкі на 2,5 метры"</string>
+    <string name="portrait_mode_too_close_hint">"Адыдзіце далей ад аб'екта"</string>
+    <string name="portrait_mode_too_far_hint">"Размесціце суб'екта у межах 2 метраў"</string>
     <string name="portrait_mode_depth_effect_success_hint">Эфект глыбіні</string>
     <string name="portrait_mode_use_hint">"Партрэтны рэжым размывае фон
 і павялічвае выразнасць пярэдняга плана."</string>
+    <string name="portrait_mode_use_hint_with_switch">@string/portrait_mode_use_hint</string>
     <string name="portrait_mode_use_hint_for_bokeh">"Паспрабуйце зрабіць фота ў партрэтным рэжыме.
 Аб'еут здымкі застанецца ў фокусе, а фон будзе размыты."</string>
     <string name="pref_camera_square_mode_title">Квадрат</string>
@@ -451,6 +451,7 @@
     <string name="pref_camera_beautify_entry_low">Нізкі</string>
     <string name="pref_camera_beautify_entry_normal">Сярэдні</string>
     <string name="pref_camera_beautify_entry_high">Высокі</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="camera_mode_options">Рэжымы</string>
     <string name="button_front_camera_title">Зрабіць сэлфі</string>
     <string name="button_normal_video_title">Запіс відэа</string>
@@ -554,7 +555,7 @@
     <string name="lighting_hint_title">Студыйнае асвятленне</string>
     <string name="lighting_hint_usage">"Вы можаце выкарыстоўваць студыйнае
 асвятленне ў партрэтным рэжыме"</string>
-    <string name="lighting_hint_needed">"Размясціце аб'ект у цэнтры круга"</string>
+    <string name="lighting_hint_needed">"Размесціце суб'екта ў цэнтры круга"</string>
     <string name="lighting_hint_too_far">Паднясіце камеру бліжэй</string>
     <string name="lighting_hint_too_close">Адсуньце камеру далей</string>
     <string name="lighting_pattern_nature">Натуральны</string>
@@ -569,5 +570,5 @@
     <string name="portrait_bokeh_text">Партрэтны рэжым</string>
     <string name="portrait_bokeh_first_tips">"Партрэтны рэжым размывае фон
 і павялічвае выразнасць пярэдняга плана."</string>
-    <string name="portrait_bokeh_tips">"Падыдзіце да аб'екта здымкі на 1,5 метры"</string>
+    <string name="portrait_bokeh_tips">"Размесціце суб'екта у межах 1,5 метраў"</string>
 </resources>

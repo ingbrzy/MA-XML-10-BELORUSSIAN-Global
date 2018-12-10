@@ -46,7 +46,6 @@
     <string name="michat_cant_join_artificial">Не атрымалася падлучыцца да сеткі з-за памылкі</string>
     <string name="michat_lose_artificial">Адбылася памылка сеткі, вы пакінулі чат</string>
     <string name="michat_transfer_message">Пошук чалавека, гатовага дапамагчы вам…</string>
-    <string name="michat_queue_pos_update">Перад вамі %1$d людзей, пачакайце хвілінку…</string>
     <string name="michat_in_artificial_customer_state">У дадзены момант заняты, дапамагаю іншаму чалавеку</string>
     <string name="michat_pull_to_refresh_pull_label">Пацягнуць ўніз, каб прагледзець гісторыю</string>
     <string name="michat_pull_to_refresh_release_label">Адпусціце, каб прагледзець гісторыю</string>
@@ -57,6 +56,7 @@
     <string name="save_pic_success">Выява захавана ў %s</string>
     <string name="save_pic_fail">Не атрымалася захаваць выяву, праверце SD-карту</string>
     <string name="pic_not_exist">Гэта выява не існуе</string>
+    <string name="pic_view_format">%1$s\"/\"%2$s</string>
     <string name="michat_skillset_product_title">Выберыце прадукт</string>
     <string name="michat_skillset_business_type_title">Выберыце сэрвіс</string>
     <string name="michat_close_text">Чат завершаны</string>
@@ -132,7 +132,6 @@
     <string name="toast_report_sent_failed">Не атрымалася адправіць справаздачу</string>
     <string name="toast_report_copied_to_clipboard">Справаздача скапіявана ў буфер абмену</string>
     <string name="toast_description_required">Справаздача не можа быць пустой</string>
-    <string name="toast_feedbackservice_in_submit">Адпраўка папярэдняй справаздачы…</string>
     <string name="toast_pending_log_collection">Ідзе збор логаў…</string>
     <string name="toast_feedback_submitted">Справаздача паспяхова адпраўлена</string>
     <string name="toast_feedback_submitting">Адпраўка…</string>
@@ -161,7 +160,7 @@
     <string name="cta_cancel">Скасаваць</string>
     <string name="cta_confirm">ОК</string>
     <string name="submit_dialog_title">Адпраўка справаздачы</string>
-    <string name="submit_dialog_content"><Data>Ваша справаздача разам з укладаннямі і журналамі будзе адпраўлена на серверы MIUI. Яна можа ўтрымліваць асабістую інфармацыю і зьвесткі пра месца. Націскаючы \"Згодзен\" азначае, што вы прачыталі і прымаеце нашу &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Палітыку канфідэнцыяльнасці&lt;/a> і &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Умовы выкарыстання&lt;/a>.</Data></string>
+    <string name="submit_dialog_content"><Data>"Вы павінны прыняць нашы &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Палітыку канфідэнцыяльнасці&lt;/a> і &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Умовы выкарыстання&lt;/a> для выкарыстання Справаздачы. Праблемы, пра якія вы паведамляеце, разам з прымацаванымі вамі аб'ектамі (могуць змяшчаць асабістыя дадзеныя, а таксама інфармацыю пра вашу прыладу і сеткі) будуць запампаваны на серверы MIUI. Гэта дапаможа нам знайсці і вырашыць праблемы, пра якія вы паведамляеце."</Data></string>
     <string name="submit_dialog_content_global"><Data>"Ваша справаздача разам з укладаннямі (калі ёсць) і журналамі (вы можаце зняць сцяжкі з адпаведных палёў для аб'ектаў, якія вы не хочаце адпраўляць) будзе адпраўлены на серверы MIUI і ў закрыты раздзел форуму MIUI для распрацоўшчыкаў. Інфармацыя аб вашых тэмах і актыўнасці на форуме таксама будзе сабраная для аналізу і далейшых зносін. Журналы могуць утрымліваць асабістую інфармацыю і зьвесткі пра месца. Націскаючы \"Згодзен \" азначае, што вы прачыталі і прымаеце нашу &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Палітыку канфідэнцыяльнасці &lt;/a> і &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Умовы выкарыстання&lt;/a>."</Data></string>
     <string name="submit_dialog_cancel">Не згаджацца</string>
     <string name="submit_dialog_confirm">Згадзіцца</string>
@@ -247,6 +246,7 @@
     <string name="feedback_contact_info_hint">Тэлефон/Email</string>
     <string name="toast_loading_app_id">Атрыманне дадзеных…</string>
     <string name="feedback_status_commit_succ_title">Адпраўлена</string>
+    <string name="feedback_status_commit_in_queue_title">Чаканне…</string>
     <string name="feedback_status_commit_uploading_title">Адпраўка…</string>
     <string name="feedback_status_commit_failed_title">Не атрымалася адправіць справаздачу</string>
     <string name="feedback_status_processing">Апрацоўка…</string>
@@ -333,6 +333,7 @@
     <string name="customer_service_station">Месца абслугоўвання</string>
     <string name="title_catch_full_log">Журналы</string>
     <string name="toast_catch_full_log_catching">Адначасова можна стварыць толькі адзін журнал</string>
+    <string name="toast_catch_full_log_open_failed">Не атрымалася пачаць стварэнне журнала.</string>
     <string name="catch_full_log_item_title_signal">Тэлефон, сігнал і мабільныя сеткі</string>
     <string name="catch_full_log_item_title_wifi">Wi-Fi і Mi Drop</string>
     <string name="catch_full_log_item_title_gps">Службы месцазнаходжання</string>
@@ -350,7 +351,7 @@
     <string name="catch_full_log_action_start">Стварыць журнал</string>
     <string name="catch_full_log_action_complete">Завяршыць і адправіць</string>
     <string name="catch_full_log_action_cancel">Скасаваць</string>
-    <string name="catch_full_log_dialog_content">MIUI стварае журнал. Гэта можа паўплываць на агульную пракукцыйнасць вашай прылады. Калі вы не можаце ўзнавіць праблему, якую хочаце паведаміць, вярніцеся да журналаў і націсніце \"Скасаваць\".</string>
+    <string name="catch_full_log_dialog_content">MIUI стварае журнал. Гэта можа паўплываць на агульную прадукцыйнасць вашай прылады. Калі вы не можаце ўзнавіць праблему, на якую хочаце паскардзіцца, вярніцеся да журналаў і націсніце \"Адмена\".</string>
     <string name="catch_full_log_dialog_confirm_text">На працоўны стол</string>
     <string name="catch_full_log_notification_title">Стварэнне журнала…</string>
     <string name="catch_full_log_notification_content">Націсніце, каб вярнуцца</string>

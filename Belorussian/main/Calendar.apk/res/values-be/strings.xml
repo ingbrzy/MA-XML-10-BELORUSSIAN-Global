@@ -36,7 +36,7 @@
     <string name="anniversary_event_title">Гадавіна: %1$s</string>
     <string name="anniversary_secondary_tag">Юбілей</string>
     <string name="app_label">Каляндар</string>
-    <string name="app_not_found">"Couldn't find selected app"</string>
+    <string name="app_not_found">Абраная праграма не знойдзена</string>
     <string name="birthday_born">дата нараджэння</string>
     <string name="birthday_calendar_display_name">Напаміны пра дні народзінаў</string>
     <string name="birthday_event_description_a_week_ago">Тыдзень таму</string>
@@ -74,7 +74,7 @@
     <string name="card_manager_no_data">Няма падпісак</string>
     <string name="card_title_change">Яшчэ</string>
     <string name="change_response_title">Змяніць адказ</string>
-    <string name="click_to_share">Tap to Share</string>
+    <string name="click_to_share">Націсніце, каб падзяліцца</string>
     <string name="countdown_event_title">Падзея: %1$s</string>
     <string name="countdown_notify_before_3_day_title">Падзея: %1$s праз 3 дні</string>
     <string name="countdown_notify_title">Падзея: %1$s</string>
@@ -175,13 +175,13 @@
     <string name="event_title">Назва</string>
     <string name="event_view">Паглядзець падзею</string>
     <string name="every_weekday">Па буднях (пн-пт)</string>
-    <string name="fb_birthday_failure">"Couldn't import birthdays from Facebook. Try again."</string>
+    <string name="fb_birthday_failure">Памылка імпарту дзён нараджэння з Facebook. Паспрабуйце яшчэ раз.</string>
     <string name="fb_birthday_success">Імпарт дзён нараджэння з Facebook завершаны</string>
     <string name="fb_calendar_account_name">Лакальны каляндар Mi</string>
     <string name="fb_calendar_display_name">Дні нараджэння сяброў з Facebook</string>
     <string name="fb_calendar_owner_account">Каляндар Mi</string>
     <string name="festival_detail_title">Фестываль</string>
-    <string name="file_exception">An error occurred</string>
+    <string name="file_exception">Адбылася памылка</string>
     <string name="force_touch_title_add_new_event">Дадаць падзею</string>
     <string name="from_google_group_calendar">Каляндар Google</string>
     <string name="gadget_no_events">Няма найбліжэйшых падзей</string>
@@ -204,11 +204,11 @@
     <string name="holiday_card_title">У гэты дзень</string>
     <string name="holiday_detail_read_more">Яшчэ</string>
     <string name="horoscope_select_activity_label">Выберыце знак задыяка</string>
-    <string name="image_processing">"Image isn't ready yet"</string>
+    <string name="image_processing">Выява яшчэ не гатова</string>
     <string name="import_action">Імпарт</string>
     <string name="import_birthday">Імпарт дзён нараджэння</string>
     <string name="imported">Імпартаваць</string>
-    <string name="importing">Importing…</string>
+    <string name="importing">Імпартаванне…</string>
     <string name="insert_event_dialog_btn_negative">Не</string>
     <string name="insert_event_dialog_btn_positive">Так</string>
     <string name="insert_event_dialog_message">Дадайце гэтую падзею ў каляндар?</string>
@@ -259,7 +259,7 @@
     <string name="no_network">"Не атрымалася злучыцца з сеткай.
 Праверце налады сеткі і паспрабуйце зноў."</string>
     <string name="no_network_btn">Паспрабаваць зноў</string>
-    <string name="no_storage">Not enough storage space</string>
+    <string name="no_storage">Не хапае месца для захоўвання</string>
     <string name="no_title_label">(Без назвы)</string>
     <string name="no_visiable_calendar_message">Вам неабходна выбраць акаўнт календара. Націсніце \"Выбраць акаўнт\" для працягу.</string>
     <string name="no_visiable_calendar_select_account">Дадаць акаўнт</string>
@@ -360,12 +360,12 @@
     <string name="setting_others">Дадаткова</string>
     <string name="setting_title_about">Падрабязна</string>
     <string name="setting_title_holiday_display">Паказаць святы</string>
-    <string name="share_image">Share</string>
-    <string name="share_image_label">Share via</string>
+    <string name="share_image">Падзяліцца</string>
+    <string name="share_image_label">Падзяліцца праз</string>
     <string name="share_title">Падзяліцца</string>
     <string name="show_day_view">Паказаць дзень</string>
     <string name="start_date_calculate">Падлічыць</string>
-    <string name="storage_permission_denied">Allow access to storage first</string>
+    <string name="storage_permission_denied">Спачатку дазвольце доступ да памяці</string>
     <string name="subscribe_card">Падпісацца</string>
     <string name="subscribe_card_success">Вы паспяхова падпісаліся! Праверце дадзеныя на галоўнай старонцы.</string>
     <string name="subscribe_card_success_for_homepage">Вы паспяхова падпісаліся на %1$s</string>

@@ -43,16 +43,16 @@
         <item quantity="many">Няправільны PUK-код, засталося %d спробы</item>
     </plurals>
     <plurals name="input_password_after_timeout_msg">
-        <item quantity="other">Пасля %d гадзін бяздзейнасці неабходна ўвесці пароль</item>
-        <item quantity="one">Пасля %d гадзіны бяздзейнасці неабходна ўвесці пароль</item>
-        <item quantity="few">Пасля %d гадзін бяздзейнасці неабходна ўвесці пароль</item>
-        <item quantity="many">Пасля %d гадзін бяздзейнасці неабходна ўвесці пароль</item>
+        <item quantity="other">Вы не ўводзілі пароль больш %d гадзін. Увядзіце пароль.</item>
+        <item quantity="one">Вы не ўводзілі пароль больш %d гадзіны. Увядзіце пароль.</item>
+        <item quantity="few">Вы не ўводзілі пароль больш %d гадзін. Увядзіце пароль.</item>
+        <item quantity="many">Вы не ўводзілі пароль больш %d гадзін. Увядзіце пароль.</item>
     </plurals>
     <plurals name="input_pattern_after_timeout_msg">
-        <item quantity="other">Пасля %d гадзіны бяздзейнасці неабходна ўвесці графічны ключ</item>
-        <item quantity="one">Пасля %d гадзіны бяздзейнасці неабходна ўвесці графічны ключ</item>
-        <item quantity="few">Пасля %d гадзіны бяздзейнасці неабходна ўвесці графічны ключ</item>
-        <item quantity="many">Пасля %d гадзіны бяздзейнасці неабходна ўвесці графічны ключ</item>
+        <item quantity="other">Вы не ўводзілі графічны ключ больш %d гадзін. Увядзіце графічны ключ.</item>
+        <item quantity="one">Вы не ўводзілі графічны ключ больш %d гадзіны. Увядзіце графічны ключ.</item>
+        <item quantity="few">Вы не ўводзілі графічны ключ больш %d гадзін. Увядзіце графічны ключ.</item>
+        <item quantity="many">Вы не ўводзілі графічны ключ больш %d гадзін. Увядзіце графічны ключ.</item>
     </plurals>
     <plurals name="keyguard_charging_info_could_use_hour_time_text">
         <item quantity="other">Засталося %d гадзін</item>

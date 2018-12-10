@@ -396,4 +396,16 @@
         <item quantity="few">"%d аб'екты"</item>
         <item quantity="many">"%d аб'ектаў"</item>
     </plurals>
+    <plurals name="backup_file_over_size_title">
+        <item quantity="other">"%d аб'ектаў занадта вялікія для рэзервовага капіявання"</item>
+        <item quantity="one">"%d аб'ект занадта вялікі для рэзервовага капіявання"</item>
+        <item quantity="few">"%d аб'екта занадта вялікія для рэзервовага капіявання"</item>
+        <item quantity="many">"%d аб'ектаў занадта вялікія для рэзервовага капіявання"</item>
+    </plurals>
+    <plurals name="sync_oversized_count">
+        <item quantity="other">"%d аб'ектаў занадта вялікія для рэзервовага капіявання"</item>
+        <item quantity="one">"%d аб'ект занадта вялікі для рэзервовага капіявання"</item>
+        <item quantity="few">"%d аб'екта занадта вялікія для рэзервовага капіявання"</item>
+        <item quantity="many">"%d аб'ектаў занадта вялікія для рэзервовага капіявання"</item>
+    </plurals>
 </resources>

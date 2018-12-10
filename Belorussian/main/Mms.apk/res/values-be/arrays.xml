@@ -31,6 +31,13 @@
         <item>Толькі ў бязгучным рэжыме</item>
         <item>Ніколі</item>
     </string-array>
+    <string-array name="reason_type">
+        <item>Махлярства</item>
+        <item>Эратычнае і нецэнзурнае змесціва</item>
+        <item>Спам</item>
+        <item>Іншае</item>
+        <item>Адмена</item>
+    </string-array>
     <string-array name="recv_type">
         <item>接收并通知</item>
         <item>只接收</item>

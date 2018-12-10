@@ -30,6 +30,9 @@
     <string name="other_settings_auto_update_summary">MIUI падбярэ найлепшы час для ўсталёўкі абнаўленняў</string>
     <string name="other_settings_ad_enable">Асабістыя рэкамендацыі</string>
     <string name="other_settings_ad_enable_summary">"Атрымлівайце персаналізаваныя аб'явы заснаваныя на дадзеных вашых паводзін"</string>
+    <string name="other_settings_enhanced_lockscreen">Карусель шпалер</string>
+    <string name="other_settings_enhanced_lockscreen_summary">Атрымлівайце штодзённыя падборкі выяв і гісторый на Экран блакавання. Прымяняюцца Умовы і палажэнні.</string>
+    <string name="other_settings_enhanced_lockscreen_summary_index">Умовы і палажэнні</string>
     <string name="back">Назад</string>
     <string name="next">Далей</string>
     <string name="skip_underline">Прапусціць</string>
@@ -113,4 +116,5 @@
     <string name="ai_button_single_press_desc">Запуск Mi AI</string>
     <string name="ai_button_double_press">Падвоены націск</string>
     <string name="ai_button_double_press_desc">Налады функцый Mi AI</string>
+    <string name="zone_picker_title">Выберыце часавы пояс</string>
 </resources>

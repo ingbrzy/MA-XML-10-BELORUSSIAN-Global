@@ -398,6 +398,24 @@
         <item quantity="few">"Пачакайце %d секунды і паспрабуйце зноў. "</item>
         <item quantity="many">"Пачакайце %d секундаў і паспрабуйце зноў. "</item>
     </plurals>
+    <plurals name="lockpattern_recording_incorrect_too_short">
+        <item quantity="other">Злучыце не менш за %d кропак</item>
+        <item quantity="one">Злучыце не менш за %d кропак</item>
+        <item quantity="few">Злучыце не менш за %d кропак</item>
+        <item quantity="many">Злучыце не менш за %d кропак</item>
+    </plurals>
+    <plurals name="numeric_recording_incorrect_too_short">
+        <item quantity="other">Увядзіце не менш за %d лічбаў</item>
+        <item quantity="one">Увядзіце не менш за %d лічбу</item>
+        <item quantity="few">Увядзіце не менш за %d лічбаў</item>
+        <item quantity="many">Увядзіце не менш за %d лічбаў</item>
+    </plurals>
+    <plurals name="mixed_recording_incorrect_too_short">
+        <item quantity="other">Увядзіце не менш за %d сімвалаў</item>
+        <item quantity="one">Увядзіце не менш за %d сімвала</item>
+        <item quantity="few">Увядзіце не менш за %d сімвалаў</item>
+        <item quantity="many">Увядзіце не менш за %d сімвалаў</item>
+    </plurals>
     <plurals name="number_masked">
         <item quantity="other">%d праграмы</item>
         <item quantity="one">%d праграма</item>

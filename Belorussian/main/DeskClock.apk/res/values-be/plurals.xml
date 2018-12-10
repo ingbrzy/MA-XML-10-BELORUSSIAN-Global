@@ -13,10 +13,10 @@
         <item quantity="many">Выдаліць выбраныя будзільнікі?</item>
     </plurals>
     <plurals name="delete_timezone_confirm">
-        <item quantity="other">Выдаліць выбраныя часавыя паясы?</item>
-        <item quantity="one">Выдаліць часавы пояс?</item>
-        <item quantity="few">Выдаліць выбраныя часавыя паясы?</item>
-        <item quantity="many">Выдаліць выбраныя часавыя паясы?</item>
+        <item quantity="other">Выдаліць абраныя часавыя паясы?</item>
+        <item quantity="one">Выдаліць гэты часавы пояс?</item>
+        <item quantity="few">Выдаліць абраныя часавыя паясы?</item>
+        <item quantity="many">Выдаліць абраныя часавыя паясы?</item>
     </plurals>
     <plurals name="second">
         <item quantity="other">%d секунд</item>

@@ -8,6 +8,8 @@
     <string name="explain_send_sms_permission_button">Пацвердзіць</string>
     <string name="explain_send_sms_permission_msg">Для ўключэння %s, Xiaomi Service Framework дашле SMS, каб праверыць ваш нумар тэлефона. Мабільным аператарам спаганяеца аплата за адпраўку SMS.</string>
     <string name="explain_send_sms_permission_title">Пацвердзіце ваш нумар тэлефона</string>
+    <string name="pop_up_allow_notify_dialog">Дазволіць</string>
+    <string name="pop_up_deny_notify_dialog">Забараніць</string>
     <string name="sync_notification_title_format">Сінхранізацыя: %1$s</string>
     <string name="xiaomi_cloud_service">Mi Cloud</string>
     <string name="xmsf_activate_info">Інфармацыя атывацыі XMSF</string>

@@ -19,10 +19,10 @@
         <item quantity="many">%d дзён таму</item>
     </plurals>
     <plurals name="aqi_all_city_cur_num">
-        <item quantity="other">Average of %1$s stations</item>
-        <item quantity="one">Average of %1$s station</item>
-        <item quantity="few">Average of %1$s stations</item>
-        <item quantity="many">Average of %1$s stations</item>
+        <item quantity="other">Сярэдняе з %1$s станцый</item>
+        <item quantity="one">Сярэдняе з %1$s станцыі</item>
+        <item quantity="few">Сярэдняе з %1$s станцый</item>
+        <item quantity="many">Сярэдняе з %1$s станцый</item>
     </plurals>
     <plurals name="daily_forcast_drawer_on_top">
         <item quantity="other">Прагноз на %1$s дня</item>

@@ -4,6 +4,7 @@
     <string name="notif_title_file_size">Усяго: %1$d</string>
     <string name="notif_title_single_downloading">Спампоўка %1$s</string>
     <string name="download_filesize_unknown">Невядома</string>
+    <string name="notification_dld_msg">Кіраванне праграмамі, якія спампоўваюцца</string>
     <string name="app_label">Спампоўкі</string>
     <string name="permlab_downloadManager">Доступ да Спамповак.</string>
     <string name="permdesc_downloadManager">Дазваляе праграме атрымліваць доступ да дыспетчару спамповак і выкарыстоўваць яго для спампоўкі файлаў. Шкоднасныя праграмы могуць выкарыстоўваць гэта для доступу да асабістай інфармацыі.</string>

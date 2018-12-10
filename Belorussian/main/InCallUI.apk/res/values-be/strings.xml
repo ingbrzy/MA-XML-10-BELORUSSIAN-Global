@@ -198,4 +198,5 @@
     <string name="dialpad_nine">9</string>
     <string name="prompt_no_volte_when_failed">Немагчыма рабіць выклікі. Пераканайцеся, што прылада злучана з сеткай 4G з падтрымкай VoLTE.</string>
     <string name="volume_boost_text">Гучнасць паспяхова павялічана</string>
+    <string name="supp_service_notification_call_waiting">Набраны нумар заняты. Чакайце адказу…</string>
 </resources>

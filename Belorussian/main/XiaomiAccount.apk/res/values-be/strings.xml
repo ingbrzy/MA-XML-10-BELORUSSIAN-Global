@@ -30,7 +30,7 @@
     <string name="passport_register">Стварыць акаўнт</string>
     <string name="passport_new_user_register">Стварыць акаўнт</string>
     <string name="passport_vcode_sms_send_prompt">Даслаць код пацвярджэння на %s</string>
-    <string name="passport_input_phone_password">Увядзіце пароль для нумара %s</string>
+    <string name="passport_input_phone_password">Увядзіце пароль для %s</string>
     <string name="passport_get_verify_code">Атрымаць код</string>
     <string name="passport_re_get_verify_code">Атрымаць код яшчэ раз</string>
     <string name="passport_getting_verify_code">Атрыманне</string>
@@ -179,7 +179,7 @@
     <string name="passport_quick_register_notice"><u>Не маеце Мі акаўнта? Стварыце яго.</u></string>
     <string name="passport_password_phone_login">Увайсці праз Mi Акаўнт</string>
     <string name="passport_sms_verification_code_login">Увайсці з дапамогай SMS</string>
-    <string name="passport_sms_verification_code_login_or_register">Увайсці ці зарэгістравацца з дапамогай SMS</string>
+    <string name="passport_sms_verification_code_login_or_register">Увайсці ці стварыць акаунт праз SMS</string>
     <string name="passport_login_other_account">Іншы акаўнт</string>
     <string name="passport_reg_new_account">Стварыць акаўнт</string>
     <string name="passport_select_the_login_account">Выберыце акаўнт для ўвахода</string>
@@ -479,13 +479,13 @@ ID вашага акаўнта:%s"</string>
     <string name="recycle_phone_notification_title">Пагроза бяспекі</string>
     <string name="recycle_phone_notification_msg">Нумар тэлефона быў выкарыстаны паўторна. Націсніце для абнаўлення.</string>
     <string name="send_diagnosis_log">Адправіць журнал дыягностыкі</string>
-    <string name="for_diagnosis_usage_only">Выкарыстоўваць гэтую інфармацыю толькі для дыягностыкі.</string>
-    <string name="collect_diagnosis_log">Сабраць журнал дыягностыкі</string>
-    <string name="sending">Адпраўка...</string>
-    <string name="diagnosis_log_sent_format">"Журнал дыягностыкі адпраўлены.
-Ідэнтыфікатар:%s
-Калі ласка, адпраўце гэты код тэхніку."</string>
-    <string name="diagnosis_log_send_failed">Не атрымалася адправіць журнал дыягностыкі.</string>
-    <string name="temporary_not_available">часова недаступна</string>
+    <string name="for_diagnosis_usage_only">Выкарыстоўваецца толькі для выяўлення праблем.</string>
+    <string name="collect_diagnosis_log">Стварыць журнал дыягностыкі</string>
+    <string name="sending">Адпраўка…</string>
+    <string name="diagnosis_log_sent_format">"Журнал паспяхова адпраўлены.
+ID:%s
+Адпраўце гэты код тэхперсаналу."</string>
+    <string name="diagnosis_log_send_failed">Не атрымалася адправіць журнал.</string>
+    <string name="temporary_not_available">Гэтая функцыя пакуль не даступная.</string>
     <string name="ok">OК</string>
 </resources>

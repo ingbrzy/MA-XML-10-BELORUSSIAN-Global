@@ -46,9 +46,12 @@
     <string name="customization"><u>Наладзіць</u></string>
     <string name="home_hint_global_launcher">Працоўны стол POCO</string>
     <string name="home_hint_other_launcher">Іншы працоўны стол</string>
-    <string name="self_device">"Гэты тэлефон "</string>
-    <string name="main_space">Першая прастора</string>
-    <string name="second_space">Другое сховішча</string>
+    <string name="self_device_main_space">Першая прастора гэтага тэлефона</string>
+    <string name="self_device_second_space">Другая прастора гэтага тэлефона</string>
+    <string name="other_device_main_space">Першая прастора</string>
+    <string name="other_device_second_space">Другая прастора</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="process_whole_recovery">Аднаўленне \"%s\"</string>
     <string name="size_unknown">Невядомы памер</string>
     <string name="recovering">Аднаўленне \"%s\"</string>
@@ -130,6 +133,8 @@
     <string name="provision_error_connect_msg">Праверце сетку і паспрабуйце яшчэ раз. Рэзервовая копія недаступная, калі ваша прылада адлучаная ад сеткі.</string>
     <string name="provision_error_connect_title">Немагчыма падлучыцца</string>
     <string name="loading_user_backup">Загрузка рэзервовых копій…</string>
+    <string name="loading_progress_num">(%s%%)</string>
+    <string name="error_num_placeholder">--</string>
     <string name="authentication_failed">Не атрымалася праверыць акаўнт.</string>
     <string name="no_account">Не выкананы ўваход у Mi Акаўнт.</string>
     <string name="no_backup">Няма рэзервовых копій у Mi Cloud.</string>
@@ -137,7 +142,7 @@
     <string name="home_restore_error">Не атрымалася аднавіць працоўны стол</string>
     <string name="get_device_id_error">Немагчыма атрымаць ID прылады</string>
     <string name="unsupported_home">Абнавіце MIUI да апошняй версіі.</string>
-    <string name="error_retry_later">Дзеянне не выканана. Пачакайце хвіліну і паспрабуйце ізноў.</string>
+    <string name="error_retry_later">Дзеянне не выканана. Пачакайце адну–дзве хвіліны і паспрабуйце ізноў…</string>
     <string name="try_continue">Націсніце, каб працягнуць</string>
     <string name="download_home_data">Спампоўка дадзеных працоўнага стала…</string>
     <string name="restore_home_failed">Не атрымалася аднавіць працоўны стол.</string>
@@ -154,6 +159,9 @@
     <string name="dialog_msg_restore_require_wlan">Каб аднавіць з рэзервовай копіі, патрабуецца злучэнне з Wi-Fi.</string>
     <string name="dialog_btn_next">Далей</string>
     <string name="dialog_btn_restore_skip">Аднавіць пазней</string>
+    <string name="dialog_btn_cancel_backup">Скасаваць</string>
+    <string name="dialog_btn_overwrite_backup">Перазапісаць</string>
+    <string name="dialog_msg_overwrite_backup">Лакальная рэзервовая копія адрозніваецца ад копіі ў Мі Cloud. Калі вы працягнеце, бягучая копія перазапіша папярэднюю.</string>
     <string name="cloud_backup">Резервовыя копіі ў Mi Cloud</string>
     <string name="open_backup_switch">Уключыце рэзерваванне</string>
     <string name="restore_cloud_backup_to_phone">"Аднавіць аб'екты з Mi Cloud"</string>
@@ -176,4 +184,6 @@
     <string name="msg_alert_restore_error">"Не атрымалася аднавіць аб'екты з Mi Cloud. Паспрабуйце яшчэ раз."</string>
     <string name="btn_restore_retry">Паспрабаваць зноў</string>
     <string name="btn_restore_abort">Скасаваць</string>
+    <string name="backup_stopped_title">Рэзерваванне прыпынена</string>
+    <string name="backup_stopped_msg">Бягуча рэзервовая копія перазапіша папярэднюю. Націсніце для прагляду.</string>
 </resources>

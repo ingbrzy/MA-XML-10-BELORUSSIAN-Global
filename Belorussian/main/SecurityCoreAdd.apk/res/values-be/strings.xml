@@ -435,4 +435,26 @@
     <string name="install_error">Не атрымалася ўсталяваць. Паспрабуйце яшчэ раз.</string>
     <string name="ent_install_dialog_content">Усталяваць праграмы і перазагрузіць прыладу зараз?</string>
     <string name="ent_disallow_running">Запуск праграм забаронены</string>
+    <string name="greenguard_child_des_title">"Мне патрэбна дапамога ад сяброў і сям'і"</string>
+    <string name="greenguard_child_des">Выкарыстоўвайце нашу праграму, каб заставацца на сувязі</string>
+    <string name="greenguard_parent_des_title">"Мне патрэбна дапамагчы сябрам і сям'і"</string>
+    <string name="greenguard_parent_des">Спампуйце нашу праграму і дадайце прылады іншых людзей</string>
+    <string name="cta_declaration_title">Умовы і палажэнні</string>
+    <string name="cta_declaration_message_format" formatted="false">Вы павінны прачытаць і прыняць нашы &lt;font color=%s>&lt;a href=%s> %s &lt;/a>&lt;/font> перад актывацыяй Рэжыму прадпрыемства. Для актывацыі прыладзе патрабуецца падлучэнне да Інтэрнэту. Вы згодны?</string>
+    <string name="cta_declaration_agree_and_continue">Згадзіцца</string>
+    <string name="undo_activated_dialog_message">Скасаванне дазволу адключыць Рэжым прадпрыемства і выканае скід вашай прылады да завадскіх налад. Усе звязаныя функцыі больш не будуць даступныя. Акрамя таго, Xiaomi спыніць збор інфармацыі, патрэбнай для Рэжыму прадпрыемства (IMEI, ID прылады, версія сістэмы, рэгіён і г.д.). Нагадваем, што Xiaomi не кіруе дадзенымі, якія яна збірае для Рэжыму прадпрыемства. Мы зробім усё магчымае, каб паведаміць зацікаўленыя бакі, аднак рэкамендуем вам звязацца з кіраўніком кампаніі, каб ўзгадніць гэта скасаванне. Адклікаць дазвол і выканаць скід да завадскіх налад?</string>
+    <string name="undo_activated_dialog_ok">Скасаваць</string>
+    <string name="undo_grant_dialog_message">Пасля скасавання дазволу Xiaomi спыніць збор дадзеных, патрэбных для гэтай функцыі (IMEI, ID прылады, версія сістэмы, рэгіён і г.д.). Скасаваць дазвол?</string>
+    <string name="undo_privacy_menu">Скасаваць аўтарызацыю</string>
+    <string name="more_settings">Яшчэ</string>
+    <string name="undo_success">Паспяхова скасавана</string>
+    <string name="master_clear_apply_title">Увага</string>
+    <string name="master_clear_apply_step_1">"Скасаванне аўтарызацыі патрабуе выканання скіда да завадскіх налад на прыладзе. Ён выдаліць усе файлы і дадзеныя, уключаючы акаўнты, кантакты, фатаграфіі і праграмы. Выканайце рэзервовае капіраванне ўсіх важных аб'ектаў на кампутары да скасавання аўтарызацыі."</string>
+    <string name="master_clear_apply_step_2">"Пераканайцеся, што вы выканалі рэзервовае капіраванне ўсіх важных аб'ектаў на вашым кампутары. Пасля націску на кнопку «OK» на прыладзе будзе выкананы скід да завадскіх налад, які цалкам выдаліць усе файлы і дадзеныя, уключаючы акаўнты, кантакты, фатаграфіі і праграмы."</string>
+    <string name="button_text_next_step">Далей</string>
+    <string name="button_text_next_step_timer">Наступны крок (%d)</string>
+    <string name="dialog_tip_need_network">Неабходна падлучыцца да Інтэрнэту для скасавання аўтарызацыі.</string>
+    <string name="dialog_undo_negative">Не скасоўваць</string>
+    <string name="dialog_title_service_error">Памылка сервера</string>
+    <string name="dialog_message_service_error">Не атрымалася скасаваць аўтарызацыю і выканаць скід да завадскіх налад. Паспрабуйце зноў.​</string>
 </resources>

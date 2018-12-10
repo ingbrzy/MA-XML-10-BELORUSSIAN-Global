@@ -82,6 +82,16 @@
     <string name="cloud_state_sync_finished">Сінхранізавана з Mi Cloud</string>
     <string name="cloud_state_syncing">Сінхранізацыя з Mi Cloud…</string>
     <string name="cmcc_privacy">Пагадненне аб прыватнасці China Mobile</string>
+    <string name="complain_input_number">Увядзіце ваш нумар тэлефона</string>
+    <string name="complain_jump">Прапусціць</string>
+    <string name="complain_message_title">Паскардзіцца</string>
+    <string name="complain_ok">OK</string>
+    <string name="complain_phone_number">нумар тэлефона</string>
+    <string name="complain_reason">Чаму вы скардзіцеся на гэтае паведамленне?</string>
+    <string name="complain_success">Дзякуй за ваш водгук. Ён дапамагае зрабіць Паведамленні лепш!</string>
+    <string name="complain_tips">"Змесціва самага апошняга паведамлення, на якое вы скардзіцеся, будзе загружана на нашы серверы разам з прадастаўленым вамі нумарам тэлефона. Нашы пастаўшчыкі паслуг разгледзяць яго.
+"</string>
+    <string name="complain_upload">Скарга адпраўлена</string>
     <string name="compressing">Выява занадта вялікая. Сціскаецца…</string>
     <string name="confirm">OК</string>
     <string name="confirm_add_blacklist_dialog_dspt">Дадаць нумар у чорны спіс?</string>
@@ -145,7 +155,6 @@
     <string name="dialog_message_mx">Mi Паведамленні дазваляюць вам бясплатна адпраўляць паведамленні іншым карыстальнікам MIUI. Для актывацыі Mi паведамленняў патрабуецца адпраўка SMS. Аплата спаганяецца па тарыфе вашага аператара. Перад выкарыстаннем Mi Паведамленні вы павінны прыняць нашы \"%1$s\" і \"%2$s\".</string>
     <string name="dialog_message_networking">Паведамленні павінны выкарыстоўваць Жоўтыя старонкі, каб мець магчымасць забяспечыць ідэнтыфікацыю адпраўніка. Паведамленням і Жоўтым старонкам неабходна падлучыцца да Інтэрнэту і атрымаць доступ да вашага месцазнаходжанню, каб працаваць належным чынам. Дазволіць?</string>
     <string name="dialog_message_rcs">Паведамленні China Mobile дазваляюць вам бясплатна адпраўляць паведамленні іншым карыстальнікам China Mobile у мацерыковым Кітаі. Перад выкарыстаннем Паведамленняў China Mobile вы павінны прыняць \"%1$s\".</string>
-    <string name="dialog_message_sms_report">Паведамленні са спамам і інфармацыя адпраўніка будуць адпраўлены ў MIUI. Яны будуць выкарыстоўвацца толькі для паляпшэння фільтраў спаму.</string>
     <string name="dialog_title_fake_cell_detect_error">Карэкцыя</string>
     <string name="dialog_title_mx_rcs">Mi Паведамленні</string>
     <string name="dialog_title_networking">Умовы і палажэнні</string>
@@ -180,7 +189,6 @@
     <string name="error_timed_msg">Няправільны час</string>
     <string name="ex_type_mx">Mi Паведамленні</string>
     <string name="ex_type_sms">SMS/MMS</string>
-    <string name="exceed_length_limit">超出最大长度界限</string>
     <string name="exceed_message_size_limitation">Гэта максімальны памер паведамлення.</string>
     <string name="exceed_message_size_limitation_add_slide">Паведамленне занадта вялікае для дадавання слайда</string>
     <string name="exceed_message_text_limitation">Дасягнуты ліміт даўжыні паведамлення.</string>
@@ -203,6 +211,7 @@
     <string name="file_size">Памер:</string>
     <string name="file_title">Імя:</string>
     <string name="file_width_height">Памер:</string>
+    <string name="flatshow_page_no">%1$d</string>
     <string name="force_touch_new_message_title">Новае паведамленне</string>
     <string name="forward_from">Ад:</string>
     <string name="forward_message_select_title">Пераслаць паведамленне</string>
@@ -215,15 +224,15 @@
     <string name="found_wild_messages_title">Сінхранізацыя з Mi Cloud</string>
     <string name="from_label">Ад:</string>
     <string name="from_pkg_name">З праграмы:</string>
-    <string name="group_already_kicked_hint">你不在这个群里，无法发送消息</string>
+    <string name="group_already_kicked_hint">"Адпраўка паведамленняў немагчыма. Вы не з'яўляецеся удзельнікам гэтага групавога чата."</string>
     <string name="group_message">Групавое паведамленне</string>
-    <string name="group_message_title">群聊消息</string>
-    <string name="group_not_exist_hint">群已经被解散了，无法发送消息</string>
-    <string name="group_notify_message_title">群通知消息</string>
-    <string name="group_rejoin_failed">群操作失败</string>
+    <string name="group_message_title">Групавыя чаты</string>
+    <string name="group_not_exist_hint">Адпраўка паведамленняў немагчыма. Гэты групавы чат выдалены.</string>
+    <string name="group_notify_message_title">Апавяшчэння групавых чатаў</string>
+    <string name="group_rejoin_failed">Не атрымалася далучыцца да групавога чату</string>
     <string name="group_resend_message">Пераслаць (%d)</string>
-    <string name="group_view_settings_disolved">群已经被解散，无法查看群资料</string>
-    <string name="group_view_settings_not_memeber">不在这个群里，无法查看群资料</string>
+    <string name="group_view_settings_disolved">"Прагляд аб'ектаў немагчымы. Гэты групавы чат быў выдалены."</string>
+    <string name="group_view_settings_not_memeber">"Прагляд аб'ектаў немагчымы. Вы не з'яўляецеся удзельнікам гэтага групавога чата."</string>
     <string name="guild_add_attachments">Націсніце, каб дадаць смайлы або іншыя ўкладанні</string>
     <string name="guild_add_recipients">Націсніце, каб дадаць атрымальнікаў са спісу кантактаў</string>
     <string name="guild_msim_switcher">Націсніце для змены SIM-карты</string>
@@ -301,7 +310,7 @@
     <string name="mms">MMS</string>
     <string name="move_down">Рухаць уніз</string>
     <string name="move_up">Рухаць наверх</string>
-    <string name="msg_no_member_selected">请至少选择一个联系人.</string>
+    <string name="msg_no_member_selected">Выберыце хаця б 1 кантакт</string>
     <string name="msg_type_hint_mms">Мультымедыйнае паведамленне</string>
     <string name="msg_type_hint_mms_omit">MMS</string>
     <string name="msg_type_hint_mx">Mi Паведамленні</string>
@@ -435,7 +444,6 @@
     <string name="pref_sms_storage_title">Сховішча</string>
     <string name="pref_sms_theme_title">Адлюстраванне</string>
     <string name="pref_summary_allow_si_sl_push">Дазволіць паведамленням спампоўваць змест з сайтаў</string>
-    <string name="pref_summary_allow_upload_message_info">Паведамленні са спамам і інфармацыя адпраўніка будуць адпраўлены ў MIUI.</string>
     <string name="pref_summary_auto_delete">Выдаляць старыя паведамленні, калі будуць дасягнуты ліміты</string>
     <string name="pref_summary_delete_limit">Паведамленняў у дыялозе: %1$s</string>
     <string name="pref_summary_delivery_reports">Паказваць справаздачу пра дастаўку для адпраўленых паведамленняў</string>
@@ -452,7 +460,6 @@
     <string name="pref_switch_sdk_setting">Змяніць аператара Разумных паведамленняў</string>
     <string name="pref_system_title">Сістэма</string>
     <string name="pref_title_allow_si_sl_push">Дазволіць WAP Push (SI/SL)</string>
-    <string name="pref_title_allow_upload_message_info">Паведамляць пра спам</string>
     <string name="pref_title_auto_delete">Выдаліць старыя паведамленні</string>
     <string name="pref_title_card_format">Фармат карткі</string>
     <string name="pref_title_delivery_reports">Справаздача пра дастаўку</string>
@@ -506,19 +513,19 @@
     <string name="rcs_auto_resend_sms">Пераўтварыць у SMS</string>
     <string name="rcs_auto_resume">Аднаўляць адпраўку аўтаматычна</string>
     <string name="rcs_auto_resume_only_by_wifi">Аднаўляць адпраўку толькі пры падключэнні да Wi-Fi</string>
-    <string name="rcs_create_new_group">新建群聊</string>
+    <string name="rcs_create_new_group">Стварыць групавы чат</string>
     <string name="rcs_dspt">Адпраўляйце і атрымлівайце паведамленні праз Wi-Fi або сетку China Mobile</string>
     <string name="rcs_dspt_unavailable">Паслуга недаступная. SIM-карта China Mobile не ўсталяваная па змаўчанні для мабільнага інтэрнэту.</string>
     <string name="rcs_forward_faild">Памылка перасылкі</string>
     <string name="rcs_forward_successful">Перасылка паспяхова выканана</string>
-    <string name="rcs_group_notification_invitation">群邀请</string>
+    <string name="rcs_group_notification_invitation">Запрашэнне ў групавы чат</string>
     <string name="rcs_message">Паведамленні China Mobile</string>
     <string name="rcs_message_disable">Немагчыма праглядзець гэта паведамленне ў Другім прасторы</string>
     <string name="rcs_msg">Паведамленні China Mobile</string>
     <string name="rcs_not_online">Немагчыма выкарыстаць Паведамлення China Mobile. Праверце налады сеткі і паспрабуйце ізноў.</string>
     <string name="rcs_offline_hint">Паведамлення China Mobile не ў сетцы. Перасылка немагчымая.</string>
     <string name="rcs_recipient_type_contact">Пераслаць кантакту</string>
-    <string name="rcs_recipient_type_group">转发到群</string>
+    <string name="rcs_recipient_type_group">Пераслаць у групавы чат</string>
     <string name="rcs_recipient_type_pc">Пераслаць на кампутар</string>
     <string name="rcs_resend_not_online">Немагчыма выкарыстаць Паведамлення China Mobile</string>
     <string name="rcs_resend_sim_card_not_insert">Падобна на тое, ваша SIM-карта не ўсталяваная</string>
@@ -531,7 +538,7 @@
     <string name="rcs_summary_auto_resend_mms">Адпраўляць мультымедыйныя паведамленні China Mobile ў выглядзе MMS праз мабільную сетку, калі няма падлучэння Wi-Fi. Мабільным аператарам будзе брацца плата за MMS.</string>
     <string name="rcs_summary_auto_resend_sms">Адпраўляць тэкставыя паведамленні China Mobile ў выглядзе SMS праз мабільную сетку, калі няма падлучэння Wi-Fi. Мабільным аператарам будзе брацца плата за SMS.</string>
     <string name="rcs_summary_silence_message">Апавяшчэння аб паведамленнях пры запушчаным кліенце для ПК будуць паступаць без гуку</string>
-    <string name="rcs_unavailable">"Can't use China Mobile Messaging now. China Mobile SIM card isn't your default data card."</string>
+    <string name="rcs_unavailable">Немагчыма выкарыстаць паведамлення China Mobile. SIM-карта China Mobile не ўсталяваная па змаўчанні для мабільнага інтэрнэту.</string>
     <string name="rcs_wait_for_retry_text">Чаканне…</string>
     <string name="received_at_time">Атрымана: %1s</string>
     <string name="received_label">Атрымана:</string>
@@ -635,6 +642,7 @@
     <string name="send_signature_confirm_dialog_title">Адпраўка паведамленні</string>
     <string name="send_sms">Адправіць паведамленне</string>
     <string name="send_to">Каму:</string>
+    <string name="send_to_index_contact">%1$s/%2$s</string>
     <string name="sent_at_time">Адпраўлена: %1s</string>
     <string name="sent_label">Адпраўленна:</string>
     <string name="service_message_not_found">Тэрмін дзеяння паведамлення скончыўся ці яно недасяжнае</string>
@@ -666,7 +674,6 @@
     <string name="sms_full_title">Памяць для тэкставых паведамленняў запоўненая</string>
     <string name="sms_rejected_body">Уваходнае паведамленне адхілена.</string>
     <string name="sms_rejected_title">Паведамленне адхілена</string>
-    <string name="sms_report">Паведамляць пра спам</string>
     <string name="sms_report_dialog_content">Не атрымалася адправіць, паўтарыце спробу.</string>
     <string name="sms_report_dialog_retry">Паўтарыць</string>
     <string name="sms_report_dialog_title">Паўтарыць</string>

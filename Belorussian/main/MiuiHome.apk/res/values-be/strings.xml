@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="status_bar_notification_info_overflow">больш за 999</string>
     <string name="action_add_to_workspace">Дадаць да працоўнай прасторы</string>
     <string name="activity_not_found">Праграма не знойдзеная</string>
     <string name="add_screen">Дадаць экран</string>
+    <string name="announce_for_app_move_in_folder">Перамешчана ў пазіцыю %1$d у папцы</string>
     <string name="announce_for_checked">%1$s, праверана</string>
     <string name="announce_for_choose_default_screen">Усталяваць экран %1$d як пачатковы</string>
     <string name="announce_for_close_default_preview">Налады выбару пачатковага экрана зачыненыя</string>
     <string name="announce_for_close_folder">Папка закрыта</string>
     <string name="announce_for_close_launcher_menu">Меню зачынена</string>
+    <string name="announce_for_create_folder_with_app">Створана папка з %1$s</string>
     <string name="announce_for_delete_gadget_and_widget">Віджэт</string>
     <string name="announce_for_delete_item">%1$s выдалены</string>
     <string name="announce_for_drag_enter_delete_zone">"Вы перацягнулі аб'екты ў зону выдалення"</string>
@@ -30,6 +33,7 @@
     <string name="announce_for_open_launcher_menu">Меню адчынена</string>
     <string name="announce_for_show_uninstall_dialog">Паявіўся дыялог выдалення. Скасуйце або пагадзіцеся.</string>
     <string name="announce_for_unchecked">%1$s, не праверана</string>
+    <string name="announce_for_widget_span">Шырыня %1$d, вышыня %2$d</string>
     <string name="app_already_exist">Праграма ўжо існуе</string>
     <string name="app_being_backup_message">Ствараецца рэзервовая копія праграмы</string>
     <string name="app_being_restored_message">Праграма аднаўляецца</string>
@@ -296,6 +300,7 @@
     <string name="share">Падзяліцца</string>
     <string name="show_all">Паказаць усе</string>
     <string name="show_mem_info_title">Паказваць стан памяці</string>
+    <string name="show_recents_recommend_title">Паказаць прапановы</string>
     <string name="sort_by_abc">Па назве</string>
     <string name="sort_by_frequency">Па папулярнасці</string>
     <string name="sort_by_not_defined">Па парадку</string>
@@ -343,10 +348,7 @@
     <string name="widget_gadget_player">Музыка</string>
     <string name="widget_global_search">Пошук</string>
     <string name="widget_quick_function">Хуткі доступ</string>
-    <string name="announce_for_app_move_in_folder">Moved to position %1$d in the folder</string>
-    <string name="announce_for_create_folder_with_app">Created a folder with %1$s</string>
-    <string name="announce_for_widget_span">Width %1$d, height %2$d</string>
-    <string name="recommend_apps_no_data_toast">No recommendations for now.</string>
-    <string name="recommend_refresh">Refresh</string>
-    <string name="recommend_xout">"Don't show"</string>
+    <string name="recommend_apps_no_data_toast">Пакуль няма рэкамендацый.</string>
+    <string name="recommend_refresh">Абнавіць</string>
+    <string name="recommend_xout">Не паказваць</string>
 </resources>

@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="status_bar_notification_info_overflow">больш за 999</string>
     <string name="activity_not_found">Няма праграмы для выканання гэтага дзеяння</string>
-    <string name="allow_network_hint">Turn on \"Update info automatically\" or check your network connection</string>
-    <string name="already_updated">Up to date</string>
+    <string name="allow_network_hint">Уключыце \"Абнаўляць дадзеныя аўтаматычна\" ці праверце падлучэнне да сеткі</string>
+    <string name="already_updated">Абноўлена</string>
     <string name="back_to_message_list">Вярнуцца да спісу паведамленняў</string>
     <string name="button_close">Закрыць</string>
-    <string name="click_to_update">Tap to check for updates</string>
+    <string name="click_to_update">Націсніце, каб праверыць абнаўлення</string>
     <string name="cm_privacy_dialog_allow">Згодзен (згодна)</string>
     <string name="cm_privacy_dialog_cancel">Скасаваць</string>
     <string name="cm_privacy_dialog_spannable_tips">Палітыка канфідэнцыяльнасці</string>
@@ -19,7 +20,7 @@
     <string name="confirm_dialog_title">Выдаліць?</string>
     <string name="copy_message_text">Капіяваць</string>
     <string name="copy_message_text_success">Паспяхова скапіявана</string>
-    <string name="current_data_version">Mi Message version</string>
+    <string name="current_data_version">Версія Mi Паведамленняў</string>
     <string name="delete">Выдаліць</string>
     <string name="delete_message">Выдаліць</string>
     <string name="from_label">"Ад: "</string>
@@ -55,6 +56,6 @@
     <string name="summary_pref_cm_smart_sms">Шаблоны карт, сэрвісныя нумары SMS і г. д.</string>
     <string name="text_message">Тэкставае паведамленне</string>
     <string name="title_pref_cm_smart_sms">Разумныя SMS China Mobile</string>
-    <string name="updating">Updating…</string>
+    <string name="updating">Абнаўляецца…</string>
     <string name="view_message_details">Дэталі</string>
 </resources>

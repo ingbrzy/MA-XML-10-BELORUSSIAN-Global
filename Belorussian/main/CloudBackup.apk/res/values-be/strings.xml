@@ -133,7 +133,6 @@
     <string name="provision_error_connect_msg">Праверце сетку і паспрабуйце яшчэ раз. Рэзервовая копія недаступная, калі ваша прылада адлучаная ад сеткі.</string>
     <string name="provision_error_connect_title">Немагчыма падлучыцца</string>
     <string name="loading_user_backup">Загрузка рэзервовых копій…</string>
-    <string name="loading_progress_num">(%s%%)</string>
     <string name="error_num_placeholder">--</string>
     <string name="authentication_failed">Не атрымалася праверыць акаўнт.</string>
     <string name="no_account">Не выкананы ўваход у Mi Акаўнт.</string>

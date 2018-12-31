@@ -56,6 +56,7 @@
     <string name="save_pic_success">Выява захавана ў %s</string>
     <string name="save_pic_fail">Не атрымалася захаваць выяву, праверце SD-карту</string>
     <string name="pic_not_exist">Гэта выява не існуе</string>
+    <string name="pic_view_format">%1$s\"/\"%2$s</string>
     <string name="michat_skillset_product_title">Выберыце прадукт</string>
     <string name="michat_skillset_business_type_title">Выберыце сэрвіс</string>
     <string name="michat_close_text">Чат завершаны</string>
@@ -215,8 +216,10 @@
     <string name="feedback_select_suggestion">Прапановы</string>
     <string name="feedback_select_problem">Праблемы</string>
     <string name="feedback_choose_module">Выбар катэгорыі</string>
+    <string name="feedback_choose_app_tag">Выберыце праблему</string>
     <string name="feedback_choose_third_app_name">Выберыце праграму</string>
     <string name="toast_module_required">"Выбраць аб'ект"</string>
+    <string name="toast_app_tag_required">Выберыце праблему</string>
     <string name="feedback_choose_module_hint">Абавязкова</string>
     <string name="feedback_choose_reproductivity">Рэпрадуктыўнасць</string>
     <string name="feedback_title_reproductivity">Выберыце рэпрадуктыўнасць</string>
@@ -327,6 +330,7 @@
     <string name="toast_log_too_large">Не ўдаецца запампаваць. Журнал занадта вялікі.</string>
     <string name="title_customer_service">Абслугоўванне карыстальнікаў</string>
     <string name="title_first_aid">Першая дапамога</string>
+    <string name="title_user_guide">Даведнік карыстальніка</string>
     <string name="customer_service_apply">Запыт у службу абслугоўвання кліентаў</string>
     <string name="customer_service_complain">Паведаміць аб службе абслугоўвання кліентаў</string>
     <string name="customer_service_station">Месца абслугоўвання</string>
@@ -340,12 +344,11 @@
     <string name="catch_full_log_item_title_sensor">Датчыкі</string>
     <string name="catch_full_log_item_title_bt">Bluetooth</string>
     <string name="catch_full_log_item_title_dump_heap">Затрымкі</string>
-    <string name="catch_full_log_item_content_need_open">"Крокі:
-1. Націсніце \"Стварыць журнал\".
+    <string name="catch_full_log_item_content_title">Крокі:</string>
+    <string name="catch_full_log_item_content_need_open">"Націсніце \"Стварыць журнал\".
 2. Вярніцеся да функцыі, пра якую вы хочаце паведаміць, і ўзнавіце праблему.
 3. Вярніцеся на гэту старонку і націсніце \"Завяршыць і адправіць\"."</string>
-    <string name="catch_full_log_item_content_catch_direct">"Крокі:
-1. Вярніцеся да функцыі, пра якую вы хочаце паведаміць, і ўзнавіце праблему.
+    <string name="catch_full_log_item_content_catch_direct">"1. Вярніцеся да функцыі, пра якую вы хочаце паведаміць, і ўзнавіце праблему.
 2. Вярніцеся на гэту старонку і націсніце \"Завяршыць і адправіць\"."</string>
     <string name="catch_full_log_action_start">Стварыць журнал</string>
     <string name="catch_full_log_action_complete">Завяршыць і адправіць</string>

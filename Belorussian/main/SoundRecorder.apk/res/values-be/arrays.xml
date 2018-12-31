@@ -9,7 +9,7 @@
     <string-array name="interview_record_scenes_entries">
         <item>Музыка</item>
         <item>Голас</item>
-        <item>"Інтэрв'ю"</item>
+        <item>Інтэрвью</item>
     </string-array>
     <string-array name="record_format_entries">
         <item>AAC</item>

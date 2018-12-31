@@ -126,6 +126,18 @@ total %2$d songs"</item>
         <item quantity="few">%d items selected</item>
         <item quantity="many">%d items selected</item>
     </plurals>
+    <plurals name="notif_title_multiple_downloading">
+        <item quantity="other">Пампуецца %1$d файлаў</item>
+        <item quantity="one">Пампуецца %1$d файл</item>
+        <item quantity="few">Пампуецца %1$d файла</item>
+        <item quantity="many">Пампуецца %1$d файлаў</item>
+    </plurals>
+    <plurals name="notification_download_failed_more">
+        <item quantity="other">"Не атрымалася спампаваць %1$d аб'ектаў"</item>
+        <item quantity="one">"Не атрымалася спампаваць %1$d аб'ект"</item>
+        <item quantity="few">"Не атрымалася спампаваць %1$d аб'екта"</item>
+        <item quantity="many">"Не атрымалася спампаваць %1$d аб'ектаў"</item>
+    </plurals>
     <plurals name="reader_count">
         <item quantity="other">%d followers</item>
         <item quantity="one">%d follower</item>

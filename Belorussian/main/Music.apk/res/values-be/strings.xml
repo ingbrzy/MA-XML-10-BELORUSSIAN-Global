@@ -150,7 +150,7 @@
     <string name="dialog_media_not_found">Не ўдаецца спампаваць. SD-карта недаступная.</string>
     <string name="dialog_queued_body">Гэты файл знаходзіцца ў чарзе спамповак.</string>
     <string name="dialog_renew_failure">Выбачайце, не ўдалося выканаць дзеянне</string>
-    <string name="dialog_renew_free_end">Your free trial is over. Subscribe to Hungama PRO?​</string>
+    <string name="dialog_renew_free_end">Пробны перыяд скончаны. Падпісацца на Hungama PRO?</string>
     <string name="dialog_renew_positive_text">ДА, Я ХАЧУ ЗАПАЛЬВАЦЬ ЯК ПРОФІ</string>
     <string name="dialog_renew_success">Дзякуй за пацверджанне</string>
     <string name="dialog_song_sort_type">Сартаванне песень</string>
@@ -205,6 +205,7 @@
     <string name="download_method">Спампоўка</string>
     <string name="download_no_application_title">Не ўдаецца адкрыць файл</string>
     <string name="download_paused_in_power_save_mode">Downloads are paused when Battery saver is on</string>
+    <string name="download_percent">%d%%</string>
     <string name="download_processing">Спампоўка…</string>
     <string name="download_quality">Якасць спампоўкі</string>
     <string name="download_quality_summary">Дадатковыя налады для спампоўкі песень</string>
@@ -284,7 +285,9 @@
     <string name="exo_download_notification_channel_name">Спампоўкі</string>
     <string name="exo_download_removing">Выдаленне спамповак</string>
     <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Мбіт/с</string>
     <string name="exo_track_mono">Мона</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">Аўтаматычна</string>
     <string name="exo_track_selection_none">Няма</string>
     <string name="exo_track_selection_title_audio">Аўдыя</string>
@@ -479,13 +482,13 @@
     <string name="nowplaying_dialog_title_delete_tracks">Выдаліць гэты трэк з чаргі?</string>
     <string name="nowplaying_menu_item_delete">Выдаліць з чаргі</string>
     <string name="ok">OК</string>
-    <string name="online_apk_download_error_no_enough_space">"Couldn't download due to insufficient storage space."</string>
-    <string name="online_apk_downloading">Downloading…%d%%</string>
-    <string name="online_apk_install_alert_confirm">Download</string>
-    <string name="online_apk_install_alert_message">You need to download Yandex.Music plug-in. Download now?</string>
-    <string name="online_apk_install_alert_note">This service is provided by Yandex.Music</string>
-    <string name="online_apk_install_error_no_enough_space">"Couldn't install due to insufficient storage space."</string>
-    <string name="online_apk_install_error_with_reason">"Couldn't install (Error %d)"</string>
+    <string name="online_apk_download_error_no_enough_space">Не атрымалася спампаваць з-за недахопу вольнага месца ў памяці.</string>
+    <string name="online_apk_downloading">Запампоўваецца…%d%%</string>
+    <string name="online_apk_install_alert_confirm">Спампаваць</string>
+    <string name="online_apk_install_alert_message">Неабходна загрузіць убудову Яндекс.Музыка. Загрузіць яго?</string>
+    <string name="online_apk_install_alert_note">Паслуга прадастаўлена сэрвісам Яндекс.Музыка</string>
+    <string name="online_apk_install_error_no_enough_space">Не атрымалася ўсталяваць з-за недахопу вольнага месца ў памяці.</string>
+    <string name="online_apk_install_error_with_reason">Не атрымалася ўсталяваць (памылка %d)</string>
     <string name="online_list_delete_message">Усе спампаваныя трэкі ў гэтым спісе будуць выдалены з унутранага сховішча.</string>
     <string name="online_recommend">Playlist</string>
     <string name="online_service_open_tip">Online music services are on</string>
@@ -540,6 +543,7 @@
     <string name="priority_storage">Выкарыстоўваць SD-карту</string>
     <string name="priority_storage_summary">Аўтаматычна захоўваць файлы на SD-карту, калі яна падлучана</string>
     <string name="privacy_policy">Палітыка канфідэнцыяльнасці</string>
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=en</string>
     <string name="pro_member">Член PRO</string>
     <string name="project_device">Mi Phone</string>
     <string name="prompt_grant_write_settings_permission">Дазволіць змяняць сістэмныя налады</string>
@@ -637,6 +641,7 @@
     <string name="start_to_check_new_version">Праверка абнаўлення…</string>
     <string name="start_to_download">Запампоўка…</string>
     <string name="start_to_play">Прайграць</string>
+    <string name="status_bar_notification_info_overflow">больш за 999</string>
     <string name="storage_internal">Унутранае сховішча</string>
     <string name="storage_sd_card">SD-карта</string>
     <string name="storage_usb">USB-сховішча</string>
@@ -697,6 +702,7 @@
     <string name="upgrade_music_message">Updates are ready. Restart to update.</string>
     <string name="upgrading_in_backstage">Updating in the background…</string>
     <string name="user_agreement">Карыстальніцкае пагадненне</string>
+    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=en</string>
     <string name="version_info">Version</string>
     <string name="video_play_cellular">Ваша прылада не падлучана да Wi-Fi. Выкарыстаць мабільны інтэрнэт?</string>
     <string name="video_replay_btn">Прайграць зноў</string>

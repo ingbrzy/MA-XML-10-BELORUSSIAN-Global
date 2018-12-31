@@ -69,7 +69,7 @@
     <string name="got_it">Зразумела</string>
     <string name="gps">Навігацыя</string>
     <string name="import_contact">Імпарт кантакту</string>
-    <string name="impunity_declaration_content">Сканару патрабуюцца дазволы на доступ да камеры і здымку фота. Для нармальнай працы сканара таксама патрабуецца падлучэнне да інтэрнэту. Націск на \"Згадзіцца\" ніжэй азначае, што вы прачыталі і прымаеце нашу %1$sПалітыку канфідэнцыяльнасці%2$s.</string>
+    <string name="impunity_declaration_content">Сканару патрабуюцца дазволы на доступ да камеры і здымку фота. Для нармальнай працы сканара таксама патрабуецца падлучэнне да інтэрнэту. Націск на \"Згадзіцца\" ніжэй азначае, што вы прачыталі і прымаеце нашу %1$sПалітыку прыватнасці%2$s.</string>
     <string name="impunity_declaration_negative_text">Выхад</string>
     <string name="impunity_declaration_title">Палітыка канфідэнцыяльнасці</string>
     <string name="label_choose_picture">Выберыце малюнак</string>
@@ -92,6 +92,7 @@
     <string name="module_title_business_card">Візітка</string>
     <string name="module_title_code">QR-код</string>
     <string name="module_title_document">Дакумент</string>
+    <string name="module_title_plant">Расліна</string>
     <string name="module_title_shopping">Набыццё рэчаў</string>
     <string name="module_title_translation">Пераклад</string>
     <string name="name">Імя:</string>
@@ -106,6 +107,11 @@
     <string name="payment_text">Адкрыніць з дапамогай %s</string>
     <string name="phone">Тэлефон:</string>
     <string name="place_barcode_into_rectangle">Змясціце код у межах рамкі</string>
+    <string name="plant_fail">Не атрымалася распазнаць</string>
+    <string name="plant_loading">Распазнаванне…</string>
+    <string name="plant_reg_fail_2">"Не атрымалася распазнаць гэты аб'ект. Сканар можа распазнаваць толькі расліны."</string>
+    <string name="plant_support">" (Тэхнічная падтрымка)"</string>
+    <string name="plant_title">Навядзіце сканер на расліну</string>
     <string name="preparing_sd">Падрыхтоўка ўнутранага сховішча…</string>
     <string name="previous">Назад</string>
     <string name="qr_code_details">Інфармацыя аб QR-кодзе:</string>

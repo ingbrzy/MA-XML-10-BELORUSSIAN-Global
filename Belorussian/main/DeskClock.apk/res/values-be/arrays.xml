@@ -13,8 +13,8 @@
     <string-array name="alarm_repeat_type">
         <item>Аднакроць</item>
         <item>Штодня</item>
-        <item>Працоўная дні</item>
-        <item>Выхадныя</item>
+        <item>Працоўныя дні</item>
+        <item>Выхадныя дні</item>
         <item>З ПН па ПТ</item>
         <item>Свая</item>
     </string-array>
@@ -341,7 +341,7 @@
         <item>Кіта</item>
     </string-array>
     <string-array name="countries_names_miui">
-        <item>"Кот-д'Івуар"</item>
+        <item>Кот-д’Івуар</item>
         <item>Гана</item>
         <item>Эфіопія</item>
         <item>Алжыр</item>
@@ -673,17 +673,5 @@
         <item>0</item>
         <item>1</item>
         <item>2</item>
-    </string-array>
-    <string-array name="weather_tips_value">
-        <item>Паспрабуйце не выходзіць на вуліцу.</item>
-        <item>Сёння на дарогах слізка.</item>
-        <item>Штармавое папярэджанне, будзьце асцярожныя.</item>
-        <item>Сёння туман. Кіруйце машынай асцярожна.</item>
-        <item>Паветра забруджана, надзеньце маску.</item>
-        <item>Не забудзьце на парасон.</item>
-        <item>Будзьце асцярожныя на дарозе.</item>
-        <item>Сёння град, будзьце асцярожныя.</item>
-        <item>Будзе пясчаная бура, надзеньце маску.</item>
-        <item>Добрага дня!</item>
     </string-array>
 </resources>

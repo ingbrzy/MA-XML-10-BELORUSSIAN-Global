@@ -22,7 +22,7 @@
     <string name="sleep_config_enhance_description_non_nfc">Калі MIUI выяўляе, што вы спіце, яна зачыніць фонавыя праграмы, абмяжуе NFC, Bluetooth, GPS, мабільны інтэрнэт, Wi-Fi і не будзе падсвечваць экран для апавяшчэнняў.</string>
     <string name="nonui_mode_config_title">Неінтэрактыўны рэжым</string>
     <string name="nonui_mode_config_description">Не падсвечваць экран для апавяшчэнняў, выключыць індыкатар святла, сканер адбіткаў пальцаў і сэнсарнае кіраванне для энергазберажэнне калі MIUI выяўляе, што вы не карыстаецеся прыладай.</string>
-    <string name="power_center">Энергія</string>
+    <string name="power_center">Выкарыстанне батарэі</string>
     <string name="power_usage">Выкарыстанне энергіі</string>
     <string name="power_mode">Налады сілкавання</string>
     <string name="performance_category">Прадукцыйнасць</string>
@@ -94,8 +94,17 @@
     <string name="extreme_mode_max_item_alert">Вы можаце абраць да 4 праграм для работы ў фонавым рэжыме</string>
     <string name="message_i_know">Зразумела</string>
     <string name="high_temp_state">Перагрэў</string>
-    <string name="high_temp_state_message">Ваша прылада перагрэлась. Мабільны інтэрнэт, кропка доступу Wi-Fi, GPS і камера будуць адключаныя.</string>
+    <string name="high_temp_state_message">Прылада перагрэлася. Мабільны інтэрнэт, пункт доступу Wi-Fi, GPS і камера будуць адключаны.</string>
     <string name="atrace_start">Стварэнне журнала atrace…</string>
     <string name="atrace_saving">Захаванне журнала atrace…</string>
     <string name="atrace_saved">Захавана паспяхова</string>
+    <string name="notification_open_extreme_mode_text">Turned on Extreme battery saver</string>
+    <string name="extreme_power_settings_title">settings</string>
+    <string name="notification_exit_extreme_mode_title">Turned off Extreme battery saver</string>
+    <string name="notification_exit_extreme_mode_text">Battery is more than %s charged</string>
+    <string name="extreme_power_config_mode_summary">Extreme battery saver restricts background activity, and stops sync.</string>
+    <string name="extreme_add_white_list_title">Background exceptions</string>
+    <string name="extreme_add_white_list_summary">Add up to 4 apps</string>
+    <string name="adaptive_battery_title">Use Adaptive Battery</string>
+    <string name="adaptive_battery_summary">"Limit battery for apps that you don't use often"</string>
 </resources>

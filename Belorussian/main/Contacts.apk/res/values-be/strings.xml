@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="status_bar_notification_info_overflow">больш за 999</string>
     <string name="accessibility_calllog_detail">Гісторыя выклікаў</string>
     <string name="accessibility_contact_detail">Інфармацыя пра кантакт</string>
     <string name="account_container_title">З акаўнта</string>
@@ -98,6 +99,7 @@
     <string name="call_sim_menu_title_suffix">(Асноўны)</string>
     <string name="call_telex">Тэлекс</string>
     <string name="call_tty_tdd">Тэлетайп</string>
+    <string name="call_type_and_date">%1$s %2$s</string>
     <string name="call_unit">CNY</string>
     <string name="call_work">Працоўны тэлефон</string>
     <string name="call_work_mobile">Працоўны мабільны</string>
@@ -487,6 +489,7 @@
     <string name="force_touch_miprofile">Візітка</string>
     <string name="force_touch_new_contact">Новы кантакт</string>
     <string name="frequentList">Частыя</string>
+    <string name="from_account_format">%1$s</string>
     <string name="full_name">Імя</string>
     <string name="gallery">Галерэя</string>
     <string name="generic_no_account_prompt">Трымайце свае кантакты ў бяспецы нават калі Вы згубіце свой тэлефон: сінхранізацыя з анлайн-сэрвісам.</string>
@@ -667,6 +670,7 @@
     <string name="miprofile_contact_header">Кантакты з візіткамі</string>
     <string name="miprofile_contact_meaasge">Кантакты на прыладзе</string>
     <string name="miprofile_contact_verifying">Праверка</string>
+    <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miprofile_edit_title">Рэдагаваць профіль</string>
     <string name="miprofile_error_accept_self">Нельга абмяняцца візіткамі з сабой</string>
     <string name="miprofile_error_no_miaccount">Увайсці ў Mi Акаўнт</string>
@@ -811,7 +815,10 @@
     <string name="path_wipe_data">Сістэмныя праграмы/Кантакты/Дадаткова/Ачысціць дадзеныя</string>
     <string name="payphone">Таксафон</string>
     <string name="people">Кантакты</string>
+    <string name="percent_sign">%</string>
+    <string name="percentage">%s%%</string>
     <string name="phoneLabelsGroup">Тэлефон</string>
+    <string name="phone_info_divider">" ｜ "</string>
     <string name="phone_number_too_long_toast">Нумар занадта доўгі</string>
     <string name="phone_primary">Асноўны</string>
     <string name="photoPickerNotFoundText">Няма выяў.</string>
@@ -1060,6 +1067,7 @@
     <string name="sim_unloaded">SIM-карта не ўсталявана</string>
     <string name="sina_weibo">Sina Weibo</string>
     <string name="single_group_list_empty">Няма кантактаў у групе</string>
+    <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
     <string name="smart_group_company_label">Па кампаніям</string>
     <string name="smart_group_company_unavailable">Няма кампаніі</string>
     <string name="smart_group_frequency_1">Напрацягу месяца</string>
@@ -1194,6 +1202,7 @@
     <string name="voip_audio_description">Выклік VoIP</string>
     <string name="voip_video_description">Відэавыклік VoIP</string>
     <string name="websiteLabelsGroup">Сайт</string>
+    <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
     <string name="wipe_data">Ачысціць дадзеныя</string>
     <string name="yellowPageNavigationIconLabel">Даведнік</string>
     <string name="yellowPageNavigationLabel">Даведнік</string>

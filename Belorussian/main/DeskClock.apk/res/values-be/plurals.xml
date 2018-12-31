@@ -6,6 +6,12 @@
         <item quantity="few">Адкладзена на %d хвіліны.</item>
         <item quantity="many">Адкладзена на %d хвілін.</item>
     </plurals>
+    <plurals name="day">
+        <item quantity="other">%d дзён</item>
+        <item quantity="one">%d дзень</item>
+        <item quantity="few">%d дні</item>
+        <item quantity="many">%d дзён</item>
+    </plurals>
     <plurals name="delete_alarm_confirm">
         <item quantity="other">Выдаліць выбраныя будзільнікі?</item>
         <item quantity="one">Выдаліць будзільнік?</item>
@@ -18,11 +24,35 @@
         <item quantity="few">Выдаліць абраныя часавыя паясы?</item>
         <item quantity="many">Выдаліць абраныя часавыя паясы?</item>
     </plurals>
+    <plurals name="hour">
+        <item quantity="other">%d гадзін</item>
+        <item quantity="one">%d гадзіна</item>
+        <item quantity="few">%d гадзіны</item>
+        <item quantity="many">%d гадзін</item>
+    </plurals>
+    <plurals name="life_post_wake_up_item_acumu_day">
+        <item quantity="other">%1$d дзён</item>
+        <item quantity="one">%1$d дзень</item>
+        <item quantity="few">%1$d дня</item>
+        <item quantity="many">%1$d дзён</item>
+    </plurals>
+    <plurals name="minute">
+        <item quantity="other">%d хвілін</item>
+        <item quantity="one">%d хвіліна</item>
+        <item quantity="few">%d хвіліны</item>
+        <item quantity="many">%d хвілін</item>
+    </plurals>
     <plurals name="second">
         <item quantity="other">%d секунд</item>
         <item quantity="one">%d секунда</item>
         <item quantity="few">%d секунды</item>
         <item quantity="many">%d секунд</item>
+    </plurals>
+    <plurals name="snooze_duration_summary">
+        <item quantity="other">Будзільнік зазвоніць %2$s раз (інтэрвал %1$s хв.)</item>
+        <item quantity="one">Будзільнік зазвоніць %2$s раз (інтэрвал %1$s хв.)</item>
+        <item quantity="few">Будзільнік зазвоніць %2$s разы (інтэрвал %1$s хв.)</item>
+        <item quantity="many">Будзільнік зазвоніць %2$s раз (інтэрвал %1$s хв.)</item>
     </plurals>
     <plurals name="snooze_message">
         <item quantity="other">Адкласці на %d хвіліны</item>

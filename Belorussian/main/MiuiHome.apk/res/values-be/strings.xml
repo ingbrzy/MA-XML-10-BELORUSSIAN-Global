@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="status_bar_notification_info_overflow">больш за 999</string>
     <string name="action_add_to_workspace">Дадаць да працоўнай прасторы</string>
     <string name="activity_not_found">Праграма не знойдзеная</string>
     <string name="add_screen">Дадаць экран</string>
@@ -152,6 +153,7 @@
     <string name="gadget_clock_24_label">Гадзіннік 4x2</string>
     <string name="gadget_clock_34_label">Гадзіннік 4x3</string>
     <string name="gadget_clock_label">Гадзіннік</string>
+    <string name="gadget_dual_clock_label">Двайны гадзіннік</string>
     <string name="gadget_error_text">Не атрымалася загрузіць віджэт</string>
     <string name="gadget_google_search_label">Пошук Google</string>
     <string name="gadget_load_error">Загрузка…</string>
@@ -277,11 +279,14 @@
     <string name="recommend_apk_size_and_desc">%1$dMB | %2$s</string>
     <string name="recommend_apps_default_title">Пуста</string>
     <string name="recommend_apps_no_data">Няма дадзеных</string>
+    <string name="recommend_apps_no_data_toast">Пакуль няма рэкамендацый.</string>
     <string name="recommend_apps_notice">Рэкамендаваныя праграмы</string>
     <string name="recommend_apps_notice_nodata">Рэкамендаваныя праграмы (няма дадзеных)</string>
     <string name="recommend_apps_switch_title">Рэкамендаваныя праграмы</string>
     <string name="recommend_apps_tips">Для гэтай функцыі неабходна злучэнне з інтэрнэтам. Каб адключыць гэту функцыю, націсніце на назву папкі.</string>
     <string name="recommend_loading">Загрузка</string>
+    <string name="recommend_refresh">Абнавіць</string>
+    <string name="recommend_xout">Не паказваць</string>
     <string name="reset_description_first_time">Вы можаце аднавіць макет з %1$s на працягу 2 гадзін</string>
     <string name="reset_description_others">Вы можаце аднавіць макет з %1$s</string>
     <string name="reset_fail">Не атрымалася аднавіць</string>
@@ -347,7 +352,4 @@
     <string name="widget_gadget_player">Музыка</string>
     <string name="widget_global_search">Пошук</string>
     <string name="widget_quick_function">Хуткі доступ</string>
-    <string name="recommend_apps_no_data_toast">Пакуль няма рэкамендацый.</string>
-    <string name="recommend_refresh">Абнавіць</string>
-    <string name="recommend_xout">Не паказваць</string>
 </resources>

@@ -84,6 +84,12 @@
         <item quantity="few">Аднавіць стварэнне рэзервовай копіі праз %d гадзіны</item>
         <item quantity="many">Аднавіць стварэнне рэзервовай копіі праз %d гадзін</item>
     </plurals>
+    <plurals name="backup_file_over_size_title">
+        <item quantity="other">"%d аб'ектаў занадта вялікія для рэзервовага капіявання"</item>
+        <item quantity="one">"%d аб'ект занадта вялікі для рэзервовага капіявання"</item>
+        <item quantity="few">"%d аб'екта занадта вялікія для рэзервовага капіявання"</item>
+        <item quantity="many">"%d аб'ектаў занадта вялікія для рэзервовага капіявання"</item>
+    </plurals>
     <plurals name="backup_pause_desc">
         <item quantity="other">%d фота і відэа | Паўза</item>
         <item quantity="one">%d фота ці відэа | Паўза</item>
@@ -390,22 +396,16 @@
         <item quantity="few">Не створана рэзервовая копія %d фота ці відэа</item>
         <item quantity="many">Не створана рэзервовая копія %d фота і відэа</item>
     </plurals>
-    <plurals name="sync_total_count">
-        <item quantity="other">"%d аб'екта"</item>
-        <item quantity="one">"%d аб'ект"</item>
-        <item quantity="few">"%d аб'екты"</item>
-        <item quantity="many">"%d аб'ектаў"</item>
-    </plurals>
-    <plurals name="backup_file_over_size_title">
-        <item quantity="other">"%d аб'ектаў занадта вялікія для рэзервовага капіявання"</item>
-        <item quantity="one">"%d аб'ект занадта вялікі для рэзервовага капіявання"</item>
-        <item quantity="few">"%d аб'екта занадта вялікія для рэзервовага капіявання"</item>
-        <item quantity="many">"%d аб'ектаў занадта вялікія для рэзервовага капіявання"</item>
-    </plurals>
     <plurals name="sync_oversized_count">
         <item quantity="other">"%d аб'ектаў занадта вялікія для рэзервовага капіявання"</item>
         <item quantity="one">"%d аб'ект занадта вялікі для рэзервовага капіявання"</item>
         <item quantity="few">"%d аб'екта занадта вялікія для рэзервовага капіявання"</item>
         <item quantity="many">"%d аб'ектаў занадта вялікія для рэзервовага капіявання"</item>
+    </plurals>
+    <plurals name="sync_total_count">
+        <item quantity="other">"%d аб'екта"</item>
+        <item quantity="one">"%d аб'ект"</item>
+        <item quantity="few">"%d аб'екты"</item>
+        <item quantity="many">"%d аб'ектаў"</item>
     </plurals>
 </resources>

@@ -13,10 +13,10 @@
         <item quantity="many">Праз %1$d дзён у %2$s</item>
     </plurals>
     <plurals name="Ndays_ago_at">
-        <item quantity="other">За %1$d дня ў %2$s</item>
-        <item quantity="one">За %1$d дзень ў %2$s</item>
-        <item quantity="few">За %1$d дні ў %2$s</item>
-        <item quantity="many">За %1$d дзён ў %2$s</item>
+        <item quantity="other">За %1$d дзён у %2$s</item>
+        <item quantity="one">За %1$d дзень у %2$s</item>
+        <item quantity="few">За %1$d дня у %2$s</item>
+        <item quantity="many">За %1$d дзён у %2$s</item>
     </plurals>
     <plurals name="Nhours">
         <item quantity="other">За %d гадзіны</item>

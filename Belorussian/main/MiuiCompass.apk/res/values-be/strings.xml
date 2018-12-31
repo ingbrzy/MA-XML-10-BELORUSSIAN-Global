@@ -22,9 +22,10 @@
     <string name="calibrate_title">Каліброўка компаса</string>
     <string name="cancel">Скасаваць</string>
     <string name="cannot_get_location">--</string>
-    <string name="dialog_body_no_network">Немагчыма злучыцца з сеткай</string>
+    <string name="compass_settings">Налады</string>
+    <string name="dialog_body_no_network">Падключыцеся да Wi-Fi або да мабільнага інтэрнэту.</string>
     <string name="dialog_calibrat_altitude">Каліброўка…</string>
-    <string name="dialog_title_no_network">Далучыцца да сеткі</string>
+    <string name="dialog_title_no_network">Не атрымалася падлучыцца да сеткі</string>
     <string name="direction_east">Ус</string>
     <string name="direction_north">Пн</string>
     <string name="direction_north_east">ПнУс</string>
@@ -38,7 +39,7 @@
     <string name="error_camera_unavailable_title">Камера недаступна</string>
     <string name="first_using_dialog_message">Для звычайнай працы праграмы неабходны доступ да сеткі, камеры і службам месцазнаходжання.</string>
     <string name="first_using_dialog_title">Дазвол на доступ</string>
-    <string name="guide_toast">Ажыццявіце каліброўку, варочайце тэлефон так, як паказана на анімацыі.</string>
+    <string name="guide_toast">Для каліброўкі перамяшчайце тэлефон так, як паказана ніжэй.</string>
     <string name="latitude">Шырыня</string>
     <string name="location_east">"Усходняя
 даўгата"</string>

@@ -341,7 +341,7 @@
     <string name="gpg_message">Стварэнне кланаваных праграм для гульняў вымагае працы з Google Play Games. Стварыць кланаваную праграму для Google Play Games?</string>
     <string name="gpg_title">Кланаваная праграма для Google Play Games</string>
     <string name="gms_message">Стварэнне кланаваных праграм патрабуе абавязковай працы з Google Play Games. Стварыць кланаваную праграму для сэрвісаў Google?</string>
-    <string name="gms_title">Уключыць сэрвісы Google</string>
+    <string name="gms_title">Кланаванне сэрвісаў ад Google</string>
     <string name="gms_open_button">Уключыць</string>
     <string name="create_second_space">Другая прастора паспяхова створаная</string>
     <string name="set_space_password">Задаць пароль</string>
@@ -440,7 +440,7 @@
     <string name="greenguard_parent_des_title">"Мне патрэбна дапамагчы сябрам і сям'і"</string>
     <string name="greenguard_parent_des">Спампуйце нашу праграму і дадайце прылады іншых людзей</string>
     <string name="cta_declaration_title">Умовы і палажэнні</string>
-    <string name="cta_declaration_message_format" formatted="false">Вы павінны прачытаць і прыняць нашы &lt;font color=%s>&lt;a href=%s> %s &lt;/a>&lt;/font> перад актывацыяй Рэжыму прадпрыемства. Для актывацыі прыладзе патрабуецца падлучэнне да Інтэрнэту. Вы згодны?</string>
+    <string name="cta_declaration_message_format" formatted="false">Вы павінны прачытаць і прыняць нашы &lt;font color=%s>&lt;a href=%s>%s&lt;/a>&lt;/font> перад актывацыяй Рэжыму прадпрыемства. Для актывацыі прыладзе патрабуецца падлучэнне да Інтэрнэту. Вы згодны?</string>
     <string name="cta_declaration_agree_and_continue">Згадзіцца</string>
     <string name="undo_activated_dialog_message">Скасаванне дазволу адключыць Рэжым прадпрыемства і выканае скід вашай прылады да завадскіх налад. Усе звязаныя функцыі больш не будуць даступныя. Акрамя таго, Xiaomi спыніць збор інфармацыі, патрэбнай для Рэжыму прадпрыемства (IMEI, ID прылады, версія сістэмы, рэгіён і г.д.). Нагадваем, што Xiaomi не кіруе дадзенымі, якія яна збірае для Рэжыму прадпрыемства. Мы зробім усё магчымае, каб паведаміць зацікаўленыя бакі, аднак рэкамендуем вам звязацца з кіраўніком кампаніі, каб ўзгадніць гэта скасаванне. Адклікаць дазвол і выканаць скід да завадскіх налад?</string>
     <string name="undo_activated_dialog_ok">Скасаваць</string>
@@ -457,4 +457,8 @@
     <string name="dialog_undo_negative">Не скасоўваць</string>
     <string name="dialog_title_service_error">Памылка сервера</string>
     <string name="dialog_message_service_error">Не атрымалася скасаваць аўтарызацыю і выканаць скід да завадскіх налад. Паспрабуйце зноў.​</string>
+    <string name="dialog_verify">Пацвердзіце ваш адбітак пальца</string>
+    <string name="dialog_verify_fingerprint_retry">Не атрымалася праверыць адбітак пальца. Паспрабуйце яшчэ раз.</string>
+    <string name="button_touch">Прыкладзіце палец да сканару</string>
+    <string name="button_input_password">Увядзіце пароль</string>
 </resources>

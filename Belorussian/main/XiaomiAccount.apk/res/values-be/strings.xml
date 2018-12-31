@@ -434,10 +434,10 @@
     <string name="find_device_prompt_message">Прылада заблакавана. Напішыце паведамленне %1$s.</string>
     <string name="find_device_activate_account">Актывуйце акаўнт</string>
     <string name="login_check_find_device">Атрымаць інфармацыю аб бяспецы прылады</string>
-    <string name="unlock_help_notice">"Дапамога:
+    <string name="unlock_help_notice">"Даведка:
 1. Калі вы забылі свой пароль, перайдзіце на id.mi.com, каб скінуць яго.
-2. Калі вы не можаце скінуць пароль ці кімсьці заблакавана ваша прылада, адкрыйце i.mi.com, каб разблакаваць яе.
-3. Ваш нумар разблакоўкі: %s кантэкст | запыт Context"</string>
+2. Калі вы не можаце скінуць пароль або прылада кімсьці заблакавана, адкрыйце i.mi.com, каб разблакаваць яе.
+3. Ваш код разблакавання: %s"</string>
     <string name="login_find_device_bind">Гэтая прылада прывязаная да існуючага Mi Акаўнта(%s).</string>
     <string name="find_device_locked_account_phone" formatted="false">%s, прывязаны нумар тэлефона:%s</string>
     <string name="find_device_locked_account_email" formatted="false">%s, прывязаны email адрас:%s</string>

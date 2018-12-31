@@ -1,76 +1,76 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="all_month_str">
-        <item>Jan</item>
-        <item>Feb</item>
-        <item>Mar</item>
-        <item>Apr</item>
-        <item>May</item>
-        <item>Jun</item>
-        <item>Jul</item>
-        <item>Aug</item>
-        <item>Sep</item>
-        <item>Oct</item>
-        <item>Nov</item>
-        <item>Dec</item>
+        <item>Студз</item>
+        <item>Лют</item>
+        <item>Сак</item>
+        <item>Крас</item>
+        <item>Трав</item>
+        <item>Чэрв</item>
+        <item>Ліп</item>
+        <item>Жнів</item>
+        <item>Вер</item>
+        <item>Каст</item>
+        <item>Ліст</item>
+        <item>Снеж</item>
     </string-array>
     <string-array name="calendar_remind_string_array">
-        <item>Tonight</item>
-        <item>Tomorrow</item>
-        <item>Weekend</item>
-        <item>Next week</item>
-        <item>Next month</item>
-        <item>Pick date</item>
+        <item>Сёння ўвечары</item>
+        <item>Заўтра</item>
+        <item>Выходныя</item>
+        <item>Наступны тыдзень</item>
+        <item>Наступны месяц</item>
+        <item>Выбраць дату</item>
     </string-array>
     <string-array name="compose_modes">
-        <item>Reply</item>
-        <item>Reply all</item>
-        <item>Forward</item>
+        <item>Адказаць</item>
+        <item>Адказаць усім</item>
+        <item>Пераслаць</item>
     </string-array>
     <string-array name="general_preference_text_zoom_summary_array">
-        <item>Tiny</item>
-        <item>Small</item>
-        <item>Normal</item>
-        <item>Large</item>
-        <item>Huge</item>
+        <item>Маленечкі</item>
+        <item>Маленькі</item>
+        <item>Нармальны</item>
+        <item>Вялікі</item>
+        <item>Велізарны</item>
     </string-array>
     <string-array name="menu_att_mgr_sort_string_array">
-        <item>Recently viewed</item>
-        <item>Format</item>
-        <item>Name</item>
-        <item>Sender</item>
-        <item>Date received</item>
+        <item>Нядаўна прагледжаныя</item>
+        <item>Фармат</item>
+        <item>Імя</item>
+        <item>Адпраўнік</item>
+        <item>Дата атрымання</item>
     </string-array>
     <string-array name="moveto_folder_sections">
-        <item>System</item>
-        <item>Frequently Used</item>
-        <item>All Folders</item>
+        <item>Сістэма</item>
+        <item>Найчасцей карыстаныя</item>
+        <item>Усе папкі</item>
     </string-array>
     <string-array name="prefEntries_autoAdvance">
-        <item>Newer message</item>
-        <item>Older message</item>
-        <item>Inbox</item>
+        <item>Наступнае паведамленне</item>
+        <item>Папярэдняе паведамленне</item>
+        <item>Уваходныя</item>
     </string-array>
     <string-array name="signature_normal_string_array_next">
-        <item>Address:</item>
-        <item>Tel:</item>
-        <item>Name:</item>
+        <item>Адрас:</item>
+        <item>Тэлефон:</item>
+        <item>Імя:</item>
         <item>Email:</item>
-        <item>Mobile:</item>
+        <item>Мабільны:</item>
         <item>WeChat:</item>
-        <item>Fax:</item>
-        <item>Postal Code:</item>
+        <item>Факс:</item>
+        <item>Паштовы індэкс:</item>
     </string-array>
     <string-array name="signature_special_string_array_next">
-        <item>Thanks,</item>
-        <item>Best Regards</item>
-        <item>Sent from my</item>
-        <item>Original email</item>
-        <item>Sent from my</item>
-        <item>Sent from</item>
-        <item>From</item>
-        <item>This email</item>
-        <item>Disclaimer</item>
-        <item>Email Disclaimer</item>
+        <item>Дзякуй,</item>
+        <item>З найлепшымі пажаданнямі</item>
+        <item>Адпраўлена з майго</item>
+        <item>Арыгінальны Email</item>
+        <item>Адпраўлена з майго</item>
+        <item>Адпраўлена з</item>
+        <item>З</item>
+        <item>Гэты Email</item>
+        <item>Адмова ад адказнасці</item>
+        <item>Ліст-адмова ад адказнасці</item>
     </string-array>
 </resources>

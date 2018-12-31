@@ -105,7 +105,6 @@
     <string name="accessibility_wifi_signal_full">Поўны сігнал Wi-Fi.</string>
     <string name="accessibility_wifi_security_type_none">Адкрытая сетка</string>
     <string name="accessibility_wifi_security_type_secured">Бяспечная сетка</string>
-    <string name="process_kernel_label">АС Android</string>
     <string name="data_usage_uninstalled_apps">Выдаленыя прыкладанні</string>
     <string name="data_usage_uninstalled_apps_users">Выдаленыя прыкладанні і карыстальнiкi</string>
     <string name="tether_settings_title_usb">USB-мадэм</string>

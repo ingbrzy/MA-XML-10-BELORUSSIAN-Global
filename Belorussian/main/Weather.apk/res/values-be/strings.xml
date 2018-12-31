@@ -90,11 +90,9 @@
     <string name="daily_forecast_add_city_message">"Падпішыцеся на надвор'е ў %1$s для падрабязнага прагнозу."</string>
     <string name="daily_forecast_add_city_title">"Падпішыцеся на надвор'е ў %1$s"</string>
     <string name="daily_forecast_detail_date">dd.MM</string>
-    <string name="daily_forecast_detail_date_format">%1$s - %2$s</string>
     <string name="daily_forecast_no_data">Дадзеныя не атрыманы. Пацягніце ўніз для абнаўлення ці праверце налады сеткі</string>
     <string name="data_provided_by">Дадзеныя часткова прадастаўлены</string>
     <string name="edit_city">Manage cities</string>
-    <string name="empty">" "</string>
     <string name="empty_view_net_loading">Абнаўленне…</string>
     <string name="empty_view_net_unavailable">Не атрымалася падлучыцца да сеткі</string>
     <string name="empty_view_refresh">Паспрабаваць зноў</string>
@@ -113,8 +111,6 @@
     <string name="first_start_network_title">Падключэнне да інтэрнэту і доступ да месцазнаходжання</string>
     <string name="global_aqi">AQI: %1$s %2$s</string>
     <string name="hourly_forcast_now">Зараз</string>
-    <string name="hourly_forecast_bottom_aqi_chinese">%1$s %2$s</string>
-    <string name="hourly_forecast_bottom_aqi_else">%1$s</string>
     <string name="hourly_forecast_date">dd.MM</string>
     <string name="hourly_forecast_title_24_hours_desc">Прагноз на 24 гадзіны</string>
     <string name="hourly_forecast_title_hourly_desc">Прагноз па гадзінах</string>
@@ -130,11 +126,9 @@
     <string name="indices_title_feel">Адчуваецца</string>
     <string name="indices_title_pressure">Ціск</string>
     <string name="install">Усталяваць</string>
-    <string name="install_progress">%1$s%%</string>
     <string name="international_details_pressure_title">ЦІСК</string>
     <string name="international_details_title">Падрабязнасці</string>
     <string name="international_details_uv_index_title">ІНДЭКС УФ</string>
-    <string name="international_details_wind_connect">%1$s %2$s</string>
     <string name="international_details_wind_title">ВЕЦЕР</string>
     <string name="it_is_going_to_rain">Збіраецца на дождж</string>
     <string name="locate_fail_detail_err">"Немагчыма вызначыць месцазнаходжанне
@@ -209,7 +203,6 @@
     <string name="share_menu_title">Падзяліцца</string>
     <string name="share_subject">Падзяліцца</string>
     <string name="share_weather_desc">"\#Надвор'е MIUI#Сёння %1$s %2$s"</string>
-    <string name="share_weather_desc_alert">%1$s%2$s</string>
     <string name="share_weather_desc_split">,</string>
     <string name="share_weather_save_pic_fail">Немагчыма зрабіць здымак экрана</string>
     <string name="some_where_on_earth">Дзесьці на Зямлі</string>

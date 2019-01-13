@@ -11,6 +11,7 @@
     <string name="cal_result_format">= %s</string>
     <string name="cal_text_copied">Тэкст скапіяваны</string>
     <string name="cancel">Скасаваць</string>
+    <string name="children_education">Навучанне дзяцей</string>
     <string name="choose_currency">Выбраць валюту</string>
     <string name="choose_unit">Выбраць велічыню</string>
     <string name="city">Горад</string>
@@ -44,10 +45,10 @@
     <string name="devided_by_zero_reminder_message">Падзяліць на нуль нельга</string>
     <string name="dialog_privacy_content">Акрамя асноўных функцый наша праграма таксама змяшчае навуковы калькулятар і шматфункцыянальны канвэртар. Для нармальнай працы некаторых функцый патрабуецца падлучэнне да Інтэрнэту. Вы павінны прачытаць і прыняць нашы %1$s і %2$s перад выкарыстаннем Калькулятара .</string>
     <string name="dialog_privacy_title">Умовы і палажэнні</string>
-    <string name="dialog_rating_desc_ask">How do you feel about Calculator?</string>
-    <string name="dialog_rating_desc_less">Could you give us your feedback as well?</string>
-    <string name="dialog_rating_desc_perfect">Nice! Rate Calculator in App Store as well?</string>
-    <string name="dialog_rating_title">Rate our app</string>
+    <string name="dialog_rating_desc_ask">Як вы ставіцеся да Калькулятара?</string>
+    <string name="dialog_rating_desc_less">Не маглі б вы накіраваць нам свой водгук?</string>
+    <string name="dialog_rating_desc_perfect">Добра! Ацэніце Калькулятара таксама у App Store?</string>
+    <string name="dialog_rating_title">Ацаніце нашу праграму</string>
     <string name="digit0">0</string>
     <string name="digit1">1</string>
     <string name="digit2">2</string>
@@ -66,9 +67,13 @@
     <string name="error">Памылка</string>
     <string name="error_fomrat">Памылка ў фармаце</string>
     <string name="exit">Выхад</string>
+    <string name="extra_deduction_instruction">Інфармацыя аб выліке</string>
+    <string name="extra_deduction_tips">Націсніце кнопку ў верхнім куце экрана для прагляду інфармацыі аб выліке.</string>
+    <string name="extra_deduction_title">Дадатковыя вылікі</string>
     <string name="factorialDesc">фактарыяла</string>
     <string name="fund" />
     <string name="fund_loan">Пазыковы фонд</string>
+    <string name="further_education">Далейшае навучанне</string>
     <string name="global_network_confirm_content">Для звычайнай працы канвертара валют неабходна падлучыцца да інтэрнэту.</string>
     <string name="global_search_key_area_convertion">Плошча;Канвэртар плошчы;Пераўтварэнне плошчы</string>
     <string name="global_search_key_calculation">Вылічаць;Калькулятар;Пераўтварэнне адзінак;Канвэртар;Канвэртар адзінак</string>
@@ -85,7 +90,10 @@
     <string name="global_search_key_word_figure">Фінансавыя сімвалы</string>
     <string name="golbal_search_calculator_setting">Калькулятар;Налады каульклятара;Налады</string>
     <string name="golbal_search_path_calculator_setting">Сістэмныя праграмы/Калькулятар/Налады</string>
+    <string name="help_content_desc">Дапамога</string>
+    <string name="home_loan">Працэнты па іпатэцы</string>
     <string name="home_title_calculator">Калькулятар</string>
+    <string name="house_rent">Арэнда жылля</string>
     <string name="income_type" />
     <string name="install">Усталяваць</string>
     <string name="install_scanner_to_continued_use">Сканер выдалены. Усталяваць яшчэ раз?</string>
@@ -109,8 +117,10 @@
     <string name="leftParenDesc">левая дужка</string>
     <string name="lg">lg</string>
     <string name="lgDesc">лагарыфм</string>
+    <string name="license_host_unreachable">Не атрымалася злучыцца з сеткай. Праверце налады сеткі і паспрабуйце зноў.</string>
     <string name="ln">ln</string>
     <string name="lnDesc">натуральны лагарыфм</string>
+    <string name="loading">Секундачку…</string>
     <string name="loading_fail_message_no_network">Не атрымалася падлучыцца да сеткі. Нажмите для паўтору.</string>
     <string name="loading_fail_refresh">Абнавіць</string>
     <string name="loading_message">Загрузка праграмы…</string>
@@ -130,6 +140,7 @@
     <string name="loan_repayment_detail_loading">Загрузка звестак аб пагашэнні…</string>
     <string name="loan_repayment_detail_unit">Звесткі аб пагашэнні (CNY)</string>
     <string name="loan_unit">(×10K)</string>
+    <string name="medical_treatment">Медыцынскае лячэнне</string>
     <string name="menuDesc">меню</string>
     <string name="minusDesc">мінус</string>
     <string name="month" />
@@ -165,12 +176,14 @@
     <string name="mortgage_tab_combining_loan">Гібрыд</string>
     <string name="mortgage_tab_commercial_loan">Камерцыйны</string>
     <string name="mortgage_years_amount">Тэрмін крэдыту</string>
+    <string name="mt_max">Уведзеная сума занадта вялікая</string>
     <string name="mulDesc">памножыць</string>
     <string name="negDesc">Пераключэнне паміж тэмпературамі ніжэй і вышэй за нуль</string>
     <string name="network_confirm_content">Для звычайнай працы канвертара валют, падаткавага і крэдытнага калькулятараў патрэбна падлучэнне да інтэрнэту і доступ да месцазнаходжання.</string>
     <string name="network_confirm_title">Запыт доступу</string>
+    <string name="none">Адсутнічае</string>
     <string name="not_supported_due_to_language">Гэтая функцыя даступная толькі для кітайскай мовы</string>
-    <string name="ok">OK</string>
+    <string name="ok">OК</string>
     <string name="percent" />
     <string name="percentDesc">адсотак</string>
     <string name="piDesc">пі</string>
@@ -189,10 +202,10 @@
     <string name="preference_follow_web_title">Афіцыйны сайт</string>
     <string name="preference_follow_wechat_title">WeChat</string>
     <string name="preference_follow_weibo_title">Sina Weibo</string>
-    <string name="preference_help">Help &amp; feedback</string>
+    <string name="preference_help">Даведка і водгукі</string>
     <string name="preference_other">Іншае</string>
     <string name="preference_privacy_title">Палітыка канфідэнцыяльнасці</string>
-    <string name="preference_rating_title">Rate our app</string>
+    <string name="preference_rating_title">Ацаніце нашу праграму</string>
     <string name="preference_settings">Налады</string>
     <string name="preference_use_degress_summary">Замена радыянаў на трыганаметрычную функцыю</string>
     <string name="preference_use_degress_title">Выкарыстоўваць вуглы</string>
@@ -212,6 +225,7 @@
     <string name="social_security" />
     <string name="sqrtDesc">квадратны корань</string>
     <string name="start_calculate" />
+    <string name="support_elder">Падтрымка пажылых людзей</string>
     <string name="switchDesc">Пераключыць</string>
     <string name="tab_title_calculator">Калькулятар</string>
     <string name="tab_title_convert">Канвертар</string>
@@ -254,7 +268,7 @@
     <string name="tax_location">Месцазнаходжанне</string>
     <string name="tax_medical">Медыцінскі</string>
     <string name="tax_param_error">Увядзіце правільныя стаўкі страхавання</string>
-    <string name="tax_rate_provider">Дадзеныя прадастаўлены hexun.com і East Money</string>
+    <string name="tax_rate_provider">Разлічана ў адпаведнасці з новымі падатковымі правіламі. Дадзеныя прадастаўлены hexun.com і East Money.</string>
     <string name="tax_result_real_get">Пасля выплаты падаткаў</string>
     <string name="tax_social_insurance">Сацыяльнае страхаванне</string>
     <string name="tax_thershold_foreign">%s (замежныя грамадзяне)</string>
@@ -548,6 +562,7 @@
     <string name="unit_year">Y</string>
     <string name="unit_year_format">Год %s</string>
     <string name="unit_yuan">CNY</string>
+    <string name="updating">Абнаўленне калькулятара…</string>
     <string name="user_agreement">Карыстальніцкае пагадненне</string>
     <string name="voiceDesc">Упраўленне голасам</string>
     <string name="wf_word_figure">Фінансавыя сімвалы</string>
@@ -572,8 +587,11 @@
     <string name="word_figure_unit_shi">拾</string>
     <string name="word_figure_yuan">元</string>
     <string name="word_figure_zheng">整</string>
+    <string name="xiaomi_bytes_unit">%1$sБ</string>
     <string name="xiaomi_connect_download_manager_fail">Не атрымалася падлучыцца да Запамповак. Пераканайцеся ў тым, што праграма мае ўсе неабходныя дазволы ў «Налады > Усталяваныя праграмы».</string>
     <string name="xiaomi_external_storage_unavailable">Памяць недаступная. Праверце SD-карту.</string>
+    <string name="xiaomi_kilobytes_unit">%1$sКБ</string>
+    <string name="xiaomi_megabytes_unit">%1$sМБ</string>
     <string name="xiaomi_update_dialog_message">"Даступная версія %1$s
 Памер: %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"Даступная версія %1$s

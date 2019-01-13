@@ -27,9 +27,9 @@
     <string name="cloud_back_up_frequence_choice_title">Стварэнне рэзервовых копій па раскладу</string>
     <string name="cloud_back_up_frequence_long">Кожныя 7 дзён</string>
     <string name="cloud_back_up_frequence_short">Штодня</string>
-    <string name="cloud_back_up_share_activity_title">Палепшыць Mi Акаўнт</string>
-    <string name="cloud_back_up_share_activity_discription">Павелічэнне памераў воблачнага сховішча, штодзённыя рэзервовыя копіі і іншыя магчымасці.</string>
-    <string name="cloud_back_up_share_activity_confirm">Паляпшэнне</string>
+    <string name="cloud_back_up_subscribe_vip_title">Upgrade Mi Account</string>
+    <string name="cloud_back_up_subscribe_vip_discription">Get more storage space, daily backups, and more.</string>
+    <string name="cloud_back_up_subscribe_vip_confirm">Upgrade</string>
     <string name="cloud_back_up_detail_discription">"Пры злучэнні праз Wi-Fi у Mi Cloud будзе створана рэзервовае копія для наступных аб'ектаў: 
 *  Праграмы, знешні выгляд Галоўнага экрана і шпалеры; 
 *  Будзільнік, гадзіннік і налады часу 
@@ -50,6 +50,8 @@
     <string name="self_device_second_space">Другая прастора гэтага тэлефона</string>
     <string name="other_device_main_space">Першая прастора</string>
     <string name="other_device_second_space">Другая прастора</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="process_whole_recovery">Аднаўленне \"%s\"</string>
     <string name="size_unknown">Невядомы памер</string>
     <string name="recovering">Аднаўленне \"%s\"</string>
@@ -59,6 +61,7 @@
     <string name="backing_up_to_micloud">Стварэнне рэзервовай копіі…</string>
     <string name="restore_from_cloud">Аднавіць з Mi Cloud</string>
     <string name="backup_to_cloud">Стварыць рэзервовую копію праграмы</string>
+    <string name="restoring_file_title_no_progress">Аднаўленне файлаў…</string>
     <string name="menu_item_sort">Сартаванне</string>
     <string name="menu_item_sort_name">Назва</string>
     <string name="menu_item_sort_size">Памер</string>
@@ -86,6 +89,8 @@
     <string name="recover_miui_settings">Аднаўленне сістэмных налад</string>
     <string name="wait_icon_download">Спампаванне значкоў праграм</string>
     <string name="download_settings_fail">Не атрымалася спампаваць налады працоўнага стала</string>
+    <string name="restore_init_description">Пачаць аднаўленне</string>
+    <string name="restore_finish_description">Аднаўленне скончана</string>
     <string name="backup_fail_wifi_needed">Рэзерваванне не атрымалася, патрабуецца Wi-Fi.</string>
     <string name="backup_success">Стварэнне рэзервовай копіі завершана</string>
     <string name="cloud_task_in_process">Спыніць %s і выдаліць гэты бекап? Дзеянні нельга будзе скасаваць.</string>
@@ -131,6 +136,7 @@
     <string name="provision_error_connect_msg">Праверце сетку і паспрабуйце яшчэ раз. Рэзервовая копія недаступная, калі ваша прылада адлучаная ад сеткі.</string>
     <string name="provision_error_connect_title">Немагчыма падлучыцца</string>
     <string name="loading_user_backup">Загрузка рэзервовых копій…</string>
+    <string name="loading_progress_num">(%s%%)</string>
     <string name="error_num_placeholder">--</string>
     <string name="authentication_failed">Не атрымалася праверыць акаўнт.</string>
     <string name="no_account">Не выкананы ўваход у Mi Акаўнт.</string>
@@ -173,6 +179,7 @@
     <string name="notification_channel_remind">Нагадванне</string>
     <string name="done_remove">Выдаленне завершана</string>
     <string name="doing_restore_home">Аднаўленне працоўнага стала і налад…</string>
+    <string name="restoring_settings">Аднаўленне налад…</string>
     <string name="title_alert_cancel_restore">Спыніць аднаўленне</string>
     <string name="msg_alert_cancel_restore">Ідзе аднаўленне. Спыніць яго?</string>
     <string name="btn_restore_cancel">Скасаваць</string>

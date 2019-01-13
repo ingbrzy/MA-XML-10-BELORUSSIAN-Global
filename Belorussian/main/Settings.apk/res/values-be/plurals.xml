@@ -258,6 +258,12 @@
         <item quantity="few">%s хвіліны</item>
         <item quantity="many">%s хвілін</item>
     </plurals>
+    <plurals name="miui_sos_emergency_contacts_quantity">
+        <item quantity="other">%d дададзена</item>
+        <item quantity="one">%d дададзена</item>
+        <item quantity="few">%d дададзена</item>
+        <item quantity="many">%d дададзена</item>
+    </plurals>
     <plurals name="network_restrictions_summary">
         <item quantity="other">%1$d абмежавання</item>
         <item quantity="one">%1$d абмежаванне</item>

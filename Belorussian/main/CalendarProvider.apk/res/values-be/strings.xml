@@ -21,4 +21,6 @@
     <string name="debug_tool_email_sender_picker">Выбраць прыладу для адпраўкі вашага файла</string>
     <string name="debug_tool_email_subject">Інструмент для адладкі календара прымацаваны</string>
     <string name="debug_tool_email_body">У прымацаванні знаходзіцца база дадзеных календара з усімі сустрэчамі і персанальная інфармацыяй. Карыстайцеся з асцярогай.</string>
+    <string name="channel_name">Напаміны Календара</string>
+    <string name="channel_description" />
 </resources>

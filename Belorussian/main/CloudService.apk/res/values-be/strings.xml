@@ -35,8 +35,6 @@
     <string name="mx_sub_dspt_provision_with_voip">Інтэрнэт тэлефанія</string>
     <string name="phone_number_required_dspt_provision">"Гэты сэрвіс запытвае ваш нумар тэлефона. "</string>
     <string name="sync_dspt_provision">"Сінхранізуйце фатаграфіі, кантакты, нататкі і многае іншае на ўсіх вашых прыладах або атрымаць доступ да іх у "</string>
-    <string name="sync_dspt_provision2">i.mi.com</string>
-    <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
     <string name="sync_dspt_provision3">". Адключыць гэтую функцыю можна ў наладах.
 "</string>
     <string name="sync_dspt_entrance_provision">"Сінхранізуйце фота, кантакты, журнал выклікаў і паведамленні на ўсіх прыладах і праглядайце сінхранізаваныя аб'екты ў любым браўзеры на %s. "</string>
@@ -47,8 +45,6 @@
     <string name="sync_dspt_entrance_provision_skip">Прапусціць</string>
     <string name="sync_dspt_entrance_provision_network">Для звычайнай працы дадатку неабходнае падлучэнне да інтэрнэту. Сінхранізацыя магчыма праз мабільную сетку і Wi-Fi.</string>
     <string name="find_device_dspt_provision">Пры страце прылады вы зможаце выявіць яго месцазнаходжанне, заблакаваць або ачысціць дадзеныя на %s. Функцыю можна актываваць у наладах ў любы час.</string>
-    <string name="find_device_dspt_provision_2">i.mi.com</string>
-    <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
     <string name="find_device_send_sms_alert">Калі вы замянілі SIM-карту, SMS для паўторнай актывацыі будзе адпраўлена аўтаматычна.</string>
     <string name="mx_dspt_provision">"Mi Паведамленні дазваляюць карыстальнікам MIUI абменьвацца паведамленнямі бясплатна па Wi-Fi. 
 
@@ -290,7 +286,6 @@
     <string name="micloud_find_device_opened">Пошук прылады ўключаны</string>
     <string name="micloud_find_device_open_fail">Не атрымалася ўключыць пошук прылады</string>
     <string name="micloud_find_device_opened_content">Знайдзіце сваю прыладу на %s</string>
-    <string name="micloud_find_device_opened_content_url">i.mi.com</string>
     <string name="micloud_find_device_verify_fail">Не ўдалося актываваць Пошук прылады</string>
     <string name="micloud_find_device_close_fail">Не ўдалося адключыць Пошук прылады</string>
     <string name="micloud_find_device_finish">Гатова</string>
@@ -357,8 +352,6 @@
     <string name="micloud_main_head_menu_state_close">Адключана</string>
     <string name="micloud_main_head_menu_state_unavailable">Не падтрымліваецца</string>
     <string name="micloud_main_head_menu_finddevice_unavailable">Пошук прылады недаступны з Другога сховішча.</string>
-    <string name="micloud_footer_normal_url">i.mi.com</string>
-    <string name="micloud_footer_international_url">mi.com/micloud</string>
     <string name="ks_fingerprint_payment">Аплата адбіткам пальца</string>
     <string name="ks_name_fido">FIDO</string>
     <string name="ks_name_alipay">IFAA</string>

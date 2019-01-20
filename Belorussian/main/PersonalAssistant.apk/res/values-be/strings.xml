@@ -296,7 +296,6 @@
     <string name="sms_happened">Завершана</string>
     <string name="stock_card_add">Add companies</string>
     <string name="stock_card_title">Stocks</string>
-    <string name="stock_change_rate_format">%.2f%%</string>
     <string name="stock_color_schema">Колеравая схема</string>
     <string name="stock_list_empty_text">"You aren't following any companies."</string>
     <string name="stock_provider">Stock market quotes are provided by Webull</string>

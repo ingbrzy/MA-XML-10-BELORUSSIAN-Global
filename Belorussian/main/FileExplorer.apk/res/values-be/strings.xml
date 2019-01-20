@@ -137,7 +137,6 @@
     <string name="dialog_type_image">Выявы</string>
     <string name="dialog_type_text">Дакументы</string>
     <string name="dialog_type_video">Відэа</string>
-    <string name="directory_info_divider">"  |  "</string>
     <string name="disk_available">Даступна: </string>
     <string name="disk_total">Усяго: </string>
     <string name="enable_documentsui">Спачатку ўключыце %s у Наладах > Усталяваныя праграмы</string>
@@ -168,7 +167,6 @@
     <string name="favorite_ringtone">Мелодыі</string>
     <string name="favorite_screen_cap">Здымкі экрана</string>
     <string name="feedback_send_email_body_extra_info">Не выдаляйце наступную інфармацыю. Гэта дапаможа нам знайсці праблему.</string>
-    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="file_info_canread">Чытанне: </string>
     <string name="file_info_canwrite">Запісванне: </string>
     <string name="file_info_ishidden">Схавана: </string>

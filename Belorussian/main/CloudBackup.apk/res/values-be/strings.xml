@@ -27,9 +27,9 @@
     <string name="cloud_back_up_frequence_choice_title">Стварэнне рэзервовых копій па раскладу</string>
     <string name="cloud_back_up_frequence_long">Кожныя 7 дзён</string>
     <string name="cloud_back_up_frequence_short">Штодня</string>
-    <string name="cloud_back_up_subscribe_vip_title">Upgrade Mi Account</string>
-    <string name="cloud_back_up_subscribe_vip_discription">Get more storage space, daily backups, and more.</string>
-    <string name="cloud_back_up_subscribe_vip_confirm">Upgrade</string>
+    <string name="cloud_back_up_subscribe_vip_title">Палепшыць Mi Акаўнт</string>
+    <string name="cloud_back_up_subscribe_vip_discription">Пічэнне памераў воблачнага сховішча, штодзённыя рэзервовыя копіі і іншыя магчымасці.</string>
+    <string name="cloud_back_up_subscribe_vip_confirm">Палепшыць</string>
     <string name="cloud_back_up_detail_discription">"Пры злучэнні праз Wi-Fi у Mi Cloud будзе створана рэзервовае копія для наступных аб'ектаў: 
 *  Праграмы, знешні выгляд Галоўнага экрана і шпалеры; 
 *  Будзільнік, гадзіннік і налады часу 
@@ -50,6 +50,8 @@
     <string name="self_device_second_space">Другая прастора гэтага тэлефона</string>
     <string name="other_device_main_space">Першая прастора</string>
     <string name="other_device_second_space">Другая прастора</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="process_whole_recovery">Аднаўленне \"%s\"</string>
     <string name="size_unknown">Невядомы памер</string>
     <string name="recovering">Аднаўленне \"%s\"</string>
@@ -134,6 +136,7 @@
     <string name="provision_error_connect_msg">Праверце сетку і паспрабуйце яшчэ раз. Рэзервовая копія недаступная, калі ваша прылада адлучаная ад сеткі.</string>
     <string name="provision_error_connect_title">Немагчыма падлучыцца</string>
     <string name="loading_user_backup">Загрузка рэзервовых копій…</string>
+    <string name="loading_progress_num">(%s%%)</string>
     <string name="error_num_placeholder">--</string>
     <string name="authentication_failed">Не атрымалася праверыць акаўнт.</string>
     <string name="no_account">Не выкананы ўваход у Mi Акаўнт.</string>

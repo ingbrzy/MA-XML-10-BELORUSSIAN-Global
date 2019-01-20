@@ -97,6 +97,7 @@
     <string name="card_title_change">Яшчэ</string>
     <string name="change_response_title">Змяніць адказ</string>
     <string name="click_to_share">Націсніце, каб падзяліцца</string>
+    <string name="close_alarm">Адключыць</string>
     <string name="countdown_event_title">Падзея: %1$s</string>
     <string name="countdown_notify_before_3_day_title">Падзея: %1$s праз 3 дні</string>
     <string name="countdown_notify_title">Падзея: %1$s</string>
@@ -291,6 +292,8 @@
     <string name="no_visiable_calendar_select_account">Дадаць акаўнт</string>
     <string name="no_visiable_calendar_title">Дадаць акаўнт</string>
     <string name="not_synced">не сінхранізавана</string>
+    <string name="notification_channel_description" />
+    <string name="notification_channel_name">Напаміны Календара</string>
     <string name="panchang_amanta">Аманта</string>
     <string name="panchang_amanta_month">Месяц Аманта:</string>
     <string name="panchang_ayana">Аяна</string>

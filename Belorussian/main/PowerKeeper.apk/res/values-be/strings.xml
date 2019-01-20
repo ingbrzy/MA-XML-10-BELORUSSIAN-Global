@@ -22,7 +22,7 @@
     <string name="sleep_config_enhance_description_non_nfc">Калі MIUI выяўляе, што вы спіце, яна зачыніць фонавыя праграмы, абмяжуе NFC, Bluetooth, GPS, мабільны інтэрнэт, Wi-Fi і не будзе падсвечваць экран для апавяшчэнняў.</string>
     <string name="nonui_mode_config_title">Неінтэрактыўны рэжым</string>
     <string name="nonui_mode_config_description">Не падсвечваць экран для апавяшчэнняў, выключыць індыкатар святла, сканер адбіткаў пальцаў і сэнсарнае кіраванне для энергазберажэнне калі MIUI выяўляе, што вы не карыстаецеся прыладай.</string>
-    <string name="power_center">Выкарыстанне батарэі</string>
+    <string name="power_center">Эканомія зараду батарэі</string>
     <string name="power_usage">Выкарыстанне энергіі</string>
     <string name="power_mode">Налады сілкавання</string>
     <string name="performance_category">Прадукцыйнасць</string>
@@ -110,4 +110,8 @@
     <string name="extreme_add_white_list_summary">Дадаць да 4 праграм</string>
     <string name="adaptive_battery_title">Выкарыстоўваць адаптыўны рэжым батарэі</string>
     <string name="adaptive_battery_summary">Абмежаваць спажыванне для праграм, якія рэдка выкарыстоўваюцца</string>
+    <string name="dark_mode">Цёмны рэжым</string>
+    <string name="dark_mode_summary">Перайдзіце на цёмную каляровую палітру для эканоміі энергіі</string>
+    <string name="open_dark_mode">Перайсці ў Цёмны рэжым</string>
+    <string name="open_dark_mode_tip">"Якасць адлюстравання некаторых аб'ектаў у Цёмным рэжыме можа знізіцца. Пры выхадзе з Цёмнага рэжыму яно будзе адноўлена. Перайсці ў Цёмны рэжым?"</string>
 </resources>

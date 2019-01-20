@@ -154,29 +154,29 @@
     <string name="add_a_language">Дадаць мову</string>
     <string name="add_account_label">Дадаць уліковы запіс</string>
     <string name="add_auto_startup_application">Дадаць праграмы ў аўтазапуск</string>
-    <string name="add_back_fingerprint_instruction_msg">Пакладзіце палец на сканер</string>
+    <string name="add_back_fingerprint_instruction_msg">Прыкладзіце палец да сканера</string>
     <string name="add_device_admin">Актываваць гэту праграму адміністратара прылады</string>
     <string name="add_device_admin_msg">Актываваць праграму адмін-ра прылады?</string>
     <string name="add_facerecoginition_text">Дадаць дадзеныя твару</string>
     <string name="add_fingerprint_cancel_button_text">Назад</string>
-    <string name="add_fingerprint_dirty_fingerprint">Пераканайцеся, што паверхня экрана чыстая. Паўтарыце спробу запісу адбітку пальца.</string>
+    <string name="add_fingerprint_dirty_fingerprint">Пераканайцеся, што паверхня экрана чыстая. Паўтарыце спробу запісу адбітку.</string>
     <string name="add_fingerprint_done_msg">Цяпер вы можаце разблакаваць прыладу адбіткам пальца.</string>
     <string name="add_fingerprint_done_title">Усё гатова!</string>
     <string name="add_fingerprint_edge_instruction_msg">Перамясціце палец, каб датчык змог запісаць крайнія часткі адбітка пальца.</string>
     <string name="add_fingerprint_edge_instruction_title">Крыху перамясціце палец</string>
-    <string name="add_fingerprint_failed_retry_text">Не атрымалася дадаць адбітак пальца, паспрабуйце яшчэ раз</string>
+    <string name="add_fingerprint_failed_retry_text">Не атрымалася дадаць адбітак пальца</string>
     <string name="add_fingerprint_finished_button_text">Гатова</string>
     <string name="add_fingerprint_instruction_msg">У вашай прыладзе сканер адбіткаў пальцаў убудаваны ў кнопку «Дадому».</string>
     <string name="add_fingerprint_instruction_title">Дадаць свой адбітак пальца</string>
     <string name="add_fingerprint_move_fast">Трымайце палец на экране крыху даўжэй</string>
-    <string name="add_fingerprint_name_suggest_text">Назва адбітка пальца</string>
+    <string name="add_fingerprint_name_suggest_text">Імя адбітка пальца</string>
     <string name="add_fingerprint_put_finger_edge_msg">Крыху перамясціце палец і прыкладзіце яго да сканера зноў, каб дадаць ўсе астатнія часткі адбітка пальца.</string>
-    <string name="add_fingerprint_put_finger_msg">Прыкладзіце палец да сканеру і падніміце, калі адчуеце вібрацыю.</string>
+    <string name="add_fingerprint_put_finger_msg">Прыкладзіце палец да сканера і падніміце, калі адчуеце вібрацыю.</string>
     <string name="add_fingerprint_put_finger_title">Дадаць адбітак пальца</string>
     <string name="add_fingerprint_similar_fingerprint_input_error_msg">Крыху перамясціце палец</string>
-    <string name="add_fingerprint_success_msg">Паспяхова дададзены</string>
+    <string name="add_fingerprint_success_msg">Паспяхова дададзена</string>
     <string name="add_fingerprint_text">Дадаць адбітак пальца</string>
-    <string name="add_fingerprint_toast_text">Прыкладзіце палец да сканару</string>
+    <string name="add_fingerprint_toast_text">Прыкладзіце палец да сканера</string>
     <string name="add_front_fingerprint_instruction_msg">У вашай прыладзе сканер адбіткаў пальцаў убудаваны ў кнопку «Дадому».</string>
     <string name="add_new">Дадаць</string>
     <string name="add_rule">Дадаць правілы</string>
@@ -372,7 +372,7 @@
     <string name="applications_settings">Кіраванне праграмамі</string>
     <string name="applications_settings_header">Налады прыкладання</string>
     <string name="applications_settings_summary">Кіраванне прыкладаннямі, налады шляхоў хуткага доступу</string>
-    <string name="apply_fingerprint_to_category_title">Прымяніць адбітак пальца…</string>
+    <string name="apply_fingerprint_to_category_title">Прымяніць адбітак…</string>
     <string name="apply_now_button_text">Абнавіць</string>
     <string name="apply_password_to_category_title">Патрабаваць разблакаванне</string>
     <string name="apply_update_fail">Не атрымалася абнавіць</string>
@@ -631,9 +631,9 @@
     <string name="bind_xiaomi_account_confirm">Дадаць</string>
     <string name="bind_xiaomi_account_dialog_summery">Вы збіраецеся дадаць Mi Акаўнт %s. Калі вы забудзеце свой пароль, можна выкарыстоўваць гэты ўліковы запіс, каб скінуць яго.</string>
     <string name="bind_xiaomi_account_success">Mi Акаўнт паспяхова дададзены</string>
-    <string name="biometric_weak_improve_matching_title">Паляпшэнне супастаўлення твару</string>
+    <string name="biometric_weak_improve_matching_title">Паляпшэнне супастаўлення асобы</string>
     <string name="biometric_weak_liveliness_summary">Патрабуецца міргаць вачыма для разблакіроўкі</string>
-    <string name="biometric_weak_liveliness_title">Праверка рэальнасці асобы</string>
+    <string name="biometric_weak_liveliness_title">Праверыць рэальнасць асобы</string>
     <string name="ble_scan_notify_text">Для паляпшэння дакладнасці вызначэння месцазнаходжання сістэмныя праграмы і службы могуць знаходзіць прылады Bluetooth. Вы можаце змяніць гэта ў LINK_BEGINналадах сканіраванняLINK_END.</string>
     <string name="block_list_connected_devices">Падлучаныя прылады</string>
     <string name="block_list_diaglog_cancle">Скасаваць</string>
@@ -927,6 +927,7 @@
     <string name="bootloader_summary">Прашыўка прылады праз USB</string>
     <string name="bootloader_tips">Пасля прывязкі Mi Акаўнта не выходзіце з яго, не выконвайце скід налад або ачыстку дадзеных сістэмных праграм. Калі вы зрабілі што-небудзь з пералічанага, звяжыце акаўнт з прыладай паўторна, інакш вы не зможаце разблакаваць загрузнік.</string>
     <string name="bootloader_tips_ok">Зразумела</string>
+    <string name="bootloader_unlock_webhome">https://unlock.update.miui.com</string>
     <string name="breathing_light_color_menu_title">Колер індыкатара</string>
     <string name="breathing_light_color_summary">Колер індыкатара пры атрыманні новага паведамлення</string>
     <string name="breathing_light_freq_summary">Міргаць пры новых апавяшчэннях</string>
@@ -1156,10 +1157,10 @@
     <string name="confirm_enable_oem_unlock_title">Дазволіць OEM разблакаванне?</string>
     <string name="confirm_erase">Выдаліць</string>
     <string name="confirm_fingerprint_icon_content_description">Выкарыстоўвайце свой адбітак пальца, каб працягнуць.</string>
-    <string name="confirm_fingerprint_msg">Прыкладзіце палец да сканару</string>
-    <string name="confirm_frp_credential_message">Налады прылады былі скінуты на завадскія налады. Вы можаце разблакаваць яе з дапамогай папярэдняга пароля.</string>
-    <string name="confirm_frp_credential_skip_txt">Замест гэтага выкарыстаць акаўнт Google</string>
-    <string name="confirm_frp_credential_title">Разблакаванне пасля скіду на завадскія налады</string>
+    <string name="confirm_fingerprint_msg">Прыкладзіце палец да сканера</string>
+    <string name="confirm_frp_credential_message">Налады прылады былі скінуты. Вы можаце разблакаваць яе з дапамогай папярэдняга пароля.</string>
+    <string name="confirm_frp_credential_skip_txt">Выкарыстоўваць акаўнт Google</string>
+    <string name="confirm_frp_credential_title">Разблакаванне пасля сістэмнага скіду</string>
     <string name="confirm_new_backup_pw_prompt">Пацвердзіце пароль</string>
     <string name="confirm_privacy_password">Увядзіце пароль абароны асабістых дадзеных</string>
     <string name="confirm_privacy_password_fingerprint">Адскануйце адбіткі пальцаў альбо ўвядзіце пароль абароны асабістых дадзеных</string>
@@ -1526,6 +1527,7 @@
     <string name="dialog_title_hdmi_color_calibration">Перадусталёўкі карэкцыі колеру</string>
     <string name="dialog_title_login">Увайдзіце ў Mi Акаўнт</string>
     <string name="dialog_yes">Так</string>
+    <string name="digital_clock_dot">:</string>
     <string name="direct_boot_unaware_dialog_message">Заўвага. Каб запусціць гэту праграму пасля перазапуску, разблакуйце тэлефон</string>
     <string name="disable_overlays">Адключыць накладанне апаратнымі сродкамі</string>
     <string name="disable_overlays_summary">Заўсёды выкарыстоўваць GPU для адмалёўкі экрана</string>
@@ -1586,6 +1588,7 @@
     <string name="dndm_auto_button_title">Паўтараць рэжым \"Не турбаваць\"</string>
     <string name="dndm_auto_setting_group">Расклад</string>
     <string name="dndm_auto_time_setting">Усталяваць час</string>
+    <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
     <string name="dndm_auto_time_turn_off">Да</string>
     <string name="dndm_auto_time_turn_off_title">Аўтаматычнае адключэнне рэжыму \"Не турбаваць\"</string>
     <string name="dndm_auto_time_turn_on">З</string>
@@ -1805,7 +1808,7 @@
     <string name="eq_preset_hint">Назва эфекту</string>
     <string name="eq_preset_rename">Змяніць імя</string>
     <string name="eq_preset_select">Выбар усталёўкі</string>
-    <string name="eq_return">Return</string>
+    <string name="eq_return">Вяртанне</string>
     <string name="eq_rock">Рок</string>
     <string name="equalizer">Эквалайзер</string>
     <string name="erase_application">Выдаліць праграмы</string>
@@ -1892,8 +1895,8 @@
     <string name="fingerprint_first_open_screen_password_tittle">Адбітак пальца (неабходна наладзіць блакіроўку экрана)</string>
     <string name="fingerprint_for_keyguard_disabled">Выкарыстанне адбітка пальца было адключана наладамі бяспекі.</string>
     <string name="fingerprint_identify_input_password_msg">Увядзіце пароль</string>
-    <string name="fingerprint_identify_msg">Чытанне адбітка пальца…</string>
-    <string name="fingerprint_identify_try_again_msg">Не атрымалася счытаць адбітак пальца, паспрабуйце яшчэ раз</string>
+    <string name="fingerprint_identify_msg">Чытанне адбітка…</string>
+    <string name="fingerprint_identify_try_again_msg">Не атрымалася счытаць адбітак, паспрабуйце яшчэ</string>
     <string name="fingerprint_intro_error_max">Вы дадалі максімальную колькасць адбіткаў пальцаў</string>
     <string name="fingerprint_intro_error_unknown">Немагчыма дадаць больш адбіткаў пальцаў</string>
     <string name="fingerprint_last_delete_confirm">Так, выдаліць</string>
@@ -1910,7 +1913,7 @@
     <string name="fingerprint_not_recognized">Не пазнаны</string>
     <string name="fingerprint_others_title">Іншае</string>
     <string name="fingerprint_payment">Аплата адбіткам пальца</string>
-    <string name="fingerprint_removal_failed">Не атрымалася выдаліць адбітак пальца, паспрабуйце яшчэ раз пазней</string>
+    <string name="fingerprint_removal_failed">Не атрымалася выдаліць адбітак пальца, паспрабуйце яшчэ раз</string>
     <string name="fingerprint_swipe_for_notifications_summary">Каб праверыць апавяшчэнні, правядзіце пальцам уніз па сканеры адбіткаў пальцаў на заднім боку тэлефона.</string>
     <string name="fingerprint_swipe_for_notifications_title">Правядзіце пальцам, каб убачыць апавяшчэнні</string>
     <string name="fingerprint_unlock_set_unlock_password">Адбіткак пальца + пароль</string>
@@ -2001,9 +2004,9 @@
     <string name="forget">Iгнараваць</string>
     <string name="forget_password_button_text"><u>Забылі пароль</u></string>
     <string name="forget_password_dialog_button_text">Назад</string>
-    <string name="forget_password_dialog_content_four"><Data>2. Выберыце&lt;font color=#e6e6e6>[Сцерці дадзеныя]&lt;/font> і чакайце, пакуль прылада перазапусціцца.</Data></string>
-    <string name="forget_password_dialog_content_one"><Data>Калі вы забылі свой пароль, то не зможаце яго аднавіць. Аднак вы можаце скінуць яго пасля &lt;font color=#ec2700>выдалення ўсіх дадзеных на прыладзе&lt;/font> (у тым ліку фота, кантакты і г. д.). Стварыце рэзервовую копію ўсіх важных дадзеных перад скідам.</Data></string>
-    <string name="forget_password_dialog_content_three"><Data>"1. Выключыце прыладу. Адначасова націсніце кнопкі &lt;font color=#e6e6e6>[Сілкаванне]&lt;/font> і &lt;font color=#e6e6e6>[Гучнасць+]&lt;/font>, і ўтрымлівайце іх, пакуль не ўбачыце лагатып &lt;img src=''>."</Data></string>
+    <string name="forget_password_dialog_content_four"><Data>2. Выберыце &lt;font color=#e6e6e6>[Wipe data]&lt;/font> і пачакайце, пакуль прылада перазагрузіцца.</Data></string>
+    <string name="forget_password_dialog_content_one"><Data>Калі вы забылі свой пароль, то не зможаце яго аднавіць. Аднак, вы можаце скінуць яго пасля &lt;font color=#ec2700>выдалення ўсіх дадзеных на прыладзе&lt;/font> (у тым ліку фота, кантакты і г. д.). Стварыце рэзервовую копію ўсіх важных дадзеных.</Data></string>
+    <string name="forget_password_dialog_content_three"><Data>"1. Выключыце прыладу. Адначасова націсніце кнопкі &lt;font color=#e6e6e6>[Power]&lt;/font> і &lt;font color=#e6e6e6>[Гучнасць+]&lt;/font>, і ўтрымлівайце іх, пакуль не з'явіцца &lt;img src=''> icon."</Data></string>
     <string name="forget_password_dialog_content_two">Выканайце наступныя дзеянні для выдалення дадзеных:</string>
     <string name="forget_password_dialog_title">Скінуць пароль</string>
     <string name="forget_pattern"><u>Забылі ключ?</u></string>
@@ -2054,6 +2057,7 @@
     <string name="gadget_picker_title">Выберыце гаджэт</string>
     <string name="gadget_state_off">выкл.</string>
     <string name="gadget_state_on">укл.</string>
+    <string name="gadget_state_template">%1$s %2$s</string>
     <string name="gadget_state_turning_off">выключэнне</string>
     <string name="gadget_state_turning_on">уключэнне</string>
     <string name="gadget_sync">Сінхранiзацыя</string>
@@ -2093,17 +2097,18 @@
     <string name="gxzw_add_fingerprint_move_title">Крыху перамясціце палец</string>
     <string name="gxzw_add_fingerprint_put_finger_message">Націсніце на экран і прыбярыце палец пасля вібрацыі. Паўтарыце некалькі разоў.</string>
     <string name="gxzw_add_fingerprint_put_finger_title">Націсніце і адпусціце пасля вібрацыі</string>
-    <string name="gxzw_add_fingerprint_title">Дадайце свой адбітак пальца</string>
+    <string name="gxzw_add_fingerprint_title">Дадаць свой адбітак пальца</string>
     <string name="gxzw_anim_light">Неон</string>
     <string name="gxzw_anim_metal">Метал</string>
     <string name="gxzw_anim_pulse">Пульс</string>
     <string name="gxzw_anim_rhythm">Рытм</string>
     <string name="gxzw_anim_star">Зоркі</string>
     <string name="gxzw_anim_title">Анімацыя адбітка пальца</string>
-    <string name="gxzw_dialog_message">Для нармальнай працы экраннага сканера адбіткаў пальцаў не выкарыстоўвайце сродкі абароны экрана. Калі вы лічыце, што абарона экрана ўсё ж неабходная, выберыце адзін з сумяшчальных варыянтаў.</string>
-    <string name="gxzw_dialog_not_show_again">Больш не паказываць</string>
+    <string name="gxzw_dialog_message">Для нармальнай працы экраннага сканера адбіткаў не выкарыстоўвайце сродкі абароны экрана. Калі вы лічыце, што абарона экрана ўсё ж неабходная, выберыце адзін з сумяшчальных варыянтаў.</string>
+    <string name="gxzw_dialog_not_show_again">Не паказваць зноў</string>
     <string name="gxzw_dialog_ok">Зразумела</string>
-    <string name="gxzw_dialog_title">Пра экранны сканер адбіткаў пальцаў</string>
+    <string name="gxzw_dialog_title">Пра экранны сканер адбіткаў</string>
+    <string name="gxzw_quick_open_title" />
     <string name="handy_mode">Рэжым кіравання адной рукой</string>
     <string name="handy_mode_enable">Рэжым кіравання адной рукой</string>
     <string name="handy_mode_size">Памер экрана</string>
@@ -2376,6 +2381,7 @@
     <string name="lift_to_wake_title">Абуджэнне пры падняцці</string>
     <string name="line_breaking_summary">Выправіць разрывы радкоў абзаца</string>
     <string name="line_breaking_title">Аптымізацыя тэксту</string>
+    <string name="link_speed">%1$d Мб/с</string>
     <string name="list_bg_header_text">Пры абмежаванні фонавых злучэнняў новыя праграмы не змогуць злучацца з інтэрнэтам у фонавым рэжыме. Яны больш не змогуць атрымліваць паведамленні ці абнаўляць дадзеныя.</string>
     <string name="list_empty_text">Пуста</string>
     <string name="loading_notification_apps">Загрузка дадаткаў...</string>
@@ -2473,8 +2479,8 @@
     <string name="lock_screen_notifications_title">На экране блакіроўкі</string>
     <string name="lock_screen_signature_summary">Гэта паведамленне будзе адлюстроўвацца на экране блакавання</string>
     <string name="lock_screen_signature_title">Інфармацыя пра ўладальніка</string>
-    <string name="lock_screen_unlock_show">Прапускаць экран блакавання</string>
-    <string name="lock_screen_unlock_show_summary">Адкрыйце Галоўны экран ці напрамую увядзіце пароль</string>
+    <string name="lock_screen_unlock_show">Прапускаць экран блакіроўкі</string>
+    <string name="lock_screen_unlock_show_summary">Адразу пераходзіць да працоўнага стала або ўводу пароля</string>
     <string name="lock_secure_after_timeout_click_me_to_change_text">Націсніце, каб змяніць</string>
     <string name="lock_settings">Экран блакавання і пароль</string>
     <string name="lock_settings_common_title">Налады блакавання</string>
@@ -2553,18 +2559,18 @@
     <string name="lockpattern_change_lock_pin_label">Змяніць PIN-код</string>
     <string name="lockpattern_confirm_button_text">Пацвердзіць</string>
     <string name="lockpattern_continue_button_text">Працягнуць</string>
-    <string name="lockpattern_need_to_confirm">Намалюйце графічны ключ паўторна для пацвярджэння:</string>
+    <string name="lockpattern_need_to_confirm">Намалюйце графічны ключ паўторна:</string>
     <string name="lockpattern_need_to_unlock_wrong">Паўтарыце спробу:</string>
-    <string name="lockpattern_pattern_confirmed_header">Ваш новы графічны ключ разблакавання:</string>
+    <string name="lockpattern_pattern_confirmed_header">Ваш новы графічны ключ:</string>
     <string name="lockpattern_pattern_entered_header">Графічны ключ запісаны</string>
     <string name="lockpattern_pattern_same_with_others">Паролі прастор павінны адрознівацца</string>
     <string name="lockpattern_pattern_same_with_owner">Паролі прастор павінны адрознівацца</string>
     <string name="lockpattern_pattern_same_with_security_space">Пароль мусіць адрознівацца ад пароля Другой прасторы</string>
     <string name="lockpattern_recording_incorrect_too_short">Злучыце не менш за %d кропкі. Паспрабуйце яшчэ раз.</string>
-    <string name="lockpattern_recording_inprogress">Адпусціце палец, калі скончыце</string>
+    <string name="lockpattern_recording_inprogress">Адпусціце палец, калі завершыце</string>
     <string name="lockpattern_recording_intro_footer">Націсніце Меню для дапамогі.</string>
-    <string name="lockpattern_recording_intro_header">Намалюйце графічны ключ для разблакавання:</string>
-    <string name="lockpattern_recording_intro_header_second_space">Намалюйце графічны ключ разблакавання для Другой прасторы:</string>
+    <string name="lockpattern_recording_intro_header">Намаляваць графічны ключ для разблакавання:</string>
+    <string name="lockpattern_recording_intro_header_second_space">Намаляваць графічны ключ для Другой прасторы:</string>
     <string name="lockpattern_restart_button_text">Намаляваць зноў</string>
     <string name="lockpattern_retry_button_text">Ачысіць</string>
     <string name="lockpattern_settings_change_lock_pattern">Змяніць графічны ключ</string>
@@ -2732,6 +2738,7 @@
     <string name="memory_title">Даступна: %1$s\u0009\u0009Усяго: %2$s</string>
     <string name="memory_usage">Выкарыстанне памяці</string>
     <string name="memory_usage_apps">Выкарыстанне памяці праграмамі</string>
+    <string name="memory_use_running_format">%1$s / %2$s</string>
     <string name="memory_use_summary">%1$s – сярэдняе значэнне памяці, выкарыстанай за апошнія 3 гадзіны</string>
     <string name="menu_cancel">Адхіліць</string>
     <string name="menu_check">Досвед</string>
@@ -3039,6 +3046,7 @@
     <string name="nfc_how_it_works_got_it">Зразумела</string>
     <string name="nfc_how_it_works_title">Аплата ў тэрмінале</string>
     <string name="nfc_more_title">Больш...</string>
+    <string name="nfc_payment_app_and_desc">%1$s – %2$s</string>
     <string name="nfc_payment_default">Стандартны спосаб аплаты</string>
     <string name="nfc_payment_default_not_set">Не задана</string>
     <string name="nfc_payment_favor_default">Заўсёды выкарыстоўвайце праграму па змаўчанні</string>
@@ -3250,6 +3258,7 @@
     <string name="overlay_display_devices_title">Эмуляцыя другасных дысплэяў</string>
     <string name="overlay_settings">Паказваць паверх іншых праграм</string>
     <string name="owner_info_settings_edit_text_hint">Напрыклад, Android Лявона</string>
+    <string name="owner_info_settings_status">%1$d / %2$d</string>
     <string name="owner_info_settings_summary">Няма</string>
     <string name="owner_info_settings_title">Подпіс на экране блакавання</string>
     <string name="owner_space">Першая прастора</string>
@@ -3286,11 +3295,11 @@
     <string name="page_layout_8">Mi Life</string>
     <string name="page_layout_9">Тэмы</string>
     <string name="page_layout_confirm_message">Вашу прыладу неабходна перазапусціць, каб прымяніць змяненні. Гэта зойме каля 1 хвіліны.</string>
-    <string name="page_layout_confirm_message_enlarge">Text, images, and icons will be enlarged. Some icons might change their places.</string>
-    <string name="page_layout_confirm_message_narrow">Text, images, and icons will become smaller. Some icons might change their places.</string>
+    <string name="page_layout_confirm_message_enlarge">Тэкст, выявы і значкі будуць павялічаны. Размяшчэнне некаторых значкоў можа змяніцца.</string>
+    <string name="page_layout_confirm_message_narrow">Тэкст, выявы і значкі будуць зменшаны. Размяшчэнне некаторых значкоў можа змяніцца.</string>
     <string name="page_layout_confirm_title">Змяніць налады дысплэя</string>
-    <string name="page_layout_confirm_title_enlarge">Bigger items</string>
-    <string name="page_layout_confirm_title_narrow">Smaller items</string>
+    <string name="page_layout_confirm_title_enlarge">"Павелічэнне аб'ектаў"</string>
+    <string name="page_layout_confirm_title_narrow">"Памяншэнне аб'ектаў"</string>
     <string name="page_layout_godzilla_title">XXL</string>
     <string name="page_layout_huge_title">XL</string>
     <string name="page_layout_large_title">L</string>
@@ -3326,7 +3335,7 @@
     <string name="passpoint_content">Уліковыя даныя %1$s</string>
     <string name="passpoint_label">Захавана з дапамогай</string>
     <string name="passwordIncorrect">Уведзены няправільны пароль</string>
-    <string name="password_entrance_title">Блакаванне экрана</string>
+    <string name="password_entrance_title">Блакіроўка экрана</string>
     <string name="password_guard">Пароль</string>
     <string name="password_turned_off_text">Пароль быў адключаны</string>
     <string name="password_turned_on_text">Пароль быў уключаны</string>
@@ -3433,7 +3442,7 @@
     <string name="pref_manage_bg_network">Кіраваць фонавымі злучэннямі праграм</string>
     <string name="pref_new_installed_preconfig_title">Налады для новых праграм</string>
     <string name="pref_operational_key">Кнопкі навігацыі</string>
-    <string name="pref_show_lunar_calendar_title">Паказаць кітайскі каляндар на экране блакавання</string>
+    <string name="pref_show_lunar_calendar_title">Кітайскі каляндар на экране блакавання</string>
     <string name="pref_title_lang_selection">Моўныя параметры</string>
     <string name="pref_title_update_notification">Апавяшчэнне пра трафік</string>
     <string name="pref_volume_launch_camera_summary">Націсніце кнопку змяншэння гучнасці двойчы, каб запусціць Камеру</string>
@@ -3577,6 +3586,8 @@
     <string name="private_sms_recording_intro_header">Намаляваць графічны ключ для разблакавання:</string>
     <string name="private_sms_reset_by_account">Каб скінуць ваш пароль, увайдзіце ў Mi Акаўнт</string>
     <string name="process_dex2oat_label">Аптымізацыя дадаткаў</string>
+    <string name="process_format">%1$s (%2$d)</string>
+    <string name="process_kernel_label">АС Android</string>
     <string name="process_mediaserver_label">Сервер медыя</string>
     <string name="process_provider_in_use_description">Выкарыстоўваецца пастаўшчык паслуг %1$s.</string>
     <string name="process_service_in_use_description">Служба %1$s выкарыстоўваецца.</string>
@@ -4190,7 +4201,7 @@
     <string name="secspace_fod_finger_tips">Не атрымалася праверыць, паспрабуйце яшчэ раз.</string>
     <string name="secspace_fod_finger_title">Пацвердзіце ваш адбітак пальца</string>
     <string name="secspace_fod_use_password">Увядзіце пароль</string>
-    <string name="secure_keyguard_business_title">Задаць блакаванне экрана</string>
+    <string name="secure_keyguard_business_title">Блакіроўка экрана</string>
     <string name="secure_lock_encryption_warning">Вы ўключылі службу доступу, таму ваша прылада не будзе выкарыстоўваць блакіроўку экрана для паляпшэння шыфравання даных.</string>
     <string name="security_dashboard_summary">Блакіроўка экрана, лічбавы адбітак</string>
     <string name="security_dashboard_summary_no_fingerprint">Блакіроўка экрана</string>
@@ -4203,6 +4214,7 @@
     <string name="security_encryption_attention_3">Вам прыйдзецца ўсталяваць новы пароль блакавання экрана.</string>
     <string name="security_encryption_attention_4">Запомніце свой пароль блакавання экрана, інакш вам прыйдзецца выканаць поўны скід, і ўсе дадзеныя на прыладзе будуць страчаны.</string>
     <string name="security_encryption_attention_info">Вы можаце зашыфраваць свае акаўнты, налады, усталяваныя праграмы і іх дадзеныя, медыяфайлы і г.д.</string>
+    <string name="security_encryption_attention_symbol">•</string>
     <string name="security_encryption_attention_title">Важнае</string>
     <string name="security_encryption_close_dialog_info">Пры адключэнні шыфравання прылады з дапамогай пароля блакавання экрана некаторыя сэрвісы Google могуць стаць недаступнымі.</string>
     <string name="security_encryption_close_dialog_title">Вяртанне да абароны паролем па змаўчанні</string>
@@ -4326,15 +4338,15 @@
     <string name="settings_safetylegal_title">Інфармацыя аб бяспецы</string>
     <string name="settings_shortcut">Ярлык налад</string>
     <string name="settings_toggle_position_divider_list">Перамыкачы, якія размешчаны вышэй за радок стану, актыўныя</string>
-    <string name="setup_choose_unlock_fingerprint_msg">Наладзьце блакаванне экрана да дадання адбітка пальца.</string>
+    <string name="setup_choose_unlock_fingerprint_msg">Спачатку наладзьце блакіроўку экрана.</string>
     <string name="setup_choose_unlock_mixed_password">Пароль</string>
     <string name="setup_choose_unlock_mixpassword_title">Задаць пароль</string>
-    <string name="setup_choose_unlock_password">PIN-код</string>
+    <string name="setup_choose_unlock_password">PIN</string>
     <string name="setup_choose_unlock_password_msg">Увядзіце 4 лічбы</string>
-    <string name="setup_choose_unlock_password_title">Задайце PIN-код</string>
+    <string name="setup_choose_unlock_password_title">Усталяваць PIN</string>
     <string name="setup_choose_unlock_pattern">Графічны ключ</string>
-    <string name="setup_choose_unlock_pattern_title">Намалюйце графічны ключ для разблакавання</string>
-    <string name="setup_choose_unlock_type_title">Задаць пароль</string>
+    <string name="setup_choose_unlock_pattern_title">Намалюйце графічны ключ</string>
+    <string name="setup_choose_unlock_type_title">Усталяваць пароль</string>
     <string name="setup_fingerprint_enroll_enrolling_skip_message">Вы вырашылі выкарыстоўваць свой адбітак пальца як адзін са спосабоў разблакіроўкі тэлефона. Калі вы прапусціце гэты крок зараз, вам трэба будзе ўсталяваць гэты спосаб пазней. Усталёўка займае ўсяго каля хвіліны.</string>
     <string name="setup_fingerprint_enroll_enrolling_skip_title">Прапусціць усталёўку адбітка пальца?</string>
     <string name="setup_fingerprint_enroll_finish_message">Проста дакраніцеся да сэнсара адбіткаў пальцаў, каб абудзіць і разблакіраваць сваю прыладу.</string>
@@ -4457,6 +4469,7 @@
     <string name="sim_reenter_new">Увядзіце новы PIN-код яшчэ раз</string>
     <string name="sim_select_card">Выбар SIM-карты</string>
     <string name="sim_selection_required_pref">Трэба выбраць</string>
+    <string name="sim_settings_summary">%1$s – %2$s</string>
     <string name="sim_settings_title">SIM-карты</string>
     <string name="sim_setup_wizard_title">SIM-карты</string>
     <string name="sim_signal_strength">%1$d дБм %2$d asu</string>
@@ -4470,6 +4483,7 @@
     <string name="size_kilo_byte">КБ</string>
     <string name="size_mega_byte">МБ</string>
     <string name="size_peta_byte">ПБ</string>
+    <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">ТБ</string>
     <string name="skip_anyway_button_label">Усё роўна прапусціць</string>
     <string name="skip_label">Прапусціць</string>
@@ -4554,6 +4568,7 @@
     <string name="status_bar_settings_all_app_display_loading">Хвілінку…</string>
     <string name="status_bar_settings_app_notification_preferences">Налады праграмы</string>
     <string name="status_bar_settings_basic_settings">Базавыя</string>
+    <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
     <string name="status_bar_settings_custom_carrier">Змяніць назву аператара</string>
     <string name="status_bar_settings_custom_wifi_name">Змяніць імя Wi-Fi</string>
     <string name="status_bar_settings_customer_feedback">Водгук</string>
@@ -4782,7 +4797,7 @@
     <string name="strict_mode">Строгі рэжым уключаны</string>
     <string name="strict_mode_summary">Міргаць экранам у час доўгіх аперацый у галоўным працэсе</string>
     <string name="structure_add_facerecoginition_text">Дадаць 3D-дадзеныя твару</string>
-    <string name="structure_face_enroll_not_able_low_electric_itle">Немагчыма выкарыстаць гэтую функцыю з-за нізкага зараду батарэі</string>
+    <string name="structure_face_enroll_not_able_low_electric_itle">Нізкі зарад батарэі</string>
     <string name="structure_face_enroll_not_able_low_electric_msg">Для пачатку запісу зарад батарэі мусіць быць не меней за 5%.</string>
     <string name="structure_manage_facerecoginition_text">Кіраванне 3D-дадзенымі твару</string>
     <string name="suggest_unrestrict_max_aspect_ratio_title">Гэтыя праграмы лепш працуюць у поўнаэкранным рэжыме</string>
@@ -4799,6 +4814,7 @@
     <string name="sum_carrier_select">Выбраць аператара сеткі</string>
     <string name="summary_divider_text">", "</string>
     <string name="summary_font_size_v2">Налада памеру тэксту, выяв і значкоў</string>
+    <string name="summary_range_symbol_combination">%1$s – %2$s</string>
     <string name="summary_range_verbal_combination">%1$s – %2$s</string>
     <string name="super_resolution_access_title">Даступныя праграмы</string>
     <string name="super_resolution_desc">Павышэнне рэзкасці выяў з дапамогай алгарытму AI</string>
@@ -5125,12 +5141,12 @@
     <string name="unlock_set_unlock_none_title">Няма</string>
     <string name="unlock_set_unlock_off_summary" />
     <string name="unlock_set_unlock_off_title">Няма</string>
-    <string name="unlock_set_unlock_password_none">Адсутнічае</string>
+    <string name="unlock_set_unlock_password_none">Няма</string>
     <string name="unlock_set_unlock_password_summary">Увядзіце 4 ці больш літар або лічбаў для разблакавання прылады</string>
     <string name="unlock_set_unlock_password_title">Пароль</string>
-    <string name="unlock_set_unlock_pattern_summary">Намалюйце пальцам просты графічны ключ для разблакавання прылады</string>
+    <string name="unlock_set_unlock_pattern_summary">Намалюйце графічны ключ для разблакавання прылады</string>
     <string name="unlock_set_unlock_pattern_title">Узор</string>
-    <string name="unlock_set_unlock_pin_summary" formatted="false">Увядзіце %d-%d лічбы(аў) для разблакоўкі прылады</string>
+    <string name="unlock_set_unlock_pin_summary" formatted="false">Увядзіце %d-%d лічбы(-аў) для разблакоўкі</string>
     <string name="unlock_set_unlock_pin_title">PIN</string>
     <string name="unlock_set_unlock_summary">Разблакаванне экрана</string>
     <string name="unlock_setup_wizard_fingerprint_details">Пасля таго як вы наладзіце блакіроўку экрана, вы зможаце наладзіць выкарыстанне адбітка пальца ў меню Налады > Бяспека.</string>
@@ -5379,7 +5395,7 @@
     <string name="virus_scanner_manual_update">Абноўлена: %s</string>
     <string name="virus_scanner_provider">Падтрымліваецца %s</string>
     <string name="virus_scanner_scan">Націсніце, каб адсканаваць</string>
-    <string name="virus_scanner_scanning">Сканаванне…</string>
+    <string name="virus_scanner_scanning">Сканаванне 26</string>
     <string name="virus_scanner_select_Cancel">Скасаваць</string>
     <string name="virus_scanner_select_OK">ОК</string>
     <string name="virus_scanner_select_lib">Выбраць антывірусную базу</string>
@@ -5801,9 +5817,11 @@
     <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_security_none">Адсутнічае</string>
     <string name="wifi_security_passpoint">Passpoint</string>
+    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
     <string name="wifi_security_short_eap">802.1x</string>
+    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_wep">WEP</string>
     <string name="wifi_security_short_wpa">WPA</string>
     <string name="wifi_security_short_wpa2">WPA2</string>

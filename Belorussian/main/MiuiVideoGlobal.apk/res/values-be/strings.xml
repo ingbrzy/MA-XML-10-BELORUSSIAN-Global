@@ -58,7 +58,6 @@
     <string name="cast_forward">Наперад</string>
     <string name="cast_forward_10">Дзесяць секунд наперад</string>
     <string name="cast_forward_30">Трыццаць секунд наперад</string>
-    <string name="cast_intro_overlay_button_text">\@android:string/ok</string>
     <string name="cast_mute">Адключыць гук</string>
     <string name="cast_notification_connected_message">Падключэнне да %1$s выканана</string>
     <string name="cast_notification_connecting_message">Падключэнне да %1$s</string>
@@ -458,7 +457,6 @@
     <string name="slid_fail_message">Памылка захавання</string>
     <string name="slide_save_message">Стварэнне відэа…</string>
     <string name="sns_sign_in">Іншыя спосабы ўваходу</string>
-    <string name="status_bar_notification_info_overflow">больш за 999</string>
     <string name="sure_to_logout">Выйсці зараз?</string>
     <string name="switch_ratio_pause">Хуткасць прайгравання нестабільная. Зварот да хуткасці па змаўчанні…</string>
     <string name="symbol_rmb">¥</string>

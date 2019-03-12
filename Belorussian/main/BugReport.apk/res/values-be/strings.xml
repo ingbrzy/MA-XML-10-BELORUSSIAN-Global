@@ -302,7 +302,6 @@
     <string name="open_feedback_main">Яшчэ</string>
     <string name="packaging_dialog_content">Стварэнне справаздачы…</string>
     <string name="pic_not_exist">Гэта выява не існуе</string>
-    <string name="pic_view_format">%1$s\"/\"%2$s</string>
     <string name="plus_one_submit_dialog_content">Ваша справаздача разам з ўкладаннямі і журналамі будзе адпраўлена на серверы MIUI.</string>
     <string name="plus_one_submit_dialog_not_show_again">Запомніць выбар</string>
     <string name="post_miui_bbs_failed">Не атрымалася размясціць на форуме MIUI</string>

@@ -368,6 +368,12 @@
         <item quantity="few">%d дні з часу апошняй праверкі</item>
         <item quantity="many">%d дзён з часу апошняй праверкі</item>
     </plurals>
+    <plurals name="hints_scan_danger_result_with_number">
+        <item quantity="other">Знойдзена %d пагроз, выпраўце іх</item>
+        <item quantity="one">Знойдзена %d пагроза, выпраўце яе</item>
+        <item quantity="few">Знойдзена %d пагрозы, выпраўце іх</item>
+        <item quantity="many">Знойдзена %d пагроз, выпраўце іх</item>
+    </plurals>
     <plurals name="hints_handle_item_text_risk_number">
         <item quantity="other">%d пагроз,</item>
         <item quantity="one">%d пагроза,</item>
@@ -565,12 +571,6 @@
         <item quantity="one">%d праграма схавана</item>
         <item quantity="few">%d праграмы схаваны</item>
         <item quantity="many">%d праграм схавана</item>
-    </plurals>
-    <plurals name="first_aid_card_float_window_summary">
-        <item quantity="other">%d праграм могуць адлюстроўвацца некарэктна. Абмяжуйце ўсплывальныя апавяшчэнні.</item>
-        <item quantity="one">%d праграма можа адлюстроўвацца некарэктна. Абмяжуйце ўсплывальныя апавяшчэнні.</item>
-        <item quantity="few">%d праграмы могуць адлюстроўвацца некарэктна. Абмяжуйце ўсплывальныя апавяшчэнні.</item>
-        <item quantity="many">%d праграм могуць адлюстроўвацца некарэктна. Абмяжуйце ўсплывальныя апавяшчэнні.</item>
     </plurals>
     <plurals name="first_aid_result_summary_exception">
         <item quantity="other">%1$d праблем патрабуюць аптымізацыі</item>

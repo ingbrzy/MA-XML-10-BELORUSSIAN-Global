@@ -42,6 +42,7 @@
     <string name="add_to_last_of_playlist">Add to the end of playlist</string>
     <string name="add_to_playlist_successful">Паспяхова дададзена</string>
     <string name="added_next_play">Added to play next</string>
+    <string name="agreement_desc">Карыстальніцкае пагадненне (абавязкова)</string>
     <string name="alaka_required">Каб паслухаць гэтую песню вы павінны заплаціць за яе</string>
     <string name="album_label">Вокладкі альбомаў</string>
     <string name="album_name">Альбом</string>
@@ -53,6 +54,16 @@
     <string name="already_favorited">Ужо ў абраным</string>
     <string name="always_use_metered">Always use mobile data</string>
     <string name="app_label">Спампоўкі</string>
+    <string name="app_permission_confirm">Зразумела</string>
+    <string name="app_permission_optional">Неабавязковыя дазволы</string>
+    <string name="app_permission_require">Абавязковыя дазволы</string>
+    <string name="app_permission_use_desc">Дазволы</string>
+    <string name="app_permission_use_group_account">Акаўнты</string>
+    <string name="app_permission_use_group_account_desc">Для атрымання інфармацыі аб Mi Акаўнце</string>
+    <string name="app_permission_use_group_phone">Тэлефон</string>
+    <string name="app_permission_use_group_phone_desc">Для сэрвісаў Google Push</string>
+    <string name="app_permission_use_group_storage">Сховішча</string>
+    <string name="app_permission_use_group_storage_desc">Для пошуку і прайгравання песень, захаваных на прыладзе</string>
     <string name="artist">Выканаўцы</string>
     <string name="artist_area_all">All</string>
     <string name="artist_area_china">China</string>
@@ -119,6 +130,7 @@
     <string name="current_version">Current version</string>
     <string name="data_usage_warning">Трафік</string>
     <string name="data_usage_warning_summary">Выкарыстанне мабільнага інтэрнэту пры прайграванні анлайн музыкі высокай якасці можа павялічыць трафік.</string>
+    <string name="data_use_desc">Юрыдычныя дакументы</string>
     <string name="date_format_str">dd-MM-yyyy</string>
     <string name="delete">Выдаліць</string>
     <string name="delete_download">Выдаліць</string>
@@ -205,6 +217,7 @@
     <string name="download_method">Спампоўка</string>
     <string name="download_no_application_title">Не ўдаецца адкрыць файл</string>
     <string name="download_paused_in_power_save_mode">Downloads are paused when Battery saver is on</string>
+    <string name="download_percent">%d%%</string>
     <string name="download_processing">Спампоўка…</string>
     <string name="download_quality">Якасць спампоўкі</string>
     <string name="download_quality_summary">Дадатковыя налады для спампоўкі песень</string>
@@ -284,7 +297,9 @@
     <string name="exo_download_notification_channel_name">Спампоўкі</string>
     <string name="exo_download_removing">Выдаленне спамповак</string>
     <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Мбіт/с</string>
     <string name="exo_track_mono">Мона</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">Аўтаматычна</string>
     <string name="exo_track_selection_none">Няма</string>
     <string name="exo_track_selection_title_audio">Аўдыя</string>
@@ -306,6 +321,7 @@
     <string name="favorite_succeed">Дададзена ў абранае</string>
     <string name="favorite_tracks">Абраныя</string>
     <string name="favorites">Favorites</string>
+    <string name="fcm_fallback_notification_channel_label">Рознае</string>
     <string name="feed_back">Feedback</string>
     <string name="file_not_found">Файл не існуе</string>
     <string name="filter_by_duration">Па працягласці</string>
@@ -326,6 +342,7 @@
     <string name="format_not_support">Фармат не падтрымліваецца.</string>
     <string name="format_unsupported_or_corrupted">Гэты фармат не падтрымліваецца або файл пашкоджаны</string>
     <string name="fragment_title_artist_album">Альбомы</string>
+    <string name="gcm_fallback_notification_channel_label">Рознае</string>
     <string name="handle_later">Не цяпер</string>
     <string name="hd_quality_audio">Гук HD якасці</string>
     <string name="headset_and_audio_effect_category">Навушнікі і гукавыя эфекты</string>
@@ -344,7 +361,7 @@
     <string name="hungama_subscribe_positive_button">Buy PRO membership</string>
     <string name="hungama_subscribe_title">PRO membership</string>
     <string name="i_know">OK</string>
-    <string name="impunity_declaration_content">Вы павінны прачытаць і прыняць &lt;a href=\"http://www.miui.com/res/doc/eula.html?lang=en\">Карыстальніцкае пагадненне&lt;/а> і &lt;a href=\"http://www.miui.com/res/doc/privacy.html?lang=en\">Палітыка прыватнасці&lt;/а> перад выкарыстаннем прадукту.</string>
+    <string name="impunity_declaration_content">Вы павінны прачытаць і прыняць &lt;a href=\"http://www.miui.com/res/doc/eula.html?lang=be_BY\">Карыстальніцкае пагадненне&lt;/а> і &lt;a href=\"http://www.miui.com/res/doc/privacy.html?lang=be_BY\">Палітыка прыватнасці&lt;/а> перад выкарыстаннем прадукту.</string>
     <string name="impunity_declaration_ignore">Не паказваць зноў</string>
     <string name="impunity_declaration_negative_text">Выйсці</string>
     <string name="impunity_declaration_positive_text">Згодзен</string>
@@ -539,7 +556,9 @@
     <string name="preset_music_playlist">Mi плэйліст</string>
     <string name="priority_storage">Выкарыстоўваць SD-карту</string>
     <string name="priority_storage_summary">Аўтаматычна захоўваць файлы на SD-карту, калі яна падлучана</string>
+    <string name="privacy_desc">Палітыка прыватнасці (абавязкова)</string>
     <string name="privacy_policy">Палітыка канфідэнцыяльнасці</string>
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=be_BY</string>
     <string name="pro_member">Член PRO</string>
     <string name="project_device">Mi Phone</string>
     <string name="prompt_grant_write_settings_permission">Дазволіць змяняць сістэмныя налады</string>
@@ -547,6 +566,7 @@
     <string name="pulluprefreshrecyclerview_loading_finished">Loaded successfully</string>
     <string name="pulluprefreshrecyclerview_loading_running">Loading…</string>
     <string name="queue_is_empty">Чарга прайгравання пустая.</string>
+    <string name="ready_to_play">Далей</string>
     <string name="recently_played">Recently played</string>
     <string name="recently_played_songs">Нядаўнія</string>
     <string name="recommended_file_size_download_in_mobile">Выкарыстаць %s трафіка для спампоўкі гэтага файла?</string>
@@ -637,6 +657,7 @@
     <string name="start_to_check_new_version">Праверка абнаўлення…</string>
     <string name="start_to_download">Запампоўка…</string>
     <string name="start_to_play">Прайграць</string>
+    <string name="status_bar_notification_info_overflow">больш за 999</string>
     <string name="storage_internal">Унутранае сховішча</string>
     <string name="storage_sd_card">SD-карта</string>
     <string name="storage_usb">USB-сховішча</string>
@@ -697,6 +718,7 @@
     <string name="upgrade_music_message">Updates are ready. Restart to update.</string>
     <string name="upgrading_in_backstage">Updating in the background…</string>
     <string name="user_agreement">Карыстальніцкае пагадненне</string>
+    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=be_BY</string>
     <string name="version_info">Version</string>
     <string name="video_play_cellular">Ваша прылада не падлучана да Wi-Fi. Выкарыстаць мабільны інтэрнэт?</string>
     <string name="video_replay_btn">Прайграць зноў</string>

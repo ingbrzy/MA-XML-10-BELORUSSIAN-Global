@@ -175,6 +175,12 @@
     <string name="wifi_assistant_wifi_no_internet">Сетка Wi-Fi без доступу да інтэрнэту</string>
     <string name="wifi_assistant_wifi_no_internet_detail">Націсніце для прагляду інфармацыі</string>
     <string name="resolver_app_recommend_flag">Рэкамендаваць</string>
+    <string name="resolver_checkbox_once">Адзін раз</string>
+    <string name="resolver_checkbox_always">Заўсёды</string>
+    <string name="resolver_mi_browser">Mi Браўзер</string>
+    <string name="resolver_recommend_options_tag">Рэкамендаваныя опцыі</string>
+    <string name="resolver_offical_recommend">Афіцыйна</string>
+    <string name="resolver_other_method">Іншыя опцыі</string>
     <string name="voice_button_action_up">Націсніце і кажыце</string>
     <string name="voice_button_action_down">Адпусціце для пошуку</string>
     <string name="voice_begin">Што вы шукаеце?</string>

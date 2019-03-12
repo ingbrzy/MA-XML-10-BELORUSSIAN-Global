@@ -53,6 +53,7 @@
     <string name="accessibility_camera_button">Камера</string>
     <string name="accessibility_carrier_network_change_mode">Змена сеткі аператара.</string>
     <string name="accessibility_cast_name">Падлучана да %s.</string>
+    <string name="accessibility_casting">@string/quick_settings_casting</string>
     <string name="accessibility_casting_turned_off">Трансляцыя экрана была спынена.</string>
     <string name="accessibility_cell_data">Мабільны інтэрнэт</string>
     <string name="accessibility_cell_data_off">Мабільны інтэрнэт адключаны</string>
@@ -285,6 +286,10 @@
     <string name="app_process_limit_title">Абмяжоўваць фонавыя працэсы</string>
     <string name="as_important">Важнае</string>
     <string name="as_unimportant">Няважнае</string>
+    <string name="aspect_cancel">Скасаваць</string>
+    <string name="aspect_message">Гэта праграма будзе адноўлена ў поўнаэкранным рэжыме. Пры ўзнікненні праблем вы можаце адключыць поўнаэкранны рэжым для гэтай праграмы ў Налады > Бязмежны экран > Поўнаэкранны рэжым.</string>
+    <string name="aspect_ok">OK</string>
+    <string name="aspect_title">Поўнаэкранны рэжым</string>
     <string name="audio_effect_custom">Наладзіць</string>
     <string name="audio_effect_info">Паляпшэнне гуку</string>
     <string name="audio_effect_settings">Выберыце тып навушнікаў</string>
@@ -453,7 +458,6 @@
     <string name="convert_to_file_encryption">Перайсці да шыфравання файлаў</string>
     <string name="convert_to_file_encryption_done">Файлы ўжо зашыфраваныя</string>
     <string name="convert_to_file_encryption_enabled">Перайсці…</string>
-    <string name="custom_lock_wallpaper_enter">Увайсці</string>
     <string name="daltonizer_mode_deuteranomaly">Дэйтэранамаліся (чырвоны-зялёны)</string>
     <string name="daltonizer_mode_disabled">Адключана</string>
     <string name="daltonizer_mode_monochromacy">Манахромнасць</string>
@@ -626,8 +630,11 @@
     <string name="face_unlock_check_failed">Немагчыма пазнаць вас</string>
     <string name="face_unlock_close_screen">Трымайце прыладу бліжэй да твару</string>
     <string name="face_unlock_down">Падніміце галаву</string>
+    <string name="face_unlock_fail">Не атрымалася праверыць твар</string>
+    <string name="face_unlock_fail_retry">Не атрымалася праверыць твар. Націсніце значок, каб паўтарыць спробу.</string>
     <string name="face_unlock_identify_error">Адбылася памылка пазнання</string>
     <string name="face_unlock_not_found">Не атрымалася пазнаць вас</string>
+    <string name="face_unlock_not_roi">Трымайце твар у межах рамкі</string>
     <string name="face_unlock_offset_bottom">Крыху апусціце тэлефон</string>
     <string name="face_unlock_offset_left">Рухайцеся ў правы бок</string>
     <string name="face_unlock_offset_right">Рухайцеся ў левы бок</string>
@@ -645,6 +652,8 @@
     <string name="face_unlock_rotated_right">Павярніце галаву ў левы бок</string>
     <string name="face_unlock_sc_status">Націсніце на экран, каб адкрыць камеру</string>
     <string name="face_unlock_stay_away_screen">Трымайце прыладу на адлегласці ад 25 да 40 см</string>
+    <string name="face_unlock_success_stay_screen_msg">Заставайцеся на экране блакавання пасля праверкі вашага твару. Правядзіце уверх, каб адкрыць Галоўны экран.</string>
+    <string name="face_unlock_success_stay_screen_title">Заставайцеся на Экране блакавання пасля разблакоўкі</string>
     <string name="failed_to_open_app_settings_toast">Не атрымалася адкрыць налады праграмы %1$s</string>
     <string name="fingerprint_add_text">Інтэрфейс праграмы адбіткаў пальцаў быў абноўлены. Дадайце адбіткі пальцаў зноў.</string>
     <string name="fingerprint_add_title">Дадаць адбітак пальца</string>
@@ -820,6 +829,10 @@
     <string name="keyguard_charging_back_to_lockscreen">Вярнуцца на экран блакавання</string>
     <string name="keyguard_charging_info_battery_used_time_text">Праца ад батарэі</string>
     <string name="keyguard_charging_info_click_to_detail">Падрабязнасці</string>
+    <string name="keyguard_charging_info_data_c">%s℃</string>
+    <string name="keyguard_charging_info_data_ma">%s mA</string>
+    <string name="keyguard_charging_info_data_percent">%s%%</string>
+    <string name="keyguard_charging_info_data_v">%sV</string>
     <string name="keyguard_charging_info_drained_power_percent_text">Спажыванне зараду</string>
     <string name="keyguard_charging_info_last_charge_time">d.M H:mm</string>
     <string name="keyguard_charging_info_last_charge_today_time">Сёння %s</string>
@@ -844,6 +857,7 @@
     <string name="keyguard_missing_sim_instructions_long">SIM-карта адсутнічае або не чытаецца. Устаўце SIM-карту.</string>
     <string name="keyguard_missing_sim_message">У тэлефоне няма SIM-карты.</string>
     <string name="keyguard_missing_sim_message_short">Няма SIM-карты</string>
+    <string name="keyguard_more_overflow_text">+%d</string>
     <string name="keyguard_network_locked_message">Сетка заблакавана</string>
     <string name="keyguard_password_enter_password_code">Увядзіце пароль для разблакавання</string>
     <string name="keyguard_password_enter_pin_code">Увядзіце PIN-код</string>
@@ -927,6 +941,7 @@
     <string name="left_keycode">Код левай кнопкі</string>
     <string name="left_nav_bar_button_type">Дадатковы тып левай кнопкі</string>
     <string name="legacy_vpn_name">VPN</string>
+    <string name="list_delimeter">", "</string>
     <string name="local_backup_password_summary_change">Націсніце, каб змяніць ці выдаліць пароль</string>
     <string name="local_backup_password_summary_none">Поўныя рэзервовыя копіі галоўнага экрана не абаронены</string>
     <string name="local_backup_password_title">Пароль для рэзервовых копій пачатковага экрана</string>
@@ -992,6 +1007,7 @@
     <string name="miui_guide_dialog_message">Гукі медыя (музыка, відэа і г. д.) будуць прайгравацца ў рэжыме \"Без гуку\". Вы можаце змяніць гэта ў Наладах.</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">Разблакіравана Bluetooth прыладай</string>
     <string name="miui_ringer_count_down">Зваротны адлік</string>
+    <string name="miui_ringer_count_down_time">%s</string>
     <string name="miui_ringer_standard">Без гуку</string>
     <string name="miui_ringer_standard_description">Адключэнне гуку для ўваходных выклікаў і апавяшчэнняў</string>
     <string name="miui_ringer_total">Не турбаваць</string>
@@ -1019,12 +1035,14 @@
 
 За больш падрабязнай інфармацыяй звяртайцеся да адмінісратара."</string>
     <string name="monitoring_description_ca_cert_settings">Адкрытыя надзейныя ўліковыя дадзеныя</string>
+    <string name="monitoring_description_ca_cert_settings_separator">" "</string>
     <string name="monitoring_description_ca_certificate">На прыладзе ўсталяваны цэнтр сертыфікацыі. Ваш абаронены сеткавы трафік могуць праглядаць ці змяняць.</string>
     <string name="monitoring_description_do_body">Ваш адміністратар можа адсочваць і кіраваць наладамі, карпаратыўным доступам, праграмамі, дадзенымі, звязанымі з вашай прыладай, і інфармацыяй пра месцазнаходжанне вашай прылады.</string>
     <string name="monitoring_description_do_body_vpn">Вы падлучаныя да праграмы %1$s, якая можа адсочваць вашыя дзеянні ў сетцы, у тым ліку працу з электроннай поштай, праграмамі і сайтамі.</string>
     <string name="monitoring_description_do_header_generic">Ваша прылада кіруецца %1$s.</string>
     <string name="monitoring_description_do_header_with_name">%1$s выкарыстоўвае %2$s, каб кіраваць вашай прыладай.</string>
     <string name="monitoring_description_do_learn_more">Даведацца больш</string>
+    <string name="monitoring_description_do_learn_more_separator">" "</string>
     <string name="monitoring_description_managed_profile_ca_certificate">Ваша арганізацыя ўсталявала ў працоўным профілі цэнтр сертыфікацыі. Ваш абаронены сеткавы трафік могуць праглядаць ці змяняць.</string>
     <string name="monitoring_description_managed_profile_named_vpn">Ваш працоўны профіль падлучаны да прыстасавання %1$s, якое можа адсочваць вашыя дзеянні ў сетцы, у тым ліку працу з электроннай поштай, прыстасаваннямі і сайтамі.</string>
     <string name="monitoring_description_management">"Вашай прыладай кіруе арганізацыя.
@@ -1056,6 +1074,7 @@
 
 Вы таксама падлучаны да VPN, які можа кантраляваць сеткавую актыўнасць."</string>
     <string name="monitoring_description_vpn_settings">Адчыніць налады VPN</string>
+    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_subtitle_ca_certificate">Сертыфікат CA</string>
     <string name="monitoring_subtitle_network_logging">Сеткавы журнал</string>
     <string name="monitoring_subtitle_vpn">VPN</string>
@@ -1070,6 +1089,7 @@
     <string name="nav_guide_message">Выкарыстоўвайце жэсты, каб схаваць/паказаць наэкранныя кнопкі.</string>
     <string name="nav_guide_ok">Наладзіць</string>
     <string name="nav_guide_title">Схаваць наэкранныя кнопкі</string>
+    <string name="network_speed_suffix">%1$s%2$s</string>
     <string name="no_application">Нічога</string>
     <string name="no_multi_window_app">Няма праграм, якія падтрымліваюць падзяленне экрана</string>
     <string name="no_notification_tips">Няма апавяшчэнняў</string>
@@ -1151,11 +1171,11 @@
     <string name="phone_locked_foget_password">Забылі пароль?</string>
     <string name="phone_locked_foget_password_mehod_back">Назад</string>
     <string name="phone_locked_foget_password_method">Забылі пароль?</string>
-    <string name="phone_locked_foget_password_method_content"><Data>Вам трэба &lt;font color=#a5220e>сцерці ўсе дадзеныя &lt;/font> з вашай прылады, уключаючы фота і кантакты, а потым усталяваць новы пароль блакавання экрана.</Data></string>
+    <string name="phone_locked_foget_password_method_content">&lt;Data>Вам трэба &lt;font color=#a5220e>сцерці ўсе дадзеныя &lt;/font> з вашай прылады, уключаючы фота і кантакты, а потым усталяваць новы пароль блакавання экрана.&lt;/Data></string>
     <string name="phone_locked_foget_password_method_next">Далей</string>
     <string name="phone_locked_foget_password_ok">Зразумела</string>
-    <string name="phone_locked_forget_password_suggesstion_one_content"><Data>Выключыце прыладу, адначасова націсніце і ўтрымлівайце &lt;font color=#a5220e>Кнопку ўключэння&lt;/font> і &lt;font color=#a5220e>Кнопку павелічэння гучнасці&lt;/font>, пакуль не ўбачыце лагатып Mi.</Data></string>
-    <string name="phone_locked_forget_password_suggesstion_two_content"><Data>Выберыце&lt;font color=#a5220e>\"Сцерці дадзеныя і скінуць налады\"&lt;/font>і чакайце пакуль прылада перазапусціцца.;</Data></string>
+    <string name="phone_locked_forget_password_suggesstion_one_content">&lt;Data>Выключыце прыладу, адначасова націсніце і ўтрымлівайце &lt;font color=#a5220e>Кнопку ўключэння&lt;/font> і &lt;font color=#a5220e>Кнопку павелічэння гучнасці&lt;/font>, пакуль не ўбачыце лагатып Mi.&lt;/Data></string>
+    <string name="phone_locked_forget_password_suggesstion_two_content">&lt;Data>Выберыце&lt;font color=#a5220e>\"Сцерці дадзеныя і скінуць налады\"&lt;/font>і чакайце пакуль прылада перазапусціцца.;&lt;/Data></string>
     <string name="phone_locked_forget_password_suggesstions_title">Як сцерці дадзеныя?</string>
     <string name="phone_locked_string">Тэлефон заблакаваны</string>
     <string name="picture_color_mode">Каляровы рэжым Малюнак</string>
@@ -1209,6 +1229,7 @@
     <string name="power_remaining_charging_duration_only">%1$s засталося да поўнай зарадкі</string>
     <string name="power_remaining_duration_only">Засталося каля %1$s</string>
     <string name="power_remaining_duration_only_short">Засталося %1$s</string>
+    <string name="process_kernel_label">АС Android</string>
     <string name="profile_owned_footer">Профіль можа адсочвацца</string>
     <string name="prompt_danger">Пагроза</string>
     <string name="prompt_detecting">Выяўленне</string>
@@ -1582,7 +1603,7 @@ d MMM"</string>
     <string name="structure_face_unlock_tof_covered">Не атрымалася дадаць дадзеныя твару. Адсуньцеся далей ад экрана.</string>
     <string name="switch_bar_off">Адкл</string>
     <string name="switch_bar_on">Укл</string>
-    <string name="switch_system_user">Адкрыць Першую прастору</string>
+    <string name="switch_system_user">Вярнуцца ў Першую прастору</string>
     <string name="system_ui_tuner">Наладчык сістэмнага інтэрфейсу</string>
     <string name="task_access_locked_app_msg">Уключана абарона праграм</string>
     <string name="telephony_monitor_switch">Манітор тэлефаніі</string>
@@ -1749,6 +1770,7 @@ d MMM"</string>
     <string name="wait_for_debugger">Чаканне адладжвальніка</string>
     <string name="wait_for_debugger_summary">Праграма, якая адладжваеца, будзе чакаць адладжвальніка перад запускам</string>
     <string name="wallpaper_global_des_drop_down_notify_text">Пусціце, каб паглядзець падрабязнасці</string>
+    <string name="weather_description_no_aqi">%1$s</string>
     <string name="weather_publish_time">Абноўлена %1$s</string>
     <string name="wifi_aggressive_handover">Агрэсіўны Wi‑Fi для мабільнай перадачы</string>
     <string name="wifi_aggressive_handover_summary">Калі ўключана, то будзе адбывацца аўтаматычнае пераключэнне на мабільны інтэрнэт, калі сігнал Wi-Fi слабы.</string>
@@ -1773,9 +1795,11 @@ d MMM"</string>
     <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_security_none">Адсутнічае</string>
     <string name="wifi_security_passpoint">Passpoint</string>
+    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
     <string name="wifi_security_short_eap">802.1x</string>
+    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_wep">WEP</string>
     <string name="wifi_security_short_wpa">WPA</string>
     <string name="wifi_security_short_wpa2">WPA2</string>

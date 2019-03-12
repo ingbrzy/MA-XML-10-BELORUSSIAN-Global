@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="korea_permission_groups_descriptions">
+        <item>Для вызначэння сінхранізаваных элементаў</item>
+        <item>Для сінхранізацыі паведамленняў</item>
+        <item>Для сінхранізацыі кантактаў</item>
+        <item>Для сінхранізацыі падзей календара</item>
+        <item>Для сінхранізацыі элементаў з паслугамі, якія выкарыстоўваюць сховішча</item>
+    </string-array>
+    <string-array name="korea_permission_groups_names">
+        <item>Тэлефон</item>
+        <item>SMS</item>
+        <item>Кантакты</item>
+        <item>Каляндар</item>
+        <item>Сховішча</item>
+    </string-array>
     <string-array name="micloud_entrance_titleArray">
         <item>Сінхранізацыя дадзеных</item>
         <item>Рэзерваванне працоўнага стала</item>

@@ -418,7 +418,7 @@
     <string name="ent_licence_code_hint">Увядзіце код ліцэнзіі</string>
     <string name="ent_next_step">Далей</string>
     <string name="ent_get_code_hint">Вы можаце атрымаць коды прадпрыемства і ліцэнзіі ў свайго кіраўніка</string>
-    <string name="ent_agree_privacy_policy">Я прачытаў і прымаю Палітыку канфідэнцыяльнасці</string>
+    <string name="ent_agree_privacy_policy">Я прачытаў(ла) і прымаю Палітыку канфідэцыяльнасці</string>
     <string name="ent_activation">Актываваць</string>
     <string name="ent_activating">Актывацыя…</string>
     <string name="ent_installing">Усталяванне…</string>
@@ -461,4 +461,5 @@
     <string name="dialog_verify_fingerprint_retry">Не атрымалася праверыць адбітак пальца. Паспрабуйце яшчэ раз.</string>
     <string name="button_touch">Прыкладзіце палец да сканару</string>
     <string name="button_input_password">Увядзіце пароль</string>
+    <string name="master_clear_not_available">Скід на завадскія налады забаронены вашай кампаніяй.</string>
 </resources>

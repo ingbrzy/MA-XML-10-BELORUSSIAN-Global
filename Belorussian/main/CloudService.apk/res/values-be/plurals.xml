@@ -55,7 +55,7 @@
         <item quantity="many">%d песень</item>
     </plurals>
     <plurals name="dirty_browser_count">
-        <item quantity="other">"%d аб'екта браўзера"</item>
+        <item quantity="other">"%d аб'ектаў браўзера"</item>
         <item quantity="one">"%d аб'ект браўзера"</item>
         <item quantity="few">"%d аб'екты браўзера"</item>
         <item quantity="many">"%d аб'ектаў браўзера"</item>
@@ -84,16 +84,22 @@
         <item quantity="few">"%d схаваныя фота не сінхранізаваны. Выйдзіце пасля сінхранізацыі ўсіх аб'ектаў, каб захаваць іх; у іншым выпадку аб'екты будуць выдалены."</item>
         <item quantity="many">"%d схаваных фота не сінхранізаваны. Выйдзіце пасля сінхранізацыі ўсіх аб'ектаў, каб захаваць іх; у іншым выпадку аб'екты будуць выдалены."</item>
     </plurals>
-    <plurals name="micloud_main_resume_sync_hour">
-        <item quantity="other">Працягнуць сінхранізацыю праз %d гадзіны</item>
-        <item quantity="one">Працягнуць сінхранізацыю праз %d гадзіну</item>
-        <item quantity="few">Працягнуць сінхранізацыю праз %d гадзіны</item>
-        <item quantity="many">Працягнуць сінхранізацыю праз %d гадзін</item>
+    <plurals name="micloud_manual_pause_and_resume">
+        <item quantity="other">Сінхранізацыя прыпыненая. Працяг праз %d хвілін…</item>
+        <item quantity="one">Сінхранізацыя прыпыненая. Працяг праз %d хвіліну…</item>
+        <item quantity="few">Сінхранізацыя прыпыненая. Працяг праз %d хвіліны…</item>
+        <item quantity="many">Сінхранізацыя прыпыненая. Працяг праз %d хвілін…</item>
     </plurals>
-    <plurals name="micloud_main_resume_sync_min">
-        <item quantity="other">Працягнуць сінхранізацыю праз %d хвіліны</item>
-        <item quantity="one">Працягнуць сінхранізацыю праз %d хвіліну</item>
-        <item quantity="few">Працягнуць сінхранізацыю праз %d хвіліны</item>
-        <item quantity="many">Працягнуць сінхранізацыю праз %d хвілін</item>
+    <plurals name="last_sync_time_mins_ago">
+        <item quantity="other">%s хв таму</item>
+        <item quantity="one">%s хв таму</item>
+        <item quantity="few">%s хв таму</item>
+        <item quantity="many">%s хв таму</item>
+    </plurals>
+    <plurals name="last_sync_time_hours_ago">
+        <item quantity="other">%s гадз. таму</item>
+        <item quantity="one">%s гадз. таму</item>
+        <item quantity="few">%s гадз. таму</item>
+        <item quantity="many">%s гадз. таму</item>
     </plurals>
 </resources>

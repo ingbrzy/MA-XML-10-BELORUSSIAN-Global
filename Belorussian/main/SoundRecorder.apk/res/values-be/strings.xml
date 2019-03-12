@@ -64,6 +64,12 @@
     <string name="keywords_search_call_record">Запісаць выклікі;Запісаць выклік;Запіс выкліку;Запіс выклікаў</string>
     <string name="keywords_search_record">Новы запіс;Дадаць запіс;Запіс;Запісы;Расшыфроўка;Расшыфраваць;Дыктафон;Запіс гутаркі;Запіс гука;Дыктафон;Праграма для запісу;Як запісаць;Як запісаць гук;Як адшукаць Дыктафон;Дыктофон MIUI</string>
     <string name="keywords_search_record_list">Дыктафон;Расшыфроўка;Расшыфроўкі;Запіс;Падзяліцца запісам;Запіс;Запісы</string>
+    <string name="korea_permission_phone">Тэлефон</string>
+    <string name="korea_permission_phone_resc">Доступ да стану прылады і апрацоўка запісаў падчас выклікаў</string>
+    <string name="korea_permission_record">Мікрафон</string>
+    <string name="korea_permission_record_resc">Для запісу гуку</string>
+    <string name="korea_permission_storage">Сховішча</string>
+    <string name="korea_permission_storage_desc">Для захавання запісаў</string>
     <string name="loading_order_list">Хвілінку…</string>
     <string name="loading_order_list_empty">Тут няма заказаў.</string>
     <string name="low_battery_error">Засталося менш за 5% зараду батарэі. Спыніце і захавайце ваш запіс, каб не страціць дадзеныя.</string>

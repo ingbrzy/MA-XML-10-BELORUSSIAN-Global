@@ -56,6 +56,8 @@
     <string name="no_sound">Адключыць гук</string>
     <string name="operation_delete">Выдаліць</string>
     <string name="operation_send">Даслаць</string>
+    <string name="permission_intro_microphone">Для запісу гуку, калі крыніца гуку настроены на мікрафон</string>
+    <string name="permission_intro_storage">Для захавання запісаў экрана</string>
     <string name="quit_recording">Выйсці з праграмы</string>
     <string name="recording_failure">Немагчыма запісаць, пачніце зноў</string>
     <string name="recording_max_size">Запіс будзе спынены і захаваны з-за дасягнення абмежавання на памер файла. Калі неабходна, пачніце запіс з таго моманту, дзе вы спыніліся.</string>
@@ -72,6 +74,10 @@
     <string name="show_hard_key_summary">Паказваць падказкі пры націскваннях на кнопкі Дадому, Меню і Назад</string>
     <string name="show_screen_touch">Паказваць дотыкі і жэсты</string>
     <string name="show_screen_touch_summary">Адлюстроўваць дотыкі і жэсты з дапамогай белай кропкі</string>
+    <string name="size_byte">Б</string>
+    <string name="size_gigabyte">ГБ</string>
+    <string name="size_kilobyte">КБ</string>
+    <string name="size_megabyte">МБ</string>
     <string name="sound_source">Крыніца гуку</string>
     <string name="sound_source_summary">Сістэмныя гукі ці мікрафон</string>
     <string name="sound_source_summary_without_system_sounds">Мікрафон або без гуку</string>

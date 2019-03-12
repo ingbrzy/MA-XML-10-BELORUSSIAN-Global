@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="status_bar_notification_info_overflow">больш за 999</string>
     <string name="action_add_to_workspace">Дадаць да працоўнай прасторы</string>
     <string name="activity_not_found">Праграма не знойдзеная</string>
     <string name="add_screen">Дадаць экран</string>
@@ -98,7 +99,7 @@
     <string name="default_folder_title_services">Сэрвісы</string>
     <string name="default_folder_title_telcel">Telcel</string>
     <string name="default_folder_title_tools">Прылады</string>
-    <string name="default_screen_preview_title">Націсніце для выбару экрана</string>
+    <string name="default_screen_preview_title">Усталяваць пачатковы экран</string>
     <string name="default_shortcut_title_10086">10086.cn</string>
     <string name="delete">Выдаліць</string>
     <string name="delete_screen">Выдаліць экран</string>
@@ -108,6 +109,7 @@
     <string name="download_action">Спампаваць</string>
     <string name="drag_multiple_item_name" />
     <string name="drag_single_item_name" />
+    <string name="dual_app">Кланаванне праграм</string>
     <string name="edit_folder_title">Перайменаваць папку</string>
     <string name="edit_mode_group">Групаваць</string>
     <string name="edit_mode_group_error_full">Недастаткова месца</string>
@@ -181,7 +183,7 @@
     <string name="group_folder">Новая папка</string>
     <string name="group_live_folders">Папкі</string>
     <string name="group_shortcuts">Ярлыкі</string>
-    <string name="guide_install_app_msg">"This app isn't installed on your device. Find and install the app now?"</string>
+    <string name="guide_install_app_msg">Гэта праграма не ўсталявана на вашай прыладзе. Знайсці і ўсталяваць яе?</string>
     <string name="guide_install_app_title">Знайсці і ўсталяваць праграму?</string>
     <string name="guide_tips_editing_mode">Press &amp; hold to pick up a widget</string>
     <string name="home_screen">Галоўны экран</string>
@@ -351,5 +353,15 @@
     <string name="widget_gadget_player">Музыка</string>
     <string name="widget_global_search">Пошук</string>
     <string name="widget_quick_function">Хуткі доступ</string>
-    <string name="dual_app">Кланаванне праграм</string>
+    <string name="home_gesture_content_center">Кантэнт-цэнтр</string>
+    <string name="home_gesture_global_search">Пошук</string>
+    <string name="home_gesture_no_action">Адсутнічае</string>
+    <string name="home_gesture_notification_bar">Апавяшчэнні</string>
+    <string name="home_pull_down_action">Правядзіце ўніз на галоўным экране</string>
+    <string name="home_slide_up_action">Правядзіце ўверх на галоўным экране</string>
+    <string name="launcher_pull_down_title">Правядзіце ўверх на галоўным экране</string>
+    <string name="launcher_slide_up_title">Правядзіце ўніз на галоўным экране</string>
+    <string name="menu_finish">Гатова</string>
+    <string name="minus_one_screen">minus one screen</string>
+    <string name="widgets_preview_title">Дадаць віджэт</string>
 </resources>

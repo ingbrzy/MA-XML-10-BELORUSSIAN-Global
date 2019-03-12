@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="status_bar_notification_info_overflow">больш за 999</string>
+    <string name="confirm_recommandation_face_is">&lt;Data> Упэўнены, што гэта &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? Гэта фота будзе перамешчана ў альбом \"%2$s\". &lt;/Data></string>
+    <string name="confirm_recommandation_face_not">&lt;Data> Упэўнены, што гэта не &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? &lt;/Data></string>
+    <string name="confirm_recommandation_multiple_faces_are">&lt;Data> Упэўнены, што гэта &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? Гэта фота будзе перамешчана ў альбом \"%2$s\". &lt;/Data></string>
+    <string name="confirm_recommandation_multiple_faces_not">&lt;Data> Упэўнены, што гэта не &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? &lt;/Data></string>
     <string name="accept">Прыняць</string>
     <string name="accept_or_deny">Карыстальнік \"%1$s падзяліўся з вамі альбомам %2$s.</string>
     <string name="actionbar_overflow_item_desc">Дадатковыя параметры</string>
@@ -32,6 +37,11 @@
     <string name="adjust_saturation">Насычанасць</string>
     <string name="adjust_sharpen">Рэзкасць</string>
     <string name="adjust_vignette">Віньетка</string>
+    <string name="agreement_agree">Прыняць</string>
+    <string name="agreement_optional_tip">(Неабавязкова)</string>
+    <string name="agreement_quit">Выйсці</string>
+    <string name="agreement_required_tip">(Абавязкова)</string>
+    <string name="agreement_summary">Юрыдычныя дакументы</string>
     <string name="ai_album_open_switch_button_title">Пачаць аналіз фота</string>
     <string name="ai_album_requesting_title">Штучны інтэлект апрацоўвае фота. Вяртайцеся крыху пазней.</string>
     <string name="ai_album_setting_sub_title">"Дазвольце алгарытмам штучнага інтэлекту вызначаць людзей, месцы і аб'еты, каб іх было магчыма хутчэй знайсці."</string>
@@ -88,8 +98,8 @@
     <string name="alert_secret_album_message">Правядзіце ўніз на ўкладцы з альбомамі, каб праглядзець схаваны альбом.</string>
     <string name="alert_secret_album_message_lower_case"> пацягніце ўніз спіс альбомаў</string>
     <string name="alert_secret_album_title">Як праглядаць прыватны альбом</string>
-    <string name="alert_selection_description">Штучны інтэлект пазначае зорачкай лепшае фота сярод аналагічных выяў.</string>
-    <string name="alert_selection_title">Абрана штучным інтэлектам</string>
+    <string name="alert_selection_description">MIUI прааналізуе падобныя фота і адзначыць для вас лепшыя кадры.</string>
+    <string name="alert_selection_title">Выбраць лепшае фота</string>
     <string name="all_faces">Фатаграфіі з гэтым чалавекам</string>
     <string name="all_items_synced">Усе альбомы былі захаваныя на Mi Cloud</string>
     <string name="all_video_album_display_name">Усе відэа</string>
@@ -293,13 +303,9 @@
     <string name="confirm_hidden_recommend_group">OК</string>
     <string name="confirm_hidden_recommend_group_message">Пры адключэнні рэкамендацый вы зможаце працягнуць выкарыстанне опцыі \"Яшчэ падобныя людзі\"</string>
     <string name="confirm_hidden_recommend_group_title">Не адлюстроўваць парады</string>
-    <string name="confirm_merge_face_albums">" "<Data>" Аб'яднаць альбом з %s? "</Data>" "</string>
-    <string name="confirm_merge_many_face_albums">" "<Data>" Аб'яднаць альбом з %s? "</Data>" "</string>
+    <string name="confirm_merge_face_albums">"&lt;Data> Аб'яднаць альбом з %s? &lt;/Data>"</string>
+    <string name="confirm_merge_many_face_albums">"&lt;Data> Аб'яднаць альбом з %s? &lt;/Data>"</string>
     <string name="confirm_not_face">Няма супадзенняў</string>
-    <string name="confirm_recommandation_face_is">" "<Data> Упэўнены, што гэта &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? Гэта фота будзе перамешчана ў альбом \"%2$s\". </Data>" "</string>
-    <string name="confirm_recommandation_face_not">" "<Data> Упэўнены, што гэта не &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? </Data>" "</string>
-    <string name="confirm_recommandation_multiple_faces_are">" "<Data> Упэўнены, што гэта &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? Гэта фота будзе перамешчана ў альбом \"%2$s\". </Data>" "</string>
-    <string name="confirm_recommandation_multiple_faces_not">" "<Data> Упэўнены, што гэта не &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? </Data>" "</string>
     <string name="contact_tip">Кантакт</string>
     <string name="context_menu_add_contact">Дадаць да кантакту</string>
     <string name="context_menu_copy">Капіяваць</string>
@@ -369,8 +375,8 @@
     <string name="download_type_thumbnail">Высокая якасць</string>
     <string name="download_type_thumbnail_desc">Высокая якасць</string>
     <string name="download_type_title">Якасць спампоўкі</string>
-    <string name="download_without_wifi_msg">Пры выкарыстанні мабільнага інтэрнэту для спампоўкі фота можа спаганяцца дадатковая плата аператарам.</string>
-    <string name="download_without_wifi_title">Папярэджанне пра трафік</string>
+    <string name="download_with_metered_network_msg">Загрузка зыходных файлаў можа выклікаць налічэнне дадатковай платы аператарам. Загрузіць у любым выпадку?</string>
+    <string name="download_with_metered_network_title">Вы падлучаныя да платнай сеткі</string>
     <string name="downloading_desc">%1$d/%2$d</string>
     <string name="downloading_dialog_message">Вы можаце выбраць якасць спампаваных выяў або адключыць аўтаматычную спампоўку ў Наладах.</string>
     <string name="downloading_title">Спампоўка фота з Mi Cloud</string>
@@ -487,6 +493,7 @@
     <string name="face_name_edit">Змяніць</string>
     <string name="face_name_input">Увядзіце імя</string>
     <string name="face_recommend">Парады</string>
+    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="fail_hint">Не атрымалася завяршыць аперацыю</string>
     <string name="fail_to_pick_email">Няправільны Email</string>
     <string name="fail_to_sync_album">Не атрымалася сінхранізаваць альбом. Праверце параметры сеткі.</string>
@@ -497,6 +504,7 @@
     <string name="feature_guidance_photo_effects">"Даступныя
 новыя эфекты"</string>
     <string name="feature_guidance_video_editor_smart_effects">Даступныя новыя эфекты</string>
+    <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="filter_bi_bw">Ч&amp;Б</string>
     <string name="filter_bi_dusk">Змярканне</string>
     <string name="filter_bi_lilt">Рэалізм</string>
@@ -564,10 +572,13 @@
     <string name="free_view_desc">3D фота</string>
     <string name="gallery_setting">Галерэя</string>
     <string name="gallery_sync_disable_toast">Сінхранізацыя галерэі не ўключаная</string>
+    <string name="generate_story_summary">MIUI будзе аналізаваць вашыя фота і ствараць сюжэтныя альбомы. Адключыце гэтую функцыю для адмовы ад стварэння сюжэтных альбомаў.</string>
+    <string name="generate_story_title">Сюжэтныя альбомы</string>
     <string name="get_album_info_in_process">Загрузка інфармацыі воблачнага альбома...</string>
     <string name="gif_tip">GIF</string>
     <string name="gigabyteShort">ГБ</string>
     <string name="grant_permission_go_and_set">Усталяваць</string>
+    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_text">"Для звычайнай працы Галерэі патрэбны доступ да 
 %s
 , націсніце \"Наладзіць\", каб перайсці да дазволаў."</string>
@@ -602,6 +613,8 @@
     <string name="image_invalid_path">Недапушчальны шлях</string>
     <string name="image_not_found">Не атрымалася знайсці выяву</string>
     <string name="image_quota_fulfiled">Не ўдаецца дадаць малюнак. Колькасць малюнкаў у альбоме дасягнула мяжы.</string>
+    <string name="image_selection_summary">MIUI будзе аналізаваць падобныя фота і адзначаць для вас лепшыя здымкі. Адключыце гэтую функцыю для выдалення метак з фота.</string>
+    <string name="image_selection_title">Выберыце лепшыя фота</string>
     <string name="image_with_time">Фота зроблена %s</string>
     <string name="image_with_time_and_location">Фота зроблена %1$s. Месца: %2$s.</string>
     <string name="impunity_declaration_settings">Пытацца доступ да сеткі</string>
@@ -676,6 +689,9 @@
     <string name="merge_album_title">"Аб'яднаць з чалавекам"</string>
     <string name="messagelist_sender_self">Я</string>
     <string name="micloud_introduce">Аўтазахаванне фота і відэа (патрабуецца Mi Акаўнт)</string>
+    <string name="month_view_tip_button_text">Зразумела</string>
+    <string name="month_view_tip_sub_title">Выкарыстоўвайце «шчыпок» для прагляду месяца</string>
+    <string name="month_view_tip_title">Прагляд месяца</string>
     <string name="more">Больш</string>
     <string name="more_album_hint">і г.д.</string>
     <string name="more_face">Яшчэ падобныя людзі</string>
@@ -703,8 +719,8 @@
     <string name="movie_download_failed_for_notwork">Не атрымалася спампаваць. Далучыцеся да сеткі і паспрабуйце яшчэ раз.</string>
     <string name="movie_download_sdk_without_wifi_msg">Адсутнічае падключэнне Wi-Fi. Загрузіць патрабаваную ўбудову (3 МБ) праз мабільны інтэрнэт?</string>
     <string name="movie_download_sdk_without_wifi_title">Спампаваць праз мабільны інтэрнэт</string>
-    <string name="movie_download_without_wifi_msg">Выкарыстанне мабільнага інтэрнэту для спампоўкі файлаў павялічыць страту трафіка. Калі вы перавысіце ліміт трафіка, усталяваны вашым тарыфам, ваш аператар можа спаганяць дадатковую плату.</string>
-    <string name="movie_download_without_wifi_title">Папярэджанне пра трафік</string>
+    <string name="movie_download_with_metered_network_msg">Загрузка зыходных файлаў можа выклікаць налічэнне дадатковай платы аператарам. Загрузіць у любым выпадку?</string>
+    <string name="movie_download_with_metered_network_title">Вы падлучаныя да платнай сеткі</string>
     <string name="movie_edit">Рэдагаваць</string>
     <string name="movie_item_name">Кліп</string>
     <string name="movie_preview_btn">Прадпрагляд</string>
@@ -792,6 +808,7 @@
     <string name="operation_send">Адправіць</string>
     <string name="operation_set_contact_photo">Усталяваць як фота кантакту</string>
     <string name="operation_set_slide_wallpaper">Усталяваць як шпалеры слайд-шоў</string>
+    <string name="operation_set_video_wallpaper">Усталяваць як відэашпалеры</string>
     <string name="operation_set_wallpaper">Усталяваць як шпалеры</string>
     <string name="operation_share">Падзяліцца</string>
     <string name="operation_show_in_photos_tab">Паказваць у Фота</string>
@@ -815,6 +832,16 @@
     <string name="people_mark_mode_title_no_mark_name">Выберыце чалавека</string>
     <string name="people_page_label">Людзі</string>
     <string name="people_page_unname">Без імені</string>
+    <string name="percent_sign">%</string>
+    <string name="permissin_contract_desc">Найменне людзей на фота</string>
+    <string name="permission_contract_name">Кантакты</string>
+    <string name="permission_optional_category">Неабавязковыя дазволы</string>
+    <string name="permission_phone_desc">Сеткавыя запыты на аснове ID прылады</string>
+    <string name="permission_phone_name">Тэлефон</string>
+    <string name="permission_require_category">Абавязковыя дазволы</string>
+    <string name="permission_storage_desc">Адлюстраванне, рэдагаванне і захаванне фота</string>
+    <string name="permission_storage_name">Сховішча</string>
+    <string name="permission_use_desc">Дазволы</string>
     <string name="pet_album_display_name">Фота жывёл</string>
     <string name="petabyteShort">ПБ</string>
     <string name="photo">Фота</string>
@@ -830,6 +857,7 @@
     <string name="photo_editor_crop_rotation_format">%d°</string>
     <string name="photo_editor_doodle">Замалёўка</string>
     <string name="photo_editor_filter">Фільтр</string>
+    <string name="photo_editor_font_default">>Mi Lanting (звычайны)</string>
     <string name="photo_editor_frame">Рамка</string>
     <string name="photo_editor_label">Змяніць</string>
     <string name="photo_editor_long_crop">Абрэзаць</string>
@@ -886,6 +914,11 @@
     <string name="photo_editor_talkback_redo">Вярнуць</string>
     <string name="photo_editor_talkback_undo">Скасаваць</string>
     <string name="photo_editor_text">Тэкст</string>
+    <string name="photo_font_cancel_download">Адмена</string>
+    <string name="photo_font_download">Спампаваць</string>
+    <string name="photo_font_download_failed_for_notwork">Не атрымалася спампаваць. Далучыцеся да сеткі і паспрабуйце яшчэ раз.</string>
+    <string name="photo_font_download_without_wifi_msg">Выкарыстанне мабільнага інтэрнэту для загрузкі файлаў павялічыць расход трафіку. Калі вы перавысіць ліміт трафіку, усталяваны вашым тарыфам, ваш аператар сувязі можа спаганяць дадатковую плату.</string>
+    <string name="photo_font_download_without_wifi_title">Папярэджанне аб выкарыстанні дадзеных</string>
     <string name="photo_movie_module_finish">Кліпы паспяхова спампаваны</string>
     <string name="photo_movie_module_loading">Загрузка кліпаў…</string>
     <string name="photo_movie_select_image_range">Кліпы могуць змяшчаць 3-20 фота</string>
@@ -943,6 +976,7 @@
     <string name="recent_album_empty_title">Няма новых фота</string>
     <string name="recommanded_face_abandon_tip">Выдалена з прапаноў</string>
     <string name="recommanded_face_added_tip">Дададзена ў \"%s\"</string>
+    <string name="recommend_category_title">Рэкамендацыі з галерэі</string>
     <string name="recovery_merge">"Аб'яднаць"</string>
     <string name="recovery_merge_or_rename">"Аб'яднаць альбомы"</string>
     <string name="recovery_merge_or_rename_message">"Альбом з такой назвай ужо існуе. Аб'яднаць?"</string>
@@ -1045,6 +1079,9 @@
     <string name="search_title_recommend">Рэкамендацыі</string>
     <string name="search_title_suggestion">Прапановы</string>
     <string name="search_title_tag">"Аб'екты"</string>
+    <string name="search_transition_element_icon">search_icon</string>
+    <string name="search_transition_element_input">search_input</string>
+    <string name="search_transition_element_voice">search_voice</string>
     <string name="searching_cast_devices">Пошук праектара…</string>
     <string name="secret_album_card_description">Лепшае месца для вашых маленькіх сакрэтаў</string>
     <string name="secret_album_card_title">Паспрабуйце схаваныя альбомы</string>
@@ -1064,6 +1101,7 @@
     <string name="secret_reason_unknow_reasons">Невядомая памылка</string>
     <string name="secret_reason_video_not_support">Немагчыма дадаваць відэа ў прыватны альбом</string>
     <string name="see_ignore_faces">Прагледзець прапушчаныя фота</string>
+    <string name="select_all">Выбраць усё</string>
     <string name="select_image_operation">Дадаванне фота</string>
     <string name="select_item_face">"Гэта '%s'?"</string>
     <string name="select_origin_tip">Арыгінал (%s)</string>
@@ -1075,6 +1113,8 @@
     <string name="send_too_many_files_error">"За адзін раз можна адправіць %d аб'ектаў"</string>
     <string name="set_as_slide_wallpaper_description">Гэта паменшаная мініяцюра, спампаваць арыгінал?</string>
     <string name="set_as_slide_wallpaper_title">Усталяваць як шпалеры слайд-шоў</string>
+    <string name="set_as_video_wallpaper_description">"Загрузіць аб/'ект і ўсталяваць яго як відэашпалеры?"</string>
+    <string name="set_as_video_wallpaper_title">Усталяваць як відэашпалеры</string>
     <string name="set_as_wallpaper_description">Гэта паменшаная выява, спампаваць арыгінал?</string>
     <string name="set_as_wallpaper_title">Усталяваць як шпалеры</string>
     <string name="set_face_group_toast_msg_new_user">Утрымлівайце чалавека, каб ігнараваць яго ці сумясціць альбомы.</string>
@@ -1083,6 +1123,7 @@
     <string name="set_face_group_toast_title_old_user">Папярэджанне</string>
     <string name="set_face_image">Усталяваць новае фота профілю</string>
     <string name="set_group">Група</string>
+    <string name="set_video_wallpaper_failed">"Нельга выкарыстоўваць гэты аб/'ект у якасці відэашпалер"</string>
     <string name="set_wallpaper_get_image_failed">Не атрымалася спампаваць выяву, паўторыце пазней</string>
     <string name="setup_network_connection">Налады сеткі</string>
     <string name="share">Падзяліцца</string>
@@ -1133,17 +1174,11 @@
     <string name="sticker_spring">Вясна</string>
     <string name="sticker_summer">Лета</string>
     <string name="sticker_words">Словы</string>
-    <string name="storage_description_primary">Унутранае сховішча</string>
-    <string name="storage_description_sdcard">SD-карта</string>
-    <string name="storage_description_usb">USB-сховішча</string>
-    <string name="storage_description_xspace">Дадзеныя клонаў праграм</string>
     <string name="storage_no_space">Недастаткова вольнага месца</string>
     <string name="story_back_stop_download">Націсніце яшчэ раз для спынення спампоўкі</string>
     <string name="story_cancel_download">Адмена</string>
     <string name="story_download">Спампаваць</string>
     <string name="story_download_failed_for_notwork">Не атрымалася спампаваць. Далучыцеся да сеткі і паспрабуйце яшчэ раз.</string>
-    <string name="story_download_without_wifi_msg">Выкарыстанне мабільнага інтэрнэту для спампоўкі файлаў павялічыць страту трафіка. Калі вы перавысіце ліміт трафіка, усталяваны вашым тарыфам, ваш аператар можа спаганяць дадатковую плату.</string>
-    <string name="story_download_without_wifi_title">Папярэджанне аб выкарыстанні дадзеных</string>
     <string name="story_photo_downloading">Спампоўка…</string>
     <string name="sub_discard_confirm_message">Захаваць змены?</string>
     <string name="sub_discard_negative_btn">Скасаваць</string>
@@ -1182,6 +1217,8 @@
     <string name="text_edit_dialog_style_shadow">Цень</string>
     <string name="text_edit_dialog_style_transparent">Празрыстасць</string>
     <string name="text_edit_sub_menu_text">Бурбалка</string>
+    <string name="text_tab_bubble">Бурбалкі</string>
+    <string name="text_tab_watermark">Вадзяныя знакі</string>
     <string name="things_album_empty_title">"Фота можна адсартаваць па аб'ектах"</string>
     <string name="thumbnail_name">мініяцюра</string>
     <string name="tip_capture_location">Месцазнаходжанне:</string>
@@ -1199,7 +1236,6 @@
     <string name="to_enable_sync_dialog_message">Патрабуецца ўключыць сінхранізацыю</string>
     <string name="to_enable_sync_dialog_positive_button_text">Перайсці да Налад</string>
     <string name="to_enable_sync_dialog_title">Сінхранізаваць</string>
-    <string name="today">Сёння</string>
     <string name="too_many_recipients">Нельга дадаць больш %2$s атрымальнікаў (Дададзена на дадзены момант %1$s).</string>
     <string name="trash_bin">Сметніца</string>
     <string name="trash_bin_summary">Прагляд сінхранізаваных фота, якія нядаўна былі выдаленыя.</string>
@@ -1244,8 +1280,8 @@
     <string name="video_editor_down_load_now">Спампаваць</string>
     <string name="video_editor_download">Спампаваць</string>
     <string name="video_editor_download_failed_for_notwork">Памылка спампоўкі. Злучыцеся з сеткай і паўтарыце спробу.</string>
-    <string name="video_editor_download_without_wifi_msg">Выкарыстанне мабільнага інтэрнэту для спампоўкі файлаў павялічыць расход трафіка. Калі вы перавысіце ліміт, усталяваны вашым тарыфам, мабільны аператар можа спаганяць дадатковую плату.</string>
-    <string name="video_editor_download_without_wifi_title">Папярэджанне</string>
+    <string name="video_editor_download_with_metered_network_msg">Загрузка зыходных файлаў можа выклікаць налічэнне дадатковай платы аператарам. Загрузіць у любым выпадку?</string>
+    <string name="video_editor_download_with_metered_network_title">Вы падлучаныя да платнай сеткі</string>
     <string name="video_editor_encode_video">Кадаванне відэа…</string>
     <string name="video_editor_encode_video_error">Не атрымалася кадзіраваць відэа</string>
     <string name="video_editor_fatal_error">Невядомая памылка</string>
@@ -1336,11 +1372,14 @@
     <string name="who_is_this">Хто гэта?</string>
     <string name="xiaomi_account_not_exists_toast">Mi Акаўнт не існуе</string>
     <string name="yes">Так</string>
-    <string name="yesterday">Учора</string>
     <string name="you_are">Для дзіцяці вы</string>
-    <string name="month_view_tip_button_text">Зразумела</string>
-    <string name="month_view_tip_sub_title">Выкарыстоўвайце «шчыпок» для прагляду месяца</string>
-    <string name="month_view_tip_title">Прагляд месяца</string>
+    <string name="cleaner_similar_action">Выдаліць зараз</string>
+    <string name="cleaner_similar_description">Выдаліць дублікаты фота</string>
+    <string name="cleaner_similar_title">Дублікаты фота</string>
+    <string name="cleaner_video_action">Выдаліць зараз</string>
+    <string name="cleaner_video_description">Выдаляйце відэа, якія займаюць месца ў сховішче</string>
+    <string name="cleaner_video_pick_delete_selected">Выдаліць выбраныя відэа</string>
+    <string name="cleaner_video_title">Выдаліць відэа</string>
     <string name="photomovie_audio_custom">На прыладзе</string>
     <string name="photomovie_audio_default">Памяць</string>
     <string name="photomovie_audio_kawaii">Рамантыка</string>
@@ -1387,6 +1426,15 @@
     <string name="refocus_title">Размыццё</string>
     <string name="refocus_type_static">Ступень размыцця</string>
     <string name="refocus_type_video">Light trails</string>
-    <string name="text_tab_bubble">Bubbles</string>
-    <string name="text_tab_watermark">Watermarks</string>
+    <string name="screen_doodle_talkback_size">Шырыня лініі накіда</string>
+    <string name="screen_editor_crop">@string/photo_editor_long_crop</string>
+    <string name="screen_editor_doodle">@string/photo_editor_doodle</string>
+    <string name="screen_editor_finish">Гатова</string>
+    <string name="screen_editor_mosaic">@string/photo_editor_mosaic</string>
+    <string name="screen_editor_send">@string/operation_send</string>
+    <string name="screen_editor_text">@string/photo_editor_text</string>
+    <string name="screen_save_dialog_btn_cancel">Адмена</string>
+    <string name="screen_save_dialog_btn_delete">Выдаліць скрыншот</string>
+    <string name="screen_save_dialog_btn_save">Захаваць у Галерэі</string>
+    <string name="similar_keep_clear">Пакінуць лепшыя здымкі</string>
 </resources>

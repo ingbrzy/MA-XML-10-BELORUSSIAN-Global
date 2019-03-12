@@ -25,10 +25,10 @@
         <item quantity="many">Выдаліць %1$d кантактаў</item>
     </plurals>
     <plurals name="callNoAnswerTimeFormat">
-        <item quantity="other">Прапушчана | %1$d гудка</item>
-        <item quantity="one">Прапушчаны | %1$d гудок</item>
-        <item quantity="few">Прапушчана | %1$d гудкі</item>
-        <item quantity="many">Прапушчана | %1$d гудкоў</item>
+        <item quantity="other">Прапушчана %1$d гудка</item>
+        <item quantity="one">Прапушчаны 1$d гудок</item>
+        <item quantity="few">Прапушчана %1$d гудкі</item>
+        <item quantity="many">Прапушчана %1$d гудкоў</item>
     </plurals>
     <plurals name="cloud_state_unsynced_count">
         <item quantity="other">%1$d канктакта або фота не сінхранізавана</item>

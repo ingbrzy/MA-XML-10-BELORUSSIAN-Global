@@ -151,6 +151,14 @@
     <string name="install">Усталяваць</string>
     <string name="installing">Усталяванне…</string>
     <string name="insufficient_space">Недастаткова памяці</string>
+    <string name="korean_all_choose_item_title">Я згодны(-ая) з усімі палажэннямі і ўмовамі, якія прыводзяцца ніжэй.</string>
+    <string name="korean_permission_group_phone_describe">Доступ да IMEI прылады і стану сеткі, збор інфармацыі аб няўдалых загрузках для паляпшэння абслугоўвання</string>
+    <string name="korean_permission_group_phone_title">Тэлефон</string>
+    <string name="korean_privacy_btn_accept">Прыняць</string>
+    <string name="korean_privacy_btn_exit">Выхад</string>
+    <string name="korean_privacy_item_title">Палітыка Канфідэнцыяльнасці (абавязкова)</string>
+    <string name="korean_privacy_tv_summary">Уважліва прачытайце ўсе наступныя пункты і вырашыце, ці згодныя вы з імі.</string>
+    <string name="korean_user_agreement_item_title">Карыстальніцкае Пагадненне (абавязкова)</string>
     <string name="load_finish_hint">Гэта ўсё на дадзены момант.</string>
     <string name="loading">Хвілінку…</string>
     <string name="media_filter">Медыя</string>
@@ -162,6 +170,7 @@
     <string name="menu_title_resume_all">Запусціць усё</string>
     <string name="menu_title_settings">Налады</string>
     <string name="net_error">Падлучыцеся да сеткі і паўтарыце спробу</string>
+    <string name="new_file_notification_title_image">Выява</string>
     <string name="no_file_hint">Гэты файл ужо дададзены ў задачы</string>
     <string name="no_result_for_keyword">Не атрымалася знайсці \"%1$s\"</string>
     <string name="no_share_file">Не атрымалася падзяліцца гэтым файлам</string>

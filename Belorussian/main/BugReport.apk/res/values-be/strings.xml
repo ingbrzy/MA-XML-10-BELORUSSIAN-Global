@@ -9,7 +9,7 @@
     <string name="app_search">Пошук праграм</string>
     <string name="btn_send">Адправіць</string>
     <string name="bugreport_dialog_not_show_again">Больш не паказваць</string>
-    <string name="bugreport_dialog_submit_content"><Data>Журналы праграмнага забеспячэння захоўваюцца на гэтай прыладзе. Яны могуць утрымліваць асабістую інфармацыю і зьвесткі пра месца. Ня дзяліцеся журналамі ні з кім, калі не хочаце раскрыцця гэтай інфармацыі. Націскаючы \"Згодзен\" азначае, што вы прачыталі і прымаеце нашу &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Палітыку канфідэнцыяльнасці &lt;/a> і &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Умовы выкарыстання &lt;/a>.</Data></string>
+    <string name="bugreport_dialog_submit_content">&lt;Data>Журналы праграмнага забеспячэння захоўваюцца на гэтай прыладзе. Яны могуць утрымліваць асабістую інфармацыю і зьвесткі пра месца. Ня дзяліцеся журналамі ні з кім, калі не хочаце раскрыцця гэтай інфармацыі. Націскаючы \"Згодзен\" азначае, што вы прачыталі і прымаеце нашу &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Палітыку канфідэнцыяльнасці &lt;/a> і &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Умовы выкарыстання &lt;/a>.&lt;/Data></string>
     <string name="bugreport_dump_complete_notification_summary">Націсніце для прагляду.</string>
     <string name="bugreport_dump_complete_notification_title">Справаздача створана</string>
     <string name="bugreport_dump_start_notification_summary">Гэта можа заняць некалькі хвілін.</string>
@@ -100,13 +100,17 @@
     <string name="feedback_guess">Нашы прапановы</string>
     <string name="feedback_history_remind_login_desc">Увайдзіце ў свой Mi Акаўнт для прагляду падрабязнасцяў аб вашых справаздачах</string>
     <string name="feedback_id">ID: %d</string>
-    <string name="feedback_jira_key">JIRA Key: %s</string>
+    <string name="feedback_jira_key">Ключ JIRA: %s</string>
     <string name="feedback_package_log_failed">Не атрымалася сціснуць логі</string>
     <string name="feedback_phone_model_label">Мадэль тэлефона</string>
     <string name="feedback_probability_label">Верагоднасць</string>
     <string name="feedback_remind_login_btn">Увайсці</string>
     <string name="feedback_report_remind_login_desc">Увайдзіце ў свой Mi Акаўнт, каб нашы інжынеры маглі звязацца з Вамі.</string>
     <string name="feedback_report_remind_login_desc2">Вы можаце прагледзець прасоўванне сваёй справаздачы ў раздзеле \"Мае справаздачы\".</string>
+    <string name="feedback_reproductivity_everytime">Кожны раз</string>
+    <string name="feedback_reproductivity_occasionally">Рэдка</string>
+    <string name="feedback_reproductivity_often">Часта</string>
+    <string name="feedback_reproductivity_once">Адзін раз</string>
     <string name="feedback_retest_label">Крокі да ўзнаўлення</string>
     <string name="feedback_select_images">Дадаць выяву або кароткае відэа</string>
     <string name="feedback_select_modem_log">Дадаць справаздачу мадэма</string>
@@ -167,6 +171,20 @@
     <string name="goon_feedback_main">Працягнуць</string>
     <string name="hint_feedback_main">Апішыце праблему</string>
     <string name="issue_search">Пошук</string>
+    <string name="kr_authorization_agree">Accept</string>
+    <string name="kr_authorization_contact">Accounts</string>
+    <string name="kr_authorization_contact_desc">For getting Mi Account info and verifying your account</string>
+    <string name="kr_authorization_exit">Exit</string>
+    <string name="kr_authorization_log_protocol">Log Protocol (optional)</string>
+    <string name="kr_authorization_log_protocol_desc">"In order to improve the services provided to you, we'll upload usage stats and system logs to our servers. These items may include your personal information, as well as the information about your device and networks. We'll use uploaded items to locate and analyze the problems in the system."</string>
+    <string name="kr_authorization_phone">Phone</string>
+    <string name="kr_authorization_phone_desc">For identifying device using IMEI and model number, as well as locating and analyzing issues</string>
+    <string name="kr_authorization_privacy_policy">Privacy Policy (mandatory)</string>
+    <string name="kr_authorization_select_all">Select all</string>
+    <string name="kr_authorization_storage">Storage</string>
+    <string name="kr_authorization_storage_desc">For accessing storage and saving items including logs, images, and videos</string>
+    <string name="kr_authorization_summary">Legal documents</string>
+    <string name="kr_authorization_user_protocol">User Agreement (mandatory)</string>
     <string name="loading_apps">Загрузка спісу праграм…</string>
     <string name="login_system_failed">Не атрымалася ўвайсці, паспрабуйце яшчэ раз</string>
     <string name="logo_title">Водгук</string>
@@ -276,7 +294,7 @@
     <string name="network_errortip_server">Здарылася памылка сервера, паўтарыце спробу пазней</string>
     <string name="network_errortip_timeout">Таймаўт злучэння, паспрабуйце яшчэ раз пазней</string>
     <string name="network_errortip_unknow">Мы спрабуем гэта выправіць…</string>
-    <string name="network_unavailable_dialog_button_ok">OK</string>
+    <string name="network_unavailable_dialog_button_ok">OК</string>
     <string name="network_unavailable_dialog_content">Ваша справаздача будзе адпраўлена пры падключэнні да сеткі.</string>
     <string name="network_unavailable_dialog_title">Інтэрнэт недаступны</string>
     <string name="non_system_app_select">Спампаваныя праграмы</string>
@@ -284,6 +302,7 @@
     <string name="open_feedback_main">Яшчэ</string>
     <string name="packaging_dialog_content">Стварэнне справаздачы…</string>
     <string name="pic_not_exist">Гэта выява не існуе</string>
+    <string name="pic_view_format">%1$s\"/\"%2$s</string>
     <string name="plus_one_submit_dialog_content">Ваша справаздача разам з ўкладаннямі і журналамі будзе адпраўлена на серверы MIUI.</string>
     <string name="plus_one_submit_dialog_not_show_again">Запомніць выбар</string>
     <string name="post_miui_bbs_failed">Не атрымалася размясціць на форуме MIUI</string>
@@ -312,8 +331,8 @@
     <string name="select_system_app_tag">Выберыце праблему</string>
     <string name="submit_dialog_cancel">Не згаджацца</string>
     <string name="submit_dialog_confirm">Згадзіцца</string>
-    <string name="submit_dialog_content"><Data>"Вы павінны прыняць нашы &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Палітыку канфідэнцыяльнасці&lt;/a> і &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Умовы выкарыстання&lt;/a> для выкарыстання Справаздачы. Праблемы, пра якія вы паведамляеце, разам з прымацаванымі вамі аб'ектамі (могуць змяшчаць асабістыя дадзеныя, а таксама інфармацыю пра вашу прыладу і сеткі) будуць запампаваны на серверы MIUI. Гэта дапаможа нам знайсці і вырашыць праблемы, пра якія вы паведамляеце."</Data></string>
-    <string name="submit_dialog_content_global"><Data>"Ваша справаздача разам з укладаннямі (калі ёсць) і журналамі (вы можаце зняць сцяжкі з адпаведных палёў для аб'ектаў, якія вы не хочаце адпраўляць) будзе адпраўлены на серверы MIUI і ў закрыты раздзел форуму MIUI для распрацоўшчыкаў. Інфармацыя аб вашых тэмах і актыўнасці на форуме таксама будзе сабраная для аналізу і далейшых зносін. Журналы могуць утрымліваць асабістую інфармацыю і зьвесткі пра месца. Націскаючы \"Згодзен \" азначае, што вы прачыталі і прымаеце нашу &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Палітыку канфідэнцыяльнасці &lt;/a> і &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Умовы выкарыстання&lt;/a>."</Data></string>
+    <string name="submit_dialog_content">"&lt;Data>Вы павінны прыняць нашы &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Палітыку канфідэнцыяльнасці&lt;/a> і &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Умовы выкарыстання&lt;/a> для выкарыстання Справаздачы. Праблемы, пра якія вы паведамляеце, разам з прымацаванымі вамі аб'ектамі (могуць змяшчаць асабістыя дадзеныя, а таксама інфармацыю пра вашу прыладу і сеткі) будуць запампаваны на серверы MIUI. Гэта дапаможа нам знайсці і вырашыць праблемы, пра якія вы паведамляеце.&lt;/Data>"</string>
+    <string name="submit_dialog_content_global">"&lt;Data>Ваша справаздача разам з укладаннямі (калі ёсць) і журналамі (вы можаце зняць сцяжкі з адпаведных палёў для аб'ектаў, якія вы не хочаце адпраўляць) будзе адпраўлены на серверы MIUI і ў закрыты раздзел форуму MIUI для распрацоўшчыкаў. Інфармацыя аб вашых тэмах і актыўнасці на форуме таксама будзе сабраная для аналізу і далейшых зносін. Журналы могуць утрымліваць асабістую інфармацыю і зьвесткі пра месца. Націскаючы \"Згодзен \" азначае, што вы прачыталі і прымаеце нашу &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Палітыку канфідэнцыяльнасці &lt;/a> і &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Умовы выкарыстання&lt;/a>.&lt;/Data>"</string>
     <string name="submit_dialog_title">Адпраўка справаздачы</string>
     <string name="submit_feedback_info_failed">Не атрымалася адправіць справаздачу</string>
     <string name="suggestion_description">Дадаць апісанне</string>

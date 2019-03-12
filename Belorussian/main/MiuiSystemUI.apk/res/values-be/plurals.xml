@@ -12,6 +12,12 @@
         <item quantity="few">Адкрыты Нядаўнія, даступна праграм:%d. Правядзіце ўверх, каб закрыць, правядзіце ўніз, каб прычапіць.</item>
         <item quantity="many">Адкрыты Нядаўнія, даступна праграм:%d. Правядзіце ўверх, каб закрыць, правядзіце ўніз, каб прычапіць.</item>
     </plurals>
+    <plurals name="aod_dual_togother_city">
+        <item quantity="other">" %1$s гадзін %2$s"</item>
+        <item quantity="one">" %1$s гадзіна %2$s"</item>
+        <item quantity="few">" %1$s гадзіны %2$s"</item>
+        <item quantity="many">" %1$s гадзін %2$s"</item>
+    </plurals>
     <plurals name="block_record_notification_more_text">
         <item quantity="other">Схаваны апавяшчэнні ад %1$s і яшчэ %2$d праграмы.</item>
         <item quantity="one">Схаваны апавяшчэнні ад %1$s і яшчэ %2$d праграмы.</item>

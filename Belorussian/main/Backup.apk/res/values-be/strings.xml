@@ -6,6 +6,9 @@
     <string name="xiaomi_update_dialog_message_diff">"Даступна версія %1$s
 Памер Delta абнаўлення: %2$s"</string>
     <string name="xiaomi_external_storage_unavailable">Сховішча недаступна, праверце SD-карту.</string>
+    <string name="xiaomi_bytes_unit">%1$sБ</string>
+    <string name="xiaomi_kilobytes_unit">%1$sКБ</string>
+    <string name="xiaomi_megabytes_unit">%1$sМБ</string>
     <string name="xiaomi_connect_download_manager_fail">Не атрымалася пачаць спампоўку. Пераканайцеся, што дыспетчар спамповак працуе нармальна.</string>
     <string name="app_name">Рэзервовая копія</string>
     <string name="local_app_name">Рэзервовая копія</string>
@@ -225,6 +228,7 @@
     <string name="restore_backup">Аднаўленне</string>
     <string name="enable_encrypt_description">Шыфраваць</string>
     <string name="disable_encrypt_description">Не шыфраваць</string>
+    <string name="digit_percent">%</string>
     <string name="state_waiting">Хвілінку…</string>
     <string name="state_mounting">Атрыманне доступу да сховішча роўтара…</string>
     <string name="abort_backup_confirm">Стварэнне рэзервовай копіі не скончанае. Спыніць?</string>
@@ -541,6 +545,7 @@ https://appleid.apple.com/#!&amp;page=signin"</string>
 неабходна стварыць рэзервовую копію iCloud."</string>
     <string name="list_footer_tip_title">Парады:</string>
     <string name="import_tip_summary">З-за праблем з сумяшчальнасцю, вы можаце перадаваць дадзеныя з iOS прылад толькі часткова. Праверце перад пачаткам перадачы наяўнасць створанай рэзервовай копіі.</string>
+    <string name="import_tip_message">@string/icloud_how_to_backup_tip_steps</string>
     <string name="button_import">Імпарт</string>
     <string name="select_empty">Выберыце элементы для імпарту</string>
     <string name="select_item_summary_wait">Чаканне…</string>
@@ -575,7 +580,7 @@ https://appleid.apple.com/#!&amp;page=signin"</string>
     <string name="alert_miasist_occupy_restore">"Аднаўленне аб'ектаў праз Mi PC Suite… Дачакайцеся завяршэння і паспрабуйце зноў."</string>
     <string name="alert_phone_occupy_backup">Немагчыма выкарыстоўваць Mi PC Suite зараз. Завяршыце стварэнне рэзервовай копіі або працэсу аднаўлення на вашым тэлефоне і паспрабуйце ізноў.</string>
     <string name="alert_second_space_not_support_miasist">Немагчыма выкарыстоўваць Mi PC Suite у Другой прасторы. Перайдзіце да Першай прасторы.</string>
-    <string name="alert_title_backup_to_miasist">Стварыць праз Mi PC Suite рэзервовую копію?</string>
+    <string name="alert_title_backup_to_miasist">Рэзерваванне праз Mi PC Suite</string>
     <string name="alert_message_backup_to_miasist">"Mi PC Suite запытвае дазвол на стварэнне рэзервовай копіі на камп'ютары. Дазволіць?"</string>
     <string name="alert_title_restore_from_miasist">"Аднавіць аб'екты на вашым тэлефоне?"</string>
     <string name="alert_message_restore_from_miasist">Mi PC Suite неабходны дазвол на стварэнне рэзервовай копіі тэлефона. Дазволіць?</string>

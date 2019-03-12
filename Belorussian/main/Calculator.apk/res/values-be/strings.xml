@@ -249,6 +249,11 @@
     <string name="tax_credit_mortgage">Іпатэка</string>
     <string name="tax_credit_personal_income_tax">Падаходны падатак</string>
     <string name="tax_credit_pretax_income">Даход без выліку падаткаў (CNY)</string>
+    <string name="tax_detail">Інфармацыя аб падатку</string>
+    <string name="tax_detail_amount">Сума падатку</string>
+    <string name="tax_detail_rate">Стаўка падатку</string>
+    <string name="tax_detail_take_off">Вылік</string>
+    <string name="tax_detail_tax_payed">Выплачаная сума</string>
     <string name="tax_edittext_hint" />
     <string name="tax_endowment">Пенсійны фонд</string>
     <string name="tax_fixed_salary_hint">Увядзіце свой даход да выплаты падаткаў</string>
@@ -263,11 +268,13 @@
     <string name="tax_individual_income_tax_result">Вынік</string>
     <string name="tax_injury">Траўма</string>
     <string name="tax_insurance_and_fund">Страхаванне</string>
+    <string name="tax_insurance_and_fund_detail">Інфармацыя аб страхаванні</string>
     <string name="tax_last_salary_hint">Увядзіце свой даход</string>
     <string name="tax_last_salary_number">Даход</string>
     <string name="tax_location">Месцазнаходжанне</string>
     <string name="tax_medical">Медыцінскі</string>
     <string name="tax_param_error">Увядзіце правільныя стаўкі страхавання</string>
+    <string name="tax_payment_period">Колькасць выплат</string>
     <string name="tax_rate_provider">Разлічана ў адпаведнасці з новымі падатковымі правіламі. Дадзеныя прадастаўлены hexun.com і East Money.</string>
     <string name="tax_result_real_get">Пасля выплаты падаткаў</string>
     <string name="tax_social_insurance">Сацыяльнае страхаванне</string>
@@ -587,8 +594,11 @@
     <string name="word_figure_unit_shi">拾</string>
     <string name="word_figure_yuan">元</string>
     <string name="word_figure_zheng">整</string>
+    <string name="xiaomi_bytes_unit">%1$sБ</string>
     <string name="xiaomi_connect_download_manager_fail">Не атрымалася падлучыцца да Запамповак. Пераканайцеся ў тым, што праграма мае ўсе неабходныя дазволы ў «Налады > Усталяваныя праграмы».</string>
     <string name="xiaomi_external_storage_unavailable">Памяць недаступная. Праверце SD-карту.</string>
+    <string name="xiaomi_kilobytes_unit">%1$sКБ</string>
+    <string name="xiaomi_megabytes_unit">%1$sМБ</string>
     <string name="xiaomi_update_dialog_message">"Даступная версія %1$s
 Памер: %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"Даступная версія %1$s

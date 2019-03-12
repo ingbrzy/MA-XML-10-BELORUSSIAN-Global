@@ -25,10 +25,10 @@
         <item quantity="many">Выбрана: %1$d</item>
     </plurals>
     <plurals name="scroll_tip_format_when_announce_accessibility">
-        <item quantity="other">Page %1$d, %2$d apps.</item>
-        <item quantity="one">Page %1$d, %2$d app.</item>
-        <item quantity="few">Page %1$d, %2$d apps.</item>
-        <item quantity="many">Page %1$d, %2$d apps.</item>
+        <item quantity="other">Старонка %1$d, %2$d праграм.</item>
+        <item quantity="one">Старонка %1$d, %2$d праграма.</item>
+        <item quantity="few">Старонка %1$d, %2$d праграмы.</item>
+        <item quantity="many">Старонка %1$d, %2$d праграм.</item>
     </plurals>
     <plurals name="uninstall_dialog_title_multi_format">
         <item quantity="other">Выдаліць %1$d праграм?</item>
@@ -43,9 +43,9 @@
         <item quantity="many">Немагчыма выдаліць %1$d праграм</item>
     </plurals>
     <plurals name="uninstall_result_multi_succeeded">
-        <item quantity="other">Uninstalled %1$d apps</item>
-        <item quantity="one">Uninstalled %1$d app</item>
-        <item quantity="few">Uninstalled %1$d apps</item>
-        <item quantity="many">Uninstalled %1$d apps</item>
+        <item quantity="other">Выдалена %1$d праграм</item>
+        <item quantity="one">Выдалена %1$d праграма</item>
+        <item quantity="few">Выдалена %1$d праграм</item>
+        <item quantity="many">Выдалена %1$d праграм</item>
     </plurals>
 </resources>

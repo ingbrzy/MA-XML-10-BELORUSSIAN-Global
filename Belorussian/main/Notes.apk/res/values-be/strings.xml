@@ -118,6 +118,7 @@
     <string name="menu_title_select_folder">Выберыце папку</string>
     <string name="menu_unhide">Не хаваць</string>
     <string name="menu_unstick">Адмацаваць</string>
+    <string name="micloud_state_total_count">%1$s</string>
     <string name="not_now">Не зараз</string>
     <string name="note_description_content">Нататкі - выдатны сродак для запісу вашых думак. Там знаходзяцца напаміны, і ён сінхранізуе вашы нататкі з Mi Cloud, каб вы маглі атрымаць доступ да іх у любым месцы ў любы час. Перад выдаленнем праграмы ўпэўніцеся, што вы можаце абысціся без гэтых функцый.</string>
     <string name="note_description_title">Аб праграме</string>
@@ -129,8 +130,13 @@
     <string name="note_sort_way">Выберыце, як вы хочыце сартыраваць нататкі</string>
     <string name="notealert_enter">Адкрыць нататку</string>
     <string name="notealert_ok">Зачыніць</string>
+    <string name="notelist_string_info">…</string>
     <string name="notify_alarm_title">Нататкавы напамін</string>
     <string name="permdesc_accessNote">Злаўмысныя праграмы могуць выкарыстоўваць гэты дазвол для атрымання вашых асабістых дадзеных.</string>
+    <string name="permission_intro_contact">Маркіроўка нататак, зробленых падчас выклікаў</string>
+    <string name="permission_intro_microphone">Запіс галасавых нататак</string>
+    <string name="permission_intro_phone">Маркіроўка нататак, зробленых падчас выклікаў</string>
+    <string name="permission_intro_storage">Захаванне нататак і укладанняў</string>
     <string name="permlab_accessNote">Доступ да нататак</string>
     <string name="pref_desc_skip_confirm_for_quick_delete">Не пытаць падцверджанне пры выдаленні нататак з дапамогай жэста</string>
     <string name="pref_title_cloud_trash_bin">Выдаленыя нататкі ў Mi Cloud</string>
@@ -213,6 +219,14 @@
     <string name="toast_reach_text_limit_truncate">Нататка занадта доўгая. Тэкст у канцы быў абрэзаны.</string>
     <string name="toast_refuse_to_record_when_in_call">Гэту функцыю нельга выкарыстоўваць падчас выклікаў</string>
     <string name="toast_refuse_to_record_when_in_multi_window">Гэту функцыю нельга выкарыстоўваць з падзяленнем экрана</string>
+    <string name="toast_refuse_to_use_contact">"Доступ да кантактаў абмежаваны.
+Разрешите Нататкам чытанне кантактаў і пошук акаўнтаў на прыладзе."</string>
+    <string name="toast_refuse_to_use_external_storage">"Доступ да памяці абмежаваны.
+Разрешите нататцы чытанне змесціва SD-карты."</string>
+    <string name="toast_refuse_to_use_phone_state">"Доступ да тэлефона абмежаваны.
+Разрешите Нататкам чытанне стану і ID прылады."</string>
+    <string name="toast_refuse_to_use_record_audio">"Доступ да мікрафону абмежаваны.
+Разрешите нататцы запіс гуку."</string>
     <string name="toolbar_check_description">Дадаць сцяжок</string>
     <string name="toolbar_delete_description">Выдаліць гэтую нататку</string>
     <string name="toolbar_gallery_description">Дадаць выяву</string>

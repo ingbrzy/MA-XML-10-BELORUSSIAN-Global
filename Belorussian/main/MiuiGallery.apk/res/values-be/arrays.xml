@@ -1,8 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="activities_title">
+        <item>Асаблівы дзень</item>
+        <item>Памятны дзень</item>
+        <item>Яркія моманты</item>
+    </string-array>
     <string-array name="baby_sexy">
         <item>Хлопчык</item>
         <item>Дзяўчынка</item>
+    </string-array>
+    <string-array name="last_weekend_title">
+        <item>Мае выходныя</item>
+        <item>Часцінкі жыцця</item>
+        <item>Імгненні выходных</item>
+    </string-array>
+    <string-array name="menu_copy_or_move">
+        <item>Перамясціць</item>
+        <item>Капіраваць</item>
+        <item>@string/cancel</item>
     </string-array>
     <string-array name="month">
         <item>Студзень</item>
@@ -26,6 +41,11 @@
         <item>Дзед па маці</item>
         <item>Бабка па маці</item>
     </string-array>
+    <string-array name="parties_title">
+        <item>Разам</item>
+        <item>Добрыя часы</item>
+        <item>Ва ўнісон</item>
+    </string-array>
     <string-array name="relation_with_me">
         <item>Я</item>
         <item>Дзіця</item>
@@ -48,5 +68,9 @@
         <item>Бабка па бацьку</item>
         <item>Дзед па маці</item>
         <item>Бабка па маці</item>
+    </string-array>
+    <string-array name="sports_title">
+        <item>Рух наперад</item>
+        <item>Поўныя энергіі</item>
     </string-array>
 </resources>

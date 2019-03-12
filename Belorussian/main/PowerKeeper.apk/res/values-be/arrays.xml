@@ -6,7 +6,7 @@
     </string-array>
     <string-array name="hmode_app_classify1">
         <item>Асаблівы</item>
-        <item>Эканомія зараду батарэі</item>
+        <item>Энергазберажэнне MIUI</item>
     </string-array>
     <string-array name="hmode_app_classify2">
         <item>Актыўныя праграмы</item>
@@ -24,7 +24,7 @@
     <string-array name="thermal_summaries">
         <item>Прыярытэт кантролю тэмпературы</item>
         <item>Прыярытэт прадукцыйнасці</item>
-        <item>Не працуе пры максімальным энергазберажэнні</item>
+        <item>Не падтрымліваецца ў рэжыме максімальнай эканоміі</item>
     </string-array>
     <string-array name="power_mode_entries">
         <item>Прадукцыйнасць</item>

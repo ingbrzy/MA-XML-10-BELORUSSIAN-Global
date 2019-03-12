@@ -3,8 +3,8 @@
     <plurals name="items_selected">
         <item quantity="other">"%d аб'екта выдзеленая"</item>
         <item quantity="one">"%d аб'ект выдзелены"</item>
-        <item quantity="few">"%d аб'екты выдзеленыя"</item>
-        <item quantity="many">"%d аб'ектаў выдзеленыя"</item>
+        <item quantity="few">"%d аб'екты выдзелены"</item>
+        <item quantity="many">"%d аб'ектаў выдзелена"</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Толькі што</item>

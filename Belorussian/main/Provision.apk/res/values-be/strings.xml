@@ -30,6 +30,9 @@
     <string name="other_settings_auto_update_summary">MIUI падбярэ найлепшы час для ўсталёўкі абнаўленняў</string>
     <string name="other_settings_ad_enable">Асабістыя рэкамендацыі</string>
     <string name="other_settings_ad_enable_summary">"Атрымлівайце персаналізаваныя аб'явы заснаваныя на дадзеных вашых паводзін"</string>
+    <string name="other_settings_enhanced_lockscreen">Карусель шпалер</string>
+    <string name="other_settings_enhanced_lockscreen_summary">Атрымлівайце штодзённыя падборкі выяв і гісторый на Экран блакавання. Прымяняюцца Умовы і палажэнні.</string>
+    <string name="other_settings_enhanced_lockscreen_summary_index">Умовы і палажэнні</string>
     <string name="back">Назад</string>
     <string name="next">Далей</string>
     <string name="skip_underline">Прапусціць</string>
@@ -52,6 +55,7 @@
     <string name="terms_of_use_lable_gms">, сэрвісы Google Play</string>
     <string name="terms_of_use_label_systemhelper">, самастойная рэгістрацыя</string>
     <string name="terms_of_use_lable_smart_cards">, смарт-карты</string>
+    <string name="terms_of_use_lable_vsimcore">, MConnService</string>
     <string name="terms_of_use_lable_default_input_method_facemoji">"
 
 Перад выкарыстаннем гэтага сродку вам неабходна прыняць Палітыку канфідэнцыяльнасці Facemoji."</string>
@@ -105,13 +109,14 @@
 1. Пры уключаным экране.
 2. Калі слухаеце музыку з выключаным экранам."</string>
     <string name="voice_assist_advice">Mi AI дазваляе вам кіраваць прыладай з дапамогай голасу, але павышае спажыванне энергіі (+1% у гадзіну).</string>
-    <string name="ai_button_title">Пра кнопку AI</string>
-    <string name="ai_button_desc">Карыстуйцеся гэтай кнопкай, каб запускаць Mi AI і кіраваць прыладай з дапамогай голасу.</string>
+    <string name="ai_button_title">Кнопка AI</string>
+    <string name="ai_button_desc">Хуткі доступ да вашага разумнага галасавога памочніка</string>
     <string name="ai_button_long_press">Націск і ўтрыманне</string>
-    <string name="ai_button_long_press_desc">Скажыце каманду і адпусціце кнопку</string>
+    <string name="ai_button_long_press_desc">Націсніце і ўтрымлівайце кнопку AI, каб пагаварыць з Mi AI</string>
     <string name="ai_button_single_press">Націск</string>
-    <string name="ai_button_single_press_desc">Запуск Mi AI</string>
+    <string name="ai_button_single_press_desc">Націсніце кнопку AI для прагляду цэтлікаў Mi AI</string>
     <string name="ai_button_double_press">Падвоены націск</string>
-    <string name="ai_button_double_press_desc">Налады функцый Mi AI</string>
-    <string name="zone_picker_title">Choose time zone</string>
+    <string name="ai_button_double_press_desc">Двойчы націсніце кнопку AI для выканання карыстальніцкіх задач</string>
+    <string name="zone_picker_title">Выберыце часавы пояс</string>
+    <string name="locale_picker_other_locale_title">Дадатковыя рэгіёны</string>
 </resources>

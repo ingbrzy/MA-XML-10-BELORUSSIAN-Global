@@ -1,9 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="abc_action_bar_home_description">Перайсці на галоўную старонку</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Перайсці ўверх</string>
+    <string name="abc_action_menu_overflow_description">Дадатковыя параметры</string>
+    <string name="abc_action_mode_done">Гатова</string>
+    <string name="abc_activity_chooser_view_see_all">Прагледзець усё</string>
+    <string name="abc_activitychooserview_choose_application">Выбраць праграму</string>
+    <string name="abc_capital_off">ВЫКЛ.</string>
+    <string name="abc_capital_on">УКЛ.</string>
+    <string name="abc_search_hint">Пошук...</string>
+    <string name="abc_searchview_description_clear">Выдалiць запыт</string>
+    <string name="abc_searchview_description_query">Запыт на пошук</string>
+    <string name="abc_searchview_description_search">Пошук</string>
+    <string name="abc_searchview_description_submit">Адправіць запыт</string>
+    <string name="abc_searchview_description_voice">Галасавы пошук</string>
+    <string name="abc_shareactionprovider_share_with">Абагуліць з</string>
+    <string name="abc_shareactionprovider_share_with_application">Абагуліць з %s</string>
+    <string name="abc_toolbar_collapse_description">Згарнуць</string>
+    <string name="search_menu_title">Пошук</string>
+    <string name="status_bar_notification_info_overflow">больш за 999</string>
     <string name="about_title">Аб праграме</string>
     <string name="access_sd_fail">Няма доступу да SD-карты</string>
     <string name="accessibility_shutter_button">Здымак</string>
-    <string name="action_search">Search</string>
+    <string name="action_search">Пошук</string>
     <string name="address">Адрас:</string>
     <string name="agree_btn">Згадзіцца</string>
     <string name="amazon_assistant_shopping_title">Пошук на Amazon</string>
@@ -28,7 +49,7 @@
     <string name="choose_pay_title">Выберыце спосаб аплаты</string>
     <string name="choose_picture">Выбраць малюнак з QR-кодам</string>
     <string name="common_retake_picture">Зрабіць зноў</string>
-    <string name="common_retry">Try again</string>
+    <string name="common_retry">Паспрабуйце зноў</string>
     <string name="common_save">Захаваць</string>
     <string name="company">Кампанія:</string>
     <string name="confirm">OК</string>
@@ -40,7 +61,7 @@
     <string name="copy_text_success">Тэкст скапіяваны</string>
     <string name="crop_cancel_description">Скасаваць</string>
     <string name="crop_done_description">Зроблена</string>
-    <string name="crop_title_study">Crop the photo</string>
+    <string name="crop_title_study">Абрэзаць фота</string>
     <string name="crop_title_translation">Выберыце тэкст для перакладу</string>
     <string name="document_color_picture">Каляровы</string>
     <string name="document_color_picture_tip">Канвертацыя ў каляровы…</string>
@@ -65,11 +86,11 @@
     <string name="email">Email:</string>
     <string name="error_camera_disabled">Доступ да камеры быў забаронены з-за меркаванняў бяспекі</string>
     <string name="error_cannot_connect_camera">Не атрымалася падключыцца да камеры</string>
-    <string name="error_empty_result">"Couldn't find results"</string>
+    <string name="error_empty_result">Нічога не знайшлося</string>
     <string name="error_get_image">Немагчыма атрымаць малюнак</string>
     <string name="error_media_storage_failure">Не атрымалася захаваць фота</string>
     <string name="error_permissions">Сканер не мае дазволаў, патрэбных для яго звычайнай работы. Каб працягнуць, перайдзіце ў Налады і праверце дазволы.</string>
-    <string name="error_server_error">Server error</string>
+    <string name="error_server_error">Адбылася памылка сервера.</string>
     <string name="fax">Факс</string>
     <string name="feed_search_fail">Няма вынікаў, паспрабуйце зноў</string>
     <string name="feedback_description_camera_access">Сканер не можа падлучыцца да камеры</string>
@@ -77,7 +98,7 @@
     <string name="got_it">Зразумела</string>
     <string name="gps">Навігацыя</string>
     <string name="import_contact">Імпарт кантакту</string>
-    <string name="impunity_declaration_content">Сканару патрабуюцца дазволы на доступ да камеры і здымку фота. Для нармальнай працы сканара таксама патрабуецца падлучэнне да інтэрнэту. Націск на \"Згадзіцца\" ніжэй азначае, што вы прачыталі і прымаеце нашу %1$sПалітыку прыватнасці%2$s.</string>
+    <string name="impunity_declaration_content">"Сканару патрабуецца доступ да камеры для апрацоўкі выяў, створаных пры выкарыстанні праграмы. Не выкарыстоўвайце Сканер для здымкі аб'ектаў, якія змяшчаюць вашыя асабістыя дадзеныя. Націснуўшы «Згадзіцца», вы прымаеце нашу&lt;font color=\"#ff32b4ff\">&lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\" style=\"color:#ff32b4ff;\">Палітыку канфідэнцыяльнасці&lt;/a>&lt;/font> і дазваляеце Сканару падлучацца да інтэрнэту."</string>
     <string name="impunity_declaration_negative_text">Выхад</string>
     <string name="impunity_declaration_title">Палітыка канфідэнцыяльнасці</string>
     <string name="label_choose_picture">Выберыце малюнак</string>
@@ -102,7 +123,7 @@
     <string name="module_title_document">Дакумент</string>
     <string name="module_title_plant">Расліна</string>
     <string name="module_title_shopping">Набыццё рэчаў</string>
-    <string name="module_title_study">Study</string>
+    <string name="module_title_study">Дамашняя работа</string>
     <string name="module_title_translation">Пераклад</string>
     <string name="name">Імя:</string>
     <string name="new_schedule">Стварыць мерапрыемства</string>
@@ -114,6 +135,8 @@
     <string name="not_recommend_access_web_url">Усё роўна перайсці</string>
     <string name="note">Нататка:</string>
     <string name="open_url">Адкрыць URL</string>
+    <string name="pay_no_tip">Больш не паказваць</string>
+    <string name="pay_save_this_choose">Запомніць выбар</string>
     <string name="payment_text">Адкрыніць з дапамогай %s</string>
     <string name="phone">Тэлефон:</string>
     <string name="place_barcode_into_rectangle">Змясціце код у межах рамкі</string>
@@ -145,11 +168,11 @@
     <string name="shopping_title">Зрабіце фота тавару</string>
     <string name="shopping_vendor_info">Зроблена Taobao</string>
     <string name="spaceIsLow_content">Недастаткова прасторы на ўнутраным сховішчы.</string>
-    <string name="study_rotate_picture">Processing the photo</string>
-    <string name="study_scan_result">Result</string>
-    <string name="study_searching">Searching for result</string>
-    <string name="study_title">Take a photo of the problem</string>
-    <string name="study_vendor_info">Powered by 作业帮</string>
+    <string name="study_rotate_picture">Апрацоўка выявы…</string>
+    <string name="study_scan_result">Вынік</string>
+    <string name="study_searching">Пошук вынікаў…</string>
+    <string name="study_title">Адскануйце задачу, якую хочаце вырашыць</string>
+    <string name="study_vendor_info">Падтрымка: Zuoyebang</string>
     <string name="switch_open">Уключыць</string>
     <string name="tel">Тэлефон</string>
     <string name="title">Пасада:</string>
@@ -160,6 +183,7 @@
     <string name="translate_dest_lang">Мэтавая мова</string>
     <string name="translate_fail">Не атрымалася перакласці</string>
     <string name="translate_loading">Пераклад…</string>
+    <string name="translate_parallel_2_lines">Пераканайцеся, што тэкст паралельны лініям на экране</string>
     <string name="translate_save_fail">Не атрымалася захаваць нататку</string>
     <string name="translate_src_lang">Зыходная мова</string>
     <string name="translate_text_compare">Параўнанне</string>

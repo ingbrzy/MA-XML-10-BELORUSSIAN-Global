@@ -216,12 +216,6 @@
         <item quantity="few">Прапушчана %1$d фота, якія не могуць быць адлюстраваны.</item>
         <item quantity="many">Прапушчана %1$d фота, якія не могуць быць адлюстраваны.</item>
     </plurals>
-    <plurals name="file_count_format">
-        <item quantity="other">"Усяго %1$d аб'екта"</item>
-        <item quantity="one">"Усяго %1$d аб'ект"</item>
-        <item quantity="few">"Усяго %1$d аб'екты"</item>
-        <item quantity="many">"Усяго %1$d аб'ектаў"</item>
-    </plurals>
     <plurals name="number_of_images_and_videos_to_upload">
         <item quantity="other">"%1$d аб'екта ў чаканні сінхранізацыі"</item>
         <item quantity="one">"1 аб'ект у чаканні сінхранізацыі"</item>
@@ -407,5 +401,17 @@
         <item quantity="one">"%d аб'ект"</item>
         <item quantity="few">"%d аб'екты"</item>
         <item quantity="many">"%d аб'ектаў"</item>
+    </plurals>
+    <plurals name="photo_count_format">
+        <item quantity="other">"Усяго %1$d аб'ектаў"</item>
+        <item quantity="one">"Усяго %1$d аб'ект"</item>
+        <item quantity="few">"Усяго %1$d аб'екта"</item>
+        <item quantity="many">"Усяго %1$d аб'ектаў"</item>
+    </plurals>
+    <plurals name="video_count_format">
+        <item quantity="other">%1$d файлаў</item>
+        <item quantity="one">%1$d файл</item>
+        <item quantity="few">%1$d файлы</item>
+        <item quantity="many">%1$d файлаў</item>
     </plurals>
 </resources>

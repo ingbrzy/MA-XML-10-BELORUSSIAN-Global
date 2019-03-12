@@ -457,6 +457,7 @@
     <string name="portrait_mode_depth_effect_success_hint">Эфект глыбіні</string>
     <string name="portrait_mode_use_hint">"Партрэтны рэжым размывае фон
 і павялічвае выразнасць пярэдняга плана."</string>
+    <string name="portrait_mode_use_hint_with_switch">@string/portrait_mode_use_hint</string>
     <string name="portrait_mode_use_hint_for_bokeh">"Паспрабуйце зрабіць фота ў партрэтным рэжыме.
 Аб'еут здымкі застанецца ў фокусе, а фон будзе размыты."</string>
     <string name="pref_camera_square_mode_title">Квадрат</string>
@@ -473,6 +474,7 @@
     <string name="pref_camera_beautify_entry_low">Нізкі</string>
     <string name="pref_camera_beautify_entry_normal">Сярэдні</string>
     <string name="pref_camera_beautify_entry_high">Высокі</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="camera_mode_options">Рэжымы</string>
     <string name="button_front_camera_title">Зрабіць сэлфі</string>
     <string name="button_normal_video_title">Запіс відэа</string>
@@ -588,6 +590,7 @@
     <string name="lighting_pattern_leaf">Лісце</string>
     <string name="lighting_pattern_dot">Пункты</string>
     <string name="lighting_pattern_shutter">Шторкі</string>
+    <string name="lighting_pattern_holi">Холі</string>
     <string name="view_privacy_policy">Прагледзець Палітыку канфідэнцыяльнасці</string>
     <string name="fps960_toast">Рэжым «Запаволеная здымка» ўключыцца ў апошняй чвэрці запісу</string>
     <string name="portrait_bokeh_text">Партрэтны рэжым</string>
@@ -608,27 +611,27 @@
     <string name="live_speed_extreme_fast">Вельмі хуткая</string>
     <string name="live_sticker_updating">Абнаўленне…</string>
     <string name="live_sticker_network_error_hint">Памылка сеткі</string>
-    <string name="ultra_wide_mode">Шырокавугольны</string>
+    <string name="ultra_wide_mode">Звышшырокі вугал</string>
     <string name="beauty_body">Фігура</string>
     <string name="beauty_body_head">Галава</string>
     <string name="beauty_body_body">Складнасць</string>
     <string name="beauty_body_shoulder">Плечы</string>
     <string name="beauty_body_legged">Ногі</string>
     <string name="beauty_body_reset_tip">Эфекты паляпшэння фігуры паспяхова скінутыя</string>
-    <string name="ultra_wide_open_tip">Шырокавугольны рэжым</string>
-    <string name="ultra_wide_close_tip">Шырокавугольны рэжым адключаны</string>
-    <string name="pref_camera_zoom_mode_entry_ultra">Шырокавугольны</string>
-    <string name="ultra_wide_recommend_tip_hint">Паспрабуйце шырокавугольны рэжым</string>
+    <string name="ultra_wide_open_tip">Рэжым «Звышшырокі вугал»</string>
+    <string name="ultra_wide_close_tip">Рэжым «Звышшырокі вугал» выключаны</string>
+    <string name="pref_camera_zoom_mode_entry_ultra">ЗВЫШШЫРОКІ</string>
+    <string name="ultra_wide_recommend_tip_hint">Паспрабуйце рэжым «Звышшырокі вугал»</string>
     <string name="camera_liveshot_on_tip">Дынамічныя здымкі</string>
     <string name="camera_liveshot_off_tip">Дынамічныя здымкі адключаныя</string>
     <string name="accessibility_camera_liveshot_on">Дынамічныя здымкі ўключаны</string>
     <string name="accessibility_camera_liveshot_off">Дынамічныя здымкі адключаныя</string>
     <string name="beauty_tab_name_live_filter">Фільтры</string>
     <string name="beauty_tab_name_live_beauty">Паляпшэнне</string>
-    <string name="accessibility_ultra_wide_on">Шырокавугольны рэжым уключаны</string>
-    <string name="accessibility_ultra_wide_off">Шырокавугольны рэжым адключаны</string>
+    <string name="accessibility_ultra_wide_on">Рэжым «Звышшырокі вугал» уключаны</string>
+    <string name="accessibility_ultra_wide_off">Рэжым «Звышшырокі вугал» выключаны</string>
     <string name="ai_scene_top_tip">Месячнае святло</string>
-    <string name="pref_camera_ultra_wide_ldc_title">Выпраўляць скажэнні ў шырокавугольны здымках</string>
+    <string name="pref_camera_ultra_wide_ldc_title">Выпраўляць скажэнні ў звышшырокавугольных здымках</string>
     <string name="pref_camera_ultra_wide_ldc_description">"Аўтаматычна выпраўляць скажоныя аб'екты"</string>
     <string name="pref_camera_normal_wide_ldc_title">Выпраўляць скажэнні твараў на групавых фота</string>
     <string name="pref_camera_normal_wide_ldc_description">Выпраўляць скажэнні твараў людзей, якія знаходзяцца паблізу граніц кадра</string>
@@ -646,9 +649,9 @@
     <string name="live_edit_exit_confirm">Стоп</string>
     <string name="live_edit_share_title">Падзяліцца</string>
     <string name="beauty_reset_toast">Эфекты Паляпшэння выдаленыя</string>
-    <string name="pref_camera_ultra_wide_mode_title">Шырокавугольны рэжым</string>
+    <string name="pref_camera_ultra_wide_mode_title">Рэжым «Звышшырокі вугал»</string>
     <string name="ultra_wide_mode_use_hint_text">"Выкарыстоўвайце гэты рэжым, каб ахапіць больш прасторы ў вашым фота.
-Шырокавугольны рэжым дапаможа, калі вы не можаце адысці далей ад аб'екта."</string>
+Звышшырокавугольны рэжым дапаможа, калі вы не можаце адысці далей ад аб'екта здымкі."</string>
     <string name="live_reverse_message">"Выдаліць раней захоплены аб'ект?"</string>
     <string name="live_reverse_confirm">Выдаліць</string>
     <string name="live_error_title">Няправільны сістэмны час</string>
@@ -673,4 +676,10 @@
     <string name="accessibility_ultra_pixel_photography_32mp_on">Рэжым 32MP уключаны</string>
     <string name="accessibility_ultra_pixel_photography_32mp_off">Рэжым 32MP адключаны</string>
     <string name="zoom_no_support_tip_48M">Набліжэнне не працуе ў рэжыме 48MP</string>
+    <string name="hand_gesture_open_tip">Пакажыце далонь камеры, каб пачаць адлік таймера</string>
+    <string name="hand_gesture_tip">Спуск далонню</string>
+    <string name="autozoom_landscape_hint">Здымайце ў альбомным рэжыме для найлепшага эфекту</string>
+    <string name="super_night_toast">Трымайце тэлефон нерухома падчас здымкі</string>
+    <string name="capture_back_pressed_hint">Націсніце яшчэ раз, каб выйсці</string>
+    <string name="video_ultra_clear_tip">4K UHD</string>
 </resources>

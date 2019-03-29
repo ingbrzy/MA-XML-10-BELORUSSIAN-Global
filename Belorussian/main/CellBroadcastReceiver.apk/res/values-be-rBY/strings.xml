@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="button_dismiss">ОК</string>
     <string name="app_label">Мабільныя вяшчанні</string>
     <string name="sms_cb_settings">Настройкі мабільнага вяшчання</string>
     <string name="cell_broadcast_settings_not_available">Налады мабільнага вяшчання недаступныя для гэтага карыстальніка</string>
-    <string name="button_dismiss">ОК</string>
     <string name="no_cell_broadcasts">Няма актыўных абвестак у вашым раёне. Вы можаце змяніць налады абвестак, выкарыстоўваючы меню налад.</string>
     <string name="menu_preferences">Настройкі</string>
     <string name="menu_delete_all">Выдаліць вяшчаннi</string>

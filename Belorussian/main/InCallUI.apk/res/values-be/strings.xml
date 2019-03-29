@@ -78,6 +78,7 @@
     <string name="respond_via_sms_custom_message">Уласнае SMS</string>
     <string name="manageConferenceLabel">Кіраванне канферэнц-выклікам</string>
     <string name="emergency_call_dialog_number_for_display">Экстранны нумар</string>
+    <string name="volte_call">Выклік VoLTE</string>
     <string name="notification_dialing">Набор</string>
     <string name="notification_ongoing_call">Бягучы выклік</string>
     <string name="notification_on_hold">Ва ўтрыманні</string>

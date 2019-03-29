@@ -27,8 +27,8 @@
     <string name="stk_dialog_reject">НЕ</string>
     <string name="no_sim_card_inserted">Устаўце SIM-карту, каб запусціць інструменты SIM.</string>
     <string name="stk_channel_name">Паведамленні сэрвісу мабільнай перадачы даных</string>
-    <string name="stk_intent_permission">Патрабуюцца дазволы</string>
     <string name="sim_type_sim_name">Інструменты SIM</string>
     <string name="sim_type_usim_name">Інструменты USIM</string>
     <string name="sim_type_uim_name">Інструменты UIM</string>
+    <string name="stk_intent_permission">Патрабуюцца дазволы</string>
 </resources>

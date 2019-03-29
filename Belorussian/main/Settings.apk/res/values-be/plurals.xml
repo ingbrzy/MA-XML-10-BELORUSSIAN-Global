@@ -30,17 +30,11 @@
         <item quantity="few">Вельмі кароткая затрымка (%1$d мс)</item>
         <item quantity="many">Вельмі кароткая затрымка (%1$d мс)</item>
     </plurals>
-    <plurals name="aod_dual_togother_city">
-        <item quantity="other">" %1$s гадзін %2$s"</item>
-        <item quantity="one">" %1$s гадзіна %2$s"</item>
-        <item quantity="few">" %1$s гадзіны %2$s"</item>
-        <item quantity="many">" %1$s гадзін %2$s"</item>
-    </plurals>
     <plurals name="app_notification_listing_summary_others">
-        <item quantity="other">Выключаны для %d праграмы</item>
-        <item quantity="one">Выключаны для %d праграмы</item>
-        <item quantity="few">Выключаны для %d праграм</item>
-        <item quantity="many">Выключаны для %d праграм</item>
+        <item quantity="other">Выключана для %d праграмы</item>
+        <item quantity="one">Выключана для %d праграмы</item>
+        <item quantity="few">Выключана для %d праграм</item>
+        <item quantity="many">Выключана для %d праграм</item>
     </plurals>
     <plurals name="auto_disable_screenbuttons_disabled_header_title">
         <item quantity="other">Ніколі не адключаць для %d праграмы</item>
@@ -60,6 +54,42 @@
         <item quantity="few">%d праграмы дададзена ў аўтазапуск</item>
         <item quantity="many">%d праграм дададзена ў аўтазапуск</item>
     </plurals>
+    <plurals name="battery_manager_app_restricted">
+        <item quantity="other">Абмежаваных праграм: %1$d</item>
+        <item quantity="one">Абмежаваных праграм: %1$d</item>
+        <item quantity="few">Абмежаваных праграм: %1$d</item>
+        <item quantity="many">Абмежаваных праграм: %1$d</item>
+    </plurals>
+    <plurals name="battery_tip_restrict_app_dialog_title">
+        <item quantity="other">Абмежаваць працу %1$d праграмы?</item>
+        <item quantity="one">Абмежаваць працу %1$d праграмы?</item>
+        <item quantity="few">Абмежаваць працу %1$d праграм?</item>
+        <item quantity="many">Абмежаваць працу %1$d праграм?</item>
+    </plurals>
+    <plurals name="battery_tip_restrict_handled_summary">
+        <item quantity="other">Гэтыя праграмы не могуць працаваць у фонавым рэжыме</item>
+        <item quantity="one">Гэтыя праграмы не могуць працаваць у фонавым рэжыме</item>
+        <item quantity="few">Гэтыя праграмы не могуць працаваць у фонавым рэжыме</item>
+        <item quantity="many">Гэтыя праграмы не могуць працаваць у фонавым рэжыме</item>
+    </plurals>
+    <plurals name="battery_tip_restrict_handled_title">
+        <item quantity="other">Нядаўна вы абмежавалі працу %2$d праграмы</item>
+        <item quantity="one">Нядаўна вы абмежавалі працу %2$d праграмы</item>
+        <item quantity="few">Нядаўна вы абмежавалі працу %2$d праграм</item>
+        <item quantity="many">Нядаўна вы абмежавалі працу %2$d праграм</item>
+    </plurals>
+    <plurals name="battery_tip_restrict_summary">
+        <item quantity="other">%2$d праграмы надта хутка разраджаюць акумулятар</item>
+        <item quantity="one">%2$d праграма надта хутка разраджае акумулятар</item>
+        <item quantity="few">%2$d праграмы надта хутка разраджаюць акумулятар</item>
+        <item quantity="many">%2$d праграм надта хутка разраджаюць акумулятар</item>
+    </plurals>
+    <plurals name="battery_tip_restrict_title">
+        <item quantity="other">Неабходна абмежаваць працу %1$d праграмы</item>
+        <item quantity="one">Неабходна абмежаваць працу %1$d праграмы</item>
+        <item quantity="few">Неабходна абмежаваць працу %1$d праграм</item>
+        <item quantity="many">Неабходна абмежаваць працу %1$d праграм</item>
+    </plurals>
     <plurals name="bg_network_allow_count">
         <item quantity="other">%d праграмы можа падлучыцца да сеткі</item>
         <item quantity="one">%d праграма можа падлучыцца да сеткі</item>
@@ -72,6 +102,12 @@
         <item quantity="few">%d праграмы не могуць падлучыцца да сеткі</item>
         <item quantity="many">%d праграм не могуць падлучыцца да сеткі</item>
     </plurals>
+    <plurals name="billing_cycle_days_left">
+        <item quantity="other">Засталося %d дня</item>
+        <item quantity="one">Застаўся %d дзень</item>
+        <item quantity="few">Засталося %d дні</item>
+        <item quantity="many">Засталося %d дзён</item>
+    </plurals>
     <plurals name="connected_devices_number">
         <item quantity="other">%d прылады</item>
         <item quantity="one">%d прылада</item>
@@ -79,10 +115,10 @@
         <item quantity="many">%d прылад</item>
     </plurals>
     <plurals name="data_saver_unrestricted_summary">
-        <item quantity="other">%1$d праграмы могуць выкарыстоўваць трафік неабмежавана, калі ўключана Эканомія трафіку</item>
-        <item quantity="one">%1$d праграма можа выкарыстоўваць трафік неабмежавана, калі ўключана Эканомія трафіку</item>
-        <item quantity="few">%1$d праграмы могуць выкарыстоўваць трафік неабмежавана, калі ўключана Эканомія трафіку</item>
-        <item quantity="many">%1$d праграм могуць выкарыстоўваць трафік неабмежавана, калі ўключана Эканомія трафіку</item>
+        <item quantity="other">%1$d праграмы могуць выкарыстоўваць трафік неабмежавана, калі ўключана Эканомія трафіка</item>
+        <item quantity="one">%1$d праграма можа выкарыстоўваць трафік неабмежавана, калі ўключана Эканомія трафіка</item>
+        <item quantity="few">%1$d праграмы могуць выкарыстоўваць трафік неабмежавана, калі ўключана Эканомія трафіка</item>
+        <item quantity="many">%1$d праграм могуць выкарыстоўваць трафік неабмежавана, калі ўключана Эканомія трафіка</item>
     </plurals>
     <plurals name="default_camera_app_title">
         <item quantity="other">Праграмы \"Камера\"</item>
@@ -246,12 +282,6 @@
         <item quantity="few">%d актыўныя давераныя агенты</item>
         <item quantity="many">%d актыўных давераных агентаў</item>
     </plurals>
-    <plurals name="master_clear_with_account_summary">
-        <item quantity="other">Для %1$d уліковага запісу будзе выкананы скід</item>
-        <item quantity="one">Для %1$d уліковага запісу будзе выкананы скід</item>
-        <item quantity="few">Для %1$d уліковых запісаў будзе выкананы скід</item>
-        <item quantity="many">Для %1$d уліковых запісаў будзе выкананы скід</item>
-    </plurals>
     <plurals name="memory_usage_apps_summary">
         <item quantity="other">%1$d праграм выкарыстоўвалі памяць за апошнія %2$s</item>
         <item quantity="one">%1$d праграма выкарыстоўвала памяць за апошнія %2$s</item>
@@ -276,11 +306,23 @@
         <item quantity="few">%1$d абмежаванні</item>
         <item quantity="many">%1$d абмежаванняў</item>
     </plurals>
+    <plurals name="notification_group_summary">
+        <item quantity="other">%d катэгорыі</item>
+        <item quantity="one">%d катэгорыя</item>
+        <item quantity="few">%d катэгорыі</item>
+        <item quantity="many">%d катэгорый</item>
+    </plurals>
     <plurals name="notification_summary">
         <item quantity="other">Выключаны для %d праграмы</item>
         <item quantity="one">Выключаны для %d праграмы</item>
         <item quantity="few">Выключаны для %d праграм</item>
         <item quantity="many">Выключаны для %d праграм</item>
+    </plurals>
+    <plurals name="notifications_categories_off">
+        <item quantity="other">Выключана %d катэгорыі</item>
+        <item quantity="one">Выключана %d катэгорыя</item>
+        <item quantity="few">Выключана %d катэгорыі</item>
+        <item quantity="many">Выключана %d катэгорый</item>
     </plurals>
     <plurals name="number_of_device_admins">
         <item quantity="other">%d актыўнай праграмы</item>
@@ -294,6 +336,18 @@
         <item quantity="few">%d дазволы атрыманыя</item>
         <item quantity="many">%d дазволаў атрымана</item>
     </plurals>
+    <plurals name="power_high_usage_summary">
+        <item quantity="other">%2$d праграмы працуюць няправільна</item>
+        <item quantity="one">%2$d праграма працуе няправільна</item>
+        <item quantity="few">%2$d праграмы працуюць няправільна</item>
+        <item quantity="many">%2$d праграм працуюць няправільна</item>
+    </plurals>
+    <plurals name="power_high_usage_title">
+        <item quantity="other">Праграмы разраджаюць акумулятар</item>
+        <item quantity="one">Праграм разраджаюць акумулятар</item>
+        <item quantity="few">Праграмы разраджаюць акумулятар</item>
+        <item quantity="many">Праграм разраджаюць акумулятар</item>
+    </plurals>
     <plurals name="print_jobs_summary">
         <item quantity="other">%1$d задання друку</item>
         <item quantity="one">%1$d заданне друку</item>
@@ -305,6 +359,12 @@
         <item quantity="one">Уключана %1$d служба друку</item>
         <item quantity="few">Уключаны %1$d службы друку</item>
         <item quantity="many">Уключаны %1$d служб друку</item>
+    </plurals>
+    <plurals name="restricted_app_summary">
+        <item quantity="other">Абмежаванае выкарыстанне зараду для %1$d праграмы</item>
+        <item quantity="one">Абмежаванае выкарыстанне зараду для %1$d праграмы</item>
+        <item quantity="few">Абмежаванае выкарыстанне зараду для %1$d праграм</item>
+        <item quantity="many">Абмежаванае выкарыстанне зараду для %1$d праграм</item>
     </plurals>
     <plurals name="runtime_permissions_additional_count">
         <item quantity="other">%d дадатковага дазволу</item>
@@ -336,18 +396,6 @@
         <item quantity="few">Паказаць %d схаваныя элементы</item>
         <item quantity="many">Паказаць %d схаваных элементаў</item>
     </plurals>
-    <plurals name="settings_toggle_position_divider_page">
-        <item quantity="other">"%1$d перамыкача з'явіцца ў панэлі апавяшчэнняў"</item>
-        <item quantity="one">"%1$d перамыкач з'явіцца ў панэлі апавяшчэнняў"</item>
-        <item quantity="few">"%1$d перамыкача з'явіцца ў панэлі апавяшчэнняў"</item>
-        <item quantity="many">"%1$d перамыкачоў з'явіцца ў панэлі апавяшчэнняў"</item>
-    </plurals>
-    <plurals name="show_audio_logcat_countdown">
-        <item quantity="other">Засталося %1$d крокаў перад атрыманнем журнала аўдыё</item>
-        <item quantity="one">Застаўся %1$d крок перад атрыманнем журнала аўдыё</item>
-        <item quantity="few">Засталося %1$d крокі перад атрыманнем журнала аўдыё</item>
-        <item quantity="many">Засталося %1$d крокаў перад атрыманнем журнала аўдыё</item>
-    </plurals>
     <plurals name="show_cit_countdown">
         <item quantity="other">Засталося %1$d кроку да адкрыцця Інжынернага меню.</item>
         <item quantity="one">Застаўся %1$d крок да адкрыцця Інжынернага меню.</item>
@@ -360,17 +408,11 @@
         <item quantity="few">Зараз вы ў %1$d кроках ад таго, каб стаць распрацоўшчыкам.</item>
         <item quantity="many">Зараз вы ў %1$d кроках ад таго, каб стаць распрацоўшчыкам.</item>
     </plurals>
-    <plurals name="show_gps_logcat_countdown">
-        <item quantity="other">Засталося %1$d крокаў перад атрыманнем журнала GPS</item>
-        <item quantity="one">Застаўся %1$d крок перад атрыманнем журнала GPS</item>
-        <item quantity="few">Засталося %1$d крокі перад атрыманнем журнала GPS</item>
-        <item quantity="many">Засталося %1$d крокаў перад атрыманнем журнала GPS</item>
-    </plurals>
-    <plurals name="show_modem_logcat_countdown">
-        <item quantity="other">Засталося %1$d крокаў перад атрыманнем журнала мадэма</item>
-        <item quantity="one">Застаўся %1$d крок перад атрыманнем журнала мадэма</item>
-        <item quantity="few">Засталося %1$d крокі перад атрыманнем журнала мадэма</item>
-        <item quantity="many">Засталося %1$d крокаў перад атрыманнем журнала мадэма</item>
+    <plurals name="show_number_hearingaid_count">
+        <item quantity="other">Захавана %1$d слыхавога апарата</item>
+        <item quantity="one">Захаваны %1$d слыхавы апарат</item>
+        <item quantity="few">Захаваныя %1$d слыхавыя апараты</item>
+        <item quantity="many">Захавана %1$d слыхавых апаратаў</item>
     </plurals>
     <plurals name="show_pho_countdown">
         <item quantity="other">Засталося %1$d кроку да адкрыцця інфармацыі аб тэлефоне.</item>
@@ -383,12 +425,6 @@
         <item quantity="one">Застаўся %1$d крок да адпраўкі паведамлення пра памылку.</item>
         <item quantity="few">Засталося %1$d крокі да адпраўкі паведамлення пра памылку.</item>
         <item quantity="many">Засталося %1$d крокаў да адпраўкі паведамлення пра памылку.</item>
-    </plurals>
-    <plurals name="show_reset_countdown">
-        <item quantity="other">Засталося %1$d крокаў да скіду да заводскіх налад</item>
-        <item quantity="one">Застаўся %1$d крок да скіду да заводскіх налад</item>
-        <item quantity="few">Засталіся %1$d крокі да скіду да заводскіх налад</item>
-        <item quantity="many">Засталося %1$d крокаў да скіду да заводскіх налад</item>
     </plurals>
     <plurals name="special_access_summary">
         <item quantity="other">%d праграмы могуць выкарыстоўваць даныя без абмежаванняў</item>
@@ -448,6 +484,18 @@
         <item quantity="few">%d праграмы будуць паказваць апавяшчэнні</item>
         <item quantity="many">%d праграм будуць паказваць апавяшчэнні</item>
     </plurals>
+    <plurals name="suggestions_collapsed_summary">
+        <item quantity="other">+%1$d прапановы</item>
+        <item quantity="one">+%1$d прапанова</item>
+        <item quantity="few">+%1$d прапановы</item>
+        <item quantity="many">+%1$d прапаноў</item>
+    </plurals>
+    <plurals name="suggestions_collapsed_title">
+        <item quantity="other">%1$d прапановы</item>
+        <item quantity="one">%1$d прапанова</item>
+        <item quantity="few">%1$d прапановы</item>
+        <item quantity="many">%1$d прапаноў</item>
+    </plurals>
     <plurals name="uri_permissions_text">
         <item quantity="other">%d элемента</item>
         <item quantity="one">%d элемент</item>
@@ -472,17 +520,41 @@
         <item quantity="few">Вы падзяліліся %d сеткамі</item>
         <item quantity="many">Вы падзяліліся %d сеткамі</item>
     </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">Падлучана %1$d прылад</item>
+        <item quantity="one">Падлучана %1$d прылада</item>
+        <item quantity="few">Падлучана %1$d прылады</item>
+        <item quantity="many">Падлучана %1$d прылад</item>
+    </plurals>
     <plurals name="wrong_pin_code">
         <item quantity="other">Няправільны PIN-код SIM-карты, у вас засталося %d спробы.</item>
         <item quantity="one">Няправільны PIN-код SIM-карты, у вас засталася %d спроба.</item>
         <item quantity="few">Няправільны PIN-код SIM-карты, у вас засталося %d спробы.</item>
         <item quantity="many">Няправільны PIN-код SIM-карты, у вас засталося %d спроб.</item>
     </plurals>
+    <plurals name="zen_mode_duration_summary_time_hours">
+        <item quantity="other">%d гадзіны (калі рэжым не быў уключаны аўтаматычна)</item>
+        <item quantity="one">%d гадзіна (калі рэжым не быў уключаны аўтаматычна)</item>
+        <item quantity="few">%d гадзіны (калі рэжым не быў уключаны аўтаматычна)</item>
+        <item quantity="many">%d гадзін (калі рэжым не быў уключаны аўтаматычна)</item>
+    </plurals>
     <plurals name="zen_mode_settings_summary_on">
-        <item quantity="other">Уключаны %d аўтаматычнага правіла</item>
-        <item quantity="one">Уключана %d аўтаматычнае правіла</item>
-        <item quantity="few">Уключаны %d аўтаматычныя правілы</item>
-        <item quantity="many">Уключаны %d аўтаматычных правіл</item>
+        <item quantity="other">%d правіла</item>
+        <item quantity="one">%d правіла</item>
+        <item quantity="few">%d правілы</item>
+        <item quantity="many">%d правілаў</item>
+    </plurals>
+    <plurals name="zen_mode_sound_summary_summary_off_info">
+        <item quantity="other">Аўтаматычна ўключаць могуць %d правіла</item>
+        <item quantity="one">Аўтаматычна ўключаць можа %d правіла</item>
+        <item quantity="few">Аўтаматычна ўключаць могуць %d правілы</item>
+        <item quantity="many">Аўтаматычна ўключаць могуць %d правіл</item>
+    </plurals>
+    <plurals name="zen_mode_starred_contacts_summary_additional_contacts">
+        <item quantity="other">Яшчэ %d</item>
+        <item quantity="one">Яшчэ %d</item>
+        <item quantity="few">Яшчэ %d</item>
+        <item quantity="many">Яшчэ %d</item>
     </plurals>
     <plurals name="zen_mode_summary_alarms_only_by_hour">
         <item quantity="other">Пераключыцца на рэжым «толькі будзільнікі» на %1$d гадзіны да %2$s</item>

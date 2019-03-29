@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="status_bar_notification_info_overflow">больш за 999</string>
-    <string name="confirm_recommandation_face_is">&lt;Data> Упэўнены, што гэта &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? Гэта фота будзе перамешчана ў альбом \"%2$s\". &lt;/Data></string>
-    <string name="confirm_recommandation_face_not">&lt;Data> Упэўнены, што гэта не &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? &lt;/Data></string>
-    <string name="confirm_recommandation_multiple_faces_are">&lt;Data> Упэўнены, што гэта &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? Гэта фота будзе перамешчана ў альбом \"%2$s\". &lt;/Data></string>
-    <string name="confirm_recommandation_multiple_faces_not">&lt;Data> Упэўнены, што гэта не &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? &lt;/Data></string>
     <string name="accept">Прыняць</string>
     <string name="accept_or_deny">Карыстальнік \"%1$s падзяліўся з вамі альбомам %2$s.</string>
     <string name="actionbar_overflow_item_desc">Дадатковыя параметры</string>
@@ -237,6 +232,9 @@
     <string name="cleaner_screen_shot_action">Ачысціць</string>
     <string name="cleaner_screen_shot_description">Выдаляйце больш непатрэбныя скрыншоты.</string>
     <string name="cleaner_screen_shot_title">Выдаліць скрыншоты</string>
+    <string name="cleaner_similar_action">Выдаліць зараз</string>
+    <string name="cleaner_similar_description">Выдаліць дублікаты фота</string>
+    <string name="cleaner_similar_title">Дублікаты фота</string>
     <string name="cleaner_slim_action">Пачаць аптымізацыю</string>
     <string name="cleaner_slim_description">Захоўвайце на сваёй прыладзе сціснутыя фота. Сыходныя файлы будуць захоўвацца ў Mi Cloud.</string>
     <string name="cleaner_slim_start">Аптымізаваць</string>
@@ -244,6 +242,10 @@
     <string name="cleaner_space_description">можа быць вызваленае</string>
     <string name="cleaner_space_detail_description">Чысціце фота ў галерэі для вызвалення месца</string>
     <string name="cleaner_stop_scan">Спыніць сканаванне</string>
+    <string name="cleaner_video_action">Выдаліць зараз</string>
+    <string name="cleaner_video_description">Выдаляйце відэа, якія займаюць месца ў сховішче</string>
+    <string name="cleaner_video_pick_delete_selected">Выдаліць выбраныя відэа</string>
+    <string name="cleaner_video_title">Выдаліць відэа</string>
     <string name="click_download_gif">Націсніце для спампоўкі GIF</string>
     <string name="click_top_right">Націсніце на значок уверсе справа</string>
     <string name="close">Закрыць</string>
@@ -306,6 +308,10 @@
     <string name="confirm_merge_face_albums">"&lt;Data> Аб'яднаць альбом з %s? &lt;/Data>"</string>
     <string name="confirm_merge_many_face_albums">"&lt;Data> Аб'яднаць альбом з %s? &lt;/Data>"</string>
     <string name="confirm_not_face">Няма супадзенняў</string>
+    <string name="confirm_recommandation_face_is">&lt;Data> Упэўнены, што гэта &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? Гэта фота будзе перамешчана ў альбом \"%2$s\". &lt;/Data></string>
+    <string name="confirm_recommandation_face_not">&lt;Data> Упэўнены, што гэта не &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? &lt;/Data></string>
+    <string name="confirm_recommandation_multiple_faces_are">&lt;Data> Упэўнены, што гэта &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? Гэта фота будзе перамешчана ў альбом \"%2$s\". &lt;/Data></string>
+    <string name="confirm_recommandation_multiple_faces_not">&lt;Data> Упэўнены, што гэта не &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? &lt;/Data></string>
     <string name="contact_tip">Кантакт</string>
     <string name="context_menu_add_contact">Дадаць да кантакту</string>
     <string name="context_menu_copy">Капіяваць</string>
@@ -476,7 +482,7 @@
     <string name="ext_sdcard_permission_request_title">Дазвольце Галерэі доступ да SD-карты</string>
     <string name="ext_sdcard_request_failed_button_text">OК</string>
     <string name="ext_sdcard_request_succeed_toast_text">Усё гатова!</string>
-    <string name="face_album_empty">"Недастаткова фота, каб распазнаць людзей.
+    <string name="face_album_empty">"Недастаткова фота, каб распазнаць людзей.r
 Рабіце больш фота вашых сяброў!"</string>
     <string name="face_album_empty_syncing">Сінхранізацыя дадзеных, вяртайцеся пазней</string>
     <string name="face_album_empty_syncing_when_connect_wifi">Падлучыцца да сеткі для сінхранізацыі</string>
@@ -493,6 +499,7 @@
     <string name="face_name_edit">Змяніць</string>
     <string name="face_name_input">Увядзіце імя</string>
     <string name="face_recommend">Парады</string>
+    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="fail_hint">Не атрымалася завяршыць аперацыю</string>
     <string name="fail_to_pick_email">Няправільны Email</string>
     <string name="fail_to_sync_album">Не атрымалася сінхранізаваць альбом. Праверце параметры сеткі.</string>
@@ -503,6 +510,7 @@
     <string name="feature_guidance_photo_effects">"Даступныя
 новыя эфекты"</string>
     <string name="feature_guidance_video_editor_smart_effects">Даступныя новыя эфекты</string>
+    <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="filter_bi_bw">Ч&amp;Б</string>
     <string name="filter_bi_dusk">Змярканне</string>
     <string name="filter_bi_lilt">Рэалізм</string>
@@ -576,6 +584,7 @@
     <string name="gif_tip">GIF</string>
     <string name="gigabyteShort">ГБ</string>
     <string name="grant_permission_go_and_set">Усталяваць</string>
+    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_text">"Для звычайнай працы Галерэі патрэбны доступ да 
 %s
 , націсніце \"Наладзіць\", каб перайсці да дазволаў."</string>
@@ -829,6 +838,7 @@
     <string name="people_mark_mode_title_no_mark_name">Выберыце чалавека</string>
     <string name="people_page_label">Людзі</string>
     <string name="people_page_unname">Без імені</string>
+    <string name="percent_sign">%</string>
     <string name="permissin_contract_desc">Найменне людзей на фота</string>
     <string name="permission_contract_name">Кантакты</string>
     <string name="permission_optional_category">Неабавязковыя дазволы</string>
@@ -1021,6 +1031,16 @@
     <string name="scan_barcode_guide">Каб атрымаць QR-кода альбома, націсніце на значок \"Падзяліцца\".</string>
     <string name="scan_barcode_to_join">Счытайце QR-код сканерам, каб дадаць альбом</string>
     <string name="scan_qr_code_buttom_text">Скануе QR-код для прагляду гэтага альбома</string>
+    <string name="screen_doodle_talkback_size">Шырыня лініі накіда</string>
+    <string name="screen_editor_crop">@string/photo_editor_long_crop</string>
+    <string name="screen_editor_doodle">@string/photo_editor_doodle</string>
+    <string name="screen_editor_finish">Гатова</string>
+    <string name="screen_editor_mosaic">@string/photo_editor_mosaic</string>
+    <string name="screen_editor_send">@string/operation_send</string>
+    <string name="screen_editor_text">@string/photo_editor_text</string>
+    <string name="screen_save_dialog_btn_cancel">Адмена</string>
+    <string name="screen_save_dialog_btn_delete">Выдаліць скрыншот</string>
+    <string name="screen_save_dialog_btn_save">Захаваць у Галерэі</string>
     <string name="search_backup_full_screen">"Уключыць сінхранізацыю з Mi Cloud, каб знаходзіць больш аб'ектаў і людзей"</string>
     <string name="search_backup_now">Уключыць</string>
     <string name="search_backup_sub_title">Уключыць, каб знаходзіць больш выяў</string>
@@ -1075,6 +1095,9 @@
     <string name="search_title_recommend">Рэкамендацыі</string>
     <string name="search_title_suggestion">Прапановы</string>
     <string name="search_title_tag">"Аб'екты"</string>
+    <string name="search_transition_element_icon">search_icon</string>
+    <string name="search_transition_element_input">search_input</string>
+    <string name="search_transition_element_voice">search_voice</string>
     <string name="searching_cast_devices">Пошук праектара…</string>
     <string name="secret_album_card_description">Лепшае месца для вашых маленькіх сакрэтаў</string>
     <string name="secret_album_card_title">Паспрабуйце схаваныя альбомы</string>
@@ -1131,6 +1154,7 @@
     <string name="show_hidden_album_title">Паказваць схаваныя альбомы</string>
     <string name="show_in_other_albums_disable_toast_long_press_menu">Перамешчана паспяхова, перайдзіце ў Іншыя альбомы для прагляду</string>
     <string name="show_in_other_albums_enable_toast_long_press_menu">Перамешчана паспяхова, перайдзіце ў Альбомы для прагляду</string>
+    <string name="similar_keep_clear">Пакінуць лепшыя здымкі</string>
     <string name="slideshow_interval_dialog_title">Увядзіце інтэрвал</string>
     <string name="slideshow_interval_invalid">Інтэрвал павінен быць зададзены ў межах 1~3600 секунд</string>
     <string name="slideshow_interval_title">Інтэрвал слайд-шоу</string>
@@ -1151,6 +1175,7 @@
     <string name="slim_stop">Спыніць аптымізацыю</string>
     <string name="start_debug">Наладжванне Галерэі</string>
     <string name="start_to_use_face_albumset">Сартаваць па адзначаных людзям</string>
+    <string name="status_bar_notification_info_overflow">больш за 999</string>
     <string name="sticker_ad">Лістоўкі</string>
     <string name="sticker_baibai">Расліны</string>
     <string name="sticker_beard">Барада</string>
@@ -1167,6 +1192,10 @@
     <string name="sticker_spring">Вясна</string>
     <string name="sticker_summer">Лета</string>
     <string name="sticker_words">Словы</string>
+    <string name="storage_description_primary">Унутраная памяць</string>
+    <string name="storage_description_sdcard">SD-карта</string>
+    <string name="storage_description_usb">USB-сховішча</string>
+    <string name="storage_description_xspace">Дадзеныя клонаў праграм</string>
     <string name="storage_no_space">Недастаткова вольнага месца</string>
     <string name="story_back_stop_download">Націсніце яшчэ раз для спынення спампоўкі</string>
     <string name="story_cancel_download">Адмена</string>
@@ -1229,6 +1258,7 @@
     <string name="to_enable_sync_dialog_message">Патрабуецца ўключыць сінхранізацыю</string>
     <string name="to_enable_sync_dialog_positive_button_text">Перайсці да Налад</string>
     <string name="to_enable_sync_dialog_title">Сінхранізаваць</string>
+    <string name="today">Сёння</string>
     <string name="too_many_recipients">Нельга дадаць больш %2$s атрымальнікаў (Дададзена на дадзены момант %1$s).</string>
     <string name="trash_bin">Сметніца</string>
     <string name="trash_bin_summary">Прагляд сінхранізаваных фота, якія нядаўна былі выдаленыя.</string>
@@ -1365,64 +1395,6 @@
     <string name="who_is_this">Хто гэта?</string>
     <string name="xiaomi_account_not_exists_toast">Mi Акаўнт не існуе</string>
     <string name="yes">Так</string>
+    <string name="yesterday">Учора</string>
     <string name="you_are">Для дзіцяці вы</string>
-    <string name="cleaner_similar_action">Выдаліць зараз</string>
-    <string name="cleaner_similar_description">Выдаліць дублікаты фота</string>
-    <string name="cleaner_similar_title">Дублікаты фота</string>
-    <string name="cleaner_video_action">Выдаліць зараз</string>
-    <string name="cleaner_video_description">Выдаляйце відэа, якія займаюць месца ў сховішче</string>
-    <string name="cleaner_video_pick_delete_selected">Выдаліць выбраныя відэа</string>
-    <string name="cleaner_video_title">Выдаліць відэа</string>
-    <string name="photomovie_audio_custom">На прыладзе</string>
-    <string name="photomovie_audio_default">Памяць</string>
-    <string name="photomovie_audio_kawaii">Рамантыка</string>
-    <string name="photomovie_audio_light">Балада</string>
-    <string name="photomovie_audio_linear">Рок</string>
-    <string name="photomovie_audio_none">Няма</string>
-    <string name="photomovie_audio_soft">Укулеле</string>
-    <string name="photomovie_audio_sport">Тэхна</string>
-    <string name="photomovie_cancel_download">Скасаваць</string>
-    <string name="photomovie_delete_disable">Вам неабходна мінімум 3 фота, каб стварыць кліп.</string>
-    <string name="photomovie_download">Спампаваць</string>
-    <string name="photomovie_download_failed">Памылка спампоўкі</string>
-    <string name="photomovie_download_failed_for_notwork">Памылка спампоўкі. Злучыцеся з сеткай і паўтарыце спробу.</string>
-    <string name="photomovie_download_without_wifi_msg">Выкарыстанне мабільнага інтэрнэту для спампоўкі файлаў павялічыць страту трафіка. Калі вы перавысіце ліміт трафіка, усталяваны вашым тарыфам, ваш аператар можа спаганяць дадатковую плату.</string>
-    <string name="photomovie_download_without_wifi_title">Папярэджанне пра трафік</string>
-    <string name="photomovie_exit_cancel">Скасаваць</string>
-    <string name="photomovie_exit_confirm">Выйсці</string>
-    <string name="photomovie_exit_content">Усе змены будуць страчаны. Усё роўна выйсці?</string>
-    <string name="photomovie_exit_title">Выйсці</string>
-    <string name="photomovie_item_name">Кліп</string>
-    <string name="photomovie_return">Назад</string>
-    <string name="photomovie_save">Захаваць</string>
-    <string name="photomovie_save_failed">Памылка захавання</string>
-    <string name="photomovie_save_successfully">Захавана</string>
-    <string name="photomovie_saving">Стварэнне кліпа</string>
-    <string name="photomovie_tab_edit">Змяніць</string>
-    <string name="photomovie_tab_music">Музыка</string>
-    <string name="photomovie_tab_template">Шаблон</string>
-    <string name="photomovie_template_default">Павольны</string>
-    <string name="photomovie_template_kawaii">Чары</string>
-    <string name="photomovie_template_light">Лёгкі вецер</string>
-    <string name="photomovie_template_linear">Прыгоды</string>
-    <string name="photomovie_template_soft">Маладосць</string>
-    <string name="photomovie_template_sport">Энергія</string>
-    <string name="refocus_discard_confirm_message">Захаваць змены?</string>
-    <string name="refocus_discard_negative_btn">Адмяніць</string>
-    <string name="refocus_discard_positive_btn">Захаваць</string>
-    <string name="refocus_photo_not_support">"Can't apply blur to this photo"</string>
-    <string name="refocus_save_cancel">Скасаваць</string>
-    <string name="refocus_save_title">Выбраць фармат</string>
-    <string name="refocus_save_to_photo">Захаваць як выяву</string>
-    <string name="refocus_save_to_video">Захаваць як відэа</string>
-    <string name="refocus_saving">Захаванне…</string>
-    <string name="refocus_title">Размыццё</string>
-    <string name="refocus_type_static">Ступень размыцця</string>
-    <string name="refocus_type_video">Light trails</string>
-    <string name="screen_doodle_talkback_size">Шырыня лініі накіда</string>
-    <string name="screen_editor_finish">Гатова</string>
-    <string name="screen_save_dialog_btn_cancel">Адмена</string>
-    <string name="screen_save_dialog_btn_delete">Выдаліць скрыншот</string>
-    <string name="screen_save_dialog_btn_save">Захаваць у Галерэі</string>
-    <string name="similar_keep_clear">Пакінуць лепшыя здымкі</string>
 </resources>

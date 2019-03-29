@@ -23,6 +23,7 @@
     <string name="dialog_alert_title">Увага</string>
     <string name="VideoView_error_text_invalid_progressive_playback">Відэа не падыходзіць для патокавай перадачы на ​​гэту прыладу.</string>
     <string name="selectTextMode">Выбраць тэкст</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="fingerprint_icon_content_description">Значок адбіткаў пальцаў</string>
     <string name="paste_as_plain_text">Уставіць як звычайны тэкст</string>
     <string name="autofill">Аўтазапаўненне</string>
@@ -113,7 +114,6 @@
     <string name="android_upgrading_apk">Аптымізацыя прыкладання %1$d з %2$d.</string>
     <string name="android_upgrading_complete">Завяршэнне загрузкі.</string>
     <string name="android_upgrading_fstrim">Аптымізацыя сховішча.</string>
-    <string name="android_upgrading_notification_body">Пэўныя праграмы могуць не працаваць належным чынам, пакуль не скончыцца абнаўленне</string>
     <string name="android_upgrading_notification_title">Абнаўленне Android завяршаецца…</string>
     <string name="android_upgrading_starting_apps">Запуск прыкладанняў.</string>
     <string name="android_upgrading_title">Абнаўленне Android...</string>
@@ -199,9 +199,6 @@
     <string name="capital_on">Уключыць</string>
     <string name="car_mode_disable_notification_message">Дакраніцеся, каб выйсці з рэжыму \"У машыне\".</string>
     <string name="car_mode_disable_notification_title">Рэжым \"У машыне\" ўключаны</string>
-    <string name="carrier_app_dialog_button">АТРЫМАЦЬ ПРАГРАМУ</string>
-    <string name="carrier_app_dialog_message">Каб ваша новая SIM-карта працавала належным чынам, вам неабходна ўсталяваць і адкрыць праграму ад вашага аператара.</string>
-    <string name="carrier_app_dialog_not_now">НЕ ЗАРАЗ</string>
     <string name="carrier_app_notification_text">Краніце, каб наладзіць</string>
     <string name="carrier_app_notification_title">Устаўлена новая SIM-карта</string>
     <string name="cfTemplateForwarded">{0}: {1}</string>
@@ -228,10 +225,6 @@
     <string name="data_saver_description">Каб паменшыць выкарыстанне даных, Эканомія трафіку не дазваляе некаторым праграмам адпраўляць ці атрымліваць даныя ў фонавым рэжыме. Праграма, якую вы зараз выкарыстоўваеце, можа атрымліваць доступ да даных, але можа рабіць гэта радзей. Гэта можа азначаць, напрыклад, што відарысы не паказваюцца, пакуль вы не дакраняцеся да іх.</string>
     <string name="data_saver_enable_button">Уключыць</string>
     <string name="data_saver_enable_title">Уключыць Эканомію трафіка?</string>
-    <string name="data_usage_3g_limit_snoozed_title">Перавышаны ліміт 2G-3G</string>
-    <string name="data_usage_3g_limit_title">Дасягнуты ліміт трафіку 2G-3G</string>
-    <string name="data_usage_4g_limit_snoozed_title">Перавышаны ліміт дадзеных 4G</string>
-    <string name="data_usage_4g_limit_title">Дасягнуты ліміт трафіку 4G</string>
     <string name="data_usage_limit_body">Перад.даных спын. да канца цыкла</string>
     <string name="data_usage_limit_snoozed_body">"Аб'ём %s перавышае устаноўл. мяжу."</string>
     <string name="data_usage_mobile_limit_snoozed_title">Перавышаны ліміт мабільных дадзеных</string>
@@ -261,7 +254,6 @@
     <string name="default_audio_route_name">Тэлефон</string>
     <string name="default_audio_route_name_dock_speakers">Дынамікі станцыi</string>
     <string name="default_audio_route_name_headphones">Навушнікі</string>
-    <string name="default_media_route_name_hdmi">HDMI</string>
     <string name="default_notification_channel_label">Некатэгарызаванае</string>
     <string name="delete">Выдаліць</string>
     <string name="deleteText">Выдалiць</string>
@@ -366,6 +358,7 @@
     <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
     <string name="fcComplete">"Код аб'екта завершаны."</string>
     <string name="fcError">Праблема падлучэння ці няправільны код функцыі.</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="find">Пошук</string>
     <string name="find_next">Знайсці нiжэй</string>
     <string name="find_on_page">Знайсці на старонцы</string>
@@ -552,7 +545,7 @@
     <string name="kg_reordering_delete_drop_target_text">Выдалiць</string>
     <string name="kg_sim_pin_instructions">Увядзіце PIN-код SIM-карты</string>
     <string name="kg_sim_unlock_progress_dialog_message">Разблакiроўка SIM-карты...</string>
-    <string name="kg_too_many_failed_attempts_countdown">Паўтарыце спробу праз %1$d с.</string>
+    <string name="kg_text_message_separator">" — "</string>
     <string name="kg_too_many_failed_password_attempts_dialog_message">"Вы няправільна ўвялі пароль пэўную колькасць разоў: %1$d. 
 
 Паўтарыце спробу праз %2$d с."</string>
@@ -577,10 +570,7 @@
     <string name="leave_accessibility_shortcut_on">Выкарыстоўваць камбінацыю хуткага доступу</string>
     <string name="loading">Загрузка...</string>
     <string name="locale_search_menu">Шукаць</string>
-    <string name="lock_to_app_exit">Экран адмацаваны</string>
-    <string name="lock_to_app_start">Экран замацаваны</string>
     <string name="lock_to_app_toast">Каб адмацаваць гэты экран, краніце і ўтрымлівайце кнопкі \"Назад\" і \"Агляд\"</string>
-    <string name="lock_to_app_toast_locked">Гэту праграму нельга адмацаваць</string>
     <string name="lock_to_app_unlock_password">Запытваць пароль перад адмацаваннем</string>
     <string name="lock_to_app_unlock_pattern">Запытваць узор разблакіроўкі перад адмацаваннем</string>
     <string name="lock_to_app_unlock_pin">Запытваць PIN-код перад адмацаваннем</string>
@@ -819,6 +809,7 @@
     <string name="notification_channel_wfc">Wi-Fi-тэлефанія</string>
     <string name="notification_hidden_text">Змесціва схавана</string>
     <string name="notification_listener_binding_label">Слухач апавяшчэння</string>
+    <string name="notification_messaging_title_template">%1$s: %2$s</string>
     <string name="notification_ranker_binding_label">Служба ацэнкі важнасці апавяшчэнняў</string>
     <string name="notification_title">Памылка ўваходу ва ўлiковы запiс %1$s</string>
     <string name="notification_work_profile_content_description">Працоўны профіль</string>
@@ -828,7 +819,6 @@
     <string name="number_picker_increment_scroll_action">Правядзіце пальцам уверх, каб павялічыць, або ўніз, каб паменшыць.</string>
     <string name="number_picker_increment_scroll_mode">%s – Націсніце і ўтрымлівайце.</string>
     <string name="old_app_action">Вярнуцца да %1$s</string>
-    <string name="old_app_description">Не запускайце новыя прыкладанні.</string>
     <string name="older">Раней</string>
     <string name="oneMonthDurationPast">1 месяц таму</string>
     <string name="open_permission_deny">У вас няма дазволу на адкрыццё гэтай старонкі.</string>
@@ -1331,6 +1321,7 @@
     <string name="system_error_manufacturer">На вашай прыладзе ўзнікла ўнутраная праблема. Для атрымання дадатковай інфармацыі звярніцеся да вытворцы.</string>
     <string name="system_error_wipe_data">На вашай прыладзе ўзнікла ўнутраная праблема, і яна можа працаваць нестабільна, пакуль вы не зробіце скід да заводскіх налад.</string>
     <string name="taking_remote_bugreport_notification_title">Стварэнне справаздачы пра памылку…</string>
+    <string name="terabyteShort">Тб</string>
     <string name="tethered_notification_message">Дакраніцеся, каб наладзіць.</string>
     <string name="tethered_notification_title">USB-мадэм або кропка доступу Wi-Fi актыўныя</string>
     <string name="textSelectionCABTitle">Вылучэнне тэксту</string>
@@ -1465,7 +1456,6 @@
     <string name="work_mode_off_title">Уключыць працоўны рэжым?</string>
     <string name="work_mode_turn_on">Уключыць</string>
     <string name="work_profile_deleted">Рабочы профіль выдалены</string>
-    <string name="work_profile_deleted_description">Працоўны профіль выдалены з-за адсутнасці праграмы адміністратара</string>
     <string name="work_profile_deleted_description_dpm_wipe">Ваш працоўны профіль больш не даступны на гэтай прыладзе</string>
     <string name="work_profile_deleted_details">Праграма адміністратара для працоўнага профілю адсутнічае або пашкоджана. У выніку гэтага ваш працоўны профіль і звязаныя з ім даныя былі выдалены. Звярніцеся па дапамогу да адміністратара.</string>
     <string name="write_fail_reason_cancelled">Скасавана</string>
@@ -1480,26 +1470,6 @@
     <string name="zen_mode_feature_name">Не турбаваць</string>
     <string name="zen_mode_forever">Пакуль вы не выключыце рэжым \"Не турбаваць\"</string>
     <string name="zen_mode_forever_dnd">Пакуль вы не выключыце рэжым «Не турбаваць»</string>
+    <string name="zen_mode_rule_name_combination">%1$s / %2$s</string>
     <string name="zen_mode_until">Да %1$s</string>
-    <string name="demo_user_inactivity_timeout_countdown">Усе змены будуць страчаны, і дэманстрацыя пачнецца зноў праз %1$s с…</string>
-    <string name="demo_user_inactivity_timeout_left_button">Скасаваць</string>
-    <string name="demo_user_inactivity_timeout_right_button">Выканаць скід</string>
-    <string name="demo_user_inactivity_timeout_title">Скінуць налады прылады?</string>
-    <string name="durationDayHour">%1$d дз. %2$d гадз</string>
-    <string name="durationDayHours">%1$d дз. %2$d гадз</string>
-    <string name="durationDays">%1$d сут</string>
-    <string name="durationHourMinute">%1$d гадз %2$d хв</string>
-    <string name="durationHourMinutes">%1$d гадз %2$d хв</string>
-    <string name="durationHours">%1$d гадз</string>
-    <string name="durationMinute">%1$d хвіліна</string>
-    <string name="durationMinuteSecond">%1$d хв %2$d с</string>
-    <string name="durationMinuteSeconds">%1$d хв %2$d с</string>
-    <string name="durationMinutes">%1$d хв</string>
-    <string name="durationSecond">%1$d секунда</string>
-    <string name="durationSeconds">%1$d с</string>
-    <string name="notification_channel_mobile_data_alert">Абвесткі пра мабільныя даныя</string>
-    <string name="notification_hidden_by_policy_text">Змесціва, схаванае ў адпаведнасці з палітыкай</string>
-    <string name="reset_retail_demo_mode_text">Дакраніцеся, каб скінуць налады прылады</string>
-    <string name="reset_retail_demo_mode_title">Скінуць налады прылады?</string>
-    <string name="terabyteShort">Тб</string>
 </resources>

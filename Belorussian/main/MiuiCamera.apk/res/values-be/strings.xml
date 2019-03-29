@@ -457,6 +457,7 @@
     <string name="portrait_mode_depth_effect_success_hint">Эфект глыбіні</string>
     <string name="portrait_mode_use_hint">"Партрэтны рэжым размывае фон
 і павялічвае выразнасць пярэдняга плана."</string>
+    <string name="portrait_mode_use_hint_with_switch">@string/portrait_mode_use_hint</string>
     <string name="portrait_mode_use_hint_for_bokeh">"Паспрабуйце зрабіць фота ў партрэтным рэжыме.
 Аб'еут здымкі застанецца ў фокусе, а фон будзе размыты."</string>
     <string name="pref_camera_square_mode_title">Квадрат</string>
@@ -473,6 +474,7 @@
     <string name="pref_camera_beautify_entry_low">Нізкі</string>
     <string name="pref_camera_beautify_entry_normal">Сярэдні</string>
     <string name="pref_camera_beautify_entry_high">Высокі</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="camera_mode_options">Рэжымы</string>
     <string name="button_front_camera_title">Зрабіць сэлфі</string>
     <string name="button_normal_video_title">Запіс відэа</string>
@@ -599,7 +601,7 @@
     <string name="close_back_flash_toast">Прылада перагрэлася. Фотаўспышка недаступна.</string>
     <string name="autozoom_hint">"Адсочванне аб'екта, які рухаецца"</string>
     <string name="autozoom_disabled_hint">"Адсочванне аб'екта, які рухаецца, спынена"</string>
-    <string name="autozoom_click_hint">"Націсніце на аб'ект, каб пачаць адсочванне. Заставайцеся на адлегласці не менш за 3 метра для найлепшага эфекту."</string>
+    <string name="autozoom_click_hint">"Краніце аб'екта, каб трымаць яго ў фокусе. Заставайцеся на адлегласці не менш 3 метраў для атрымання найлепшага эфекту."</string>
     <string name="live_sticker_fragment_tab_name">Стыкеры</string>
     <string name="live_speed_fragment_tab_name">Хуткасць</string>
     <string name="live_speed_extreme_slow">Вельмі павольная</string>
@@ -680,4 +682,8 @@
     <string name="super_night_toast">Трымайце тэлефон нерухома падчас здымкі</string>
     <string name="capture_back_pressed_hint">Націсніце яшчэ раз, каб выйсці</string>
     <string name="video_ultra_clear_tip">4K UHD</string>
+    <string name="pref_camera_video_bokeh_on">Размыццё фону відэа</string>
+    <string name="pref_camera_video_bokeh_off">Размыццё фону відэа адключана</string>
+    <string name="macro_mode">Макра</string>
+    <string name="macro_mode_tip">"Адлегласць паміж аб'ектывам і аб'ектам не павінна перавышаць 10 см"</string>
 </resources>

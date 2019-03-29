@@ -108,6 +108,12 @@
         <item quantity="few">праз %d г.</item>
         <item quantity="many">праз %d г.</item>
     </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown">
+        <item quantity="other">Паўтарыце спробу праз %d секунды.</item>
+        <item quantity="one">Паўтарыце спробу праз %d секунду.</item>
+        <item quantity="few">Паўтарыце спробу праз %d секунды.</item>
+        <item quantity="many">Паўтарыце спробу праз %d секунд.</item>
+    </plurals>
     <plurals name="last_num_days">
         <item quantity="other">Апошнія %d дня</item>
         <item quantity="one">Апошні %d дзень</item>

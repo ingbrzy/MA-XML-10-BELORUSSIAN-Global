@@ -6,7 +6,7 @@
         <item>20.01-18.02</item>
     </string-array>
     <string-array name="aries_info">
-        <item>авен</item>
+        <item>aries</item>
         <item>Авен</item>
         <item>21.03-19.04</item>
     </string-array>
@@ -15,7 +15,7 @@
         <item>Бундэсліга</item>
     </string-array>
     <string-array name="cancer_info">
-        <item>рак</item>
+        <item>cancer</item>
         <item>Рак</item>
         <item>22.06-22.07</item>
     </string-array>
@@ -81,8 +81,12 @@
         <item>Гэта і будучая падзея</item>
         <item>Усе падзеі</item>
     </string-array>
+    <string-array name="english_premium_league">
+        <item>4</item>
+        <item>@string/english_premium_league</item>
+    </string-array>
     <string-array name="gemini_info">
-        <item>двайняты</item>
+        <item>gemini</item>
         <item>Двайняты</item>
         <item>21.05-21.06</item>
     </string-array>
@@ -91,12 +95,12 @@
         <item>Чэмпіянат Іспаніі</item>
     </string-array>
     <string-array name="leo_info">
-        <item>леў</item>
+        <item>leo</item>
         <item>Леў</item>
         <item>23.07-22.08</item>
     </string-array>
     <string-array name="libra_info">
-        <item>шалі</item>
+        <item>libra</item>
         <item>Шалі</item>
         <item>23.09-23.10</item>
     </string-array>
@@ -218,12 +222,12 @@
         <item>Не</item>
     </string-array>
     <string-array name="sagittarius_info">
-        <item>стралец</item>
+        <item>sagittarius</item>
         <item>Стралец</item>
         <item>23.11-21.12</item>
     </string-array>
     <string-array name="scorpio_info">
-        <item>скарпіён</item>
+        <item>scorpio</item>
         <item>Скарпіён</item>
         <item>24.10-22.11</item>
     </string-array>
@@ -232,7 +236,7 @@
         <item>Чэмпіянат Італіі</item>
     </string-array>
     <string-array name="taurus_info">
-        <item>цяля</item>
+        <item>taurus</item>
         <item>Цяля</item>
         <item>20.04-20.05</item>
     </string-array>
@@ -332,7 +336,7 @@
         <item>За дзень</item>
     </string-array>
     <string-array name="virgo_info">
-        <item>дзева</item>
+        <item>virgo</item>
         <item>Дзева</item>
         <item>23.08-22.09</item>
     </string-array>

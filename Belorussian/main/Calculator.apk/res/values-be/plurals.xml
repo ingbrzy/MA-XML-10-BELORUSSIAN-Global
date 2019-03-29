@@ -12,4 +12,16 @@
         <item quantity="few">%1$d гады (%2$d мес.)</item>
         <item quantity="many">%1$d гадоў (%2$d мес.)</item>
     </plurals>
+    <plurals name="loan_repayment_detail">
+        <item quantity="other">Detailed repayment (%d years)</item>
+        <item quantity="one">Detailed repayment (%d year)</item>
+        <item quantity="few">Detailed repayment (%d years)</item>
+        <item quantity="many">Detailed repayment (%d years)</item>
+    </plurals>
+    <plurals name="loan_repayment_detail_unit">
+        <item quantity="other">Detailed repayment (%d years), CNY</item>
+        <item quantity="one">Detailed repayment (%d year), CNY</item>
+        <item quantity="few">Detailed repayment (%d years), CNY</item>
+        <item quantity="many">Detailed repayment (%d years), CNY</item>
+    </plurals>
 </resources>

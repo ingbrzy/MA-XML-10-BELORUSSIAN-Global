@@ -79,6 +79,8 @@
     <string name="HIPS_Perm_get_installed_apps_Desc">атрымаць інфармацыю аб праграмах, усталяваных на гэтай прыладзе</string>
     <string name="HIPS_Perm_service_foreground">Прыярытэтныя службы</string>
     <string name="HIPS_Perm_service_foreground_Desc">прыярытэтныя службы</string>
+    <string name="HIPS_Perm_UDevice_ID">Падзяліцеся некаторымі звесткамі пра прыладу з распрацоўшчыкамі гульняў, каб дапамагчы ім палепшыць ваш гульнявой вопыт. Вы згодныя?</string>
+    <string name="HIPS_Perm_UDevice_ID_DESC">падзяліцеся некаторымі звесткамі пра прыладу з распрацоўшчыкамі гульняў, каб дапамагчы ім палепшыць ваш гульнявой вопыт. Вы згодныя?</string>
     <string name="permission_group_title_charges_related">Выдаткі</string>
     <string name="permission_group_title_privacy_related">Прыватнасць</string>
     <string name="permission_group_title_media_related">Мультымедыя</string>

@@ -264,6 +264,12 @@
         <item quantity="few">%1$d відэа ў чаканні сінхранізацыі</item>
         <item quantity="many">%1$d відэа ў чаканні сінхранізацыі</item>
     </plurals>
+    <plurals name="photo_count_format">
+        <item quantity="other">"Усяго %1$d аб'ектаў"</item>
+        <item quantity="one">"Усяго %1$d аб'ект"</item>
+        <item quantity="few">"Усяго %1$d аб'екта"</item>
+        <item quantity="many">"Усяго %1$d аб'ектаў"</item>
+    </plurals>
     <plurals name="picker_all_image_need_download">
         <item quantity="other">Выбраныя фото не на прыладзе. Спампаваць праз мабільны інтэрнэт?</item>
         <item quantity="one">Выбранае фота не на прыладзе. Спампаваць праз мабільны інтэрнэт?</item>
@@ -401,12 +407,6 @@
         <item quantity="one">"%d аб'ект"</item>
         <item quantity="few">"%d аб'екты"</item>
         <item quantity="many">"%d аб'ектаў"</item>
-    </plurals>
-    <plurals name="photo_count_format">
-        <item quantity="other">"Усяго %1$d аб'ектаў"</item>
-        <item quantity="one">"Усяго %1$d аб'ект"</item>
-        <item quantity="few">"Усяго %1$d аб'екта"</item>
-        <item quantity="many">"Усяго %1$d аб'ектаў"</item>
     </plurals>
     <plurals name="video_count_format">
         <item quantity="other">%1$d файлаў</item>

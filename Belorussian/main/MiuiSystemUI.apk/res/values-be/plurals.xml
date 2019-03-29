@@ -216,4 +216,10 @@
         <item quantity="few">Ясна</item>
         <item quantity="many">Ясна</item>
     </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">Падлучана %1$d прылад</item>
+        <item quantity="one">Падлучана %1$d прылада</item>
+        <item quantity="few">Падлучана %1$d прылады</item>
+        <item quantity="many">Падлучана %1$d прылад</item>
+    </plurals>
 </resources>

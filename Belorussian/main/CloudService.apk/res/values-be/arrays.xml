@@ -14,6 +14,106 @@
         <item>Каляндар</item>
         <item>Сховішча</item>
     </string-array>
+    <string-array name="settings_search_contacts">
+        <item>Сінхранізацыя кантактаў з Mi Cloud</item>
+        <item>Уключыць/наладзіць сінхранізацыю</item>
+        <item>Кантакты;Гісторыя выклікаў;Воблака;Сінхранізацыя;Воблачныя сэрвісы;Мі Cloud</item>
+    </string-array>
+    <string-array name="settings_search_sms">
+        <item>Сінхранізацыя паведамленняў з Mi Cloud</item>
+        <item>Уключыць/наладзіць сінхранізацыю</item>
+        <item>Паведамленні;SMS;MMS;Воблака;Сінхранізацыя;Воблачныя сэрвісы;Mi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_gallery">
+        <item>Сінхранізацыя галерэі з Mi Cloud</item>
+        <item>Уключыць/наладзіць сінхранізацыю</item>
+        <item>Галерэя;Фатаграфіі;Воблака;Сінхранізацыя;Воблачныя сэрвісы;Mi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_dial">
+        <item>Сінхранізацыя гісторыі выклікаў з Mi Cloud</item>
+        <item>Уключыць/наладзіць сінхранізацыю</item>
+        <item>Гісторыя выклікаў;Воблака;Сінхранізацыя;Воблачныя сэрвісы;Мі Cloud</item>
+    </string-array>
+    <string-array name="settings_search_recorder">
+        <item>Сінхранізаваць запісы з Mi Cloud</item>
+        <item>Уключыць/наладзіць сінхранізацыю</item>
+        <item>Дыктафон;Воблака;Сінхранізацыя;Воблачныя сэрвісы;Мі Cloud</item>
+    </string-array>
+    <string-array name="settings_search_music">
+        <item>Сінхранізацыя з Mi Cloud</item>
+        <item>Уключыць сінхранізацыю</item>
+        <item>Музыка;Воблака;Сінхранізацыя;Воблачныя сэрвісы;Мі Cloud</item>
+    </string-array>
+    <string-array name="settings_search_notes">
+        <item>Сінхранізацыя нататак з Mi Cloud</item>
+        <item>Уключыць сінхранізацыю</item>
+        <item>Нататкі;Воблака;Сінхранізацыя;Воблачныя сэрвісы;Мі Cloud</item>
+    </string-array>
+    <string-array name="settings_search_wlan">
+        <item>Сінхранізацыя налад Wi-Fi з Mi Cloud</item>
+        <item>Уключыць сінхранізацыю</item>
+        <item>WLAN;wifi;Wi-Fi;Воблака;Сінхранізацыя;Воблачныя сэрвісы;Мі Cloud</item>
+    </string-array>
+    <string-array name="settings_search_calendar">
+        <item>Сінхранізацыя календара з Mi Cloud</item>
+        <item>Уключыць сінхранізацыю</item>
+        <item>Каляндар;Воблака;Сінхранізацыя;Воблачныя сэрвісы;Мі Cloud</item>
+    </string-array>
+    <string-array name="settings_search_browser">
+        <item>Сінхранізацыя Браўзера з Mi Cloud</item>
+        <item>Уключыць сінхранізацыю</item>
+        <item>Браўзер;Воблака;Сінхранізацыя;Воблачныя сэрвісы;Мі Cloud</item>
+    </string-array>
+    <string-array name="settings_search_security">
+        <item>Сінхранізацыя Бяспекі з Mi Cloud</item>
+        <item>Уключыць сінхранізацыю</item>
+        <item>Бяспкека;Воблака;Сінхранізацыя;Воблачныя сэрвісы;Мі Cloud</item>
+    </string-array>
+    <string-array name="settings_search_personal_assistant">
+        <item>Сінхранізацыя Стужкі віджэтаў з Mi Cloud</item>
+        <item>Уключыць сінхранізацыю</item>
+        <item>Стужка віджэтаў;Карткі;Воблака;Сінхранізацыя;Воблачныя сэрвісы;Мі Cloud</item>
+    </string-array>
+    <string-array name="settings_search_sync_manage">
+        <item>Mi Cloud. Усе сэрвісы Mi у адным месцы.</item>
+        <item>Доступ да вашых фатаграфій, кантактаў, паведамленняў і прылад адкуль заўгодна</item>
+        <item>"Недастаткова месца;Падпіска;Сховішча;Месца ў сховішче;Воблака;Сінхранізацыя;Воблачныя сэрвісы; Mi Cloud;Сметніца;Выдаленыя аб'екты;Бяспека"</item>
+    </string-array>
+    <string-array name="settings_search_find_phone">
+        <item>Пошук прылады</item>
+        <item>Сатрыце дадзеныя і заблакуйце прыладу пры яе страце</item>
+        <item>Пошук прылады;Страта;Воблака;Сінхранізацыя;Воблачныя сэрвісы;Mi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_find_pad">
+        <item>Пошук прылады</item>
+        <item>Сатрыце дадзеныя і заблакуйце прыладу пры яе страце</item>
+        <item>Пошук прылады;Страта;Воблака;Сінхранізацыя;Воблачныя сэрвісы;Mi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_recycle_bin">
+        <item>"Выдаленыя аб'екты ў Mi Cloud"</item>
+        <item>Аднавіць кантакты, фатаграфіі, паведамленні і іншае</item>
+        <item>"Смецце;Выдаленыя аб'екты;Сметніца;Аднавіць;Воблачныя сэрвісы;Mi Cloud"</item>
+    </string-array>
+    <string-array name="settings_search_subscribe_vip">
+        <item>Падпіска Mi Cloud</item>
+        <item>Павысьце ўзровень падпіскі, атрымайце больш месца ў сховішче і абараніце свае дадзеныя</item>
+        <item>"Недастаткова месца;Падпіска;Сховішча;Месца ў сховішче;Воблака;Сінхранізацыя;Воблачныя сэрвісы;Mi Cloud;Мега;Ультра;VIP;Стварыць рэзервовую копію;Рэзервовая копія;Аднаўленне;Смецце;Выдаленыя аб'екты;Сметніца"</item>
+    </string-array>
+    <string-array name="settings_search_backup_setting">
+        <item>Зрабіце бэкап працоўнага стола у Mi Cloud</item>
+        <item>Стварыце бэкап знешняга выгляда працоўнага стала, устаноўленых праграм і налад сістэмы</item>
+        <item>Воблака;Стварыць рэзервовую копію;Рэзервовая копія;Воблачныя сэрвісы; Mi Cloud;Працоўны стол;Знешні выгляд;Праграмы;Налады;Частата рэзервовага капіявання;Кіраванне рэзервовымі копіямі;Аднаўленне</item>
+    </string-array>
+    <string-array name="settings_search_backup_manage">
+        <item>Рэзервовыя копіі</item>
+        <item>"Аб'екты з створанымі рэзервовымі копіямі"</item>
+        <item>Воблака;Стварыць рэзервовую копію;Рэзервовая копія;Воблачныя сэрвісы;Mi Cloud;Працоўны стол;Знешні выгляд;Праграмы;Кіраванне рэзервовымі копіямі;Аднаўленне</item>
+    </string-array>
+    <string-array name="settings_search_restore_device">
+        <item>"Аднавіць аб'екты з Mi Cloud"</item>
+        <item>"Загрузіць рэзервовыя копіі аб'ектаў на прыладу"</item>
+        <item>Воблака;Рэзервовая копія;Стварыць рэзервовую копію;Аднаўленне;Воблачныя сервісы;Mi Cloud</item>
+    </string-array>
     <string-array name="micloud_entrance_titleArray">
         <item>Сінхранізацыя дадзеных</item>
         <item>Рэзерваванне працоўнага стала</item>

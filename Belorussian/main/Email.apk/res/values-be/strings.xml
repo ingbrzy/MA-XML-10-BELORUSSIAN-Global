@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="status_bar_notification_info_overflow">больш за 999</string>
     <string name="SMTP_independent_verification_text">Незалежная праверка SMTP</string>
     <string name="SMTP_password_text">Пароль</string>
     <string name="SMTP_username_text">Імя карыстальніка</string>
@@ -225,6 +226,7 @@
     <string name="battery_saver">Энергазберажэнне</string>
     <string name="battery_saver_keywords">энергазберажэнне;батарэя пошты</string>
     <string name="bcc">Утоеная копія</string>
+    <string name="bcc_heading">"Утоеная копія: "</string>
     <string name="bill_center_setting">Налады рахункаў</string>
     <string name="bill_center_setting_head">Імпарт інфармацыі з гэтых акаўнтаў</string>
     <string name="bill_cycle_text">Плацёжны цыкл</string>
@@ -245,6 +247,7 @@
     <string name="cancel_pop3_attchemt_downloading">Не ўдаецца адмяніць бягучыя загрузкі для прымацаванняў у акаўнтах POP3</string>
     <string name="cant_move_or_change_labels">"Немагчыма перамясціць аб'екты з некалькіх акаўнтаў."</string>
     <string name="cc">Копія</string>
+    <string name="cc_attribution">Копія: %1$s&lt;br></string>
     <string name="cc_bcc">Копія/Утоеная копія</string>
     <string name="cc_heading">"Копія: "</string>
     <string name="change_folders_selection_dialog_title">Змяніць папкі</string>
@@ -262,6 +265,7 @@
     <string name="click_download_all_content">[ Націсніце, каб спампаваць ]</string>
     <string name="click_to_reload">Даткніцеся экрана, каб абнавіць</string>
     <string name="collapse_recipient_details">Схаваць звесткі аб атрымальніку</string>
+    <string name="colon">:</string>
     <string name="compose">Стварыць</string>
     <string name="compose_attachment_number_limit">Немагчыма дадаць больш за 10 прымацаванняў</string>
     <string name="compose_paste_address_oob">Занадта шмат сімвалаў</string>
@@ -476,6 +480,7 @@
     <string name="gmail_web_login_go">OK</string>
     <string name="gmail_web_login_required_message">Увайсці ў Gmail</string>
     <string name="header_category_account">Акаўнты</string>
+    <string name="header_category_general">@string/header_label_general_preferences</string>
     <string name="header_category_other">Водгук</string>
     <string name="header_label_general_preferences">Агульныя</string>
     <string name="help_and_info">Дапамога</string>
@@ -497,6 +502,7 @@
     <string name="invalid_recipient">Адрас %s несапраўдны.</string>
     <string name="invalid_recipient_title">Памылка атрымальніка</string>
     <string name="kilobytes">%s КБ</string>
+    <string name="label_notification_ticker" formatted="false">%s: %s</string>
     <string name="load_from_remote">Пошук паштовай скрыні на серверы</string>
     <string name="load_more">Загрузіць больш</string>
     <string name="loading_conversation">Загрузка…</string>
@@ -954,6 +960,7 @@
     <string name="silent_ringtone">Без гуку</string>
     <string name="single_new_message_notification_big_text">"%1$s
 %2$s"</string>
+    <string name="single_new_message_notification_title">%1$s: %2$s</string>
     <string name="smtp_password_error">Няправільны пароль для сервера выходнай пошты</string>
     <string name="sort_attachment">Сартаваць па</string>
     <string name="storage">Сховішча</string>

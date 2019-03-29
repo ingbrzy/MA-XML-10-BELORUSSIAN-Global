@@ -30,6 +30,7 @@
     <string name="sdcard_not_present">SD-карта не знойдзена.</string>
     <string name="only_primary_user_allowed">Сертыфiкаты можа ўсталёўваць толькi ўладальнiк гэтай прылады.</string>
     <string name="credential_usage_label">Выкарыстанне ўліковых дадзеных:</string>
+    <string name="certificate_capabilities_warning">Заўвага. Выдавец гэтага сертыфікату можа праглядаць увесь трафік, які прылада атрымлівае і адпраўляе.</string>
     <string name="wifi_title">Профіль Wi-Fi</string>
     <string name="wifi_detail_title">Падрабязнасці для %s</string>
     <string name="wifi_detail_label">Падрабязнасці</string>

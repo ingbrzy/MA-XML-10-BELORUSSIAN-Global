@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="status_bar_notification_info_overflow">больш за 999</string>
     <string name="action_add_to_workspace">Дадаць да працоўнай прасторы</string>
     <string name="activity_not_found">Праграма не знойдзеная</string>
     <string name="add_screen">Дадаць экран</string>
@@ -114,6 +115,7 @@
     <string name="edit_mode_group_error_full">Недастаткова месца</string>
     <string name="edit_mode_group_error_in_folder">Закрыйце папку перад групаваннем значкоў</string>
     <string name="edit_mode_group_error_one_folder">Немагчыма дубляваць папку з выбранымі значкамі</string>
+    <string name="edit_mode_top_menu_finish">Гатова</string>
     <string name="edit_mode_uninstall">Выдаліць</string>
     <string name="editing_add_widget_tips">Рэдагаваць віджэты</string>
     <string name="editing_mode_enter_tip_text">Выкарыстоўвайце \"шчыпок\" для рэдагавання галоўнага экрана</string>
@@ -215,6 +217,7 @@
     <string name="menu_default_screen_preview">Усталяваць пачатковы экран</string>
     <string name="menu_edit">Рэжым рэдагавання</string>
     <string name="menu_exit_scene">Выхад з Mi Space</string>
+    <string name="menu_finish">Гатова</string>
     <string name="menu_item_add_item">Дадаць на галоўны экран</string>
     <string name="menu_launcher_setting">Налады рабочага стала</string>
     <string name="menu_lock">Заблакаваць стан галоўнага экрана</string>
@@ -352,15 +355,15 @@
     <string name="widget_gadget_player">Музыка</string>
     <string name="widget_global_search">Пошук</string>
     <string name="widget_quick_function">Хуткі доступ</string>
+    <string name="widgets_preview_title">Дадаць віджэт</string>
     <string name="home_gesture_content_center">Кантэнт-цэнтр</string>
     <string name="home_gesture_global_search">Пошук</string>
     <string name="home_gesture_no_action">Адсутнічае</string>
     <string name="home_gesture_notification_bar">Апавяшчэнні</string>
     <string name="home_pull_down_action">Правядзіце ўніз на галоўным экране</string>
     <string name="home_slide_up_action">Правядзіце ўверх на галоўным экране</string>
-    <string name="launcher_pull_down_title">Правядзіце ўверх на галоўным экране</string>
-    <string name="launcher_slide_up_title">Правядзіце ўніз на галоўным экране</string>
-    <string name="menu_finish">Гатова</string>
-    <string name="minus_one_screen">minus one screen</string>
-    <string name="widgets_preview_title">Дадаць віджэт</string>
+    <string name="launcher_pull_down_title">Правядзіце ўніз на галоўным экране</string>
+    <string name="launcher_slide_up_title">Правядзіце ўверх на галоўным экране</string>
+    <string name="launcher_sliding_up_gesture">Пацягнуць уверх на галоўным экране, каб адкрыць пошук</string>
+    <string name="minus_one_screen">Стужка віджэтаў</string>
 </resources>

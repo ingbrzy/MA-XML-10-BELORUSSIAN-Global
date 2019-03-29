@@ -98,7 +98,7 @@
     <string name="got_it">Зразумела</string>
     <string name="gps">Навігацыя</string>
     <string name="import_contact">Імпарт кантакту</string>
-    <string name="impunity_declaration_content">"Сканару патрабуецца доступ да камеры для апрацоўкі выяў, створаных пры выкарыстанні праграмы. Не выкарыстоўвайце Сканер для здымкі аб'ектаў, якія змяшчаюць вашыя асабістыя дадзеныя. Націснуўшы «Згадзіцца», вы прымаеце нашу&lt;font color=\"#ff32b4ff\">&lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\" style=\"color:#ff32b4ff;\">Палітыку канфідэнцыяльнасці&lt;/a>&lt;/font> і дазваляеце Сканару падлучацца да інтэрнэту."</string>
+    <string name="impunity_declaration_content">"Сканару патрабуецца доступ да камеры для апрацоўкі выяў, створаных пры выкарыстанні праграмы. Не выкарыстоўвайце Сканер для здымкі аб'ектаў, якія змяшчаюць вашыя асабістыя дадзеныя. Націснуўшы «Згадзіцца», вы прымаеце нашу &lt;font color=\"#ff32b4ff\">&lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\" style=\"color:#ff32b4ff;\">Палітыку канфідэнцыяльнасці&lt;/a>&lt;/font> і дазваляеце Сканару падлучацца да інтэрнэту."</string>
     <string name="impunity_declaration_negative_text">Выхад</string>
     <string name="impunity_declaration_title">Палітыка канфідэнцыяльнасці</string>
     <string name="label_choose_picture">Выберыце малюнак</string>

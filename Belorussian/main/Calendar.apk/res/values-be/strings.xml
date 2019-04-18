@@ -134,7 +134,6 @@
     <string name="date_interval_text_to">Да %1$s</string>
     <string name="date_jump_hint">Адразу перайсці да пэўнай даты</string>
     <string name="date_jump_title">Перайсці да даты</string>
-    <string name="date_time_fmt" formatted="false">%s, %s</string>
     <string name="date_today">" (сёння)"</string>
     <string name="day_view_new_event_hint">Новая падзея</string>
     <string name="default_reminder_mode">Апавяшчэнні</string>

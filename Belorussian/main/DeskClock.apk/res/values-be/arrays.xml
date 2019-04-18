@@ -340,6 +340,11 @@
         <item>Парамаріба</item>
         <item>Кіта</item>
     </string-array>
+    <string-array name="clock_bg_setting_entries">
+        <item>Белы</item>
+        <item>Чорны</item>
+        <item>Аўта</item>
+    </string-array>
     <string-array name="countries_names_miui">
         <item>Кот-д’Івуар</item>
         <item>Гана</item>

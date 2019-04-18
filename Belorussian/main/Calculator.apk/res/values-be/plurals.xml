@@ -6,22 +6,22 @@
         <item quantity="few">"%d аб'екта"</item>
         <item quantity="many">"%d аб'ектаў"</item>
     </plurals>
+    <plurals name="loan_repayment_detail">
+        <item quantity="other">Звесткі аб пагашэнні (%d гадоў)</item>
+        <item quantity="one">Звесткі аб пагашэнні (%d год)</item>
+        <item quantity="few">Звесткі аб пагашэнні (%d года)</item>
+        <item quantity="many">Звесткі аб пагашэнні (%d гадоў)</item>
+    </plurals>
+    <plurals name="loan_repayment_detail_unit">
+        <item quantity="other">Звесткі аб пагашэнні (%d гадоў), CNY</item>
+        <item quantity="one">Звесткі аб пагашэнні (%d год), CNY</item>
+        <item quantity="few">Звесткі аб пагашэнні (%d года), CNY</item>
+        <item quantity="many">Звесткі аб пагашэнні (%d гадоў), CNY</item>
+    </plurals>
     <plurals name="mortgage_summary_years">
         <item quantity="other">%1$d года (%2$d мес.)</item>
         <item quantity="one">%1$d год (%2$d мес.)</item>
         <item quantity="few">%1$d гады (%2$d мес.)</item>
         <item quantity="many">%1$d гадоў (%2$d мес.)</item>
-    </plurals>
-    <plurals name="loan_repayment_detail">
-        <item quantity="other">Detailed repayment (%d years)</item>
-        <item quantity="one">Detailed repayment (%d year)</item>
-        <item quantity="few">Detailed repayment (%d years)</item>
-        <item quantity="many">Detailed repayment (%d years)</item>
-    </plurals>
-    <plurals name="loan_repayment_detail_unit">
-        <item quantity="other">Detailed repayment (%d years), CNY</item>
-        <item quantity="one">Detailed repayment (%d year), CNY</item>
-        <item quantity="few">Detailed repayment (%d years), CNY</item>
-        <item quantity="many">Detailed repayment (%d years), CNY</item>
     </plurals>
 </resources>

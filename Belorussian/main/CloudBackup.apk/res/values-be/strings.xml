@@ -50,6 +50,8 @@
     <string name="self_device_second_space">Другая прастора гэтага тэлефона</string>
     <string name="other_device_main_space">Першая прастора</string>
     <string name="other_device_second_space">Другая прастора</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="process_whole_recovery">Аднаўленне \"%s\"</string>
     <string name="size_unknown">Невядомы памер</string>
     <string name="recovering">Аднаўленне \"%s\"</string>
@@ -72,7 +74,7 @@
     <string name="desktop_waiting">Чаканне</string>
     <string name="desktop_downloading">Спампаванне</string>
     <string name="desktop_installing">Усталёўка</string>
-    <string name="desktop_wait_wifi">Чаканне</string>
+    <string name="desktop_wait_network">Чаканне…</string>
     <string name="desktop_failed">Памылка</string>
     <string name="recover_from_micloud">Аднавіць з Mi Cloud</string>
     <string name="click_try_to_restore_again">Націсніце, каб паспрабаваць яшчэ раз</string>
@@ -114,7 +116,7 @@
     <string name="confirm_cancel_restore_positive">Працягнуць</string>
     <string name="confirm_cancel_restore_negative">Скасаваць</string>
     <string name="confirm_restore_title">Аднавіць</string>
-    <string name="confirm_restore_summary">Пры падключэнні да Wi-Fi працоўны стол перазагрузіцца і праграмы будуць дададзеныя аўтаматычна</string>
+    <string name="confirm_restore_summary">Ваш працоўны стол будзе адноўлены. Зарэзерваваныя праграмы будуць загружаныя аўтаматычна.</string>
     <string name="confirm_restore">Аднавіць</string>
     <string name="cloud_backup_have_data">Знойдзена рэзервовая копія ў Mi Cloud</string>
     <string name="cloud_backup_select_recover">Выберыце рэзервовую копію з Mi Cloud</string>
@@ -134,7 +136,9 @@
     <string name="provision_error_connect_msg">Праверце сетку і паспрабуйце яшчэ раз. Рэзервовая копія недаступная, калі ваша прылада адлучаная ад сеткі.</string>
     <string name="provision_error_connect_title">Немагчыма падлучыцца</string>
     <string name="loading_user_backup">Загрузка рэзервовых копій…</string>
+    <string name="loading_progress_num">(%s%%)</string>
     <string name="error_num_placeholder">--</string>
+    <string name="doing_calc_backup_data_size">Падлік памеру…</string>
     <string name="authentication_failed">Не атрымалася праверыць акаўнт.</string>
     <string name="no_account">Не выкананы ўваход у Mi Акаўнт.</string>
     <string name="no_backup">Няма рэзервовых копій у Mi Cloud.</string>
@@ -181,10 +185,34 @@
     <string name="msg_alert_cancel_restore">Ідзе аднаўленне. Спыніць яго?</string>
     <string name="btn_restore_cancel">Скасаваць</string>
     <string name="btn_restore_resume">Працягнуць</string>
+    <string name="btn_restore_wait">Чаканне Wi-Fi</string>
+    <string name="btn_restore_continue">Усё роўна аднавіць</string>
+    <string name="msg_restore_with_metered_network_pattern">"Будзе загружана файлаў: &lt;font color='red'>&lt;b>%s&lt;/b>&lt;/font>"</string>
+    <string name="msg_restore_with_metered_network_hint">"Пры пераходзе да аднаўлення аб'ектаў для іх загрузкі будзе выкарыстоўвацца мабільны інтэрнэт."</string>
+    <string name="msg_restore_start_with_metered_network">"Ваш працоўны стол будзе адноўлены. Зарэзерваваныя праграмы будуць загружаныя аўтаматычна. &lt;br />&lt;b>&lt;font color='red'>Будзе загружана файлаў: %s&lt;/font>&lt;/b>"</string>
+    <string name="title_restore_with_current_network">Для загрузкі файлаў выкарыстоўваецца бягучае падлучэнне</string>
     <string name="title_alert_restore_error">Не атрымалася аднавіць</string>
     <string name="msg_alert_restore_error">"Не атрымалася аднавіць аб'екты з Mi Cloud. Паспрабуйце яшчэ раз."</string>
     <string name="btn_restore_retry">Паспрабаваць зноў</string>
     <string name="btn_restore_abort">Скасаваць</string>
     <string name="backup_stopped_title">Рэзерваванне прыпынена</string>
     <string name="backup_stopped_msg">Бягуча рэзервовая копія перазапіша папярэднюю. Націсніце для прагляду.</string>
+    <string name="restore_network_unconnect">%s (чаканне падлучэння)</string>
+    <string name="restore_network_pause">%s (Націсніце для працягу)</string>
+    <string name="restore_detail_title">"Абярыце аб'екты для аднаўлення"</string>
+    <string name="restore_detail_category_settings">Налады</string>
+    <string name="restore_detail_category_apps">Працоўны стол і праграмы</string>
+    <string name="restore_detail_more">Яшчэ</string>
+    <string name="restore_app_order_title">"Прыярытэт аднаўлення аб'ектаў"</string>
+    <string name="restore_app_order_search_hint">"Пошук аб'ектаў і ўстаноўка прыярытэту"</string>
+    <string name="restore_app_order_search_prior">Важныя праграмы</string>
+    <string name="restore_app_order_search_normal">Звычайныя праграмы</string>
+    <string name="restore_app_order_search_installed">Праграмы на прыладзе</string>
+    <string name="restore_app_order_retry">Паўтарыць спробу</string>
+    <string name="restore_app_order_retry_desc">"Не атрымалася падлучыцца да сеткі.
+Праверце свае налады і паспрабуйце ізноў."</string>
+    <string name="restore_app_order_loading">Секунду…</string>
+    <string name="restore_app_order_finish">Гатова</string>
+    <string name="provision_restore_data">Restoring items</string>
+    <string name="provision_background_restore_more_data">Restore more items in the background</string>
 </resources>

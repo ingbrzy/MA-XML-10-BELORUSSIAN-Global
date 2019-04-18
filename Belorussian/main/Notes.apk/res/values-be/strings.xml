@@ -86,8 +86,6 @@
     <string name="force_touch_menu_add">Дадаць нататку</string>
     <string name="format_move_note_out_folder">Нататка перамешчана</string>
     <string name="format_move_note_to_folder">Перамешчана ў %1$s</string>
-    <string name="format_move_notes_out_folder">Перамешчана %1$s</string>
-    <string name="format_move_notes_to_folder">%1$s перамешчана ў %2$s</string>
     <string name="hidden_notes_fragment_title">Схаваныя нататкі</string>
     <string name="hide_arrow_description">Схаваць</string>
     <string name="hint_cannot_view_hidden_note_content">Немагчыма праглядзець начыненне схаваных нататак</string>
@@ -129,6 +127,7 @@
     <string name="note_sort_way">Выберыце, як вы хочыце сартыраваць нататкі</string>
     <string name="notealert_enter">Адкрыць нататку</string>
     <string name="notealert_ok">Зачыніць</string>
+    <string name="notelist_string_info">…</string>
     <string name="notify_alarm_title">Нататкавы напамін</string>
     <string name="permdesc_accessNote">Злаўмысныя праграмы могуць выкарыстоўваць гэты дазвол для атрымання вашых асабістых дадзеных.</string>
     <string name="permission_intro_contact">Маркіроўка нататак, зробленых падчас выклікаў</string>
@@ -207,11 +206,9 @@
     <string name="toast_cancel_to_insert_image">Не атрымалася дадаць выяву.</string>
     <string name="toast_message_add_image_fail">Немагчыма дадаць выяву</string>
     <string name="toast_notes_delete_success">Нататка выдалена</string>
-    <string name="toast_notes_hidden_count">Схавана: %1$s</string>
     <string name="toast_notes_hidden_edit">Нататка паспяхова схаваная. Пацягніце ўніз для прагляду схаваных нататак.</string>
     <string name="toast_notes_hidden_home">Нататка паспяхова схаваная. Пацягніце ўніз для прагляду схаваных нататак.</string>
     <string name="toast_notes_unhidden">Утойванне нататкі скасавана</string>
-    <string name="toast_notes_unhidden_count">Утойванне скасавана: %1$s</string>
     <string name="toast_reach_text_limit_attachment">Немагчыма прымацаваць файл. Няма вольнага месца ў нататцы</string>
     <string name="toast_reach_text_limit_checkbox">Немагчыма дадаць сцяжок, таму што нататка занадта вялікая</string>
     <string name="toast_reach_text_limit_truncate">Нататка занадта доўгая. Тэкст у канцы быў абрэзаны.</string>

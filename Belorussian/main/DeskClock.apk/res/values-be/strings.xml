@@ -28,6 +28,7 @@
     <string name="abc_shareactionprovider_share_with_application">Абагуліць праз праграму %s</string>
     <string name="abc_toolbar_collapse_description">Згарнуць</string>
     <string name="search_menu_title">Пошук</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="add_alarm">Дадаць будзільнік</string>
     <string name="add_clock">Дадаць гадзіннік</string>
     <string name="add_timezone_title">Дадаць часавы пояс</string>
@@ -63,6 +64,9 @@
     <string name="channel_name_timer">Таймер</string>
     <string name="check_theme_app_install">Пераканайцеся, што прагарама «Тэмы» ўсталявана на вашай прыладзе.</string>
     <string name="check_voice_assist_app_version">Абнавіце Mi AI да апошняй версіі.</string>
+    <string name="clock_bg_button_setting_summary_common">Вылучыце колер фону для праграмы «Гадзіннік»</string>
+    <string name="clock_bg_button_setting_summary_follow_sys">Чорны будзе выкарыстоўвацца ў якасці колеру фону пры кожным пераходзе ў цёмны рэжым</string>
+    <string name="clock_bg_button_setting_title">Колер фону</string>
     <string name="close_alarm">Адключыць</string>
     <string name="common_settings">Галерэя</string>
     <string name="confirm_abort">Адмяніць</string>
@@ -83,6 +87,11 @@
     <string name="dialog_message_for_contact_permission">Каб будзільнікі для дзён нараджэння сталі даступныя, Гадзіннік павінен атрымаць доступ да вашых кантактаў. Згодны?</string>
     <string name="dialog_message_negative">Не згадзіцца</string>
     <string name="dialog_message_not_remind">Больш не паказваць</string>
+    <string name="dialog_privacy_content">Для атрымання дадзеных аб дзяржаўных святах і прадастаўлення персаналізаваных паслуг Гадзінніку патрабуецца падлучэнне да інтэрнэту. Вы павінны прачытаць і прыняць нашы %1$s і %2$s. Вы згодны?</string>
+    <string name="dialog_privacy_content_global">Для прадастаўлення персаналізаваных паслуг Гадзінніку патрабуецца падлучэнне да інтэрнэту. Вы павінны прачытаць і прыняць нашы %1$s і %2$s перад выкарыстаннем Гадзінніка. Вы згодны?</string>
+    <string name="dialog_privacy_content_news">Для прадастаўлення персаналізаваных паслуг і ўключэння ранішніх навін у вашы будзільнікі Гадзінніку патрабуецца падлучэнне да інтэрнэту. Вы павінны прачытаць і прыняць нашы %1$s і %2$s перад выкарыстаннем Гадзінніка. Вы згодны?</string>
+    <string name="dialog_privacy_content_timer">Для загрузкі аўдыёфайлаў таймераў з гукамі прыроды і прадастаўлення персаналізаваных паслуг Гадзінніку патрабуецца падлучэнне да інтэрнэту. Вы павінны прачытаць і прыняць нашы %1$s і %2$s перад выкарыстаннем Гадзінніка. Вы згодны?</string>
+    <string name="dialog_privacy_content_timer_data">Для загрузкі аўдыёфайлаў таймераў з гукамі прыроды (≈20 МБ) і прадастаўлення персаналізаваных паслуг Гадзінніку патрабуецца падлучэнне да інтэрнэту. Вы павінны прачытаць і прыняць нашы %1$s і %2$s перад выкарыстаннем Гадзінніка. Зараз выкарыстоўваецца мабільны інтэрнэт. Вы згодны?</string>
     <string name="done">Здзейснена</string>
     <string name="dynamic_alarm_speech">Разумны будзільнік</string>
     <string name="edit_alarm">Рэдагаваць будзільнiк</string>
@@ -93,6 +102,10 @@
     <string name="force_touch_enter_stopwatch">Секундамер</string>
     <string name="force_touch_enter_timer">Таймер</string>
     <string name="go_back">Назад</string>
+    <string name="holiday_update">Даступна абнаўленне святаў</string>
+    <string name="holiday_update_fail">Не атрымалася абнавіць</string>
+    <string name="holiday_update_loading">Абнаўленне…</string>
+    <string name="holiday_update_success">"Усе аб'екты абноўленыя"</string>
     <string name="hour_unit">Гд +</string>
     <string name="install_weather_app_error">Не атрымалася запусціць праграму</string>
     <string name="install_weather_app_loading">Хвілінку…</string>
@@ -118,6 +131,7 @@
     <string name="life_post_setting">Ранішняя зводка</string>
     <string name="life_post_setting_FBE_remind">"Праз абмежаванні сістэмы інфармацыя пра надвор'е ў ранішняй зводцы пасля перазапуску можа паказвацца няправільна."</string>
     <string name="life_post_setting_close_title">Не атрымліваць ранішнюю зводку</string>
+    <string name="life_post_setting_open_desc">"Адключыць будзільнікі, якія паўтараюцца, з 4:00 да 10:00 для праслухоўвання зводкі надвор'я"</string>
     <string name="life_post_setting_open_subtitle">"Атрымліваць зводку надвор'я пры адключэнні будзільніка паміж 04:00 і 09:30"</string>
     <string name="life_post_setting_open_title">Атрымліваць ранішнюю зводку</string>
     <string name="life_post_setting_wake_up_list_title">Гісторыя абуджэнняў</string>
@@ -139,13 +153,15 @@
     <string name="menu_item_sort_by_gmt_offset">Сартаваць па часе</string>
     <string name="menu_item_sort_by_name">Сартаваць па імені</string>
     <string name="module_download_cancel">Не, дзякуй</string>
-    <string name="module_download_data_msg">Гадзіннік павінен падлучыцца да інтэрнэта, каб спампаваць аўдыяфайлы гукаў прыроды і таймераў з навакольнымі гукамі MIUI 10. Для загрузкі спатрэбіцца 20 МБ трафіку. Дазволіць?</string>
-    <string name="module_download_data_msg_golbal">Гадзіннік павінен спампаваць аўдыяфайлы гукаў прыроды і таймераў з навакольнымі гукамі MIUI 10. Для загрузкі спатрэбіцца 20 МБ трафіку. Дазволіць?</string>
-    <string name="module_download_data_msg_replace">Даступна абнаўленне гуку для разумных будзільнікаў (≈20 МБ). Падлучыцца да сеткі і загрузіць праз мабільны інтэрнэт?</string>
+    <string name="module_download_data_msg">"Гадзінніку патрабуецца загрузіць аўдыёфайлы для разумных будзільнікаў MIUI. Разумныя будзільнікі ўтрымліваюць функцыі, якія дазваляюць уключаць у сігналы інфармацыю пра надвор'е. Для загрузкі спатрэбіцца ≈20 МБ мабільнага трафіку. Загрузіць іх?"</string>
+    <string name="module_download_data_msg_golbal">Гадзінніку патрабуецца загрузіць аўдыёфайлы для разумных будзільнікаў MIUI. Для загрузкі спатрэбіцца ≈20 МБ мабільнага трафіку. Загрузіць іх зараз?</string>
+    <string name="module_download_data_msg_replace">Даступна абнаўленне гукаў для разумных будзільнікаў MIUI. Для загрузкі спатрэбіцца ≈20 МБ мабільнага трафіку. Загрузіць яго зараз?</string>
+    <string name="module_download_data_msg_timer">Гадзінніку патрабуецца загрузіць аўдыёфайлы таймераў з гукамі прыроды. Для загрузкі спатрэбіцца ≈20 МБ мабільнага трафіку. Загрузіць іх зараз?</string>
     <string name="module_download_fail">Не атрымалася спампаваць дадатковае аўдыя</string>
-    <string name="module_download_msg">Гадзіннік павінен падлучыцца да інтэрнэта, каб спампаваць аўдыяфайлы гукаў прыроды і таймераў з навакольнымі гукамі MIUI 10. Дазволіць?</string>
-    <string name="module_download_msg_golbal">Гадзіннік павінен спампаваць аўдыяфайлы гукаў прыроды і таймераў з навакольнымі гукамі MIUI 10. Дазволіць?</string>
-    <string name="module_download_msg_replace">Даступна абнаўленне гуку для разумных будзільнікаў. Падлучыцца да сеткі і загрузіць зараз?</string>
+    <string name="module_download_msg">"Гадзінніку патрабуецца загрузіць аўдыёфайлы для разумных будзільнікаў MIUI. Разумныя будзільнікі ўтрымліваюць функцыі, якія дазваляюць уключаць у сігналы інфармацыю пра надвор'е. Загрузіць іх зараз?"</string>
+    <string name="module_download_msg_golbal">Гадзінніку патрабуецца загрузіць аўдыёфайлы для разумных будзільнікаў MIUI. Загрузіць іх зараз?</string>
+    <string name="module_download_msg_replace">Даступна абнаўленне гукаў для разумных будзільнікаў MIUI. Загрузіць яго зараз?</string>
+    <string name="module_download_msg_timer">Гадзінніку патрабуецца загрузіць аўдыёфайлы таймераў з гукамі прыроды. Загрузіць іх зарах?</string>
     <string name="module_download_no_network">Не атрымалася злучыцца з сеткай. Праверце налады сеткі і паспрабуйце зноў.</string>
     <string name="module_download_ok">Зняць забарону</string>
     <string name="module_download_success">Спампоўка дадатковага аўдыя завершана</string>
@@ -160,6 +176,7 @@
     <string name="other_category_title">Іншыя дазволы</string>
     <string name="pause">Прыпыніць</string>
     <string name="percentage_sign">%</string>
+    <string name="personal_recommend">Персанальныя рэкамендацыі па кантэнце</string>
     <string name="privacy_policy">Палітыка канфідэнцыяльнасці</string>
     <string name="remind_ringtone">Рынгтон</string>
     <string name="repeat_count">Разы</string>
@@ -184,6 +201,7 @@
     <string name="shutdown_alarm_enable_summary">Будзільнік будзе званіць, калі час званка не менш чым на 5 хвілін пазней моманту выключэння вашай прылады</string>
     <string name="shutdown_alarm_title">Выключыць</string>
     <string name="silent_alarm_summary">Без гука</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">Адключыць адзін раз %s</string>
     <string name="slider_text">Правядзіце пальцам уверх, каб выключыць</string>
     <string name="snooze_confirm_cancel">Адключыць будзільнік</string>
@@ -202,6 +220,7 @@
     <string name="start_up">Пачаць</string>
     <string name="stopwatch_lap_empty_text">Няма кругоў</string>
     <string name="stopwatch_title">Секундамер</string>
+    <string name="symbol_colon">:</string>
     <string name="system_time_setting">Галерэя</string>
     <string name="system_time_settings_category_title">Час</string>
     <string name="temperature_unit">℃</string>
@@ -255,6 +274,7 @@
     <string name="turn_off_this_repeat_alarm">Адключыць гэты будзільнік, што паўтараецца</string>
     <string name="upcoming_alarm">Будзільнік у %s </string>
     <string name="upcoming_alarm_hint">Можна адключыць яго загадзя</string>
+    <string name="user_agreement">Карыстальніцкае пагадненне</string>
     <string name="vibrate_pref_summary">Вібраваць, калі гучыць будзільнік</string>
     <string name="vibrate_when_ringing">Вібраваць, калі гучыць выклік</string>
     <string name="volume_button_setting_summary">Вызначыць функцыю клавіш гучнасці падчас званка будзільніка</string>

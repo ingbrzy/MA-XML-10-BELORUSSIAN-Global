@@ -102,4 +102,10 @@
         <item quantity="few">%s гадз. таму</item>
         <item quantity="many">%s гадз. таму</item>
     </plurals>
+    <plurals name="provision_sync_items_status_title">
+        <item quantity="other">Будуць сінхранізаваныя %s сэрвіса</item>
+        <item quantity="one">Будзе сінхранізаваны %s сэрвіс</item>
+        <item quantity="few">Будуць сінхранізаваныя %s сэрвіса</item>
+        <item quantity="many">Будуць сінхранізаваныя %s сэрвіса</item>
+    </plurals>
 </resources>

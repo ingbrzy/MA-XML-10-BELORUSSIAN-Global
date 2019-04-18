@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="status_bar_notification_info_overflow">больш за 999</string>
     <string name="action_add_to_workspace">Дадаць да працоўнай прасторы</string>
     <string name="activity_not_found">Праграма не знойдзеная</string>
     <string name="add_screen">Дадаць экран</string>
@@ -195,6 +196,7 @@
     <string name="is_system_wallpaper_message">Немагчыма выдаліць сістэмны файл</string>
     <string name="launcher_auto_fill_empty_title">Запаўняць пустыя ячэйкі</string>
     <string name="launcher_not_exist">Адбылася памылка. Вярніцеся на працоўны стол і паўтарыце спробу.</string>
+    <string name="launcher_sliding_up_gesture">Пацягнуць уверх на галоўным экране, каб адкрыць пошук</string>
     <string name="launcher_title">Працоўны стол</string>
     <string name="like">Дадаць у абранае</string>
     <string name="liked">Дададзена ў абранае</string>
@@ -355,6 +357,9 @@
     <string name="widget_global_search">Пошук</string>
     <string name="widget_quick_function">Хуткі доступ</string>
     <string name="widgets_preview_title">Дадаць віджэт</string>
+    <string name="edit_mode_dual_app">Стварыць клон праграмы</string>
+    <string name="edit_mode_group_error_cant_delete_system_apps">Немагчыма выдаліць сістэмныя праграмы</string>
+    <string name="edit_mode_group_error_nothing_be_selected">Спачатку выберыце праграму</string>
     <string name="home_gesture_content_center">Кантэнт-цэнтр</string>
     <string name="home_gesture_global_search">Пошук</string>
     <string name="home_gesture_no_action">Адсутнічае</string>
@@ -363,6 +368,5 @@
     <string name="home_slide_up_action">Правядзіце ўверх на галоўным экране</string>
     <string name="launcher_pull_down_title">Правядзіце ўніз на галоўным экране</string>
     <string name="launcher_slide_up_title">Правядзіце ўверх на галоўным экране</string>
-    <string name="launcher_sliding_up_gesture">Пацягнуць уверх на галоўным экране, каб адкрыць пошук</string>
     <string name="minus_one_screen">Стужка віджэтаў</string>
 </resources>

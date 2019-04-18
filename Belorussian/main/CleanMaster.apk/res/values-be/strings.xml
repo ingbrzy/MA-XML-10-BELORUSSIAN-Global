@@ -92,6 +92,7 @@
     <string name="hints_apk_header_left">Пакеты</string>
     <string name="hints_residual_header_left">Рэшткі файлаў</string>
     <string name="hints_memory_header_left">Памяць</string>
+    <string name="hints_header_left">%d</string>
     <string name="hints_large_file_header_left">Вялікія файлы: %d</string>
     <string name="hints_installed_apps_header_left">Усталяваныя праграмы: %d</string>
     <string name="toast_resolve_apk_error">Рашыць праблему файла apk</string>
@@ -300,6 +301,7 @@
     <string name="downloading">Спампоўка</string>
     <string name="installing">Усталёўка</string>
     <string name="start_install">Усталяваць</string>
+    <string name="empty">" "</string>
     <string name="open_browser">Адкрыць у браўзеры</string>
     <string name="title_share_link">Падзяліцца спасылкай</string>
     <string name="connecting">Злучэнне…</string>
@@ -565,4 +567,5 @@
     <string name="facebook_clean_exit_confirm_ok">Спыніць</string>
     <string name="one_tap_clean_M">%dМБ</string>
     <string name="one_tap_clean_GB">%sГБ</string>
+    <string name="security_center_slogan">Бяспека. Заўсёды на варце.</string>
 </resources>

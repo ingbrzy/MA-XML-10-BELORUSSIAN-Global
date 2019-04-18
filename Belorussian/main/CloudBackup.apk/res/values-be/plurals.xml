@@ -18,4 +18,22 @@
         <item quantity="few">Аднаўленне %d файлаў</item>
         <item quantity="many">Аднаўленне %d файлаў</item>
     </plurals>
+    <plurals name="restore_app_order_prior">
+        <item quantity="other">"Высокі прыярытэт: %d аб'ектаў"</item>
+        <item quantity="one">"Высокі прыярытэт: %d аб'ект"</item>
+        <item quantity="few">"Высокі прыярытэт: %d аб'екта"</item>
+        <item quantity="many">"Высокі прыярытэт: %d аб'ектаў"</item>
+    </plurals>
+    <plurals name="restore_app_order_normal">
+        <item quantity="other">"Звычайны прыярытэт: %d аб'ектаў"</item>
+        <item quantity="one">"Звычайны прыярытэт: %d аб'ект"</item>
+        <item quantity="few">"Звычайны прыярытэт: %d аб'екта"</item>
+        <item quantity="many">"Звычайны прыярытэт: %d аб'ектаў"</item>
+    </plurals>
+    <plurals name="restore_app_order_installed">
+        <item quantity="other">%d праграм на прыладзе</item>
+        <item quantity="one">%d праграма на прыладзе</item>
+        <item quantity="few">%d праграмы на прыладзе</item>
+        <item quantity="many">%d праграм на прыладзе</item>
+    </plurals>
 </resources>

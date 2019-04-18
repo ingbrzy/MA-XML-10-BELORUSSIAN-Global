@@ -25,7 +25,7 @@
     <string name="activity_main_update_time">Абноўлена %1$s</string>
     <string name="activity_main_update_time_expire">Дадзеныя састарэлі</string>
     <string name="activity_main_update_time_right_now">толькі што</string>
-    <string name="activity_minute_rain_location_fail_msg">Немагчыма вызначыць месцазнаходжанне. Па змаўчанні - Пекін.</string>
+    <string name="activity_minute_rain_location_fail_msg">Не атрымалася атрымаць дакладныя дадзеныя месцазнаходжаньня. Пераключана на бягучы горад.</string>
     <string name="add_city">Дадаць</string>
     <string name="alert_detail_title">Падрабязнасці папярэджання</string>
     <string name="alert_warning">"Папярэджанні пра надвор'е"</string>
@@ -55,6 +55,8 @@
     <string name="aqi_quality_pm10_desc">Грубыя часцінкі</string>
     <string name="aqi_quality_pm25_desc">Дробныя часцінкі</string>
     <string name="aqi_quality_so2_desc">Дыаксід серы</string>
+    <string name="aqi_settings_summary">Папярэджанні ІЯП</string>
+    <string name="aqi_settings_title">ІЯП</string>
     <string name="aqi_station_best_quality_station">Лепшая станцыя</string>
     <string name="aqi_station_min_distance_station">Найбліжэйшая станцыя</string>
     <string name="aqi_top_pollution">Забруджвальныя агенты</string>
@@ -91,9 +93,11 @@
     <string name="daily_forecast_add_city_message">"Падпішыцеся на надвор'е ў %1$s для падрабязнага прагнозу."</string>
     <string name="daily_forecast_add_city_title">"Падпішыцеся на надвор'е ў %1$s"</string>
     <string name="daily_forecast_detail_date">dd.MM</string>
+    <string name="daily_forecast_detail_date_format">%1$s - %2$s</string>
     <string name="daily_forecast_no_data">Дадзеныя не атрыманы. Пацягніце ўніз для абнаўлення ці праверце налады сеткі</string>
     <string name="data_provided_by">Дадзеныя часткова прадастаўлены</string>
     <string name="edit_city">Кіраванне гарадамі</string>
+    <string name="empty">" "</string>
     <string name="empty_view_net_loading">Абнаўленне…</string>
     <string name="empty_view_net_unavailable">Не атрымалася падлучыцца да сеткі</string>
     <string name="empty_view_refresh">Паспрабаваць зноў</string>
@@ -112,6 +116,8 @@
     <string name="first_start_network_title">Падключэнне да інтэрнэту і доступ да месцазнаходжання</string>
     <string name="global_aqi">AQI: %1$s %2$s</string>
     <string name="hourly_forcast_now">Зараз</string>
+    <string name="hourly_forecast_bottom_aqi_chinese">%1$s %2$s</string>
+    <string name="hourly_forecast_bottom_aqi_else">%1$s</string>
     <string name="hourly_forecast_date">dd.MM</string>
     <string name="hourly_forecast_title_24_hours_desc">Прагноз на 24 гадзіны</string>
     <string name="hourly_forecast_title_hourly_desc">Прагноз па гадзінах</string>
@@ -127,9 +133,11 @@
     <string name="indices_title_feel">Адчуваецца</string>
     <string name="indices_title_pressure">Ціск</string>
     <string name="install">Усталяваць</string>
+    <string name="install_progress">%1$s%%</string>
     <string name="international_details_pressure_title">ЦІСК</string>
     <string name="international_details_title">Падрабязнасці</string>
     <string name="international_details_uv_index_title">ІНДЭКС УФ</string>
+    <string name="international_details_wind_connect">%1$s %2$s</string>
     <string name="international_details_wind_title">ВЕЦЕР</string>
     <string name="it_is_going_to_rain">Збіраецца на дождж</string>
     <string name="locate_fail_detail_err">"Немагчыма вызначыць месцазнаходжанне
@@ -197,7 +205,7 @@
     <string name="real_time_sunrise">Світанак %1$s</string>
     <string name="real_time_sunset">Заход сонца %1$s</string>
     <string name="realtime_aqi_title">Індэкс якасці паветра</string>
-    <string name="realtime_humidity_title">Адносная вільготнасць</string>
+    <string name="realtime_humidity_title">Вільготнасць</string>
     <string name="realtime_temperature_no_data">N/A</string>
     <string name="realtime_wind_default_title">Вецер</string>
     <string name="refresh_fail">Не атрымалася падлучыцца да сеткі</string>
@@ -213,6 +221,7 @@
     <string name="share_menu_title">Падзяліцца</string>
     <string name="share_subject">Падзяліцца</string>
     <string name="share_weather_desc">"\#Надвор'е MIUI#Сёння %1$s %2$s"</string>
+    <string name="share_weather_desc_alert">%1$s%2$s</string>
     <string name="share_weather_desc_split">,</string>
     <string name="share_weather_save_pic_fail">Немагчыма зрабіць здымак экрана</string>
     <string name="some_where_on_earth">Дзесьці на Зямлі</string>

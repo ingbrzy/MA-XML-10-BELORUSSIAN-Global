@@ -47,8 +47,13 @@
     <string name="album_label">Вокладкі альбомаў</string>
     <string name="album_name">Альбом</string>
     <string name="all_album_count">All albums (%d)</string>
+    <string name="all_albums">Усе альбомы</string>
+    <string name="all_artists">Усе выканаўцы</string>
     <string name="all_playlist_count">All playlists (%d)</string>
+    <string name="all_playlists">Усе плэйлісты</string>
+    <string name="all_songs">Усе песні</string>
     <string name="all_tracks">Усе песні</string>
+    <string name="all_videos">Усе відэа</string>
     <string name="already_download">Спампоўка…</string>
     <string name="already_download_btn">Downloading…</string>
     <string name="already_favorited">Ужо ў абраным</string>
@@ -217,6 +222,7 @@
     <string name="download_method">Спампоўка</string>
     <string name="download_no_application_title">Не ўдаецца адкрыць файл</string>
     <string name="download_paused_in_power_save_mode">Downloads are paused when Battery saver is on</string>
+    <string name="download_percent">%d%%</string>
     <string name="download_processing">Спампоўка…</string>
     <string name="download_quality">Якасць спампоўкі</string>
     <string name="download_quality_summary">Дадатковыя налады для спампоўкі песень</string>
@@ -296,7 +302,9 @@
     <string name="exo_download_notification_channel_name">Спампоўкі</string>
     <string name="exo_download_removing">Выдаленне спамповак</string>
     <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Мбіт/с</string>
     <string name="exo_track_mono">Мона</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">Аўтаматычна</string>
     <string name="exo_track_selection_none">Няма</string>
     <string name="exo_track_selection_title_audio">Аўдыя</string>
@@ -555,6 +563,7 @@
     <string name="priority_storage_summary">Аўтаматычна захоўваць файлы на SD-карту, калі яна падлучана</string>
     <string name="privacy_desc">Палітыка прыватнасці (абавязкова)</string>
     <string name="privacy_policy">Палітыка канфідэнцыяльнасці</string>
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=be_BY</string>
     <string name="pro_member">Член PRO</string>
     <string name="project_device">Mi Phone</string>
     <string name="prompt_grant_write_settings_permission">Дазволіць змяняць сістэмныя налады</string>
@@ -592,6 +601,8 @@
     <string name="search_for_album">Альбом</string>
     <string name="search_for_artist">Выканаўца</string>
     <string name="search_hint">Шукайце выканаўцаў, песні, альбомы і іншае</string>
+    <string name="search_hint_local">Пошук песень на прыладзе</string>
+    <string name="search_hint_online">Пошук выканаўцаў, альбомаў, песень, плэйлістоў і відэа онлайн</string>
     <string name="search_history_clear_all">Clear</string>
     <string name="search_instant_online_music">Online</string>
     <string name="search_menu_title">Пошук</string>
@@ -653,6 +664,7 @@
     <string name="start_to_check_new_version">Праверка абнаўлення…</string>
     <string name="start_to_download">Запампоўка…</string>
     <string name="start_to_play">Прайграць</string>
+    <string name="status_bar_notification_info_overflow">больш за 999</string>
     <string name="storage_internal">Унутранае сховішча</string>
     <string name="storage_sd_card">SD-карта</string>
     <string name="storage_usb">USB-сховішча</string>
@@ -662,8 +674,10 @@
     <string name="tab_artist">Выканаўцы</string>
     <string name="tab_artist_list">Выканаўцы</string>
     <string name="tab_folder">Тэчкі</string>
+    <string name="tab_playlist">Плэйлісты</string>
     <string name="tab_track">Песні</string>
     <string name="tab_track_list">Песні</string>
+    <string name="tab_video">Відэа</string>
     <string name="take_effect_afater_restart">Для прымянення дадзенай функцыі неабходна перазапусціць прайгравальнік.</string>
     <string name="talkback_back">Go back</string>
     <string name="talkback_batch_process">"Некалькі аб'ектаў"</string>
@@ -713,6 +727,7 @@
     <string name="upgrade_music_message">Updates are ready. Restart to update.</string>
     <string name="upgrading_in_backstage">Updating in the background…</string>
     <string name="user_agreement">Карыстальніцкае пагадненне</string>
+    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=be_BY</string>
     <string name="version_info">Version</string>
     <string name="video_play_cellular">Ваша прылада не падлучана да Wi-Fi. Выкарыстаць мабільны інтэрнэт?</string>
     <string name="video_replay_btn">Прайграць зноў</string>
@@ -720,6 +735,7 @@
     <string name="view_album">Праглядзець альбом</string>
     <string name="vip_required">Набудзьце пакет Прэміум, каб праслухаць гэты трэк. Пакуль прапусцім яго.</string>
     <string name="vip_required_with_song">Песня %s даступная толькі ўладальнікам падпіскі PRO. Пакуль прапусцім яе.</string>
+    <string name="voice_search_first_hint">Паспрабуйце галасавы пошук!</string>
     <string name="wifi_required_body" formatted="false">"Падключыцеся да Wi-Fi для завяршэння гэтай спампоўкі %s.
 
 Націсніце %s для працягу спампоўкі пры наступным падключэнні да сеткі Wi-Fi."</string>

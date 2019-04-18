@@ -86,6 +86,7 @@
     <string name="birthday_notification_type_term_lunar" />
     <string name="birthday_saved">Дзень нараджэння захаваны</string>
     <string name="birthday_term">дзень нараджэння</string>
+    <string name="calendar_permission_desc">Кіраванне мерапрыемствамі</string>
     <string name="can_not_create_long_event">Назва занадта доўгая</string>
     <string name="can_not_modify_allday_event">Не атрымліваецца змяніць мерапрыемства, што ўсталяванае на цэлы дзень</string>
     <string name="can_not_modify_event">Не атрымліваецца змяніць</string>
@@ -103,6 +104,7 @@
     <string name="change_response_title">Змяніць адказ</string>
     <string name="click_to_share">Націсніце, каб падзяліцца</string>
     <string name="close_alarm">Адключыць</string>
+    <string name="contacts_permission_desc">Доступ да дадзеных кантактаў</string>
     <string name="countdown_event_title">Падзея: %1$s</string>
     <string name="countdown_notify_before_3_day_title">Падзея: %1$s праз 3 дні</string>
     <string name="countdown_notify_title">Падзея: %1$s</string>
@@ -132,6 +134,7 @@
     <string name="date_interval_text_to">Да %1$s</string>
     <string name="date_jump_hint">Адразу перайсці да пэўнай даты</string>
     <string name="date_jump_title">Перайсці да даты</string>
+    <string name="date_time_fmt" formatted="false">%s, %s</string>
     <string name="date_today">" (сёння)"</string>
     <string name="day_view_new_event_hint">Новая падзея</string>
     <string name="default_reminder_mode">Апавяшчэнні</string>
@@ -214,6 +217,9 @@
     <string name="global_cricket_no_match">У гэты дзень не запланавана ні аднаго матчу па крыкеце. Праверце іншыя дні.</string>
     <string name="global_football_final">ФІНАЛ</string>
     <string name="global_football_no_match">На гэты дзень не запланавана футбольных матчаў.</string>
+    <string name="global_joke_collapse_text">Паказаць меньш</string>
+    <string name="global_joke_copy_toast_message">Тэкст паспяхова скапіяваны</string>
+    <string name="global_joke_expand_text">Паказаць яшчэ</string>
     <string name="global_onthisday_com">OnThisDay.com</string>
     <string name="greetingcard_end_of_page">На сёння гэта ўсё. Вяртайцеся заўтра!</string>
     <string name="greetingcard_notification_desc">Паглядзіце апошнія статусы</string>
@@ -475,7 +481,4 @@
     <string name="xiaomi_calendar_display_name">Каляндар Mi Акаўнта</string>
     <string name="yearly">Штогод (%s)</string>
     <string name="yearly_plain">Штогод</string>
-    <string name="global_joke_collapse_text">Show less</string>
-    <string name="global_joke_copy_toast_message">Copied text successfully</string>
-    <string name="global_joke_expand_text">Show more</string>
 </resources>

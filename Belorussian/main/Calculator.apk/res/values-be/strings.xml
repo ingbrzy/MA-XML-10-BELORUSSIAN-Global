@@ -104,7 +104,7 @@
     <string name="item_title_currency">Валюта</string>
     <string name="item_title_dress_size">Памер адзення</string>
     <string name="item_title_length_conversion">Даўжыня</string>
-    <string name="item_title_mortgage">Home loan</string>
+    <string name="item_title_mortgage">Іпатэка</string>
     <string name="item_title_scientific_calculator">Інжынерны</string>
     <string name="item_title_tax">Налогі</string>
     <string name="item_title_temprature_conversion">Тэмпература</string>
@@ -164,7 +164,7 @@
     <string name="mortgage_interest_rate">Камерцыйны працэнт</string>
     <string name="mortgage_item_repayment">Спосаб пагашэння</string>
     <string name="mortgage_item_start_time">Дата пачатку</string>
-    <string name="mortgage_item_years">Loan tenure</string>
+    <string name="mortgage_item_years">Тэрмін крэдыту</string>
     <string name="mortgage_loans_amount">Сума крэдыту</string>
     <string name="mortgage_provident_found_interest_rate">Працэнтная стаўка фонду</string>
     <string name="mortgage_repayment_amount">Сума пагашэння</string>
@@ -592,12 +592,23 @@
     <string name="word_figure_unit_shi">拾</string>
     <string name="word_figure_yuan">元</string>
     <string name="word_figure_zheng">整</string>
+    <string name="xiaomi_bytes_unit">%1$sБ</string>
     <string name="xiaomi_connect_download_manager_fail">Не атрымалася падлучыцца да Запамповак. Пераканайцеся ў тым, што праграма мае ўсе неабходныя дазволы ў «Налады > Усталяваныя праграмы».</string>
     <string name="xiaomi_external_storage_unavailable">Памяць недаступная. Праверце SD-карту.</string>
+    <string name="xiaomi_kilobytes_unit">%1$sКБ</string>
+    <string name="xiaomi_megabytes_unit">%1$sМБ</string>
     <string name="xiaomi_update_dialog_message">"Даступная версія %1$s
 Памер: %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"Даступная версія %1$s
 Памер дэльта-абнаўлення: %2$s"</string>
     <string name="xiaomi_update_dialog_title">%1$s абнаўленне!</string>
     <string name="year" />
+    <string name="app_notification_info">Калькулятар працуе ў фонавым рэжыме</string>
+    <string name="btn_float_window_alpha">Змяніць празрыстасць</string>
+    <string name="btn_float_window_back_to_app">Разгарнуць Калькулятар</string>
+    <string name="btn_float_window_close">Зачыніць згорнуты Калькулятар</string>
+    <string name="btn_float_window_resize">Змяніць памер згорнутага Калькулятара</string>
+    <string name="float_window_guide_text">Націсніце, каб згарнуць калькулятар</string>
+    <string name="hint_floatwindow_alpha_guide_text">Націсніце для налады празрыстасці</string>
+    <string name="view_float_window_move">Перамясціць згорнуты Калькулятар</string>
 </resources>

@@ -58,6 +58,7 @@
     <string name="cast_forward">Наперад</string>
     <string name="cast_forward_10">Дзесяць секунд наперад</string>
     <string name="cast_forward_30">Трыццаць секунд наперад</string>
+    <string name="cast_intro_overlay_button_text">\@android:string/ok</string>
     <string name="cast_mute">Адключыць гук</string>
     <string name="cast_notification_connected_message">Падключэнне да %1$s выканана</string>
     <string name="cast_notification_connecting_message">Падключэнне да %1$s</string>
@@ -457,6 +458,7 @@
     <string name="slid_fail_message">Памылка захавання</string>
     <string name="slide_save_message">Стварэнне відэа…</string>
     <string name="sns_sign_in">Іншыя спосабы ўваходу</string>
+    <string name="status_bar_notification_info_overflow">больш за 999</string>
     <string name="sure_to_logout">Выйсці зараз?</string>
     <string name="switch_ratio_pause">Хуткасць прайгравання нестабільная. Зварот да хуткасці па змаўчанні…</string>
     <string name="symbol_rmb">¥</string>
@@ -488,4 +490,26 @@
     <string name="v_ok">OК</string>
     <string name="v_pw_need_update_app">Абнавіце Mi Відэа, каб карыстацца ўсімі функцыямі</string>
     <string name="v_save">Захаваць</string>
+    <string name="Subscribe">Падпісацца</string>
+    <string name="diy_channels_tips">Цяпер вы можаце наладзіць спіс вашых каналаў.</string>
+    <string name="empty_channels">Кіраваць каналамі</string>
+    <string name="empty_subscribe">У вас пакуль няма падпісак.</string>
+    <string name="hidden_channels">Наступныя каналы не будуць адлюстроўвацца на Працоўным стале.</string>
+    <string name="init_channels">Усталяваць налады па змаўчанні</string>
+    <string name="isSubscribed">Падпіска аформленая</string>
+    <string name="my_favorite_channels">Мае каналы</string>
+    <string name="ovp_navigation_subscribe">Падпісацца</string>
+    <string name="ovp_player_plugin_dlg_neg_btn">Закрыць</string>
+    <string name="ovp_player_plugin_dlg_no_content">Убудовы відэапрайгравальніка не ўсталяваныя.</string>
+    <string name="ovp_player_plugin_dlg_title">Убудовы відэапрайгравальніка</string>
+    <string name="permission_phone">Тэлефон</string>
+    <string name="permission_phone_desc">Для доступу да стану прылады і прыпынення прайгравання падчас выклікаў</string>
+    <string name="permission_storage">Сховішча</string>
+    <string name="permission_storage_desc">"Для доступу да аб'ектаў, захавання файлаў, адлюстравання і прайгравання лакальных відэа"</string>
+    <string name="pw_channels">Каналы</string>
+    <string name="recommend_channels">Рэкамендаваныя каналы</string>
+    <string name="restore_channel_list">Усталяваць налады па змаўчанні зараз?</string>
+    <string name="title_publisher">Стваральнікі</string>
+    <string name="title_subscribe">Падпіскі</string>
+    <string name="ugc_confirm_unsubscribe">Адпісацца зараз?</string>
 </resources>

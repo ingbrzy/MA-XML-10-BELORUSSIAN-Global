@@ -290,7 +290,6 @@
     <string name="month_view">Месяц</string>
     <string name="monthly">Штомесяц</string>
     <string name="monthly_on_day">Штомесяц</string>
-    <string name="monthly_on_day_count">Штомесяц (кожн. %1$s %2$s)</string>
     <string name="network_not_available">Немагчыма злучыцца з сеткай</string>
     <string name="new_event_description">Новае</string>
     <string name="news">Навіны</string>

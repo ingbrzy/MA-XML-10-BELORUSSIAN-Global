@@ -219,6 +219,7 @@
     <string name="passport_talkback_switch_image_captcha">Пераключыцца на ахоўны код з выявы</string>
     <string name="passport_license_info_open">Падрабязнасці</string>
     <string name="passport_license_info_collapse">Згарнуць</string>
+    <string name="passport_first_login_prompt">Mi акаўнт будзе створаны аўтаматычна пры першым уваходзе ў сістэму.</string>
     <string name="search_app_name">Mi Акаўнт</string>
     <string name="search_mi_account">Mi Акаўнт</string>
     <string name="search_mi_account_key_words">Mi Cloud,Налады акаўнта,Дадзеныя Mi Pay,Выйсці</string>
@@ -353,6 +354,8 @@
     <string name="activity_not_found_notice">Немагчыма знайсці праграму</string>
     <string name="scan_barcode_title">Для ўвахода ў ваш Mi Акаўнт адсканіруйце QR-код</string>
     <string name="talkback_scan_barcode">Адсканіруйце QR-код</string>
+    <string name="scan_barcode">Увайсці з дапамогай QR-кода</string>
+    <string name="agreement_and_privacy">Палітыка прыватнасці і Карыстальніцкае пагадненне</string>
     <string name="authorize_title">Аўтарызацыя</string>
     <string name="my_device_title">Бягучая прылада</string>
     <string name="device_list_title">Мае прылады</string>
@@ -419,9 +422,8 @@
     <string name="push_notify_dialog_title">Праверка акаўнта</string>
     <string name="push_notify_dialog_message">З невядомай прылады зайшлі ў ваш Mi Акаўнт. Увядзіце код праверкі на гэтай прыладзе. Калі гэта не вы, змяніце пароль Mi Акаўнта. Не паказвайце гэты код праверкі іншым людзям.</string>
     <string name="account_secure_info_pref_title">Інфармацыя аб акаўнце</string>
-    <string name="account_user_email">Email</string>
-    <string name="account_user_phone">Тэлефон</string>
-    <string name="account_user_recovery_phone">Тэлефон для аднаўлення</string>
+    <string name="account_user_email">Email для аднаўлення</string>
+    <string name="account_user_phone">Тэлефон для аднаўлення</string>
     <string name="input_new_pwd">Увядзіце новы пароль</string>
     <string name="confirm_new_pwd">Падцвердзіце новы пароль</string>
     <string name="inconsistent_pwd">Паролі не супадаюць</string>

@@ -39,6 +39,7 @@
     <string name="business_card">Візітка</string>
     <string name="business_card_result_title">Візітка</string>
     <string name="business_card_title">Змясціце візітку у межах рамкі</string>
+    <string name="business_card_with_qr_code">Змясціце візітку або QR-код у межах рамкі</string>
     <string name="business_copy">Капіяваць</string>
     <string name="business_new_contacts">Стварыць кантакт</string>
     <string name="business_no_result">Не атрымалася счытаць візітку, паспрабуйце зноў.</string>

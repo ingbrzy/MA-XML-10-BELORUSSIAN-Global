@@ -121,10 +121,10 @@ total %2$d songs"</item>
         <item quantity="many">&lt;font color=\"red\">%d songs&lt;/font> downloading</item>
     </plurals>
     <plurals name="free_downloads_num_hint">
-        <item quantity="other">Застаецца %d песень для бясплатнай загрузкі</item>
-        <item quantity="one">Застаецца %d песня для бясплатнай загрузкі</item>
-        <item quantity="few">Застаецца %d песні для бясплатнай загрузкі</item>
-        <item quantity="many">Застаецца %d песень для бясплатнай загрузкі</item>
+        <item quantity="other">Засталіся %d бясплатных загрузак</item>
+        <item quantity="one">Засталася %d бясплатная загрузка</item>
+        <item quantity="few">Засталіся %d бясплатныя загрузкі</item>
+        <item quantity="many">Засталіся %d бясплатных загрузак</item>
     </plurals>
     <plurals name="multichoice_title">
         <item quantity="other">%d items selected</item>
@@ -187,9 +187,9 @@ total %2$d songs"</item>
         <item quantity="many">%1$s праглядаў</item>
     </plurals>
     <plurals name="vip_remain_days_hint">
-        <item quantity="other">Застаецца %d дзён</item>
-        <item quantity="one">Застаецца %d дзень</item>
-        <item quantity="few">Застаецца %d дні</item>
-        <item quantity="many">Застаецца %d дзён</item>
+        <item quantity="other">Засталося %d дзён</item>
+        <item quantity="one">Застаўся %d дзень</item>
+        <item quantity="few">Засталося %d дня</item>
+        <item quantity="many">Засталося %d дзён</item>
     </plurals>
 </resources>

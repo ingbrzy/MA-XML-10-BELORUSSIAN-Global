@@ -15,7 +15,7 @@
     <string name="add_to_album_success">Паспяхова дададзена</string>
     <string name="add_to_album_tip">Воблачныя фота</string>
     <string name="add_to_favorites_failed">Не атрымалася дадаць да выбраных</string>
-    <string name="add_to_secret_exist">Фота ўжо існуе ў прыватным альбоме</string>
+    <string name="add_to_secret_exist">"Аб'ект ужо існуе ў прыватным альбоме"</string>
     <string name="add_to_secret_fail">Не атрымалася дадаць у прыватны альбом</string>
     <string name="add_to_secret_failed_with_reason">Не ўдаецца дадаць у прыватны альбом. %1$s.</string>
     <string name="add_to_secret_successful">Дадаць у схаваны альбом</string>
@@ -39,6 +39,7 @@
     <string name="agreement_summary">Юрыдычныя дакументы</string>
     <string name="ai_album_open_switch_button_title">Пачаць аналіз фота</string>
     <string name="ai_album_requesting_title">Штучны інтэлект апрацоўвае фота. Вяртайцеся крыху пазней.</string>
+    <string name="ai_album_setting_key_word">Пошук фота</string>
     <string name="ai_album_setting_sub_title">"Дазвольце алгарытмам штучнага інтэлекту вызначаць людзей, месцы і аб'еты, каб іх было магчыма хутчэй знайсці."</string>
     <string name="ai_album_setting_title">"Вызначаць аб'екты на фота"</string>
     <string name="album_already_exists_check">Праглядзець</string>
@@ -188,6 +189,8 @@
     <string name="backuped_title">Стварэнне рэзервовай копіі завершана</string>
     <string name="backuping_title_gprs">Стварыць рэзервовую копію, выкарыстоўваючы мабільны інтэрнэт…</string>
     <string name="backuping_title_normal">Стварэнне рэзервовай копіі…</string>
+    <string name="base_btn_cancel">Адмена</string>
+    <string name="base_btn_download">Спампаваць</string>
     <string name="begin_share">Альбом дзіцяці \"%s\" паспяхова створаны</string>
     <string name="begin_share_toast">Стварыць асобны альбом для гэтага дзіцяці перад адпраўкай?</string>
     <string name="blank_app_name" />
@@ -361,7 +364,7 @@
     <string name="detail_title">Падрабязная інфармацыя</string>
     <string name="disable_auto_upload_tip">Выключыць сінхранізацыю з Mi Cloud для гэтага альбома?</string>
     <string name="disable_auto_upload_title">Адключыць сінхранізацыю з Mi Cloud</string>
-    <string name="do_not_remind_me">Больш не паказваць</string>
+    <string name="do_not_remind_me">Не паказываць ізноў</string>
     <string name="document_provider_guide_step_1">1. Націсніце кнопку \"Яшчэ\".</string>
     <string name="document_provider_guide_step_2">2. Націсніце \"Паказаць ўнутраную памяць\".</string>
     <string name="document_provider_guide_step_3">3. Націсніце кнопку бакавога меню.</string>
@@ -499,6 +502,7 @@
     <string name="face_name_edit">Змяніць</string>
     <string name="face_name_input">Увядзіце імя</string>
     <string name="face_recommend">Парады</string>
+    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="fail_hint">Не атрымалася завяршыць аперацыю</string>
     <string name="fail_to_pick_email">Няправільны Email</string>
     <string name="fail_to_sync_album">Не атрымалася сінхранізаваць альбом. Праверце параметры сеткі.</string>
@@ -509,6 +513,7 @@
     <string name="feature_guidance_photo_effects">"Даступныя
 новыя эфекты"</string>
     <string name="feature_guidance_video_editor_smart_effects">Даступныя новыя эфекты</string>
+    <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="filter_bi_bw">Ч&amp;Б</string>
     <string name="filter_bi_dusk">Змярканне</string>
     <string name="filter_bi_lilt">Рэалізм</string>
@@ -526,6 +531,7 @@
     <string name="filter_category_master">Галоўны</string>
     <string name="filter_category_portrait">Партрэт</string>
     <string name="filter_category_scene">Краявід</string>
+    <string name="filter_category_sky">Неба</string>
     <string name="filter_film_blackwhite">Ч/Б</string>
     <string name="filter_film_dew">Раса</string>
     <string name="filter_film_fade">Пабляклы</string>
@@ -568,6 +574,17 @@
     <string name="filter_scene_series">Адлюстраванні</string>
     <string name="filter_scene_vivid">Яскравы</string>
     <string name="filter_scene_warm">Сонца</string>
+    <string name="filter_sky_cloudy">Хмарна</string>
+    <string name="filter_sky_detect_forbidden_tips">Немагчыма выявіць неба</string>
+    <string name="filter_sky_download_failed">Памылка спампоўкі ўбудовы. Праверце налады сеткі і паспрабуйце ізноў.</string>
+    <string name="filter_sky_download_finish">Убудова паспяхова спампавана</string>
+    <string name="filter_sky_download_sdk_without_wifi_msg">Пры адсутнасці падлучэння Wi-Fi вы можаце загрузіць убудову для замены неба на фота (%1$d МБ) праз мабільны інтэрнэт.</string>
+    <string name="filter_sky_download_sdk_without_wifi_title">Спампаваць убудову</string>
+    <string name="filter_sky_dusk">Паўзмрок</string>
+    <string name="filter_sky_glow">Ззянне</string>
+    <string name="filter_sky_rainbow">Вясёлка</string>
+    <string name="filter_sky_sunny">Сонечна</string>
+    <string name="filter_sky_sunset">Захад</string>
     <string name="finish_create_baby_album_toast">Альбом для \"%s\" створаны ў Mi Cloud</string>
     <string name="finish_fill_baby">Стварыць</string>
     <string name="flash_off">Без успышкі</string>
@@ -582,6 +599,7 @@
     <string name="gif_tip">GIF</string>
     <string name="gigabyteShort">ГБ</string>
     <string name="grant_permission_go_and_set">Усталяваць</string>
+    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_text">"Для звычайнай працы Галерэі патрэбны доступ да 
 %s
 , націсніце \"Наладзіць\", каб перайсці да дазволаў."</string>
@@ -835,6 +853,7 @@
     <string name="people_mark_mode_title_no_mark_name">Выберыце чалавека</string>
     <string name="people_page_label">Людзі</string>
     <string name="people_page_unname">Без імені</string>
+    <string name="percent_sign">%</string>
     <string name="permissin_contract_desc">Найменне людзей на фота</string>
     <string name="permission_contract_name">Кантакты</string>
     <string name="permission_optional_category">Неабавязковыя дазволы</string>
@@ -959,7 +978,7 @@
     <string name="privacy_permission_request_message">Галерэе патрэбны доступ да %3$s. Інфармацыя, якую мы збіраем, апрацоўваецца ў адпаведнасці з %1$s і %2$s. Дазволіць?</string>
     <string name="privacy_permission_request_negative">Абмежаваць</string>
     <string name="privacy_permission_request_positive">Дазволіць</string>
-    <string name="privacy_permission_request_title">Запыт дазволаў</string>
+    <string name="privacy_permission_request_title">Патрабуюцца дазволы</string>
     <string name="projection_cancel">Скасаваць</string>
     <string name="projection_checkbox_text">Запомніць гэты дысплэй</string>
     <string name="projection_device_connection_failed">Не атрымалася падключыць праектар</string>
@@ -1030,7 +1049,12 @@
     <string name="scan_barcode_to_join">Счытайце QR-код сканерам, каб дадаць альбом</string>
     <string name="scan_qr_code_buttom_text">Скануе QR-код для прагляду гэтага альбома</string>
     <string name="screen_doodle_talkback_size">Шырыня лініі накіда</string>
+    <string name="screen_editor_crop">@string/photo_editor_long_crop</string>
+    <string name="screen_editor_doodle">@string/photo_editor_doodle</string>
     <string name="screen_editor_finish">Гатова</string>
+    <string name="screen_editor_mosaic">@string/photo_editor_mosaic</string>
+    <string name="screen_editor_send">@string/operation_send</string>
+    <string name="screen_editor_text">@string/photo_editor_text</string>
     <string name="screen_save_dialog_btn_cancel">Адмена</string>
     <string name="screen_save_dialog_btn_delete">Выдаліць скрыншот</string>
     <string name="screen_save_dialog_btn_save">Захаваць у Галерэі</string>
@@ -1088,6 +1112,9 @@
     <string name="search_title_recommend">Рэкамендацыі</string>
     <string name="search_title_suggestion">Прапановы</string>
     <string name="search_title_tag">"Аб'екты"</string>
+    <string name="search_transition_element_icon">search_icon</string>
+    <string name="search_transition_element_input">search_input</string>
+    <string name="search_transition_element_voice">search_voice</string>
     <string name="searching_cast_devices">Пошук праектара…</string>
     <string name="secret_album_card_description">Лепшае месца для вашых маленькіх сакрэтаў</string>
     <string name="secret_album_card_title">Паспрабуйце схаваныя альбомы</string>
@@ -1251,6 +1278,7 @@
     <string name="today">Сёння</string>
     <string name="too_many_recipients">Нельга дадаць больш %2$s атрымальнікаў (Дададзена на дадзены момант %1$s).</string>
     <string name="trash_bin">Сметніца</string>
+    <string name="trash_bin_key_word">Выдаленыя фота</string>
     <string name="trash_bin_summary">Прагляд сінхранізаваных фота, якія нядаўна былі выдаленыя.</string>
     <string name="try_again_later">Паўтарыць спробу пазней.</string>
     <string name="try_to_send">Адправіць</string>
@@ -1268,7 +1296,7 @@
     <string name="user_agreement4">Палітыка канфідэнцыяльнасці</string>
     <string name="user_alias_self">Я</string>
     <string name="user_notice_identify_summary_format">Выкарыстоўваючы гэтую паслугу, вы згаджаецеся з %1$s %2$s кампаніі Xiaomi.</string>
-    <string name="user_notice_title">Умовы і палажэнні</string>
+    <string name="user_notice_title">Умовы і Палажэнні</string>
     <string name="video_edit_file_not_exits_tip">Спачатку спампуйце відэа</string>
     <string name="video_editor_abandon_changes_tip_message">Скасаваць усе змены?</string>
     <string name="video_editor_abandon_changes_tip_title">Скасаваць змены</string>

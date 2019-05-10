@@ -30,6 +30,18 @@
         <item quantity="few">Прагноз на %1$s дні</item>
         <item quantity="many">Прагноз на %1$s дзён</item>
     </plurals>
+    <plurals name="feedback_result_interval_time_too_short_minute">
+        <item quantity="other">Вы можаце паўторна адправіць водгук праз %1$s хвілін</item>
+        <item quantity="one">Вы можаце паўторна адправіць водгук праз %1$s хвіліну</item>
+        <item quantity="few">Вы можаце паўторна адправіць водгук праз %1$s хвіліны</item>
+        <item quantity="many">Вы можаце паўторна адправіць водгук праз %1$s хвілін</item>
+    </plurals>
+    <plurals name="feedback_result_interval_time_too_short_second">
+        <item quantity="other">Вы можаце паўторна адправіць водгук праз %1$s секунд</item>
+        <item quantity="one">Вы можаце паўторна адправіць водгук праз %1$s секунду</item>
+        <item quantity="few">Вы можаце паўторна адправіць водгук праз %1$s секунды</item>
+        <item quantity="many">Вы можаце паўторна адправіць водгук праз %1$s секунд</item>
+    </plurals>
     <plurals name="no_vote_num">
         <item quantity="other">%1$s людзей | </item>
         <item quantity="one">%1$s чалавек | </item>
@@ -53,11 +65,5 @@
         <item quantity="one"> | %1$s чалавек</item>
         <item quantity="few"> | %1$s чалавекі</item>
         <item quantity="many"> | %1$s чалавек</item>
-    </plurals>
-    <plurals name="feedback_result_interval_time_too_short">
-        <item quantity="other">%1$s секунды пасля водгуку</item>
-        <item quantity="one">%1$s секунда пасля водгуку</item>
-        <item quantity="few">%1$s секунды пасля водгуку</item>
-        <item quantity="many">%1$s секунд пасля водгуку</item>
     </plurals>
 </resources>

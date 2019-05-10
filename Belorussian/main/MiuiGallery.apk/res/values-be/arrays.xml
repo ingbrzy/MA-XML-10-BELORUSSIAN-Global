@@ -9,10 +9,19 @@
         <item>Хлопчык</item>
         <item>Дзяўчынка</item>
     </string-array>
+    <string-array name="backup_automatically_key_words">
+        <item>Архіваваць фота</item>
+        <item>Сінхранізаваць фота з Mi Cloud</item>
+    </string-array>
     <string-array name="last_weekend_title">
         <item>Мае выходныя</item>
         <item>Часцінкі жыцця</item>
         <item>Імгненні выходных</item>
+    </string-array>
+    <string-array name="menu_copy_or_move">
+        <item>Перамясціць</item>
+        <item>Капіраваць</item>
+        <item>@string/cancel</item>
     </string-array>
     <string-array name="month">
         <item>Студзень</item>

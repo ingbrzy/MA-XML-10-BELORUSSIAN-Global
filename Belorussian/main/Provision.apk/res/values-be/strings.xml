@@ -92,6 +92,8 @@
     <string name="content_description_complete">Завершана</string>
     <string name="language_picker_other_languages_title">Іншыя мовы</string>
     <string name="language_settings">Выбраць мову</string>
+    <string name="font_hint_normal">Павялічыць памер тэксту</string>
+    <string name="font_hint_large">Памер тэксту па змаўчанні</string>
     <string name="navigation_picker_radio_text_full_screen">Поўнаэкранныя жэсты</string>
     <string name="navigation_picker_radio_text_virtual_key">Кнопкі</string>
     <string name="congratulation_swipe">Правядзіце ўверх для ўваходу ў сістэму</string>
@@ -119,4 +121,8 @@
     <string name="ai_button_double_press_desc">Двойчы націсніце кнопку AI для выканання карыстальніцкіх задач</string>
     <string name="zone_picker_title">Выберыце часавы пояс</string>
     <string name="locale_picker_other_locale_title">Дадатковыя рэгіёны</string>
+    <string name="skip_gesture_guide_dialog_title">Поўнаэкранныя жэсты</string>
+    <string name="skip_gesture_guide_dialog_message">Перад выбарам гэтай опцыі пераканайцеся, што вы ўмееце выкарыстоўваць поўнаэкранныя жэсты.</string>
+    <string name="skip_gesture_guide_dialog_negative_btn">Адмена</string>
+    <string name="skip_gesture_guide_dialog_positive_btn">OK</string>
 </resources>

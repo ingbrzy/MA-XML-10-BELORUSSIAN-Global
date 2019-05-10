@@ -508,6 +508,108 @@
         <item quantity="few">%d элементы</item>
         <item quantity="many">%d элементаў</item>
     </plurals>
+    <plurals name="usage_state_device_explain_today">
+        <item quantity="other">%d разблакіровак</item>
+        <item quantity="one">%d разблакіроўка</item>
+        <item quantity="few">%d разблакіроўкі</item>
+        <item quantity="many">%d разблакіровак</item>
+    </plurals>
+    <plurals name="usage_state_device_explain_week">
+        <item quantity="other">%d разблакіровак</item>
+        <item quantity="one">%d разблакіроўка</item>
+        <item quantity="few">%d разблакіроўкі</item>
+        <item quantity="many">%d разблакіровак</item>
+    </plurals>
+    <plurals name="usage_state_device_noti_explain_today">
+        <item quantity="other">Атрымана %d апавяшчэнняў</item>
+        <item quantity="one">Атрымана %d апавяшчэнне</item>
+        <item quantity="few">Атрымана %d апавяшчэнні</item>
+        <item quantity="many">Атрымана %d апавяшчэнняў</item>
+    </plurals>
+    <plurals name="usage_state_device_noti_explain_week">
+        <item quantity="other">Атрымана %d апавяшчэнняў</item>
+        <item quantity="one">Атрымана %d апавяшчэнне</item>
+        <item quantity="few">Атрымана %d апавяшчэнні</item>
+        <item quantity="many">Атрымана %d апавяшчэнняў</item>
+    </plurals>
+    <plurals name="usage_state_hour">
+        <item quantity="other">%d г</item>
+        <item quantity="one">%d г</item>
+        <item quantity="few">%d г</item>
+        <item quantity="many">%d г</item>
+    </plurals>
+    <plurals name="usage_state_hour24">
+        <item quantity="other">%d гадзін</item>
+        <item quantity="one">%d гадзіна</item>
+        <item quantity="few">%d гадзіны</item>
+        <item quantity="many">%d гадзін</item>
+    </plurals>
+    <plurals name="usage_state_hour_text">
+        <item quantity="other">" г"</item>
+        <item quantity="one">" г"</item>
+        <item quantity="few">" г"</item>
+        <item quantity="many">" г"</item>
+    </plurals>
+    <plurals name="usage_state_minute">
+        <item quantity="other">%d хв.</item>
+        <item quantity="one">%d хв.</item>
+        <item quantity="few">%d хв.</item>
+        <item quantity="many">%d хв.</item>
+    </plurals>
+    <plurals name="usage_state_miunte_text">
+        <item quantity="other">" хв."</item>
+        <item quantity="one">" хв."</item>
+        <item quantity="few">" хв."</item>
+        <item quantity="many">" хв."</item>
+    </plurals>
+    <plurals name="usage_state_noti_count">
+        <item quantity="other">%d апавяшчэнняў</item>
+        <item quantity="one">%d апавяшчэнне</item>
+        <item quantity="few">%d апавяшчэнні</item>
+        <item quantity="many">%d апавяшчэнняў</item>
+    </plurals>
+    <plurals name="usage_state_unlock_count">
+        <item quantity="other">%d разоў</item>
+        <item quantity="one">%d раз</item>
+        <item quantity="few">%d раза</item>
+        <item quantity="many">%d разоў</item>
+    </plurals>
+    <plurals name="usage_state_week_day_hour">
+        <item quantity="other">Выхадныя дні: %d гадзін</item>
+        <item quantity="one">Выхадныя дні: %d гадзіна</item>
+        <item quantity="few">Выхадныя дні: %d гадзіны</item>
+        <item quantity="many">Выхадныя дні: %d гадзін</item>
+    </plurals>
+    <plurals name="usage_state_week_day_minute">
+        <item quantity="other">Выхадныя дні: %d хвілін</item>
+        <item quantity="one">Выхадныя дні: %d хвіліна</item>
+        <item quantity="few">Выхадныя дні: %d хвіліны</item>
+        <item quantity="many">Выхадныя дні: %d хвілін</item>
+    </plurals>
+    <plurals name="usage_state_work_day_hour">
+        <item quantity="other">Будныя дні: %d гадзін</item>
+        <item quantity="one">Будныя дні: %d гадзіна</item>
+        <item quantity="few">Будныя дні: %d гадзіны</item>
+        <item quantity="many">Будныя дні: %d гадзін</item>
+    </plurals>
+    <plurals name="usage_state_work_day_minute">
+        <item quantity="other">Будныя дні: %d хвілін</item>
+        <item quantity="one">Будныя дні: %d хвіліна</item>
+        <item quantity="few">Будныя дні: %d хвіліны</item>
+        <item quantity="many">Будныя дні: %d хвілін</item>
+    </plurals>
+    <plurals name="usagestats_device_notification_des_hour">
+        <item quantity="other">" г"</item>
+        <item quantity="one">" г"</item>
+        <item quantity="few">" г"</item>
+        <item quantity="many">" г"</item>
+    </plurals>
+    <plurals name="usagestats_device_notification_des_min">
+        <item quantity="other">" хв."</item>
+        <item quantity="one">" хв."</item>
+        <item quantity="few">" хв."</item>
+        <item quantity="many">" хв."</item>
+    </plurals>
     <plurals name="virus_scan_app_find_risk">
         <item quantity="other">Знойдзена пагрозы: %d</item>
         <item quantity="one">Знойдзена пагроза: %d</item>

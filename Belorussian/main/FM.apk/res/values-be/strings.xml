@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">FM радыё</string>
+    <string name="app_name">Служба FM-радыё</string>
     <string name="station_freq_format">%s МГц</string>
     <string name="frequency_mhz_fomart">%s МГц</string>
     <string name="notification_rec_title">Націсніце для прагляду запісу</string>
     <string name="record_completed">Запіс завершаны</string>
-    <string name="start">пачаць</string>
-    <string name="stop">спыніць</string>
-    <string name="jump">перайсці</string>
-    <string name="scan">сканаваць</string>
 </resources>

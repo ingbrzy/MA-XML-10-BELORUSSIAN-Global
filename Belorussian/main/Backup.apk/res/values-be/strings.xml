@@ -6,6 +6,9 @@
     <string name="xiaomi_update_dialog_message_diff">"Даступна версія %1$s
 Памер Delta абнаўлення: %2$s"</string>
     <string name="xiaomi_external_storage_unavailable">Сховішча недаступна, праверце SD-карту.</string>
+    <string name="xiaomi_bytes_unit">%1$sБ</string>
+    <string name="xiaomi_kilobytes_unit">%1$sКБ</string>
+    <string name="xiaomi_megabytes_unit">%1$sМБ</string>
     <string name="xiaomi_connect_download_manager_fail">Не атрымалася пачаць спампоўку. Пераканайцеся, што дыспетчар спамповак працуе нармальна.</string>
     <string name="app_name">Рэзервовая копія</string>
     <string name="local_app_name">Рэзервовая копія</string>
@@ -73,6 +76,7 @@
     <string name="sms_title">Паведамленні</string>
     <string name="mms_title">MMS</string>
     <string name="wifi_title">Налады Wi-Fi</string>
+    <string name="phone_title">Настройкі тэлефона</string>
     <string name="note_title">Нататкі</string>
     <string name="compute_backup_info">Атрыманне інфармацыі аб рэзервовай копіі…</string>
     <string name="compute_delete_contact_info">Атрыманне інфармацыі…</string>
@@ -225,6 +229,7 @@
     <string name="restore_backup">Аднаўленне</string>
     <string name="enable_encrypt_description">Шыфраваць</string>
     <string name="disable_encrypt_description">Не шыфраваць</string>
+    <string name="digit_percent">%</string>
     <string name="state_waiting">Хвілінку…</string>
     <string name="state_mounting">Атрыманне доступу да сховішча роўтара…</string>
     <string name="abort_backup_confirm">Стварэнне рэзервовай копіі не скончанае. Спыніць?</string>
@@ -254,6 +259,7 @@
     <string name="err_pkg_not_exist">Праграма не знойдзена.</string>
     <string name="err_user_abort">Скасавана карыстальнікам.</string>
     <string name="err_binder_died">Праграма спынена.</string>
+    <string name="err_no_gms">Несумяшчальная версія праграмы. Усталюйце гэтую праграму асобна</string>
     <string name="backup_is_running">Стварэнне рэзервовай копіі прылады</string>
     <string name="restore_is_running">Аднаўленне прылады</string>
     <string name="notif_backup_title">Стварэнне рэзервовай копіі дадзеных</string>
@@ -307,6 +313,7 @@
     <string name="trans_detail_qq_data">Дадзеныя QQ (у тым ліку гісторыя чатаў)</string>
     <string name="trans_detail_app_data_useless_tip">Вы можаце аднавіць гэта з праграмы, не трэба пераносіць.</string>
     <string name="trans_detail_item_app_data_too_large_tip">"Аб'ект занадта вялікі для перадачы."</string>
+    <string name="trans_detail_item_app_data_skip_data">Немагчыма перадаць дадзеныя праграмы</string>
     <string name="trans_detail_item_app_data_selected_tip">Выбраны адпаведныя праграмы.</string>
     <string name="trans_detail_list_footer">"1. Вы можаце выбраць для перадачы асобныя праграмы.
 2. Калі вы вылучыце дадзеныя праграм, будуць таксама абраныя адпаведныя праграмы.
@@ -563,6 +570,7 @@ https://appleid.apple.com/#!&amp;page=signin"</string>
 неабходна стварыць рэзервовую копію iCloud."</string>
     <string name="list_footer_tip_title">Парады:</string>
     <string name="import_tip_summary">З-за праблем з сумяшчальнасцю, вы можаце перадаваць дадзеныя з iOS прылад толькі часткова. Праверце перад пачаткам перадачы наяўнасць створанай рэзервовай копіі.</string>
+    <string name="import_tip_message">@string/icloud_how_to_backup_tip_steps</string>
     <string name="button_import">Імпарт</string>
     <string name="select_empty">Выберыце элементы для імпарту</string>
     <string name="select_item_summary_wait">Чаканне…</string>

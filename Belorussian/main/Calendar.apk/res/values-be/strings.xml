@@ -102,6 +102,7 @@
     <string name="card_title_change">Яшчэ</string>
     <string name="cards_language_hint">Некаторыя карткі могуць быць недаступныя на абранай мове.</string>
     <string name="change_response_title">Змяніць адказ</string>
+    <string name="change_zodiac">Змяніць знак задыяку</string>
     <string name="click_to_share">Націсніце, каб падзяліцца</string>
     <string name="close_alarm">Адключыць</string>
     <string name="contacts_permission_desc">Доступ да дадзеных кантактаў</string>
@@ -134,6 +135,7 @@
     <string name="date_interval_text_to">Да %1$s</string>
     <string name="date_jump_hint">Адразу перайсці да пэўнай даты</string>
     <string name="date_jump_title">Перайсці да даты</string>
+    <string name="date_time_fmt" formatted="false">%s, %s</string>
     <string name="date_today">" (сёння)"</string>
     <string name="day_view_new_event_hint">Новая падзея</string>
     <string name="default_reminder_mode">Апавяшчэнні</string>
@@ -202,6 +204,7 @@
     <string name="event_view">Паглядзець падзею</string>
     <string name="every_weekday">Па буднях (пн-пт)</string>
     <string name="fb_birthday_failure">Памылка імпарту дзён нараджэння з Facebook. Паспрабуйце яшчэ раз.</string>
+    <string name="fb_birthday_region_warning">Гэта функцыя недаступная ў вашым рэгіёне</string>
     <string name="fb_birthday_success">Імпарт дзён нараджэння з Facebook завершаны</string>
     <string name="fb_calendar_account_name">Лакальны каляндар Mi</string>
     <string name="fb_calendar_display_name">Дні нараджэння сяброў з Facebook</string>
@@ -290,6 +293,7 @@
     <string name="month_view">Месяц</string>
     <string name="monthly">Штомесяц</string>
     <string name="monthly_on_day">Штомесяц</string>
+    <string name="monthly_on_day_count">Штомесяц (%1$s)</string>
     <string name="network_not_available">Немагчыма злучыцца з сеткай</string>
     <string name="new_event_description">Новае</string>
     <string name="news">Навіны</string>

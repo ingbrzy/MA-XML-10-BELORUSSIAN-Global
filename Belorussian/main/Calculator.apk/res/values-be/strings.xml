@@ -3,7 +3,12 @@
     <string name="allow">Пагадзіцца</string>
     <string name="app_name">Калькулятар</string>
     <string name="app_name_danfa">Mi Калькулятар</string>
+    <string name="app_notification_info">Калькулятар працуе ў фонавым рэжыме</string>
     <string name="base_rate">Базавая працэнтная стаўка</string>
+    <string name="btn_float_window_alpha">Змяніць празрыстасць</string>
+    <string name="btn_float_window_back_to_app">Разгарнуць Калькулятар</string>
+    <string name="btn_float_window_close">Зачыніць згорнуты Калькулятар</string>
+    <string name="btn_float_window_resize">Змяніць памер згорнутага Калькулятара</string>
     <string name="cal_convert_to_word_figure">Пераўтварэнне ў фінансавыя сімвал ы</string>
     <string name="cal_copy">Капіяваць</string>
     <string name="cal_edit_mode">Рэжым рэдагавання</string>
@@ -71,6 +76,7 @@
     <string name="extra_deduction_tips">Націсніце кнопку ў верхнім куце экрана для прагляду інфармацыі аб выліке.</string>
     <string name="extra_deduction_title">Дадатковыя вылікі</string>
     <string name="factorialDesc">фактарыяла</string>
+    <string name="float_window_guide_text">Націсніце, каб згарнуць калькулятар</string>
     <string name="fund" />
     <string name="fund_loan">Пазыковы фонд</string>
     <string name="further_education">Далейшае навучанне</string>
@@ -91,6 +97,7 @@
     <string name="golbal_search_calculator_setting">Калькулятар;Налады каульклятара;Налады</string>
     <string name="golbal_search_path_calculator_setting">Сістэмныя праграмы/Калькулятар/Налады</string>
     <string name="help_content_desc">Дапамога</string>
+    <string name="hint_floatwindow_alpha_guide_text">Націсніце для налады празрыстасці</string>
     <string name="home_loan">Працэнты па іпатэцы</string>
     <string name="home_title_calculator">Калькулятар</string>
     <string name="house_rent">Арэнда жылля</string>
@@ -569,6 +576,7 @@
     <string name="unit_yuan">CNY</string>
     <string name="updating">Абнаўленне калькулятара…</string>
     <string name="user_agreement">Карыстальніцкае пагадненне</string>
+    <string name="view_float_window_move">Перамясціць згорнуты Калькулятар</string>
     <string name="voiceDesc">Упраўленне голасам</string>
     <string name="wf_word_figure">Фінансавыя сімвалы</string>
     <string name="word_figure_big_unit_fen">分</string>
@@ -592,20 +600,15 @@
     <string name="word_figure_unit_shi">拾</string>
     <string name="word_figure_yuan">元</string>
     <string name="word_figure_zheng">整</string>
+    <string name="xiaomi_bytes_unit">%1$sБ</string>
     <string name="xiaomi_connect_download_manager_fail">Не атрымалася падлучыцца да Запамповак. Пераканайцеся ў тым, што праграма мае ўсе неабходныя дазволы ў «Налады > Усталяваныя праграмы».</string>
     <string name="xiaomi_external_storage_unavailable">Памяць недаступная. Праверце SD-карту.</string>
+    <string name="xiaomi_kilobytes_unit">%1$sКБ</string>
+    <string name="xiaomi_megabytes_unit">%1$sМБ</string>
     <string name="xiaomi_update_dialog_message">"Даступная версія %1$s
 Памер: %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"Даступная версія %1$s
 Памер дэльта-абнаўлення: %2$s"</string>
     <string name="xiaomi_update_dialog_title">%1$s абнаўленне!</string>
     <string name="year" />
-    <string name="app_notification_info">Калькулятар працуе ў фонавым рэжыме</string>
-    <string name="btn_float_window_alpha">Змяніць празрыстасць</string>
-    <string name="btn_float_window_back_to_app">Разгарнуць Калькулятар</string>
-    <string name="btn_float_window_close">Зачыніць згорнуты Калькулятар</string>
-    <string name="btn_float_window_resize">Змяніць памер згорнутага Калькулятара</string>
-    <string name="float_window_guide_text">Націсніце, каб згарнуць калькулятар</string>
-    <string name="hint_floatwindow_alpha_guide_text">Націсніце для налады празрыстасці</string>
-    <string name="view_float_window_move">Перамясціць згорнуты Калькулятар</string>
 </resources>

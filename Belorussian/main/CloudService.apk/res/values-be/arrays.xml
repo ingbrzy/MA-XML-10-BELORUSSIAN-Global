@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="user_detail_fixed_items">
-        <item>View synced items</item>
-        <item>Storage details</item>
+        <item>"Прагляд сінхранізаваных аб'ектаў"</item>
+        <item>Падрабязнасці пра сховішча</item>
     </string-array>
     <string-array name="korea_permission_groups_descriptions">
         <item>Для вызначэння сінхранізаваных элементаў</item>
@@ -110,7 +110,7 @@
     </string-array>
     <string-array name="settings_search_backup_manage">
         <item>Рэзервовыя копіі</item>
-        <item>"Аб'екты з створанымі рэзервовымі копіямі"</item>
+        <item>"Аб'екты са створанымі рэзервовымі копіямі"</item>
         <item>Воблака;Стварыць рэзервовую копію;Рэзервовая копія;Воблачныя сэрвісы;Mi Cloud;Працоўны стол;Знешні выгляд;Праграмы;Кіраванне рэзервовымі копіямі;Аднаўленне</item>
     </string-array>
     <string-array name="settings_search_restore_device">

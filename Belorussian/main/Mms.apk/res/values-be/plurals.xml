@@ -61,10 +61,10 @@
         <item quantity="many">%1$s паведамленняў</item>
     </plurals>
     <plurals name="rcs_group_notification_invitation_receive">
-        <item quantity="other">You received %d group chat invitations</item>
-        <item quantity="one">You received %d group chat invitation</item>
-        <item quantity="few">You received %d group chat invitations</item>
-        <item quantity="many">You received %d group chat invitations</item>
+        <item quantity="other">Вы атрымалі %d запрашэнняў ў групавы чат</item>
+        <item quantity="one">Вы атрымалі %d запрашэнне ў групавы чат</item>
+        <item quantity="few">Вы атрымалі %d запрашэння ў групавы чат</item>
+        <item quantity="many">Вы атрымалі %d запрашэнняў ў групавы чат</item>
     </plurals>
     <plurals name="recipient_count">
         <item quantity="other">%1$s атрымальнікаў</item>

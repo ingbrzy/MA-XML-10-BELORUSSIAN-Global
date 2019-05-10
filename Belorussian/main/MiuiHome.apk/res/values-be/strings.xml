@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="status_bar_notification_info_overflow">больш за 999</string>
     <string name="action_add_to_workspace">Дадаць да працоўнай прасторы</string>
     <string name="activity_not_found">Праграма не знойдзеная</string>
     <string name="add_screen">Дадаць экран</string>
@@ -110,9 +111,12 @@
     <string name="drag_single_item_name" />
     <string name="dual_app">Кланаванне праграм</string>
     <string name="edit_folder_title">Перайменаваць папку</string>
+    <string name="edit_mode_dual_app">Стварыць клон праграмы</string>
     <string name="edit_mode_group">Групаваць</string>
+    <string name="edit_mode_group_error_cant_delete_system_apps">Немагчыма выдаліць сістэмныя праграмы</string>
     <string name="edit_mode_group_error_full">Недастаткова месца</string>
     <string name="edit_mode_group_error_in_folder">Закрыйце папку перад групаваннем значкоў</string>
+    <string name="edit_mode_group_error_nothing_be_selected">Спачатку выберыце праграму</string>
     <string name="edit_mode_group_error_one_folder">Немагчыма дубляваць папку з выбранымі значкамі</string>
     <string name="edit_mode_top_menu_finish">Гатова</string>
     <string name="edit_mode_uninstall">Выдаліць</string>
@@ -186,15 +190,22 @@
     <string name="guide_install_app_msg">Гэта праграма не ўсталявана на вашай прыладзе. Знайсці і ўсталяваць яе?</string>
     <string name="guide_install_app_title">Знайсці і ўсталяваць праграму?</string>
     <string name="guide_tips_editing_mode">Press &amp; hold to pick up a widget</string>
+    <string name="home_gesture_content_center">Кантэнт-цэнтр</string>
+    <string name="home_gesture_global_search">Пошук</string>
+    <string name="home_gesture_no_action">Адсутнічае</string>
+    <string name="home_gesture_notification_bar">Апавяшчэнні</string>
+    <string name="home_pull_down_action">Правядзіце ўніз на галоўным экране</string>
     <string name="home_screen">Галоўны экран</string>
+    <string name="home_slide_up_action">Правядзіце ўверх на галоўным экране</string>
     <string name="icon_reorganize_channel">Спарадкаваць значкі</string>
     <string name="image_too_small_message">Зыходная выява недастаткова вялікая.</string>
     <string name="install">Усталяваць</string>
     <string name="invalid_contact_shortcut">Некарэктны кантакт</string>
     <string name="is_setting_wallpaper_message">Усталёўка шпалер…</string>
     <string name="is_system_wallpaper_message">Немагчыма выдаліць сістэмны файл</string>
-    <string name="launcher_auto_fill_empty_title">Запаўняць пустыя ячэйкі</string>
     <string name="launcher_not_exist">Адбылася памылка. Вярніцеся на працоўны стол і паўтарыце спробу.</string>
+    <string name="launcher_pull_down_title">Правядзіце ўніз на галоўным экране</string>
+    <string name="launcher_slide_up_title">Правядзіце ўверх на галоўным экране</string>
     <string name="launcher_sliding_up_gesture">Пацягнуць уверх на галоўным экране, каб адкрыць пошук</string>
     <string name="launcher_title">Працоўны стол</string>
     <string name="like">Дадаць у абранае</string>
@@ -210,7 +221,7 @@
     <string name="memory_clear_nothing_result">Ачыстка не патрабуецца</string>
     <string name="memory_clear_result">%1$sБ вызвалена</string>
     <string name="menu_add">Дадаць</string>
-    <string name="menu_auto_fill">Запоўніць пустыя ячэйкі</string>
+    <string name="menu_auto_fill_of_uninstall">Запаўняць ячэйкі выдаленых праграм</string>
     <string name="menu_back_desktop">Вярнуцца на галоўны экран</string>
     <string name="menu_cell_setting">Стан галоўнага экрана</string>
     <string name="menu_customize">Налады</string>
@@ -231,6 +242,7 @@
     <string name="menu_wallpaper">Шпалеры</string>
     <string name="menu_workspace_preview">Прагляд галоўнага экрана</string>
     <string name="mi_wallpaper">Тэмы MIUI</string>
+    <string name="minus_one_screen">Стужка віджэтаў</string>
     <string name="miui_screen_config_title">Налады працоўнага стала</string>
     <string name="mtzgadget_missing_text">Віджэт недаступны</string>
     <string name="multi_selecting_tips">Націсніце і ўтрымлівайце значок, каб перацягнуць яго.</string>
@@ -356,16 +368,7 @@
     <string name="widget_global_search">Пошук</string>
     <string name="widget_quick_function">Хуткі доступ</string>
     <string name="widgets_preview_title">Дадаць віджэт</string>
-    <string name="edit_mode_dual_app">Стварыць клон праграмы</string>
-    <string name="edit_mode_group_error_cant_delete_system_apps">Немагчыма выдаліць сістэмныя праграмы</string>
-    <string name="edit_mode_group_error_nothing_be_selected">Спачатку выберыце праграму</string>
-    <string name="home_gesture_content_center">Кантэнт-цэнтр</string>
-    <string name="home_gesture_global_search">Пошук</string>
-    <string name="home_gesture_no_action">Адсутнічае</string>
-    <string name="home_gesture_notification_bar">Апавяшчэнні</string>
-    <string name="home_pull_down_action">Правядзіце ўніз на галоўным экране</string>
-    <string name="home_slide_up_action">Правядзіце ўверх на галоўным экране</string>
-    <string name="launcher_pull_down_title">Правядзіце ўніз на галоўным экране</string>
-    <string name="launcher_slide_up_title">Правядзіце ўверх на галоўным экране</string>
-    <string name="minus_one_screen">Стужка віджэтаў</string>
+    <string name="privacy_thumbnail_blur_summary">Размываць мініяцюры праграм у Апошніх</string>
+    <string name="privacy_thumbnail_blur_title">Размываць мініяцюры праграмы</string>
+    <string name="system_shortcuts_more_operation">Звесткі пра праграму</string>
 </resources>

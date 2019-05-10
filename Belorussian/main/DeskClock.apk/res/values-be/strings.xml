@@ -28,6 +28,7 @@
     <string name="abc_shareactionprovider_share_with_application">Абагуліць праз праграму %s</string>
     <string name="abc_toolbar_collapse_description">Згарнуць</string>
     <string name="search_menu_title">Пошук</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="add_alarm">Дадаць будзільнік</string>
     <string name="add_clock">Дадаць гадзіннік</string>
     <string name="add_timezone_title">Дадаць часавы пояс</string>
@@ -86,7 +87,7 @@
     <string name="dialog_message_for_contact_permission">Каб будзільнікі для дзён нараджэння сталі даступныя, Гадзіннік павінен атрымаць доступ да вашых кантактаў. Згодны?</string>
     <string name="dialog_message_negative">Не згадзіцца</string>
     <string name="dialog_message_not_remind">Больш не паказваць</string>
-    <string name="dialog_privacy_content">Для атрымання дадзеных аб дзяржаўных святах і прадастаўлення персаналізаваных паслуг Гадзінніку патрабуецца падлучэнне да інтэрнэту. Вы павінны прачытаць і прыняць нашы %1$s і %2$s. Вы згодны?</string>
+    <string name="dialog_privacy_content">Для атрымання дадзеных аб дзяржаўных святах, налады будзільнікаў і прадастаўлення персаналізаваных паслуг Гадзінніку патрабуецца падлучэнне да інтэрнэту. Вы павінны прачытаць і прыняць нашы %1$s і %2$s. Вы згодны?</string>
     <string name="dialog_privacy_content_global">Для прадастаўлення персаналізаваных паслуг Гадзінніку патрабуецца падлучэнне да інтэрнэту. Вы павінны прачытаць і прыняць нашы %1$s і %2$s перад выкарыстаннем Гадзінніка. Вы згодны?</string>
     <string name="dialog_privacy_content_news">Для прадастаўлення персаналізаваных паслуг і ўключэння ранішніх навін у вашы будзільнікі Гадзінніку патрабуецца падлучэнне да інтэрнэту. Вы павінны прачытаць і прыняць нашы %1$s і %2$s перад выкарыстаннем Гадзінніка. Вы згодны?</string>
     <string name="dialog_privacy_content_timer">Для загрузкі аўдыёфайлаў таймераў з гукамі прыроды і прадастаўлення персаналізаваных паслуг Гадзінніку патрабуецца падлучэнне да інтэрнэту. Вы павінны прачытаць і прыняць нашы %1$s і %2$s перад выкарыстаннем Гадзінніка. Вы згодны?</string>
@@ -176,7 +177,7 @@
     <string name="pause">Прыпыніць</string>
     <string name="percentage_sign">%</string>
     <string name="personal_recommend">Персанальныя рэкамендацыі па кантэнце</string>
-    <string name="privacy_policy">Палітыка канфідэнцыяльнасці</string>
+    <string name="privacy_policy">Палітыка прыватнасці</string>
     <string name="remind_ringtone">Рынгтон</string>
     <string name="repeat_count">Разы</string>
     <string name="repeat_count_value_five">5</string>
@@ -200,6 +201,7 @@
     <string name="shutdown_alarm_enable_summary">Будзільнік будзе званіць, калі час званка не менш чым на 5 хвілін пазней моманту выключэння вашай прылады</string>
     <string name="shutdown_alarm_title">Выключыць</string>
     <string name="silent_alarm_summary">Без гука</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">Адключыць адзін раз %s</string>
     <string name="slider_text">Правядзіце пальцам уверх, каб выключыць</string>
     <string name="snooze_confirm_cancel">Адключыць будзільнік</string>
@@ -218,6 +220,7 @@
     <string name="start_up">Пачаць</string>
     <string name="stopwatch_lap_empty_text">Няма кругоў</string>
     <string name="stopwatch_title">Секундамер</string>
+    <string name="symbol_colon">:</string>
     <string name="system_time_setting">Галерэя</string>
     <string name="system_time_settings_category_title">Час</string>
     <string name="temperature_unit">℃</string>

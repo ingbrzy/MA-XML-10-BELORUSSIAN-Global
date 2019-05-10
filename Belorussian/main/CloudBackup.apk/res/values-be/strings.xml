@@ -50,6 +50,8 @@
     <string name="self_device_second_space">Другая прастора гэтага тэлефона</string>
     <string name="other_device_main_space">Першая прастора</string>
     <string name="other_device_second_space">Другая прастора</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="process_whole_recovery">Аднаўленне \"%s\"</string>
     <string name="size_unknown">Невядомы памер</string>
     <string name="recovering">Аднаўленне \"%s\"</string>
@@ -134,6 +136,7 @@
     <string name="provision_error_connect_msg">Праверце сетку і паспрабуйце яшчэ раз. Рэзервовая копія недаступная, калі ваша прылада адлучаная ад сеткі.</string>
     <string name="provision_error_connect_title">Немагчыма падлучыцца</string>
     <string name="loading_user_backup">Загрузка рэзервовых копій…</string>
+    <string name="loading_progress_num">(%s%%)</string>
     <string name="error_num_placeholder">--</string>
     <string name="doing_calc_backup_data_size">Падлік памеру…</string>
     <string name="authentication_failed">Не атрымалася праверыць акаўнт.</string>
@@ -196,6 +199,7 @@
     <string name="backup_stopped_msg">Бягуча рэзервовая копія перазапіша папярэднюю. Націсніце для прагляду.</string>
     <string name="restore_network_unconnect">%s (чаканне падлучэння)</string>
     <string name="restore_network_pause">%s (Націсніце для працягу)</string>
+    <string name="hint_restore_cross_space">"Пры перамяшчэнні аб'ектаў паміж прасторамі раскладка Галоўнага экрана можа адлюстроўвацца няправільна."</string>
     <string name="restore_detail_title">"Абярыце аб'екты для аднаўлення"</string>
     <string name="restore_detail_category_settings">Налады</string>
     <string name="restore_detail_category_apps">Працоўны стол і праграмы</string>
@@ -210,6 +214,8 @@
 Праверце свае налады і паспрабуйце ізноў."</string>
     <string name="restore_app_order_loading">Секунду…</string>
     <string name="restore_app_order_finish">Гатова</string>
-    <string name="provision_restore_data">Restoring items</string>
-    <string name="provision_background_restore_more_data">Restore more items in the background</string>
+    <string name="provision_restore_data">"Аднаўленне аб'ектаў"</string>
+    <string name="provision_background_restore_more_data">"Аднавіць іншыя аб'екты ў фоне"</string>
+    <string name="selected">Selected</string>
+    <string name="unselected">Not selected</string>
 </resources>

@@ -37,4 +37,5 @@
     <string name="download_queued">У чарзе</string>
     <string name="download_running">У працэсе</string>
     <string name="download_error">Не атрымалася</string>
+    <string name="download_running_percent">У працэсе, %s</string>
 </resources>

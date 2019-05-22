@@ -21,4 +21,18 @@
     <string name="abc_toolbar_collapse_description">Згарнуць</string>
     <string name="search_menu_title">Пошук</string>
     <string name="status_bar_notification_info_overflow">больш за 999</string>
+    <string name="accessibility_battery_level">Зарад батарэі: %d адсоткаў.</string>
+    <string name="accessibility_battery_level_charging">Зарадка, %d адсоткаў.</string>
+    <string name="aod_close_color_inversion">Гэта функцыя не працуе, калі ўключана інверсія колеру. Спачатку адключыце інверсію колеру.</string>
+    <string name="aod_lock_screen_date">EE, d MMMM</string>
+    <string name="aod_lock_screen_date_12">EE, d MMMM</string>
+    <string name="aod_mode_style">Стыль і фон гадзінніка</string>
+    <string name="aod_mode_summary">Гэта функцыя павялічвае спажыванне энергіі. Яна будзе адключаная пры знаходжанні вашай прылады ў цемры на працягу доўгага часу або пры ўключэнні Эканоміі энергіі.</string>
+    <string name="aod_mode_time_summary">Плануйце час уключэння і выключэння рэжыму \"Экран заўжды актыўны\"</string>
+    <string name="aod_mode_time_title">Расклад</string>
+    <string name="aod_mode_title">Экран заўжды актыўны</string>
+    <string name="aod_to_close">Адключыць</string>
+    <string name="cancel">Адмена</string>
+    <string name="paper_mode_end_time_title">Адключыць</string>
+    <string name="paper_mode_start_time_title">Уключыць</string>
 </resources>

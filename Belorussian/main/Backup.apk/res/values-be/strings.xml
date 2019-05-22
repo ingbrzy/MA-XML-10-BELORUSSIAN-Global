@@ -6,6 +6,9 @@
     <string name="xiaomi_update_dialog_message_diff">"Даступна версія %1$s
 Памер Delta абнаўлення: %2$s"</string>
     <string name="xiaomi_external_storage_unavailable">Сховішча недаступна, праверце SD-карту.</string>
+    <string name="xiaomi_bytes_unit">%1$sБ</string>
+    <string name="xiaomi_kilobytes_unit">%1$sКБ</string>
+    <string name="xiaomi_megabytes_unit">%1$sМБ</string>
     <string name="xiaomi_connect_download_manager_fail">Не атрымалася пачаць спампоўку. Пераканайцеся, што дыспетчар спамповак працуе нармальна.</string>
     <string name="app_name">Рэзервовая копія</string>
     <string name="local_app_name">Рэзервовая копія</string>
@@ -226,6 +229,7 @@
     <string name="restore_backup">Аднаўленне</string>
     <string name="enable_encrypt_description">Шыфраваць</string>
     <string name="disable_encrypt_description">Не шыфраваць</string>
+    <string name="digit_percent">%</string>
     <string name="state_waiting">Хвілінку…</string>
     <string name="state_mounting">Атрыманне доступу да сховішча роўтара…</string>
     <string name="abort_backup_confirm">Стварэнне рэзервовай копіі не скончанае. Спыніць?</string>
@@ -255,7 +259,7 @@
     <string name="err_pkg_not_exist">Праграма не знойдзена.</string>
     <string name="err_user_abort">Скасавана карыстальнікам.</string>
     <string name="err_binder_died">Праграма спынена.</string>
-    <string name="err_no_gms">Несумяшчальная версія праграмы. Усталюйце гэтую праграму асобна</string>
+    <string name="err_no_gms">Несумяшчальная версія праграмы. Усталюйце гэтую праграму асобна.</string>
     <string name="backup_is_running">Стварэнне рэзервовай копіі прылады</string>
     <string name="restore_is_running">Аднаўленне прылады</string>
     <string name="notif_backup_title">Стварэнне рэзервовай копіі дадзеных</string>
@@ -566,6 +570,7 @@ https://appleid.apple.com/#!&amp;page=signin"</string>
 неабходна стварыць рэзервовую копію iCloud."</string>
     <string name="list_footer_tip_title">Парады:</string>
     <string name="import_tip_summary">З-за праблем з сумяшчальнасцю, вы можаце перадаваць дадзеныя з iOS прылад толькі часткова. Праверце перад пачаткам перадачы наяўнасць створанай рэзервовай копіі.</string>
+    <string name="import_tip_message">@string/icloud_how_to_backup_tip_steps</string>
     <string name="button_import">Імпарт</string>
     <string name="select_empty">Выберыце элементы для імпарту</string>
     <string name="select_item_summary_wait">Чаканне…</string>
@@ -638,4 +643,11 @@ https://appleid.apple.com/#!&amp;page=signin"</string>
 Вызваліце месца або перадавайце дадзеныя па частках."</string>
     <string name="usb_trans_old_phone_low_space_title">Недастаткова вольнага месца</string>
     <string name="usb_trans_old_phone_low_space_msg">"Для пакавання рэзервовых копій патрабуецца дадатковая памяць. Недастаткова месца. Вызваліце месца і выдаліце непатрэбныя файлы праз \"Бяспеку\" або паспрабуйце перадаць толькі важныя аб'екты."</string>
+    <string name="dialog_app_upgrade_message">Даступная новая версія Mi Mover. Абнавіць Mi Mover зараз?</string>
+    <string name="dialog_app_upgrade_exit">Выхад</string>
+    <string name="dialog_app_upgrade_download">Абнавіць</string>
+    <string name="dialog_backup_password_change_machine_tips">"You won't be able to transfer password-protected backups. Turn off backup password before using Mi Mover."</string>
+    <string name="dialog_backup_password_backup_tips">"Can't back up items when backup password is on. Turn off backup password."</string>
+    <string name="dialog_backup_password_cancel">Cancel</string>
+    <string name="dialog_backup_password_to_settings">Settings</string>
 </resources>

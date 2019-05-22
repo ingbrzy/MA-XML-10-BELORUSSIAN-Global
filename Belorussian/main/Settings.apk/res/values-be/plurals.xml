@@ -30,12 +30,6 @@
         <item quantity="few">Вельмі кароткая затрымка (%1$d мс)</item>
         <item quantity="many">Вельмі кароткая затрымка (%1$d мс)</item>
     </plurals>
-    <plurals name="aod_dual_togother_city">
-        <item quantity="other">" %1$s гадзін %2$s"</item>
-        <item quantity="one">" %1$s гадзіна %2$s"</item>
-        <item quantity="few">" %1$s гадзіны %2$s"</item>
-        <item quantity="many">" %1$s гадзін %2$s"</item>
-    </plurals>
     <plurals name="app_notification_listing_summary_others">
         <item quantity="other">Выключана для %d праграмы</item>
         <item quantity="one">Выключана для %d праграмы</item>

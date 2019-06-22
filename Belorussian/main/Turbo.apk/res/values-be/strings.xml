@@ -42,6 +42,14 @@
     <string name="common_google_play_services_update_text">%1$s не будзе працаваць, пакуль вы не абновіце службы Google Play.</string>
     <string name="common_google_play_services_update_title">Абнаўленне службаў Google Play</string>
     <string name="common_google_play_services_updating_text">%1$s не будзе працаваць без службаў Google Play, якія ў цяперашні час абнаўляюцца.</string>
+    <string name="early_warning_android_system">Сістэма Android</string>
+    <string name="early_warning_feedback_action">Водгук</string>
+    <string name="early_warning_feedback_body">Напішыце свой водгук тут</string>
+    <string name="early_warning_feedback_chooser_text">Выберыце праграму электроннай пошты</string>
+    <string name="early_warning_feedback_subject">Водгук аб апавяшчэнні функцыі Early Warning</string>
+    <string name="early_warning_notification_channel_name">Папярэджанне аб узроўні зараду батарэі</string>
+    <string name="early_warning_notification_text">Гэта адбудзецца раней, чым звычайна</string>
+    <string name="early_warning_notification_title">Акумулятар можа разрадзіцца ў %1$s</string>
     <string name="icon_content_description">Значок дыялогавага акна</string>
     <string name="password_toggle_content_description">Паказаць пароль</string>
     <string name="ssb_clear_data_activity_name">Скінуць налады адаптыўнай яркасці?</string>

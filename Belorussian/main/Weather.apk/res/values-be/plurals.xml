@@ -54,6 +54,30 @@
         <item quantity="few">"&lt;font color='#20a7ff'>%1$s&lt;/font> галасы"</item>
         <item quantity="many">"&lt;font color='#20a7ff'>%1$s&lt;/font> галасоў"</item>
     </plurals>
+    <plurals name="tts_report_temperature_high_centigrade">
+        <item quantity="other">Максімальная тэмпература: %1$s градусаў Цэльсія</item>
+        <item quantity="one">Максімальная тэмпература: %1$s градус Цэльсія</item>
+        <item quantity="few">Максімальная тэмпература: %1$s градуса Цэльсія</item>
+        <item quantity="many">Максімальная тэмпература: %1$s градусаў Цэльсія</item>
+    </plurals>
+    <plurals name="tts_report_temperature_high_fahrenheit">
+        <item quantity="other">Максімальная тэмпература: %1$s градусаў Фарэнгейта</item>
+        <item quantity="one">Максімальная тэмпература: %1$s градус Фарэнгейта</item>
+        <item quantity="few">Максімальная тэмпература: %1$s градуса Фарэнгейта</item>
+        <item quantity="many">Максімальная тэмпература: %1$s градусаў Фарэнгейта</item>
+    </plurals>
+    <plurals name="tts_report_temperature_low_centigrade">
+        <item quantity="other">Мінімальная тэмпература: %1$s градусаў Цэльсія</item>
+        <item quantity="one">Мінімальная тэмпература: %1$s градус Цэльсія</item>
+        <item quantity="few">Мінімальная тэмпература: %1$s градуса Цэльсія</item>
+        <item quantity="many">Мінімальная тэмпература: %1$s градусаў Цэльсія</item>
+    </plurals>
+    <plurals name="tts_report_temperature_low_fahrenheit">
+        <item quantity="other">Мінімальная тэмпература: %1$s градусаў Фарэнгейта</item>
+        <item quantity="one">Мінімальная тэмпература: %1$s градус Фарэнгейта</item>
+        <item quantity="few">Мінімальная тэмпература: %1$s градуса Фарэнгейта</item>
+        <item quantity="many">Мінімальная тэмпература: %1$s градусаў Фарэнгейта</item>
+    </plurals>
     <plurals name="view_realtime_clear">
         <item quantity="other">Ясна</item>
         <item quantity="one">Ясна</item>

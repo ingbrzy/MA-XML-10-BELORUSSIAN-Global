@@ -78,6 +78,12 @@
         <item quantity="few">%d элементы стужкі віджэтаў</item>
         <item quantity="many">%d элементаў стужкі віджэтаў</item>
     </plurals>
+    <plurals name="dirty_phrase_count">
+        <item quantity="other">%d частых выразаў</item>
+        <item quantity="one">%d частый выраз</item>
+        <item quantity="few">%d частыя выразы</item>
+        <item quantity="many">%d частых выразаў</item>
+    </plurals>
     <plurals name="dirty_secretphoto_count">
         <item quantity="other">"%d схаванага фота не сінхранізавана. Выйдзіце пасля сінхранізацыі ўсіх аб'ектаў, каб захаваць іх; у іншым выпадку аб'екты будуць выдалены."</item>
         <item quantity="one">"%d схаванае фота не сінхранізавана. Выйдзіце пасля сінхранізацыі ўсіх аб'ектаў, каб захаваць іх; у іншым выпадку аб'екты будуць выдалены."</item>

@@ -42,7 +42,6 @@
     <string name="auto_start_warning_title">Запускаць %s аўтаматычна?</string>
     <string name="auto_start_warning_allow">Дазволіць</string>
     <string name="auto_start_warning_deny">Забараніць</string>
-    <string name="call_record_sample_prefix_miui">Выклік</string>
     <string name="call_record_or">" або "</string>
     <string name="caller_info_name_delimiter">" або "</string>
     <string name="first_back_long_press_message">Каб задаць свае дзеянні пры доўгім націсканні кнопак навігацыі, перайдзіце ў Налады > Пашыраныя налады > Кнопкі</string>
@@ -198,12 +197,13 @@
     <string name="popup_camera_front_failed">Не атрымалася адкрыць франтальную камеру. Паспрабуйце яшчэ раз.</string>
     <string name="takeback_camera_front_failed">Не атрымалася зачыніць франтальную камеру. Паспрабуйце яшчэ раз.</string>
     <string name="stop_operate_camera_frequently">Вы занадта часта адкрываеце франтальную камеру.</string>
+    <string name="popup_camera_front_when_use">Праграме Камера зноў патрабуецца адкрыць франтальную камеру. Адкрыць яе зараз?</string>
     <string name="popup_camera_popup_falied_times_calibrate">Не атрымалася адкрыць франтальную камеру некалькі разоў. Откалибруйте камеру.</string>
     <string name="popup_camera_takeback_falied_times_calibrate">Не атрымалася зачыніць франтальную камеру некалькі разоў. Откалибруйте камеру.</string>
     <string name="popup_camera_calibrate_now">Каліброўка</string>
     <string name="popup_camera_calibrate_success">Каліброўка завершана. Вы можаце адкрыць франтальную камеру.</string>
     <string name="popup_camera_calibrate_failed">Памылка каліброўкі</string>
     <string name="popup_camera_using_camera_background">%s выкарыстоўвае франтальную камеру</string>
-    <string name="sim_lock_non_ais_msg">"Your SIM card isn't fully operational with this phone because it doesn't comply with the terms and conditions of your subscription. If you have any questions or need more information about this matter, please contact Xiaomi service centers or the store that sold products to you."</string>
-    <string name="sim_lock_now_ais_title">SIM%1$d</string>
+    <string name="sim_lock_non_ais_msg">Ваша SIM-карта не цалкам сумяшчальная з гэтым тэлефонам, паколькі яна не адпавядае умовам вашай падпіскі. Калі ў вас ёсць якія-небудзь пытанні ці вам патрэбна дадатковая інфармацыя па гэтай праблеме, звярніцеся ў сэрвісны цэнтр Xiaomi або ў краму, якая прадала вам прадукты.</string>
+    <string name="sim_lock_now_ais_title">SIM %1$d</string>
 </resources>

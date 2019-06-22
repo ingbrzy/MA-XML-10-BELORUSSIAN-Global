@@ -74,6 +74,12 @@ total %2$d songs"</item>
         <item quantity="few">%d comments</item>
         <item quantity="many">%d comments</item>
     </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">%d дзён таму</item>
+        <item quantity="one">%d дзень таму</item>
+        <item quantity="few">%d дні таму</item>
+        <item quantity="many">%d дзён таму</item>
+    </plurals>
     <plurals name="dialog_confirm_delete_downloads_message">
         <item quantity="other">"Выдаліць %d аб'ектаў?"</item>
         <item quantity="one">"Выдаліць %d аб'ект?"</item>

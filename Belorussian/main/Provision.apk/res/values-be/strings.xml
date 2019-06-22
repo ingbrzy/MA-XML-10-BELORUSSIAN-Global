@@ -56,6 +56,7 @@
     <string name="terms_of_use_label_systemhelper">, самастойная рэгістрацыя</string>
     <string name="terms_of_use_lable_smart_cards">, смарт-карты</string>
     <string name="terms_of_use_lable_vsimcore">, MConnService</string>
+    <string name="terms_of_use_label_updater">, Абнаўленне</string>
     <string name="terms_of_use_lable_default_input_method_facemoji">"
 
 Перад выкарыстаннем гэтага сродку вам неабходна прыняць Палітыку канфідэнцыяльнасці Facemoji."</string>
@@ -123,6 +124,6 @@
     <string name="locale_picker_other_locale_title">Дадатковыя рэгіёны</string>
     <string name="skip_gesture_guide_dialog_title">Поўнаэкранныя жэсты</string>
     <string name="skip_gesture_guide_dialog_message">Перад выбарам гэтай опцыі пераканайцеся, што вы ўмееце выкарыстоўваць поўнаэкранныя жэсты.</string>
-    <string name="skip_gesture_guide_dialog_negative_btn">Адмена</string>
+    <string name="skip_gesture_guide_dialog_negative_btn">Скасаваць</string>
     <string name="skip_gesture_guide_dialog_positive_btn">OK</string>
 </resources>

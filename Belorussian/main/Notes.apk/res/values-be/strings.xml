@@ -127,6 +127,7 @@
     <string name="note_sort_way">Выберыце, як вы хочыце сартыраваць нататкі</string>
     <string name="notealert_enter">Адкрыць нататку</string>
     <string name="notealert_ok">Зачыніць</string>
+    <string name="notelist_string_info">…</string>
     <string name="notify_alarm_title">Нататкавы напамін</string>
     <string name="permdesc_accessNote">Злаўмысныя праграмы могуць выкарыстоўваць гэты дазвол для атрымання вашых асабістых дадзеных.</string>
     <string name="permission_intro_contact">Маркіроўка нататак, зробленых падчас выклікаў</string>
@@ -134,13 +135,13 @@
     <string name="permission_intro_phone">Маркіроўка нататак, зробленых падчас выклікаў</string>
     <string name="permission_intro_storage">Захаванне нататак і укладанняў</string>
     <string name="permlab_accessNote">Доступ да нататак</string>
-    <string name="pref_desc_skip_confirm_for_quick_delete">Не пытаць падцверджанне пры выдаленні нататак з дапамогай жэста</string>
+    <string name="pref_desc_skip_confirm_for_quick_delete">Правядзіце ўверх двума пальцамі для выдалення нататак без пацверджання</string>
     <string name="pref_title_cloud_trash_bin">Выдаленыя нататкі ў Mi Cloud</string>
     <string name="pref_title_common">Дадатковыя налады</string>
     <string name="pref_title_font_size">Памер шрыфту</string>
     <string name="pref_title_note_style">Стыль</string>
     <string name="pref_title_show_root_folder_in_homepage">Паказваць толькі хуткія нататкі на галоўнай старонцы</string>
-    <string name="pref_title_skip_confirm_for_quick_delete">Хуткае выдаленне</string>
+    <string name="pref_title_skip_confirm_for_quick_delete">Выдаленне з дапамогай жэсту</string>
     <string name="recover_notes_hint">Здарылася памылка, перайдзіце на i.mi.com, каб аднавіць нататкі.</string>
     <string name="redo">Вярнуць</string>
     <string name="refuse_to_open_as_pic_because_of_loading">Пачакайце, пакуль нататка загрузіцца і паспрабуйце зноў.</string>
@@ -208,6 +209,7 @@
     <string name="toast_notes_hidden_edit">Нататка паспяхова схаваная. Пацягніце ўніз для прагляду схаваных нататак.</string>
     <string name="toast_notes_hidden_home">Нататка паспяхова схаваная. Пацягніце ўніз для прагляду схаваных нататак.</string>
     <string name="toast_notes_unhidden">Утойванне нататкі скасавана</string>
+    <string name="toast_pic_is_not_really">Захаванне выявы…</string>
     <string name="toast_reach_text_limit_attachment">Немагчыма прымацаваць файл. Няма вольнага месца ў нататцы</string>
     <string name="toast_reach_text_limit_checkbox">Немагчыма дадаць сцяжок, таму што нататка занадта вялікая</string>
     <string name="toast_reach_text_limit_truncate">Нататка занадта доўгая. Тэкст у канцы быў абрэзаны.</string>

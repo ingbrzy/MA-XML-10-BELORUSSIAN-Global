@@ -64,6 +64,7 @@
     <string name="alert_reminder_divider">|</string>
     <string name="alert_reminder_expired">Тэрмін дзеяння скончыўся</string>
     <string name="alert_title">Апавяшчэнні календара</string>
+    <string name="all_events">Усе падзеі</string>
     <string name="anniversary_event_title">Гадавіна: %1$s</string>
     <string name="anniversary_secondary_tag">Юбілей</string>
     <string name="app_label">Каляндар</string>
@@ -135,6 +136,7 @@
     <string name="date_interval_text_to">Да %1$s</string>
     <string name="date_jump_hint">Адразу перайсці да пэўнай даты</string>
     <string name="date_jump_title">Перайсці да даты</string>
+    <string name="date_time_fmt" formatted="false">%s, %s</string>
     <string name="date_today">" (сёння)"</string>
     <string name="day_view_new_event_hint">Новая падзея</string>
     <string name="default_reminder_mode">Апавяшчэнні</string>
@@ -344,6 +346,7 @@
     <string name="preferences_default_reminder_title">Час нагадванні па змаўчанні</string>
     <string name="preferences_home_tz_title">Мой часавы пояс</string>
     <string name="preferences_notification_ringtone_title">Гук</string>
+    <string name="preferences_show_indic_date_title">Паказаць Індыйскі каляндар</string>
     <string name="preferences_title">Каляндар</string>
     <string name="preferences_use_home_tz_descrip">Заўсёды паказваць ў календары час у зададзеным часавым поясе</string>
     <string name="preferences_use_home_tz_title">Выкарыстоўваць хатні часавы пояс</string>
@@ -403,10 +406,12 @@
     <string name="setting_others">Дадаткова</string>
     <string name="setting_title_about">Падрабязна</string>
     <string name="setting_title_holiday_display">Паказаць святы</string>
+    <string name="setting_title_policy">Палітыка прыватнасці</string>
     <string name="share_image">Падзяліцца</string>
     <string name="share_image_label">Падзяліцца праз</string>
     <string name="share_title">Падзяліцца</string>
     <string name="show_day_view">Паказаць дзень</string>
+    <string name="show_indic_date_summary">Індыйскі каляндар даступны, калі ў якасці мовы вашай сістэмы усталявана адна з моў Індыі</string>
     <string name="start_date_calculate">Падлічыць</string>
     <string name="storage_permission_denied">Спачатку дазвольце доступ да памяці</string>
     <string name="subscribe_card">Падпісацца</string>

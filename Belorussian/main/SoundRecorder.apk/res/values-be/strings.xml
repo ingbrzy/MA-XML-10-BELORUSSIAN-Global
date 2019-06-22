@@ -9,6 +9,9 @@
     <string name="button_queue_for_wifi">Адкласці</string>
     <string name="button_start_now">Спампаваць</string>
     <string name="call_record">Запісаныя выклікі</string>
+    <string name="call_record_list_group_all">Усе</string>
+    <string name="call_record_list_group_connected">Падключана</string>
+    <string name="call_record_list_group_unconnected">Не падключана</string>
     <string name="clear_records">Выдаленне сінхранізаваных запісаў</string>
     <string name="cloud_record_open">Сінхранізаваць запісы</string>
     <string name="cloud_record_tip">Сінхранізаваць запісы з Mi Cloud.</string>
@@ -133,13 +136,14 @@
     <string name="preference_enable_earpiece_summary">Выкарыстоўваць размоўны дынамік для прайгравання</string>
     <string name="preference_enable_earpiece_title">Размоўны дынамік для прайгравання аўдыя</string>
     <string name="preference_led_indicator">Індыкатар запісу</string>
-    <string name="preference_led_indicator_prompt">Адлюстроўваць ярлык у панэлі стану і міргаць святладыёдам пры запісе ў заблакаваным рэжыме</string>
+    <string name="preference_led_indicator_prompt">Паказваць значок у радку стану і міргаць індыкатарам апавяшчэння пры запісе</string>
     <string name="preference_online_orders">Анлайн-заказы</string>
     <string name="preference_recog_faqs">Частыя пытанні пра анлайн расшыфроўку аўдыё</string>
     <string name="preference_recog_terms">Умовы выкарыстання</string>
     <string name="preference_record_scenes_dialog_title">Выберыце тып запісу</string>
     <string name="preference_scenes">Рэжым запісу</string>
     <string name="preference_silent_mode">Адключыць гук выкліку пры запісу</string>
+    <string name="preference_status_bar_indicator_prompt">Паказваць значок у радку стану падчас запісу</string>
     <string name="preference_tip_rename">Даваць імёны запісам уручную</string>
     <string name="privacy_policy_title">Палітыка канфідэнцыяльнасці</string>
     <string name="recognition_error_cancel">Скасавана</string>
@@ -231,6 +235,9 @@
     <string name="service_instructions">Аб iflyrec.com</string>
     <string name="share">Падзяліцца</string>
     <string name="share_dialog_title">Падзяліцца з дапамогаю</string>
+    <string name="shortcut_records">Запісы</string>
+    <string name="shortcut_start_record">Пачаць запіс</string>
+    <string name="shortcut_stop_record">Спыніць запіс</string>
     <string name="sound_recorder_settings">Налады</string>
     <string name="speech_recognition_complete">Расшыфравана</string>
     <string name="speech_recognition_running_tip">"Апрацоўка "</string>

@@ -92,6 +92,7 @@
     <string name="hints_apk_header_left">Пакеты</string>
     <string name="hints_residual_header_left">Рэшткі файлаў</string>
     <string name="hints_memory_header_left">Памяць</string>
+    <string name="hints_header_left">%d</string>
     <string name="hints_large_file_header_left">Вялікія файлы: %d</string>
     <string name="hints_installed_apps_header_left">Усталяваныя праграмы: %d</string>
     <string name="toast_resolve_apk_error">Рашыць праблему файла apk</string>
@@ -186,8 +187,6 @@
     <string name="toast_backup_uninstall_success">Стварэнне рэзервовай копіі і выдаленне завершана</string>
     <string name="activity_title_cache_data">Дадзеныя праграм</string>
     <string name="deepclean_cache_header_left">Файлы: %d</string>
-    <string name="notification_title_of_garbage_cleanup">%s смецця</string>
-    <string name="notification_summary_of_garbage_cleanup">Націсніце, каб вызваліць месца.</string>
     <string name="notification_summary_after_auto_cleanup">Ачышчана %s.</string>
     <string name="toast_uninstall_success">Выдаленне завершана</string>
     <string name="toast_app_no_residual_on_sdcard">Праграма не мае дадзеных на SD-карце</string>
@@ -300,6 +299,7 @@
     <string name="downloading">Спампоўка</string>
     <string name="installing">Усталёўка</string>
     <string name="start_install">Усталяваць</string>
+    <string name="empty">" "</string>
     <string name="open_browser">Адкрыць у браўзеры</string>
     <string name="title_share_link">Падзяліцца спасылкай</string>
     <string name="connecting">Злучэнне…</string>
@@ -538,7 +538,7 @@
     <string name="whatsapp_delete_done">Зроблена</string>
     <string name="whatsapp_title">Ачыстка WhatsApp</string>
     <string name="whatsapp_function_title">Ачыстка WhatsApp</string>
-    <string name="whatsapp_function_summery">Ачысціць укладанні ў WhatsApp</string>
+    <string name="whatsapp_function_summery">Выдаліце прымацаванні WhatsApp</string>
     <string name="clean_summary">Ачышчана %1$s</string>
     <string name="onekeyclean_boosting_title">Паскарэнне</string>
     <string name="onekeyclean_boosted_title">Ачышчана паспяхова</string>
@@ -566,4 +566,10 @@
     <string name="one_tap_clean_M">%dМБ</string>
     <string name="one_tap_clean_GB">%sГБ</string>
     <string name="security_center_slogan">Бяспека. Заўсёды на варце.</string>
+    <string name="notification_garbage_cleanup_title">Выдаліць смеццевыя файлы</string>
+    <string name="notification_garbage_cleanup_summary">Памер смецця дасягнуў %s</string>
+    <string name="notification_low_memory_cache_title">Ачысціць кэш</string>
+    <string name="notification_low_memory_cache_summary">Засталося меней 1,5 ГБ вольнага месца ў сховішчы</string>
+    <string name="notification_low_memory_deepclean_title">Месца ў сховішчы заканчваецца</string>
+    <string name="notification_low_memory_deepclean_summary">Глыбокая ачыстка дапаможа вызваліць месца на прыладзе</string>
 </resources>

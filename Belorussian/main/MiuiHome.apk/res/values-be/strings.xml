@@ -2,6 +2,7 @@
 <resources>
     <string name="action_add_to_workspace">Дадаць да працоўнай прасторы</string>
     <string name="activity_not_found">Праграма не знойдзеная</string>
+    <string name="activity_not_unlocked">Да таго як адкрываць праграмы, дачакайцеся поўнага завяршэння перазагрузкі вашай прылады</string>
     <string name="add_screen">Дадаць экран</string>
     <string name="announce_for_app_move_in_folder">Перамешчана ў пазіцыю %1$d у папцы</string>
     <string name="announce_for_checked">%1$s, праверана</string>
@@ -30,9 +31,11 @@
     <string name="announce_for_open_default_preview">Адчынены налады выбару пачатковага экрана</string>
     <string name="announce_for_open_folder">Адкрыта папка %1$s</string>
     <string name="announce_for_open_launcher_menu">Меню адчынена</string>
+    <string name="announce_for_search_bar">Радок пошуку</string>
     <string name="announce_for_show_uninstall_dialog">Паявіўся дыялог выдалення. Скасуйце або пагадзіцеся.</string>
     <string name="announce_for_unchecked">%1$s, не праверана</string>
     <string name="announce_for_widget_span">Шырыня %1$d, вышыня %2$d</string>
+    <string name="announce_for_xiaoai">Mi AI</string>
     <string name="app_already_exist">Праграма ўжо існуе</string>
     <string name="app_being_backup_message">Ствараецца рэзервовая копія праграмы</string>
     <string name="app_being_restored_message">Праграма аднаўляецца</string>
@@ -92,6 +95,7 @@
     <string name="defalut_launcher_title">Працоўны стол па змаўчанні</string>
     <string name="default_folder_title_claro">Claro</string>
     <string name="default_folder_title_game">Гульні</string>
+    <string name="default_folder_title_meitu">Праграмы Meitu</string>
     <string name="default_folder_title_microsoft">Microsoft</string>
     <string name="default_folder_title_recommend">Іншыя праграмы</string>
     <string name="default_folder_title_security">Сістэма</string>
@@ -131,7 +135,7 @@
     <string name="encryption">Шыфраванне</string>
     <string name="failed_to_delete_temporary">Не атрымалася выдаліць</string>
     <string name="failed_to_drop">Не атрымалася перамясціць</string>
-    <string name="failed_to_drop_widget_invalid">This widget is invalid</string>
+    <string name="failed_to_drop_widget_invalid">Некарэктны віджэт</string>
     <string name="failed_to_load_image">Не атрымалася загрузіць выяву</string>
     <string name="folder_name">Папка</string>
     <string name="frame_load_failed">Не атрымалася загрузіць фотарамку</string>
@@ -174,7 +178,7 @@
     <string name="gadget_weather_download_message">Неабходна спампаваць даныя: %1$s (%2$s). Перазапусціце праграму па заканчэнні загрузкі.</string>
     <string name="gadget_weather_download_start">Спампаваць</string>
     <string name="gadget_weather_download_title">Спампаваць</string>
-    <string name="gadget_weather_downloading">Downloading app content. Restart the app after download completes.</string>
+    <string name="gadget_weather_downloading">Дадзеныя праграмы пампуюцца. Перазапусціце праграму пасля завяршэння спампоўкі.</string>
     <string name="gadget_weather_loading">Няма дадзеных</string>
     <string name="gadget_weather_low_temp">Нізкая тэмпература</string>
     <string name="gadget_weather_theme_type">Тып віджэту</string>
@@ -188,7 +192,7 @@
     <string name="group_shortcuts">Ярлыкі</string>
     <string name="guide_install_app_msg">Гэта праграма не ўсталявана на вашай прыладзе. Знайсці і ўсталяваць яе?</string>
     <string name="guide_install_app_title">Знайсці і ўсталяваць праграму?</string>
-    <string name="guide_tips_editing_mode">Press &amp; hold to pick up a widget</string>
+    <string name="guide_tips_editing_mode">Націсніце і ўтрымлівайце, каб выбраць віджэт</string>
     <string name="home_gesture_content_center">Кантэнт-цэнтр</string>
     <string name="home_gesture_global_search">Пошук</string>
     <string name="home_gesture_no_action">Адсутнічае</string>
@@ -288,6 +292,8 @@
     <string name="preferences_general_title">Дадатковыя налады</string>
     <string name="preferences_title">Налады рабочага стала</string>
     <string name="preferred_app_settings_not_selected">Не выбрана</string>
+    <string name="privacy_thumbnail_blur_summary">Размываць мініяцюры праграм у Апошніх</string>
+    <string name="privacy_thumbnail_blur_title">Размываць мініяцюры праграм</string>
     <string name="quick_app">Быстрыя праграмы</string>
     <string name="recents_config_title">Апошнія</string>
     <string name="recommend_apk_size_and_desc">%1$dMB | %2$s</string>
@@ -315,6 +321,9 @@
     <string name="setting_wallpaper_tip">Перамяшчайце або мяняйце памер</string>
     <string name="settings">Налады</string>
     <string name="settings_shortcut">Налады</string>
+    <string name="shake_to_align_icons">Падтрасіце прыладу для запаўнення пустых ячэяк значкамі</string>
+    <string name="shake_to_align_icons_summary">Адкрыйце рэжым рэдагавання і падтрасіце прыладу, каб аўтаматычна запоўніць пустыя ячэйкі значкамі</string>
+    <string name="shake_to_align_icons_title">Падтрасіце для запаўнення пустых ячэяк</string>
     <string name="share">Падзяліцца</string>
     <string name="show_all">Паказаць усе</string>
     <string name="show_mem_info_title">Паказваць стан памяці</string>
@@ -324,11 +333,13 @@
     <string name="sort_by_not_defined">Па парадку</string>
     <string name="start_activity_failed">Не атрымалася запусціць рабочы стол</string>
     <string name="starting_preset_app">Запуск…</string>
+    <string name="status_bar_notification_info_overflow">больш за 999</string>
     <string name="status_downloaded">Спампавана</string>
     <string name="status_downloading">Спампоўка</string>
     <string name="status_installing">Усталёўка</string>
     <string name="status_paused">Прыпынена</string>
     <string name="status_pending">Чаканне</string>
+    <string name="system_shortcuts_more_operation">Звесткі пра праграму</string>
     <string name="title_jeejen">Працоўны стол Jeejen</string>
     <string name="title_select_live_folder">Выберыце папку</string>
     <string name="title_select_shortcut">Выберыце ярлык</string>
@@ -367,9 +378,4 @@
     <string name="widget_global_search">Пошук</string>
     <string name="widget_quick_function">Хуткі доступ</string>
     <string name="widgets_preview_title">Дадаць віджэт</string>
-    <string name="activity_not_unlocked">Да таго як адкрываць праграмы, дачакайцеся поўнага завяршэння перазагрузкі вашай прылады</string>
-    <string name="default_folder_title_meitu">Meitu</string>
-    <string name="privacy_thumbnail_blur_summary">Размываць мініяцюры праграм у Апошніх</string>
-    <string name="privacy_thumbnail_blur_title">Размываць мініяцюры праграм</string>
-    <string name="system_shortcuts_more_operation">Звесткі пра праграму</string>
 </resources>

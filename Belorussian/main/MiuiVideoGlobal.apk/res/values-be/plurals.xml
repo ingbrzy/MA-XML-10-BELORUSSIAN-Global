@@ -54,4 +54,10 @@
         <item quantity="few">Паказаць %d каментарыі</item>
         <item quantity="many">Паказаць %d каментарыяў</item>
     </plurals>
+    <plurals name="subscriber">
+        <item quantity="other"> падпісчыкаў</item>
+        <item quantity="one"> падпісчык</item>
+        <item quantity="few"> падпісчыка</item>
+        <item quantity="many"> падпісчыкаў</item>
+    </plurals>
 </resources>

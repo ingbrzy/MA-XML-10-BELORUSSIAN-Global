@@ -1,8 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="status_bar_notification_info_overflow">больш за 999</string>
+    <string name="common_google_play_services_unknown_issue">У праграмы %1$s узніклі праблемы са службамі Google Play. Паўтарыце спробу.</string>
+    <string name="common_google_play_services_enable_button">Уключыць</string>
+    <string name="common_google_play_services_enable_text">%1$s не будзе працаваць, пакуль вы не ўключыце службы Google Play.</string>
+    <string name="common_google_play_services_enable_title">Уключыць службы Google Play</string>
+    <string name="common_google_play_services_install_button">Усталяваць</string>
+    <string name="common_google_play_services_install_text">%1$s не будзе працаваць без службаў Google Play, якія адсутнічаюць на вашай прыладзе.</string>
+    <string name="common_google_play_services_install_title">Атрымаць службы Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">Даступнасць сэрвісаў Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Памылка службаў Google Play</string>
+    <string name="common_google_play_services_unsupported_text">%1$s не будзе працаваць без службаў Google Play, якія не падтрымліваюцца вашай прыладай.</string>
+    <string name="common_google_play_services_update_button">Абнавіць</string>
+    <string name="common_google_play_services_update_text">%1$s не будзе працаваць, пакуль вы не абновіце службы Google Play.</string>
+    <string name="common_google_play_services_update_title">Абнаўленне службаў Google Play</string>
+    <string name="common_google_play_services_updating_text">%1$s не будзе працаваць без службаў Google Play, якія ў цяперашні час абнаўляюцца.</string>
+    <string name="common_google_play_services_wear_update_text">Патрабуецца новая версія служб Google Play. Яна абновіцца аўтаматычна ў бліжэйшы час.</string>
+    <string name="common_open_on_phone">Адкрыць на тэлефоне</string>
+    <string name="common_signin_button_text">Увайсцi</string>
+    <string name="common_signin_button_text_long">Увайсці праз Google</string>
     <string name="passport_account_label">Mi Акаўнт</string>
     <string name="passport_notification_title">Праблема ўваходу %1$s</string>
-    <string name="passport_login_prompt">Адзін Мі Акаўнт. Усё Мі Сэрвісы.</string>
+    <string name="passport_login_prompt">Усе Mi сэрвісы. Адзін Mi акаўнт.</string>
     <string name="passport_login_using_other_ways">Іншыя спосабы ўваходу</string>
     <string name="passport_register_using_other_ways">Іншыя спосабы рэгістрацыі</string>
     <string name="passport_login_title">Увайдзіце ў Mi Акаўнт</string>
@@ -220,6 +239,10 @@
     <string name="passport_license_info_open">Падрабязнасці</string>
     <string name="passport_license_info_collapse">Згарнуць</string>
     <string name="passport_first_login_prompt">Mi акаўнт будзе створаны аўтаматычна пры першым уваходзе ў сістэму.</string>
+    <string name="passport_wx_bind_account_limit">Зараз немагчыма стварыць акаўнт. Паспрабуйце іншыя метады ўваходу.</string>
+    <string name="facebook_app_id">2263965750590514</string>
+    <string name="fb_login_protocol_scheme">fb2263965750590514</string>
+    <string name="server_client_id">29336734752-hkhmuft60qa4qn1ual7etmp6pfo0ib54.apps.googleusercontent.com</string>
     <string name="search_app_name">Mi Акаўнт</string>
     <string name="search_mi_account">Mi Акаўнт</string>
     <string name="search_mi_account_key_words">Mi Cloud,Налады акаўнта,Дадзеныя Mi Pay,Выйсці</string>
@@ -243,7 +266,6 @@
     <string name="removing_account">Выдаленне акаўнта…</string>
     <string name="delete_bank_card_title">Увага</string>
     <string name="delete_bank_card_message">Пасля выхаду банкаўскія карткі Mi Pay і карткі NFC будуць выдалены.</string>
-    <string name="bind_settings">Дадатковыя акаўнты</string>
     <string name="sina_weibo">Sina Weibo</string>
     <string name="bind_sina_weibo">Падлучыць акаўнт Sina Weibo</string>
     <string name="bind_weibo_description">Дадаць сяброў з Sina Weibo</string>

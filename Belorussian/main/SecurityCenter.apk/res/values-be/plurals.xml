@@ -200,17 +200,89 @@
         <item quantity="few">Дадаць %d хвіліны</item>
         <item quantity="many">Дадаць %d хвілін</item>
     </plurals>
+    <plurals name="pc_main_power_center_battery_day">
+        <item quantity="other">%s дня</item>
+        <item quantity="one">%s дзень</item>
+        <item quantity="few">%s дня</item>
+        <item quantity="many">%s дзён</item>
+    </plurals>
+    <plurals name="pc_main_power_center_battery_hour">
+        <item quantity="other">%s гадзіны</item>
+        <item quantity="one">%s гадзіна</item>
+        <item quantity="few">%s гадзіны</item>
+        <item quantity="many">%s гадзін</item>
+    </plurals>
+    <plurals name="pc_main_power_center_battery_minute">
+        <item quantity="other">%s хвіліны</item>
+        <item quantity="one">%s хвіліна</item>
+        <item quantity="few">%s хвіліны</item>
+        <item quantity="many">%s хвілін</item>
+    </plurals>
+    <plurals name="power_main_battery_last_day">
+        <item quantity="other">%s days remaining</item>
+        <item quantity="one">%s day remaining</item>
+        <item quantity="few">%s days remaining</item>
+        <item quantity="many">%s days remaining</item>
+    </plurals>
+    <plurals name="power_main_battery_last_hour">
+        <item quantity="other">%s hours remaining</item>
+        <item quantity="one">%s hour remaining</item>
+        <item quantity="few">%s hours remaining</item>
+        <item quantity="many">%s hours remaining</item>
+    </plurals>
+    <plurals name="power_main_battery_last_minute">
+        <item quantity="other">%s minutes remaining</item>
+        <item quantity="one">%s minute remaining</item>
+        <item quantity="few">%s minutes remaining</item>
+        <item quantity="many">%s minutes remaining</item>
+    </plurals>
+    <plurals name="pc_main_sub_battery_text_day">
+        <item quantity="other">Засталося %s дзён</item>
+        <item quantity="one">Застаўся %s дзень</item>
+        <item quantity="few">Засталося %s дня</item>
+        <item quantity="many">Засталося %s дзён</item>
+    </plurals>
+    <plurals name="pc_main_sub_battery_text_hour">
+        <item quantity="other">%s hours remaining</item>
+        <item quantity="one">%s hour remaining</item>
+        <item quantity="few">%s hours remaining</item>
+        <item quantity="many">%s hours remaining</item>
+    </plurals>
+    <plurals name="pc_main_sub_battery_text_minute">
+        <item quantity="other">%s minutes remaining</item>
+        <item quantity="one">%s minute remaining</item>
+        <item quantity="few">%s minutes remaining</item>
+        <item quantity="many">%s minutes remaining</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_day">
+        <item quantity="other">%s days until fully charged</item>
+        <item quantity="one">%s day until fully charged</item>
+        <item quantity="few">%s days until fully charged</item>
+        <item quantity="many">%s days until fully charged</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_hour">
+        <item quantity="other">%s hours until fully charged</item>
+        <item quantity="one">%s hour until fully charged</item>
+        <item quantity="few">%s hours until fully charged</item>
+        <item quantity="many">%s hours until fully charged</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_minute">
+        <item quantity="other">%s minutes until fully charged</item>
+        <item quantity="one">%s minute until fully charged</item>
+        <item quantity="few">%s minutes until fully charged</item>
+        <item quantity="many">%s minutes until fully charged</item>
+    </plurals>
     <plurals name="notification_battery_scan_consume_abnormal_title_split">
-        <item quantity="other">%2$d apps, including %1$s, are draining battery</item>
-        <item quantity="one">%2$d app, including %1$s, is draining battery</item>
-        <item quantity="few">%2$d apps, including %1$s, are draining battery</item>
-        <item quantity="many">%2$d apps, including %1$s, are draining battery</item>
+        <item quantity="other">%2$d праграм, уключаючы %1$s, разраджае батарэю</item>
+        <item quantity="one">%2$d праграма, уключаючы %1$s, разраджае батарэю</item>
+        <item quantity="few">%2$d праграмы, уключаючы %1$s, разраджае батарэю</item>
+        <item quantity="many">%2$d праграм, уключаючы %1$s, разраджае батарэю</item>
     </plurals>
     <plurals name="pc_abnormal_scan_result_model_result_title">
-        <item quantity="other">%d apps are draining battery</item>
-        <item quantity="one">%d app is draining battery</item>
-        <item quantity="few">%d apps are draining battery</item>
-        <item quantity="many">%d apps are draining battery</item>
+        <item quantity="other">%d праграм разраджаюць батарэю</item>
+        <item quantity="one">%d праграма разраджае батарэю</item>
+        <item quantity="few">%d праграмы разраджаюць батарэю</item>
+        <item quantity="many">%d праграм разраджаюць батарэю</item>
     </plurals>
     <plurals name="people">
         <item quantity="other">Спамповак: %1$d</item>
@@ -567,10 +639,10 @@
         <item quantity="many">Адзначана %d разоў запар</item>
     </plurals>
     <plurals name="function_shield_num">
-        <item quantity="other">%d features</item>
-        <item quantity="one">%d feature</item>
-        <item quantity="few">%d features</item>
-        <item quantity="many">%d features</item>
+        <item quantity="other">%d функцый</item>
+        <item quantity="one">%d функцыя</item>
+        <item quantity="few">%d функцыі</item>
+        <item quantity="many">%d функцый</item>
     </plurals>
     <plurals name="hide_txt_hint_with_blank_2">
         <item quantity="other">    +%1$d сімвалаў</item>

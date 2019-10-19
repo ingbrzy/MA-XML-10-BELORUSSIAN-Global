@@ -66,6 +66,12 @@
         <item quantity="few">"(%d аб'екты)"</item>
         <item quantity="many">"(%d аб'ектаў)"</item>
     </plurals>
+    <plurals name="album_photo_count_text">
+        <item quantity="other">"%1$d аб'ектаў"</item>
+        <item quantity="one">"%1$d аб'ект"</item>
+        <item quantity="few">"%1$d аб'екта"</item>
+        <item quantity="many">"%1$d аб'ектаў"</item>
+    </plurals>
     <plurals name="baby_album_sharer_recommand_new_pictures">
         <item quantity="other">%1$d фота з %2$s будуць дададзены</item>
         <item quantity="one">%1$d фота з %2$s будзе дададзена</item>
@@ -91,10 +97,10 @@
         <item quantity="many">"%d аб'ектаў занадта вялікія для рэзервовага капіявання"</item>
     </plurals>
     <plurals name="backup_pause_desc">
-        <item quantity="other">%d фота і відэа | Паўза</item>
-        <item quantity="one">%d фота ці відэа | Паўза</item>
-        <item quantity="few">%d фота ці відэа | Паўза</item>
-        <item quantity="many">%d фота і відэа | Паўза</item>
+        <item quantity="other">Узнавіцца праз %d хв.</item>
+        <item quantity="one">Узнавіцца праз %d хв.</item>
+        <item quantity="few">Узнавіцца праз %d хв.</item>
+        <item quantity="many">Узнавіцца праз %d хв.</item>
     </plurals>
     <plurals name="backuping_desc_gprs">
         <item quantity="other">%1$d фота і відэа | %2$s</item>
@@ -115,16 +121,22 @@
         <item quantity="many">%d фота</item>
     </plurals>
     <plurals name="burst_save_confirm_dialog_message">
-        <item quantity="other">Захаваць %d абраных фота і выдаліць астатнія?</item>
-        <item quantity="one">Захаваць %d абранае фота і выдаліць астатнія?</item>
-        <item quantity="few">Захаваць %d абраных фота і выдаліць астатнія?</item>
-        <item quantity="many">Захаваць %d абраных фота і выдаліць астатнія?</item>
+        <item quantity="other">Выдаліць %d не абраных вамі фото?</item>
+        <item quantity="one">Выдаліць %d не абранае вамі фото?</item>
+        <item quantity="few">Выдаліць %d не абраных вамі фото?</item>
+        <item quantity="many">Выдаліць %d не абраных вамі фото?</item>
+    </plurals>
+    <plurals name="burst_save_confirm_dialog_title">
+        <item quantity="other">Выдаліць %d фота</item>
+        <item quantity="one">Выдаліць %d фота</item>
+        <item quantity="few">Выдаліць %d фота</item>
+        <item quantity="many">Выдаліць %d фота</item>
     </plurals>
     <plurals name="burst_save_selected">
-        <item quantity="other">Захаваць %d абраных фота</item>
-        <item quantity="one">Захаваць %d абранае фота</item>
-        <item quantity="few">Захаваць %d абраных фота</item>
-        <item quantity="many">Захаваць %d абраных фота</item>
+        <item quantity="other">Пакінуць %d абраных фота</item>
+        <item quantity="one">Пакінуць %d абранае фота</item>
+        <item quantity="few">Пакінуць %d абраных фота</item>
+        <item quantity="many">Пакінуць %d абраных фота</item>
     </plurals>
     <plurals name="cloud_storage_photo_num">
         <item quantity="other">%d фота</item>
@@ -157,10 +169,10 @@
         <item quantity="many">"Выбрана %d аб'ектаў"</item>
     </plurals>
     <plurals name="delete_burst_photo_from_all_devices_and_cloud_msg">
-        <item quantity="other">Выдаліць %d серый здымкаў з Mi Cloud і ўсіх сінхранізаваных прылад?</item>
-        <item quantity="one">Выдаліць %d серыю здымкаў з Mi Cloud і ўсіх сінхранізаваных прылад?</item>
-        <item quantity="few">Выдаліць %d серыі здымкаў з Mi Cloud і ўсіх сінхранізаваных прылад?</item>
-        <item quantity="many">Выдаліць %d серый здымкаў з Mi Cloud і ўсіх сінхранізаваных прылад?</item>
+        <item quantity="other">Выдаліць %d серый здымкаў з Xiaomi Cloud і ўсіх сінхранізаваных прылад?</item>
+        <item quantity="one">Выдаліць %d серыю здымкаў з Xiaomi Cloud і ўсіх сінхранізаваных прылад?</item>
+        <item quantity="few">Выдаліць %d серыі здымкаў з Xiaomi Cloud і ўсіх сінхранізаваных прылад?</item>
+        <item quantity="many">Выдаліць %d серый здымкаў з Xiaomi Cloud і ўсіх сінхранізаваных прылад?</item>
     </plurals>
     <plurals name="delete_burst_photo_from_local">
         <item quantity="other">Выдаліць %d серый здымкаў?</item>
@@ -169,16 +181,22 @@
         <item quantity="many">Выдаліць %d серый здымкаў?</item>
     </plurals>
     <plurals name="delete_burst_photo_from_this_album_and_cloud_msg">
-        <item quantity="other">Выдаліць %d серый здымкаў з Mi Cloud і гэтай прылады?</item>
-        <item quantity="one">Выдаліць %d серыю здымкаў з Mi Cloud і гэтай прылады?</item>
-        <item quantity="few">Выдаліць %d серыі здымкаў з Mi Cloud і гэтай прылады?</item>
-        <item quantity="many">Выдаліць %d серый здымкаў з Mi Cloud і гэтай прылады?</item>
+        <item quantity="other">Выдаліць %d серый здымкаў з Xiaomi Cloud і гэтай прылады?</item>
+        <item quantity="one">Выдаліць %d серыю здымкаў з Xiaomi Cloud і гэтай прылады?</item>
+        <item quantity="few">Выдаліць %d серыі здымкаў з Xiaomi Cloud і гэтай прылады?</item>
+        <item quantity="many">Выдаліць %d серый здымкаў з Xiaomi Cloud і гэтай прылады?</item>
+    </plurals>
+    <plurals name="delete_finish_format">
+        <item quantity="other">"Выдалены %d аб'ектаў"</item>
+        <item quantity="one">"Выдалены %d аб'ект"</item>
+        <item quantity="few">"Выдалены %d аб'екта"</item>
+        <item quantity="many">"Выдалены %d аб'ектаў"</item>
     </plurals>
     <plurals name="delete_media_from_all_devices_and_cloud_msg">
-        <item quantity="other">"Выдаліць %d аб'екта з усіх прылад і Mi Cloud?"</item>
-        <item quantity="one">"Выдаліць %d аб'ект з усіх прылад і Mi Cloud?"</item>
-        <item quantity="few">"Выдаліць %d аб'екты з усіх прылад і Mi Cloud?"</item>
-        <item quantity="many">"Выдаліць %d аб'ектаў з усіх прылад і Mi Cloud?"</item>
+        <item quantity="other">"Выдаліць %d аб'ектаў з усіх прылад і Xiaomi Cloud?"</item>
+        <item quantity="one">"Выдаліць %d аб'ект з усіх прылад і Xiaomi Cloud?"</item>
+        <item quantity="few">"Выдаліць %d аб'екта з усіх прылад і Xiaomi Cloud?"</item>
+        <item quantity="many">"Выдаліць %d аб'ектаў з усіх прылад і Xiaomi Cloud?"</item>
     </plurals>
     <plurals name="delete_media_from_local">
         <item quantity="other">"Выдаліць %d аб'екта?"</item>
@@ -187,28 +205,28 @@
         <item quantity="many">"Выдаліць %d аб'ектаў?"</item>
     </plurals>
     <plurals name="delete_media_from_this_album_and_cloud_msg">
-        <item quantity="other">"Выдаліць %d аб'екта з гэтага альбома і Mi Cloud?"</item>
-        <item quantity="one">"Выдаліць %d аб'ект з гэтага альбома і Mi Cloud?"</item>
-        <item quantity="few">"Выдаліць %d аб'екты з гэтага альбома і Mi Cloud?"</item>
-        <item quantity="many">"Выдаліць %d аб'ектаў з гэтага альбома і Mi Cloud?"</item>
+        <item quantity="other">"Выдаліць %d аб'ектаў з гэтага альбома і Xiaomi Cloud?"</item>
+        <item quantity="one">"Выдаліць %d аб'ект з гэтага альбома і Xiaomi Cloud?"</item>
+        <item quantity="few">"Выдаліць %d аб'екта з гэтага альбома і Xiaomi Cloud?"</item>
+        <item quantity="many">"Выдаліць %d аб'ектаў з гэтага альбома і Xiaomi Cloud?"</item>
     </plurals>
     <plurals name="delete_photo_from_all_devices_and_cloud_msg">
-        <item quantity="other">Выдаліць %d фота з усіх прылад і Mi Cloud?</item>
-        <item quantity="one">Выдаліць гэта фота з усіх прылад і Mi Cloud?</item>
-        <item quantity="few">Выдаліць %d фота з усіх прылад і Mi Cloud?</item>
-        <item quantity="many">Выдаліць %d фота з усіх прылад і Mi Cloud?</item>
+        <item quantity="other">Выдаліць %d фота з усіх прылад і Xiaomi Cloud?</item>
+        <item quantity="one">Выдаліць %d фота з усіх прылад і Xiaomi Cloud?</item>
+        <item quantity="few">Выдаліць %d фота з усіх прылад і Xiaomi Cloud?</item>
+        <item quantity="many">Выдаліць %d фота з усіх прылад і Xiaomi Cloud?</item>
     </plurals>
     <plurals name="delete_photo_from_local">
         <item quantity="other">Выдаліць %d фота?</item>
-        <item quantity="one">Выдаліць гэта фота?</item>
+        <item quantity="one">Выдаліць %d фота?</item>
         <item quantity="few">Выдаліць %d фота?</item>
         <item quantity="many">Выдаліць %d фота?</item>
     </plurals>
     <plurals name="delete_photo_from_this_album_and_cloud_msg">
-        <item quantity="other">Выдаліць %d фота з гэтага альбома і Mi Cloud?</item>
-        <item quantity="one">Выдаліць гэта фота з гэтага альбома і Mi Cloud?</item>
-        <item quantity="few">Выдаліць %d фота з гэтага альбома і Mi Cloud?</item>
-        <item quantity="many">Выдаліць %d фота з гэтага альбома і Mi Cloud?</item>
+        <item quantity="other">Выдаліць %d фота з гэтага альбома і Xiaomi Cloud?</item>
+        <item quantity="one">Выдаліць %d фота з гэтага альбома і Xiaomi Cloud?</item>
+        <item quantity="few">Выдаліць %d фота з гэтага альбома і Xiaomi Cloud?</item>
+        <item quantity="many">Выдаліць %d фота з гэтага альбома і Xiaomi Cloud?</item>
     </plurals>
     <plurals name="delete_third_party_burst_photo">
         <item quantity="other">Выдаліць %d серый здымкаў з вашай прылады?</item>
@@ -217,22 +235,22 @@
         <item quantity="many">Выдаліць %d серый здымкаў з вашай прылады?</item>
     </plurals>
     <plurals name="delete_video_from_all_devices_and_cloud_msg">
-        <item quantity="other">Выдаліць %d відэа з усіх прылад і Mi Cloud?</item>
-        <item quantity="one">Выдаліць гэта відэа з усіх прылад і Mi Cloud?</item>
-        <item quantity="few">Выдаліць %d відэа з усіх прылад і Mi Cloud?</item>
-        <item quantity="many">Выдаліць %d відэа з усіх прылад і Mi Cloud?</item>
+        <item quantity="other">Выдаліць %d відэа з усіх прылад і Xiaomi Cloud?</item>
+        <item quantity="one">Выдаліць %d відэа з усіх прылад і Xiaomi Cloud?</item>
+        <item quantity="few">Выдаліць %d відэа з усіх прылад і Xiaomi Cloud?</item>
+        <item quantity="many">Выдаліць %d відэа з усіх прылад і Xiaomi Cloud?</item>
     </plurals>
     <plurals name="delete_video_from_local">
         <item quantity="other">Выдаліць %d відэа?</item>
-        <item quantity="one">Выдаліць гэта відэа?</item>
+        <item quantity="one">Выдаліць %d відэа?</item>
         <item quantity="few">Выдаліць %d відэа?</item>
         <item quantity="many">Выдаліць %d відэа?</item>
     </plurals>
     <plurals name="delete_video_from_this_album_and_cloud_msg">
-        <item quantity="other">Выдаліць %d відэа з гэтага альбома і Mi Cloud?</item>
-        <item quantity="one">Выдаліць гэта відэа з гэтага альбома і Mi Cloud?</item>
-        <item quantity="few">Выдаліць %d відэа з гэтага альбома і Mi Cloud?</item>
-        <item quantity="many">Выдаліць %d відэа з гэтага альбома і Mi Cloud?</item>
+        <item quantity="other">Выдаліць %d відэа з гэтага альбома і Xiaomi Cloud?</item>
+        <item quantity="one">Выдаліць %d відэа з гэтага альбома і Xiaomi Cloud?</item>
+        <item quantity="few">Выдаліць %d відэа з гэтага альбома і Xiaomi Cloud?</item>
+        <item quantity="many">Выдаліць %d відэа з гэтага альбома і Xiaomi Cloud?</item>
     </plurals>
     <plurals name="download_error">
         <item quantity="other">Не атрымалася спампаваць %1$d файла</item>
@@ -263,6 +281,12 @@
         <item quantity="one">Прапушчана фота, якое не можа быць адлюстравана.</item>
         <item quantity="few">Прапушчана %1$d фота, якія не могуць быць адлюстраваны.</item>
         <item quantity="many">Прапушчана %1$d фота, якія не могуць быць адлюстраваны.</item>
+    </plurals>
+    <plurals name="file_type_detail_count">
+        <item quantity="other">%1$d файлаў</item>
+        <item quantity="one">%1$d файл</item>
+        <item quantity="few">%1$d файла</item>
+        <item quantity="many">%1$d файлаў</item>
     </plurals>
     <plurals name="number_of_images_and_videos_to_upload">
         <item quantity="other">"%1$d аб'екта ў чаканні сінхранізацыі"</item>
@@ -373,10 +397,10 @@
         <item quantity="many">Прапушчаны %d фота, якія не на прыладзе.</item>
     </plurals>
     <plurals name="quickly_discovery_message_format">
-        <item quantity="other">Знойдзена %1$d новых фота</item>
-        <item quantity="one">Знойдзена %1$d новае фота</item>
-        <item quantity="few">Знойдзена %1$d новых фота</item>
-        <item quantity="many">Знойдзена %1$d новых фота</item>
+        <item quantity="other">Знойдзены %1$d новых фота</item>
+        <item quantity="one">Знойдзена новае фота</item>
+        <item quantity="few">Знойдзены %1$d новых фота</item>
+        <item quantity="many">Знойдзены %1$d новых фота</item>
     </plurals>
     <plurals name="remind_face_recommend_confirm_text">
         <item quantity="other">Усяго %d фота</item>
@@ -419,6 +443,12 @@
         <item quantity="one">Не атрымліваецца падзяліцца. Працягваецца апрацоўка %d фота…</item>
         <item quantity="few">Не атрымліваецца падзяліцца. Працягваецца апрацоўка %d фота…</item>
         <item quantity="many">Не атрымліваецца падзяліцца. Працягваецца апрацоўка %d фота…</item>
+    </plurals>
+    <plurals name="slideshow_interval_value">
+        <item quantity="other">%1$d секунд</item>
+        <item quantity="one">%1$d секунда</item>
+        <item quantity="few">%1$d секунды</item>
+        <item quantity="many">%1$d секунд</item>
     </plurals>
     <plurals name="slim_complete_photo_count">
         <item quantity="other">Аптымізавана %d фота</item>

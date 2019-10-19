@@ -60,19 +60,19 @@
     <string name="wating">Хвілінку…</string>
     <string name="Active">Актываваць</string>
     <string name="ok_button">OK</string>
-    <string name="remove_button">Выдаліць і перазагрузіць</string>
-    <string name="remove_button_time">Выдаліць і перазагрузіць (%ds)</string>
+    <string name="remove_button">Выдаліць</string>
+    <string name="remove_button_time">Выдаліць (%ds)</string>
     <string name="cancel_button">Скасаваць</string>
     <string name="list_empty_text">Пуста</string>
-    <string name="list_empty_text_xspace">Усталюйце WeChat/QQ/Weibo, стварыце клонаў і паспрабуйце зноў.</string>
+    <string name="list_empty_text_xspace">Клануйце яшчэ праграмы і паспрабуйце ізноў.</string>
     <string name="xspace_label">Кланаванне праграм</string>
     <string name="xspace_setting_label">Налады кланавання</string>
     <string name="xspace_account">Акаўнты праграм-клонаў</string>
     <string name="xspace_remove">Выдаліць акаўнты-клоны прыкладанняў</string>
     <string name="declare_dialog_title">Пра кланаванне праграм</string>
     <string name="menu_item_about_privacy_title">Палітыка канфідэнцыяльнасці</string>
-    <string name="stop_xspace_alert_title">Выдаленне акаўнтаў клонаў</string>
-    <string name="stop_xspace_alert_content">Усе клоны прыкладанняў і іх дадзеныя будуць выдалены назаўсёды. Для прымянення змяненняў спатрэбіцца перазагрузка прылады. Выдаліць акаўнты зараз?</string>
+    <string name="stop_xspace_alert_title">Выдаліць акаўнты-клоны праграм</string>
+    <string name="stop_xspace_alert_content">Выдаліць усе клоны праграм разам з іх акаўнтамі і дадзенымі? Для прымянення змяненняў патрабуецца перазагрузка прылады.</string>
     <string name="xspace_loading_msg">Загрузка праграм…</string>
     <string name="xspace_header">Кланаванне праграм</string>
     <string name="xspace_introduce">Рэкамендавана</string>
@@ -295,15 +295,23 @@
     <string name="xspace_weixin_title">WeChat</string>
     <string name="weixin_pay">WeChat Pay</string>
     <string name="weixin_share_sign">Увайсці і падзяліцца</string>
-    <string name="use_xiaoai_open">Абуджаць галасавымі камандамі</string>
+    <string name="use_xiaoai_open">Абуджаць з дапамогай Mi AI</string>
+    <string name="use_google_open">Абуджаць з дапамогай Google Асістэнта</string>
     <string name="xspace_weibo_title">Weibo</string>
     <string name="weibo_send">Адправіць у Weibo</string>
     <string name="xspace_qq_title">QQ</string>
     <string name="qq_send">Накіраваць у QQ</string>
     <string name="qq_login">Увайсці ў QQ</string>
-    <string name="xspace_default_setting_label">Праграма па змаўчанні</string>
-    <string name="xspace_default_app_title">Праграма па змаўчанні</string>
-    <string name="xspace_default_app_summary">Усталяваць праграму па змаўчанні для плацяжоў, сумеснага выкарыстання, выбраных ды іншых.</string>
+    <string name="xspace_whatsapp_title">WhatsApp</string>
+    <string name="whatsapp_send">Адправіць у WhatsApp</string>
+    <string name="xspace_facebook_title">Facebook</string>
+    <string name="facebook_send">Адправіць у Facebook</string>
+    <string name="facebook_login">Увайсці праз Facebook</string>
+    <string name="xspace_instagram_title">Instagram</string>
+    <string name="instagram_send">Адправіць у Instagram</string>
+    <string name="xspace_default_setting_label">Персаналізацыя</string>
+    <string name="xspace_default_app_title">Персаналізацыя</string>
+    <string name="xspace_default_app_summary">Выберыце праграмы па змаўчанні для ўваходу, абмену і галасавога памочніка</string>
     <string name="xspace_default_setting_dialog_title"> змаўчанні</string>
     <string name="xspace_default_guide_notification_content">Націсніце, каб змяніць</string>
     <string name="xspace_default_guide_notification_main_title">Выкарыстоўваецца праграма па змаўчанні</string>
@@ -437,10 +445,12 @@
     <string name="install_error">Не атрымалася ўсталяваць. Паспрабуйце яшчэ раз.</string>
     <string name="ent_install_dialog_content">Усталяваць праграмы і перазагрузіць прыладу зараз?</string>
     <string name="ent_disallow_running">Запуск праграм забаронены</string>
-    <string name="greenguard_child_des_title">"Мне патрэбна дапамога ад сяброў і сям'і"</string>
-    <string name="greenguard_child_des">Выкарыстоўвайце нашу праграму, каб заставацца на сувязі</string>
-    <string name="greenguard_parent_des_title">"Мне патрэбна дапамагчы сябрам і сям'і"</string>
-    <string name="greenguard_parent_des">Спампуйце нашу праграму і дадайце прылады іншых людзей</string>
+    <string name="greenguard_child_des_title">Счытайце QR-код сканерам, каб дадаць прыладу</string>
+    <string name="greenguard_child_des">Кіруйце прыладамі сваіх сяброў і родных</string>
+    <string name="greenguard_parent_des_title">Выкарыстоўвайце Kite Guard для дадання прылад</string>
+    <string name="greenguard_parent_des">Кіруйце прыладамі сваіх сяброў і родных</string>
+    <string name="greenguard_functional_description">"Выдаленае кіраванне прыладамі, прагляд месцазнаходжання,
+контроль усталяваных праграм і абмежаванне выкарыстання"</string>
     <string name="cta_declaration_title">Умовы і палажэнні</string>
     <string name="cta_declaration_message_format" formatted="false">Вы павінны прачытаць і прыняць нашы &lt;font color=%s>&lt;a href=%s>%s&lt;/a>&lt;/font> перад актывацыяй Рэжыму прадпрыемства. Для актывацыі прыладзе патрабуецца падлучэнне да Інтэрнэту. Вы згодны?</string>
     <string name="cta_declaration_agree_and_continue">Згадзіцца</string>
@@ -466,4 +476,5 @@
     <string name="master_clear_not_available">Скід на завадскія налады забаронены вашай кампаніяй.</string>
     <string name="dual_animation">Анімацыя запуску</string>
     <string name="dual_animation_description">Паказваць анімацыю пры запуску клона праграмы</string>
+    <string name="can_not_switch_when_super_power_active">Нельга мяняць прастору пры ўключанай Ультра-эканоміі</string>
 </resources>

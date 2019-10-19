@@ -6,6 +6,9 @@
     <string name="xiaomi_update_dialog_message_diff">"Даступна версія %1$s
 Памер Delta абнаўлення: %2$s"</string>
     <string name="xiaomi_external_storage_unavailable">Сховішча недаступна, праверце SD-карту.</string>
+    <string name="xiaomi_bytes_unit">%1$sБ</string>
+    <string name="xiaomi_kilobytes_unit">%1$sКБ</string>
+    <string name="xiaomi_megabytes_unit">%1$sМБ</string>
     <string name="xiaomi_connect_download_manager_fail">Не атрымалася пачаць спампоўку. Пераканайцеся, што дыспетчар спамповак працуе нармальна.</string>
     <string name="app_name">Рэзервовая копія</string>
     <string name="local_app_name">Рэзервовая копія</string>
@@ -48,8 +51,8 @@
     <string name="camera_summary">Налады камеры (без фота)</string>
     <string name="gallery_summary">Налады Галерэі (без фота)</string>
     <string name="account_summary">Рэзервовае капіяванне акаўнтаў і іншых дадзеных карыстальніка</string>
-    <string name="cloud_app_name">Резервовыя копіі ў Mi Cloud</string>
-    <string name="cloud_home_title">Mi Cloud</string>
+    <string name="cloud_app_name">Рэзервовая копія ў Xiaomi Cloud</string>
+    <string name="cloud_home_title">Xiaomi Cloud</string>
     <string name="prompt_reading">Чытанне…</string>
     <string name="prompt_sending">Адпраўка…</string>
     <string name="prompt_writing">Захаванне…</string>
@@ -57,17 +60,17 @@
     <string name="backup_update">Абнавіць</string>
     <string name="backup_delete">Выдаліць:</string>
     <string name="findlost_contact">Аднавіць кантакты</string>
-    <string name="findlost_contact_online">Аднавіць кантакты з Mi Cloud</string>
+    <string name="findlost_contact_online">Аднавіць кантакты з воблака</string>
     <string name="cloud_backup_login">Увайсці ў Mi Акаўнт</string>
     <string name="cloud_backup_hint">Неабходна аўтарызавацца для стварэння рэзервовай копіі</string>
-    <string name="cloud_backup_window_title">Стварэнне рэзервовых копій у Mi Cloud</string>
-    <string name="cloud_restore_window_title">Аднаўленне з Mi Cloud</string>
+    <string name="cloud_backup_window_title">Рэзервовыя копіі ў Xiaomi Cloud</string>
+    <string name="cloud_restore_window_title">Аднавіць з Xiaomi Cloud</string>
     <string name="cloud_restore_title">Аднавіць</string>
     <string name="local_backup_window_title">Лакальная рэзервовая копія</string>
     <string name="local_restore_window_title">Лакальнае аднаўленне з рэзервовай копіі</string>
     <string name="account_login">Увайсці ў акаўнт</string>
     <string name="miliao_account_login">Увайсці ў Mi Talk</string>
-    <string name="miliao_account_guide">Выкарыстоўвайце Mi Акаўнт для карыстання ўсімі сэрвісамі Xiaomi.</string>
+    <string name="miliao_account_guide">Выкарыстоўвайце свой Mi Акаўнт для ўваходу ў Xiaomi Cloud, Тэмы MIUI і іншыя сэрвісы Mi з любога месца.</string>
     <string name="auto_backup">Расклад для аўтаматычных рэзервовых копій</string>
     <string name="contact_title">Кантакты</string>
     <string name="call_title">Гісторыя выклікаў</string>
@@ -115,7 +118,7 @@
     <string name="sc_network_unavailable">Інтэрнэт недаступны.</string>
     <string name="sc_bad_request">Памылковы запыт</string>
     <string name="sc_unaccess_password_file">Не атрымалася знайсці пароль сеткі Wi-Fi</string>
-    <string name="sc_service_unavailable">Mi Cloud недаступны</string>
+    <string name="sc_service_unavailable">Xiaomi Cloud недаступнае</string>
     <string name="sc_unauthorized">Увайсці зноў</string>
     <string name="sc_request_timeout">Час чакання запыту скончыўся</string>
     <string name="sc_precondition_failed">Да вашага Mi Акаўнта неабходна дадаць адрас email.</string>
@@ -173,7 +176,7 @@
     <string name="deselect_all">Зняць выбар</string>
     <string name="reverse_all">Ачысціць усё</string>
     <string name="refresh">Абнавіць</string>
-    <string name="cloud_item_info_summary">" (Лакальна: %1$s | Mi Cloud%2$s)"</string>
+    <string name="cloud_item_info_summary">(Лакальна: %1$s | Xiaomi Cloud%2$s)</string>
     <string name="cloud_restore_guide">Націсніце \"Пачаць\" для аднаўлення \"%s\"</string>
     <string name="import_from_xiaomi_account_hint1">"1.\u0009Спампуйце Mi Talk і ўвайдзіце ў яго.
 \u0009http://www.miliao.com
@@ -227,6 +230,7 @@
     <string name="restore_backup">Аднаўленне</string>
     <string name="enable_encrypt_description">Шыфраваць</string>
     <string name="disable_encrypt_description">Не шыфраваць</string>
+    <string name="digit_percent">%</string>
     <string name="state_waiting">Хвілінку…</string>
     <string name="state_mounting">Атрыманне доступу да сховішча роўтара…</string>
     <string name="abort_backup_confirm">Стварэнне рэзервовай копіі не скончанае. Спыніць?</string>
@@ -257,7 +261,7 @@
     <string name="err_pkg_not_exist">Праграма не знойдзена.</string>
     <string name="err_user_abort">Скасавана карыстальнікам.</string>
     <string name="err_binder_died">Праграма спынена.</string>
-    <string name="err_no_gms">Несумяшчальная версія праграмы. Усталюйце гэтую праграму асобна.</string>
+    <string name="err_no_gms">Несумяшчальная версія праграмы. Усталюйце гэтую праграму асобна</string>
     <string name="backup_is_running">Стварэнне рэзервовай копіі прылады</string>
     <string name="restore_is_running">Аднаўленне прылады</string>
     <string name="notif_backup_title">Стварэнне рэзервовай копіі дадзеных</string>
@@ -313,9 +317,7 @@
     <string name="trans_detail_item_app_data_too_large_tip">"Аб'ект занадта вялікі для перадачы."</string>
     <string name="trans_detail_item_app_data_skip_data">Немагчыма перадаць дадзеныя праграмы</string>
     <string name="trans_detail_item_app_data_selected_tip">Выбраны адпаведныя праграмы.</string>
-    <string name="trans_detail_list_footer">"1. Вы можаце выбраць для перадачы асобныя праграмы.
-2. Калі вы вылучыце дадзеныя праграм, будуць таксама абраныя адпаведныя праграмы.
-3. Дадзеныя праграм WeChat і QQ могуць быць не перададзены з-за праблем сумяшчальнасці. Вы можаце паспрабаваць скарыстацца функцыямі перадачы ў праграме."</string>
+    <string name="trans_detail_list_footer">1. Вы можаце выбраць для перадачы асобныя праграмы. 2. Калі вы вылучыце дадзеныя праграм, будуць таксама абраныя адпаведныя праграмы. 3. Дадзеныя праграм WeChat і QQ могуць быць не перададзены з-за праблем сумяшчальнасці. Вы можаце паспрабаваць скарыстацца функцыямі перадачы ў праграме.</string>
     <string name="trans_detail_page_tip">"Чым больш аб'ектаў вы выбіраеце, тым даўжэй будзе працэс пераносу."</string>
     <string name="trans_detail_sys_data_list_title">Сістэмныя праграмы</string>
     <string name="trans_detail_app_data_list_title">Дадзеныя праграм</string>
@@ -376,9 +378,7 @@
     <string name="trans_wait_trans_data">"Падлучана да старой прылады.
 Чакаце перадачы…"</string>
     <string name="trans_select_data">Выберыце элементы для адпраўкі</string>
-    <string name="trans_select_data_tips">"Абярыце аб'екты для перадачы.
-Ідэнтычныя аб'екты на новай прыладзе будуць перазапісаны.
-(Ацэнка памеру аб'ектаў, якія перадаюцца, з'яўляецца прыблізнай.)"</string>
+    <string name="trans_select_data_tips">"Абярыце аб'екты для перадачы. Ідэнтычныя аб'екты на новай прыладзе будуць перазапісаны. (Ацэнка памеру аб'ектаў, якія перадаюцца, з'яўляецца прыблізнай.)"</string>
     <string name="trans_select_data_no_space">"На новай прыладзе недастаткова месца (даступна %s).
 Вызваліце месца або перадайце толькі важныя аб'екты."</string>
     <string name="trans_select_data_too_large">"Выбрана занадта шмат аб'ектаў для перадачы.
@@ -395,9 +395,7 @@
     <string name="button_clean_garbage">Ачысціць</string>
     <string name="button_quit">Выхад</string>
     <string name="soft_ap_creating">Стварэнне хот-спота…</string>
-    <string name="wait_link">"Адчыніце Mi Mover на старой прыладзе,
- націсніце «Я адпраўнік» і абярыце хот-спот для падлучэння.
-Не зачыняйце старонку да ўстаноўкі падключэння."</string>
+    <string name="wait_link">Адчыніце Mi Mover на старой прыладзе, націсніце «Я адпраўнік» і абярыце хот-спот для падлучэння. Не зачыняйце старонку да ўстаноўкі падключэння.</string>
     <string name="old_way">Вы таксама можаце стварыць QR-код на новай прыладзе і адсканаваць яго старой прыладай.</string>
     <string name="soft_ap_create_failed">Не атрымалася стварыць хот-спот</string>
     <string name="scan_soft_ap_label">Падлучыцца да старой прылады</string>
@@ -439,7 +437,7 @@
     <string name="trans_intro_desc_1">На прыладзе Мі падлучыцеся да Wi-Fi і націсніце \"Я атрымальнік\". Выберыце сваю прыладу iOS, увайдзіце ў iCloud і імпартуйце дадзеныя.</string>
     <string name="trans_intro_question_2">%d. Як выкарыстоўваць Mi Mover для пераносу дадзеных з прылады Android?</string>
     <string name="trans_intro_title_new">На новай прыладзе:</string>
-    <string name="trans_intro_desc_new">Націсніце \"Я атрымальнік\". Будзе створаны QR-код.</string>
+    <string name="trans_intro_desc_new">Націсніце Я атрымальнік. Будзе створаны QR-код.</string>
     <string name="trans_intro_title_old">На старой прыладзе:</string>
     <string name="trans_intro_desc_old">Націсніце \"Я адпраўнік\". Скануйце QR-код з новай прылады, пачакайце, пакуль Mi Mover не высветліць, якія файлы адпраўляць, і націсніце \"Адправіць\".</string>
     <string name="trans_intro_desc_old_market">Націсніце \"Пачаць\". Скануйце QR-код з новай прылады, пачакайце, пакуль Mi Mover не высветліць, якія файлы адпраўляць, і націсніце \"Адправіць\".</string>
@@ -462,7 +460,7 @@
     <string name="trans_intro_title_account">Акаўнты і паролі:</string>
     <string name="trans_intro_desc_account">Вам неабходна зноў увайсці ў свае ўліковыя запісы (напрыклад, Mi Акаўнт, Exchange, Google і г. д.) на новай прыладзе па прычыне бяспекі.</string>
     <string name="trans_intro_title_private">Схаваны альбом:</string>
-    <string name="trans_intro_desc_private">Mi Mover не мае доступу да фота ў схаваных альбомах, таму што яны зашыфраваныя. Вы можаце аднавіць гэтыя фота з Mi Cloud на новай прыладзе.</string>
+    <string name="trans_intro_desc_private">Mi Mover не мае доступу да фота ў схаваных альбомах, таму што яны зашыфраваныя. Вы можаце аднавіць гэтыя фота з Xiaomi Cloud на новай прыладзе.</string>
     <string name="trans_intro_title_multiuser">Дадзеныя Другой прасторы:</string>
     <string name="trans_intro_desc_multiuser">Mi Mover не мае доступу да дадзеных на Другой прасторы. Вы можаце аднавіць дадзеныя ў Першую прастору і запусціць Mi Cloud.</string>
     <string name="trans_intro_title_multiapp">Дадзеныя клонаў праграм:</string>
@@ -554,8 +552,7 @@ https://appleid.apple.com/#!&amp;page=signin"</string>
     <string name="hsa_sending">Адпраўка…</string>
     <string name="hsa_send_failed">Не атрымалася адправіць код пацвярджэння. Паспрабуйце яшчэ раз пазней.</string>
     <string name="hsa_tip_title">Парады:</string>
-    <string name="hsa_tip_message">"1. Паведамленне з кодам пацвярджэння адпраўлена на прыладу, звязаную з Apple ID.
-2. Калі код пацвярджэння не працуе, адключыце двухфактарную аўтэнтыфікацыю."</string>
+    <string name="hsa_tip_message">1. Калі вы не можаце атрымаць код пацверджання, пераканайцеся, што вы ўвайшлі ў iCloud на вашай прыладзе Apple. 2.Калі ўвод кода пацверджання не дапамагае, адключыце двухфакторную аўтэнтыфікацыю.</string>
     <string name="hsa_tip_message_with_device">"1. Паведамленне з кодам пацвярджэння адпраўлена на %s, звязаную з Apple ID.
 2. Калі код пацвярджэння не працуе, адключыце двухфактарную аўтэнтыфікацыю."</string>
     <string name="hsa_tip_message_shutdown_hsa">Як адключыць двухфактарную аўтэнтыфікацыю</string>
@@ -569,6 +566,7 @@ https://appleid.apple.com/#!&amp;page=signin"</string>
 неабходна стварыць рэзервовую копію iCloud."</string>
     <string name="list_footer_tip_title">Парады:</string>
     <string name="import_tip_summary">З-за праблем з сумяшчальнасцю, вы можаце перадаваць дадзеныя з iOS прылад толькі часткова. Праверце перад пачаткам перадачы наяўнасць створанай рэзервовай копіі.</string>
+    <string name="import_tip_message">@string/icloud_how_to_backup_tip_steps</string>
     <string name="button_import">Імпарт</string>
     <string name="select_empty">Выберыце элементы для імпарту</string>
     <string name="select_item_summary_wait">Чаканне…</string>
@@ -648,10 +646,11 @@ https://appleid.apple.com/#!&amp;page=signin"</string>
     <string name="dialog_backup_password_backup_tips">"Немагчыма выканаць бэкап аб'ектаў пры актыўным паролі рэзервовых копій. Адключыце пароль рэзервовых копій."</string>
     <string name="dialog_backup_password_cancel">Скасаваць</string>
     <string name="dialog_backup_password_to_settings">Налады</string>
-    <string name="user_feedback">Водгук</string>
-    <string name="iCloud_ID_verification_tip">Увядзіце код пацверджання з SMS, адпраўленага на нумар, звязаны з вашым Apple ID. Ігнаруйце ўсплываючы код, які адлюстроўваецца на экране вашага iPhone.</string>
+    <string name="user_feedback">Feedback</string>
+    <string name="iCloud_ID_verification_tip">Націсніце «Дазволіць» на прыладзе Apple для адлюстравання кода пацверджання. Увядзіце код пацверджання тут.</string>
     <string name="trans_complete_restoring">Перадача паспяхова завершана. Аднаўленне дадзеных праграмы…</string>
     <string name="dialog_backup_password_auto_backup_tips">Нельга выканаць аўтаматычны бэкап пры ўключанам паролі рэзервовых копій. Спачатку адключыце гэты пароль.</string>
     <string name="dialog_backup_password_change_device_restore_tips">Немагчыма скарыстацца Mi Mover пры ўключаным паролі рэзервовых копій. Спачатку адключыце гэты пароль.</string>
     <string name="dialog_backup_password_restore_tips">"Нельга аднавіць аб'екты пры ўключанам паролі рэзервовых копій. Спачатку адключыце гэты пароль."</string>
+    <string name="trans_cancel_dialog_survey_title">Чаму вы прыпынілі перадачу?</string>
 </resources>

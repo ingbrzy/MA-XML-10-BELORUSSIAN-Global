@@ -18,6 +18,7 @@
     <string name="cancel">Скасаваць</string>
     <string name="children_education">Навучанне дзяцей</string>
     <string name="choose_currency">Выбраць валюту</string>
+    <string name="choose_radix">Выберыце сістэму злічэння</string>
     <string name="choose_unit">Выбраць велічыню</string>
     <string name="city">Горад</string>
     <string name="clearDesc">ачысціць</string>
@@ -28,6 +29,7 @@
     <string name="convertion_unit">Канвэртар адзінак вымярэння</string>
     <string name="convertion_unit_area">Канвертар плошчы</string>
     <string name="convertion_unit_length">Канвертар даўжыні</string>
+    <string name="convertion_unit_radix">Сістэма злічэння</string>
     <string name="convertion_unit_temperature">Канвертар тэмпературы</string>
     <string name="convertion_unit_time">Канвертар часу</string>
     <string name="convertion_unit_velocity">Канвертар хуткасці</string>
@@ -112,6 +114,7 @@
     <string name="item_title_dress_size">Памер адзення</string>
     <string name="item_title_length_conversion">Даўжыня</string>
     <string name="item_title_mortgage">Іпатэка</string>
+    <string name="item_title_radix">Сістэма злічэння</string>
     <string name="item_title_scientific_calculator">Інжынерны</string>
     <string name="item_title_tax">Налогі</string>
     <string name="item_title_temprature_conversion">Тэмпература</string>
@@ -128,7 +131,7 @@
     <string name="ln">ln</string>
     <string name="lnDesc">натуральны лагарыфм</string>
     <string name="loading">Секундачку…</string>
-    <string name="loading_fail_message_no_network">Не атрымалася падлучыцца да сеткі. Нажмите для паўтору.</string>
+    <string name="loading_fail_message_no_network">Не атрымалася падлучыцца да сеткі. Націсніце для паўтору.</string>
     <string name="loading_fail_refresh">Абнавіць</string>
     <string name="loading_message">Загрузка праграмы…</string>
     <string name="loading_slogan">Выкарыстоўвайце праграмы без eстаноўкі</string>
@@ -174,6 +177,7 @@
     <string name="mortgage_item_years">Тэрмін крэдыту</string>
     <string name="mortgage_loans_amount">Сума крэдыту</string>
     <string name="mortgage_provident_found_interest_rate">Працэнтная стаўка фонду</string>
+    <string name="mortgage_provider_east_money">Дадзеныя прадастаўлены East Money</string>
     <string name="mortgage_repayment_amount">Сума пагашэння</string>
     <string name="mortgage_result">Вынікі</string>
     <string name="mortgage_show_details">Паказаць дэталі</string>
@@ -186,6 +190,7 @@
     <string name="negDesc">Пераключэнне паміж тэмпературамі ніжэй і вышэй за нуль</string>
     <string name="network_confirm_content">Для звычайнай працы канвертара валют, падаткавага і крэдытнага калькулятараў патрэбна падлучэнне да інтэрнэту і доступ да месцазнаходжання.</string>
     <string name="network_confirm_title">Запыт доступу</string>
+    <string name="network_purpose">Сардэчна запрашаем у Калькулятар! Пры дапамозе Калькулятара вы можаце канвертаваць валюты, разлічваць выплаты па іпатэцы і рабіць многае іншае.</string>
     <string name="none">Адсутнічае</string>
     <string name="not_supported_due_to_language">Гэтая функцыя даступная толькі для кітайскай мовы</string>
     <string name="ok">OК</string>
@@ -318,11 +323,13 @@
     <string name="unit_data_display_currency_aed">"Дырхам Аб'яднаных Арабскіх Эміратаў"</string>
     <string name="unit_data_display_currency_ars">Аргентынскі песа</string>
     <string name="unit_data_display_currency_aud">Аўстралійскі даляр</string>
+    <string name="unit_data_display_currency_bdt">Бангладэшскія така</string>
     <string name="unit_data_display_currency_bgn">Балгарскі леў</string>
     <string name="unit_data_display_currency_bhd">Бахрэйнскі дынар</string>
     <string name="unit_data_display_currency_bnd">Брунэйскі даляр</string>
     <string name="unit_data_display_currency_brl">Бразільскі рэал</string>
     <string name="unit_data_display_currency_byn">Беларускі рубель</string>
+    <string name="unit_data_display_currency_byr">@string/unit_data_display_currency_byn</string>
     <string name="unit_data_display_currency_cad">Канадскі долар</string>
     <string name="unit_data_display_currency_chf">Швейцарскі франк</string>
     <string name="unit_data_display_currency_clp">Чылійскі песа</string>
@@ -408,6 +415,10 @@
     <string name="unit_data_display_length_um">Мікраметры</string>
     <string name="unit_data_display_length_yd">Ярды</string>
     <string name="unit_data_display_length_zhang">Zhang</string>
+    <string name="unit_data_display_radix_10">Дзесятковая</string>
+    <string name="unit_data_display_radix_16">Шаснаццатковая</string>
+    <string name="unit_data_display_radix_2">Двайковая</string>
+    <string name="unit_data_display_radix_8">Васьмярковая</string>
     <string name="unit_data_display_temperature_c">Цэльсій</string>
     <string name="unit_data_display_temperature_f">Фарэнгейт</string>
     <string name="unit_data_display_temperature_k">Кельвін</string>
@@ -601,8 +612,11 @@
     <string name="word_figure_unit_shi">拾</string>
     <string name="word_figure_yuan">元</string>
     <string name="word_figure_zheng">整</string>
+    <string name="xiaomi_bytes_unit">%1$sБ</string>
     <string name="xiaomi_connect_download_manager_fail">Не атрымалася падлучыцца да Запамповак. Пераканайцеся ў тым, што праграма мае ўсе неабходныя дазволы ў «Налады > Усталяваныя праграмы».</string>
     <string name="xiaomi_external_storage_unavailable">Памяць недаступная. Праверце SD-карту.</string>
+    <string name="xiaomi_kilobytes_unit">%1$sКБ</string>
+    <string name="xiaomi_megabytes_unit">%1$sМБ</string>
     <string name="xiaomi_update_dialog_message">"Даступная версія %1$s
 Памер: %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"Даступная версія %1$s
@@ -610,5 +624,9 @@
     <string name="xiaomi_update_dialog_title">%1$s абнаўленне!</string>
     <string name="year" />
     <string name="preference_use_voice">Галасавы вывад</string>
+    <string name="preference_use_voice_summary">Уключыце, каб выкарыстоўваць вывад гаворкі падчас разлікаў</string>
+    <string name="preference_use_voice_title">Вывад гаворкі</string>
+    <string name="preference_user_feedback_title">Водгук</string>
+    <string name="voice_guide_text">Вы можаце ўключыць вывад гаворкі тут</string>
     <string name="warn_locale_unsupport_for_voice">Галасавы вывад для дадзенай мовы пакуль не падтрымліваецца.</string>
 </resources>

@@ -1,44 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="date_of_traffic_cmcc">
-        <item>"За тыдзень "</item>
-        <item>"Сёння "</item>
-        <item>"За месяц "</item>
+        <item>"Бягучы тыдзень "</item>
+        <item>"Cёння "</item>
+        <item>"Бягучы месяц "</item>
     </string-array>
     <string-array name="date_of_traffic">
         <item>"Учора "</item>
-        <item>"Сёння "</item>
-        <item>"У мінулым месяцы "</item>
-        <item>"За гэты месяц "</item>
+        <item>"Cёння "</item>
+        <item>"Мінулы месяц "</item>
+        <item>"Бягучы месяц "</item>
     </string-array>
     <string-array name="date_of_traffic_prefix_cmcc">
-        <item>"За тыдзень: "</item>
+        <item>"Бягучы тыдзень:  "</item>
         <item>"Сёння: "</item>
-        <item>"За месяц: "</item>
+        <item>"Бягучы месяц: "</item>
     </string-array>
     <string-array name="date_of_traffic_prefix">
         <item>"Учора: "</item>
         <item>"Сёння: "</item>
-        <item>"У мінулым месяцы: "</item>
-        <item>"За гэты месяц: "</item>
+        <item>"Мінулы месяц: "</item>
+        <item>"Бягучы месяц: "</item>
     </string-array>
     <string-array name="date_of_app_all">
-        <item>Учора (мабільны інтэрнэт)</item>
-        <item>Сёння (мабільны інтэрнэт)</item>
-        <item>За мінулы месяц (мабільны інтэрнэт)</item>
-        <item>За гэты месяц (мабільны інтэрнэт)</item>
-        <item>Учора (Wi-Fi)</item>
-        <item>Сёння (Wi-Fi)</item>
-        <item>За мінулы месяц (Wi-Fi)</item>
-        <item>За гэты месяц (Wi-Fi)</item>
+        <item>"Учора (мабільны інтэрнэт) "</item>
+        <item>"Сёння (мабільны інтэрнэт) "</item>
+        <item>"Мінулы месяц (мабільны інтэрнэт) "</item>
+        <item>"Гэты месяц (мабільны інтэрнэт) "</item>
+        <item>"Учора (Wi-Fi) "</item>
+        <item>"Сёння (Wi-Fi) "</item>
+        <item>"Мінулы месяц (Wi-Fi) "</item>
+        <item>"Бягучы месяц (Wi-Fi) "</item>
     </string-array>
     <string-array name="traffic_type">
-        <item>"Мабільны трафік "</item>
-        <item>"Трафік Wi-Fi "</item>
+        <item>"Выкарыстанне мабільнага інтэрнэту "</item>
+        <item>"Выкарыстанне Wi-Fi "</item>
     </string-array>
     <string-array name="mi_service_traffic_type">
-        <item>"Мабільны трафік "</item>
-        <item>"Трафік Wi-Fi "</item>
+        <item>"Выкарыстанне мабільнага інтэрнэту "</item>
+        <item>"Выкарыстанне Wi-Fi "</item>
     </string-array>
     <string-array name="over_limit_traffic_waring_style">
         <item>Паказваць папярэджанне</item>
@@ -73,6 +73,12 @@
         <item>Сартаваць па выкарыстанай памяці</item>
         <item>Сартаваць па часе ўсталёўкі</item>
     </string-array>
+    <string-array name="key_app_info">
+        <item>install_source</item>
+        <item>install_time</item>
+        <item>update_source</item>
+        <item>update_time</item>
+    </string-array>
     <string-array name="title_app_info">
         <item>Крыніца ўсталёўкі</item>
         <item>Час усталёўкі</item>
@@ -104,5 +110,13 @@
         <item>Штодзённа</item>
         <item>Па будных днях</item>
         <item>Уласны</item>
+    </string-array>
+    <string-array name="pc_settings_thermal_entries">
+        <item>Па змаўчанні</item>
+        <item>Прыарэтызаваць прадукцыйнасць</item>
+    </string-array>
+    <string-array name="pc_settings_thermal_summaries">
+        <item>Выкарыстоўваецца рэжым кантролю тэмпературы па змаўчанні</item>
+        <item>Прыярытэт прадукцыйнасці</item>
     </string-array>
 </resources>

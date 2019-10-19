@@ -51,12 +51,13 @@
     <string name="accessibility_repeats">Паўтарыць</string>
     <string name="accessibility_sync_cal">Сінхранізаваць каляндар</string>
     <string name="account_and_calendar">Акаўнты</string>
-    <string name="action_bar_date_button_title">Разлічыць дату</string>
     <string name="action_bar_return">Назад</string>
     <string name="action_text_card_manager">Канал</string>
     <string name="add_anniversary">Дадаць гадавіну</string>
     <string name="add_countdown">Дадаць падзею</string>
     <string name="add_event">Дадаць падзею</string>
+    <string name="add_holiday_desc">Дадайце святы сюды</string>
+    <string name="add_holiday_title">Дадаць свята</string>
     <string name="agenda_month_empty_hint">Няма падзей у гэты дзень</string>
     <string name="agenda_tomorrow">ЗАЎТРА, %1$s</string>
     <string name="agenda_view">Падзеі</string>
@@ -104,6 +105,7 @@
     <string name="cards_language_hint">Некаторыя карткі могуць быць недаступныя на абранай мове.</string>
     <string name="change_response_title">Змяніць адказ</string>
     <string name="change_zodiac">Змяніць знак задыяку</string>
+    <string name="choose_your_holidays">Выбраць святы</string>
     <string name="click_to_share">Націсніце, каб падзяліцца</string>
     <string name="close_alarm">Адключыць</string>
     <string name="contacts_permission_desc">Доступ да дадзеных кантактаў</string>
@@ -116,6 +118,7 @@
 
 •Заўсёды мець пад рукой актуальныя дадзеныя на любой прыладзе.
 •Сінхранізуйце ўсе падзеі, каб нічога не прапусціць."</string>
+    <string name="create_kundli">Стварыць Кундлі</string>
     <string name="creating_event">Падзея створаная</string>
     <string name="creating_event_with_guest">Адпраўка запрашэнняў…</string>
     <string name="daily">Штодня</string>
@@ -136,6 +139,7 @@
     <string name="date_interval_text_to">Да %1$s</string>
     <string name="date_jump_hint">Адразу перайсці да пэўнай даты</string>
     <string name="date_jump_title">Перайсці да даты</string>
+    <string name="date_time_fmt" formatted="false">%s, %s</string>
     <string name="date_today">" (сёння)"</string>
     <string name="day_view_new_event_hint">Новая падзея</string>
     <string name="default_reminder_mode">Апавяшчэнні</string>
@@ -176,6 +180,7 @@
     <string name="edit_event_tab_countdown">Таймер</string>
     <string name="edit_event_tab_event">Падзея</string>
     <string name="edit_event_to_label">Да</string>
+    <string name="edit_your_long_holidays">Змяніць святы</string>
     <string name="email_guests_label">Паведаміць гасцей па Email</string>
     <string name="email_install_hint">Праграма \"Пошта\" была выдалена. Усталюйце яе нанова, каб аднавіць акаўнты календара або дадаць новыя.</string>
     <string name="email_picker_label">Адправіць з</string>
@@ -204,6 +209,12 @@
     <string name="event_view">Паглядзець падзею</string>
     <string name="every_weekday">Па буднях (пн-пт)</string>
     <string name="fb_birthday_failure">Памылка імпарту дзён нараджэння з Facebook. Паспрабуйце яшчэ раз.</string>
+    <string name="fb_birthday_import_pref_desc">Імпартаваць дні народзінаў сяброў з Facebook</string>
+    <string name="fb_birthday_import_pref_title">Імпартаваць зараз</string>
+    <string name="fb_birthday_logout_failure">Вы не дадалі свой акаўнт Facebook</string>
+    <string name="fb_birthday_logout_pref_desc">Выдаліць акаўнт Facebook разам з днямі нараджэння сяброў</string>
+    <string name="fb_birthday_logout_pref_title">Выдаліць акаўнт Facebook</string>
+    <string name="fb_birthday_logout_success">Акаўнт Facebook паспяхова выдалены</string>
     <string name="fb_birthday_region_warning">Гэта функцыя недаступная ў вашым рэгіёне</string>
     <string name="fb_birthday_success">Імпарт дзён нараджэння з Facebook завершаны</string>
     <string name="fb_calendar_account_name">Лакальны каляндар Mi</string>
@@ -212,6 +223,7 @@
     <string name="festival_detail_title">Фестываль</string>
     <string name="file_exception">Адбылася памылка</string>
     <string name="fixtures">Матчы</string>
+    <string name="fourth_saturday_holiday">"Кожная другая і чацвёртая субота з'яўляецца выхадным днём"</string>
     <string name="from_google_group_calendar">Каляндар Google</string>
     <string name="gadget_no_events">Няма найбліжэйшых падзей</string>
     <string name="gadget_title">Каляндар</string>
@@ -226,6 +238,10 @@
     <string name="greetingcard_end_of_page">На сёння гэта ўсё. Вяртайцеся заўтра!</string>
     <string name="greetingcard_notification_desc">Паглядзіце апошнія статусы</string>
     <string name="greetingcard_notification_title">Ваша штодзённая стужка гатовая</string>
+    <string name="greetingcard_reminder_dialog_message">Дазволіць Каляндару адпраўляць вам штодзённыя апавяшчэння аб прывітаньнях і статусах?</string>
+    <string name="greetingcard_reminder_dialog_negative">Не, дзякуй</string>
+    <string name="greetingcard_reminder_dialog_positive">Дазволіць</string>
+    <string name="greetingcard_reminder_dialog_title">Атрымліваць апавяшчэнні</string>
     <string name="greetingcard_reminder_disabled_status">Вы не будзеце атрымліваць штодзённыя напаміны пра статусы WhatsApp.</string>
     <string name="greetingcard_reminder_disabled_text">Уключыць напаміны</string>
     <string name="greetingcard_reminder_enabled_status">Вы будзеце атрымліваць штодзённыя напаміны пра статусы WhatsApp.</string>
@@ -246,7 +262,14 @@
     <string name="hint_what">Назва мерапрыемства</string>
     <string name="hint_where">Месца</string>
     <string name="holiday_card_title">У гэты дзень</string>
+    <string name="holiday_date">Дата</string>
+    <string name="holiday_date_title">Дата свята</string>
     <string name="holiday_detail_read_more">Яшчэ</string>
+    <string name="holiday_name">Назва свята</string>
+    <string name="holiday_name_empty">Назва свята не можа быць пустым</string>
+    <string name="holiday_name_exists">Гэтае свята ўжо існуе</string>
+    <string name="holiday_saved">Паспяхова захавана</string>
+    <string name="holidays_title">Святы</string>
     <string name="horoscope_select_activity_label">Выберыце знак задыяка</string>
     <string name="image_processing">Выява яшчэ не гатова</string>
     <string name="import_action">Імпарт</string>
@@ -268,9 +291,21 @@
     <string name="loading">Хвілінку…</string>
     <string name="local_calendar_display_name">Лакальны каляндар</string>
     <string name="local_owner_account_name">Лакальны акаўнт</string>
+    <string name="long_holiday_date_place_holder">dd MMMM</string>
+    <string name="long_holiday_dates">Пачынаючы ад %1$s</string>
+    <string name="long_holiday_month_off">Штомесячныя выходныя</string>
+    <string name="long_holiday_week_off">Штотыднёвыя выхадныя</string>
     <string name="lunar_date">Месяцовая дата</string>
+    <string name="manage_holidays">Кіраваць святамі</string>
+    <string name="manage_title">Кіраванне</string>
     <string name="match_finished">Нельга дадаць напаміны для бягучых і мінулых гульняў</string>
     <string name="match_select_activity_label">Лігі</string>
+    <string name="match_zodiac">Падабраць задзіяк</string>
+    <string name="menstruation_card_default_title">Няма запісаў пра менструацыі</string>
+    <string name="menstruation_card_error_sub_title">Зачыніце Каляндар і запусціце яго зноў.</string>
+    <string name="menstruation_card_error_title">Не ўдалося атрымаць даныя</string>
+    <string name="menstruation_card_private_mode_sub_title">Прыватны рэжым</string>
+    <string name="menstruation_card_private_mode_title">Менструальны цыкл ****</string>
     <string name="menu_general_preferences">Агульныя налады</string>
     <string name="menu_reminder_preferences">Апавяшчэнні</string>
     <string name="missing_name">(Без імя)</string>
@@ -299,7 +334,9 @@
     <string name="news">Навіны</string>
     <string name="no_contact_birthday_hint">Няма дзён нараджэння для імпарту</string>
     <string name="no_events_hint">Няма падзей</string>
+    <string name="no_holiday_selected">Выхадныя дні не выбраны</string>
     <string name="no_internet">Не атрымалася падлучыцца да інтэрнэту</string>
+    <string name="no_long_holidays">Няма доўгіх святаў у бліжэйшы час</string>
     <string name="no_network">"Не атрымалася злучыцца з сеткай.
 Праверце налады сеткі і паспрабуйце зноў."</string>
     <string name="no_network_btn">Паспрабаваць зноў</string>
@@ -308,6 +345,7 @@
     <string name="no_visiable_calendar_message">Вам неабходна выбраць акаўнт календара. Націсніце \"Выбраць акаўнт\" для працягу.</string>
     <string name="no_visiable_calendar_select_account">Дадаць акаўнт</string>
     <string name="no_visiable_calendar_title">Дадаць акаўнт</string>
+    <string name="not_more_than_three_weekday">Вы можаце выбраць да 3 дзён</string>
     <string name="notification_channel_description" />
     <string name="notification_channel_name">Напаміны Календара</string>
     <string name="panchang_amanta">Аманта</string>
@@ -325,12 +363,14 @@
     <string name="panchang_ritu">Рыту</string>
     <string name="panchang_shaka_samvat">Шака Самват</string>
     <string name="panchang_sun_sign">Сонечны знак</string>
+    <string name="panchang_till_time">Да %1$s</string>
     <string name="panchang_tithi">Цітхі</string>
     <string name="panchang_to"> да </string>
     <string name="panchang_upto"> па </string>
     <string name="panchang_vikram_samvat">Вікрам Самват</string>
     <string name="panchang_yamaghanta">Ямагханта</string>
     <string name="panchang_yog">Ёг</string>
+    <string name="partner_compatibility">Сумяшчальнасць з партнёрам</string>
     <string name="path_calendar_settings">Сістэмныя праграмы/Каляндар/Налады</string>
     <string name="prefDialogTitle_vibrateWhen">Вібрацыя</string>
     <string name="pref_reminder_time">Час напаміну</string>
@@ -385,11 +425,13 @@
     <string name="response_no">Не</string>
     <string name="response_yes">Так</string>
     <string name="rest_day_indication">: )</string>
+    <string name="saturday_click_disabled">"Кожная другая і чацвёртая субота зараз з'яўляюцца выходнымі днямі"</string>
     <string name="saving_event">Падзея захаваная</string>
     <string name="saving_event_with_guest">Адпраўка абнаўленняў…</string>
     <string name="search_calendar">Дата;Сонечныя сезоны;Месяцовы;Альманах;Поспех;Парадак дня;Сустрэча;Напамін;Адпачынак;Свята;Дзень нараджэння;2016;2017;Свята вясны;Новы год;Міжнародны дзень працы;Свята сярэдзіны восені</string>
     <string name="search_calendar_edit_event">Нарада;Напамін;Парадак дня</string>
     <string name="search_calendar_settings">Каляндар;Парадак дня;Напаміны</string>
+    <string name="second_saturday_holiday">"Кожная другая субота з'яўляецца выхадным днём"</string>
     <string name="select_date">Перайсці да даты</string>
     <string name="set_reminder">Усталяваць напамін</string>
     <string name="setting_about_calendar_version">Версія календара:</string>
@@ -398,6 +440,7 @@
     <string name="setting_about_summary">Версія:</string>
     <string name="setting_accounts">Акаўнты календара</string>
     <string name="setting_change_language">Выберыце мову Календара</string>
+    <string name="setting_desc_import_todo">Імпарт запланаваных задач з Нататак</string>
     <string name="setting_fb_birthdays_title">Імпарт дзён народзінаў з Facebook</string>
     <string name="setting_features_title">Дадатковыя функцыі</string>
     <string name="setting_holiday_display_desc">Карткі свят размешчаны ніжэй вашай позвы на галоўнай старонцы</string>
@@ -405,12 +448,18 @@
     <string name="setting_others">Дадаткова</string>
     <string name="setting_title_about">Падрабязна</string>
     <string name="setting_title_holiday_display">Паказаць святы</string>
+    <string name="setting_title_import_todo">Імпарт задач</string>
     <string name="setting_title_policy">Палітыка прыватнасці</string>
+    <string name="settings_show_long_holiday">Доўгія святы</string>
+    <string name="settings_show_long_holiday_description">Плануйце свой адпачынак загадзя</string>
+    <string name="settings_show_p_tracker">Паказваць дадзеныя менструацый</string>
+    <string name="settings_show_p_tracker_description">Сачыце за сваімі менструацыямі</string>
     <string name="share_image">Падзяліцца</string>
     <string name="share_image_label">Падзяліцца праз</string>
     <string name="share_title">Падзяліцца</string>
     <string name="show_day_view">Паказаць дзень</string>
     <string name="show_indic_date_summary">Індыйскі каляндар даступны, калі ў якасці мовы вашай сістэмы усталявана адна з моў Індыі</string>
+    <string name="single_selected_holiday">%1$s — гэта выходны дзень</string>
     <string name="start_date_calculate">Падлічыць</string>
     <string name="storage_permission_denied">Спачатку дазвольце доступ да памяці</string>
     <string name="subscribe_card">Падпісацца</string>
@@ -432,11 +481,16 @@
     <string name="talk_back_read_date">%1$s (%2$s па месяцовым календары).</string>
     <string name="talk_back_setting">Налады</string>
     <string name="template_announce_item_index">Падзея %1$s з %2$s.</string>
+    <string name="three_selected_holiday">%1$s, %2$s і %3$s — гэта выходныя дні</string>
     <string name="time_zone">Часавы пояс</string>
     <string name="timezone_label">Часавы пояс</string>
+    <string name="title_p_tracker">Менструацыя</string>
     <string name="today">Сёння</string>
     <string name="today_at_time_fmt">Сёння а %s</string>
     <string name="today_no_events">Мерапрыемстваў не запланавана</string>
+    <string name="todays_panchang_title">Панчанга на сёння</string>
+    <string name="todo_audio_event">"[Галасавая задача] "</string>
+    <string name="todo_event">Будучыя задачы</string>
     <string name="tomorrow">Заўтра</string>
     <string name="tomorrow_at_time_fmt">Заўтра а %s</string>
     <string name="too_long_content">Змест занадта доўгі</string>
@@ -463,6 +517,7 @@
     <string name="travel_seat_number_text">Месца</string>
     <string name="travel_train_number_text">Цягнік</string>
     <string name="travel_train_station">Вакзал</string>
+    <string name="two_selected_holiday">%1$s і %2$s — гэта выходныя дні</string>
     <string name="unsubscribe_card">Адпісацца</string>
     <string name="unsubscribe_card_success">Вы паспяхова адмовіліся ад падпіскі на %1$s</string>
     <string name="unsubscribing_card">Выканана адмова ад падпіскі</string>
@@ -486,4 +541,8 @@
     <string name="xiaomi_calendar_display_name">Каляндар Mi Акаўнта</string>
     <string name="yearly">Штогод (%s)</string>
     <string name="yearly_plain">Штогод</string>
+    <string name="action_bar_date_button_title">Разлічыць дату</string>
+    <string name="preferences_week_settings_title">Налады тыдня</string>
+    <string name="preferences_weekly_holiday_summary">Выбраныя дні будуць адзначаны як выхадныя</string>
+    <string name="preferences_weekly_holiday_title">Выхадныя дні</string>
 </resources>

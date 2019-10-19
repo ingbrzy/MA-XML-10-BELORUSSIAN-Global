@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="detail_update_time_hour">
+        <item quantity="other">%d гадзін таму</item>
+        <item quantity="one">%d гадзіна таму</item>
+        <item quantity="few">%d гадзіны таму</item>
+        <item quantity="many">%d гадзін таму</item>
+    </plurals>
+    <plurals name="detail_update_time_minute">
+        <item quantity="other">%d хвілін таму</item>
+        <item quantity="one">%d хвіліну таму</item>
+        <item quantity="few">%d хвіліны таму</item>
+        <item quantity="many">%d хвілін таму</item>
+    </plurals>
     <plurals name="guide_used_number">
         <item quantity="other">Ужыта на %1$d прыладах</item>
         <item quantity="one">Ужыта на %1$d прыладзе</item>

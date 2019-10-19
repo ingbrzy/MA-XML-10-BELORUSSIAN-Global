@@ -234,6 +234,18 @@
         <item quantity="few">Павінен змяшчаць не менш за %d вялікія літары</item>
         <item quantity="many">Павінен змяшчаць не менш за %d вялікіх літар</item>
     </plurals>
+    <plurals name="lockpassword_password_too_long">
+        <item quantity="other">Вы можаце ўвесці да %d сімвалаў</item>
+        <item quantity="one">Вы можаце ўвесці да %d сімвала</item>
+        <item quantity="few">Вы можаце ўвесці да %d сімвалаў</item>
+        <item quantity="many">Вы можаце ўвесці да %d сімвалаў</item>
+    </plurals>
+    <plurals name="lockpassword_password_too_short">
+        <item quantity="other">Увядзіце не менш за %d сімвалаў</item>
+        <item quantity="one">Увядзіце не менш за %d сімвал</item>
+        <item quantity="few">Увядзіце не менш за %d сімвала</item>
+        <item quantity="many">Увядзіце не менш за %d сімвалаў</item>
+    </plurals>
     <plurals name="lockpassword_pin_fixed_length">
         <item quantity="other">PIN павінен складацца з %d лічбы</item>
         <item quantity="one">PIN павінен складацца з %d лічбы</item>

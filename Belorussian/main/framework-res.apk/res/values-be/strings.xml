@@ -23,6 +23,7 @@
     <string name="dialog_alert_title">Увага</string>
     <string name="VideoView_error_text_invalid_progressive_playback">Відэа не падыходзіць для патокавай перадачы на ​​гэту прыладу.</string>
     <string name="selectTextMode">Выбраць тэкст</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="fingerprint_icon_content_description">Значок адбіткаў пальцаў</string>
     <string name="paste_as_plain_text">Уставіць як звычайны тэкст</string>
     <string name="autofill">Аўтазапаўненне</string>
@@ -384,6 +385,7 @@
     <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
     <string name="fcComplete">"Код аб'екта завершаны."</string>
     <string name="fcError">Праблема падлучэння ці няправільны код функцыі.</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="find">Пошук</string>
     <string name="find_next">Знайсці нiжэй</string>
     <string name="find_on_page">Знайсці на старонцы</string>
@@ -422,7 +424,7 @@
     <string name="global_action_battery_saver_off_status">Рэжым эканоміі зараду ўключаны</string>
     <string name="global_action_battery_saver_on_status">Рэжым эканоміі зараду выключаны</string>
     <string name="global_action_bug_report">Справаздача пра памылкі</string>
-    <string name="global_action_emergency">SOS-выклік</string>
+    <string name="global_action_emergency">Экстранны выклік</string>
     <string name="global_action_lock">Блакіроўка экрана</string>
     <string name="global_action_lockdown">Блакіроўка</string>
     <string name="global_action_logout">Скончыць сеанс</string>
@@ -589,6 +591,7 @@
     <string name="kg_reordering_delete_drop_target_text">Выдалiць</string>
     <string name="kg_sim_pin_instructions">Увядзіце PIN-код SIM-карты</string>
     <string name="kg_sim_unlock_progress_dialog_message">Разблакiроўка SIM-карты...</string>
+    <string name="kg_text_message_separator">" — "</string>
     <string name="kg_too_many_failed_password_attempts_dialog_message">"Вы няправільна ўвялі пароль пэўную колькасць разоў: %1$d. 
 
 Паўтарыце спробу праз %2$d с."</string>
@@ -631,7 +634,7 @@
     <string name="lockscreen_access_pattern_detected">Ключ завершаны</string>
     <string name="lockscreen_access_pattern_start">Ключ пачаты</string>
     <string name="lockscreen_carrier_default">Не абслугоўваецца</string>
-    <string name="lockscreen_emergency_call">SOS-выклік</string>
+    <string name="lockscreen_emergency_call">Экстранны выклік</string>
     <string name="lockscreen_failed_attempts_almost_at_wipe">Вы няправільна спрабавалі разблакаваць планшэт некалькi разоў (%1$d). Пасля яшчэ некалькiх спробаў (%2$d) ён будзе скінуты да заводскіх налад i карыстальнiцкiя дадзеныя будуць згубленыя.</string>
     <string name="lockscreen_failed_attempts_almost_glogin">"Вы няправільна ўвялі графічны ключ разблакавання пэўную колькасць разоў: %1$d. Пасля яшчэ некалькiх няўдалых спроб (%2$d) вам будзе прапанавана разблакаваць тэлефон з дапамогай уваходу ў Google.
 
@@ -880,6 +883,7 @@
     <string name="notification_channel_wfc">Wi-Fi-тэлефанія</string>
     <string name="notification_hidden_text">Новае апавяшчэнне</string>
     <string name="notification_listener_binding_label">Слухач апавяшчэння</string>
+    <string name="notification_messaging_title_template">%1$s: %2$s</string>
     <string name="notification_ranker_binding_label">Служба ацэнкі важнасці апавяшчэнняў</string>
     <string name="notification_reply_button_accessibility">Адказаць</string>
     <string name="notification_title">Памылка ўваходу ва ўлiковы запiс %1$s</string>
@@ -992,8 +996,8 @@
     <string name="permdesc_requestInstallPackages">Дазваляе праграме запытваць усталёўку пакетаў.</string>
     <string name="permdesc_route_media_output">Дазваляе прыкладанням маршрутызаваць мультымедыйны выхад на iншыя знешнiя прылады.</string>
     <string name="permdesc_runInBackground">Гэта праграма можа працаваць у фоне. Гэта можа прывесці да хутчэйшага спажывання зараду акумулятара.</string>
-    <string name="permdesc_sdcardRead">Дазваляе праграме счытваць змесціва вашай SD-карты.</string>
-    <string name="permdesc_sdcardWrite">Дазваляе прыкладанням запісваць на SD-карту.</string>
+    <string name="permdesc_sdcardRead">Дазваляе праграме счытваць змесціва вашага USB-сховішча.</string>
+    <string name="permdesc_sdcardWrite">Дазваляе прыкладаням выконваць запіс ва USB-назапашвальнік.</string>
     <string name="permdesc_sendSms">Дазваляе прыкладанне для адпраўкі SMS паведамленняў. Гэта можа прывесці да нечаканых абвінавачванняў. Шкоднасныя праграмы могуць каштаваць вам грошай на адпраўку паведамленняў без вашага пацвярджэння.</string>
     <string name="permdesc_setAlarm">Дазваляе прыкладанню ўсталёўваць сігнал на ўсталяваным прыкладанні будзільніка. Пэўныя прыкладанні будзільніка не могуць рэалізоўваць гэтую магчымасць.</string>
     <string name="permdesc_setInputCalibration">Дазваляе праграме змяняць параметры каліброўкі сэнсарнага экрана. Ніколі не павінна патрабавацца для звычайных праграм.</string>
@@ -1134,8 +1138,8 @@
     <string name="permlab_requestInstallPackages">запытваць усталёўку пакетаў</string>
     <string name="permlab_route_media_output">накіроўваць вывад мультымедыйнага змесціва</string>
     <string name="permlab_runInBackground">працаваць у фоне</string>
-    <string name="permlab_sdcardRead">чытанне змесціва SD-карты</string>
-    <string name="permlab_sdcardWrite">змяніць або выдаліць змесціва SD-карты</string>
+    <string name="permlab_sdcardRead">чытанне змесціва USB-назапашв.</string>
+    <string name="permlab_sdcardWrite">зм. або выд. змес. USB-назап.</string>
     <string name="permlab_sendSms">адпраўляць і праглядаць SMS-паведамленні</string>
     <string name="permlab_setAlarm">усталёўка сігналу</string>
     <string name="permlab_setInputCalibration">змена каліброўкі прылады ўводу</string>
@@ -1210,7 +1214,7 @@
     <string name="policylab_watchLogin">Сачыць за спробамі разблакіроўкі экрана</string>
     <string name="policylab_wipeData">Сцерці ўсе даныя</string>
     <string name="policylab_wipeData_secondaryUser">Сцерці карыстальніцкія даныя</string>
-    <string name="popup_window_default_title">Выплыўное акно</string>
+    <string name="popup_window_default_title">Усплывальнае акно</string>
     <string name="postalTypeCustom">Карыстальніцкі</string>
     <string name="postalTypeHome">Хатні</string>
     <string name="postalTypeOther">Іншы</string>
@@ -1226,7 +1230,7 @@
     <string name="printing_disabled_by">Друк адключаны ўладальнікам праграмы %s.</string>
     <string name="profile_encrypted_detail">Рабочы профіль заблакіраваны</string>
     <string name="profile_encrypted_message">Кран., каб разбл. раб. профіль</string>
-    <string name="progress_erasing">Выдаленне дадзеных з SD-карты...</string>
+    <string name="progress_erasing">Выдаленне дадзеных з USB-назапашвальнiка...</string>
     <string name="quick_contacts_not_available">Адсутнічае праграма для прагляду гэтага кантакту.</string>
     <string name="reason_service_unavailable">Служба друку не ўключана</string>
     <string name="reason_unknown">невядома</string>
@@ -1576,6 +1580,9 @@
     <string name="wifi_p2p_show_pin_message">PIN-код</string>
     <string name="wifi_p2p_to_message">Каму:</string>
     <string name="wifi_p2p_turnon_message">Пачаць работу Wi-Fi Direct. Гэта адключыць кліента або кропку доступу Wi-Fi.</string>
+    <string name="wifi_softap_config_change">Змяненні ў наладах хот-спота</string>
+    <string name="wifi_softap_config_change_detailed">Прылада не можа працаваць толькі на частаце 5 ГГц. Гэта частата будзе выкарыстоўвацца, калі гэта магчыма.</string>
+    <string name="wifi_softap_config_change_summary">Частата хот-спота змянілася.</string>
     <string name="wifi_wakeup_enabled_content">Вы знаходзіцеся побач з захаванай сеткай: %1$s</string>
     <string name="wifi_wakeup_enabled_title">Wi‑Fi уключыўся аўтаматычна</string>
     <string name="wifi_wakeup_onboarding_action_disable">Не ўключаць зноў</string>
@@ -1604,6 +1611,7 @@
     <string name="zen_mode_feature_name">Не турбаваць</string>
     <string name="zen_mode_forever">Пакуль не выключыце</string>
     <string name="zen_mode_forever_dnd">Пакуль вы не выключыце рэжым «Не турбаваць»</string>
+    <string name="zen_mode_rule_name_combination">%1$s / %2$s</string>
     <string name="zen_mode_until">Да %1$s</string>
     <string name="zen_upgrade_notification_content">Націсніце, каб паглядзець заблакіраванае.</string>
     <string name="zen_upgrade_notification_title">Зменены налады рэжыму \"Не турбаваць\"</string>

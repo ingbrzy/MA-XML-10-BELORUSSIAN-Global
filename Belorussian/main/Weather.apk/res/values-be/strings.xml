@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="about_weather_setting">"Аб праграме «Надвор'е»"</string>
+    <string name="about_weather_setting_feedback">Водгук</string>
+    <string name="abrupt_weather_settings_summary_type">Атрымліваць папярэджання аб чаканых ападках, зменах якасці паветра і іншых значных зменах</string>
     <string name="act_find_city_hint">Увядзіце месцазнаходжанне</string>
     <string name="act_find_city_hot_attractions_title">Папулярныя месцы</string>
     <string name="act_find_city_hot_city_title">Папулярныя гарады</string>
@@ -29,6 +32,8 @@
     <string name="add_city">Дадаць</string>
     <string name="alert_detail_title">Падрабязнасці папярэджання</string>
     <string name="alert_warning">"Папярэджанні пра надвор'е"</string>
+    <string name="alert_weather_enable_settings_summary">"Атрымліваць афіцыйныя папярэджанні пра надвор'е"</string>
+    <string name="alert_weather_enable_settings_title">"Папярэджанні пра надвор'е"</string>
     <string name="already_voted_toast">Вы ўжо галасавалі сёння</string>
     <string name="app_name">"Надвор'е"</string>
     <string name="aqi_data_source">Падтрымка: Colorful Clouds</string>
@@ -95,14 +100,17 @@
     <string name="daily_forecast_add_city_add">Падпісацца</string>
     <string name="daily_forecast_add_city_message">"Падпішыцеся на надвор'е ў %1$s для падрабязнага прагнозу."</string>
     <string name="daily_forecast_add_city_title">"Падпішыцеся на надвор'е ў %1$s"</string>
-    <string name="daily_forecast_detail_date">dd.MM</string>
+    <string name="daily_forecast_detail_date">d.M</string>
+    <string name="daily_forecast_detail_date_format">%1$s - %2$s</string>
     <string name="daily_forecast_no_data">Дадзеныя не атрыманы. Пацягніце ўніз для абнаўлення ці праверце налады сеткі</string>
     <string name="data_provided_by">Дадзеныя часткова прадастаўлены</string>
     <string name="edit_city">Кіраванне гарадамі</string>
+    <string name="empty">" "</string>
     <string name="empty_view_net_loading">Абнаўленне…</string>
     <string name="empty_view_net_unavailable">Не атрымалася падлучыцца да сеткі</string>
     <string name="empty_view_refresh">Паспрабаваць зноў</string>
     <string name="eu_region_version_first_start_network_msg">Выкарыстоўваючы гэты прадукт, вы згаджаецеся, што ён падключыцца да сеткі і будзе збіраць, апрацоўваць і выкарыстоўваць вашу асабістую інфармацыю, уключаючы каардынаты гарадоў, каторыя вы будзеце шукаць, і іншыя тыпы дадзеных, указаных у нашай Палітыцы канфідэнцыяльнасці. Звярніцеся да нашай Палітыкі канфідэнцыяльнасці, каб даведацца, як мы збіраем і апрацоўваем інфармацыю. Націснуўшы \"Пагадзіцца\", вы прымаеце %1$s і %2$s Xiaomi.</string>
+    <string name="feedback">"Паведаміць аб недакладных звестках аб надвор'і"</string>
     <string name="feedback_cloudy">Воблачна</string>
     <string name="feedback_foggy">Туман</string>
     <string name="feedback_haze">Змог</string>
@@ -111,13 +119,17 @@
     <string name="feedback_overcast">Пахмурна</string>
     <string name="feedback_report_privacy_msg">Справаздача будзе ўтрымліваць ваша месцазнаходжанне</string>
     <string name="feedback_result_fail_no_choice">"Выберыце якое зараз надвор'е"</string>
+    <string name="feedback_result_fail_no_reason">Дзякуй за ваш водгук!</string>
+    <string name="feedback_result_fail_same_type">"Ваша справаздачу не адрозніваецца ад бягучага надвор'я. Паспрабуйце яшчэ раз."</string>
     <string name="feedback_result_success">Паспяхова адпраўлена, дзякуй за ваш водгук.</string>
     <string name="feedback_sandy">Пыл</string>
     <string name="feedback_sunny">Ачысціць</string>
     <string name="first_start_network_title">Падключэнне да інтэрнэту і доступ да месцазнаходжання</string>
     <string name="global_aqi">AQI: %1$s %2$s</string>
     <string name="hourly_forcast_now">Зараз</string>
-    <string name="hourly_forecast_date">dd.MM</string>
+    <string name="hourly_forecast_bottom_aqi_chinese">%1$s%2$s</string>
+    <string name="hourly_forecast_bottom_aqi_else">%1$s</string>
+    <string name="hourly_forecast_date">d.M</string>
     <string name="hourly_forecast_title_24_hours_desc">Прагноз на 24 гадзіны</string>
     <string name="hourly_forecast_title_hourly_desc">Прагноз па гадзінах</string>
     <string name="index_item_downloading">Спампаванне...</string>
@@ -132,11 +144,15 @@
     <string name="indices_title_feel">Адчуваецца</string>
     <string name="indices_title_pressure">Ціск</string>
     <string name="install">Усталяваць</string>
+    <string name="install_progress">%1$s%%</string>
     <string name="international_details_pressure_title">ЦІСК</string>
     <string name="international_details_title">Падрабязнасці</string>
     <string name="international_details_uv_index_title">ІНДЭКС УФ</string>
+    <string name="international_details_wind_connect">%1$s %2$s</string>
     <string name="international_details_wind_title">ВЕЦЕР</string>
     <string name="it_is_going_to_rain">Збіраецца на дождж</string>
+    <string name="item_city_list_region_no_data">-- / --</string>
+    <string name="item_city_list_temperature_no_data">--</string>
     <string name="locate_fail_detail_err">"Немагчыма вызначыць месцазнаходжанне
 Націсніце, каб дадаць ці змяніць горад"</string>
     <string name="location_provider_btn_text">Уключыць службы месцазнаходжання</string>
@@ -159,7 +175,7 @@
     <string name="more_details">Больш дэталяў</string>
     <string name="network_not_available">Немагчыма злучыцца з сеткай</string>
     <string name="network_unavailable">Не атрымліваецца злучыцца з сеткай.</string>
-    <string name="night_not_disturb_settings_summary">Адключаць апавяшчэнні паміж 23:00 і 07:00</string>
+    <string name="night_not_disturb_settings_summary">Адключыць апавяшчэння паміж 23:00 і 7:00</string>
     <string name="night_not_disturb_settings_title">Не турбаваць уначы</string>
     <string name="no_data">Няма дадзеных</string>
     <string name="no_network_btn">Паўтарыць спробу</string>
@@ -218,6 +234,7 @@
     <string name="share_menu_title">Падзяліцца</string>
     <string name="share_subject">Падзяліцца</string>
     <string name="share_weather_desc">"\#Надвор'е MIUI#Сёння %1$s %2$s"</string>
+    <string name="share_weather_desc_alert">%1$s%2$s</string>
     <string name="share_weather_desc_split">,</string>
     <string name="share_weather_save_pic_fail">Немагчыма зрабіць здымак экрана</string>
     <string name="shortcut_short_label_24_hour_forecast">Прагноз на 24 гадзіны</string>
@@ -225,6 +242,7 @@
     <string name="some_where_on_earth">Дзесьці на Зямлі</string>
     <string name="sunrise">Узыход</string>
     <string name="sunset">Захад</string>
+    <string name="temperature_normal_unit">%1$s°</string>
     <string name="temperature_unit_C">%1$s℃</string>
     <string name="temperature_unit_F">%1$s℉</string>
     <string name="title_share_link">Падзяліцца спасылкай</string>
@@ -264,6 +282,8 @@
     <string name="view_forecast_item_yesterday">Учора</string>
     <string name="view_indexes_item_today">Сёння</string>
     <string name="view_indexes_item_tommorrow">Заўтра</string>
+    <string name="warning_weather_day_and_night_settings_summary">"Атрымліваць штодзённыя зводкі, якія змяшчаюць дадзеныя пра надвор'е, у 7:00 і 19:00"</string>
+    <string name="warning_weather_day_and_night_settings_title">Штодзённыя зводкі</string>
     <string name="weather_alert_channel_name">Абвесткі</string>
     <string name="weather_introduce">"Заўсёды з вамі пры любым надвор/'і."</string>
     <string name="weather_permission_agree">Прыняць</string>

@@ -1,15 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="feed_back_home">
+        <item quantity="other">Зварот на галоўную старонку праз %1$d секунд…</item>
+        <item quantity="one">Зварот на галоўную старонку праз %1$d секунду…</item>
+        <item quantity="few">Зварот на галоўную старонку праз %1$d секунды…</item>
+        <item quantity="many">Зварот на галоўную старонку праз %1$d секунд…</item>
+    </plurals>
     <plurals name="lv_subtitle_offset_advance_times">
-        <item quantity="other">Субцітры будуць паказаны на %.1f секунды пазней</item>
+        <item quantity="other">Субцітры будуць паказаны на %.1f секунд пазней</item>
         <item quantity="one">Субцітры будуць паказаны на %.1f секунду пазней</item>
-        <item quantity="few">Субцітры будуць паказаны на %.1f секунды пазней</item>
+        <item quantity="few">Субцітры будуць паказаны на %.1f секунд пазней</item>
         <item quantity="many">Субцітры будуць паказаны на %.1f секунд пазней</item>
     </plurals>
     <plurals name="lv_subtitle_offset_delay_times">
-        <item quantity="other">Субцітры будуць паказаны на %.1f секунды пазней</item>
+        <item quantity="other">Субцітры будуць паказаны на %.1f секунд пазней</item>
         <item quantity="one">Субцітры будуць паказаны на %.1f секунду пазней</item>
-        <item quantity="few">Субцітры будуць паказаны на %.1f секунды пазней</item>
+        <item quantity="few">Субцітры будуць паказаны на %.1f секунд пазней</item>
         <item quantity="many">Субцітры будуць паказаны на %.1f секунд пазней</item>
     </plurals>
     <plurals name="lv_subtitle_onlinesub_size_float_kb">
@@ -36,28 +42,58 @@
         <item quantity="few">%d відэа</item>
         <item quantity="many">%d відэа</item>
     </plurals>
-    <plurals name="pw_comment_count">
-        <item quantity="other">%d каментарыяў</item>
-        <item quantity="one">%d каментарый</item>
-        <item quantity="few">%d каментарыі</item>
-        <item quantity="many">%d каментарыяў</item>
+    <plurals name="plus_edit_delete_comfire_text">
+        <item quantity="other">"Выдаліць %s аб'ектаў зараз?"</item>
+        <item quantity="one">"Выдаліць %s аб'ект зараз?"</item>
+        <item quantity="few">"Выдаліць %s аб'ектаў зараз?"</item>
+        <item quantity="many">"Выдаліць %s аб'ектаў зараз?"</item>
     </plurals>
-    <plurals name="pw_comment_sub_count">
-        <item quantity="other">%d адказу</item>
-        <item quantity="one">%d адказ</item>
-        <item quantity="few">%d адказы</item>
-        <item quantity="many">%d адказаў</item>
+    <plurals name="plus_edit_top_titletext">
+        <item quantity="other">"Абрана %s аб'ектаў"</item>
+        <item quantity="one">"Абраны %s аб'ект"</item>
+        <item quantity="few">"Абрана %s аб'ектаў"</item>
+        <item quantity="many">"Абрана %s аб'ектаў"</item>
     </plurals>
-    <plurals name="pw_comment_view_all_comment">
-        <item quantity="other">Паказаць %d каментарыяў</item>
-        <item quantity="one">Паказаць %d каментарый</item>
-        <item quantity="few">Паказаць %d каментарыі</item>
-        <item quantity="many">Паказаць %d каментарыяў</item>
+    <plurals name="plus_player_subtitle_online_size">
+        <item quantity="other">Памер файла: %.2f KB</item>
+        <item quantity="one">Памер файла: %.2f KB</item>
+        <item quantity="few">Памер файла: %.2f KB</item>
+        <item quantity="many">Памер файла: %.2f KB</item>
+    </plurals>
+    <plurals name="plus_search_result_title">
+        <item quantity="other">%2$s вынікаў для \"%1$s\"</item>
+        <item quantity="one">%2$s вынік для \"%1$s\"</item>
+        <item quantity="few">%2$s вынікаў для \"%1$s\"</item>
+        <item quantity="many">%2$s вынікаў для \"%1$s\"</item>
+    </plurals>
+    <plurals name="plus_serval_pictures">
+        <item quantity="other">%d выяў</item>
+        <item quantity="one">%d выява</item>
+        <item quantity="few">%d выяў</item>
+        <item quantity="many">%d выяў</item>
+    </plurals>
+    <plurals name="plus_serval_videos">
+        <item quantity="other">%d відэа</item>
+        <item quantity="one">%d відэа</item>
+        <item quantity="few">%d відэа</item>
+        <item quantity="many">%d відэа</item>
     </plurals>
     <plurals name="subscriber">
-        <item quantity="other"> падпісчыкаў</item>
-        <item quantity="one"> падпісчык</item>
-        <item quantity="few"> падпісчыка</item>
-        <item quantity="many"> падпісчыкаў</item>
+        <item quantity="other">%s падпісчыкаў</item>
+        <item quantity="one">%s падпісчык</item>
+        <item quantity="few">%s падпісчыка</item>
+        <item quantity="many">%s падпісчыкаў</item>
+    </plurals>
+    <plurals name="subtitle_offset_advance_times">
+        <item quantity="other">Паскарэнне субцітраў на %.1f секунд</item>
+        <item quantity="one">Паскарэнне субцітраў на %.1f секунду</item>
+        <item quantity="few">Паскарэнне субцітраў на %.1f секунд</item>
+        <item quantity="many">Паскарэнне субцітраў на %.1f секунд</item>
+    </plurals>
+    <plurals name="subtitle_offset_delay_times">
+        <item quantity="other">Затрымка субцітраў на %.1f секунд</item>
+        <item quantity="one">Затрымка субцітраў на %.1f секунду</item>
+        <item quantity="few">Затрымка субцітраў на %.1f секунд</item>
+        <item quantity="many">Затрымка субцітраў на %.1f секунд</item>
     </plurals>
 </resources>

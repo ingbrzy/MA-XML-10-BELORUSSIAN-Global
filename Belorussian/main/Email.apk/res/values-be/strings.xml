@@ -35,7 +35,7 @@
     <string name="account_settings_enforced_summary">Адсутнічае</string>
     <string name="account_settings_incoming_summary">Імя карыстальніка, пароль і іншыя налады сервера</string>
     <string name="account_settings_login_dialog_content_fmt">Некарэктнае імя карыстальніка або пароль для %s. Абнавіць іх зараз?\"</string>
-    <string name="account_settings_login_dialog_reason_fmt" formatted="false">Не атрымалася ўвайсці ў акаўнт %s. Сервер адказвае: %s</string>
+    <string name="account_settings_login_dialog_reason_fmt">Не атрымалася ўвайсці ў акаўнт %1$s. Сервер адказвае: %2$s</string>
     <string name="account_settings_login_dialog_title">Не атрымалася ўвайсці</string>
     <string name="account_settings_mail_check_frequency_dialog_title">Вам неабходна абнавіць пошту ўручную, каб сінхранізаваць вашы лісты</string>
     <string name="account_settings_mail_check_frequency_dialog_title_eas">Вы павінны будзеце сінхранізаваць пошту уручную, каб мець магчымасць сінхранізаваць паведамленні і падзеі календара.</string>
@@ -231,6 +231,7 @@
     <string name="battery_saver">Энергазберажэнне</string>
     <string name="battery_saver_keywords">энергазберажэнне;батарэя пошты</string>
     <string name="bcc">Утоеная копія</string>
+    <string name="bcc_heading">"Утоеная копія: "</string>
     <string name="bill_center_setting">Налады рахункаў</string>
     <string name="bill_center_setting_head">Імпарт інфармацыі з гэтых акаўнтаў</string>
     <string name="bill_cycle_text">Плацёжны цыкл</string>
@@ -251,6 +252,7 @@
     <string name="cancel_pop3_attchemt_downloading">Не ўдаецца адмяніць бягучыя загрузкі для прымацаванняў у акаўнтах POP3</string>
     <string name="cant_move_or_change_labels">"Немагчыма перамясціць аб'екты з некалькіх акаўнтаў."</string>
     <string name="cc">Копія</string>
+    <string name="cc_attribution">Копія: %1$s&lt;br></string>
     <string name="cc_bcc">Копія/Утоеная копія</string>
     <string name="cc_heading">"Копія: "</string>
     <string name="change_folders_selection_dialog_title">Змяніць папкі</string>
@@ -268,6 +270,7 @@
     <string name="click_download_all_content">[ Націсніце, каб спампаваць ]</string>
     <string name="click_to_reload">Даткніцеся экрана, каб абнавіць</string>
     <string name="collapse_recipient_details">Схаваць звесткі аб атрымальніку</string>
+    <string name="colon">:</string>
     <string name="compose">Стварыць</string>
     <string name="compose_attachment_number_limit">Немагчыма дадаць больш за 10 прымацаванняў</string>
     <string name="compose_paste_address_oob">Занадта шмат сімвалаў</string>
@@ -489,6 +492,7 @@
     <string name="gmail_web_login_required_message">Увайсці ў Gmail</string>
     <string name="have_auth_code">Я маю код</string>
     <string name="header_category_account">Акаўнты</string>
+    <string name="header_category_general">@string/header_label_general_preferences</string>
     <string name="header_category_other">Водгук</string>
     <string name="header_label_general_preferences">Агульныя</string>
     <string name="help_and_info">Дапамога</string>
@@ -511,6 +515,7 @@
     <string name="invalid_recipient">Адрас %s несапраўдны.</string>
     <string name="invalid_recipient_title">Памылка атрымальніка</string>
     <string name="kilobytes">%s КБ</string>
+    <string name="label_notification_ticker">%1$s: %2$s</string>
     <string name="list_empty_to_fresh">Пакуль няма паведамленняў электроннай пошты.</string>
     <string name="load_from_remote">Пошук паштовай скрыні на серверы</string>
     <string name="load_more">Загрузіць больш</string>
@@ -759,7 +764,7 @@
     <string name="permission_read_attachment_label">Чытаць прымацаванні</string>
     <string name="phone">тэлефонам</string>
     <string name="photo_load_failed">Не атрымалася загрузіць выяву</string>
-    <string name="photo_view_count" formatted="false">%dз%d</string>
+    <string name="photo_view_count">%1$dз%2$d</string>
     <string name="please_fill_in_your_mailbox_information2">Увядзіце дадзеныя вашай паштовай скрыні</string>
     <string name="pls_parse_bill_discribe">"Аналізуйце рахункі і інфармацыю пра падарожжы ў вашай электроннай пошце,
 каб атрымліваць напамінкі пра плацяжы і паездкі"</string>
@@ -898,13 +903,14 @@
     <string name="refreshing_done">Зроблена</string>
     <string name="release_to_refresh">Адпусціце, каб абнавіць</string>
     <string name="remind_attachment_size_limit">Вашыя лісты павінны быць меншымі за %sМБ</string>
+    <string name="remote_no_mail">На сэрвэры больш няма лістоў.</string>
     <string name="remove_account">Выдаліць акаўнт</string>
     <string name="remove_folder">Выдаліць з папкі %1$s</string>
     <string name="remove_star">Зьняць адзнаку</string>
     <string name="reply">Адказаць</string>
     <string name="reply_add_bodycontent">Дадаць адказ да тэксту паведамлення?</string>
     <string name="reply_all">Адказаць усім</string>
-    <string name="reply_attribution" formatted="false">%s %s напісаў(ла):</string>
+    <string name="reply_attribution">%1$s %2$s напісаў(ла):</string>
     <string name="report_phishing">Паведаміць пра фішынг</string>
     <string name="report_spam">Паведаміць пра спам</string>
     <string name="request_copy_db_to_disk">Праграме Пошта неабходны дазвол, каб скапіяваць вашу базу дадзеных у файл</string>
@@ -982,12 +988,14 @@
     <string name="silent_ringtone">Без гуку</string>
     <string name="single_new_message_notification_big_text">"%1$s
 %2$s"</string>
+    <string name="single_new_message_notification_title">%1$s: %2$s</string>
     <string name="smtp_password_error">Няправільны пароль для сервера выходнай пошты</string>
     <string name="sort_attachment">Сартаваць па</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage">Сховішча</string>
     <string name="str_select_all">Выбраць усё</string>
     <string name="str_select_none">Зняць выбар з усіх</string>
-    <string name="subject_and_snippet" formatted="false">%s — %s</string>
+    <string name="subject_and_snippet">%1$s — %2$s</string>
     <string name="subject_hint">Тэма</string>
     <string name="sync_contacts_fail_per_content">Націсніце, каб дазволіць доступ да кантактаў</string>
     <string name="sync_contacts_fail_per_title">Не атрымалася сінхранізацыя кантактаў</string>

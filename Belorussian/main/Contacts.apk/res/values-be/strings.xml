@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="status_bar_notification_info_overflow">больш за 999</string>
     <string name="accessibility_calllog_detail">Гісторыя выклікаў</string>
     <string name="accessibility_contact_detail">Інфармацыя пра кантакт</string>
     <string name="account_container_title">З акаўнта</string>
@@ -100,6 +101,7 @@
     <string name="call_sim_menu_title_suffix">(Асноўны)</string>
     <string name="call_telex">Тэлекс</string>
     <string name="call_tty_tdd">Тэлетайп</string>
+    <string name="call_type_and_date">%1$s %2$s</string>
     <string name="call_unit">CNY</string>
     <string name="call_work">Працоўны тэлефон</string>
     <string name="call_work_mobile">Працоўны мабільны</string>
@@ -133,6 +135,7 @@
     <string name="callrecordview_menu_delete_sim">Выдаліць запісы журнала выклікаў (%s)</string>
     <string name="callrecordview_menu_delete_stranger">Ачысціць спіс невядомых нумароў</string>
     <string name="callrecordview_menu_edit_call_note">Рэдагаваць нататку</string>
+    <string name="callrecordview_menu_identify_numbers">Вызначыць тэлефонныя нумары</string>
     <string name="callrecordview_menu_ip">Аўтанабор IP</string>
     <string name="callrecordview_menu_livetalk">Пакет папаўнення балансу</string>
     <string name="callrecordview_menu_misim">Mi SIM</string>
@@ -181,11 +184,11 @@
     <string name="cloud_antispam_mark">Пазнака</string>
     <string name="cloud_antispam_marked">Пазначана</string>
     <string name="cloud_antispam_title">Вызначальнік нумароў</string>
-    <string name="cloud_recommend_msg">Націсніце для сінхранізацыі кантатаў з Mi Cloud.</string>
-    <string name="cloud_state_disabled">Сінхранізацыя з Mi Cloud адключана</string>
+    <string name="cloud_recommend_msg">Націсніце для сінхранізацыі кантатаў з воблакам.</string>
+    <string name="cloud_state_disabled">Сінхранізацыя кантактаў з воблакам</string>
     <string name="cloud_state_loading">Хвілінку…</string>
-    <string name="cloud_state_sync_finished">Сінхранізавана з Mi Cloud</string>
-    <string name="cloud_state_syncing">Сінхранізавана з Mi Cloud</string>
+    <string name="cloud_state_sync_finished">Сінхранізавана з воблакам</string>
+    <string name="cloud_state_syncing">Сінхранізацыя з воблакам</string>
     <string name="combined_title_and_miprofile_swaped">%1$s, %2$s</string>
     <string name="combined_title_and_miprofile_swaped_huge_mode">"%1$s
 %2$s"</string>
@@ -212,6 +215,7 @@
     <string name="contact_detail_action_item_nocalllog">Гісторыя пустая</string>
     <string name="contact_detail_calllog_call_note_tips">Нататка</string>
     <string name="contact_detail_calllog_call_record_tips">Запісаны выклік</string>
+    <string name="contact_detail_calllog_correct_yellow_page">Выправіць ці паскардзіцца</string>
     <string name="contact_detail_calllog_empty">Гісторыя пустая</string>
     <string name="contact_detail_entry_pay">Адправіць грошы</string>
     <string name="contact_detail_entry_pay_dialog_title">Абярыце нумар тэлефона</string>
@@ -233,6 +237,7 @@
     <string name="contact_detail_miprofile_save_success_toast">Візітка атрымана</string>
     <string name="contact_detail_miprofile_settings_header">ДАДАТКОВЫЯ НАЛАДЫ</string>
     <string name="contact_detail_miprofile_subtitle">Абмен карткамі адбыўся</string>
+    <string name="contact_detail_more_calllog">Паказаць яшчэ</string>
     <string name="contact_detail_profile_switch_fail_network_toast">Немагчыма злучыцца з сеткай</string>
     <string name="contact_detail_profile_switch_fail_toast">Нешта не так з нашым серверам</string>
     <string name="contact_detail_profile_switch_off">Адключыць візіткі</string>
@@ -253,6 +258,7 @@
     <string name="contact_import_methods_dialog_bluetooth">Bluetooth</string>
     <string name="contact_import_methods_dialog_mi_mover">Mi Mover</string>
     <string name="contact_import_methods_dialog_title">Выберыце спосаб імпарту</string>
+    <string name="contact_is_deleted">Гэты кантакт быў выдалены</string>
     <string name="contact_is_readOnly">Не атрымліваецца адрэдагаваць кантакт толькі для чытання</string>
     <string name="contact_list_loading">Загрузка…</string>
     <string name="contact_pick_photo">Фота</string>
@@ -436,6 +442,8 @@
     <string name="edit_contact">Змяніць кантакт</string>
     <string name="edit_contact_card_title">Выберыце элементы для адпраўкі</string>
     <string name="edit_contact_photo">Змяніць фота кантакту</string>
+    <string name="eight">8</string>
+    <string name="eight_letter">TUV</string>
     <string name="email">Email</string>
     <string name="emailLabelsGroup">Email</string>
     <string name="email_custom">Напісаць email %s</string>
@@ -487,9 +495,14 @@
     <string name="favoritesFrequentContacted">Часта выклікаемыя</string>
     <string name="favorites_list_empty">Няма выбраных</string>
     <string name="firewall_setting">Чорны спіс</string>
+    <string name="five">5</string>
+    <string name="five_letter">JKL</string>
     <string name="force_touch_miprofile">Візітка</string>
     <string name="force_touch_new_contact">Новы кантакт</string>
+    <string name="four">4</string>
+    <string name="four_letter">GHI</string>
     <string name="frequentList">Частыя</string>
+    <string name="from_account_format">%1$s</string>
     <string name="full_name">Імя</string>
     <string name="gallery">Галерэя</string>
     <string name="generic_no_account_prompt">Трымайце свае кантакты ў бяспецы нават калі Вы згубіце свой тэлефон: сінхранізацыя з анлайн-сэрвісам.</string>
@@ -673,6 +686,7 @@
     <string name="miprofile_contact_header">Кантакты з візіткамі</string>
     <string name="miprofile_contact_meaasge">Кантакты на прыладзе</string>
     <string name="miprofile_contact_verifying">Праверка</string>
+    <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miprofile_edit_title">Рэдагаваць профіль</string>
     <string name="miprofile_error_accept_self">Нельга абмяняцца візіткамі з сабой</string>
     <string name="miprofile_error_no_miaccount">Увайсці ў Mi Акаўнт</string>
@@ -746,6 +760,8 @@
     <string name="nickname_editor_title">Змяніць нік</string>
     <string name="nickname_picker_name_column">Імя кантакту</string>
     <string name="nickname_picker_nickname_column">Імя</string>
+    <string name="nine">9</string>
+    <string name="nine_letter">WXYZ</string>
     <string name="noAccounts">Для стварэння груп неабходны акаўнт.</string>
     <string name="noContactHelpTextAccountsInfo" />
     <string name="noContactHelpTextImportXiaomiAccountInfo">Аднавіць дадзеныя кантакты з дапамогай Mi Акаўнта</string>
@@ -773,6 +789,7 @@
     <string name="notification_action_voicemail_play">Прайграць</string>
     <string name="notification_new_voicemail_ticker">Новае галасавое паведамленне ад %1$s</string>
     <string name="notification_voicemail_callers_list">%1$s, %2$s</string>
+    <string name="one">1</string>
     <string name="openDialKeyboard">Клавіятура</string>
     <string name="open_contact">Адчыніць кантакт</string>
     <string name="open_dial_pad_description">Адкрыць клавіятуру</string>
@@ -817,7 +834,10 @@
     <string name="path_wipe_data">Сістэмныя праграмы/Кантакты/Дадаткова/Ачысціць дадзеныя</string>
     <string name="payphone">Таксафон</string>
     <string name="people">Кантакты</string>
+    <string name="percent_sign">%</string>
+    <string name="percentage">%s%%</string>
     <string name="phoneLabelsGroup">Тэлефон</string>
+    <string name="phone_info_divider">" ｜ "</string>
     <string name="phone_number_too_long_toast">Нумар занадта доўгі</string>
     <string name="phone_primary">Асноўны</string>
     <string name="photoPickerNotFoundText">Няма выяў.</string>
@@ -848,6 +868,7 @@
     <string name="postal_postcode">Паштовы індэкс</string>
     <string name="postal_region">Рэгіён</string>
     <string name="postal_street">Вуліца</string>
+    <string name="pound">\#</string>
     <string name="pref_key_photo">Фота</string>
     <string name="pref_key_photo_word_summary">Аўтаматычна прызначаць выяву кантактам без фота</string>
     <string name="pref_key_photo_word_title">Выява кантакту без фота</string>
@@ -977,6 +998,7 @@
     <string name="scan_bussiness_card_merge_tip">Супярэчлівыя дадзеныя былі заменены</string>
     <string name="scan_duplicate_message">%1$d кантакты з аднолькавымі дадзенымі</string>
     <string name="scan_merge">Пошук магчымых дублікатаў кантактаў…\"</string>
+    <string name="scan_not_installed">Спачатку ўсталюйце Сканер</string>
     <string name="scan_qrcode_card_hint1">Скануйце QR-код вышэй</string>
     <string name="scan_qrcode_card_hint2" />
     <string name="scanning_sdcard_failed_message">Прычына: \"%s\".</string>
@@ -1027,6 +1049,8 @@
     <string name="set_data_package">Выберыце тарыфны план</string>
     <string name="set_default">Усталяваць па змаўчанні</string>
     <string name="set_photo_failed_msg">Не атрымалася прызначыць фота</string>
+    <string name="seven">7</string>
+    <string name="seven_letter">PQRS</string>
     <string name="share_contact_as">Падзяліцца кантактам як</string>
     <string name="share_error">Не атрымалася перадаць дадзеныя</string>
     <string name="share_over_limit">Нельга перадаць больш за 1000 кантактаў</string>
@@ -1037,6 +1061,8 @@
     <string name="shortcutContact">Кантакт</string>
     <string name="shortcutDialContact">"Хуткі набор "</string>
     <string name="shortcutMessageContact">Хуткае паведамленне</string>
+    <string name="shortcut_new_contact_label">Новы контакт</string>
+    <string name="shortcut_scan_label">Сканаваць візітоўку</string>
     <string name="showAllContactsJoinItem">Паказаць усе кантакты</string>
     <string name="simContacts_airplaneMode">Адключыць рэжым палёту для імпарту кантактаў з SIM-карты</string>
     <string name="simContacts_empty">Няма кантактаў на SIM-карце</string>
@@ -1067,6 +1093,9 @@
     <string name="sim_unloaded">SIM-карта не ўсталявана</string>
     <string name="sina_weibo">Sina Weibo</string>
     <string name="single_group_list_empty">Няма кантактаў у групе</string>
+    <string name="six">6</string>
+    <string name="six_letter">MNO</string>
+    <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
     <string name="smart_group_company_label">Па кампаніям</string>
     <string name="smart_group_company_unavailable">Няма кампаніі</string>
     <string name="smart_group_frequency_1">Напрацягу месяца</string>
@@ -1106,6 +1135,8 @@
     <string name="special_code_security_exception">Не атрымалася выканаць дзеянне. Гэта не ваша клавіатура па змаўчанні.</string>
     <string name="splitConfirmation">Вы жадаеце раздзяліць кантакт.</string>
     <string name="splitConfirmation_title">Раздзяліць кантакт?</string>
+    <string name="star">*</string>
+    <string name="star_letter">,</string>
     <string name="starredList">Адзначаныя</string>
     <string name="starred_contacts">Абраныя</string>
     <string name="status_available">На месцы</string>
@@ -1122,9 +1153,11 @@
     <string name="t9_search_guide_pinyin_title1">Увядзіце лічбы для пошуку кантактаў</string>
     <string name="t9_search_guide_pinyin_title2">Увядзіце \"4\" і \"9\", каб знайсці \"<font fgcolor="">Я</font>куб <font fgcolor="">К</font>олас\"</string>
     <string name="t9_search_guide_zhuyin_title1">Увядзіце лічбы для пошуку кантактаў</string>
-    <string name="t9_search_guide_zhuyin_title2">Увядзіце \"5\" и \"6\", каб знайсці \"<font fgcolor="">М</font>аксім <font fgcolor="">Т</font>анк\"</string>
+    <string name="t9_search_guide_zhuyin_title2">Увядзіце \"5\" і \"6\", каб знайсці \"<font fgcolor="">М</font>аксім <font fgcolor="">Т</font>анк\"</string>
     <string name="take_new_photo">Зняць новае фота</string>
     <string name="take_photo">Зняць фота</string>
+    <string name="three">3</string>
+    <string name="three_letter">DEF</string>
     <string name="titleJoinContactDataWith">"Аб'яднаць кантакты"</string>
     <string name="title_other_devices">Іншыя даступныя прылады</string>
     <string name="title_paired_devices">Далучанныя прылады</string>
@@ -1144,6 +1177,8 @@
     <string name="toast_text_copied">Тэкст скапіяваны</string>
     <string name="today">Сёння</string>
     <string name="transfer_accounts">Перадача акаўнтаў</string>
+    <string name="two">2</string>
+    <string name="two_letter">ABC</string>
     <string name="type_incoming">Уваходны выклік</string>
     <string name="type_missed">Прапушчаны выклік</string>
     <string name="type_mx_msg">Mi Паведамленні</string>
@@ -1201,9 +1236,11 @@
     <string name="voip_audio_description">Выклік VoIP</string>
     <string name="voip_video_description">Відэавыклік VoIP</string>
     <string name="websiteLabelsGroup">Сайт</string>
+    <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
     <string name="wipe_data">Ачысціць дадзеныя</string>
     <string name="yellowPageNavigationIconLabel">Даведнік</string>
     <string name="yellowPageNavigationLabel">Даведнік</string>
+    <string name="yellowpage_address_tag">Адрас</string>
     <string name="yellowpage_fc_toast">Немагчыма выкарыстоўваць гэтую функцыю з-за збою даведніка.</string>
     <string name="yellowpage_navigation_ad_hint">Рэклама</string>
     <string name="yellowpage_navigation_balance_refresh_failed">Баланс і трафік не могуць быць правераны, паўтарыце спробу пазней.</string>
@@ -1224,7 +1261,10 @@
     <string name="yellowpage_navigation_send_to_desktop_downloading">Спампоўка…</string>
     <string name="yellowpage_navigation_send_to_desktop_failed">Немагчыма злучыцца з сеткай</string>
     <string name="yellowpage_navigation_send_to_desktop_succeeded">Дададзена на галоўны экран</string>
+    <string name="yellowpage_provider_label">Дадзеныя прадастаўленыя</string>
     <string name="yellowpage_search_the_yellowpage">Пошук у даведніку</string>
     <string name="yellowpage_user_profile">Профіль</string>
+    <string name="zero">0</string>
     <string name="zero_items_selected">Выберыце кантакт</string>
+    <string name="zero_letter">+</string>
 </resources>

@@ -3,12 +3,12 @@
     <string-array name="aquarius_info">
         <item>aquarius</item>
         <item>Вадалей</item>
-        <item>20.01-18.02</item>
+        <item>20/1 - 18/2</item>
     </string-array>
     <string-array name="aries_info">
         <item>aries</item>
         <item>Авен</item>
-        <item>21.03-19.04</item>
+        <item>21/3 - 19/4</item>
     </string-array>
     <string-array name="bundesliga">
         <item>2</item>
@@ -17,12 +17,12 @@
     <string-array name="cancer_info">
         <item>cancer</item>
         <item>Рак</item>
-        <item>22.06-22.07</item>
+        <item>22/6 - 22/7</item>
     </string-array>
     <string-array name="capricorn_info">
         <item>capricorn</item>
         <item>Казярог</item>
-        <item>22.12-19.01</item>
+        <item>22/12 - 19/1</item>
     </string-array>
     <string-array name="change_response_labels">
         <item>Толькі гэта падзея</item>
@@ -81,10 +81,14 @@
         <item>Гэта і будучая падзея</item>
         <item>Усе падзеі</item>
     </string-array>
+    <string-array name="english_premium_league">
+        <item>4</item>
+        <item>@string/english_premium_league</item>
+    </string-array>
     <string-array name="gemini_info">
         <item>gemini</item>
         <item>Двайняты</item>
-        <item>21.05-21.06</item>
+        <item>21/5 - 21/6</item>
     </string-array>
     <string-array name="la_liga">
         <item>3</item>
@@ -93,21 +97,30 @@
     <string-array name="leo_info">
         <item>leo</item>
         <item>Леў</item>
-        <item>23.07-22.08</item>
+        <item>23/7 - 22/8</item>
     </string-array>
     <string-array name="libra_info">
         <item>libra</item>
         <item>Шалі</item>
-        <item>23.09-23.10</item>
+        <item>23/9 - 23/10</item>
     </string-array>
     <string-array name="ligue_1">
         <item>5</item>
         <item>Чэмпіянат Францыі</item>
     </string-array>
+    <string-array name="panchang_weeks">
+        <item>Нядзеля</item>
+        <item>Панядзелак</item>
+        <item>Аўторак</item>
+        <item>Серада</item>
+        <item>Чацвер</item>
+        <item>Пятніца</item>
+        <item>Субота</item>
+    </string-array>
     <string-array name="pisces_info">
         <item>pisces</item>
         <item>Рыбы</item>
-        <item>19.02-20.03</item>
+        <item>19/2 - 20/3</item>
     </string-array>
     <string-array name="prefEntries_alerts_vibrateWhen">
         <item>Заўсёды</item>
@@ -204,6 +217,43 @@
         <item>месяц</item>
         <item>год</item>
     </string-array>
+    <string-array name="repeat_monthly_on_day_count_values">
+        <item>першы панядзелак</item>
+        <item>першы аўторак</item>
+        <item>першая серада</item>
+        <item>першы чацвер</item>
+        <item>першая пятніца</item>
+        <item>першая субота</item>
+        <item>першая нядзеля</item>
+        <item>другі панядзелак</item>
+        <item>другі аўторак</item>
+        <item>другая серада</item>
+        <item>другі чацвер</item>
+        <item>другая пятніца</item>
+        <item>другая субота</item>
+        <item>другая нядзеля</item>
+        <item>трэці панядзелак</item>
+        <item>трэці аўторак</item>
+        <item>трэцяя серада</item>
+        <item>трэці чацвер</item>
+        <item>трэцяя пятніца</item>
+        <item>трэцяя субота</item>
+        <item>трэцяя нядзеля</item>
+        <item>чацвёрты панядзелак</item>
+        <item>чацвёрты аўторак</item>
+        <item>чацвёртая серада</item>
+        <item>чацвёрты чацвер</item>
+        <item>чацвёртая пятніца</item>
+        <item>чацвёртая субота</item>
+        <item>чацвёртая нядзеля</item>
+        <item>апошні панядзелак</item>
+        <item>апошні аўторак</item>
+        <item>апошняя серада</item>
+        <item>апошні чацвер</item>
+        <item>апошняя пятніца</item>
+        <item>апошняя субота</item>
+        <item>апошняя нядзеля</item>
+    </string-array>
     <string-array name="response_labels1">
         <item>Няма адказу</item>
         <item>Так</item>
@@ -213,12 +263,12 @@
     <string-array name="sagittarius_info">
         <item>sagittarius</item>
         <item>Стралец</item>
-        <item>23.11-21.12</item>
+        <item>23/11 - 21/12</item>
     </string-array>
     <string-array name="scorpio_info">
         <item>scorpio</item>
         <item>Скарпіён</item>
-        <item>24.10-22.11</item>
+        <item>24/10 - 22/11</item>
     </string-array>
     <string-array name="serie_a">
         <item>1</item>
@@ -227,7 +277,7 @@
     <string-array name="taurus_info">
         <item>taurus</item>
         <item>Цяля</item>
-        <item>20.04-20.05</item>
+        <item>20/4 - 20/5</item>
     </string-array>
     <string-array name="timezone_labels">
         <item>Маршалавы астравы</item>
@@ -327,7 +377,7 @@
     <string-array name="virgo_info">
         <item>virgo</item>
         <item>Дзева</item>
-        <item>23.08-22.09</item>
+        <item>23/8 - 22/9</item>
     </string-array>
     <string-array name="week_header_name">
         <item>НД</item>
@@ -341,42 +391,5 @@
     <string-array name="widget_style_list">
         <item>Празрысты</item>
         <item>Белы фон</item>
-    </string-array>
-    <string-array name="repeat_monthly_on_day_count_values">
-        <item>першы панядзелак</item>
-        <item>першы аўторак</item>
-        <item>першая серада</item>
-        <item>першы чацвер</item>
-        <item>першая пятніца</item>
-        <item>першая субота</item>
-        <item>першая нядзеля</item>
-        <item>другі панядзелак</item>
-        <item>другі аўторак</item>
-        <item>другая серада</item>
-        <item>другі чацвер</item>
-        <item>другая пятніца</item>
-        <item>другая субота</item>
-        <item>другая нядзеля</item>
-        <item>трэці панядзелак</item>
-        <item>трэці аўторак</item>
-        <item>трэцяя серада</item>
-        <item>трэці чацвер</item>
-        <item>трэцяя пятніца</item>
-        <item>трэцяя субота</item>
-        <item>трэцяя нядзеля</item>
-        <item>чацвёрты панядзелак</item>
-        <item>чацвёрты аўторак</item>
-        <item>чацвёртая серада</item>
-        <item>чацвёрты чацвер</item>
-        <item>чацвёртая пятніца</item>
-        <item>чацвёртая субота</item>
-        <item>чацвёртая нядзеля</item>
-        <item>апошні панядзелак</item>
-        <item>апошні аўторак</item>
-        <item>апошняя серада</item>
-        <item>апошні чацвер</item>
-        <item>апошняя пятніца</item>
-        <item>апошняя субота</item>
-        <item>апошняя нядзеля</item>
     </string-array>
 </resources>

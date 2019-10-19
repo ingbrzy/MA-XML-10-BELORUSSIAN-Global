@@ -27,7 +27,7 @@
     <string name="first_using_mic_dialog_message">Праграме патрабуецца доступ да мікрафону для запісу гуку. Дазволіць?</string>
     <string name="first_using_mic_dialog_title">Патрабуюцца дазволы</string>
     <string name="fixed_frame_rate">Фіксаваная частата кадраў</string>
-    <string name="fixed_frame_rate_summary">Recording videos with fixed frame rate enhances playback on social media platforms and reduces battery life.</string>
+    <string name="fixed_frame_rate_summary">Паляпшае прайграванне на платформах сацыяльных сетак і падаўжае час працы ад батарэі.</string>
     <string name="frames">Частата кадраў</string>
     <string name="frames_summary">Больш вялікая частата кадраў змяншае размыццё руху</string>
     <string name="frequently_click_toast">Хвілінку…</string>
@@ -58,6 +58,7 @@
     <string name="operation_send">Даслаць</string>
     <string name="permission_intro_microphone">Для запісу гуку, калі крыніца гуку настроены на мікрафон</string>
     <string name="permission_intro_storage">Для захавання запісаў экрана</string>
+    <string name="permission_microphone_desc">Выкарыстанне мікрафона для запісу гуку падчас запісу экрана</string>
     <string name="quit_recording">Выйсці з праграмы</string>
     <string name="recording_failure">Немагчыма запісаць, пачніце зноў</string>
     <string name="recording_max_size">Запіс будзе спынены і захаваны з-за дасягнення абмежавання на памер файла. Калі неабходна, пачніце запіс з таго моманту, дзе вы спыніліся.</string>
@@ -70,6 +71,8 @@
     <string name="screen_record_params">Параметры запісу</string>
     <string name="select_all">Выбраць усё</string>
     <string name="settings">Налады</string>
+    <string name="settings_other">Іншае</string>
+    <string name="settings_privacy">Палітыка прыватнасці</string>
     <string name="show_hard_key">Адлюстроўваць кнопкі навігацыі</string>
     <string name="show_hard_key_summary">Паказваць падказкі пры націскваннях на кнопкі Дадому, Меню і Назад</string>
     <string name="show_screen_touch">Паказваць дотыкі і жэсты</string>

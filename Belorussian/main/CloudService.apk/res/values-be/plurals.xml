@@ -91,10 +91,10 @@
         <item quantity="many">"%d схаваных фота не сінхранізаваны. Выйдзіце пасля сінхранізацыі ўсіх аб'ектаў, каб захаваць іх; у іншым выпадку аб'екты будуць выдалены."</item>
     </plurals>
     <plurals name="micloud_manual_pause_and_resume">
-        <item quantity="other">Сінхранізацыя прыпыненая. Працяг праз %d хвілін…</item>
-        <item quantity="one">Сінхранізацыя прыпыненая. Працяг праз %d хвіліну…</item>
-        <item quantity="few">Сінхранізацыя прыпыненая. Працяг праз %d хвіліны…</item>
-        <item quantity="many">Сінхранізацыя прыпыненая. Працяг праз %d хвілін…</item>
+        <item quantity="other">Сінхранізацыя працягнецца праз %d хвілін</item>
+        <item quantity="one">Сінхранізацыя працягнецца праз %d хвіліну</item>
+        <item quantity="few">Сінхранізацыя працягнецца праз %d хвіліны</item>
+        <item quantity="many">Сінхранізацыя працягнецца праз %d хвілін</item>
     </plurals>
     <plurals name="last_sync_time_mins_ago">
         <item quantity="other">%s хв таму</item>
@@ -109,9 +109,9 @@
         <item quantity="many">%s гадз. таму</item>
     </plurals>
     <plurals name="provision_sync_items_status_title">
-        <item quantity="other">Будуць сінхранізаваныя %s сэрвіса</item>
-        <item quantity="one">Будзе сінхранізаваны %s сэрвіс</item>
-        <item quantity="few">Будуць сінхранізаваныя %s сэрвіса</item>
-        <item quantity="many">Будуць сінхранізаваныя %s сэрвіса</item>
+        <item quantity="other">%s сэрвісаў будуць сінхранізаваныя з Xiaomi Cloud</item>
+        <item quantity="one">%s сэрвіс будзе сінхранізаваны з Xiaomi Cloud</item>
+        <item quantity="few">%s сэрвіса будуць сінхранізаваныя з Xiaomi Cloud</item>
+        <item quantity="many">%s сэрвісаў будуць сінхранізаваныя з Xiaomi Cloud</item>
     </plurals>
 </resources>

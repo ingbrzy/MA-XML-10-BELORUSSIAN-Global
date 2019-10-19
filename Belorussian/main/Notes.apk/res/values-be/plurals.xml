@@ -7,10 +7,22 @@
         <item quantity="many">"Выдаліць %1$s аб'ектаў?"</item>
     </plurals>
     <plurals name="cloud_state_unsynced_count">
-        <item quantity="other">"Не сінхранізавана %1$s аб'ектаў"</item>
-        <item quantity="one">"Не сінхранізаваны %1$s аб'ект"</item>
-        <item quantity="few">"Не сінхранізавана %1$s аб'екты"</item>
-        <item quantity="many">"Не сінхранізавана %1$s аб'ектаў"</item>
+        <item quantity="other">"%1$s аб'ектаў не былі сінхранізаваны"</item>
+        <item quantity="one">"%1$s аб'ект не быў сінхранізаваны"</item>
+        <item quantity="few">"%1$s аб'екта не былі сінхранізаваны"</item>
+        <item quantity="many">"%1$s аб'ектаў не былі сінхранізаваны"</item>
+    </plurals>
+    <plurals name="date_calculate_days_after">
+        <item quantity="other">%1$d дзён пасля</item>
+        <item quantity="one">%1$d дзень пасля</item>
+        <item quantity="few">%1$d дні пасля</item>
+        <item quantity="many">%1$d дзён пасля</item>
+    </plurals>
+    <plurals name="date_calculate_days_ago">
+        <item quantity="other">%1$d дзён назад</item>
+        <item quantity="one">%1$d дзень назад</item>
+        <item quantity="few">%1$d дні назад</item>
+        <item quantity="many">%1$d дзён назад</item>
     </plurals>
     <plurals name="format_move_notes_out_folder">
         <item quantity="other">%1$s нататак выдаленыя з тэчкі</item>
@@ -41,6 +53,36 @@
         <item quantity="one">Адменена утойванне %1$s нататкі</item>
         <item quantity="few">Адменена утойванне %1$s нататак</item>
         <item quantity="many">Адменена утойванне %1$s нататак</item>
+    </plurals>
+    <plurals name="todo_N_days_after">
+        <item quantity="other">Праз %1$d дзён</item>
+        <item quantity="one">Праз %1$d дзень</item>
+        <item quantity="few">Праз %1$d дні</item>
+        <item quantity="many">Праз %1$d дзён</item>
+    </plurals>
+    <plurals name="todo_N_days_ago">
+        <item quantity="other">%1$d дзён таму</item>
+        <item quantity="one">%1$d дзень таму</item>
+        <item quantity="few">%1$d дні таму</item>
+        <item quantity="many">%1$d дзён таму</item>
+    </plurals>
+    <plurals name="todo_alert_message_delete">
+        <item quantity="other">Выдаліць %1$s задач?</item>
+        <item quantity="one">Выдаліць задачу (%1$s)?</item>
+        <item quantity="few">Выдаліць %1$s задачы?</item>
+        <item quantity="many">Выдаліць %1$s задач?</item>
+    </plurals>
+    <plurals name="todo_event_description_days_ago">
+        <item quantity="other">%1$d дзён таму</item>
+        <item quantity="one">%1$d дзень таму</item>
+        <item quantity="few">%1$d дні таму</item>
+        <item quantity="many">%1$d дзён таму</item>
+    </plurals>
+    <plurals name="todo_event_description_days_later">
+        <item quantity="other">Праз %1$d дзён</item>
+        <item quantity="one">Праз %1$d дзень</item>
+        <item quantity="few">Праз %1$d дні</item>
+        <item quantity="many">Праз %1$d дзён</item>
     </plurals>
     <plurals name="word_count">
         <item quantity="other">%d сімвалаў</item>

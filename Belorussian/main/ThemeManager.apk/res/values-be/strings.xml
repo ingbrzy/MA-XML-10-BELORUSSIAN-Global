@@ -29,8 +29,6 @@
     <string name="abc_toolbar_collapse_description">Згарнуць</string>
     <string name="about_app_name">Аб тэмах</string>
     <string name="about_version_update">Што новага</string>
-    <string name="accessibility_setting_hint">"Націсніце кнопку ў правым верхнім куце для ўключэння гэтай службы.
-Темы вызначаць, якімі праграмамі вы карыстаецеся, і адлюструюць празрыстыя шпалеры ў праграмах па вашаму выбару."</string>
     <string name="accessibiliy_description_content_account">Профіль</string>
     <string name="accessibiliy_description_content_ad">Рэклама</string>
     <string name="accessibiliy_description_content_add_resource">Дадаць элементы</string>
@@ -70,6 +68,11 @@
     <string name="audio_duration_minutes_format">%1$d хвілін</string>
     <string name="audio_duration_seconds_format">%1$d секунд</string>
     <string name="audition_ringtone">Прайграць</string>
+    <string name="author_attention">Падпісацца</string>
+    <string name="author_attention_success">Падпісана паспяхова</string>
+    <string name="author_dialog_message">Адпісацца ад гэтага акаўнта?</string>
+    <string name="author_dynamic">Статус</string>
+    <string name="author_dynamic_no_resource">Нічога не знойдзена</string>
     <string name="automatically_update_using_theme_tips">Абнаўляць тэму аўтаматычна</string>
     <string name="backup_theme_dialog_message">Захаваць вашую цяперашнюю тэму?</string>
     <string name="backup_theme_dialog_ok">Захаваць</string>
@@ -103,6 +106,7 @@
     <string name="component_title_wallpaper">Шпалеры</string>
     <string name="count_down_tip">Засталося %d с</string>
     <string name="current_using_desktop_wallpaper_text">Галоўны экран</string>
+    <string name="current_using_float_wallpaper_text">Празрысты</string>
     <string name="current_using_lockscreen_wallpaper_text">Экран блакавання</string>
     <string name="current_version">Бягучая версія: %1$s</string>
     <string name="current_version_incompatible">Несумяшчальная</string>
@@ -117,6 +121,9 @@
     <string name="description_version_szie">Версія: %1$s Памер: %2$s</string>
     <string name="desktop_effects">Эфекты працоўнага стала</string>
     <string name="desktop_wallpaper">Галоўны экран</string>
+    <string name="detail_author_attention_head">Падпішыцеся на нашых славутых дызайнераў</string>
+    <string name="detail_author_fans">"Падпісчыкі: "</string>
+    <string name="detail_author_works">"Аб'екты: "</string>
     <string name="detail_recommend_title">Рэкамендаванае</string>
     <string name="dev_options">Налады для распрацоўшчыкаў</string>
     <string name="dev_options_summary">Web рэсурсы</string>
@@ -124,9 +131,9 @@
     <string name="download_preview_failed">Не атрымалася спампаваць эскіз</string>
     <string name="download_success">Спампоўка завершана</string>
     <string name="dynamic_video_wallpaper">Шпалеры на 24 г</string>
-    <string name="enable_accessibility">Патрабуюцца дазволы спецыяльных магчымасцяў</string>
-    <string name="enable_accessibility_hint">Вы можаце ўключыць гэтую паслугу ў тэмах. Пасля гэтага вы зможаце выбраць, якія праграмы павінны працаваць з празрыстымі шпалерамі.</string>
+    <string name="enable_all_free_mode">Выкарыстаць</string>
     <string name="enable_transparent_wallpaper">Выкарыстоўваць празрыстыя шпалеры</string>
+    <string name="enabling_all_free_mode">Выкарыстанне…</string>
     <string name="exit_extreme_mode_dialog_agree">Згадзіцца</string>
     <string name="exit_extreme_mode_dialog_cancel">Скасаваць</string>
     <string name="exit_extreme_mode_dialog_title">Адключыць рэжым \"Экстрым\"</string>
@@ -149,7 +156,9 @@
     <string name="exo_download_notification_channel_name">Спампоўкі</string>
     <string name="exo_download_removing">Выдаленне спамповак</string>
     <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Мбіт/с</string>
     <string name="exo_track_mono">Мона</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">Аўтаматычна</string>
     <string name="exo_track_selection_none">Няма</string>
     <string name="exo_track_selection_title_audio">Аўдыя</string>
@@ -201,11 +210,18 @@
     <string name="gift_use_confirmation_dlg_title">Даслаць падарунак?</string>
     <string name="gift_use_fail_dlg_title">Адбылася памылка</string>
     <string name="gift_used">Адпраўлена</string>
-    <string name="go_accessibility_setting">Абраць</string>
     <string name="goto_purchased_list">Гісторыя набыткаў</string>
     <string name="goto_wechat">Акаўнт WeChat \"%1$s\" скапіяваны ў буфер абмену. Адкрыць WeChat?</string>
-    <string name="hide_free">Схаваць бясплатныя %1$s</string>
+    <string name="has_mamual_hide_font">Схаваныя</string>
+    <string name="has_mamual_hide_theme">Схаваныя</string>
+    <string name="has_mamual_hide_wallpaper">Схаваныя</string>
+    <string name="hide_free_font">Схаваць бясплатныя шрыфты</string>
+    <string name="hide_free_theme">Схаваць бясплатныя тэмы</string>
+    <string name="hide_free_wallpaper">Схаваць бясплатныя шпалеры</string>
     <string name="hide_incompatible">Схаваць несумяшчальныя %1$s</string>
+    <string name="hide_mamual_hide_font">Не паказваць схаваныя шрыфты</string>
+    <string name="hide_mamual_hide_theme">Не паказваць схаваныя тэмы</string>
+    <string name="hide_mamual_hide_wallpaper">Не паказваць схаваныя шпалеры</string>
     <string name="home_apply_failured">Немагчыма ўсталяваць шпалеры на Галоўны экран</string>
     <string name="home_apply_success">Шпалеры Галоўнага экрана ўсталяваны</string>
     <string name="in_the_end">"Больш няма аб'ектаў"</string>
@@ -226,10 +242,13 @@
     <string name="incompatible_dialog_ok">Зразумела</string>
     <string name="incompatible_dialog_title">Праблемы сумяшчальнасці</string>
     <string name="is_setting_wallpaper_message">Усталёўка шпалер…</string>
+    <string name="item_resource_audio_divider">│</string>
     <string name="item_resource_audio_optional_alarm_ring">Будзільнікі</string>
     <string name="item_resource_audio_optional_color_ring">Мелодыя выкліку</string>
     <string name="item_resource_audio_optional_notification_ring">Апавяшчэнні</string>
     <string name="item_resource_audio_optional_phone_ring">Мелодыя</string>
+    <string name="kuyin_user_agreement_content">Падпіскі на рынгтоны прадастаўляюцца iFlytek. Вы павінны прыняць %s перад выкарыстаннем падпісак на рынгтоны. Вы згодны?</string>
+    <string name="kuyin_user_agreement_content_href">Палітыка прыватнасці iFlytek</string>
     <string name="lab">Лабараторыя тэм</string>
     <string name="like_list">"Упадабаныя мне аб'екты"</string>
     <string name="live_wallpaper">Жывыя шпалеры</string>
@@ -250,7 +269,7 @@
     <string name="lockscreen_magazine_title">Чаргаванне тэмаў</string>
     <string name="lockscreen_wallpaper">Экран блакіроўкі</string>
     <string name="lockstyle_personal_settings">Наладзіць</string>
-    <string name="loop_wallpaper_is_here">Зараз даступна слайд-шоў шпалер для працоўнага стала</string>
+    <string name="long_click_can_hide_resource">"Націсніце і ўтрымлівайце, каб схаваць аб'екты"</string>
     <string name="mi_wallpaper">MIUI шпалеры</string>
     <string name="miuishare_account_activate_confirmation">Актываваць Mi Акаўнт</string>
     <string name="miuishare_account_activate_ok">Актывіраваць</string>
@@ -279,6 +298,7 @@
     <string name="mix_icons_option_des">Значкі працоўнага стала. Адмяніце выбар, каб выкарыстоўваць параметры па змаўчанні.</string>
     <string name="mix_lockscreen_option_des">Шпалеры і гадзіннік. Адмяніце выбар, каб выкарыстоўваць параметры па змаўчанні.</string>
     <string name="mix_tip">Кампаненты тэмы</string>
+    <string name="more_sub_comment">Паглядзець усе адказы (%1$d)></string>
     <string name="multi_sim_mms_ringtone_settings_dialog_message">Гэтая мелодыя будзе прыменена да абедзвюх SIM-карт.</string>
     <string name="multi_sim_ringtone_settings_dialog_message">Мелодыя выкліку прыменіцца на абедзве SIM-карты.</string>
     <string name="multi_sim_ringtone_settings_dialog_ok">Зразумела</string>
@@ -316,7 +336,6 @@
     <string name="purchased_list_current">Аптымізаваныя тэмы</string>
     <string name="purchased_list_legacy">Ранейшыя тэмы</string>
     <string name="recently_used">Нядаўнія</string>
-    <string name="reenable_accessibility">Адбылася памылка. Паўторна падайце дазволы адмысловых магчымасцяў.</string>
     <string name="refresh_footer_all_loaded">Гэта ўсё на дадзены момант.</string>
     <string name="refresh_footer_failed">Не атрымалася запампаваць дадзеныя</string>
     <string name="refresh_footer_finish">Паспяхова загружана</string>
@@ -334,6 +353,7 @@
     <string name="resource_alarm_default">Будзільнік</string>
     <string name="resource_app_name">Прагляд рэсурсаў</string>
     <string name="resource_apply">Прымяніць</string>
+    <string name="resource_apply_trial">Ужыць</string>
     <string name="resource_back">Назад</string>
     <string name="resource_buy">Купіць</string>
     <string name="resource_can_not_selected">Немагчыма выбраць: %1$s</string>
@@ -404,6 +424,7 @@
     <string name="resource_download">Спампаваць</string>
     <string name="resource_download_notification_title_many">Спампавана тэм: %1$s</string>
     <string name="resource_download_notification_title_one">Тэма спампавана</string>
+    <string name="resource_download_trial">Паспрабаваць</string>
     <string name="resource_downloaded_title">Спампаваныя</string>
     <string name="resource_downloading">Спампоўка</string>
     <string name="resource_exchange">Атрымаць</string>
@@ -434,6 +455,9 @@
     <string name="resource_get_auth_not_official">Тэмы з іншых крыніц не падтрымліваюцца</string>
     <string name="resource_get_auth_retrieving">Атрыманне інфармацыі…</string>
     <string name="resource_has_been_downloaded">Тэма ўжо спампавана.</string>
+    <string name="resource_hide">Схаваць</string>
+    <string name="resource_hide_fail">Не атрымалася схаваць</string>
+    <string name="resource_hide_succ">Паспяхова схавана</string>
     <string name="resource_hint">Папярэджанне</string>
     <string name="resource_import_failed">Памылка імпарту</string>
     <string name="resource_import_successful">Завершана</string>
@@ -459,6 +483,7 @@
     <string name="resource_pack_price_info">Арыгінальны кошт: %1$s</string>
     <string name="resource_pack_warning">Вы ўжо купілі %1$d кампанентаў гэтай тэмы. Будзе танней дакупіць астатнія кампаненты асобна.</string>
     <string name="resource_present">Падарунак</string>
+    <string name="resource_price_format">(%1$s)</string>
     <string name="resource_price_free">Бясплатна</string>
     <string name="resource_price_unit"> Mi Credits</string>
     <string name="resource_purchase_common_error">Здарылася памылка, паспрабуйце зноў</string>
@@ -470,6 +495,13 @@
     <string name="resource_ranking">Папулярныя</string>
     <string name="resource_ranking_free">Бясплатныя</string>
     <string name="resource_ranking_purchase">Платныя</string>
+    <string name="resource_restore">Аднавіць</string>
+    <string name="resource_restore_fail">Не атрымалася аднавіць</string>
+    <string name="resource_restore_succ">Паспяхова адноўлена</string>
+    <string name="resource_ring_ranking_list_divider">-</string>
+    <string name="resource_ring_ranking_list_rank_1">1</string>
+    <string name="resource_ring_ranking_list_rank_2">2</string>
+    <string name="resource_ring_ranking_list_rank_3">3</string>
     <string name="resource_ringtone_default">Мелодыі</string>
     <string name="resource_ringtone_playing_error">Памылка</string>
     <string name="resource_ringtone_volume_mute">Гук адключаны</string>
@@ -544,8 +576,14 @@
     <string name="shortcut_message">Дадаць ярлык на працоўны стол!</string>
     <string name="shortcut_show_tip">Больш не паказваць</string>
     <string name="shortcut_title">Падабаюцца шпалеры?</string>
-    <string name="show_free">Паказаць бясплатныя %1$s</string>
+    <string name="show_free_font">Паказаць бясплатныя шрыфты</string>
+    <string name="show_free_theme">Паказаць бясплатныя тэмы</string>
+    <string name="show_free_wallpaper">Паказаць бясплатныя шпалеры</string>
     <string name="show_incompatible">Паказаць несумяшчальныя%1$s</string>
+    <string name="show_mamual_hide_font">Паказваць схаваныя шрыфты</string>
+    <string name="show_mamual_hide_theme">Паказваць схаваныя тэмы</string>
+    <string name="show_mamual_hide_wallpaper">Паказваць схаваныя шпалеры</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="swipe_find_more">Свайп уверх для прагляду падрабязнасьцяў</string>
     <string name="system_precust">Перадусталяваныя</string>
     <string name="the_picture_is_not_support">Фармат выявы не падтрымліваецца</string>
@@ -565,6 +603,13 @@
     <string name="theme_changed_failed_message">Немагчыма прымяніць тэму</string>
     <string name="theme_changed_message">Тэма прыменена</string>
     <string name="theme_changing_dialog_title">"Прымяненне "</string>
+    <string name="theme_comment_detail_no_more">Гэта ўсё на дадзены момант</string>
+    <string name="theme_comment_detail_sub_comment_title">Усе адказы</string>
+    <string name="theme_comment_detail_title">Падрабязнасці</string>
+    <string name="theme_comment_dialog_cancel">Не зараз</string>
+    <string name="theme_comment_dialog_message">Падабаецца тэма, якой вы зараз карыстаецеся? Мы будзем удзячныя за водгук!</string>
+    <string name="theme_comment_dialog_ok">Водгук</string>
+    <string name="theme_comment_sub_comment_bar_hint">Падзяліцеся сваімі думкамі з нашай супольнасцю</string>
     <string name="theme_component_title_alarm">Будзільнік</string>
     <string name="theme_component_title_alarmstyle">Стыль будзільніка</string>
     <string name="theme_component_title_all">Тэмы</string>
@@ -608,6 +653,7 @@
     <string name="theme_is_external_priority_storage">Захаваць на SD-карту</string>
     <string name="theme_is_external_priority_storage_summary">Праграма Тэмы перазапусціцца для ўжывання змяненняў.</string>
     <string name="theme_multiple_button_title_customize">Персаналізуй</string>
+    <string name="theme_name">%1$s</string>
     <string name="theme_no">Не</string>
     <string name="theme_purchased_list_empty">Няма купленых тэм.</string>
     <string name="theme_purchased_non_local">Анлайн</string>
@@ -651,6 +697,7 @@
     <string name="transparent_wallpaper_filter_setting">Асобныя праграмы</string>
     <string name="transparent_wallpaper_guide">Перайсці ў Тэмы</string>
     <string name="transparent_wallpaper_guide_tip">Цяпер вы можаце выбраць празрыстыя шпалеры ў Тэмах.</string>
+    <string name="transparent_wallpaper_is_running_in_background">«Празрыстыя шпалеры» запушчаны ў фоне</string>
     <string name="transparent_wallpaper_pref_summary">Шпалеры з паменшанай непразрыстасцю фону</string>
     <string name="transparent_wallpaper_white_wallpaper">Зрабіць фон белым</string>
     <string name="transparent_wallpaper_white_wallpaper_failed">Не атрымалася зрабіць фон белым</string>
@@ -666,6 +713,7 @@
     <string name="uid_change_dialog_message">Вы выдалілі абнаўленні. Каб карыстацца тэмамі, перазагрузіце прыладу.</string>
     <string name="uid_change_dialog_ok">Зразумела</string>
     <string name="uid_change_dialog_title">Перазагрузіце прыладу</string>
+    <string name="unable_connect_network">Не атрымалася падлучыцца да сеткі</string>
     <string name="up_to_the_end">На гэты момант усё. Прыходзьце пазней.</string>
     <string name="update_btn">Абнавіць</string>
     <string name="update_check">Праверыць абнаўленне</string>
@@ -694,7 +742,9 @@
     <string name="wallpaper_apply">Ужыць</string>
     <string name="wallpaper_crop">Абрэзаць</string>
     <string name="wallpaper_decoded_error">Не атрымалася загрузіць шпалеры</string>
+    <string name="wallpaper_delete_all">"Выдаліць абраныя аб'екты?"</string>
     <string name="wallpaper_detail_load_page_no_network">Злучыцеся з сеткай і паўтарыце спробу.</string>
+    <string name="wallpaper_dynamic">Дынамічны</string>
     <string name="wallpaper_loop_add_success">Паспяхова дададзена</string>
     <string name="wallpaper_loop_add_to_loop_desk_wallpaper">Дадаць у слайд-шоў Галоўнага экрана</string>
     <string name="wallpaper_loop_add_to_loop_lock_wallpaper">Дадаць у слайд-шоў экрана блакавання</string>
@@ -717,6 +767,11 @@
     <string name="wallpaper_loop_title">Слайд-шоў шпалер</string>
     <string name="wallpaper_loop_title_desk_wallpaper">Слайд-шоў Галоўнага экрана</string>
     <string name="wallpaper_loop_title_lock_walpaper">Слайд-шоў экрана блакавання</string>
+    <string name="wallpaper_no_favorite">"Тут пакуль няма аб'ектаў."</string>
+    <string name="wallpaper_no_record">"Тут пакуль няма аб'ектаў."</string>
+    <string name="wallpaper_online">Анлайн-шпалеры</string>
+    <string name="wallpaper_online_no_more">Гэта ўсё на дадзены момант</string>
+    <string name="wallpaper_online_tip">"Падключыцеся да сеткі для прагляду іншых аб'ектаў"</string>
     <string name="wallpaper_scroll_type_tips">Пракрутка шпалераў</string>
     <string name="wallpaper_set_as_both">Усталяваць абодва</string>
     <string name="wallpaper_set_as_desktop">Усталяваць на галоўны экран</string>
@@ -727,6 +782,7 @@
     <string name="wallpaper_settings_no_history">Гісторыя пустая</string>
     <string name="wallpaper_settings_pad_more_page_title">Больш шпалераў</string>
     <string name="wallpaper_settings_page_title">Шпалеры</string>
+    <string name="wallpaper_static">Статычны</string>
     <string name="wechat_not_found">Спачатку ўсталюйце WeChat</string>
     <string name="weibo">Weibo</string>
     <string name="wifi_check_cancel">Скасаваць</string>

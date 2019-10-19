@@ -12,4 +12,6 @@
     <string name="import_vcard">Імпарт ^1</string>
     <string name="mime_display_name">Дадзеныя ад тэгу NFC</string>
     <string name="vcard_title">Кантактная інфармацыя для ^1</string>
+    <string name="call_phone_permission_denied">Для таго каб рабіць выклікі, гэтай праграме патрабуецца дазвол на доступ да Тэлефона. Вы можаце кіраваць дазволамі Тэлефона ў Наладах</string>
+    <string name="external_storage_permission_denied">Каб мець доступ да файлаў, праграме неабходна мець дазвол на працу са знешнім сховішчам. Дазволамі можна кіраваць у Наладах</string>
 </resources>

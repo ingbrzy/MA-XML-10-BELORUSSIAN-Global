@@ -219,22 +219,22 @@
         <item quantity="many">%s хвілін</item>
     </plurals>
     <plurals name="power_main_battery_last_day">
-        <item quantity="other">%s days remaining</item>
-        <item quantity="one">%s day remaining</item>
-        <item quantity="few">%s days remaining</item>
-        <item quantity="many">%s days remaining</item>
+        <item quantity="other">Засталося %s дзён</item>
+        <item quantity="one">Застаўся %s дзень</item>
+        <item quantity="few">Засталося %s дзён</item>
+        <item quantity="many">Засталося %s дзён</item>
     </plurals>
     <plurals name="power_main_battery_last_hour">
-        <item quantity="other">%s hours remaining</item>
-        <item quantity="one">%s hour remaining</item>
-        <item quantity="few">%s hours remaining</item>
-        <item quantity="many">%s hours remaining</item>
+        <item quantity="other">Засталося %s гадзіны</item>
+        <item quantity="one">Засталася %s гадзіна</item>
+        <item quantity="few">Засталося %s гадзіны</item>
+        <item quantity="many">Засталося %s гадзіны</item>
     </plurals>
     <plurals name="power_main_battery_last_minute">
-        <item quantity="other">%s minutes remaining</item>
-        <item quantity="one">%s minute remaining</item>
-        <item quantity="few">%s minutes remaining</item>
-        <item quantity="many">%s minutes remaining</item>
+        <item quantity="other">Засталося %s хвіліны</item>
+        <item quantity="one">Засталася %s хвіліна</item>
+        <item quantity="few">Засталося %s хвіліны</item>
+        <item quantity="many">Засталося %s хвіліны</item>
     </plurals>
     <plurals name="pc_main_sub_battery_text_day">
         <item quantity="other">Засталося %s дзён</item>
@@ -243,34 +243,58 @@
         <item quantity="many">Засталося %s дзён</item>
     </plurals>
     <plurals name="pc_main_sub_battery_text_hour">
-        <item quantity="other">%s hours remaining</item>
-        <item quantity="one">%s hour remaining</item>
-        <item quantity="few">%s hours remaining</item>
-        <item quantity="many">%s hours remaining</item>
+        <item quantity="other">Засталося %s гадзіны</item>
+        <item quantity="one">Засталася %s гадзіна</item>
+        <item quantity="few">Засталося %s гадзіны</item>
+        <item quantity="many">Засталося %s гадзіны</item>
     </plurals>
     <plurals name="pc_main_sub_battery_text_minute">
-        <item quantity="other">%s minutes remaining</item>
-        <item quantity="one">%s minute remaining</item>
-        <item quantity="few">%s minutes remaining</item>
-        <item quantity="many">%s minutes remaining</item>
+        <item quantity="other">Засталося %s хвіліны</item>
+        <item quantity="one">Засталася %s хвіліна</item>
+        <item quantity="few">Засталося %s хвіліны</item>
+        <item quantity="many">Засталося %s хвіліны</item>
     </plurals>
     <plurals name="pc_main_power_manager_day">
-        <item quantity="other">%s days until fully charged</item>
-        <item quantity="one">%s day until fully charged</item>
-        <item quantity="few">%s days until fully charged</item>
-        <item quantity="many">%s days until fully charged</item>
+        <item quantity="other">%s дзён да поўнай зарадкі</item>
+        <item quantity="one">%s дзень да поўнай зарадкі</item>
+        <item quantity="few">%s дні да поўнай зарадкі</item>
+        <item quantity="many">%s дзён да поўнай зарадкі</item>
     </plurals>
     <plurals name="pc_main_power_manager_hour">
-        <item quantity="other">%s hours until fully charged</item>
-        <item quantity="one">%s hour until fully charged</item>
-        <item quantity="few">%s hours until fully charged</item>
-        <item quantity="many">%s hours until fully charged</item>
+        <item quantity="other">%s гадзін да поўнай зарадкі</item>
+        <item quantity="one">%s гадзіна да поўнай зарадкі</item>
+        <item quantity="few">%s гадзіны да поўнай зарадкі</item>
+        <item quantity="many">%s гадзін да поўнай зарадкі</item>
     </plurals>
     <plurals name="pc_main_power_manager_minute">
-        <item quantity="other">%s minutes until fully charged</item>
-        <item quantity="one">%s minute until fully charged</item>
-        <item quantity="few">%s minutes until fully charged</item>
-        <item quantity="many">%s minutes until fully charged</item>
+        <item quantity="other">%s хвілін да поўнай зарадкі</item>
+        <item quantity="one">%s хвіліна да поўнай зарадкі</item>
+        <item quantity="few">%s хвіліны да поўнай зарадкі</item>
+        <item quantity="many">%s хвілін да поўнай зарадкі</item>
+    </plurals>
+    <plurals name="pc_statistics_battery_use_minute">
+        <item quantity="other">%d хвілін з моманту апошняй зарадкі</item>
+        <item quantity="one">%d хвіліна з моманту апошняй зарадкі</item>
+        <item quantity="few">%d хвіліны з моманту апошняй зарадкі</item>
+        <item quantity="many">%d хвілін з моманту апошняй зарадкі</item>
+    </plurals>
+    <plurals name="pc_statistics_battery_use_second">
+        <item quantity="other">%d секунд з моманту апошняй зарадкі</item>
+        <item quantity="one">%d секунда з моманту апошняй зарадкі</item>
+        <item quantity="few">%d секунды з моманту апошняй зарадкі</item>
+        <item quantity="many">%d секунд з моманту апошняй зарадкі</item>
+    </plurals>
+    <plurals name="pc_statistics_battery_last_minute">
+        <item quantity="other">Засталося %d хвілін</item>
+        <item quantity="one">Засталася %d хвіліна</item>
+        <item quantity="few">Засталося %d хвіліны</item>
+        <item quantity="many">Засталося %d хвілін</item>
+    </plurals>
+    <plurals name="pc_statistics_battery_last_hour">
+        <item quantity="other">Засталося %d гадзін</item>
+        <item quantity="one">Засталася %d гадзіна</item>
+        <item quantity="few">Засталося %d гадзіны</item>
+        <item quantity="many">Засталося %d гадзін</item>
     </plurals>
     <plurals name="notification_battery_scan_consume_abnormal_title_split">
         <item quantity="other">%2$d праграм, уключаючы %1$s, разраджае батарэю</item>
@@ -350,29 +374,29 @@
         <item quantity="few">%s праграмы не абаронены</item>
         <item quantity="many">%s праграм не абаронена</item>
     </plurals>
-    <plurals name="menu_text_antivirus_2">
-        <item quantity="other">"%d аб'ектаў"</item>
-        <item quantity="one">"%d аб'ект"</item>
-        <item quantity="few">"%d аб'екты"</item>
-        <item quantity="many">"%d аб'ектаў"</item>
+    <plurals name="menu_text_antivirus_virus_ex">
+        <item quantity="other">%d праграм змяшчаюць вірусы або шкоднасныя праграмы</item>
+        <item quantity="one">%d праграма змяшчае вірусы або шкоднасныя праграмы</item>
+        <item quantity="few">%d праграмы змяшчаюць вірусы або шкоднасныя праграмы</item>
+        <item quantity="many">%d праграм змяшчаюць вірусы або шкоднасныя праграмы</item>
     </plurals>
-    <plurals name="menu_text_antivirus_3">
-        <item quantity="other">%d дней</item>
-        <item quantity="one">%d дзень</item>
-        <item quantity="few">%d дні</item>
-        <item quantity="many">%d дней</item>
+    <plurals name="menu_text_antivirus_day_ex">
+        <item quantity="other">Прылада не правяралася %d дзён</item>
+        <item quantity="one">Прылада не правяралася %d дзень</item>
+        <item quantity="few">Прылада не правяралася %d дні</item>
+        <item quantity="many">Прылада не правяралася %d дзён</item>
     </plurals>
-    <plurals name="menu_text_antispam_2">
-        <item quantity="other">"%d аб'ектаў"</item>
-        <item quantity="one">"%d аб'ект"</item>
-        <item quantity="few">"%d аб'екты"</item>
-        <item quantity="many">"%d аб'ектаў"</item>
+    <plurals name="menu_text_antispam_ex">
+        <item quantity="other">Заблакавана %d паведамленняў і выклікаў</item>
+        <item quantity="one">Заблакавана %d паведамленне або выклік</item>
+        <item quantity="few">Заблакавана %d паведамленні і выкліка</item>
+        <item quantity="many">Заблакавана %d паведамленняў і выклікаў</item>
     </plurals>
-    <plurals name="menu_text_app_manager_2">
-        <item quantity="other">%d праграм</item>
-        <item quantity="one">%d праграма</item>
-        <item quantity="few">%d праграмы</item>
-        <item quantity="many">%d праграм</item>
+    <plurals name="menu_text_app_manager_ex">
+        <item quantity="other">Даступна %d абнаўленняў</item>
+        <item quantity="one">Даступна %d абнаўленне</item>
+        <item quantity="few">Даступна %d абнаўлення</item>
+        <item quantity="many">Даступна %d абнаўленняў</item>
     </plurals>
     <plurals name="system_check_content">
         <item quantity="other">"%1$d аб'екта бяспечная"</item>
@@ -651,16 +675,16 @@
         <item quantity="many">    +%1$d сімвалаў</item>
     </plurals>
     <plurals name="privacy_apps_enable_header_title">
-        <item quantity="other">Можна схаваць %d праграм</item>
-        <item quantity="one">Можна схаваць %d праграму</item>
-        <item quantity="few">Можна схаваць %d праграмы</item>
-        <item quantity="many">Можна схаваць %d праграм</item>
+        <item quantity="other">%d значкоў праграмы не схаваныя</item>
+        <item quantity="one">%d значок праграмы не схаваны</item>
+        <item quantity="few">%d значка праграмы не схаваныя</item>
+        <item quantity="many">%d значкоў праграмы не схаваныя</item>
     </plurals>
     <plurals name="privacy_apps_disable_header_title">
-        <item quantity="other">%d праграм схавана</item>
-        <item quantity="one">%d праграма схавана</item>
-        <item quantity="few">%d праграмы схаваны</item>
-        <item quantity="many">%d праграм схавана</item>
+        <item quantity="other">%d значкоў праграмы схаваныя</item>
+        <item quantity="one">%d значок праграмы схаваны</item>
+        <item quantity="few">%d значка праграмы схаваныя</item>
+        <item quantity="many">%d значкоў праграмы схаваныя</item>
     </plurals>
     <plurals name="first_aid_result_summary_exception">
         <item quantity="other">%1$d праблем патрабуюць аптымізацыі</item>

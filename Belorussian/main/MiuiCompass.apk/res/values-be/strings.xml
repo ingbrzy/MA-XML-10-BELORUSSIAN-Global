@@ -59,6 +59,8 @@
     <string name="mobiledata_alert_dialog_title">Папярэджанне</string>
     <string name="open_perm_msg">Компасу патрабуецца доступ да месцазнаходжання і камеры. Гэта неабходна для вызначэння каардынатаў і прагляду ў рэжыме рэальнага часу. Дазволіць?</string>
     <string name="open_perm_title">Патрабуюцца дазволы</string>
+    <string name="permission_camera_desc">Выкарыстанне ўзроўню</string>
+    <string name="permission_location_desc">Адлюстраванне каардынатаў і атмасфернага ціску</string>
     <string name="preference_other">Іншае</string>
     <string name="preference_privacy_title">Палітыка канфідэнцыяльнасці</string>
     <string name="pressure">%.1f</string>

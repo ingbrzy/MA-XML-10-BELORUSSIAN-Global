@@ -301,7 +301,7 @@
     <string name="call_barring_sum">Налады забароны галасавых выклікаў</string>
     <string name="call_category">Выклік</string>
     <string name="call_description_recording">Запіс…</string>
-    <string name="call_forward_option">Пераадрасацыя выклікаў</string>
+    <string name="call_forward_option">Опцыі пераадрасацыі выкліку</string>
     <string name="call_forwarding_number_hint">Пераадрасоўваць выклікі да</string>
     <string name="call_forwarding_settings">Налады пераадрасацыі выкліку</string>
     <string name="call_forwarding_settings_with_label">Налады пераадрасацыі выкліку (%s)</string>
@@ -522,8 +522,8 @@
     <string name="daltonizer_mode_protanomaly">Пратанамалія (чырвоны-зялёны)</string>
     <string name="daltonizer_mode_tritanomaly">Трытанамалія (сіні-жоўты)</string>
     <string name="daltonizer_type_overridden">Перавызначаны %1$s</string>
-    <string name="data_enable_summary">Дазволіць гэтай прыладзе выкарыстоўваць мабільны інтэрнэт</string>
-    <string name="data_enabled">Мабільны інтэрнэт</string>
+    <string name="data_enable_summary">Дазволіць выкарыстанне дадзеных</string>
+    <string name="data_enabled">Мабільны інтэрнэт уключаны</string>
     <string name="data_plan">Тарыфныя планы</string>
     <string name="data_usage_disable_mobile">Адключыць мабільны інтэрнэт?</string>
     <string name="data_usage_template">"Аб'ём мабільнага трафіка за перыяд %2$s: %1$s"</string>
@@ -716,7 +716,7 @@
     <string name="fdn_contact_deleted">Нумар фіксаванага набору выдалены.</string>
     <string name="fdn_contact_updated">Нумар фіксаванага набору абноўлены.</string>
     <string name="fdn_disabled">Фіксаваны набор адключаны</string>
-    <string name="fdn_enable_puk2_requested">Няправільны пароль, PIN2 заблакавана. Зменіце код PIN2 і паспрабуйце яшчэ раз.</string>
+    <string name="fdn_enable_puk2_requested">Няправільны пароль, PIN2 заблакаваны. Змяніце код PIN2 і паспрабуйце ізноў.</string>
     <string name="fdn_enabled">Фіксаваны набор уключаны</string>
     <string name="fdn_failed">Памылка аперацыі фіксаванага набору нумароў.</string>
     <string name="fdn_full">Нумар фіксаванага набору не быў абноўлены, таму што спіс поўны.</string>
@@ -724,7 +724,6 @@
     <string name="fdn_list_with_label">Спіс фіксаваных нумароў (%s)</string>
     <string name="fdn_summary">Абмежаваць зыходзячыя выклікі на нумары са спісу фіксаванага набору або на нумары з вызначанымі прэфіксамі</string>
     <string name="fdn_with_label">Фіксаваны набор нумароў (%s)</string>
-    <string name="fiveg_switch_title">Сетка 5G</string>
     <string name="flash_when_ring_summary">Выкарыстоўваць выбліск для апавяшчэння пра ўваходныя выклікі</string>
     <string name="flash_when_ring_title">Міргаць, калі гучыць сігнал</string>
     <string name="forbidden_network">(Забаронена)</string>
@@ -820,7 +819,6 @@
     <string name="ivr_type_cu_3">China Unicom 2G</string>
     <string name="ivr_type_settings">Налады тарыфу</string>
     <string name="ivr_type_settings_hint">Увядзіце код вашага тарыфнага плана</string>
-    <string name="jump_to_mobile_network_setting">Налады мабільнай сеткі</string>
     <string name="keep_screen_on">Прадухіляць ад пераходу ў рэжым сну</string>
     <string name="keep_screen_on_summary">Падчас зарадкі экран будзе пастаянна ўключаны</string>
     <string name="keywords_carrier_settings_euicc">аператар, esim, sim, euicc</string>
@@ -983,7 +981,6 @@
     <string name="network_info_message">Паведамленне сеткі</string>
     <string name="network_lte">LTE (рэкамендуецца)</string>
     <string name="network_message">Паведамленне сеткі</string>
-    <string name="network_mode_updating_title">Тып сеткі</string>
     <string name="network_operator_category">Сетка</string>
     <string name="network_query_error">Памылка падчас пошуку сетак.</string>
     <string name="network_select_title">Сетка</string>
@@ -1149,7 +1146,7 @@
     <string name="picture_color_mode_desc">Выкарыстоўваць sRGB</string>
     <string name="pin2_attempts">"
 Засталося спроб: %d."</string>
-    <string name="pin2_changed">PIN2 паспяхова зменены.</string>
+    <string name="pin2_changed">PIN2 быў зменены</string>
     <string name="pin2_error_exception">Памылка сеткі або SIM-карты</string>
     <string name="pin2_invalid">Нумар фіксаванага набору не абноўлены. Уведзены няправільны PIN.</string>
     <string name="pin2_invalid_or_name_is_too_long">Вы ўвялі няправільны PIN-код або імя, якое вы ўвялі занадта доўгае.</string>
@@ -1232,17 +1229,12 @@
     <string name="preferred_network_type_3g_only_warning">Ваша SIM-карта павінна падтрымліваць 3G для падлучэння да сеткі.</string>
     <string name="preferred_network_type_pref_entries_3g_preferred">Пераважна 3G</string>
     <string name="preferred_network_type_pref_entries_3g_preferred_cdma">Пераважна 3G (CDMA)</string>
-    <string name="preferred_network_type_pref_entries_3g_preferred_lm_cr">WCDMA/GSM аўта</string>
     <string name="preferred_network_type_pref_entries_4g_preferred">Пераважна LTE</string>
     <string name="preferred_network_type_pref_entries_4g_preferred_cdma">Пераважна 4G (CDMA)</string>
-    <string name="preferred_network_type_pref_entries_4g_preferred_lm_cr">LTE/WCDMA/GSM аўта</string>
-    <string name="preferred_network_type_pref_entries_5g_preferred">Пераважна 5G</string>
     <string name="preferred_network_type_pref_entries_auto">Аўтаматычна</string>
     <string name="preferred_network_type_pref_entries_global">Глабальны</string>
     <string name="preferred_network_type_pref_entries_only_2g">Толькі 2G (эканомія батарэі)</string>
-    <string name="preferred_network_type_pref_entries_only_2g_lm_cr">Толькі GSM</string>
     <string name="preferred_network_type_pref_entries_only_3g">Толькі 3G</string>
-    <string name="preferred_network_type_pref_entries_only_3g_lm_cr">Толькі WCDMA</string>
     <string name="preferred_network_type_title">Пераважны тып сеткі</string>
     <string name="preferred_phone_account">Пераважны акаўнт</string>
     <string name="preferred_wificall_title">Рэжым сеткі</string>
@@ -1253,6 +1245,7 @@
     <string name="private_dns_mode_provider_failure">Не атрымалася падключыцца</string>
     <string name="private_dns_mode_provider_hostname_hint">Увядзіце імя вузла аператара DNS</string>
     <string name="private_num">Схаваны нумар</string>
+    <string name="process_kernel_label">АС Android</string>
     <string name="progress_dialog_exiting_ecm">Выхад з рэжыму экстранных зваротных выклікаў</string>
     <string name="prompt_to_turnoff_volte_when_failed">Сэрвісы VoLTE недаступныя. Адключыце VoLTE, каб зрабіць выклік.</string>
     <string name="prompt_to_turnoff_volte_when_supp_service">Сэрвіс недаступны. Выключыце VoLTE у Наладах.</string>
@@ -1319,14 +1312,14 @@ SIM-карта будзе заблакавана пры няўдалай спр�
     <string name="reverting_settings">Зварот да папярэдніх налад…</string>
     <string name="ringtone_silent">Няма</string>
     <string name="ringtone_unknown">Невядомы рынгтон</string>
-    <string name="roaming">Мабільны інтэрнэт адключаны</string>
+    <string name="roaming">Роўмінг</string>
     <string name="roaming_alert_title">Дазволіць перадачу дадзеных у роўмінгу?</string>
     <string name="roaming_check_price_warning">Праверце цану ў свайго інтэрнэт-правайдара.</string>
     <string name="roaming_disable">Падлучацца да службаў перадачы дадзеных у роўмінгу</string>
     <string name="roaming_enable">Падлучацца да службаў перадачы дадзеных у роўмінгу</string>
     <string name="roaming_notification_content">Вы можаце аўтаматычна дадаваць код краіны, каб зрабіць набор нумара больш зручным.</string>
     <string name="roaming_notification_title">Падобна, што роўмінг актываваны</string>
-    <string name="roaming_reenable_message">Выкарыстоўвайце роўмінг для паўторнага падключэння.</string>
+    <string name="roaming_reenable_message">Перадача дадзеных спынена. Тэлефон знаходзіцца за межамі хатняй сеткі.</string>
     <string name="roaming_warning">Вы можаце панесці значныя выдаткі.</string>
     <string name="rtt_mode_more_information">"Функцыя RTT дапамагае абанентам з парушэннямі слыху і маўлення.&lt;br> &lt;a href=http://support.google.com/mobile?p=telephony_rtt>Даведацца больш&lt;/a>
        &lt;br>&lt;br> - RTT-выклікі захоўваюцца ў выглядзе расшыфроўкі паведамленняў
@@ -1345,13 +1338,43 @@ SIM-карта будзе заблакавана пры няўдалай спр�
     <string name="screen_zoom_summary_large">Вялікі</string>
     <string name="screen_zoom_summary_small">Маленькі</string>
     <string name="screen_zoom_summary_very_large">Большы</string>
+    <string name="search_answer_state_setting_title">@string/answer_state_setting_title</string>
     <string name="search_antispam_setting">Чорны спіс</string>
     <string name="search_app_name">Тэлефон;Запіс выкліку;Пераадрасацыя выклікаў;пераадрасацыя;Чаканне выкліку;Чорны спіс;Код краіны;Код рэгіёну;Коды краін;Коды рэгіёнаў;Запіс выклікаў;Запіс выкліку;Набор нумара;Выклік;Выклікі;Тэлефанія;VoIP;VoLTE;Прапушчаны выклік;Прапушчаныя выклікі;SIP;T9;IP-тэлефанія;FDN</string>
+    <string name="search_auto_answer_pref_title">@string/auto_answer_pref_title</string>
+    <string name="search_auto_retry_mode_title">@string/auto_retry_mode_title</string>
+    <string name="search_call_forwarding_settings">@string/call_forwarding_settings</string>
+    <string name="search_call_record_auto_title">@string/call_record_auto_title</string>
+    <string name="search_call_record_setting">@string/call_record_setting</string>
+    <string name="search_call_recording_notification_toggle_title">@string/call_recording_notification_toggle_title</string>
+    <string name="search_call_waiting_title">@string/call_waiting_title</string>
+    <string name="search_call_waiting_tone_title">@string/call_waiting_tone_title</string>
+    <string name="search_caller_id_title">@string/caller_id_title</string>
+    <string name="search_cloud_antispam_title">@string/cloud_antispam_title</string>
+    <string name="search_connect_disconnect_vibrate_title">@string/connect_disconnect_vibrate_title</string>
+    <string name="search_crescendo_ringer_title">@string/crescendo_ringer_title</string>
+    <string name="search_dtmf_tones_title">@string/dtmf_tones_title</string>
+    <string name="search_enable_antispam_strange_title">@string/enable_antispam_strange_title</string>
+    <string name="search_enable_proximity_title">@string/enable_proximity_title</string>
+    <string name="search_fdn">@string/fdn</string>
+    <string name="search_flash_when_ring_title">@string/flash_when_ring_title</string>
+    <string name="search_handon_ringer_title">@string/handon_ringer_title</string>
     <string name="search_menu_title">Пошук</string>
+    <string name="search_missed_call_notify_times_title">@string/missed_call_notify_times_title</string>
+    <string name="search_preference_dial_pad_touch_tone_title">@string/preference_dial_pad_touch_tone_title</string>
+    <string name="search_preference_telocation_title">@string/preference_telocation_title</string>
+    <string name="search_reject_via_sms">@string/reject_via_sms</string>
+    <string name="search_sip_settings">@string/sip_settings</string>
+    <string name="search_t9_indexing_method_title">@string/t9_indexing_method_title</string>
+    <string name="search_telocation_auto_country_code">@string/telocation_auto_country_code</string>
+    <string name="search_telocation_contacts_countrycode">@string/telocation_contacts_countrycode</string>
+    <string name="search_telocation_custom_location_title">@string/telocation_custom_location_title</string>
+    <string name="search_telocation_enable_title">@string/telocation_enable_title</string>
+    <string name="search_turnover_mute_title">@string/turnover_mute_title</string>
+    <string name="search_voicemail_settings">@string/voicemail_settings</string>
     <string name="selectContact">выбраць кантакт</string>
     <string name="select_application">Выберыце прыкладанне</string>
     <string name="select_automatically">Аўтавыбар сеткі</string>
-    <string name="select_dds_dialog_title">Выберыце SIM па змаўчанні для мабільнага інтэрнэту</string>
     <string name="select_logd_size_dialog_title">Выберыце памеры сродку вядзення журнала для буфераў журнала</string>
     <string name="select_logd_size_title">Памеры буфера для сродку вядзення журнала</string>
     <string name="select_logpersist_dialog_title">Выберыце буферы журнала для пастаяннага захоўвання на прыладзе</string>
@@ -1449,7 +1472,7 @@ SIM-карта будзе заблакавана пры няўдалай спр�
     <string name="stk_cc_ss_to_dial_error">Запыт ператвораны з SS у DIAL.</string>
     <string name="stk_cc_ss_to_dial_video_error">Запыт ператвораны з SS у відэа DIAL.</string>
     <string name="stk_cc_ss_to_ss_error">Запыт ператвораны ў новы SS.</string>
-    <string name="stk_cc_ss_to_ussd_error">Запыт ператвораны з SS у USSD.</string>
+    <string name="stk_cc_ss_to_ussd_error">Запыт ператвораны з SS ў USSD.</string>
     <string name="stock_quotes_disable">Каціроўкі каштоўных папер адключаны</string>
     <string name="stock_quotes_enable">Каціроўкі каштоўных папер уключаны</string>
     <string name="strict_mode">Уключаны строгі рэжым</string>
@@ -1563,6 +1586,7 @@ SIM-карта будзе заблакавана пры няўдалай спр�
     <string name="time_end_minute">time end minute</string>
     <string name="time_formate_am">АМ</string>
     <string name="time_formate_pm">РМ</string>
+    <string name="time_interval_char">:</string>
     <string name="time_next_day">" Наступны дзень "</string>
     <string name="time_start">" Пачатак "</string>
     <string name="time_start_hour">time start hour</string>
@@ -1605,6 +1629,7 @@ SIM-карта будзе заблакавана пры няўдалай спр�
     <string name="tty_mode_entries_hco">З магчымасцю слухаць суразмоўніка</string>
     <string name="tty_mode_entries_off">Адключаны</string>
     <string name="tty_mode_entries_vco">С магчымасцю перадачы голасу</string>
+    <string name="tty_mode_key">button_tty_mode_key</string>
     <string name="tty_mode_not_allowed_video_call">Рэжым тэлетайпа нельга змяніць падчас відэавыкліку</string>
     <string name="tty_mode_option_summary">Усталяваць рэжым тэлетайпа</string>
     <string name="tty_mode_option_title">Рэжым тэлетайпа</string>
@@ -1671,6 +1696,7 @@ SIM-карта будзе заблакавана пры няўдалай спр�
     <string name="voicemail">Галасавая пошта</string>
     <string name="voicemail_abbreviated">ГП:</string>
     <string name="voicemail_change_pin_dialog_title">Змяненне PIN</string>
+    <string name="voicemail_change_pin_key">voicemail_change_pin_key</string>
     <string name="voicemail_default">Ваш аператар</string>
     <string name="voicemail_notification_vibrate_when_title">Вібрацыя</string>
     <string name="voicemail_notifications_preference_title">Апавяшчэнні</string>
@@ -1683,6 +1709,7 @@ SIM-карта будзе заблакавана пры няўдалай спр�
     <string name="voicemail_settings_number_label">Нумар галасавой пошты</string>
     <string name="voicemail_settings_number_title">Нумар галасавой пошты</string>
     <string name="voicemail_settings_with_label">Галасавая пошта (%s)</string>
+    <string name="voicemail_visual_voicemail_key">voicemail_visual_voicemail_key</string>
     <string name="voicemail_visual_voicemail_switch_title">Візуальная галасавая пошта</string>
     <string name="voip_setting">Налады VoIP</string>
     <string name="volte_provision_notification_activate">Актываваць</string>
@@ -1690,10 +1717,10 @@ SIM-карта будзе заблакавана пры няўдалай спр�
     <string name="volte_provision_title">Актываваць VoLTE выклікі</string>
     <string name="volte_switch_not_support_summary">VoLTE выклікі не падтрымліваюцца для SIM-карты мабільнага інтэрнэту.</string>
     <string name="volte_switch_not_support_summary2">VoLTE выклікі не падтрымліваюцца аператарам.</string>
-    <string name="volte_switch_summary">Выкарыстоўвайце VoLTE, каб палепшыць якасць галасавога ды відэа выкліку</string>
+    <string name="volte_switch_summary">Выкарыстоўваць VoLTE для паляпшэння якасці галасавых выклікаў</string>
     <string name="volte_switch_summary2">Перад уключэннем упэўніцеся, што ваш аператар падтрымлівае гэтую функцыю. У іншым выпадку могуць быць закранутыя звычайныя выклікі.</string>
-    <string name="volte_switch_title">VoLTE уключаны</string>
-    <string name="volte_switch_title_ct">VoLTE уключаны</string>
+    <string name="volte_switch_title">Выкарыстоўваць VoLTE</string>
+    <string name="volte_switch_title_ct">VoLTE</string>
     <string name="volte_tips_when_turn_on">Паслугі VoLTE ад China Telecom падаюцца толькі ў зонах пакрыцця сеткі VoLTE. Паслугі VoLTE падаюцца аператарам сувязі.</string>
     <string name="vowifi_emergency_notification_channel">Экстранае папярэджанне аб выкліках праз Wi-Fi</string>
     <string name="vowifi_emergency_notification_content">Экстраныя выклікі магчымыя ў зонах з пакрыццём мабільнай сеткі</string>
@@ -1717,6 +1744,7 @@ SIM-карта будзе заблакавана пры няўдалай спр�
     <string name="wifi_ap_unable_to_handle_new_sta">Пункт доступу часова заняты</string>
     <string name="wifi_call_setting">Выклікі праз Wi-Fi</string>
     <string name="wifi_calling">Wi-Fi выклік</string>
+    <string name="wifi_calling_settings_key">button_wifi_calling_settings_key</string>
     <string name="wifi_calling_settings_title">Wi-Fi выклік</string>
     <string name="wifi_cant_connect">Немагчыма падключыцца</string>
     <string name="wifi_cant_connect_to_ap">Немагчыма падключыцца да сеткі \"%1$s\"</string>

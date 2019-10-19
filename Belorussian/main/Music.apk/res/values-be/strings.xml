@@ -17,18 +17,28 @@
     <string name="abc_action_bar_up_description">Перайсці ўверх</string>
     <string name="abc_action_menu_overflow_description">Дадатковыя параметры</string>
     <string name="abc_action_mode_done">Гатова</string>
-    <string name="abc_activity_chooser_view_see_all">Прагледзець усё</string>
-    <string name="abc_activitychooserview_choose_application">Выбраць праграму</string>
+    <string name="abc_activity_chooser_view_see_all">Паказаць усе</string>
+    <string name="abc_activitychooserview_choose_application">Выберыце праграму</string>
     <string name="abc_capital_off">ВЫКЛ.</string>
     <string name="abc_capital_on">УКЛ.</string>
-    <string name="abc_search_hint">Пошук...</string>
-    <string name="abc_searchview_description_clear">Выдалiць запыт</string>
-    <string name="abc_searchview_description_query">Запыт на пошук</string>
+    <string name="abc_menu_alt_shortcut_label">Alt +</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
+    <string name="abc_menu_delete_shortcut_label">Delete</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">Fn +</string>
+    <string name="abc_menu_meta_shortcut_label">Meta +</string>
+    <string name="abc_menu_shift_shortcut_label">Shift +</string>
+    <string name="abc_menu_space_shortcut_label">Прабел</string>
+    <string name="abc_menu_sym_shortcut_label">Sym +</string>
+    <string name="abc_prepend_shortcut_label">Меню +</string>
+    <string name="abc_search_hint">Пошук…</string>
+    <string name="abc_searchview_description_clear">Выдаліць запыт</string>
+    <string name="abc_searchview_description_query">Пошукавы запыт</string>
     <string name="abc_searchview_description_search">Пошук</string>
     <string name="abc_searchview_description_submit">Адправіць запыт</string>
     <string name="abc_searchview_description_voice">Галасавы пошук</string>
-    <string name="abc_shareactionprovider_share_with">Абагуліць з</string>
-    <string name="abc_shareactionprovider_share_with_application">Абагуліць праз праграму %s</string>
+    <string name="abc_shareactionprovider_share_with">Абагуліць праз</string>
+    <string name="abc_shareactionprovider_share_with_application">Абагуліць праз праграму \"%s\"</string>
     <string name="abc_toolbar_collapse_description">Згарнуць</string>
     <string name="account_and_cloud">Акаўнт</string>
     <string name="action_item_add">Дадаць у</string>
@@ -57,6 +67,7 @@
     <string name="added_next_play">Added to play next</string>
     <string name="agreement_desc">Карыстальніцкае пагадненне (абавязкова)</string>
     <string name="alaka_required">Каб паслухаць гэтую песню вы павінны заплаціць за яе</string>
+    <string name="alarm_clock_ringtones_successful">Гук будзільніка паспяхова ўсталяваны</string>
     <string name="album_label">Вокладкі альбомаў</string>
     <string name="album_name">Альбом</string>
     <string name="all_album_count">All albums (%d)</string>
@@ -116,6 +127,7 @@
     <string name="change_download_quality">Змяніць якасць спампоўкі</string>
     <string name="checking_new_version">Праверка абнаўлення…</string>
     <string name="choose_download_quality">Абярыце якасць спампоўкі</string>
+    <string name="choose_music_lang_pref">Упадабаныя мовы песень</string>
     <string name="choose_stream_quality">Абрярыце якасць анлайн музыкі</string>
     <string name="click_to_shuffle">Націсніце, каб перамясціць</string>
     <string name="close_music_time">"Засталося: "</string>
@@ -147,6 +159,7 @@
     <string name="current_album">Бягучая вокладка</string>
     <string name="current_lyric">Бягучы тэкст</string>
     <string name="current_version">Current version</string>
+    <string name="dark_mode">Цёмны рэжым</string>
     <string name="data_usage_warning">Трафік</string>
     <string name="data_usage_warning_summary">Выкарыстанне мабільнага інтэрнэту пры прайграванні анлайн музыкі высокай якасці можа павялічыць трафік.</string>
     <string name="data_use_desc">Юрыдычныя дакументы</string>
@@ -155,6 +168,7 @@
     <string name="delete_download">Выдаліць</string>
     <string name="delete_file_as_well">Назаўсёды выдаліць гэтую песню</string>
     <string name="delete_file_end">Выдаліць назаўсёды</string>
+    <string name="delete_file_error">Не атрымалася выдаліць файл</string>
     <string name="delete_file_start">Выдаліць абраныя файлы</string>
     <string name="deselect_all">Зняць выбар з усіх</string>
     <string name="desktop_lyric_button_close">Закрыць</string>
@@ -179,6 +193,10 @@
     <string name="dialog_insufficient_space_on_cache">Не ўдаецца завяршыць спампоўку, недастаткова вольнага месца ва ўнутраным сховішчы.</string>
     <string name="dialog_insufficient_space_on_external">Немагчыма завяршыць спампоўку. Не хапае месца на SD-карце.</string>
     <string name="dialog_media_not_found">Не ўдаецца спампаваць. SD-карта недаступная.</string>
+    <string name="dialog_my_playlist_online_changed_merge">Пакінуць</string>
+    <string name="dialog_my_playlist_online_changed_message">Падобна на тое, гэты плэйліст змяніўся. Вы можаце замяніць яго новай версіяй ці пакінуць стары.</string>
+    <string name="dialog_my_playlist_online_changed_replace">Замяніць</string>
+    <string name="dialog_my_playlist_set_to_public">Падзяліцца гэтым плэйлістом з усімі карыстальнікамі Mi Музыкі і музыкі Hungama</string>
     <string name="dialog_queued_body">Гэты файл знаходзіцца ў чарзе спамповак.</string>
     <string name="dialog_renew_failure">Выбачайце, не ўдалося выканаць дзеянне</string>
     <string name="dialog_renew_free_end">Пробны перыяд скончаны. Падпісацца на Hungama PRO?</string>
@@ -236,7 +254,9 @@
     <string name="download_method">Спампоўка</string>
     <string name="download_no_application_title">Не ўдаецца адкрыць файл</string>
     <string name="download_paused_in_power_save_mode">Downloads are paused when Battery saver is on</string>
+    <string name="download_percent">%d%%</string>
     <string name="download_processing">Спампоўка…</string>
+    <string name="download_progress">%d%%</string>
     <string name="download_quality">Якасць спампоўкі</string>
     <string name="download_quality_summary">Дадатковыя налады для спампоўкі песень</string>
     <string name="download_queued">У чарзе</string>
@@ -296,6 +316,7 @@
     <string name="eq_preset_select">Выбар устаноўкі</string>
     <string name="eq_rock">Рок</string>
     <string name="equalizer">Эквалайзер</string>
+    <string name="error_not_support">Не падтрымліваецца</string>
     <string name="exo_controls_fastforward_description">Пераматаць уперад</string>
     <string name="exo_controls_fullscreen_description">Поўнаэкранны рэжым</string>
     <string name="exo_controls_next_description">Наступны трэк</string>
@@ -315,7 +336,9 @@
     <string name="exo_download_notification_channel_name">Спампоўкі</string>
     <string name="exo_download_removing">Выдаленне спамповак</string>
     <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Мбіт/с</string>
     <string name="exo_track_mono">Мона</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">Аўтаматычна</string>
     <string name="exo_track_selection_none">Няма</string>
     <string name="exo_track_selection_title_audio">Аўдыя</string>
@@ -326,10 +349,13 @@
     <string name="exo_track_surround_5_point_1">"Аб'ёмны гук 5.1"</string>
     <string name="exo_track_surround_7_point_1">"Аб'ёмны гук 7.1"</string>
     <string name="exo_track_unknown">Невядома</string>
+    <string name="expand_button_title">Пашыраныя налады</string>
     <string name="expired">Тэрмін дзеяння скончыўся</string>
     <string name="facebook_not_installed">Install Facebook first.</string>
     <string name="fail_to_fetch_payment_page_url">"Couldn't get payment info"</string>
     <string name="fail_to_play">Немагчыма прайграць трэк</string>
+    <string name="failed_not_access_sd_card">Спачатку дазволіць доступ да карткі SD</string>
+    <string name="failed_obtain_permissions">Не ўдалася атрымаць дазволы</string>
     <string name="fav_login_msg">Sign in to your Mi Account to download songs</string>
     <string name="favorite_canceled">Выдалена з абранага</string>
     <string name="favorite_playlist">Абраныя</string>
@@ -353,12 +379,18 @@
     <string name="filter_by_size_prefix">"Схаваць файлы меншыя за "</string>
     <string name="filter_by_size_summary">Схаваць маленькія файлы</string>
     <string name="filter_size_unit">%dKB</string>
+    <string name="floating_view_dialog_desc">Пры сыходзе з гэтай старонкі спыніцца прайграванне музыкі. Усё роўна пакінуць старонку?</string>
+    <string name="floating_view_dialog_leave">Пакінуць</string>
+    <string name="floating_view_dialog_stay">Застацца</string>
+    <string name="floating_view_dialog_title">Пакінуць гэтую старонку?</string>
     <string name="follow">Follow</string>
     <string name="followed">Following</string>
     <string name="format_not_support">Фармат не падтрымліваецца.</string>
     <string name="format_unsupported_or_corrupted">Гэты фармат не падтрымліваецца або файл пашкоджаны</string>
     <string name="fragment_title_artist_album">Альбомы</string>
     <string name="gcm_fallback_notification_channel_label">Рознае</string>
+    <string name="goto_local_search">Пошук на прыладзе</string>
+    <string name="goto_online_search">Пошук у Інтэрнэце</string>
     <string name="handle_later">Не цяпер</string>
     <string name="hd_quality_audio">Гук HD якасці</string>
     <string name="headset_and_audio_effect_category">Навушнікі і гукавыя эфекты</string>
@@ -368,8 +400,11 @@
     <string name="hide_lyric">Схаваць тэкст</string>
     <string name="higher_quality_music">Аўдыё высокай якасці</string>
     <string name="higher_quality_music_summary">Праслухоўванне анлайн і спампоўка музыкі высокай якасці</string>
+    <string name="home_tab_home">На Галоўную старонку</string>
     <string name="home_tab_local">Мая музыка</string>
+    <string name="home_tab_more_music">Яшчэ музыка</string>
     <string name="home_tab_online">Анлайн-музыка</string>
+    <string name="home_tab_search">Пошук</string>
     <string name="hot_icon_in_fast_indexer">H</string>
     <string name="hungama_batch_download_alert_summary">Спампоўваць некалькі песняў адначасова могуць толькі члены PRO. Купіць членства PRO цяпер?</string>
     <string name="hungama_free_download_out_summary">Вы больш не можаце спампоўваць бясплатныя песні. Купіць членства PRO для спампоўкі без абмежаванняў?</string>
@@ -413,6 +448,7 @@
     <string name="load_shuffle">Загрузка…</string>
     <string name="loadercontainer_loading">Хвілінку…</string>
     <string name="loading_hint">Хвілінку…</string>
+    <string name="loading_reached_the_bottom">Гэта ўсё на дадзены момант.</string>
     <string name="local_header_title">Лакальная музыка</string>
     <string name="local_music">Песні на прыладзе</string>
     <string name="local_music_is_not_available">На вашай прыладзе няма песень.</string>
@@ -466,6 +502,7 @@
     <string name="more_settings">Advanced settings</string>
     <string name="more_settings_summary">Таймер сну, фільтраванне файлаў і многае іншае</string>
     <string name="more_share">Падзяліцца</string>
+    <string name="mulit_choice_management">"Кіраваць некалькімі аб'ектамі"</string>
     <string name="music_browser_label">Музыка</string>
     <string name="music_filter">Фільтр аўдыяфайлаў</string>
     <string name="music_service">Сервіс музыкі</string>
@@ -475,6 +512,10 @@
     <string name="my_account">Mi акаўнт</string>
     <string name="my_music_empty">Плэйліст пусты.</string>
     <string name="my_music_empty_goto_online">Не знойдзена песень</string>
+    <string name="my_playlist_add_song">Дадаць песні</string>
+    <string name="my_playlist_create_self_playlist">Стварайце плэйлісты з вашымі любімымі песнямі</string>
+    <string name="my_playlist_set_to_private">Зрабіць прыватным</string>
+    <string name="my_playlist_set_to_public">Зрабіць агульнадаступным</string>
     <string name="network_error_and_retry">"Couldn't connect, tap to try again"</string>
     <string name="network_request_error">Немагчыма злучыцца з сеткай</string>
     <string name="network_settings_error">Немагчыма злучыцца з сеткай</string>
@@ -498,6 +539,7 @@
     <string name="not_login">Уваход не выкананы</string>
     <string name="not_now">Не зараз</string>
     <string name="not_selected">Абярыце трэк</string>
+    <string name="not_support_documentui">DocumentUI не патрымліваецца на гэтай прыладзе</string>
     <string name="notif_title_file_size">%1$d усяго</string>
     <string name="notif_title_single_downloading">Спампоўка %1$s</string>
     <string name="notification_download_complete">Спампоўка завершана</string>
@@ -546,6 +588,7 @@
     <string name="online_switch_setting">Налады анлайн-зместу</string>
     <string name="open_online_service">You need to turn on online services to use this feature. Turn on now?</string>
     <string name="open_service">Turn on</string>
+    <string name="operation_done_close">Зачыніць</string>
     <string name="other_song_in_album">Іншыя песні з гэтага альбома</string>
     <string name="paused_by_app">Прыпынена</string>
     <string name="paused_in_power_save_mode">Прыпыніць пры ўключанай эканоміі зарада батарэі</string>
@@ -562,6 +605,8 @@
     <string name="permission_declaration_negative_text">Later</string>
     <string name="permission_declaration_positive_text">Go to Security</string>
     <string name="permission_declaration_title">Allow access</string>
+    <string name="permission_open">Дазволіць</string>
+    <string name="permission_required">Неабходны дазволы</string>
     <string name="pick_favorite_song">Favorites</string>
     <string name="pick_local_song">Local songs</string>
     <string name="pick_recent_song">Recently played</string>
@@ -592,6 +637,7 @@
     <string name="priority_storage_summary">Аўтаматычна захоўваць файлы на SD-карту, калі яна падлучана</string>
     <string name="privacy_desc">Палітыка прыватнасці (абавязкова)</string>
     <string name="privacy_policy">Палітыка канфідэнцыяльнасці</string>
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=be_BY</string>
     <string name="pro_member">Член PRO</string>
     <string name="project_device">Mi Phone</string>
     <string name="prompt_grant_write_settings_permission">Дазволіць змяняць сістэмныя налады</string>
@@ -608,13 +654,19 @@
     <string name="remove_download">Выдаленне</string>
     <string name="repeat_all_notif">Паўтор усіх песень.</string>
     <string name="repeat_current_notif">Паўтарэнне бягучай песні.</string>
+    <string name="request_overlay_permission_desc">Дазволіць Mi Музыка адлюстроўваць плаваючыя вокны, каб мець магчымасць выкарыстоўваць гэтую функцыю.</string>
     <string name="request_share_info">Хвілінку…</string>
     <string name="request_subscription_status">Хвілінку…</string>
     <string name="restart_immediate">Restart</string>
     <string name="retry">Паспрабаваць зноў</string>
     <string name="retry_after_network_available">Немагчыма злучыцца з сеткай. Праверце злучэнне і паспрабуйце зноў.</string>
     <string name="retry_download">Паспрабаваць ізноў</string>
+    <string name="ringtone_editing">Рэдактар мелодый</string>
     <string name="ringtone_not_support">Фармат песні не падтрымліваецца</string>
+    <string name="ringtone_selected">Выбрана</string>
+    <string name="ringtones_play">Прайграць</string>
+    <string name="ringtones_stop">Стоп</string>
+    <string name="ringtones_successful">Мелодыя званка паспяхова ўсталяваная</string>
     <string name="root_downloads">Спампоўкі</string>
     <string name="s1">Захаваць відарыс</string>
     <string name="s2">Дазволіць рэкламе захоўваць відарыс у Галерэі відарысаў?</string>
@@ -634,11 +686,18 @@
     <string name="search_hint_local">Пошук песень на прыладзе</string>
     <string name="search_hint_online">Пошук выканаўцаў, альбомаў, песень, плэйлістоў і відэа онлайн</string>
     <string name="search_history_clear_all">Clear</string>
+    <string name="search_history_delete_all_dialog_titile">Ачысціць гісторыю пошуку зараз?</string>
+    <string name="search_in_youtube">Пошук на YouTube</string>
     <string name="search_instant_online_music">Online</string>
     <string name="search_menu_title">Пошук</string>
+    <string name="search_more">Больш</string>
+    <string name="search_result_local_songs">Лакальна</string>
+    <string name="search_result_online_songs">Анлайн</string>
+    <string name="search_songs">Пошук песень</string>
     <string name="search_songs_count">Songs: %d</string>
     <string name="select">Выбраць</string>
     <string name="select_all">Select all</string>
+    <string name="select_clip_desc">Выберыце фрагмент песні</string>
     <string name="select_desc_sub">Вы можаце выбраць да 3 моў</string>
     <string name="select_device">Выберыце прыладу</string>
     <string name="select_displayed_folders">Абярыце папкі для адлюстравання</string>
@@ -650,6 +709,7 @@
     <string name="selected_count">Абрана %1$d з %2$d</string>
     <string name="send_to_title">Адправіць (%1$s)</string>
     <string name="service_and_settings">Service and settings</string>
+    <string name="set_as_alarm_clock_ringtone">Будзільнік</string>
     <string name="set_as_ring">Усталяваць ў якасці мелодыі званка</string>
     <string name="set_ringtones_failed">Не атрымалася ўсталяваць на званок</string>
     <string name="set_ringtones_successful">%s усталявана ў якасці мелодыі званка</string>
@@ -668,6 +728,7 @@
     <string name="share_image_error">Не атрымалася падзяліцца выявай з-за памылкі спампоўкі</string>
     <string name="share_text_list">"Плэйліст ад Mi Music: "</string>
     <string name="share_text_song">"Песня ў Mi Music: "</string>
+    <string name="show_float_first_hint">Згарнуць плэер</string>
     <string name="show_more">Паказаць яшчэ %s</string>
     <string name="shuffle_music">Shuffle playback</string>
     <string name="shuffle_off_notif">Перамешванне адключана.</string>
@@ -681,12 +742,15 @@
     <string name="sleep_mode_summary">Спыніць прайгравальнік праз вызначаны час</string>
     <string name="sleep_mode_title">Таймер сну</string>
     <string name="sliding_pro_center">Цэнтр PRO</string>
+    <string name="song_already_in_playlist">Гэтая песня ўжо ў плэйлісце</string>
     <string name="song_exist_in_playlist">This song is already in the queue</string>
     <string name="song_info">Song details</string>
+    <string name="song_is_added_to_playlist">Дададзена да плэйліста</string>
     <string name="song_is_empty">Назва песні не можа быць пустою.</string>
     <string name="song_name">Песня</string>
     <string name="song_not_find">Песня недаступна.</string>
     <string name="song_offline">Гэтая песня больш недаступная.</string>
+    <string name="song_picker_complete">Гатова</string>
     <string name="songgroup_pick_album">Альбомы</string>
     <string name="songgroup_pick_playlist">Playlists</string>
     <string name="sort_by_name">Name</string>
@@ -694,16 +758,20 @@
     <string name="start_to_check_new_version">Праверка абнаўлення…</string>
     <string name="start_to_download">Запампоўка…</string>
     <string name="start_to_play">Прайграць</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="storage_cloned_app">Памяць для клонаў праграм</string>
     <string name="storage_internal">Унутранае сховішча</string>
     <string name="storage_sd_card">SD-карта</string>
     <string name="storage_usb">USB-сховішча</string>
     <string name="streamloadingtext">Падключэнне да %s</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="tab_album">Альбомы</string>
     <string name="tab_album_list">Альбомы</string>
     <string name="tab_artist">Выканаўцы</string>
     <string name="tab_artist_list">Выканаўцы</string>
     <string name="tab_folder">Тэчкі</string>
     <string name="tab_playlist">Плэйлісты</string>
+    <string name="tab_top_results">Галоўны вынік</string>
     <string name="tab_track">Песні</string>
     <string name="tab_track_list">Песні</string>
     <string name="tab_video">Відэа</string>
@@ -734,11 +802,16 @@
     <string name="title_online_fm_recommend">Папулярныя радыёстанцыі</string>
     <string name="title_online_recommend">Папулярныя плэйлісты</string>
     <string name="title_search_history">Гісторыя пошуку</string>
+    <string name="title_search_hot">Папулярныя</string>
     <string name="toast_download_error_by_count_limit">Вы выдаткавалі квоту на спампоўку ў гэтым месяцы.</string>
     <string name="toast_download_error_by_not_login">Увайдзіце ў Mi акаўнт і паўтарыце спробу.</string>
     <string name="toast_download_error_by_vip_required">Набудзьце пакет Прэміум для спампоўкі гэтага трэка.</string>
     <string name="toast_download_in_process">Спампоўка ў працэсе</string>
     <string name="toast_is_pro">У вас ужо ёсць падпіска PRO.</string>
+    <string name="toast_my_playlist_illegal_name">Назва гэтага плэйліста несапраўднае. Пераназавіце гэты плэйліст.</string>
+    <string name="toast_my_playlist_set_to_private">Гэты плэйліст цяпер прыватны. Іншыя людзі не могуць бачыць яго.</string>
+    <string name="toast_my_playlist_set_to_public">Гэты плэйліст цяпер агульнадаступны. Іншыя людзі могуць бачыць яго.</string>
+    <string name="toast_my_playlist_sync_failed">Не атрымалася сінхранізаваць плэйлісты з-за сеткавы памылкі.</string>
     <string name="toast_new_playlist_name_no_enter">Немагчыма пачаць новы абзац</string>
     <string name="toast_new_playlist_name_too_long">Імя плэйліста занадта доўгае</string>
     <string name="toast_normal_songs_for_download">Якасць спампоўкі: звычайная</string>
@@ -758,6 +831,9 @@
     <string name="upgrade_music_message">Updates are ready. Restart to update.</string>
     <string name="upgrading_in_backstage">Updating in the background…</string>
     <string name="user_agreement">Карыстальніцкае пагадненне</string>
+    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=be_BY</string>
+    <string name="v7_preference_off">ВЫКЛ.</string>
+    <string name="v7_preference_on">УКЛ.</string>
     <string name="version_info">Version</string>
     <string name="video_play_cellular">Ваша прылада не падлучана да Wi-Fi. Выкарыстаць мабільны інтэрнэт?</string>
     <string name="video_replay_btn">Прайграць зноў</string>
@@ -770,4 +846,5 @@
 
 Націсніце %s для працягу спампоўкі пры наступным падключэнні да сеткі Wi-Fi."</string>
     <string name="wifi_required_title">Вы павінны падлучыцца да Wi-Fi, каб спампаваць гэты файл</string>
+    <string name="you_can_switch_mode_in_settings">Вы можаце пераключацца паміж рэжымамі ў наладах</string>
 </resources>

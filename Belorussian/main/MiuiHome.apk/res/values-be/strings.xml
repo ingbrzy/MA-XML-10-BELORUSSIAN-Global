@@ -4,6 +4,19 @@
     <string name="activity_not_found">Праграма не знойдзеная</string>
     <string name="activity_not_unlocked">Да таго як адкрываць праграмы, дачакайцеся поўнага завяршэння перазагрузкі вашай прылады</string>
     <string name="add_screen">Дадаць экран</string>
+    <string name="all_apps">Усе праграмы</string>
+    <string name="all_apps_no_search_results">Нічога не знойдзена</string>
+    <string name="all_apps_search_app">Пошук праграм</string>
+    <string name="all_apps_search_market_message">Пошук у Інтэрнэце</string>
+    <string name="all_apps_setting_desktop_desc">Паказаць усе ўстаноўленыя праграмы на Галоўным экране. Націсніце і ўтрымлівайце значок праграмы, каб убачыць даступныя цэтлікі, кіраваць праграмай або выдаліць яе.</string>
+    <string name="all_apps_setting_desktop_title">Звычайны</string>
+    <string name="all_apps_setting_drawer_desc">Змесціце ўсе устаноўленыя праграмы ў Меню праграм, якое можна адкрыць, правёўшы ўверх па Галоўнаму экрану. Вы па-ранейшаму зможаце знайсці праграмы, якія перамясцілі на Галоўны экран, у Меню праграм.</string>
+    <string name="all_apps_setting_drawer_tips_desc">Меню праграм адкрываецца пры правядзенні ўверх па Галоўнаму экрану. Пераключэнне ў рэжым Галоўнага экрана з дапамогай Меню праграм зробіць Кантэнт-цэнтар недаступным. Усё роўна пераключыцца?</string>
+    <string name="all_apps_setting_drawer_tips_title">Выкарыстанне Меню праграм</string>
+    <string name="all_apps_setting_drawer_title">З дапамогай Меню праграм</string>
+    <string name="all_apps_setting_title">Галоўны экран</string>
+    <string name="all_apps_slide_up_tips">Правядзенне ўверх зарэзервавана для адкрыцця Меню праграм. Пераключыцеся ў звычайны рэжым Галоўнага экрана і паспрабуйце зноў.</string>
+    <string name="all_apps_suggestions">Прапановы праграм</string>
     <string name="announce_for_app_move_in_folder">Перамешчана ў пазіцыю %1$d у папцы</string>
     <string name="announce_for_checked">%1$s, праверана</string>
     <string name="announce_for_choose_default_screen">Усталяваць экран %1$d як пачатковы</string>
@@ -251,6 +264,7 @@
     <string name="multi_selecting_tips">Націсніце і ўтрымлівайце значок, каб перацягнуць яго.</string>
     <string name="no_detail_page">Няма старонкі з інфармацыяй</string>
     <string name="no_space_toast">Недастаткова месца</string>
+    <string name="no_space_toast_when_click_widget">"Недастаткова месца на гэтай старонцы. Паспрабуйце перацягнуць гэты аб'ект на іншую старонку."</string>
     <string name="normal_wallpaper">Шпалеры</string>
     <string name="notification_installed">Паспяхова ўсталявана</string>
     <string name="notification_open_button">Адкрыць</string>
@@ -295,6 +309,7 @@
     <string name="privacy_thumbnail_blur_summary">Размываць мініяцюры праграм у Апошніх</string>
     <string name="privacy_thumbnail_blur_title">Размываць мініяцюры праграм</string>
     <string name="quick_app">Быстрыя праграмы</string>
+    <string name="recent_apps">Нядаўнія</string>
     <string name="recents_config_title">Апошнія</string>
     <string name="recommend_apk_size_and_desc">%1$dMB | %2$s</string>
     <string name="recommend_apps_default_title">Пуста</string>
@@ -307,6 +322,7 @@
     <string name="recommend_loading">Загрузка</string>
     <string name="recommend_refresh">Абнавіць</string>
     <string name="recommend_xout">Не паказваць</string>
+    <string name="remove_invalidate_gadget_tips">Адзін з выкарыстоўваных вамі віджэтаў больш не даступны. Вы можаце выбраць іншы віджэт.</string>
     <string name="reset_description_first_time">Вы можаце аднавіць макет з %1$s на працягу 2 гадзін</string>
     <string name="reset_description_others">Вы можаце аднавіць макет з %1$s</string>
     <string name="reset_fail">Не атрымалася аднавіць</string>
@@ -325,6 +341,9 @@
     <string name="shake_to_align_icons_summary">Адкрыйце рэжым рэдагавання і падтрасіце прыладу, каб аўтаматычна запоўніць пустыя ячэйкі значкамі</string>
     <string name="shake_to_align_icons_title">Падтрасіце для запаўнення пустых ячэяк</string>
     <string name="share">Падзяліцца</string>
+    <string name="shortcut_share_dialog_content">"Файлы, якія вы адпраўляеце са свайго тэлефона, а таксама іх атрымальнікі выбіраюцца і вызначаюцца вамі. Будзьце ўважлівыя пры выбары файлаў для адпраўкі і іх атрымальнікаў. Вы не можаце выкарыстоўваць свой тэлефон для перадачы вірусаў, шкоднасных праграм, траянаў і іншага шкоднаснага праграмнага забеспячэння іншым карыстальнікам. Не выкарыстоўвайце свой тэлефон для перадачы праграмнага забеспячэння, якое можа паўплываць на звычайнае выкарыстанне прылады атрымальніка, або любых аб'ектаў, якія могуць пашкодзіць, сапсаваць, перахапіць або знішчыць любыя сістэмныя дадзеныя або асабістую інфармацыю на мабільных канцавых прыладах. Вы будзеце несці адказнасць за любую шкоду, прычыненую іншым карыстальнікам або мабільным прыладам. Xiaomi зробіць усё магчымае, каб функцыянальнасць перадачы дадзеных, а таксама тэхналогіі і інфармацыя былі бяспечнымі, эфектыўнымі, дакладнымі і надзейнымі. Аднак з-за бягучых тэхналагічных абмежаванняў Xiaomi не гарантуе, што функцыянальнасць сумеснага выкарыстання з'яўляецца бездакорнай і задаволіць усе вашыя патрэбы."</string>
+    <string name="shortcut_share_dialog_positive_button">Зразумела</string>
+    <string name="shortcut_share_dialog_title">Адмова ад адказнасці</string>
     <string name="show_all">Паказаць усе</string>
     <string name="show_mem_info_title">Паказваць стан памяці</string>
     <string name="show_recents_recommend_title">Паказаць прапановы</string>
@@ -333,6 +352,7 @@
     <string name="sort_by_not_defined">Па парадку</string>
     <string name="start_activity_failed">Не атрымалася запусціць рабочы стол</string>
     <string name="starting_preset_app">Запуск…</string>
+    <string name="status_bar_notification_info_overflow">больш за 999</string>
     <string name="status_downloaded">Спампавана</string>
     <string name="status_downloading">Спампоўка</string>
     <string name="status_installing">Усталёўка</string>

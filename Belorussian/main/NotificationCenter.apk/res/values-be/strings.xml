@@ -16,9 +16,10 @@
     <string name="list_title_disable_notification">Апавяшчэнні не дазволены</string>
     <string name="loading">Секундачку…</string>
     <string name="lock_screen_display_rules">Фармат</string>
-    <string name="lock_screen_tip_toast">Спачатку дазволіце апавяшчэнні ў «Апавяшчэннях праграм»</string>
+    <string name="lock_screen_tip_toast">Дазволіце паведамлення на экране блакавання ў раздзеле «Фармат»</string>
     <string name="lockscreen_notifications">Апавяшчэнні на Экране блакавання</string>
     <string name="not_sent_recently">Апавяшчэнняў не было</string>
+    <string name="notch_and_status_bar_setting">Выраз і радок стану</string>
     <string name="notification_display_setting">Панэль апавяшчэнняў</string>
     <string name="notification_display_style">Стыль апавяшчэнняў</string>
     <string name="notification_fold_summary">"Усе няважныя апавяшчэнні будуць з'яўляцца ў асобнай тэчцы"</string>
@@ -28,7 +29,10 @@
     <string name="notification_style_miui">MIUI</string>
     <string name="off">Адкл</string>
     <string name="on">Укл</string>
+    <string name="settings_guide_title">Патрэбныя іншыя налады?</string>
     <string name="show_badge_notifications">Значкі апавяшчэнняў</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="status_bar_setting">Радок стану</string>
     <string name="summary_disable_float_notification">Усплывальныя апавяшчэнні не дазволены</string>
     <string name="summary_disable_lockscreen_notification">Апавяшчэння на Экране блакавання не дазволены</string>
     <string name="summary_disable_show_badge_notification">Значкі апавяшчэнняў не дазволены</string>

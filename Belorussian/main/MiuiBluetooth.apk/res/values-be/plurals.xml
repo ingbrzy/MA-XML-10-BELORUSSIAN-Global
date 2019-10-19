@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="fast_connect_headset_reset">
+        <item quantity="other">Націсніце і ўтрымлівайце кнопку ў поле на працягу %1$d секунд</item>
+        <item quantity="one">Націсніце і ўтрымлівайце кнопку ў поле на працягу %1$d секунды</item>
+        <item quantity="few">Націсніце і ўтрымлівайце кнопку ў поле на працягу %1$d секунд</item>
+        <item quantity="many">Націсніце і ўтрымлівайце кнопку ў поле на працягу %1$d секунд</item>
+    </plurals>
+</resources>

@@ -28,6 +28,7 @@
     <string name="abc_shareactionprovider_share_with_application">Абагуліць праз праграму %s</string>
     <string name="abc_toolbar_collapse_description">Згарнуць</string>
     <string name="search_menu_title">Пошук</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="add_alarm">Дадаць будзільнік</string>
     <string name="add_clock">Дадаць гадзіннік</string>
     <string name="add_timezone_title">Дадаць часавы пояс</string>
@@ -43,6 +44,7 @@
     <string name="alarm_notify_snooze_label">%s паўтор</string>
     <string name="alarm_notify_text">Адкласці або адключыць будзільнік.</string>
     <string name="alarm_repeat">Паўтор</string>
+    <string name="alarm_ringtone">Мелодыі будзільнікаў</string>
     <string name="alarm_settings">Будзільнік</string>
     <string name="alarm_settings_category_title">Будзільнік</string>
     <string name="alarm_vibrate">Вібрацыя</string>
@@ -68,6 +70,7 @@
     <string name="clock_bg_button_setting_title">Колер фону</string>
     <string name="close_alarm">Адключыць</string>
     <string name="common_settings">Галерэя</string>
+    <string name="confirm">Пацвердзіць</string>
     <string name="confirm_abort">Адмяніць</string>
     <string name="content_desc_keep_screen">Кнопка \"Не выключаць экран\"</string>
     <string name="control_set_alarm">Усталяваць будзільнік</string>
@@ -82,10 +85,17 @@
     <string name="delete_timer_item_title">Выдаліць</string>
     <string name="delete_timezone_title">Выдаліць часавы пояс</string>
     <string name="dialog_confirm_abort">Скасаваць змены?</string>
+    <string name="dialog_legal_off_day">&lt;Data>Здаецца, вы карыстаецеся будзільнікамі для выхадных дзён. Для правільнай працы гэтай функцыі патрабуецца падключэнне да інтэрнэту. Перад выкарыстаннем гэтай функцыі вы павінны прачытаць і прыняць наша &lt;a href=\"%1$s\">Карыстальніцкае пагадненне&lt;/a> і &lt;a href=\"%2$s\">Палітыку прыватнасці&lt;/a>. Вы згодны?&lt;/Data></string>
+    <string name="dialog_legal_off_day_desc">У Гадзінніка няма доступу да інтэрнэту для абнаўлення інфармацыі аб выходных днях. Будзільнікі ў выхадныя дні будут званіць у суботу і нядзелю.</string>
+    <string name="dialog_legal_workday">&lt;Data>Здаецца, карыстаецеся будзільнікамі для будніх дзён. Для правільнай працы гэтай функцыі патрабуецца падключэнне да інтэрнэту. Перад выкарыстаннем гэтай функцыі вы павінны прачытаць і прыняць наша &lt;a href=\"%1$s\">Карыстальніцкае пагадненне&lt;/a> і &lt;a href=\"%2$s\">Палітыку прыватнасці&lt;/a>. Вы згодны?&lt;/Data></string>
+    <string name="dialog_legal_workday_and_off_day">&lt;Data>Здаецца, вы карыстаецеся будзільнікамі для будных і выхадных дзён. Для правільнай працы гэтай функцыі патрабуецца падключэнне да інтэрнэту. Перад выкарыстаннем гэтай функцыі вы павінны прачытаць і прыняць наша &lt;a href=\"%1$s\">Карыстальніцкае пагадненне&lt;/a> і &lt;a href=\"%2$s\">Палітыку прыватнасці&lt;/a>. Вы згодны?&lt;/Data></string>
+    <string name="dialog_legal_workday_and_off_day_desc">У Гадзінніка няма доступу да інтэрнэту для абнаўлення інфармацыі аб выходных днях. Будзільнікі ў буднія дні будут званіць з панядзелка да пятніцы. Будзільнікі ў выхадныя дні будут званіць у суботу і нядзелю.</string>
+    <string name="dialog_legal_workday_desc">У Гадзінніка няма доступу да інтэрнэту для абнаўлення інфармацыі аб будніх днях. Будзільнікі ў буднія дні будут званіць з панядзелка да пятніцы.</string>
     <string name="dialog_message_agree">Згодзен</string>
     <string name="dialog_message_for_contact_permission">Каб будзільнікі для дзён нараджэння сталі даступныя, Гадзіннік павінен атрымаць доступ да вашых кантактаў. Згодны?</string>
     <string name="dialog_message_negative">Не згадзіцца</string>
     <string name="dialog_message_not_remind">Больш не паказваць</string>
+    <string name="dialog_net_permission_in_repeat_type">&lt;Data>Для правільнай працы гэтай функцыі патрабуецца падключэнне да інтэрнэту. Перад выкарыстаннем гэтай функцыі вы павінны прачытаць і прыняць наша &lt;a href=\"%1$s\">Карыстальніцкае пагадненне&lt;/a> і &lt;a href=\"%2$s\">Палітыку прыватнасці&lt;/a>. Вы згодны?&lt;/Data></string>
     <string name="dialog_privacy_content">Для атрымання дадзеных аб дзяржаўных святах, налады будзільнікаў і прадастаўлення персаналізаваных паслуг Гадзінніку патрабуецца падлучэнне да інтэрнэту. Вы павінны прачытаць і прыняць нашы %1$s і %2$s. Вы згодны?</string>
     <string name="dialog_privacy_content_global">Для прадастаўлення персаналізаваных паслуг Гадзінніку патрабуецца падлучэнне да інтэрнэту. Вы павінны прачытаць і прыняць нашы %1$s і %2$s перад выкарыстаннем Гадзінніка. Вы згодны?</string>
     <string name="dialog_privacy_content_news">Для прадастаўлення персаналізаваных паслуг і ўключэння ранішніх навін у вашы будзільнікі Гадзінніку патрабуецца падлучэнне да інтэрнэту. Вы павінны прачытаць і прыняць нашы %1$s і %2$s перад выкарыстаннем Гадзінніка. Вы згодны?</string>
@@ -95,6 +105,7 @@
     <string name="dynamic_alarm_speech">Разумны будзільнік</string>
     <string name="edit_alarm">Рэдагаваць будзільнiк</string>
     <string name="edit_systemtime">Налады даты і часу</string>
+    <string name="edit_systemtime_setting_summary">Дата, час і Двайны гадзіннік</string>
     <string name="every_day">Штодня</string>
     <string name="expired_timers_dismissed">Таймер адключаны</string>
     <string name="force_touch_add_alarm">Дадаць будзільнік</string>
@@ -108,9 +119,7 @@
     <string name="hour_unit">Гд +</string>
     <string name="install_weather_app_error">Не атрымалася запусціць праграму</string>
     <string name="install_weather_app_loading">Хвілінку…</string>
-    <string name="invalid_time">"Няслушны час:
-%3$s %1$d:
-%2$d "</string>
+    <string name="invalid_time">Няслушны час: %3$s %1$d: %2$d</string>
     <string name="invalid_timer_length">Недапушчальная працягласць таймера</string>
     <string name="keep_screen_on">Не выключаць экран</string>
     <string name="korea_permission_calendar">Каляндар</string>
@@ -132,8 +141,11 @@
     <string name="life_post_setting">Ранішняя зводка</string>
     <string name="life_post_setting_FBE_remind">"Праз абмежаванні сістэмы інфармацыя пра надвор'е ў ранішняй зводцы пасля перазапуску можа паказвацца няправільна."</string>
     <string name="life_post_setting_close_title">Не атрымліваць ранішнюю зводку</string>
+    <string name="life_post_setting_open_background_subtitle">Паказваць фонавыя выявы для адпаведных сігналаў будзільніка</string>
+    <string name="life_post_setting_open_background_title">Паказаць фонавую выяву</string>
     <string name="life_post_setting_open_desc">"Адключыць будзільнікі, якія паўтараюцца, з 4:00 да 10:00 для праслухоўвання зводкі надвор'я"</string>
     <string name="life_post_setting_open_subtitle">"Атрымліваць зводку надвор'я пры адключэнні будзільніка паміж 04:00 і 09:30"</string>
+    <string name="life_post_setting_open_summary">"Дадаць інфармацыю пра надвор'е ў першы сігнал будзільніка, які выключаецца з 4:00 да 10:00"</string>
     <string name="life_post_setting_open_title">Атрымліваць ранішнюю зводку</string>
     <string name="life_post_setting_wake_up_list_title">Гісторыя абуджэнняў</string>
     <string name="life_post_wake_up_acumu_day_title">Колькасць дзён</string>
@@ -146,6 +158,7 @@
     <string name="life_post_weather_invalid">"Атрымаць інфармацыю пра надвор'е"</string>
     <string name="life_post_weather_no_network">"Падключыцеся да сеткі для абнаўлення дадзеных аб надвор'і"</string>
     <string name="life_post_weather_temperature_centigrade">°</string>
+    <string name="listen_news_privacy">&lt;Data>Для прадастаўлення персаналізаваных паслуг і ўключэння ранішніх навін у вашы будзільнікі Гадзінніку патрабуецца падлучэнне да інтэрнэту. Перад выкарыстаннем Гадзінніка вы таксама павінны прачытаць і прыняць нашы &lt;a href= %1$s\">Карыстальніцкае пагадненне&lt;/a> і &lt;a href=\"%2$s\">Палітыку прыватнасці&lt;/a>. Вы згодны?&lt;/Data></string>
     <string name="loading_ringtone">Запампоўка мелодый…</string>
     <string name="menu_add_worldclock">Дадаць гадзіннік</string>
     <string name="menu_desk_clock">Гадзіннік</string>
@@ -153,32 +166,62 @@
     <string name="menu_item_dock_settings">Налады</string>
     <string name="menu_item_sort_by_gmt_offset">Сартаваць па часе</string>
     <string name="menu_item_sort_by_name">Сартаваць па імені</string>
+    <string name="module_dialog_negative">Не згадзіцца</string>
+    <string name="module_dialog_neutral">Зразумела</string>
+    <string name="module_dialog_positive">Згадзіцца</string>
     <string name="module_download_cancel">Не, дзякуй</string>
-    <string name="module_download_data_msg">"Гадзінніку патрабуецца загрузіць аўдыёфайлы для разумных будзільнікаў MIUI. Разумныя будзільнікі ўтрымліваюць функцыі, якія дазваляюць уключаць у сігналы інфармацыю пра надвор'е. Для загрузкі спатрэбіцца ≈20 МБ мабільнага трафіку. Загрузіць іх?"</string>
+    <string name="module_download_data_msg">"Для прадастаўлення доступу да разумных будзільнікаў MIUI Гадзінніку патрабуецца загрузіць аўдыёфайлы. Разумныя будзільнікі ўтрымліваюць функцыі, якія дазваляюць уключаць у сігналы інфармацыю пра надвор'е. Для загрузкі спатрэбіцца ≈20 МБ мабільнага трафіку. Загрузіць зараз?"</string>
     <string name="module_download_data_msg_golbal">Гадзінніку патрабуецца загрузіць аўдыёфайлы для разумных будзільнікаў MIUI. Для загрузкі спатрэбіцца ≈20 МБ мабільнага трафіку. Загрузіць іх зараз?</string>
     <string name="module_download_data_msg_replace">Даступна абнаўленне гукаў для разумных будзільнікаў MIUI. Для загрузкі спатрэбіцца ≈20 МБ мабільнага трафіку. Загрузіць яго зараз?</string>
     <string name="module_download_data_msg_timer">Гадзінніку патрабуецца загрузіць аўдыёфайлы таймераў з гукамі прыроды. Для загрузкі спатрэбіцца ≈20 МБ мабільнага трафіку. Загрузіць іх зараз?</string>
     <string name="module_download_fail">Не атрымалася спампаваць дадатковае аўдыя</string>
-    <string name="module_download_msg">"Гадзінніку патрабуецца загрузіць аўдыёфайлы для разумных будзільнікаў MIUI. Разумныя будзільнікі ўтрымліваюць функцыі, якія дазваляюць уключаць у сігналы інфармацыю пра надвор'е. Загрузіць іх зараз?"</string>
+    <string name="module_download_failure">Памылка спампоўкі аўдыё. Праверце налады сеткі і паўторыце спробу.</string>
+    <string name="module_download_msg">"Для працы разумных будзільнікаў MIUI Гадзінніку патрабуецца загрузіць аўдыёфайлы. Разумныя будзільнікі ўтрымліваюць функцыі, якія дазваляюць уключаць у сігналы інфармацыю пра надвор'е. Загрузіць зараз?"</string>
     <string name="module_download_msg_golbal">Гадзінніку патрабуецца загрузіць аўдыёфайлы для разумных будзільнікаў MIUI. Загрузіць іх зараз?</string>
     <string name="module_download_msg_replace">Даступна абнаўленне гукаў для разумных будзільнікаў MIUI. Загрузіць яго зараз?</string>
     <string name="module_download_msg_timer">Гадзінніку патрабуецца загрузіць аўдыёфайлы таймераў з гукамі прыроды. Загрузіць іх зарах?</string>
-    <string name="module_download_no_network">Не атрымалася злучыцца з сеткай. Праверце налады сеткі і паспрабуйце зноў.</string>
+    <string name="module_download_no_network">Для спампоўкі аўдыёфайлаў Гадзінніку патрабуецца падлучэнне да інтэрнэту. Праверце налады сеткі і паўторыце спробу.</string>
     <string name="module_download_ok">Зняць забарону</string>
-    <string name="module_download_success">Спампоўка дадатковага аўдыя завершана</string>
+    <string name="module_download_success">Спампоўка аўдыё паспяхова завершана</string>
     <string name="module_download_title">Патрабуецца дадатковае аўдыя</string>
-    <string name="module_downloading">Спампоўка дадатковага аўдыя…</string>
+    <string name="module_downloading">Спампоўка аўдыё…</string>
+    <string name="module_update_success">Абноўленыя аўдыёфайлы для разумных будзільнікаў MIUI паспяхова загружаны. Вы можаце ўсталяваць разумныя будзільнікі MIUI у наладах Гадзінніку.</string>
+    <string name="module_update_success_control">Зразумела</string>
+    <string name="module_weather_ringtone_download_data">"Будзільнік з надвор'ем выбірае розныя мелодыі ў залежнасці ад бягучага надвор'я. Для яго працы Гадзінніку патрабуецца спампаваць ≈30 МБ аўдыёфайлаў. Спампаваць іх?"</string>
+    <string name="module_weather_ringtone_download_data_privacy">"&lt;Data>Будзільнік з надвор'ем выбірае розныя мелодыі ў залежнасці ад бягучага надвор'я. Для яго працы Гадзінніку патрабуецца падлучыцца да інтэрнэту і загрузіць ≈30 МБ аўдыё. Перад выкарыстаннем Гадзінніка вы таксама павінны прачытаць і прыняць нашы &lt;a href= %1$s\">Карыстальніцкае пагадненне&lt;/a> і &lt;a href=\"%2$s\">Палітыку прыватнасці&lt;/a>. Вы згодны?&lt;/Data>"</string>
+    <string name="module_weather_ringtone_download_wifi">"Будзільнік з надвор'ем выбірае розныя мелодыі ў залежнасці ад бягучага надвор'я. Для яго працы Гадзінніку патрабуецца спампаваць аўдыё. Спампаваць зараз?"</string>
+    <string name="module_weather_ringtone_download_wifi_privacy">"&lt;Data>Будзільнік з надвор'ем выбірае розныя мелодыі ў залежнасці ад бягучага надвор'я. Для яго працы Гадзінніку патрабуецца падлучыцца да інтэрнэту і загрузіць аўдыё. Перад выкарыстаннем Гадзінніка вы таксама павінны прачытаць і прыняць нашы &lt;a href= %1$s\">Карыстальніцкае пагадненне&lt;/a> і &lt;a href=\"%2$s\">Палітыку прыватнасці&lt;/a>. Вы згодны?&lt;/Data>"</string>
+    <string name="module_weather_ringtone_introduce">"Будзільнік з надвор'ем выбірае розныя мелодыі ў залежнасці ад бягучага надвор'я. Ён таксама дазваляе праслухоўваць ранішнюю зводку надвор'я."</string>
+    <string name="module_weather_ringtone_introduce_global">"Будзільнік з надвор'ем выбірае розныя мелодыі ў залежнасці ад бягучага надвор'я."</string>
+    <string name="module_weather_ringtone_update_data">"Будзільнік надвор'я цяпер ўключае ў сябе фонавую музыку і палепшаныя галасавыя аб'явы. Для яго працы Гадзінніку патрабуецца спампаваць ≈30 МБ аўдыёфайлаў. Спампаваць зараз?"</string>
+    <string name="module_weather_ringtone_update_success">"Будзільнік з надвор'ем цяпер ўключае ў сябе фонавую музыку і палепшаныя галасавыя аб'явы. Вы можаце стварыць новы будзільнік, каб апрабаваць гэтую функцыю."</string>
+    <string name="module_week_ringtone_download_data">Штотыднёвы будзільнік прайгравае розныя гукі прыроды ў залежнасці ад дня тыдня. Для яго працы Гадзінніку патрабуецца спмпаваць ≈30 МБ аўдыёфайлаў. Спампаваць іх?</string>
+    <string name="module_week_ringtone_download_data_privacy">&lt;Data>Штотыднёвы будзільнік прайгравае розныя гукі прыроды ў залежнасці ад дня тыдня. Для яго працы Гадзінніку патрабуецца падлучыцца да інтэрнэту і загрузіць ≈30 МБ аўдыё. Перад выкарыстаннем Гадзінніка вы таксама павінны прачытаць і прыняць нашы &lt;a href= %1$s\">Карыстальніцкае пагадненне&lt;/a> і &lt;a href=\"%2$s\">Палітыку прыватнасці&lt;/a>. Вы згодны?&lt;/Data></string>
+    <string name="module_week_ringtone_download_wifi">Штотыднёвы будзільнік прайгравае розныя гукі прыроды ў залежнасці ад дня тыдня. Для яго працы Гадзінніку патрабуецца спампаваць аўдыё. Спампаваць зараз?</string>
+    <string name="module_week_ringtone_download_wifi_privacy">&lt;Data>Штотыднёвы будзільнік прайгравае розныя гукі прыроды ў залежнасці ад дня тыдня. Для яго працы Гадзінніку патрабуецца падлучыцца да інтэрнэту і загрузіць аўдыё. Перад выкарыстаннем Гадзінніка вы таксама павінны прачытаць і прыняць нашы &lt;a href= %1$s\">Карыстальніцкае пагадненне&lt;/a> і &lt;a href=\"%2$s\">Палітыку прыватнасці&lt;/a>. Вы згодны?&lt;/Data></string>
+    <string name="module_week_ringtone_introduce">Штотыднёвы будзільнік прайгравае розныя гукі прыроды ў залежнасці ад дня тыдня.</string>
+    <string name="module_week_ringtone_update_data">Штотыднёвы будзільнік прайгравае розныя гукі прыроды ў залежнасці ад дня тыдня. Для яго працы Гадзінніку патрабуецца спампаваць ≈30 МБ аўдыёфайлаў. Спампаваць зараз?</string>
+    <string name="module_week_ringtone_update_success">Штотыднёвы будзільнік ўключае ў сябе фонавую музыку на кожны дзень тыдня. Вы можаце стварыць новы будзільнік, каб апрабаваць гэтую функцыю.</string>
+    <string name="module_white_noise_download_data">Гадзінніку патрэбна спампаваць аўдыёфайлы таймераў з гукамі прыроды. Для запампоўкі спатрэбіцца ≈30 МБ мабільнага трафіку. Спампаваць іх зараз?</string>
+    <string name="module_white_noise_download_data_privacy">&lt;Data>Для загрузкі аўдыёфайлаў таймераў з гукамі прыроды (≈30 МБ) і прадастаўлення персаналізаваных паслуг Гадзінніку патрабуецца падлучэнне да інтэрнэту. Перад выкарыстаннем Гадзінніка вы таксама павінны прачытаць і прыняць нашы &lt;a href= %1$s\">Карыстальніцкае пагадненне&lt;/a> і &lt;a href=\"%2$s\">Палітыку прыватнасці&lt;/a>. Выкарыстоўваецца мабільны інтэрнэт. Вы згодны?&lt;/Data></string>
+    <string name="module_white_noise_download_wifi">Гадзінніку патрэбна спампаваць аўдыёфайлы таймераў з гукамі прыроды. Спампаваць зараз?</string>
+    <string name="module_white_noise_download_wifi_privacy">&lt;Data>Для загрузкі аўдыёфайлаў таймераў з гукамі прыроды і прадастаўлення персаналізаваных паслуг Гадзінніку патрабуецца падлучэнне да інтэрнэту. Перад выкарыстаннем Гадзінніка вы таксама павінны прачытаць і прыняць нашы &lt;a href= %1$s\">Карыстальніцкае пагадненне&lt;/a> і &lt;a href=\"%2$s\">Палітыку прыватнасці&lt;/a>. Вы згодны?&lt;/Data></string>
     <string name="monday_to_friday">Па будных днях</string>
     <string name="more_setting">Дадатковыя налады</string>
     <string name="more_settings">Галерэя</string>
+    <string name="network_privacy">&lt;Data>Для атрымання адпаведных дадзеных аб дзяржаўных святах і налады будзільнікаў Гадзінніку патрабуецца падлучэнне да інтэрнэту. Перад выкарыстаннем Гадзінніка вы таксама павінны прачытаць і прыняць нашы &lt;a href= %1$s\">Карыстальніцкае пагадненне&lt;/a> і &lt;a href=\"%2$s\">Палітыку прыватнасці&lt;/a>. Вы згодны?&lt;/Data></string>
+    <string name="network_privacy_global">&lt;Data>Для прадастаўлення персаналізаваных паслуг Гадзінніку патрабуецца падлучэнне да інтэрнэту. Перад выкарыстаннем Гадзінніка вы таксама павінны прачытаць і прыняць нашы &lt;a href= %1$s\">Карыстальніцкае пагадненне&lt;/a> і &lt;a href=\"%2$s\">Палітыку прыватнасці&lt;/a>. Вы згодны?&lt;/Data></string>
     <string name="never">Адзін раз</string>
-    <string name="oneshot_alarm">Выдаліць пасля таго, як спрацуе</string>
+    <string name="no_alarm_setting">Няма будзільнікаў</string>
+    <string name="no_worldclock">Няма гадзіннікаў</string>
+    <string name="oneshot_alarm">Выдаліць пасля таго, як зазвініць</string>
     <string name="open_keep_screen">Экран будзе ўключаны</string>
     <string name="other_category_title">Іншыя дазволы</string>
     <string name="pause">Прыпыніць</string>
     <string name="percentage_sign">%</string>
     <string name="personal_recommend">Персанальныя рэкамендацыі па кантэнце</string>
     <string name="privacy_policy">Палітыка прыватнасці</string>
+    <string name="privacy_policy_title">Палітыка прыватнасці</string>
     <string name="remind_ringtone">Рынгтон</string>
     <string name="repeat_count">Разы</string>
     <string name="repeat_count_value_five">5</string>
@@ -188,27 +231,41 @@
     <string name="repeat_count_value_two">2</string>
     <string name="reset">Скід</string>
     <string name="revert">Назад</string>
+    <string name="ringtone_all">Усе мелодыі</string>
+    <string name="ringtone_dew">Ранішняя раса</string>
+    <string name="ringtone_dream">Мроі</string>
+    <string name="ringtone_firefly">Светлякі</string>
+    <string name="ringtone_other">Іншыя мелодыі</string>
+    <string name="ringtone_weather">"Будзільнік з надвор'ем"</string>
+    <string name="ringtone_week">Штотыднёвы будзільнік</string>
     <string name="search_alarm_clock_keywords">Будзільнік;Гадзіннік;</string>
     <string name="search_stopwatch_keywords">Секундамер</string>
     <string name="search_timer_keywords">Таймер</string>
     <string name="search_worldclock_keywords">Час;Гадзіннік;Часавы пояс;Часавыя паясы</string>
     <string name="set_alarm">Выберыце час</string>
+    <string name="set_alarm_choose_ringtone">Выбраць мелодыю</string>
     <string name="set_alarm_done">Гатова</string>
+    <string name="set_alarm_other">Іншыя</string>
+    <string name="setting_alarm_arriving_subtitle">Паказваць апавяшчэння перад званком будзільніка</string>
     <string name="setting_alarm_arriving_summary">Апавяшчаць да сігналу</string>
     <string name="setting_alarm_arriving_title">Нарастанне гучнасці да пэўнага ўзроўню</string>
     <string name="settings">Налады</string>
-    <string name="shortcut_new_alarm">Set alarm</string>
-    <string name="shortcut_start_timer">Start timer</string>
-    <string name="shortcut_stop_watch">Start stopwatch</string>
+    <string name="shortcut_new_alarm">Усталяваць будзільнік</string>
+    <string name="shortcut_start_timer">Запусціць таймер</string>
+    <string name="shortcut_stop_watch">Запусціць секундамер</string>
     <string name="shut_down_keep_screen">Экран не будзе ўключаны</string>
+    <string name="shutdown_alarm_alert_enable_summary">Сігнал апавяшчэння аб выключэнні загучаць не менш чым праз 10 хвілін пасля выключэння вашай прылады</string>
+    <string name="shutdown_alarm_alert_title">Сігнал апавяшчэння аб выключэнні</string>
     <string name="shutdown_alarm_disable_summary">Будзільнік не зазвініць пасля адключэння тэлефона</string>
-    <string name="shutdown_alarm_enable_summary">Будзільнік будзе званіць, калі час званка не менш чым на 5 хвілін пазней моманту выключэння вашай прылады</string>
+    <string name="shutdown_alarm_enable_summary">Будзільнік будзе званіць, калі час званка не менш чым на 10 хвілін пазней моманту выключэння вашай прылады</string>
     <string name="shutdown_alarm_title">Выключыць</string>
     <string name="silent_alarm_summary">Без гука</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">Адключыць адзін раз %s</string>
     <string name="slider_text">Правядзіце пальцам уверх, каб выключыць</string>
     <string name="snooze_confirm_cancel">Адключыць будзільнік</string>
     <string name="snooze_duration">Адкласці</string>
+    <string name="snooze_duration_text">%1$s | %2$s</string>
     <string name="snooze_duration_title">Адкласці</string>
     <string name="snooze_duration_value">Інтэрвал (у хвілінах)</string>
     <string name="snooze_duration_value_fifteen">15</string>
@@ -221,8 +278,13 @@
     <string name="star_wy_alarm_speech">Знаёмцеся, Рой Ван</string>
     <string name="start">Старт</string>
     <string name="start_up">Пачаць</string>
+    <string name="status_bar_clock_date_time_format">H:mm:ss</string>
+    <string name="status_bar_clock_date_time_format_12">h:mm:ss aa</string>
+    <string name="status_bar_clock_date_time_format_seconds_12">h:mm:ss</string>
     <string name="stopwatch_lap_empty_text">Няма кругоў</string>
     <string name="stopwatch_title">Секундамер</string>
+    <string name="symbol_colon">:</string>
+    <string name="system_permission_purpose">Стварэнне будзільнікаў для будных дзён і налада карыстальніцкіх рынгтонаў</string>
     <string name="system_time_setting">Галерэя</string>
     <string name="system_time_settings_category_title">Час</string>
     <string name="temperature_unit">℃</string>
@@ -243,6 +305,7 @@
     <string name="timer_alert_type_forest">Лес</string>
     <string name="timer_alert_type_mute">Па змоўчанні</string>
     <string name="timer_alert_type_rain">Дробны дожджык</string>
+    <string name="timer_alert_type_spring_rain">Летні дождж</string>
     <string name="timer_alert_type_stove_fire">Печка</string>
     <string name="timer_alert_type_summer_night">Летняя ноч</string>
     <string name="timer_can_continue_in_timer">Адкрыйце таймер, каб працягнуць</string>
@@ -274,21 +337,26 @@
     <string name="tomorrow">Заўтра</string>
     <string name="turn_off_a_repeat_alarm">Адключыць будзільнік, што паўтараецца</string>
     <string name="turn_off_this_repeat_alarm">Адключыць гэты будзільнік, што паўтараецца</string>
-    <string name="upcoming_alarm">Будзільнік у %s </string>
-    <string name="upcoming_alarm_hint">Можна адключыць яго загадзя</string>
+    <string name="upcoming_alarm">Будучы будзільнік: %s</string>
+    <string name="upcoming_alarm_hint">Вы можаце адключыць гэты будзільнік зараз</string>
     <string name="update_notification_info">Абнаўленне дадзеных ў фонавым рэжыме…</string>
     <string name="user_agreement">Карыстальніцкае пагадненне</string>
     <string name="vibrate_pref_summary">Вібраваць, калі гучыць будзільнік</string>
     <string name="vibrate_when_ringing">Вібраваць, калі гучыць выклік</string>
+    <string name="volume_button_setting_desc">Прысвоіць функцыі кнопкам сілкавання і гучнасці +/-</string>
     <string name="volume_button_setting_summary">Вызначыць функцыю клавіш гучнасці падчас званка будзільніка</string>
     <string name="volume_button_setting_title">Клавішы гучнасці</string>
     <string name="workday_alarm_clock">Па працоўных днях</string>
     <string name="worldclock_empty_text">Няма гадзіннікаў</string>
     <string name="worldclock_input_hint_text">Пошук краіны ці горада</string>
+    <string name="worldclock_resident_city_text">Другі гадзіннік: %s</string>
+    <string name="worldclock_resident_city_text_detail">Двайны гадзіннік уключаны</string>
     <string name="worldclock_search_city">Выбраць горад</string>
     <string name="worldclock_title">Гадзіннік</string>
     <string name="worldclock_world_time">Часавы пояс</string>
+    <string name="worldcolock_date_display_prefix">Бягучае: </string>
     <string name="worldcolock_timezone_current">Зараз: %1$s</string>
+    <string name="worldcolock_timezone_current_date">dd/MM/yyyy</string>
     <string name="worldcolock_timezone_date">dd MMM</string>
     <string name="worldcolock_timezone_gap">%s Г</string>
     <string name="worldcolock_timezone_local">Як мясцовы час</string>

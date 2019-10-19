@@ -23,6 +23,7 @@
     <string name="dialog_alert_title">Увага</string>
     <string name="VideoView_error_text_invalid_progressive_playback">Відэа не падыходзіць для патокавай перадачы на ​​гэту прыладу.</string>
     <string name="selectTextMode">Выбраць тэкст</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="fingerprint_icon_content_description">Значок адбіткаў пальцаў</string>
     <string name="paste_as_plain_text">Уставіць як звычайны тэкст</string>
     <string name="autofill">Аўтазапаўненне</string>
@@ -357,6 +358,7 @@
     <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
     <string name="fcComplete">"Код аб'екта завершаны."</string>
     <string name="fcError">Праблема падлучэння ці няправільны код функцыі.</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="find">Пошук</string>
     <string name="find_next">Знайсці нiжэй</string>
     <string name="find_on_page">Знайсці на старонцы</string>
@@ -543,6 +545,7 @@
     <string name="kg_reordering_delete_drop_target_text">Выдалiць</string>
     <string name="kg_sim_pin_instructions">Увядзіце PIN-код SIM-карты</string>
     <string name="kg_sim_unlock_progress_dialog_message">Разблакiроўка SIM-карты...</string>
+    <string name="kg_text_message_separator">" — "</string>
     <string name="kg_too_many_failed_password_attempts_dialog_message">"Вы няправільна ўвялі пароль пэўную колькасць разоў: %1$d. 
 
 Паўтарыце спробу праз %2$d с."</string>
@@ -806,6 +809,7 @@
     <string name="notification_channel_wfc">Wi-Fi-тэлефанія</string>
     <string name="notification_hidden_text">Змесціва схавана</string>
     <string name="notification_listener_binding_label">Слухач апавяшчэння</string>
+    <string name="notification_messaging_title_template">%1$s: %2$s</string>
     <string name="notification_ranker_binding_label">Служба ацэнкі важнасці апавяшчэнняў</string>
     <string name="notification_title">Памылка ўваходу ва ўлiковы запiс %1$s</string>
     <string name="notification_work_profile_content_description">Працоўны профіль</string>
@@ -915,8 +919,8 @@
     <string name="permdesc_requestInstallPackages">Дазваляе праграме запытваць усталёўку пакетаў.</string>
     <string name="permdesc_route_media_output">Дазваляе прыкладанням маршрутызаваць мультымедыйны выхад на iншыя знешнiя прылады.</string>
     <string name="permdesc_runInBackground">Гэта праграма можа працаваць у фоне. Гэта можа прывесці да хутчэйшага спажывання зараду акумулятара.</string>
-    <string name="permdesc_sdcardRead">Дазваляе праграме счытваць змесціва вашай SD-карты.</string>
-    <string name="permdesc_sdcardWrite">Дазваляе прыкладанням запісваць на SD-карту.</string>
+    <string name="permdesc_sdcardRead">Дазваляе праграме счытваць змесціва вашага USB-сховішча.</string>
+    <string name="permdesc_sdcardWrite">Дазваляе прыкладаням выконваць запіс ва USB-назапашвальнік.</string>
     <string name="permdesc_sendSms">Дазваляе прыкладанне для адпраўкі SMS паведамленняў. Гэта можа прывесці да нечаканых абвінавачванняў. Шкоднасныя праграмы могуць каштаваць вам грошай на адпраўку паведамленняў без вашага пацвярджэння.</string>
     <string name="permdesc_setAlarm">Дазваляе прыкладанню ўсталёўваць сігнал на ўсталяваным прыкладанні будзільніка. Пэўныя прыкладанні будзільніка не могуць рэалізоўваць гэтую магчымасць.</string>
     <string name="permdesc_setInputCalibration">Дазваляе праграме змяняць параметры каліброўкі сэнсарнага экрана. Ніколі не павінна патрабавацца для звычайных праграм.</string>
@@ -1042,8 +1046,8 @@
     <string name="permlab_requestInstallPackages">запытваць усталёўку пакетаў</string>
     <string name="permlab_route_media_output">накіроўваць вывад мультымедыйнага змесціва</string>
     <string name="permlab_runInBackground">працаваць у фоне</string>
-    <string name="permlab_sdcardRead">чытанне змесціва SD-карты</string>
-    <string name="permlab_sdcardWrite">змяніць або выдаліць змесціва SD-карты</string>
+    <string name="permlab_sdcardRead">чытанне змесціва USB-назапашв.</string>
+    <string name="permlab_sdcardWrite">зм. або выд. змес. USB-назап.</string>
     <string name="permlab_sendSms">адпраўляць і праглядаць SMS-паведамленні</string>
     <string name="permlab_setAlarm">усталёўка сігналу</string>
     <string name="permlab_setInputCalibration">змена каліброўкі прылады ўводу</string>
@@ -1131,7 +1135,7 @@
     <string name="print_service_installed_title">Усталявана служба %s</string>
     <string name="profile_encrypted_detail">Рабочы профіль заблакіраваны</string>
     <string name="profile_encrypted_message">Кран., каб разбл. раб. профіль</string>
-    <string name="progress_erasing">Выдаленне дадзеных з SD-карты...</string>
+    <string name="progress_erasing">Выдаленне дадзеных з USB-назапашвальнiка...</string>
     <string name="quick_contacts_not_available">Адсутнічае праграма для прагляду гэтага кантакту.</string>
     <string name="reason_service_unavailable">Служба друку не ўключана</string>
     <string name="reason_unknown">невядома</string>
@@ -1466,5 +1470,6 @@
     <string name="zen_mode_feature_name">Не турбаваць</string>
     <string name="zen_mode_forever">Пакуль вы не выключыце рэжым \"Не турбаваць\"</string>
     <string name="zen_mode_forever_dnd">Пакуль вы не выключыце рэжым «Не турбаваць»</string>
+    <string name="zen_mode_rule_name_combination">%1$s / %2$s</string>
     <string name="zen_mode_until">Да %1$s</string>
 </resources>

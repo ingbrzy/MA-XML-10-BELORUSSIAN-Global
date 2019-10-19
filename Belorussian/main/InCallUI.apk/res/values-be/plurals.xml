@@ -26,19 +26,19 @@
     </plurals>
     <plurals name="duration_seconds">
         <item quantity="other">%d секунд</item>
-        <item quantity="one">%d секунда</item>
+        <item quantity="one">1 секунда</item>
         <item quantity="few">%d секунды</item>
         <item quantity="many">%d секунд</item>
     </plurals>
     <plurals name="duration_minutes">
         <item quantity="other">%d хвілін</item>
-        <item quantity="one">%d хвіліна</item>
+        <item quantity="one">1 хвіліна</item>
         <item quantity="few">%d хвіліны</item>
         <item quantity="many">%d хвілін</item>
     </plurals>
     <plurals name="duration_hours">
         <item quantity="other">%d гадзін</item>
-        <item quantity="one">%d гадзіна</item>
+        <item quantity="one">1 гадзіна</item>
         <item quantity="few">%d гадзіны</item>
         <item quantity="many">%d гадзін</item>
     </plurals>

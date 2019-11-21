@@ -84,7 +84,6 @@
     <string name="printer_busy">Прынтэр заняты</string>
     <string name="printer_error">Памылка прынтэра</string>
     <string name="printer_error_msg">Памылка прынтара: %1$s</string>
-    <string name="printer_extended_description_template">%1$s – %2$s</string>
     <string name="printer_info_desc">Больш падрабязная інфармацыя пра гэты прынтар</string>
     <string name="printer_notification_error_title">Не атрымалася надрукаваць %1$s</string>
     <string name="printer_unavailable">Прынтэр недаступны</string>

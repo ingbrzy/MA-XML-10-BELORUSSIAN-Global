@@ -155,7 +155,7 @@
     <string name="exo_download_failed">Збой спампоўкі</string>
     <string name="exo_download_notification_channel_name">Спампоўкі</string>
     <string name="exo_download_removing">Выдаленне спамповак</string>
-    <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Мбіт/с</string>
     <string name="exo_track_mono">Мона</string>
     <string name="exo_track_selection_auto">Аўтаматычна</string>
     <string name="exo_track_selection_none">Няма</string>
@@ -275,12 +275,10 @@
     <string name="miuishare_account_login_ok">Уваход</string>
     <string name="miuishare_account_need_activate">Патрабуецца аккаўнт Weibo, звязаны з вашым Mi аккаўнтам. Актывіруйце Мі аккаўнт.</string>
     <string name="miuishare_account_need_login">Патрабуецца аккаўнт Weibo, звязаны з вашым Mi аккаўнтам. Увайдзіце ў Мі аккаўнт.</string>
-    <string name="miuishare_app_name">MIUI Share</string>
     <string name="miuishare_mini_program_title">Паглядзіце, якія прыгожыя шпалеры!</string>
     <string name="miuishare_no_network">Не атрымалася злучыцца з сеткай.</string>
     <string name="miuishare_please_retry">Немагчыма атрымаць дадзеныя. Праверце налады сеткі і паспрабуйце зноў.</string>
     <string name="miuishare_publish">Даслаць</string>
-    <string name="miuishare_qzone_title">Qzone</string>
     <string name="miuishare_share_done">Паспяхова дасланы</string>
     <string name="miuishare_share_editor_title">Падзяліцца</string>
     <string name="miuishare_share_fail">Не атрымалася адправіць</string>
@@ -288,7 +286,6 @@
     <string name="miuishare_title_more">Больш</string>
     <string name="miuishare_title_share">Падзяліцца</string>
     <string name="miuishare_wechat_timeline_title">Моманты WeChat</string>
-    <string name="miuishare_weibo_title">Weibo</string>
     <string name="mix_global_option">Асноўныя</string>
     <string name="mix_global_option_des">Шторка апавяшчэнняў, Тэлефон, Паведамленні і іншыя элементы сістэмы. Адмяніце выбар, каб выкарыстоўваць параметры па змаўчанні.</string>
     <string name="mix_home_option_des">Шпалеры і гадзіннік. Адмяніце выбар, каб выкарыстоўваць параметры па змаўчанні.</string>
@@ -306,7 +303,6 @@
     <string name="my_gifts_received">Атрымана</string>
     <string name="network_exception">Не атрымалася злучыцца з сеткай. Праверце налады сеткі і паспрабуйце зноў.</string>
     <string name="no_data">Немагчыма злучыцца з сеткай</string>
-    <string name="official_accounts">WeChat</string>
     <string name="online_no_network">Немагчыма злучыцца з сеткай</string>
     <string name="online_precust_abstract">Абстракцыя</string>
     <string name="online_precust_animal">Жывёла</string>
@@ -382,7 +378,6 @@
     <string name="resource_comment_limit">Пакарыстуйцеся гэтай тэмай крыху болей.</string>
     <string name="resource_comment_loading_list">Хвілінку…</string>
     <string name="resource_comment_name_default">Імя</string>
-    <string name="resource_comment_no_average_score">N/A</string>
     <string name="resource_comment_no_comment">Каментарыяў пакуль няма. Будзьце першымі!</string>
     <string name="resource_comment_over_limit">Ваш водгук занадта доўгі. Скараціце яго і паспрабуйце зноў.</string>
     <string name="resource_comment_publish">Адправіць</string>
@@ -425,7 +420,6 @@
     <string name="resource_downloaded_title">Спампаваныя</string>
     <string name="resource_downloading">Спампоўка</string>
     <string name="resource_exchange">Атрымаць</string>
-    <string name="resource_exchange_confirm">OK</string>
     <string name="resource_exchange_empty_format">Увядзіце падарункавы код</string>
     <string name="resource_exchange_has_bought">Вы ўжо купілі гэту тэму.</string>
     <string name="resource_exchange_has_expired">Тэрмін дзеяння гэтага кода скончыўся.</string>
@@ -481,7 +475,6 @@
     <string name="resource_pack_warning">Вы ўжо купілі %1$d кампанентаў гэтай тэмы. Будзе танней дакупіць астатнія кампаненты асобна.</string>
     <string name="resource_present">Падарунак</string>
     <string name="resource_price_free">Бясплатна</string>
-    <string name="resource_price_unit"> Mi Credits</string>
     <string name="resource_purchase_common_error">Здарылася памылка, паспрабуйце зноў</string>
     <string name="resource_purchase_continue_to_pay">Працягваць аплачваць %s</string>
     <string name="resource_purchase_getting_order">Атрыманне інфармацыі аб заказе…</string>
@@ -541,7 +534,6 @@
     <string name="resource_trial_end_time">(пробны перыяд да %1$s)</string>
     <string name="resource_trial_end_time_format">hh:mma d MMM</string>
     <string name="resource_trial_end_title">Пробны перыяд скончаны</string>
-    <string name="resource_trial_fail_cancel">OK</string>
     <string name="resource_trial_fail_go_settings">Налады</string>
     <string name="resource_trial_fail_message">Упэўніцеся, што сістэмны час усталяваны правільна.</string>
     <string name="resource_trial_fail_title">Не атрымліваецца ўсталяваць пробную версію</string>
@@ -550,7 +542,6 @@
     <string name="resource_trial_minutes">(пробная версія: %1$d хв.)</string>
     <string name="resource_unknow_error">Здарылася невядомая памылка</string>
     <string name="resource_update">Абнавіць</string>
-    <string name="resource_user_know">OK</string>
     <string name="resource_waiting_download">Чаканне</string>
     <string name="resource_waiting_pause">Паўза</string>
     <string name="resource_wallpaper_download">Спампаваць шпалеры</string>
@@ -774,7 +765,6 @@
     <string name="wallpaper_settings_page_title">Шпалеры</string>
     <string name="wallpaper_static">Статычны</string>
     <string name="wechat_not_found">Спачатку ўсталюйце WeChat</string>
-    <string name="weibo">Weibo</string>
     <string name="wifi_check_cancel">Скасаваць</string>
     <string name="wifi_check_confirm">Пацвердзіць</string>
     <string name="wifi_check_message">Выкарыстоўваць мабільны інтэрнэт для спампоўкі абнаўленняў?</string>

@@ -73,6 +73,7 @@
     <string name="bt_path_not_exit">Гэты шлях не існуе</string>
     <string name="bt_restart_dialog_message">Перазапусціць усе спампоўкі ў папцы Bluetooth?</string>
     <string name="bt_restart_dialog_title">Перазапусціць усе спампоўкі</string>
+    <string name="byteShort_per_seconds">Б/с</string>
     <string name="cancel">Скасаваць</string>
     <string name="check_new_downloaded_action">Прагляд</string>
     <string name="check_new_downloaded_file">Знойдзены новы файл</string>
@@ -113,6 +114,7 @@
     <string name="download_pending">Чаканне спампоўкі</string>
     <string name="download_remain_time">Засталося:</string>
     <string name="download_speed">Хуткасць спампоўкі:</string>
+    <string name="download_speed_suffix">%1$s %2$s</string>
     <string name="download_spend_time">Час</string>
     <string name="download_status_continue">Працягнуць</string>
     <string name="download_status_fail">Паспрабаваць зноў</string>
@@ -141,6 +143,7 @@
     <string name="file_exist_hint">Гэты файл ужо існуе</string>
     <string name="file_size">Памер:</string>
     <string name="get_data_failed">Немагчыма атрымаць дадзеныя. Пачакайце хвілінку і паўтарыце спробу.</string>
+    <string name="gigabyteShort_per_seconds">ГБ/с</string>
     <string name="guess_like">Таксама вам можа спадабацца</string>
     <string name="hint">Увага</string>
     <string name="info_download_details">Падрабязнасці</string>
@@ -151,9 +154,12 @@
     <string name="install">Усталяваць</string>
     <string name="installing">Усталяванне…</string>
     <string name="insufficient_space">Недастаткова памяці</string>
+    <string name="kilobyteShort_per_seconds">кБ/с</string>
     <string name="korean_all_choose_item_title">Я згодны(-ая) з усімі палажэннямі і ўмовамі, якія прыводзяцца ніжэй.</string>
     <string name="korean_permission_group_phone_describe">Доступ да IMEI прылады і стану сеткі, збор інфармацыі аб няўдалых загрузках для паляпшэння абслугоўвання</string>
     <string name="korean_permission_group_phone_title">Тэлефон</string>
+    <string name="korean_permission_group_storage_describe">Доступ да сховішча прылады для кіравання запампоўкамі</string>
+    <string name="korean_permission_group_storage_title">Сховішча</string>
     <string name="korean_privacy_btn_accept">Прыняць</string>
     <string name="korean_privacy_btn_exit">Выхад</string>
     <string name="korean_privacy_item_title">Палітыка Канфідэнцыяльнасці (абавязкова)</string>
@@ -162,6 +168,7 @@
     <string name="load_finish_hint">Гэта ўсё на дадзены момант.</string>
     <string name="loading">Хвілінку…</string>
     <string name="media_filter">Медыя</string>
+    <string name="megabyteShort_per_seconds">МБ/с</string>
     <string name="menu_all_task_pause">Прыпыніць усё</string>
     <string name="menu_all_task_start">Запусціць усё</string>
     <string name="menu_enter_edit_mode">Рэдактар</string>
@@ -194,6 +201,7 @@
     <string name="paused_unknown">Прыпынена</string>
     <string name="paused_waiting_for_network">Чаканне далучэння да сеткі</string>
     <string name="paused_waiting_to_retry">Чаканне паўтору</string>
+    <string name="petabyteShort_per_seconds">ПБ/с</string>
     <string name="pref_download_settings_title">Максімальны памер файла</string>
     <string name="pref_summary_any_bytes_popup">Заўсёды пампаваць файлы толькі пры наяўнасці падлучэння да Wi-Fi</string>
     <string name="pref_summary_enable_max_bytes_popup">Паказваць усплывальныя апавяшчэнні, калі выкарыстоўваецца мабільны інтэрнэт для спампоўкі дадзеных</string>
@@ -237,6 +245,7 @@
     <string name="task_detail">Задачы</string>
     <string name="task_detail_notfound_confirm">ОК</string>
     <string name="task_fail">Памылка</string>
+    <string name="terabyteShort_per_seconds">ТБ/с</string>
     <string name="toast_only_wifi_download">"Падключыцеся да Wi-Fi, каб спампаваць гэты аб'ект"</string>
     <string name="total_speedup">Паскарэнне (усяго)</string>
     <string name="version">Версія: %s</string>

@@ -1,5 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="other">%d дня таму</item>
+        <item quantity="one">%d дзень таму</item>
+        <item quantity="few">%d дні таму</item>
+        <item quantity="many">%d дзён таму</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="other">%d хвіліны таму</item>
+        <item quantity="one">%d хвіліну таму</item>
+        <item quantity="few">%d хвіліны таму</item>
+        <item quantity="many">%d хвілін таму</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="other">%d года таму</item>
+        <item quantity="one">%d год таму</item>
+        <item quantity="few">%d гады таму</item>
+        <item quantity="many">%d гадоў таму</item>
+    </plurals>
+    <plurals name="accessibility_usage_summary">
+        <item quantity="other">%1$d праграмы маюць поўны доступ да даных вашай прылады</item>
+        <item quantity="one">%1$d праграма мае поўны доступ да даных вашай прылады</item>
+        <item quantity="few">%1$d праграмы маюць поўны доступ да даных вашай прылады</item>
+        <item quantity="many">%1$d праграм маюць поўны доступ да даных вашай прылады</item>
+    </plurals>
     <plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
         <item quantity="other">Надзвычай кароткая затрымка (%1$d мс)</item>
         <item quantity="one">Надзвычай кароткая затрымка (%1$d мс)</item>
@@ -198,6 +222,18 @@
         <item quantity="few">%s гадзіны</item>
         <item quantity="many">%s гадзін</item>
     </plurals>
+    <plurals name="location_app_permission_summary_location_on">
+        <item quantity="other">%1$d праграмы з %2$d маюць доступ да даных месцазнаходжання</item>
+        <item quantity="one">%1$d праграма з %2$d мае доступ да даных месцазнаходжання</item>
+        <item quantity="few">%1$d праграмы з %2$d маюць доступ да даных месцазнаходжання</item>
+        <item quantity="many">%1$d праграм з %2$d маюць доступ да даных месцазнаходжання</item>
+    </plurals>
+    <plurals name="location_settings_summary_location_on">
+        <item quantity="other">Укл. – %1$d праграмы маюць доступ да даных месцазнаходжання</item>
+        <item quantity="one">Укл. – %1$d праграма мае доступ да даных месцазнаходжання</item>
+        <item quantity="few">Укл. – %1$d праграмы маюць доступ да даных месцазнаходжання</item>
+        <item quantity="many">Укл. – %1$d праграм маюць доступ да даных месцазнаходжання</item>
+    </plurals>
     <plurals name="lockpassword_password_requires_letters">
         <item quantity="other">Павінен змяшчаць не менш за %d літары</item>
         <item quantity="one">Павінен змяшчаць не менш за %d літару</item>
@@ -312,11 +348,23 @@
         <item quantity="few">%d дададзена</item>
         <item quantity="many">%d дададзена</item>
     </plurals>
+    <plurals name="mobile_network_summary_count">
+        <item quantity="other">%1$d SIM-карты</item>
+        <item quantity="one">%1$d SIM-карта</item>
+        <item quantity="few">%1$d SIM-карты</item>
+        <item quantity="many">%1$d SIM-карт</item>
+    </plurals>
     <plurals name="network_restrictions_summary">
         <item quantity="other">%1$d абмежавання</item>
         <item quantity="one">%1$d абмежаванне</item>
         <item quantity="few">%1$d абмежаванні</item>
         <item quantity="many">%1$d абмежаванняў</item>
+    </plurals>
+    <plurals name="notification_few_channel_count_summary">
+        <item quantity="other">%1$d канала апавяшчэння.</item>
+        <item quantity="one">%1$d канал апавяшчэння.</item>
+        <item quantity="few">%1$d каналы апавяшчэння.</item>
+        <item quantity="many">%1$d каналаў апавяшчэння.</item>
     </plurals>
     <plurals name="notification_group_summary">
         <item quantity="other">%d катэгорыі</item>
@@ -336,11 +384,29 @@
         <item quantity="few">Выключана %d катэгорыі</item>
         <item quantity="many">Выключана %d катэгорый</item>
     </plurals>
+    <plurals name="notifications_sent_daily">
+        <item quantity="other">~%d апавяшчэння ў дзень</item>
+        <item quantity="one">~%d апавяшчэнне ў дзень</item>
+        <item quantity="few">~%d апавяшчэнні ў дзень</item>
+        <item quantity="many">~%d апавяшчэнняў у дзень</item>
+    </plurals>
+    <plurals name="notifications_sent_weekly">
+        <item quantity="other">~%d апавяшчэння ў тыдзень</item>
+        <item quantity="one">~%d апавяшчэнне ў тыдзень</item>
+        <item quantity="few">~%d апавяшчэнні ў тыдзень</item>
+        <item quantity="many">~%d апавяшчэнняў у тыдзень</item>
+    </plurals>
     <plurals name="number_of_device_admins">
         <item quantity="other">%d актыўнай праграмы</item>
         <item quantity="one">%d актыўная праграма</item>
         <item quantity="few">%d актыўныя праграмы</item>
         <item quantity="many">%d актыўных праграм</item>
+    </plurals>
+    <plurals name="permission_bar_chart_label">
+        <item quantity="other">%s праграмы</item>
+        <item quantity="one">%s праграма</item>
+        <item quantity="few">%s праграмы</item>
+        <item quantity="many">%s праграм</item>
     </plurals>
     <plurals name="permissions_summary">
         <item quantity="other">%d дазволу атрымана</item>
@@ -407,6 +473,12 @@
         <item quantity="one">Паказаць %d схаваны элемент</item>
         <item quantity="few">Паказаць %d схаваныя элементы</item>
         <item quantity="many">Паказаць %d схаваных элементаў</item>
+    </plurals>
+    <plurals name="show_bluetooth_devices">
+        <item quantity="other">Падключаны %1$d прылады</item>
+        <item quantity="one">Падключана %1$d прылада</item>
+        <item quantity="few">Падключаны %1$d прылады</item>
+        <item quantity="many">Падключаны %1$d прылад</item>
     </plurals>
     <plurals name="show_cit_countdown">
         <item quantity="other">Засталося %1$d кроку да адкрыцця Інжынернага меню.</item>
@@ -628,6 +700,18 @@
         <item quantity="few">%d сеткі</item>
         <item quantity="many">%d сетак</item>
     </plurals>
+    <plurals name="wifi_saved_all_access_points_summary">
+        <item quantity="other">%d сеткі і падпіскі</item>
+        <item quantity="one">%d сетка і падпіска</item>
+        <item quantity="few">%d сеткі і падпіскі</item>
+        <item quantity="many">%d сетак і падпісак</item>
+    </plurals>
+    <plurals name="wifi_saved_passpoint_access_points_summary">
+        <item quantity="other">%d падпіскі</item>
+        <item quantity="one">%d падпіска</item>
+        <item quantity="few">%d падпіскі</item>
+        <item quantity="many">%d падпісак</item>
+    </plurals>
     <plurals name="wifi_share_count">
         <item quantity="other">Вы падзяліліся %d сеткі</item>
         <item quantity="one">Вы падзяліліся%d сеткай</item>
@@ -646,23 +730,29 @@
         <item quantity="few">Няправільны PIN-код SIM-карты, у вас засталося %d спробы.</item>
         <item quantity="many">Няправільны PIN-код SIM-карты, у вас засталося %d спроб.</item>
     </plurals>
+    <plurals name="zen_mode_bypassing_apps_subtext">
+        <item quantity="other">Апавяшчэнні з %1$d праграмы могуць абысці рэжым \"Не турбаваць\"</item>
+        <item quantity="one">Апавяшчэнні з %1$d праграмы могуць абысці рэжым \"Не турбаваць\"</item>
+        <item quantity="few">Апавяшчэнні з %1$d праграм могуць абысці рэжым \"Не турбаваць\"</item>
+        <item quantity="many">Апавяшчэнні з %1$d праграм могуць абысці рэжым \"Не турбаваць\"</item>
+    </plurals>
     <plurals name="zen_mode_duration_summary_time_hours">
-        <item quantity="other">%d гадзіны (калі рэжым не быў уключаны аўтаматычна)</item>
-        <item quantity="one">%d гадзіна (калі рэжым не быў уключаны аўтаматычна)</item>
-        <item quantity="few">%d гадзіны (калі рэжым не быў уключаны аўтаматычна)</item>
-        <item quantity="many">%d гадзін (калі рэжым не быў уключаны аўтаматычна)</item>
+        <item quantity="other">%d гадзіны</item>
+        <item quantity="one">%d гадзіна</item>
+        <item quantity="few">%d гадзіны</item>
+        <item quantity="many">%d гадзін</item>
     </plurals>
     <plurals name="zen_mode_settings_summary_on">
-        <item quantity="other">%d правіла</item>
-        <item quantity="one">%d правіла</item>
-        <item quantity="few">%d правілы</item>
-        <item quantity="many">%d правілаў</item>
+        <item quantity="other">Уключана: %d</item>
+        <item quantity="one">Уключана: %d</item>
+        <item quantity="few">Уключана: %d</item>
+        <item quantity="many">Уключана: %d</item>
     </plurals>
     <plurals name="zen_mode_sound_summary_summary_off_info">
-        <item quantity="other">Аўтаматычна ўключаць могуць %d правіла</item>
-        <item quantity="one">Аўтаматычна ўключаць можа %d правіла</item>
-        <item quantity="few">Аўтаматычна ўключаць могуць %d правілы</item>
-        <item quantity="many">Аўтаматычна ўключаць могуць %d правіл</item>
+        <item quantity="other">%d раскладу могуць уключацца аўтаматычна</item>
+        <item quantity="one">%d расклад можа ўключацца аўтаматычна</item>
+        <item quantity="few">%d расклады могуць уключацца аўтаматычна</item>
+        <item quantity="many">%d раскладаў могуць уключацца аўтаматычна</item>
     </plurals>
     <plurals name="zen_mode_starred_contacts_summary_additional_contacts">
         <item quantity="other">Яшчэ %d</item>

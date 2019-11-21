@@ -46,6 +46,7 @@
     <string name="size_giga_byte">ГБ</string>
     <string name="size_tera_byte">ТБ</string>
     <string name="size_peta_byte">ПБ</string>
+    <string name="size_suffix">%1$s%2$s</string>
     <string name="date_time_done">Зроблена</string>
     <string name="date_picker_dialog_title">Усталяваць дату</string>
     <string name="time_picker_dialog_title">Усталяваць час</string>
@@ -65,6 +66,7 @@
     <string name="error_forbidden">Сінхранізацыя адключана з-за праблем з вашым Mi Акаўнтам.</string>
     <string name="error_not_acceptable">Сінхранізацыя адключана.</string>
     <string name="more">Больш</string>
+    <string name="empty" />
     <string name="solar_term_slight_cold">Slight Cold</string>
     <string name="solar_term_great_cold">Great Cold</string>
     <string name="solar_term_spring_begins">Spring Begins</string>
@@ -315,14 +317,14 @@
     <string name="fmt_date_numeric_month">M</string>
     <string name="fmt_date_numeric_month_day">d-M</string>
     <string name="fmt_date_numeric_year">yyyy</string>
-    <string name="fmt_date_numeric_year_month">M-yyyy</string>
-    <string name="fmt_date_numeric_year_month_day">d-M-yyyy</string>
+    <string name="fmt_date_numeric_year_month">M.yyyy</string>
+    <string name="fmt_date_numeric_year_month_day">d.M.yyyy</string>
     <string name="fmt_date_day">d</string>
     <string name="fmt_date_short_month">MMM</string>
     <string name="fmt_date_short_month_day">d MMM</string>
     <string name="fmt_date_year">yyyy</string>
     <string name="fmt_date_short_year_month">MMM yyyy</string>
-    <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
+    <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
     <string name="fmt_date_long_month">MMMM</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
     <string name="fmt_date_long_year_month">MMMM yyyy</string>
@@ -594,4 +596,5 @@
     <string name="select_all_description">Выбраць усё</string>
     <string name="deselect_all_description">Зняць выбар</string>
     <string name="delete_description">Выдаліць</string>
+    <string name="search_action_mode_cancel">Скасаваць</string>
 </resources>

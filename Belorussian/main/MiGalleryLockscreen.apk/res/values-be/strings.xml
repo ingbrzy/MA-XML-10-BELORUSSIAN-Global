@@ -38,7 +38,6 @@
     <string name="isornot_your_mi_account">Гэта ваш Мі Акаўнт?</string>
     <string name="nick_name">Імя карыстальніка</string>
     <string name="passport_activate_token_expired">Тэрмін дзеяння кода скончыўся, паўтарыце спробу.</string>
-    <string name="passport_auth_title" />
     <string name="passport_bad_authentication">Няправільнае імя карыстальніка ці пароль</string>
     <string name="passport_captcha_title">Ахоўны код</string>
     <string name="passport_close">Закрыць</string>

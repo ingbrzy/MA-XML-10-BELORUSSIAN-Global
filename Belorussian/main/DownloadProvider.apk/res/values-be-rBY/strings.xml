@@ -7,7 +7,7 @@
     <string name="permdesc_downloadManagerAdvanced">Дазваляе прыкладанню атрымлiваць доступ да пашыраных функцый менеджэра спампавання. Шкоднасныя прыкладаннi могуць выкарыстоўваць гэта, каб сарваць загрузку і закрыць доступ да прыватнай інфармацыі.</string>
     <string name="permlab_downloadCompletedIntent">Адпраўляць апавяшчэнні аб спампоўцы.</string>
     <string name="permdesc_downloadCompletedIntent">Дазваляе прыкладанню адпраўляць апавяшчэннi аб завершаных спампаваннях. Шкоднасныя прыкладаннi могуць выкарыстоўваць гэта, каб негатыўна паўсплываць на іншыя прыкладаннi для спампавання файлаў.</string>
-    <string name="permlab_seeAllExternal">Прагледзець усе спампоўкі на USB-назапашвальнiк</string>
+    <string name="permlab_seeAllExternal">Прагледзець усе спампоўкі на SD-карце</string>
     <string name="permdesc_seeAllExternal">Дазваляе прыкладанюе бачыць усе спампоўкі на SD-карце, незалежна ад таго, праз якое прыкладанне яны былi спампаваны.</string>
     <string name="permlab_downloadCacheNonPurgeable">Зарэзерваваць месца ў кэшы спампоўкі</string>
     <string name="permdesc_downloadCacheNonPurgeable">Дазваляе прыкладанню спампоўваць файлы ў кэш-памяць, якую нельга ачысцiць аўтаматычна, калі менеджэру спампавання спатрэбіцца больш месца на дыске.</string>
@@ -37,4 +37,5 @@
     <string name="download_queued">У чарзе</string>
     <string name="download_running">У працэсе</string>
     <string name="download_error">Не атрымалася</string>
+    <string name="download_running_percent">У працэсе, %s</string>
 </resources>

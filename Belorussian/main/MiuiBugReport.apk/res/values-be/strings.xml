@@ -32,7 +32,6 @@
 3. Вярніцеся на гэту старонку і націсніце \"Завяршыць і адправіць\"."</string>
     <string name="catch_full_log_item_content_title">Крокі:</string>
     <string name="catch_full_log_item_title_audio">Аўдыя, запіс гуку і выклікі</string>
-    <string name="catch_full_log_item_title_bt">Bluetooth</string>
     <string name="catch_full_log_item_title_dump_heap">Затрымкі</string>
     <string name="catch_full_log_item_title_gps">Службы месцазнаходжання</string>
     <string name="catch_full_log_item_title_sensor">Датчыкі</string>
@@ -57,7 +56,6 @@
     <string name="customer_service_apply">Запыт у службу абслугоўвання кліентаў</string>
     <string name="customer_service_complain">Паведаміць аб службе абслугоўвання кліентаў</string>
     <string name="customer_service_station">Месца абслугоўвання</string>
-    <string name="default_text_view">TextView</string>
     <string name="description">Апісанне (абавязкова)</string>
     <string name="dialog_ask_delete">Выдаліць</string>
     <string name="dialog_ask_quit">Выйсці</string>
@@ -67,8 +65,6 @@
     <string name="discard_draft_dialog_title">Выдаліць чарнавік?</string>
     <string name="err_type">Тып справаздачы</string>
     <string name="err_type_app">Праграмы</string>
-    <string name="err_type_appstore">App Store</string>
-    <string name="err_type_bluetooth">Bluetooth</string>
     <string name="err_type_camera">Камера</string>
     <string name="err_type_hardware">Прылада</string>
     <string name="err_type_hardware_summary">Кнопкі, зарадка, сэнсары і г.д.</string>
@@ -82,8 +78,6 @@
     <string name="err_type_system_summary">Памяць, прадукцыйнасць і г.д.</string>
     <string name="err_type_systemapp">Сістэма</string>
     <string name="err_type_translate">Мова</string>
-    <string name="err_type_wifi">Wi-Fi</string>
-    <string name="err_type_xiaomi_family">Mi Home</string>
     <string name="err_type_xiaomi_service">Абслугоўванне карыстальнікаў</string>
     <string name="error_no_connection">Не атрымалася злучыцца з сеткай</string>
     <string name="feedback_bug_status_change_notification_desc">%1$s праблема \"%2$s\"</string>
@@ -120,7 +114,6 @@
     <string name="feedback_empty_report_list">Справаздачы адсутнічаюць</string>
     <string name="feedback_guess">Нашы прапановы:</string>
     <string name="feedback_history_remind_login_desc">Увайдзіце ў свой Mi Акаўнт для прагляду падрабязнасцяў аб вашых справаздачах</string>
-    <string name="feedback_id">ID: %d</string>
     <string name="feedback_jira_key">Ключ JIRA: %s</string>
     <string name="feedback_jira_key_place_holder">Стварэнне Jira…</string>
     <string name="feedback_package_log_failed">Не атрымалася сціснуць логі</string>
@@ -187,8 +180,6 @@
     <string name="feedback_tracking">Адсочванне праблем</string>
     <string name="feedback_version_label">Версія</string>
     <string name="feesback_list">Справаздачы</string>
-    <string name="first_position">2#</string>
-    <string name="floor">%1$s#</string>
     <string name="from">з %1$s</string>
     <string name="goon_feedback_main">Працягнуць</string>
     <string name="hint_feedback_main">Апішыце праблему</string>
@@ -219,7 +210,6 @@
     <string name="mi_service_dialog_content">Усе функцыі зваротнай сувязі былі перамешчаныя ў новую програму «Сэрвісы і зваротная сувязь». Праграма «Зваротная сувязь» будзе выдаленая з вашага Галоўнага экрана. Націсніце «Адкрыць», каб перайсці да праграмы «Сэрвісы і зваротная сувязь».</string>
     <string name="mi_service_dialog_title">Прадстаўляем «Сэрвісы і зваротная сувязь»</string>
     <string name="michat_app_name">Анлайн падтрымка</string>
-    <string name="michat_artificial_customer_phone">4001005678</string>
     <string name="michat_artificial_customer_phone_dial_error">Калі вам не ўдаецца патэлефанаваць на гарачую лінію 400, набярыце %1$s, выкарыстоўваючы іншы тэлефон</string>
     <string name="michat_artificial_customer_text">Персанал падтрымкі</string>
     <string name="michat_attach_image">Выява</string>
@@ -294,7 +284,6 @@
     <string name="module_data">Памяць і клоны праграм</string>
     <string name="module_desktop">Налады Працоўнага стала</string>
     <string name="module_finance">Фінансы і Mi Wallet</string>
-    <string name="module_google_apps">Google apps</string>
     <string name="module_item_less">Схаваць</string>
     <string name="module_item_more">Яшчэ</string>
     <string name="module_medias">Медыя</string>
@@ -325,10 +314,10 @@
     <string name="network_unavailable_dialog_content">Ваша справаздача будзе адпраўлена пры падключэнні да сеткі.</string>
     <string name="network_unavailable_dialog_title">Інтэрнэт недаступны</string>
     <string name="non_system_app_select">Спампаваныя праграмы</string>
-    <string name="nothing">--</string>
     <string name="open_feedback_main">Яшчэ</string>
     <string name="packaging_dialog_content">Стварэнне справаздачы…</string>
     <string name="pic_not_exist">Гэта выява не існуе</string>
+    <string name="pic_view_format">%1$s\"/\"%2$s</string>
     <string name="plus_one_submit_dialog_content">Ваша справаздача разам з ўкладаннямі і журналамі будзе адпраўлена на серверы MIUI.</string>
     <string name="plus_one_submit_dialog_not_show_again">Запомніць выбар</string>
     <string name="post_miui_bbs_failed">Не атрымалася размясціць на форуме MIUI</string>
@@ -350,7 +339,6 @@
     <string name="save_pic_fail">Не атрымалася захаваць выяву, праверце SD-карту</string>
     <string name="save_pic_success">Выява захавана ў %s</string>
     <string name="screen_lock">Блакаванне экрана</string>
-    <string name="second_position">3#</string>
     <string name="section_description">Апісанне</string>
     <string name="section_err_type">Тып справаздачы</string>
     <string name="section_screenshot">Скрыншот</string>
@@ -364,7 +352,6 @@
     <string name="suggestion_description">Дадаць апісанне</string>
     <string name="system_app_select">Сістэма</string>
     <string name="systemui">Панэль апавяшчэнняў</string>
-    <string name="tab_title_chat">FAQ</string>
     <string name="tab_title_my_reports">Мае справаздачы</string>
     <string name="tab_title_preferences">Налады</string>
     <string name="tab_title_report">Водгук</string>
@@ -372,7 +359,6 @@
     <string name="title_catch_full_log">Журналы</string>
     <string name="title_customer_service">Абслугоўванне карыстальнікаў</string>
     <string name="title_first_aid">Першая дапамога</string>
-    <string name="title_frequent_question_feedback_main">FAQ</string>
     <string name="title_mi_family">Mi Homes паблізу</string>
     <string name="title_nonsystem_app">Праграмы</string>
     <string name="title_same_question_feedback_main">Падобныя праблемы на форуме MIUI</string>
@@ -403,7 +389,6 @@
     <string name="toast_screenshot_too_large">Немагчыма запампаваць выявы або відэа больш за 100 МБ.</string>
     <string name="toast_third_packagename_required">Увядзіце назву праграмы</string>
     <string name="toast_title_required">Апішыце праблему</string>
-    <string name="topic_author">1#</string>
     <string name="try_again">Паўтарыць</string>
     <string name="upload_log_failed">Не атрымалася адправіць логі</string>
     <string name="warning_field_empty">Увядзіце %1$s</string>

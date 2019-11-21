@@ -37,6 +37,8 @@
         <item>Іншы</item>
         <item>Карыстальніцкі</item>
     </string-array>
+    <array name="face_acquired_vendor" />
+    <array name="face_error_vendor" />
     <array name="fingerprint_acquired_vendor" />
     <array name="fingerprint_error_vendor" />
     <string-array name="imAddressTypes">
@@ -57,9 +59,5 @@
     </string-array>
     <string-array name="wfcOperatorErrorNotificationMessages">
         <item>Памылка падключэння Wi‑Fi-тэлефаніі ў вашага аператара: %1$s</item>
-    </string-array>
-    <string-array name="wfcSpnFormats">
-        <item>%s</item>
-        <item>Wi-Fi-тэлефанія %s</item>
     </string-array>
 </resources>

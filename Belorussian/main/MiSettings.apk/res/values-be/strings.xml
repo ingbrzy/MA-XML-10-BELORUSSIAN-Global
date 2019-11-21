@@ -5,7 +5,7 @@
     <string name="calendar_sound">Нагадванні пра падзею</string>
     <string name="calendar_tip">Гукі напамінкаў пра падзеі працуюць для напамінкаў, нататак і задач</string>
     <string name="follow_sim1">Прымяніць налады SIM 1</string>
-    <string name="intelligent_recognition_item_summary">Ідэнтыфікуйце ўваходныя выклікі, зробленыя пастаўшчыкамі паслуг (напрыклад, дастаўка ежы), і выкарыстоўвайце асобныя мелодыі для іх</string>
+    <string name="intelligent_recognition_item_summary">Выкарыстоўваць пэўную мелодыю для выклікаў ад службаў дастаўкі і таксі. Гэтая функцыя працуе, калі па змаўчанні ўсталяваная мелодыя %s.</string>
     <string name="intelligent_recognition_item_title">Вызначыць паслугі</string>
     <string name="mms">Паведамленні</string>
     <string name="more_ringtone">Усе мелодыі</string>

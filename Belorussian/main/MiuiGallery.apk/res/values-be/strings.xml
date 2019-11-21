@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="abc_action_bar_home_description">Перайсці на галоўную старонку</string>
+    <string name="abc_action_bar_up_description">Перайсці ўверх</string>
+    <string name="abc_action_menu_overflow_description">Дадатковыя параметры</string>
+    <string name="abc_action_mode_done">Гатова</string>
+    <string name="abc_activity_chooser_view_see_all">Прагледзець усё</string>
+    <string name="abc_activitychooserview_choose_application">Выбраць праграму</string>
+    <string name="abc_capital_off">ВЫКЛ.</string>
+    <string name="abc_capital_on">УКЛ.</string>
+    <string name="abc_menu_alt_shortcut_label">Alt +</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
+    <string name="abc_menu_delete_shortcut_label">Delete</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">Fn +</string>
+    <string name="abc_menu_meta_shortcut_label">Meta +</string>
+    <string name="abc_menu_shift_shortcut_label">Shift +</string>
+    <string name="abc_menu_space_shortcut_label">Прабел</string>
+    <string name="abc_menu_sym_shortcut_label">Sym +</string>
+    <string name="abc_prepend_shortcut_label">Меню +</string>
+    <string name="abc_search_hint">Пошук...</string>
+    <string name="abc_searchview_description_clear">Выдалiць запыт</string>
+    <string name="abc_searchview_description_query">Запыт на пошук</string>
+    <string name="abc_searchview_description_search">Пошук</string>
+    <string name="abc_searchview_description_submit">Адправіць запыт</string>
+    <string name="abc_searchview_description_voice">Галасавы пошук</string>
+    <string name="abc_shareactionprovider_share_with">Абагуліць з</string>
+    <string name="abc_shareactionprovider_share_with_application">Абагуліць праз праграму %s</string>
+    <string name="abc_toolbar_collapse_description">Згарнуць</string>
     <string name="accept">Прыняць</string>
     <string name="accept_or_deny">Карыстальнік \"%1$s падзяліўся з вамі альбомам %2$s.</string>
     <string name="actionbar_overflow_item_desc">Дадатковыя параметры</string>
@@ -101,7 +128,7 @@
     <string name="alert_selection_description">MIUI прааналізуе падобныя фота і адзначыць для вас лепшыя кадры.</string>
     <string name="alert_selection_title">Выбраць лепшае фота</string>
     <string name="all_faces">Фатаграфіі з гэтым чалавекам</string>
-    <string name="all_items_synced">Рэзервовыя копіі ўсіх альбомаў захаваны ў Xiaomi Cloud</string>
+    <string name="all_items_synced">Усе альбомы былі сінхранізаваныя з воблакам</string>
     <string name="all_video_album_display_name">Усе відэа</string>
     <string name="already_create_baby_album">Дзіцячы альбом ужо існуе ў Xiaomi Cloud.</string>
     <string name="and">і</string>
@@ -116,20 +143,20 @@
     <string name="assistant_page_label">Успаміны</string>
     <string name="assistant_page_server_error">Праверце налады сеткі</string>
     <string name="associate_face_album">Выбраць альбом</string>
-    <string name="auto_backup_introduce">Аўтазахаванне фота і відэа (патрабуецца Mi Акаўнт)</string>
+    <string name="auto_backup_introduce">Аўтаматычна сінхранізаваць фота і відэа (патрабуецца Mi Акаўнт)</string>
     <string name="auto_download_media_title">Аўтаматычна пампаваць фота з Xiaomi Cloud</string>
     <string name="auto_update_face">Дадаваць фота аўтаматычна</string>
     <string name="auto_update_face_summary">Загружаць і дадаваць фота ў дзіцячы альбом аўтаматычна</string>
     <string name="auto_update_off">Выкл.</string>
     <string name="auto_update_on">Укл.</string>
-    <string name="auto_upload_before_share_message">Альбом павінен быць сінхранізаваны з Xiaomi Cloud перад адпраўкай</string>
+    <string name="auto_upload_before_share_message">Сінхранізуйце гэты альбом з Xiaomi Cloud перад адпраўкай</string>
     <string name="auto_upload_before_share_title">Папярэджанне</string>
     <string name="auto_upload_disable_tip">Сінхранізацыя з воблакам адключаная</string>
     <string name="auto_upload_disable_toast_long_press_menu">Сінхранізацыя з воблакам адключаная</string>
     <string name="auto_upload_enable_toast_long_press_menu">Сінхранізацыя з воблакам уключана</string>
     <string name="baby_album">Дзіцячы альбом</string>
     <string name="baby_album_change_background">Змяніць фон</string>
-    <string name="baby_album_needs_auto_backup_tip">Немагчыма адключыць стварэнне рэзервовай копіі Дзіцячага альбома</string>
+    <string name="baby_album_needs_auto_backup_tip">Немагчыма адключыць аўтаматычную сінхранізацыю Дзіцячага альбома</string>
     <string name="baby_album_new_photo_remind">У дзіцячым альбоме выяўленыя новыя фота.</string>
     <string name="baby_album_setting_title">Інфармацыя пра дзіця</string>
     <string name="baby_album_settings">Налады дзіцячага альбома</string>
@@ -151,8 +178,8 @@
     <string name="baby_sexy">Пол</string>
     <string name="baby_suffix">дзіця</string>
     <string name="back">Назад</string>
-    <string name="backup_automatically_summary">Стварайце рэзервовыя копіі фота і відэа з усіх прылад ў Xiaomi Cloud. Вы зможаце праглядаць, сартаваць, рэдагаваць і дзяліцца фота і відэа на ўсіх сваіх прыладах.</string>
-    <string name="backup_automatically_title">Аўтаматычнае стварэнне рэзервовай копіі</string>
+    <string name="backup_automatically_summary">Сінхранізуйце фота і відэа з усіх прылад ў Xiaomi Cloud. Вы зможаце зручна праглядаць, сартаваць, рэдагаваць і дзяліцца фота і відэа на ўсіх сваіх прыладах.</string>
+    <string name="backup_automatically_title">Сінхранізаваць аўтаматычна</string>
     <string name="backup_battery_low_desc">Вы па-ранейшаму можаце працягваць стварэнне рэзервовай копіі</string>
     <string name="backup_battery_low_title">Стварэнне рэзервовай копіі прыпынена з-за разраджанай батарэі</string>
     <string name="backup_close">Зачыніць</string>
@@ -163,7 +190,7 @@
     <string name="backup_cta_not_allow_desc">Ствараць рэзервовую копію аўтаматычна</string>
     <string name="backup_cta_not_allow_title">Не ўдалося атрымаць доступ да сеткі</string>
     <string name="backup_detail_page_empty">Няма выяў або відэа ў чаканні загрузцы</string>
-    <string name="backup_detail_page_title">Резервовыя копіі ў Xiaomi Cloud</string>
+    <string name="backup_detail_page_title">"Сінхранізаваныя аб'екты"</string>
     <string name="backup_device_space_low_btn_text">Ачысціць</string>
     <string name="backup_device_space_low_desc">Вызваліце ​​месца, каб працягнуць стварэнне рэзервовай копіі</string>
     <string name="backup_device_space_low_title">Недастаткова вольнага месца</string>
@@ -179,15 +206,16 @@
     <string name="backup_no_wifi_btn_text">Выкарыстоўваць мабільны інтэрнэт</string>
     <string name="backup_no_wifi_desc">Таксама можна ствараць рэзервовыя копіі, выкарыстоўваючы мабільны інтэрнэт</string>
     <string name="backup_no_wifi_title">Сінхранізацыя працягнецца, калі вы далучыцеся да Wi-Fi</string>
-    <string name="backup_only_in_wifi">Выкарыстоўваць толькі Wi‑Fi для рэзервовай копіі фота і відэа</string>
-    <string name="backup_only_in_wifi_summary">Ніколі не выкарыстоўваць мабільны інтэрнэт для рэзервовай копіі фота і відэа</string>
+    <string name="backup_only_in_wifi">Для сінхранізацыі фота і відэа выкарыстоўваць толькі Wi‑Fi</string>
+    <string name="backup_only_in_wifi_summary">Ніколі не выкарыстоўваць мабільны інтэрнэт для сінхранізацыі фота і відэа</string>
     <string name="backup_only_wifi_dialog_message">Выкарыстоўваць мабільны інтэрнэт для сінхранізацыі фота і відэа?</string>
     <string name="backup_pause">Прыпыніць стварэнне рэзервовай копіі</string>
+    <string name="backup_pause_dialog_title">Прыпыніць сінхранізацыю</string>
     <string name="backup_pause_title">Сінхранізацыя прыпыненая</string>
     <string name="backup_pending">Рэзервовая копія будзе створана аўтаматычна</string>
     <string name="backup_stop">Спыніць капіяванне</string>
     <string name="backup_sync_dialog_confirm">Уключыць</string>
-    <string name="backup_sync_dialog_tips">Уключыце сінхранізацыю з воблакам для змены наладаў рэзервовых копій.</string>
+    <string name="backup_sync_dialog_tips">Уключыце сінхранізацыю з воблакам для змены налад.</string>
     <string name="backup_sync_dialog_title">Сінхранізацыя адключана</string>
     <string name="backup_sync_error_btn_text">Паспрабаваць зноў</string>
     <string name="backup_sync_error_desc">Не ўдаецца падключыцца да Xiaomi Cloud</string>
@@ -221,7 +249,7 @@
     <string name="by_others">Іншае</string>
     <string name="by_sms">SMS</string>
     <string name="byteShort">Б</string>
-    <string name="camera_needs_auto_backup_tip">Павінна быць створана рэзервовая копія альбома камеры</string>
+    <string name="camera_needs_auto_backup_tip">Альбом камеры павінен быць сінхранізаваны</string>
     <string name="cancel">Скасаваць</string>
     <string name="cancel_baby_lock_wallpaper_confirm_msg">Аднавіць шпалеры экрана блакавання па змаўчанні?</string>
     <string name="cancel_download_btn_text">Спыніць</string>
@@ -249,6 +277,9 @@
     <string name="chooser_fragment_mishare_title">Падзяліцца на</string>
     <string name="cleaner_empty_value_description">Ачыстка не патрабуецца</string>
     <string name="cleaner_photo_pick_delete_selected">Выдаліць выбраныя фота</string>
+    <string name="cleaner_raw_action">Ачысціць</string>
+    <string name="cleaner_raw_description">Вызваліце ​​памяць, выдаліўшы вялікія выявы RAW</string>
+    <string name="cleaner_raw_title">Выдаліць файлы RAW</string>
     <string name="cleaner_scan_description">"Аптымізацыя аб'ектаў вызваляе месца на вашай прыладзе"</string>
     <string name="cleaner_scan_exit_dialog_message">У наступны раз вам прыйдзецца пачаць спачатку. Спыніць праверку?</string>
     <string name="cleaner_scan_exit_dialog_positive">Стоп</string>
@@ -279,13 +310,13 @@
     <string name="close">Закрыць</string>
     <string name="close_dialog_desc">Закрыць акно дыялогу</string>
     <string name="cloud_camera_display_name">Камера</string>
-    <string name="cloud_guide_auto_backup_title">Выберыце альбомы для загрузкі ў Mi Cloud</string>
+    <string name="cloud_guide_auto_backup_title">Выберыце альбомы для сінхранізацыі</string>
     <string name="cloud_guide_login_title">Аўтаматычнае стварэнне рэзервовай копіі фота і відэа</string>
     <string name="cloud_guide_welcome_title">Xiaomi Cloud</string>
-    <string name="cloud_privacy_with_ai_album">Палажэнне аб прыватнасці ў дачыненні да аўтаматычнага рэзервовага капіявання і апрацоўкі выяў</string>
-    <string name="cloud_privacy_with_face">Палажэнне аб прыватнасці ў дачыненні да аўтаматычнага рэзервовага капіявання і распазнання твару</string>
+    <string name="cloud_privacy_with_ai_album">Заява аб прыватнасці ў дачыненні да аўтаматычнай сінхранізацыі і апрацоўкі выяў</string>
+    <string name="cloud_privacy_with_face">Заява аб прыватнасці ў дачыненні да аўтаматычнай сінхранізацыі і распазнання твару</string>
     <string name="cloud_screenshots_display_name">Скрыншоты</string>
-    <string name="cloud_settings">Рэзервовыя копіі галерэі</string>
+    <string name="cloud_settings">Сінхранізаваць</string>
     <string name="cloud_storage_extend">Атрымаць больш месца</string>
     <string name="cloud_storage_ok_append_desc">Даступна %s</string>
     <string name="cloud_storage_ok_desc">Сховішча Xiaomi Cloud %s</string>
@@ -554,6 +585,7 @@
     <string name="face_name_edit">Змяніць</string>
     <string name="face_name_input">Увядзіце імя</string>
     <string name="face_recommend">Парады</string>
+    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="fail_hint">Не атрымалася завяршыць аперацыю</string>
     <string name="fail_to_pick_email">Няправільны Email</string>
     <string name="fail_to_sync_album">Не атрымалася сінхранізаваць альбом. Праверце параметры сеткі.</string>
@@ -564,6 +596,7 @@
     <string name="feature_guidance_photo_effects">"Даступныя
 новыя эфекты"</string>
     <string name="feature_guidance_video_editor_smart_effects">Даступныя новыя эфекты</string>
+    <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="file_cannot_print">"Немагчыма надрукаваць гэты аб'ект."</string>
     <string name="file_cannot_screen_throw">"Немагчыма трансляваць гэты аб'ект."</string>
     <string name="file_sending">Перадача файлаў…</string>
@@ -586,6 +619,7 @@
     <string name="filter_category_scene">Краявід</string>
     <string name="filter_category_sky">Неба</string>
     <string name="filter_film_blackwhite">Ч/Б</string>
+    <string name="filter_film_classic">Класічны</string>
     <string name="filter_film_dew">Раса</string>
     <string name="filter_film_fade">Пабляклы</string>
     <string name="filter_film_film">Фотастужка</string>
@@ -694,6 +728,7 @@
     <string name="gif_tip">GIF</string>
     <string name="gigabyteShort">ГБ</string>
     <string name="grant_permission_go_and_set">Усталяваць</string>
+    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_text">"Для звычайнай працы Галерэі патрэбны доступ да 
 %s
 , націсніце \"Наладзіць\", каб перайсці да дазволаў."</string>
@@ -786,7 +821,10 @@
     <string name="main_discard_confirm_message">У вас ёсць незахаваныя змены</string>
     <string name="main_discard_negative_btn">Скасаваць</string>
     <string name="main_discard_positive_btn">Захаваць і выйсці</string>
+    <string name="main_save_cancel">Скасаваць</string>
+    <string name="main_save_compress">Сціснуць і захаваць</string>
     <string name="main_save_error_msg">Не атрымалася захаваць змены з-за памылкі</string>
+    <string name="main_save_origin">Захаваць арыгінальны файл</string>
     <string name="mark_myself_default_name">Я</string>
     <string name="mark_myself_suggestion_load_more">Гэта не я</string>
     <string name="mark_myself_suggestion_title">"Выберыце фота з вашым тварам
@@ -805,7 +843,7 @@
     <string name="merge_album_title">"Аб'яднаць з чалавекам"</string>
     <string name="messagelist_sender_self">Я</string>
     <string name="mi_drop">Mi Share</string>
-    <string name="micloud_introduce">Аўтазахаванне фота і відэа (патрабуецца Mi Акаўнт)</string>
+    <string name="micloud_introduce">Аўтаматычна сінхранізаваць фота і відэа (патрабуецца Mi Акаўнт)</string>
     <string name="midnight">Да паўдня</string>
     <string name="monday">Панядзелак</string>
     <string name="monday_short">Пан</string>
@@ -996,6 +1034,7 @@
     <string name="people_mark_mode_title_no_mark_name">Выберыце чалавека</string>
     <string name="people_page_label">Людзі</string>
     <string name="people_page_unname">Без імені</string>
+    <string name="percent_sign">%</string>
     <string name="permission_contacts_desc">Для прысваення кантактаў людзям на фота</string>
     <string name="permission_contacts_name">Кантакты</string>
     <string name="permission_optional_category">Неабавязковыя дазволы</string>
@@ -1205,8 +1244,13 @@
     <string name="screen_doodle_talkback_size">Шырыня лініі накіда</string>
     <string name="screen_editor_btn_delete">Выдаліць</string>
     <string name="screen_editor_btn_save">Захаваць</string>
+    <string name="screen_editor_crop">@string/photo_editor_long_crop</string>
     <string name="screen_editor_delete_dialog_msg">Выдаліць гэты скрыншот?</string>
+    <string name="screen_editor_doodle">@string/photo_editor_doodle</string>
     <string name="screen_editor_finish">Гатова</string>
+    <string name="screen_editor_mosaic">@string/photo_editor_mosaic</string>
+    <string name="screen_editor_send">@string/operation_send</string>
+    <string name="screen_editor_text">@string/photo_editor_text</string>
     <string name="screen_save_dialog_btn_cancel">Адмена</string>
     <string name="screen_save_dialog_btn_delete">Выдаліць скрыншот</string>
     <string name="screen_save_dialog_btn_save">Захаваць у Галерэі</string>
@@ -1243,6 +1287,7 @@
     <string name="search_login_title_full_screen">"Увайдзіце ў свой Mi Акаўнт, каб знайсці больш аб'ектаў і людзей"</string>
     <string name="search_mark_feedback_false_negative_title">OK</string>
     <string name="search_mark_feedback_false_positive_title">Выправіць</string>
+    <string name="search_menu_title">Пошук</string>
     <string name="search_net_error">Адбылася памылка сеткі. Падлучыцеся да іншай сеткі і паўтарыце спробу.</string>
     <string name="search_request_applied">Ужыта</string>
     <string name="search_request_open">Далучыцеся да каманды тэсціравання</string>
@@ -1264,6 +1309,9 @@
     <string name="search_title_recommend">Рэкамендацыі</string>
     <string name="search_title_suggestion">Прапановы</string>
     <string name="search_title_tag">"Аб'екты"</string>
+    <string name="search_transition_element_icon">search_icon</string>
+    <string name="search_transition_element_input">search_input</string>
+    <string name="search_transition_element_voice">search_voice</string>
     <string name="searching_cast_devices">Пошук праектара…</string>
     <string name="secret_album_card_description">Лепшае месца для вашых маленькіх сакрэтаў</string>
     <string name="secret_album_card_title">Паспрабуйце схаваныя альбомы</string>
@@ -1312,7 +1360,7 @@
     <string name="setup_network_connection">Налады сеткі</string>
     <string name="share">Падзяліцца</string>
     <string name="share_album">Падзяліцца альбомам</string>
-    <string name="share_album_needs_auto_upload_tip">Нельга адключыць стварэнне рэзервовай копіі альбомаў, якімі вы падзяліліся</string>
+    <string name="share_album_needs_auto_upload_tip">Немагчыма адключыць сінхранізацыю з воблакам для агульных альбомаў</string>
     <string name="share_album_qr_code">QR-код альбома</string>
     <string name="share_by_email_start">Падзяліцца \"%1$s\" у фонавым рэжыме</string>
     <string name="share_by_email_successfully">Вы падзяліліся з \"%1$s\"</string>
@@ -1500,6 +1548,8 @@
     <string name="unpublish_failed">Памылка закрыцця доступу</string>
     <string name="unpublish_succeeded">Агульны доступ да альбома закрыты</string>
     <string name="unpublishing">Скасаваць…</string>
+    <string name="unsupport_raw">%s не працуе з выявамі RAW</string>
+    <string name="unsupport_raw_and_video">%s не працуе з відэа і выявамі RAW</string>
     <string name="unsupport_video">%s не працуе з відэа</string>
     <string name="user_agree">Згадзіцца</string>
     <string name="user_agreement2">Умовы выкарыстання</string>

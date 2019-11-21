@@ -29,6 +29,8 @@
     <string name="abc_toolbar_collapse_description">Згарнуць</string>
     <string name="search_menu_title">Пошук</string>
     <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="Approval">Ужыць</string>
+    <string name="Xiaomi_account_pending_approval">Заяўка знаходзіцца на разглядзе</string>
     <string name="about_title">Аб праграме</string>
     <string name="access_sd_fail">Няма доступу да SD-карты</string>
     <string name="accessibility_shutter_button">Здымак</string>
@@ -59,6 +61,7 @@
     <string name="call_anyone">Выклік</string>
     <string name="camera_error_title">Памылка камеры</string>
     <string name="cancel">Скасаваць</string>
+    <string name="check_for_updates">Праверыць наяўнасць абнаўленняў для бэта-версіі</string>
     <string name="choose_open_code_app">Выберыце праграму</string>
     <string name="choose_pay_title">Выберыце спосаб аплаты</string>
     <string name="choose_picture">Выбраць малюнак з QR-кодам</string>
@@ -72,6 +75,7 @@
     <string name="contact_details">QR-код кантакту:</string>
     <string name="continue_access_web_url">Перайсці на сайт</string>
     <string name="continue_to_website">Перайсці на сайт</string>
+    <string name="continue_waiting">Чакаем яшчэ</string>
     <string name="copy_text">Капіяваць тэкст</string>
     <string name="copy_text_success">Тэкст скапіяваны</string>
     <string name="crop_cancel_description">Скасаваць</string>
@@ -96,6 +100,8 @@
     <string name="document_title">Зрабіце фота дакумента</string>
     <string name="document_top_panel_title">Фота дакумента</string>
     <string name="done">Зроблена</string>
+    <string name="download_stable_version">Выкарыстоўваць стабільную версію</string>
+    <string name="download_use_stable_version">Загрузіць стабільную версію</string>
     <string name="drag_barcode_into_frame">Зрабіце рамку па памерах кода</string>
     <string name="drag_crop_to_business_card">Рухайце для абрэзкі</string>
     <string name="email">Email:</string>
@@ -106,11 +112,28 @@
     <string name="error_media_storage_failure">Не атрымалася захаваць фота</string>
     <string name="error_permissions">Сканер не мае дазволаў, патрэбных для яго звычайнай работы. Каб працягнуць, перайдзіце ў Налады і праверце дазволы.</string>
     <string name="error_server_error">Адбылася памылка сервера.</string>
+    <string name="experience_new_feature_tips">Увайдзіце ў Mi Акаўнт, каб падаць заяўку на доступ да бэта-версіі. Вы зможаце пачаць выкарыстоўваць бэта-версію пасля таго, як мы разгледзім вашу заяўку. Бэта-версія можа ўтрымліваць памылкі.</string>
+    <string name="experience_new_features">Бэта-версія</string>
+    <string name="experiential_version_of_the_prompt_content">Увайдзіце ў Mi Акаўнт для доступу да бэта-версіі Cканэра. Увайсці зараз?</string>
+    <string name="failed_to_get_xiaomi_account">Немагчыма ўвайсці</string>
     <string name="fax">Факс</string>
     <string name="feed_search_fail">Няма вынікаў, паспрабуйце зноў</string>
+    <string name="feedback">Водгук</string>
     <string name="feedback_description_camera_access">Сканер не можа падлучыцца да камеры</string>
     <string name="feedback_description_save_photo">Немагчыма захаваць фота ці відэа</string>
+    <string name="feedback_title">Водгук</string>
     <string name="flight_mode_connecting_to_wifi">Уключаць Wi-Fi уручную, калі ўключаны рэжым палёту</string>
+    <string name="food_identification_fail_tips">Скануйце садавіну, гародніну і іншую ежу. Гэтая функцыя таксама працуе з выявамі.</string>
+    <string name="food_identification_tip_msg">Распазнаванне ежы…</string>
+    <string name="food_make_complaints_hint">Увядзіце водгук тут</string>
+    <string name="food_module_feedback_str">Водгук</string>
+    <string name="food_module_get_more_info">Больш падрабязна</string>
+    <string name="food_module_identification_failure">"Не атрымалася распазнаць гэты аб'ект"</string>
+    <string name="food_module_send_feedback">Адправіць</string>
+    <string name="food_module_step_on">Не падабаецца</string>
+    <string name="food_module_thumbs_up">Падабаецца</string>
+    <string name="food_module_tip">Змесціце еду ў рамку</string>
+    <string name="food_module_title_food">Калорыі</string>
     <string name="got_it">Зразумела</string>
     <string name="gps">Навігацыя</string>
     <string name="import_contact">Імпарт кантакту</string>
@@ -145,6 +168,8 @@
     <string name="name">Імя:</string>
     <string name="new_schedule">Стварыць мерапрыемства</string>
     <string name="nickname">Мянушка:</string>
+    <string name="no_has_experience_version_permission">У вас няма доступу да бэта-версіі Сканера. Вы можаце падаць заяўку на атрыманне доступу або загрузіць стабільную версію.</string>
+    <string name="no_inner_version">Бэта-версія недаступная</string>
     <string name="no_network">Немагчыма злучыцца з сеткай</string>
     <string name="no_storage">Няма ўнутранага сховішча</string>
     <string name="no_support_to_translate_type">Гэтая мова не падтрымліваецца</string>
@@ -165,9 +190,11 @@
     <string name="plant_title">Навядзіце сканер на расліну</string>
     <string name="preparing_sd">Падрыхтоўка ўнутранага сховішча…</string>
     <string name="previous">Назад</string>
+    <string name="prompt">Увага</string>
     <string name="qr_code_details">Інфармацыя аб QR-кодзе:</string>
     <string name="recognize">Сканаваць</string>
     <string name="recognize_fail">Немагчыма прачытаць код</string>
+    <string name="request_server_failed">Не атрымалася падлучыцца да сервера</string>
     <string name="scan_result">Вынік</string>
     <string name="scan_support_type">WeChat, Alipay, QR-коды, штрых-коды</string>
     <string name="sdk_not_ready">Падрыхтоўка SDK. Паўтарыце зноў пазней.</string>
@@ -192,6 +219,7 @@
     <string name="study_searching">Пошук вынікаў…</string>
     <string name="study_title">Адскануйце задачу, якую хочаце вырашыць</string>
     <string name="study_vendor_info">Падтрымка: Zuoyebang</string>
+    <string name="suggested_submission_success">Ваш водгук паспяхова адпраўлены</string>
     <string name="switch_open">Уключыць</string>
     <string name="tel">Тэлефон</string>
     <string name="title">Пасада:</string>
@@ -227,6 +255,7 @@
     <string name="translation_see_more">Прагляд вызначэння</string>
     <string name="translation_type_sentence">Фраза</string>
     <string name="translation_type_word">Слова</string>
+    <string name="uninstall_prompt">Калі падчас ўстаноўкі ў вас паўстануць праблемы, перайдзіце ў Налады > Праграмы > Усе праграмы > Сканер і націсніце «Выдаліць», а затым паспрабуйце ўсталяваць праграму зноўку.</string>
     <string name="url_is_phish">"Гэты сайт можа з'яўляцца фішынгавым"</string>
     <string name="url_is_safety">Гэты сайт бяспечны</string>
     <string name="url_is_unknown">Немагчыма праверыць бяспечнасць сайта</string>
@@ -235,6 +264,7 @@
     <string name="web">Сайт:</string>
     <string name="website_details">Cайт:</string>
     <string name="weixin_code_tip">Сканаваць гэты QR-код з дапамогай WeChat</string>
+    <string name="welcome_to_thesweepversion">Сардэчна запрашаем у бэта-версію Сканера!</string>
     <string name="wifi_details">Wi-Fi:</string>
     <string name="wifi_exist_fail">Хот-спот \"%1$s\" ужо існуе. Выдаліце ​​яго, затым зноў адскануйце код для падлучэння.</string>
     <string name="wifi_open_fail">Немагчыма ўключыць Wi-Fi</string>
@@ -242,5 +272,9 @@
     <string name="wifi_pwd">Пароль:</string>
     <string name="wifi_security">Бяспечнасць:</string>
     <string name="wifi_ssid">SSID:</string>
+    <string name="will_be_sent_tothe_background_review">" (Ваша заяўка будзе адпраўлена на разгляд у бліжэйшы час)."</string>
     <string name="wx_not_installed_toast">Гэтай функцыі патрабуецца WeChat. Спачатку ўсталюйце WeChat.</string>
+    <string name="you_have_permission_to_download">Націсніце для запампоўкі бэта-версіі</string>
+    <string name="you_id">"Ваш ID: "</string>
+    <string name="your_application_is_under_review">" (Ваша заяўка будзе разгледжана ў бліжэйшы час)."</string>
 </resources>

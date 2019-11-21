@@ -108,6 +108,11 @@
         <item>AVRCP 1.5</item>
         <item>AVRCP 1.6</item>
     </string-array>
+    <string-array name="bt_hci_snoop_log_entries">
+        <item>Выключана</item>
+        <item>Уключана з фільтрацыяй</item>
+        <item>Уключана</item>
+    </string-array>
     <string-array name="color_mode_descriptions">
         <item>Палепшаныя колеры</item>
         <item>Натуральныя колеры (такія, як яны ўспрымаюцца вокам)</item>
@@ -115,11 +120,11 @@
     </string-array>
     <string-array name="color_mode_names">
         <item>Сочны (па змаўчанні)</item>
-        <item>Натуральны</item>
+        <item>Натуральныя</item>
         <item>Стандартны</item>
     </string-array>
     <string-array name="debug_hw_overdraw_entries">
-        <item>Адключаны</item>
+        <item>Выключана</item>
         <item>Паказаць вобласці з перабольшваннем</item>
         <item>Паказаць вобласці для дэйтэранамаліі</item>
     </string-array>
@@ -176,13 +181,13 @@
         <item>16M</item>
     </string-array>
     <string-array name="select_logpersist_summaries">
-        <item>Адключана</item>
+        <item>Выключана</item>
         <item>Усе буферы журналаў</item>
         <item>Усе, акрамя буфераў журналаў радыё</item>
         <item>толькі буфер журнала ядра</item>
     </string-array>
     <string-array name="select_logpersist_titles">
-        <item>Адключана</item>
+        <item>Выключана</item>
         <item>Усе</item>
         <item>Усе, акрамя радыё</item>
         <item>толькі ядро</item>
@@ -231,7 +236,7 @@
         <item>Падлучэнне...</item>
         <item>Аўтэнтыфікацыя...</item>
         <item>Атрыманне IP-адраса...</item>
-        <item>Падлучана</item>
+        <item>Падключана</item>
         <item>Прыпынена</item>
         <item>Адлучэнне...</item>
         <item>Адключана</item>

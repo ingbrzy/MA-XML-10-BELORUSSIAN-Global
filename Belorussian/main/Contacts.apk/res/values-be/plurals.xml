@@ -157,10 +157,10 @@
         <item quantity="many">%1$d кантактаў з аднолькавымі дадзенымі</item>
     </plurals>
     <plurals name="merge_info">
-        <item quantity="other">"аб/'яднаны з %0$d крыніцы"</item>
+        <item quantity="other">"аб/'яднаны з %1$d крыніцы"</item>
         <item quantity="one">"не аб'яднаны"</item>
-        <item quantity="few">"аб/'яднаны з %0$d крыніц"</item>
-        <item quantity="many">"аб/'яднаны з %0$d крыніц"</item>
+        <item quantity="few">"аб/'яднаны з %1$d крыніц"</item>
+        <item quantity="many">"аб/'яднаны з %1$d крыніц"</item>
     </plurals>
     <plurals name="notification_voicemail_title">
         <item quantity="other">Галасавыя паведамленні: %1$d</item>
@@ -181,10 +181,10 @@
         <item quantity="many">%1$d кантактаў з %2$s</item>
     </plurals>
     <plurals name="num_groups_in_account">
-        <item quantity="other">Груп: %0$d</item>
+        <item quantity="other">Груп: %1$d</item>
         <item quantity="one">1 група</item>
-        <item quantity="few">Груп: %0$d</item>
-        <item quantity="many">Груп: %0$d</item>
+        <item quantity="few">Груп: %1$d</item>
+        <item quantity="many">Груп: %1$d</item>
     </plurals>
     <plurals name="number_of_items_available">
         <item quantity="other">"Засталося %1$d аб'екта"</item>

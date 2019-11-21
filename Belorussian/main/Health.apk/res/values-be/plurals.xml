@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="day_index">
+        <item quantity="other">%1$d дзён</item>
+        <item quantity="one">%1$d дзень</item>
+        <item quantity="few">%1$d дні</item>
+        <item quantity="many">%1$d дзён</item>
+    </plurals>
+    <plurals name="goal_format_with_unit">
+        <item quantity="other">Мэта: %1$d крокаў</item>
+        <item quantity="one">Мэта: %1$d крок</item>
+        <item quantity="few">Мэта: %1$d крока</item>
+        <item quantity="many">Мэта: %1$d крокаў</item>
+    </plurals>
+    <plurals name="goal_unit">
+        <item quantity="other">" крокаў"</item>
+        <item quantity="one">" крок"</item>
+        <item quantity="few">" крока"</item>
+        <item quantity="many">" крокаў"</item>
+    </plurals>
+    <plurals name="menstruation_sum_days">
+        <item quantity="other">%1$d-дзённыя месячныя</item>
+        <item quantity="one">%1$d-дзённыя месячныя</item>
+        <item quantity="few">%1$d-дзённыя месячныя</item>
+        <item quantity="many">%1$d-дзённыя месячныя</item>
+    </plurals>
+    <plurals name="step_num_format">
+        <item quantity="other">%1$d крокаў</item>
+        <item quantity="one">%1$d крок</item>
+        <item quantity="few">%1$d крока</item>
+        <item quantity="many">%1$d крокаў</item>
+    </plurals>
+    <plurals name="steps_format">
+        <item quantity="other">%1$d</item>
+        <item quantity="one">%1$d</item>
+        <item quantity="few">%1$d</item>
+        <item quantity="many">%1$d</item>
+    </plurals>
+    <plurals name="subtitle_add_record">
+        <item quantity="other">Вы не рабілі запісы %1$d дзён. Запішыце свае месячныя, каб атрымліваць больш дакладныя прагнозы.</item>
+        <item quantity="one">Вы не рабілі запісы %1$d дзень. Запішыце свае месячныя, каб атрымліваць больш дакладныя прагнозы.</item>
+        <item quantity="few">Вы не рабілі запісы %1$d дні. Запішыце свае месячныя, каб атрымліваць больш дакладныя прагнозы.</item>
+        <item quantity="many">Вы не рабілі запісы %1$d дзён. Запішыце свае месячныя, каб атрымліваць больш дакладныя прагнозы.</item>
+    </plurals>
+    <plurals name="subtitle_menstruation_continued_days">
+        <item quantity="other">Гэтыя месячныя доўжацца ў агульнай складанасці %1$d дзён</item>
+        <item quantity="one">Гэтыя месячныя доўжацца ў агульнай складанасці %1$d дзень</item>
+        <item quantity="few">Гэтыя месячныя доўжацца ў агульнай складанасці %1$d дні</item>
+        <item quantity="many">Гэтыя месячныя доўжацца ў агульнай складанасці %1$d дзён</item>
+    </plurals>
+    <plurals name="subtitle_menstruation_cycle_days">
+        <item quantity="other">Дзень %1$d бягучага менструальнага цыклу</item>
+        <item quantity="one">Дзень %1$d бягучага менструальнага цыклу</item>
+        <item quantity="few">Дзень %1$d бягучага менструальнага цыклу</item>
+        <item quantity="many">Дзень %1$d бягучага менструальнага цыклу</item>
+    </plurals>
+    <plurals name="sum_cycle_days">
+        <item quantity="other">%1$d-дзённы цыкл</item>
+        <item quantity="one">%1$d-дзённы цыкл</item>
+        <item quantity="few">%1$d-дзённы цыкл</item>
+        <item quantity="many">%1$d-дзённы цыкл</item>
+    </plurals>
+    <plurals name="times_format">
+        <item quantity="other">%1$d разоў</item>
+        <item quantity="one">%1$d раз</item>
+        <item quantity="few">%1$d разы</item>
+        <item quantity="many">%1$d разоў</item>
+    </plurals>
+    <plurals name="title_menstruation_day">
+        <item quantity="other">Дзень %1$d месячных</item>
+        <item quantity="one">Дзень %1$d месячных</item>
+        <item quantity="few">Дзень %1$d месячных</item>
+        <item quantity="many">Дзень %1$d месячных</item>
+    </plurals>
+    <plurals name="title_menstruation_margin_next_time_days">
+        <item quantity="other">%1$d дзён да наступных месячных</item>
+        <item quantity="one">%1$d дзень да наступных месячных</item>
+        <item quantity="few">%1$d дні да наступных месячных</item>
+        <item quantity="many">%1$d дзён да наступных месячных</item>
+    </plurals>
+    <plurals name="title_menstruation_predict_period">
+        <item quantity="other">Прыкладна дзень %1$d месячных</item>
+        <item quantity="one">Прыкладна дзень %1$d месячных</item>
+        <item quantity="few">Прыкладна дзень %1$d месячных</item>
+        <item quantity="many">Прыкладна дзень %1$d месячных</item>
+    </plurals>
+    <plurals name="unit_days">
+        <item quantity="other">" дзён"</item>
+        <item quantity="one">" дзень"</item>
+        <item quantity="few">" дні"</item>
+        <item quantity="many">" дзён"</item>
+    </plurals>
+    <plurals name="user_age_display_format_year">
+        <item quantity="other">%1$d гадоў</item>
+        <item quantity="one">%1$d год</item>
+        <item quantity="few">%1$d года</item>
+        <item quantity="many">%1$d гадоў</item>
+    </plurals>
+</resources>

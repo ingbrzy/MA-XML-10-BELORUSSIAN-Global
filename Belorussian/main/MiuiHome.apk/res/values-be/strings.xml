@@ -48,7 +48,6 @@
     <string name="announce_for_show_uninstall_dialog">Паявіўся дыялог выдалення. Скасуйце або пагадзіцеся.</string>
     <string name="announce_for_unchecked">%1$s, не праверана</string>
     <string name="announce_for_widget_span">Шырыня %1$d, вышыня %2$d</string>
-    <string name="announce_for_xiaoai">Mi AI</string>
     <string name="app_already_exist">Праграма ўжо існуе</string>
     <string name="app_being_backup_message">Ствараецца рэзервовая копія праграмы</string>
     <string name="app_being_restored_message">Праграма аднаўляецца</string>
@@ -68,7 +67,6 @@
     <string name="app_category_sport">Спорт</string>
     <string name="app_category_tools">Прылады</string>
     <string name="app_category_travel">Падарожжа</string>
-    <string name="app_category_vr">VR</string>
     <string name="application_name">Працоўны стол MIUI</string>
     <string name="apply">Усталяваць</string>
     <string name="apply_action">Усталяваць</string>
@@ -106,25 +104,19 @@
     <string name="current_wallpaper">Абраныя</string>
     <string name="custom_wallpaper_picker">Прагледзець</string>
     <string name="defalut_launcher_title">Працоўны стол па змаўчанні</string>
-    <string name="default_folder_title_claro">Claro</string>
     <string name="default_folder_title_game">Гульні</string>
     <string name="default_folder_title_meitu">Праграмы Meitu</string>
-    <string name="default_folder_title_microsoft">Microsoft</string>
     <string name="default_folder_title_recommend">Іншыя праграмы</string>
     <string name="default_folder_title_security">Сістэма</string>
     <string name="default_folder_title_services">Сэрвісы</string>
-    <string name="default_folder_title_telcel">Telcel</string>
     <string name="default_folder_title_tools">Прылады</string>
     <string name="default_screen_preview_title">Усталяваць пачатковы экран</string>
-    <string name="default_shortcut_title_10086">10086.cn</string>
     <string name="delete">Выдаліць</string>
     <string name="delete_screen">Выдаліць экран</string>
     <string name="delete_wallpaper_message">Выдаліць шпалеры (%1$d)?</string>
     <string name="deselect_all">Зняць выбар</string>
     <string name="disable_wallpaper_scroll">Адключыць пракрутку шпалер</string>
     <string name="download_action">Спампаваць</string>
-    <string name="drag_multiple_item_name" />
-    <string name="drag_single_item_name" />
     <string name="dual_app">Кланаванне праграм</string>
     <string name="edit_folder_title">Перайменаваць папку</string>
     <string name="edit_mode_dual_app">Стварыць клон праграмы</string>
@@ -186,7 +178,6 @@
     <string name="gadget_photo_label">Фотарамка</string>
     <string name="gadget_power_clear_button_label">Глыбокая ачыстка</string>
     <string name="gadget_search_label">Пошук</string>
-    <string name="gadget_weather_app_not_installed">"Tap to download MIUI's Weather app"</string>
     <string name="gadget_weather_aqi_title">Якасць паветра:</string>
     <string name="gadget_weather_download_message">Неабходна спампаваць даныя: %1$s (%2$s). Перазапусціце праграму па заканчэнні загрузкі.</string>
     <string name="gadget_weather_download_start">Спампаваць</string>
@@ -311,7 +302,6 @@
     <string name="quick_app">Быстрыя праграмы</string>
     <string name="recent_apps">Нядаўнія</string>
     <string name="recents_config_title">Апошнія</string>
-    <string name="recommend_apk_size_and_desc">%1$dMB | %2$s</string>
     <string name="recommend_apps_default_title">Пуста</string>
     <string name="recommend_apps_no_data">Няма дадзеных</string>
     <string name="recommend_apps_no_data_toast">Пакуль няма рэкамендацый.</string>
@@ -352,6 +342,7 @@
     <string name="sort_by_not_defined">Па парадку</string>
     <string name="start_activity_failed">Не атрымалася запусціць рабочы стол</string>
     <string name="starting_preset_app">Запуск…</string>
+    <string name="status_bar_notification_info_overflow">больш за 999</string>
     <string name="status_downloaded">Спампавана</string>
     <string name="status_downloading">Спампоўка</string>
     <string name="status_installing">Усталёўка</string>

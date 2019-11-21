@@ -23,7 +23,8 @@
     <string name="app_notification_info">Нататкі працуюць ў фонавым рэжыме</string>
     <string name="app_widget">Нататкі</string>
     <string name="application_icon">Значок праграмы</string>
-    <string name="audio_panel_time_counter_default">00:00</string>
+    <string name="audio_create_normal_state">Адпусціце, каб стварыць. Правядзіце ўверх для адмены.</string>
+    <string name="audio_create_will_cancel_state">Адпусціце для адмены</string>
     <string name="audio_toast_file_invalid">Недапушчальны аўдыёфайл</string>
     <string name="audio_toast_file_undownload">Аўдыёфайл недапампаваны ці адсутнічае</string>
     <string name="audio_toast_network_is_not_available">Не атрымалася падлучыцца да сеткі</string>
@@ -40,9 +41,6 @@
     <string name="cta_dialog_title">Патрабуюцца дазволы</string>
     <string name="cta_reminder">Для нармальнай працы Нататкам патрабуецца падлучэнне да інтэрнэту, дазвол на запіс гуку і доступ да вашых кантактаў. Дазволіць?</string>
     <string name="date_calculate_today">0 дзён</string>
-    <string name="date_picker_label_day" />
-    <string name="date_picker_label_month" />
-    <string name="date_picker_label_year" />
     <string name="date_time_picker_alarm_reminder">Будзільнік</string>
     <string name="date_time_picker_dialog_title">Усталяваць дату і час</string>
     <string name="date_time_picker_has_not_set_alarm">Напамін не усталяваны</string>
@@ -89,8 +87,6 @@
     <string name="error_widget_exist_for_send_to_desktop">Гэтая нататка ўжо прысутнічае на працоўным стале</string>
     <string name="exceed_todo_text_limitation">Апісанне задачы занадта доўгае.</string>
     <string name="first_enter_custom_folder_hint">Тут можна перайменаваць ці выдаліць папкі</string>
-    <string name="fmt_chinese_date">N e</string>
-    <string name="fmt_time_12hour_minute">h:mm</string>
     <string name="folder_exist">Папка з такой назвай ужо існуе</string>
     <string name="folder_operation_delete">Выдаліць</string>
     <string name="folder_operation_rename">Перайменаваць</string>
@@ -130,6 +126,10 @@
     <string name="menu_todo_show_finished_todo">Паказаць завершаныя задачы</string>
     <string name="menu_unhide">Не хаваць</string>
     <string name="menu_unstick">Адмацаваць</string>
+    <string name="new_audio_create_cancel_talkback_des">Адменена</string>
+    <string name="new_audio_create_done_talkback_des">Створана</string>
+    <string name="new_audio_create_guide_tip">Націсніце і ўтрымлівайце, каб стварыць галасавую нататку</string>
+    <string name="new_audio_create_talkback_des">Націсніце, каб стварыць тэкставую нататку. Націсніце і ўтрымлівайце, каб стварыць галасавую нататку. Адпусціце кнопку, каб спыніць запіс і стварыць нататку, або правядзіце ўверх для адмены.</string>
     <string name="not_now">Не зараз</string>
     <string name="note_description_content">Праграма «Нататкі» — выдатны сродак для запісу вашых думак. У ёй маюцца ўбудаваныя напаміны, і яна сінхранізуе вашы нататкі з воблакам, каб вы маглі атрымаць доступ да іх у любым месцы ў любы час. Перад выдаленнем праграмы ўпэўніцеся, што вы можаце абысціся без гэтых функцый.</string>
     <string name="note_description_title">Аб праграме</string>
@@ -165,6 +165,7 @@
     <string name="pref_title_skip_confirm_for_quick_delete">Выдаленне з дапамогай жэсту</string>
     <string name="pref_title_todo_float_mode">Выкарыстоўваць панэль інструментаў задач</string>
     <string name="pref_title_todo_shorcut">Панэль інструментаў</string>
+    <string name="privacy_note_content_empty">"Тут пакуль няма аб'ектаў."</string>
     <string name="recover_notes_hint">Здарылася памылка, перайдзіце на i.mi.com, каб аднавіць нататкі.</string>
     <string name="redo">Вярнуць</string>
     <string name="refuse_to_open_as_pic_because_of_loading">Пачакайце, пакуль нататка загрузіцца і паспрабуйце зноў.</string>
@@ -284,8 +285,6 @@
     <string name="todo_module_name">Задачы</string>
     <string name="todo_notify_alarm_title">Напамінаб задачы</string>
     <string name="todo_schedule_time_expired">" (Пратэрмінавана)"</string>
-    <string name="todo_schedule_time_for_picker_hm">H mm</string>
-    <string name="todo_schedule_time_hm">HH:mm</string>
     <string name="todo_schedule_time_md">dd/MM</string>
     <string name="todo_schedule_time_mdhm">dd/MM HH:mm</string>
     <string name="todo_schedule_time_today">Сёння</string>

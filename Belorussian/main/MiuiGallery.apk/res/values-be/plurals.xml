@@ -102,6 +102,12 @@
         <item quantity="few">Узнавіцца праз %d хв.</item>
         <item quantity="many">Узнавіцца праз %d хв.</item>
     </plurals>
+    <plurals name="backup_pause_dialog_message">
+        <item quantity="other">"Прыпыніць сінхранізацыю фота, відэа, кантактаў, нататак і іншых аб'ектаў з воблакам на %d хвілін."</item>
+        <item quantity="one">"Прыпыніць сінхранізацыю фота, відэа, кантактаў, нататак і іншых аб'ектаў з воблакам на %d хвіліну."</item>
+        <item quantity="few">"Прыпыніць сінхранізацыю фота, відэа, кантактаў, нататак і іншых аб'ектаў з воблакам на %d хвіліны."</item>
+        <item quantity="many">"Прыпыніць сінхранізацыю фота, відэа, кантактаў, нататак і іншых аб'ектаў з воблакам на %d хвілін."</item>
+    </plurals>
     <plurals name="backuping_desc_gprs">
         <item quantity="other">%1$d фота і відэа | %2$s</item>
         <item quantity="one">%1$d фота ці відэа | %2$s</item>
@@ -289,10 +295,10 @@
         <item quantity="many">%1$d файлаў</item>
     </plurals>
     <plurals name="number_of_images_and_videos_to_upload">
-        <item quantity="other">"%1$d аб'екта ў чаканні сінхранізацыі"</item>
-        <item quantity="one">"1 аб'ект у чаканні сінхранізацыі"</item>
-        <item quantity="few">"%1$d аб'екты ў чаканні сінхранізацыі"</item>
-        <item quantity="many">"%1$d аб'ектаў у чаканні сінхранізацыі"</item>
+        <item quantity="other">"%1$d аб'екта чакае сінхранізацыі"</item>
+        <item quantity="one">"%1$d аб'ект чакае сінхранізацыі"</item>
+        <item quantity="few">"%1$d аб'екта чакаюць сінхранізацыі"</item>
+        <item quantity="many">"%1$d аб'ектаў чакаюць сінхранізацыі"</item>
     </plurals>
     <plurals name="number_of_images_synced">
         <item quantity="other">%1$d фота</item>
@@ -301,26 +307,26 @@
         <item quantity="many">%1$d фота</item>
     </plurals>
     <plurals name="number_of_images_to_upload">
-        <item quantity="other">%1$d фота ў чаканні сінхранізацыі</item>
-        <item quantity="one">1 фота ў чаканні сінхранізацыі</item>
-        <item quantity="few">%1$d фота ў чаканні сінхранізацыі</item>
-        <item quantity="many">%1$d фота ў чаканні сінхранізацыі</item>
+        <item quantity="other">%1$d фота чакае сінхранізацыі</item>
+        <item quantity="one">%1$d фота чакае сінхранізацыі</item>
+        <item quantity="few">%1$d фота чакаюць сінхранізацыі</item>
+        <item quantity="many">%1$d фота чакаюць сінхранізацыі</item>
     </plurals>
     <plurals name="number_of_uploading_images">
         <item quantity="other">Сінхранізацыя %1$d фота…</item>
-        <item quantity="one">Сінхранізацыя фота…</item>
+        <item quantity="one">Сінхранізацыя %1$d фота…</item>
         <item quantity="few">Сінхранізацыя %1$d фота…</item>
         <item quantity="many">Сінхранізацыя %1$d фота…</item>
     </plurals>
     <plurals name="number_of_uploading_images_and_videos">
-        <item quantity="other">"Сінхранізацыя %1$d аб'екта…"</item>
-        <item quantity="one">"Сінхранізацыя 1 аб'екта…"</item>
+        <item quantity="other">"Сінхранізацыя %1$d аб'ектаў…"</item>
+        <item quantity="one">"Сінхранізацыя %1$d аб'екта…"</item>
         <item quantity="few">"Сінхранізацыя %1$d аб'ектаў…"</item>
         <item quantity="many">"Сінхранізацыя %1$d аб'ектаў…"</item>
     </plurals>
     <plurals name="number_of_uploading_videos">
         <item quantity="other">Сінхранізацыя %1$d відэа…</item>
-        <item quantity="one">Сінхранізацыя відэа…</item>
+        <item quantity="one">Сінхранізацыя %1$d відэа…</item>
         <item quantity="few">Сінхранізацыя %1$d відэа…</item>
         <item quantity="many">Сінхранізацыя %1$d відэа…</item>
     </plurals>
@@ -331,10 +337,10 @@
         <item quantity="many">%1$d відэа</item>
     </plurals>
     <plurals name="number_of_videos_to_upload">
-        <item quantity="other">%1$d відэа ў чаканні сінхранізацыі</item>
-        <item quantity="one">1 відэа ў чаканні сінхранізацыі</item>
-        <item quantity="few">%1$d відэа ў чаканні сінхранізацыі</item>
-        <item quantity="many">%1$d відэа ў чаканні сінхранізацыі</item>
+        <item quantity="other">%1$d відэа чакае сінхранізацыі</item>
+        <item quantity="one">%1$d відэа чакае сінхранізацыі</item>
+        <item quantity="few">%1$d відэа чакаюць сінхранізацыі</item>
+        <item quantity="many">%1$d відэа чакаюць сінхранізацыі</item>
     </plurals>
     <plurals name="photo_count_format">
         <item quantity="other">"Усяго %1$d аб'ектаў"</item>

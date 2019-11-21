@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="Ndays">
-        <item quantity="other">За %d дня</item>
-        <item quantity="one">За %d дзень</item>
-        <item quantity="few">За %d дні</item>
-        <item quantity="many">За %d дзён</item>
+        <item quantity="other">За %d дзён да падзеі</item>
+        <item quantity="one">За %d дзень да падзеі</item>
+        <item quantity="few">За %d дні да падзеі</item>
+        <item quantity="many">За %d дзён да падзеі</item>
     </plurals>
     <plurals name="Ndays_after_at">
         <item quantity="other">Праз %1$d дня ў %2$s</item>
@@ -13,28 +13,28 @@
         <item quantity="many">Праз %1$d дзён у %2$s</item>
     </plurals>
     <plurals name="Ndays_ago_at">
-        <item quantity="other">За %1$d дзён у %2$s</item>
-        <item quantity="one">За %1$d дзень у %2$s</item>
-        <item quantity="few">За %1$d дня у %2$s</item>
-        <item quantity="many">За %1$d дзён у %2$s</item>
+        <item quantity="other">За %1$d дзён да падзеі ў %2$s</item>
+        <item quantity="one">За %1$d дзень да падзеі ў %2$s</item>
+        <item quantity="few">За %1$d дні да падзеі ў %2$s</item>
+        <item quantity="many">За %1$d дзён да падзеі ў %2$s</item>
     </plurals>
     <plurals name="Nhours">
-        <item quantity="other">За %d гадзіны</item>
-        <item quantity="one">За %d гадзіну</item>
-        <item quantity="few">За %d гадзіны</item>
-        <item quantity="many">За %d гадзін</item>
+        <item quantity="other">За %d гадзін да падзеі</item>
+        <item quantity="one">За %d гадзіну да падзеі</item>
+        <item quantity="few">За %d гадзіны да падзеі</item>
+        <item quantity="many">За %d гадзін да падзеі</item>
     </plurals>
     <plurals name="Nminutes">
-        <item quantity="other">За %d хвіліны</item>
-        <item quantity="one">За %d хвіліну</item>
-        <item quantity="few">За %d хвіліны</item>
-        <item quantity="many">За %d хвілінаў</item>
+        <item quantity="other">За %d хвілін да падзеі</item>
+        <item quantity="one">За %d хвіліну да падзеі</item>
+        <item quantity="few">За %d хвіліны да падзеі</item>
+        <item quantity="many">За %d хвілін да падзеі</item>
     </plurals>
     <plurals name="Nweeks">
-        <item quantity="other">За %d тыдня</item>
-        <item quantity="one">За %d тыдзень</item>
-        <item quantity="few">За %d тыдняў</item>
-        <item quantity="many">За %d тыдняў</item>
+        <item quantity="other">За %d тыдняў да падзеі</item>
+        <item quantity="one">За %d тыдзень да падзеі</item>
+        <item quantity="few">За %d тыдня да падзеі</item>
+        <item quantity="many">За %d тыдняў да падзеі</item>
     </plurals>
     <plurals name="anniversary_day">
         <item quantity="other">%1$s дня</item>
@@ -126,6 +126,30 @@
         <item quantity="few">+%d</item>
         <item quantity="many">+%d</item>
     </plurals>
+    <plurals name="reminder_custom_unit_day">
+        <item quantity="other">" дзён"</item>
+        <item quantity="one">" дзень"</item>
+        <item quantity="few">" дні"</item>
+        <item quantity="many">" дзён"</item>
+    </plurals>
+    <plurals name="reminder_custom_unit_hour">
+        <item quantity="other">" гадзін"</item>
+        <item quantity="one">" гадзіна"</item>
+        <item quantity="few">" гадзіны"</item>
+        <item quantity="many">" гадзін"</item>
+    </plurals>
+    <plurals name="reminder_custom_unit_minute">
+        <item quantity="other">" хвілін"</item>
+        <item quantity="one">" хвіліна"</item>
+        <item quantity="few">" хвіліны"</item>
+        <item quantity="many">" хвілін"</item>
+    </plurals>
+    <plurals name="reminder_later_toast">
+        <item quantity="other">Наступны напамін праз %1$d хвілін</item>
+        <item quantity="one">Наступны напамін праз %1$d хвіліну</item>
+        <item quantity="few">Наступны напамін праз %1$d хвіліны</item>
+        <item quantity="many">Наступны напамін праз %1$d хвілін</item>
+    </plurals>
     <plurals name="repeat_custom_prompt">
         <item quantity="other">кожныя %1$s у %2$s</item>
         <item quantity="one">кожны %1$s у %2$s</item>
@@ -155,12 +179,6 @@
         <item quantity="one">%1$d год</item>
         <item quantity="few">%1$d гады</item>
         <item quantity="many">%1$d гадоў</item>
-    </plurals>
-    <plurals name="travel_eta_advice">
-        <item quantity="other">%2$s хвілінах язды %1$s.</item>
-        <item quantity="one">%2$s хвіліне язды %1$s.</item>
-        <item quantity="few">%2$s хвілінах язды %1$s.</item>
-        <item quantity="many">%2$s хвілінах язды %1$s.</item>
     </plurals>
     <plurals name="weekN">
         <item quantity="other">ТЫДЗЕНЬ %d</item>

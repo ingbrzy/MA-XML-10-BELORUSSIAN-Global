@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="accept">OK</string>
     <string name="app_name">Службы Xiaomi</string>
     <string name="error_device_id_message">"Несапраўдны ID прылады: %s
  ID прылады мусіць быць сапраўдным IMEI ці MAC адрасам. Без ID прылады некаторыя функцыі Mi Акаўнта і Mi Cloud не будуць даступны."</string>
@@ -11,6 +10,5 @@
     <string name="pop_up_allow_notify_dialog">Дазволіць</string>
     <string name="pop_up_deny_notify_dialog">Забараніць</string>
     <string name="sync_notification_title_format">Сінхранізацыя: %1$s</string>
-    <string name="xiaomi_cloud_service">Mi Cloud</string>
     <string name="xmsf_activate_info">Інфармацыя атывацыі XMSF</string>
 </resources>

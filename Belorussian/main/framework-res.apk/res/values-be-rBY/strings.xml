@@ -23,6 +23,7 @@
     <string name="dialog_alert_title">Увага</string>
     <string name="VideoView_error_text_invalid_progressive_playback">Відэа не падыходзіць для патокавай перадачы на ​​гэту прыладу.</string>
     <string name="selectTextMode">Выбраць тэкст</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="fingerprint_icon_content_description">Значок адбіткаў пальцаў</string>
     <string name="paste_as_plain_text">Уставіць як звычайны тэкст</string>
     <string name="autofill">Аўтазапаўненне</string>
@@ -357,6 +358,7 @@
     <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
     <string name="fcComplete">"Код аб'екта завершаны."</string>
     <string name="fcError">Праблема падлучэння ці няправільны код функцыі.</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="find">Пошук</string>
     <string name="find_next">Знайсці нiжэй</string>
     <string name="find_on_page">Знайсці на старонцы</string>
@@ -543,6 +545,7 @@
     <string name="kg_reordering_delete_drop_target_text">Выдалiць</string>
     <string name="kg_sim_pin_instructions">Увядзіце PIN-код SIM-карты</string>
     <string name="kg_sim_unlock_progress_dialog_message">Разблакiроўка SIM-карты...</string>
+    <string name="kg_text_message_separator">" — "</string>
     <string name="kg_too_many_failed_password_attempts_dialog_message">"Вы няправільна ўвялі пароль пэўную колькасць разоў: %1$d. 
 
 Паўтарыце спробу праз %2$d с."</string>
@@ -806,6 +809,7 @@
     <string name="notification_channel_wfc">Wi-Fi-тэлефанія</string>
     <string name="notification_hidden_text">Змесціва схавана</string>
     <string name="notification_listener_binding_label">Слухач апавяшчэння</string>
+    <string name="notification_messaging_title_template">%1$s: %2$s</string>
     <string name="notification_ranker_binding_label">Служба ацэнкі важнасці апавяшчэнняў</string>
     <string name="notification_title">Памылка ўваходу ва ўлiковы запiс %1$s</string>
     <string name="notification_work_profile_content_description">Працоўны профіль</string>
@@ -1093,7 +1097,6 @@
     <string name="phoneTypeWork">Працоўны</string>
     <string name="phoneTypeWorkMobile">Працоўны мабільны нумар</string>
     <string name="phoneTypeWorkPager">Працоўны пэйджар</string>
-    <string name="pin_target">Замацаваць</string>
     <string name="policydesc_disableCamera">Забараніць выкарыстанне ўсіх камер прылады.</string>
     <string name="policydesc_disableKeyguardFeatures">Забараніць выкарыстанне некаторых функцый блакіроўкі экрана.</string>
     <string name="policydesc_encryptedStorage">Запыт на шыфраванне захаваных дадзеных прыкладанняў.</string>
@@ -1342,7 +1345,6 @@
     <string name="turn_on_radio">Уключыць бесправадную сетку</string>
     <string name="tutorial_double_tap_to_zoom_message_short">Націсніце двойчы, каб кіраваць маштабаваннем</string>
     <string name="undo">Адрабіць</string>
-    <string name="unpin_target">Адмацаваць</string>
     <string name="unsupported_display_size_message">%1$s не падтрымлівае бягучую наладу Памеру дысплэя і можа паводзіць сябе непрадказальным чынам.</string>
     <string name="unsupported_display_size_show">Заўсёды паказваць</string>
     <string name="upload_file">Выберыце файл</string>
@@ -1361,9 +1363,6 @@
     <string name="use_a_different_app">Выкарыстоўваць іншую праграму</string>
     <string name="user_creation_account_exists">Дазволіць %1$s стварыць новага Карыстальніка з уліковым запісам %2$s?</string>
     <string name="user_creation_adding">Дазволіць %1$s стварыць новага Карыстальніка з уліковым запісам %2$s (Карыстальнік з гэтым уліковым запісам ужо існуе)?</string>
-    <string name="user_encrypted_detail">Карыст. даныя заблакіраваны</string>
-    <string name="user_encrypted_message">Краніце, каб разблакіраваць</string>
-    <string name="user_encrypted_title">Частка функц. можа быць абмеж.</string>
     <string name="user_logging_out_message">%1$s выходзіць з сістэмы…</string>
     <string name="user_owner_label">Пераключыцца на асабісты</string>
     <string name="user_switched">Бягучы карыстальнік %1$s.</string>
@@ -1466,5 +1465,6 @@
     <string name="zen_mode_feature_name">Не турбаваць</string>
     <string name="zen_mode_forever">Пакуль вы не выключыце рэжым \"Не турбаваць\"</string>
     <string name="zen_mode_forever_dnd">Пакуль вы не выключыце рэжым «Не турбаваць»</string>
+    <string name="zen_mode_rule_name_combination">%1$s / %2$s</string>
     <string name="zen_mode_until">Да %1$s</string>
 </resources>

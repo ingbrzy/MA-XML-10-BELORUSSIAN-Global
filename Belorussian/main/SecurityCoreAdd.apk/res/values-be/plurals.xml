@@ -12,16 +12,16 @@
         <item quantity="few">%d апавяшчэнні ў Першай прасторы</item>
         <item quantity="many">%d апавяшчэнняў у Першай прасторы</item>
     </plurals>
-    <plurals name="second_space_notification_format">
-        <item quantity="other">%d апавяшчэння ў Другой прасторы</item>
-        <item quantity="one">%d апавяшчэнне ў Другой прасторы</item>
-        <item quantity="few">%d апавяшчэнні ў Другой прасторы</item>
-        <item quantity="many">%d апавяшчэнняў у Другой прасторы</item>
-    </plurals>
     <plurals name="search_app_count_txt_na">
         <item quantity="other">Пошук %d праграмы</item>
         <item quantity="one">Пошук %d праграмы</item>
         <item quantity="few">Пошук %d праграм</item>
         <item quantity="many">Пошук %d праграм</item>
+    </plurals>
+    <plurals name="second_space_notification_format">
+        <item quantity="other">%d апавяшчэння ў Другой прасторы</item>
+        <item quantity="one">%d апавяшчэнне ў Другой прасторы</item>
+        <item quantity="few">%d апавяшчэнні ў Другой прасторы</item>
+        <item quantity="many">%d апавяшчэнняў у Другой прасторы</item>
     </plurals>
 </resources>

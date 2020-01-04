@@ -111,6 +111,7 @@
     <string name="cast_forward">Наперад</string>
     <string name="cast_forward_10">Дзесяць секунд наперад</string>
     <string name="cast_forward_30">Трыццаць секунд наперад</string>
+    <string name="cast_intro_overlay_button_text">\@android:string/ok</string>
     <string name="cast_mute">Адключыць гук</string>
     <string name="cast_notification_connected_message">Падключэнне да %1$s выканана</string>
     <string name="cast_notification_connecting_message">Падключэнне да %1$s</string>
@@ -508,6 +509,7 @@ ID:%s
     <string name="notice_title">Паведамленні</string>
     <string name="notify_apk_installed">Спампавана паспяхова</string>
     <string name="ok">OК</string>
+    <string name="order_alphabet">А-Я</string>
     <string name="order_recently_subscribe">Новыя падпіскі</string>
     <string name="order_recently_updated">Нядаўна абноўлена</string>
     <string name="ovp_alert_dialog_download_install_task">Спампоўка HD-убудовы</string>
@@ -907,6 +909,7 @@ ID:%s
     <string name="sns_bind_limit">Занадта шмат спробаў. Паспрабуйце іншыя спосабы ўваходу.</string>
     <string name="sns_sign_in">Іншыя спосабы ўваходу</string>
     <string name="source">"Крыніца: "</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_external_sdcard">SD-карта</string>
     <string name="storage_internal_sdcard">Унутраная памяць</string>
     <string name="submit">Адправіць</string>

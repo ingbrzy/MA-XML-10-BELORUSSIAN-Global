@@ -22,8 +22,10 @@
     <string name="cloud_status_full_dialog_ok">Абнавіць</string>
     <string name="cloud_status_full_dialog_title">Сховішча Xiaomi Cloud запоўнена</string>
     <string name="data_connection_body">Выкарыстанне мабільнага інтэрнэту для спампоўкі гэтага файла павялічыць расход трафіка. Калі вы перавысіце ліміт трафіка, усталяваны вашым тарыфам, ваш аператар сувязі можа спаганяць дадатковую плату.</string>
+    <string name="data_connection_button_text">OK</string>
     <string name="data_connection_title">Папярэджанне аб выкарыстанні дадзеных</string>
     <string name="delete">Выдаліць</string>
+    <string name="delete_cloud_data_at_same_time">Таксама выдаліць з воблака</string>
     <string name="delete_dialog_message">Выдаліць выбраны запіс?</string>
     <string name="deleting_message">Выдаленне…</string>
     <string name="details">Падрабязнасці</string>
@@ -77,6 +79,7 @@
     <string name="loading_order_list">Хвілінку…</string>
     <string name="loading_order_list_empty">Тут няма заказаў.</string>
     <string name="low_battery_error">Засталося менш за 5% зараду батарэі. Спыніце і захавайце ваш запіс, каб не страціць дадзеныя.</string>
+    <string name="low_battery_error_confirm">OK</string>
     <string name="low_battery_error_title">Нізкі ўзровень зараду</string>
     <string name="lyric_item_point_count">%1$d да %2$d</string>
     <string name="mark_point_list_title">Пазнакі</string>
@@ -105,6 +108,7 @@
     <string name="online_recognize_duration_limite">(Пачынаючы з 10 хвілін)</string>
     <string name="online_recognize_fail">Памылка расшыфроўкі</string>
     <string name="online_recognize_login_fail">Немагчыма ўвайсці</string>
+    <string name="online_recognize_order_audio_price">%s CNY</string>
     <string name="online_recognize_order_create">Уваход</string>
     <string name="online_recognize_order_duration_key">Працягласць</string>
     <string name="online_recognize_order_pay">Аплаціць і праглядзець вынікі</string>
@@ -125,6 +129,7 @@
     <string name="online_recognize_service_unavailable">Сэрвіс недаступны. Пачакайце адну-дзве хвіліны і паспрабуйце ізноў.</string>
     <string name="order_item_duration">Працягласць: %s</string>
     <string name="order_item_number">Нумар заказу: %s</string>
+    <string name="order_item_price">%s CNY</string>
     <string name="path_soundrecorder_setting">Сістэмныя праграмы/Дыктафон</string>
     <string name="pause">Паўза</string>
     <string name="pay_error_cancel">Плацёж адменены</string>
@@ -139,6 +144,8 @@
     <string name="preference_online_orders">Анлайн-заказы</string>
     <string name="preference_recog_faqs">Частыя пытанні пра анлайн расшыфроўку аўдыё</string>
     <string name="preference_recog_terms">Умовы выкарыстання</string>
+    <string name="preference_record_desktop_indicator_summary">Адлюстроўваць сіні індыкатар на працоўным стале, калі Дыктафон запушчаны ў фонавым рэжыме</string>
+    <string name="preference_record_desktop_indicator_title">Індыкатар на працоўным стале</string>
     <string name="preference_record_scenes_dialog_title">Выберыце тып запісу</string>
     <string name="preference_scenes">Рэжым запісу</string>
     <string name="preference_silent_mode">Адключыць гук выкліку пры запісу</string>
@@ -189,12 +196,15 @@
     <string name="record_format_preference_title">Фармат запісу</string>
     <string name="record_list">Запісы</string>
     <string name="record_list_call">Запісаныя выклікі</string>
+    <string name="record_list_category_title_format">MMMM yyyy</string>
     <string name="record_list_cloud">Сінхранізаваныя запісы</string>
     <string name="record_list_cloud_call">Сінхранізаваныя запісы выклікаў</string>
     <string name="record_list_cloud_fm">Сінхранізаваныя FM запісы</string>
     <string name="record_list_fm">FM запісы</string>
     <string name="record_list_item_recognize_text">Тэкст</string>
     <string name="record_mark_point">Пазнака %s</string>
+    <string name="record_name_hour">.</string>
+    <string name="record_name_minute" />
     <string name="record_quliaty_preference_title">Якасць запісу</string>
     <string name="record_resotre">Аднавіць запісы</string>
     <string name="recording">Запіс</string>
@@ -259,6 +269,9 @@
     <string name="text_play_speed_1_0">Звычайная хуткасць прайгравання</string>
     <string name="text_play_speed_1_5">Хуткасць прайгравання 1,5X</string>
     <string name="text_play_speed_2_0">Хуткасць прайгравання 2X</string>
+    <string name="timer_format" formatted="false">%02d:%02d</string>
+    <string name="timer_format_three_sections" formatted="false">%02d:%02d:%02d</string>
+    <string name="title_activity_recinbox_sdk_browser">RecinboxSdkBrowser</string>
     <string name="toast_max_record_time">%1$s можа запісаць максімум %2$s</string>
     <string name="toast_uninstall_fileexplorer">Праваднік не ўсталяваны</string>
     <string name="usage_description">"Расшыфроўка аўдыё і сінхранізацыя аб'ектаў з воблакам"</string>

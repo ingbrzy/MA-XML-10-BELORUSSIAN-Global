@@ -17,6 +17,7 @@
     <string name="cannot_change_parames">Немагчыма змяніць параметры ў момант запісу</string>
     <string name="cannot_record">Немагчыма запісаць, паўтарыце пазней.</string>
     <string name="close_screen_record">Спыненне запісу</string>
+    <string name="date_day" />
     <string name="date_month">.</string>
     <string name="date_year">.</string>
     <string name="description_content">Праграма \"Запіс экрана\" забяспечвае магчымасць запісу экрана на сістэмным узроўні. Перад выдаленнем дадатку пераканайцеся, што вы зможаце абысціся без гэтых функцый.</string>
@@ -91,6 +92,7 @@
     <string name="stop_recording">Спыніць запіс</string>
     <string name="storage_location">Сховішча</string>
     <string name="storage_location_summary">Выберыце пераважны варыянт захоўвання</string>
+    <string name="timer_format">%s</string>
     <string name="unchecked">Не выбрана</string>
     <string name="using_record_confirm_cancel">Абмежаваць</string>
     <string name="using_record_confirm_ok">Дазволіць</string>

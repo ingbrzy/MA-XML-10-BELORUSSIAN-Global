@@ -61,6 +61,13 @@
     <string name="call_anyone">Выклік</string>
     <string name="camera_error_title">Памылка камеры</string>
     <string name="cancel">Скасаваць</string>
+    <string name="carsHome_title">Аўтамабіль</string>
+    <string name="cars_is_public">Запушчана</string>
+    <string name="cars_no_public">Не запушчана</string>
+    <string name="cars_solution">"Рашэнне: "</string>
+    <string name="cars_suitability">"Супадзенне: "</string>
+    <string name="cars_title">Сканаваць аўтамабіль або яго частку</string>
+    <string name="carshome_data">Тэхнічная падтрымка прадастаўляецца Autohome Inc.</string>
     <string name="check_for_updates">Праверыць наяўнасць абнаўленняў для бэта-версіі</string>
     <string name="choose_open_code_app">Выберыце праграму</string>
     <string name="choose_pay_title">Выберыце спосаб аплаты</string>
@@ -78,6 +85,7 @@
     <string name="continue_waiting">Чакаем яшчэ</string>
     <string name="copy_text">Капіяваць тэкст</string>
     <string name="copy_text_success">Тэкст скапіяваны</string>
+    <string name="copy_tracknum">Капіяваць код адсочвання</string>
     <string name="crop_cancel_description">Скасаваць</string>
     <string name="crop_done_description">Зроблена</string>
     <string name="crop_title_study">Абрэзаць фота</string>
@@ -137,10 +145,12 @@
     <string name="got_it">Зразумела</string>
     <string name="gps">Навігацыя</string>
     <string name="import_contact">Імпарт кантакту</string>
-    <string name="impunity_declaration_content">"Сканару патрабуецца доступ да вашай камеры для апрацоўкі выяў, створаных пры выкарыстанні праграмы. Не выкарыстоўвайце Сканер для здымкі аб'ектаў, якія змяшчаюць вашыя асабістыя дадзеныя. Націснуўшы «Згадзіцца», вы прымаеце нашу &lt;&lt;xliff:bpt id=privacy>&lt;font color=\"#ff32b4ff\">&lt;a href=\"http://privacy.mi.com/all/%1$s\" style=\"color:#ff32b4ff;\">&lt;/xliff:bpt>Палітыку прыватнасці&lt;xliff:ept id=privacy>&lt;/a>&lt;/font>&lt;/xliff:ept> і дазваляеце Сканару падлучацца да інтэрнэту."</string>
+    <string name="impunity_declaration_content">"Сканару патрабуецца доступ да вашай камеры для апрацоўкі выяў, створаных пры выкарыстанні праграмы. Не выкарыстоўвайце Сканер для здымкі аб'ектаў, якія змяшчаюць вашыя асабістыя дадзеныя. Націснуўшы «Згадзіцца», вы прымаеце нашу &lt;&lt;xliff:bpt id=privacy>&lt;font color=\"#ff32b4ff\">&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\">&lt;/xliff:bpt>Палітыку прыватнасці&lt;xliff:ept id=privacy>&lt;/a>&lt;/font>&lt;/xliff:ept> і дазваляеце Сканару падлучацца да інтэрнэту."</string>
     <string name="impunity_declaration_negative_text">Выхад</string>
     <string name="impunity_declaration_title">Палітыка канфідэнцыяльнасці</string>
     <string name="jd_shopping_title">Пошук на JD</string>
+    <string name="jingdong">JD</string>
+    <string name="kuaidi100_data">Падтрымка: Kuaidi 100</string>
     <string name="label_choose_picture">Выберыце малюнак</string>
     <string name="label_flash_light">Успышка</string>
     <string name="language_entry_chinese_cn">Кітайская (спрошчаная)</string>
@@ -150,6 +160,7 @@
     <string name="language_entry_japanese">Японская</string>
     <string name="language_entry_korean">Карэйская</string>
     <string name="language_entry_spanish">Гішпанская</string>
+    <string name="logistics">Экспрэс-дастаўка</string>
     <string name="low_version_tip">Каб скарыстацца Сканерам абнавіце MIUI да апошняй версіі.</string>
     <string name="miracast_connect">Трансляцыя</string>
     <string name="miracast_connect_fail">Памылка, паспрабуйце зноў</string>
@@ -158,6 +169,7 @@
     <string name="miracast_message">Трансляваць на %s?</string>
     <string name="miracast_switch_off">Бесправадны дысплэй адключаны</string>
     <string name="miracast_switch_tip">Уключыце бесправадны дысплэй, каб выкарыстоўваць гэтую функцыю</string>
+    <string name="mishop">Mi Store</string>
     <string name="module_title_business_card">Візітка</string>
     <string name="module_title_code">QR-код</string>
     <string name="module_title_document">Дакумент</string>
@@ -176,6 +188,7 @@
     <string name="not_insert_contact">Немагчыма дадаць кантакт</string>
     <string name="not_recommend_access_web_url">Усё роўна перайсці</string>
     <string name="note">Нататка:</string>
+    <string name="now_state">"Бягучы статус: "</string>
     <string name="once">Толькі раз</string>
     <string name="open_url">Адкрыць URL</string>
     <string name="pay_no_tip">Больш не паказваць</string>
@@ -188,10 +201,16 @@
     <string name="plant_reg_fail_2">"Не атрымалася распазнаць гэты аб'ект. Сканар можа распазнаваць толькі расліны."</string>
     <string name="plant_support">" (Тэхнічная падтрымка)"</string>
     <string name="plant_title">Навядзіце сканер на расліну</string>
+    <string name="please_try_again_later">Пачакайце хвіліну ці дзве і паўтарыце спробу</string>
     <string name="preparing_sd">Падрыхтоўка ўнутранага сховішча…</string>
     <string name="previous">Назад</string>
     <string name="prompt">Увага</string>
     <string name="qr_code_details">Інфармацыя аб QR-кодзе:</string>
+    <string name="queryNum">Праверыць замову</string>
+    <string name="query_faile">Статус і падрабязнасці замовы яшчэ не сінхранізаваныя. Праверце сваю замову ўручную.</string>
+    <string name="query_inai">Дазвольце Mi AI дапамагчы вам</string>
+    <string name="query_more">Больш падрабязна</string>
+    <string name="query_tracknum">Праверыць замову экспрэс-дастаўкі</string>
     <string name="recognize">Сканаваць</string>
     <string name="recognize_fail">Немагчыма прачытаць код</string>
     <string name="request_server_failed">Не атрымалася падлучыцца да сервера</string>
@@ -200,6 +219,7 @@
     <string name="sdk_not_ready">Падрыхтоўка SDK. Паўтарыце зноў пазней.</string>
     <string name="secure_access_web_url">Перайсці на сайт</string>
     <string name="see_app_details">Праглядзець інфармацыю аб праграме</string>
+    <string name="see_details">Націсніце для прагляду падрабязнасцей</string>
     <string name="select_dialog_confirm">OК</string>
     <string name="send_mail">Адправіць Email</string>
     <string name="setting_alipay">AliPay</string>
@@ -214,6 +234,13 @@
     <string name="shopping_title">Зрабіце фота тавару</string>
     <string name="shopping_vendor_info">Зроблена Taobao</string>
     <string name="spaceIsLow_content">Недастаткова прасторы на ўнутраным сховішчы.</string>
+    <string name="store_feedback_prompt">Спачатку ўвядзіце водгук</string>
+    <string name="store_location_dialog">Гэтая паслуга прадастаўляецца Dianping. Усе фотаздымкі, якія вы здымаеце з дапамогай гэтай паслугі, у тым ліку звязаныя з месцазнаходжаннем інфармацыя, будуць перададзеныя ў Dianping для атрымання звестак аб крамах.</string>
+    <string name="store_location_fail">Не ўдалося атрымаць звесткі пра месцазнаходжанне</string>
+    <string name="store_location_prompt">Дазвольце Сканеру атрымліваць доступ да вашага месцазнаходжанню, каб ідэнтыфікаваць крамы</string>
+    <string name="store_module_title">Крама</string>
+    <string name="store_no_date">Не атрымалася ідэнтыфікаваць краму</string>
+    <string name="store_title">Сканаваць шыльду крамы</string>
     <string name="study_rotate_picture">Апрацоўка выявы…</string>
     <string name="study_scan_result">Вынік</string>
     <string name="study_searching">Пошук вынікаў…</string>
@@ -221,6 +248,7 @@
     <string name="study_vendor_info">Падтрымка: Zuoyebang</string>
     <string name="suggested_submission_success">Ваш водгук паспяхова адпраўлены</string>
     <string name="switch_open">Уключыць</string>
+    <string name="taobao">Taobao</string>
     <string name="tel">Тэлефон</string>
     <string name="title">Пасада:</string>
     <string name="to_install_title">Гэта QR-код перанакіроўвае вас да неўсталяванай праграмы. Спампаваць гэтую праграму зараз?</string>
@@ -261,6 +289,7 @@
     <string name="url_is_unknown">Немагчыма праверыць бяспечнасць сайта</string>
     <string name="url_is_unsafety">Гэты сайт небяспечны</string>
     <string name="vender_info_translation_kingsoft">Зроблена Kingsoft</string>
+    <string name="waybill_num">"Замова: "</string>
     <string name="web">Сайт:</string>
     <string name="website_details">Cайт:</string>
     <string name="weixin_code_tip">Сканаваць гэты QR-код з дапамогай WeChat</string>
@@ -274,6 +303,8 @@
     <string name="wifi_ssid">SSID:</string>
     <string name="will_be_sent_tothe_background_review">" (Ваша заяўка будзе адпраўлена на разгляд у бліжэйшы час)."</string>
     <string name="wx_not_installed_toast">Гэтай функцыі патрабуецца WeChat. Спачатку ўсталюйце WeChat.</string>
+    <string name="xiaoai_dialog">"Паспрабуйце сказаць, што вы
+хочаце сканаваць ў Mi AI"</string>
     <string name="you_have_permission_to_download">Націсніце для запампоўкі бэта-версіі</string>
     <string name="you_id">"Ваш ID: "</string>
     <string name="your_application_is_under_review">" (Ваша заяўка будзе разгледжана ў бліжэйшы час)."</string>

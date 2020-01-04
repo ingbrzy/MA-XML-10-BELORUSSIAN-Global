@@ -18,9 +18,11 @@
     <string name="motion_behavior">Пераважны жэст</string>
     <string name="name_alipay_payment_code">Аплата праз Alipay</string>
     <string name="name_alipay_scan">Сканер Alipay</string>
+    <string name="name_all_mipay_cards">Mi Pay</string>
     <string name="name_handy_mode">Рэжым кіравання адной рукой</string>
     <string name="name_long_press_power_key">Доўгі націск кнопкі сілкавання</string>
     <string name="name_memory_clean">Ачысціць кэш</string>
+    <string name="name_mi_wallet">Mi Wallet</string>
     <string name="name_music_next_song">Наступная песня</string>
     <string name="name_music_prev_song">Папярэдняя песня</string>
     <string name="name_music_toggle">Прайграванне/Паўза песні</string>

@@ -12,6 +12,18 @@
         <item quantity="few">"%d аб'екты"</item>
         <item quantity="many">"%d аб'ектаў"</item>
     </plurals>
+    <plurals name="confirm_delete_cloud_records">
+        <item quantity="other">Выдаліць %d запісаў з воблака?</item>
+        <item quantity="one">Выдаліць %d запіс з воблака?</item>
+        <item quantity="few">Выдаліць %d запісы з воблака?</item>
+        <item quantity="many">Выдаліць %d запісаў з воблака?</item>
+    </plurals>
+    <plurals name="confirm_delete_records">
+        <item quantity="other">Выдаліць %d запісаў?</item>
+        <item quantity="one">Выдаліць %d запіс?</item>
+        <item quantity="few">Выдаліць %d запісы?</item>
+        <item quantity="many">Выдаліць %d запісаў?</item>
+    </plurals>
     <plurals name="local_records_count">
         <item quantity="other">%d запісу</item>
         <item quantity="one">%d запіс</item>

@@ -59,13 +59,20 @@
     <string name="music_delete_sound_title">Выдаленне прасэтаў</string>
     <string name="music_dirac_control">Паляпшэнне якасці гуку</string>
     <string name="music_dirac_mode_cancelling">Mi Шумападаўленне 3,5 мм</string>
+    <string name="music_dirac_mode_capsule">Mi Capsule</string>
     <string name="music_dirac_mode_earbuds">Mi-навушнікі</string>
     <string name="music_dirac_mode_general">Звычайныя навушнікі</string>
     <string name="music_dirac_mode_general_earbuds">Звычайныя навушнікі</string>
     <string name="music_dirac_mode_general_inear">Звычайныя ўкладышы</string>
     <string name="music_dirac_mode_half_in_ear">Mi-укладышы</string>
     <string name="music_dirac_mode_headset">Mi навушнікі</string>
+    <string name="music_dirac_mode_headset_comfort">Mi Comfort</string>
     <string name="music_dirac_mode_in_ear">Mi-укладышы</string>
+    <string name="music_dirac_mode_in_ear2">Mi In-Ear 2</string>
+    <string name="music_dirac_mode_in_ear_2013">Mi In-Ear (2013)</string>
+    <string name="music_dirac_mode_in_ear_pro">Mi In-Ear Pro</string>
+    <string name="music_dirac_mode_india_earphones">Mi Earphones</string>
+    <string name="music_dirac_mode_india_earphones_basic">Mi Earphones Basic</string>
     <string name="music_dirac_mode_off">Рэжым \"Dirac\" выключаны</string>
     <string name="music_dirac_mode_piston_1">Mi-пістоны 1</string>
     <string name="music_dirac_mode_piston_100">Mi-пістоны</string>
@@ -114,6 +121,7 @@
     <string name="music_sound_sample">Сістэмныя папярэднія прасэты</string>
     <string name="music_sure_to_delete_sound_msg">Выдаліць выбраныя прасэты цяпер?</string>
     <string name="music_thirty_to_sixty_years">Ад 30 да 60 гадоў</string>
+    <string name="music_title_dolby_control">Dolby Digital Plus</string>
     <string name="music_unsupport_effect_summary">USB гарнітуры не падтрымліваюцца</string>
     <string name="music_upper_sixty_years">Старэй за 60 гадоў</string>
     <string name="name">Імя</string>
@@ -125,6 +133,7 @@
     <string name="second_note">Надзеньце навушнікі.</string>
     <string name="sound_test_title">Тэст гукавога ўспрымання</string>
     <string name="start_test_sound">Пачаць тэст</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="sure_give_up_test">Калі вы спыніце тэст, вам прыйдзецца пачаць яго нанова. Спыніць тэст?</string>
     <string name="sure_to_back">Адмяніць змены?</string>
     <string name="third_note">Знайдзіце ціхае месца.</string>

@@ -48,6 +48,30 @@
         <item quantity="few">%d секунды</item>
         <item quantity="many">%d секунд</item>
     </plurals>
+    <plurals name="sleep_duration_hour">
+        <item quantity="other">%1$s гадзін</item>
+        <item quantity="one">%1$s гадзіна</item>
+        <item quantity="few">%1$s гадзіны</item>
+        <item quantity="many">%1$s гадзін</item>
+    </plurals>
+    <plurals name="sleep_duration_hour_avg">
+        <item quantity="other">%1$s гадз.</item>
+        <item quantity="one">%1$s гадз.</item>
+        <item quantity="few">%1$s гадз.</item>
+        <item quantity="many">%1$s гадз.</item>
+    </plurals>
+    <plurals name="sleep_duration_min">
+        <item quantity="other">%1$s хвілін</item>
+        <item quantity="one">%1$s хвіліна</item>
+        <item quantity="few">%1$s хвіліны</item>
+        <item quantity="many">%1$s хвілін</item>
+    </plurals>
+    <plurals name="sleep_duration_min_avg">
+        <item quantity="other">%1$s хв.</item>
+        <item quantity="one">%1$s хв.</item>
+        <item quantity="few">%1$s хв.</item>
+        <item quantity="many">%1$s хв.</item>
+    </plurals>
     <plurals name="snooze_duration_changed_info">
         <item quantity="other">Інтэрвал паўтору зменены на %d хвілін</item>
         <item quantity="one">Інтэрвал паўтору зменены на %d хвіліну</item>

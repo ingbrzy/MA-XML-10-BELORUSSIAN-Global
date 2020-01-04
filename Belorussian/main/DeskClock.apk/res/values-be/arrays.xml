@@ -52,6 +52,17 @@
         <item>25 хвілін</item>
         <item>30 хвілін</item>
     </string-array>
+    <string-array name="bedtime_guide_repeat_type">
+        <item>З панядзелка па пятніцу</item>
+        <item>Штодзённа</item>
+        <item>Працоўныя дні</item>
+    </string-array>
+    <string-array name="bedtime_repeat_entries">
+        <item>Кожны дзень</item>
+        <item>З панядзелка па пятніцу</item>
+        <item>Працоўныя дні</item>
+        <item>Карыстальніцкі</item>
+    </string-array>
     <string-array name="cities_names_miui">
         <item>Абіджан</item>
         <item>Акра</item>
@@ -633,6 +644,22 @@
         <item>Сурынам</item>
         <item>Эквадор</item>
     </string-array>
+    <string-array name="days_of_week">
+        <item>Ндз</item>
+        <item>Пан</item>
+        <item>Аўт</item>
+        <item>Сер</item>
+        <item>Чац</item>
+        <item>Птн</item>
+        <item>Суб</item>
+    </string-array>
+    <string-array name="notification_adv_time_entries">
+        <item>У вызначаны час</item>
+        <item>За 15 хвілін</item>
+        <item>За 30 хвілін</item>
+        <item>За 1 гадзіну</item>
+        <item>Няма</item>
+    </string-array>
     <string-array name="snooze_duration_entries">
         <item>1 хвіліна</item>
         <item>5 хвілін</item>
@@ -641,6 +668,15 @@
         <item>20 хвілін</item>
         <item>25 хвілін</item>
         <item>30 хвілін</item>
+    </string-array>
+    <string-array name="snooze_duration_values">
+        <item>1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
     </string-array>
     <string-array name="time">
         <item>%1$s</item>
@@ -664,5 +700,10 @@
         <item>Нічога не рабіць</item>
         <item>Адкласці</item>
         <item>Адключыць</item>
+    </string-array>
+    <string-array name="volume_button_setting_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
     </string-array>
 </resources>

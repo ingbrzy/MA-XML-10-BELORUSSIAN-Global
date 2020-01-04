@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="comment_model_watch_reply">
+        <item quantity="other">Паглядзець %d адказа</item>
+        <item quantity="one">Паглядзець %d адказ</item>
+        <item quantity="few">Паглядзець %d адказа</item>
+        <item quantity="many">Паглядзець %d адказаў</item>
+    </plurals>
     <plurals name="feed_back_home">
         <item quantity="other">Зварот на галоўную старонку праз %1$d секунд…</item>
         <item quantity="one">Зварот на галоўную старонку праз %1$d секунду…</item>
@@ -29,6 +35,12 @@
         <item quantity="one">%d відэа</item>
         <item quantity="few">%d відэа</item>
         <item quantity="many">%d відэа</item>
+    </plurals>
+    <plurals name="notice_user_banned">
+        <item quantity="other">"Ваш кантэнт змяшчае аб'екты (%1$s), якія парушаюць стандарты нашай супольнасці. Ваш акаўнт заблакаваны на %2$d дня да %3$s."</item>
+        <item quantity="one">"Ваш кантэнт змяшчае аб'екты (%1$s), якія парушаюць стандарты нашай супольнасці. Ваш акаўнт заблакаваны на %2$d дзень да %3$s."</item>
+        <item quantity="few">"Ваш кантэнт змяшчае аб'екты (%1$s), якія парушаюць стандарты нашай супольнасці. Ваш акаўнт заблакаваны на %2$d дні да %3$s."</item>
+        <item quantity="many">"Ваш кантэнт змяшчае аб'екты (%1$s), якія парушаюць стандарты нашай супольнасці. Ваш акаўнт заблакаваны на %2$d дзён да %3$s."</item>
     </plurals>
     <plurals name="ovp_detail_v_video_count">
         <item quantity="other">%d відэа</item>

@@ -2,4 +2,5 @@
 <resources>
     <string name="mi_wallpaper_loading">Загрузка Мі Шпалер...</string>
     <string name="mi_wallpaper_title">Mi Шпалеры</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
 </resources>

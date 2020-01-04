@@ -111,6 +111,7 @@
     <string name="cast_forward">Наперад</string>
     <string name="cast_forward_10">Дзесяць секунд наперад</string>
     <string name="cast_forward_30">Трыццаць секунд наперад</string>
+    <string name="cast_intro_overlay_button_text">\@android:string/ok</string>
     <string name="cast_mute">Адключыць гук</string>
     <string name="cast_notification_connected_message">Падключэнне да %1$s выканана</string>
     <string name="cast_notification_connecting_message">Падключэнне да %1$s</string>
@@ -145,6 +146,27 @@
     <string name="collect_diagnosis_log">Збіраць журналы</string>
     <string name="com_permission_desc">Mi Відэа не можа атрымаць доступ да відэа на гэтай прыладзе. Дазвольце доступ у Наладах.</string>
     <string name="com_permission_title">Патрабуюцца дазволы</string>
+    <string name="comment_model_add_comment">Дадаць каментарый</string>
+    <string name="comment_model_bg_add_comment">Падзяліцеся сваімі думкамі з нашай супольнасцю</string>
+    <string name="comment_model_bg_deleted_comment">Гэты каментар быў выдалены</string>
+    <string name="comment_model_comment">Каментарыі</string>
+    <string name="comment_model_confirm_delete">Выдаліць каментар зараз?</string>
+    <string name="comment_model_copy">Капіяваць</string>
+    <string name="comment_model_copy_fail">Не атрымалася скапіяваць</string>
+    <string name="comment_model_copy_success">Паспяхова скапіявана</string>
+    <string name="comment_model_delete">Выдаліць</string>
+    <string name="comment_model_delete_fail">Не атрымалася выдаліць</string>
+    <string name="comment_model_delete_success">Паспяхова выдалена</string>
+    <string name="comment_model_reply">Адказы</string>
+    <string name="comment_model_reply_comment">"Адказаць %s: "</string>
+    <string name="comment_model_report">Паскардзіцца</string>
+    <string name="comment_model_report_fail">Не атрымалася паскардзіцца</string>
+    <string name="comment_model_report_success">Скарга паспяхова даслана</string>
+    <string name="comment_model_send_fail">Не атрымалася адправіць</string>
+    <string name="comment_model_send_fail_frequently">Не так хутка! Пачакайце крыху і паўтарыце спробу.</string>
+    <string name="comment_model_send_forbid_desc">"Вы апублікавалі некалькі каментароў, якія змяшчаюць аб'екты, якія парушаюць стандарты нашай супольнасці. Ваш акаўнт назаўжды заблякаваны. Вы можаце абскардзіць нашае рашэнне, выкарыстоўваючы функцыю водгука ў праграме."</string>
+    <string name="comment_model_send_forbid_tips">Акаўнт заблакаваны</string>
+    <string name="comment_model_send_success">Адпраўлена паспяхова</string>
     <string name="common_cancel">Скасаваць</string>
     <string name="common_google_play_services_enable_button">Уключыць</string>
     <string name="common_google_play_services_enable_text">%1$s не будзе працаваць, пакуль вы не ўключыце службы Google Play.</string>
@@ -176,7 +198,7 @@
     <string name="diagnosis_log_sent_format">"Журналы паспяхова адпраўленыя.
 ID:%s
 Адпраўце гэты код тэхперсаналу."</string>
-    <string name="dialog_privacy_info_new2">Для выкарыстання паслуг вы павінны пагадзіцца з тым, што %1$s будзе збіраць, апрацоўваць і выкарыстоўваць вашыя асабістыя дадзеныя. Націск на «Згадзіцца» ніжэй азначае, што вы прачыталі і прымаеце нашу &lt;a href=%2$s>Палітыку прыватнасці&lt;/a>.</string>
+    <string name="dialog_privacy_info_new2">Для выкарыстання паслуг вы павінны пагадзіцца з тым, што %1$s будзе збіраць, апрацоўваць і выкарыстоўваць вашыя асабістыя дадзеныя. Націск на «Згадзіцца» ніжэй азначае, што вы прачыталі і прымаеце нашу &lt;a href=\"%2$s\">Палітыку прыватнасці&lt;/a>.</string>
     <string name="dialog_privacy_title">Аўтарызацыя</string>
     <string name="dialog_revoke_privacy_info_new2">Пасля таго як вы адклічаце аўтарызацыю, праграма спыніць збор дадзеных, а таксама ўсе звязаныя з імі дадзеныя будуць выдалены з сервераў. Гэта можа зрабіць праграму практычна непрыдатнай для выкарыстання. Усё роўна адклікаць аўтарызацыю?</string>
     <string name="dialog_revoke_privacy_title">Адкліканне дазволу</string>
@@ -230,6 +252,7 @@ ID:%s
     <string name="favorite_cancel_success">Паспяхова выдалена з абраных</string>
     <string name="favorite_fail">Не атрымалася дадаць да абраных. Паўтарыце спробу пазней.</string>
     <string name="favorite_success">Паспяхова дададзена ў абранае</string>
+    <string name="fcm_fallback_notification_channel_label">Рознае</string>
     <string name="feedback">Водгук</string>
     <string name="feedback_activity_title">Водгук</string>
     <string name="feedback_contact_empty">Увядзіце сваю кантактную інфармацыю</string>
@@ -408,7 +431,7 @@ ID:%s
     <string name="lv_subtitle_onlinesub_loading">Загрузка субцітраў…</string>
     <string name="lv_subtitle_onlinesub_loading_wait">Загрузка субцітраў…</string>
     <string name="lv_subtitle_onlinesub_right_declare">Адмова ад адказнасці</string>
-    <string name="lv_subtitle_onlinesub_right_declare_content">Атрымаць субцітры &lt;br/>&lt;br/>з &lt;a href=http://www.opensubtitles.org>opensubtitles.org&lt;/a>&lt;br/>&lt;br/>Усе анлайн-субцітры прадастаўляюцца &lt;a href=http://www.opensubtitles.org>opensubtitles.org&lt;/a>.</string>
+    <string name="lv_subtitle_onlinesub_right_declare_content">Атрымаць субцітры &lt;br/>&lt;br/>з &lt;a href=\"http://www.opensubtitles.org\">opensubtitles.org&lt;/a>&lt;br/>&lt;br/>Усе анлайн-субцітры прадастаўляюцца &lt;a href=\"http://www.opensubtitles.org\">opensubtitles.org&lt;/a>.</string>
     <string name="lv_subtitle_onlinesub_save_failed">Немагчыма дадаць субцітры</string>
     <string name="lv_subtitle_onlinesub_save_success">Субцітры паспяхова дададзеныя</string>
     <string name="lv_subtitle_onlinesub_search_keyword">Увядзіце ключавыя словы для пошуку</string>
@@ -478,8 +501,15 @@ ID:%s
     <string name="no_recommend_data">Цяпер няма рэкамендуемых відэа</string>
     <string name="no_subscriptions">"Няма аб'ектаў"</string>
     <string name="not_show">Больш не паказваць</string>
+    <string name="notice_comment_action">%s пракаментаваў(-ла) вашу публікацыю</string>
+    <string name="notice_comment_action_deleted">Гэты каментар быў выдалены</string>
+    <string name="notice_feedback_content">Ёсць навіны пра ваш водгук. Націсніце для прагляду.</string>
+    <string name="notice_like_action">%s паставіў(-ла) лайк вашаму каментарыю</string>
+    <string name="notice_message_title">Апавяшчэнні</string>
+    <string name="notice_title">Паведамленні</string>
     <string name="notify_apk_installed">Спампавана паспяхова</string>
     <string name="ok">OК</string>
+    <string name="order_alphabet">А-Я</string>
     <string name="order_recently_subscribe">Новыя падпіскі</string>
     <string name="order_recently_updated">Нядаўна абноўлена</string>
     <string name="ovp_alert_dialog_download_install_task">Спампоўка HD-убудовы</string>
@@ -487,6 +517,7 @@ ID:%s
     <string name="ovp_category">Катэгорыі</string>
     <string name="ovp_confirm_delete_favor">"Выдаліць аб'екты з выбраных?"</string>
     <string name="ovp_default_plugin_name">HD-убудова</string>
+    <string name="ovp_detail_back_to_watch_more">"Знайдзіце больш аб'ектаў на галоўнай старонцы"</string>
     <string name="ovp_detail_collapse_summary">Схаваць</string>
     <string name="ovp_detail_collect">Дадаць у абранае</string>
     <string name="ovp_detail_comment">Каментарый</string>
@@ -529,12 +560,14 @@ ID:%s
     <string name="ovp_loading_video_netplay_label_v5">Хвілінку…</string>
     <string name="ovp_local_videos_title">Відэа на прыладзе</string>
     <string name="ovp_navigation_category">Катэгорыя</string>
+    <string name="ovp_navigation_content">Супрацоўніцтва ў сферы кантэнту</string>
     <string name="ovp_navigation_favorites">Абраныя</string>
     <string name="ovp_navigation_feedback">Водгук</string>
     <string name="ovp_navigation_history">Гісторыя</string>
     <string name="ovp_navigation_home">Дадому</string>
     <string name="ovp_navigation_language">Мова</string>
     <string name="ovp_navigation_localvideo">Лакальна</string>
+    <string name="ovp_navigation_notice">Апавяшчэння</string>
     <string name="ovp_navigation_setting">Галерэя</string>
     <string name="ovp_navigation_subscribe">Падпіска</string>
     <string name="ovp_player_plugin_dlg_neg_btn">Закрыць</string>
@@ -642,8 +675,8 @@ ID:%s
     <string name="passport_unknow_error">Невядомая памылка</string>
     <string name="passport_unknow_host_network_error">Праверце налады сеткі і паспрабуйце зноў</string>
     <string name="passport_unknow_network_error">Памылка далучэння да сеткі</string>
-    <string name="passport_user_agreement_link">&lt;Data>Я прачытаў(-ла) &lt;a href=%1$s>Карыстальніцкае пагадненне&lt;/a> і &lt;a href=%2$s>Палітыку прыватнасці&lt;/a> Xiaomi і згодны(-ая) з імі.&lt;/Data></string>
-    <string name="passport_user_agreement_link_more">&lt;Data>Я прачытаў(-ла) наступныя дакументы: &lt;a href=%1$s>Карыстальніцкае пагадненне&lt;/a> і &lt;a href=%4$s>Палітыку прыватнасці&lt;/a> і &lt;a href=%2$s>%3$s&lt;/a> Xiaomi і згодны(-ая) з імі.&lt;/Data></string>
+    <string name="passport_user_agreement_link">&lt;Data>Я прачытаў(-ла) &lt;a href=\"%1$s\">Карыстальніцкае пагадненне&lt;/a> і &lt;a href=\"%2$s\">Палітыку прыватнасці&lt;/a> Xiaomi і згодны(-ая) з імі.&lt;/Data></string>
+    <string name="passport_user_agreement_link_more">&lt;Data>Я прачытаў(-ла) наступныя дакументы: &lt;a href=\"%1$s\">Карыстальніцкае пагадненне&lt;/a> і &lt;a href=\"%4$s\">Палітыку прыватнасці&lt;/a> і &lt;a href=\"%2$s\">\"%3$s\"&lt;/a> Xiaomi і згодны(-ая) з імі.&lt;/Data></string>
     <string name="passport_user_id_intro">Увядзіце пароль для %1$s</string>
     <string name="passport_v_code_error">Няправільны код пацвярджэння</string>
     <string name="passport_vcode_notification_title">Праверка аўтарызацыі не завершаная</string>
@@ -680,6 +713,7 @@ ID:%s
     <string name="playlist_title">Плэйліст</string>
     <string name="plus_add_shortcut">Стварыць ярлык на Галоўным экране</string>
     <string name="plus_change_poster">Змяніць вокладку альбома</string>
+    <string name="plus_continue_watching">Працягнуць прагляд</string>
     <string name="plus_deleting_wait">Выдаленне...</string>
     <string name="plus_fallback">Водгук</string>
     <string name="plus_gallery_allvideos">Усе відэа</string>
@@ -698,6 +732,12 @@ ID:%s
     <string name="plus_gallery_video_title_mediatype">Катэгорыі відэа</string>
     <string name="plus_gallery_video_title_othergallery">Іншыя відэа</string>
     <string name="plus_loading_text">"Загрузка аб'ектаў…"</string>
+    <string name="plus_menu_delete">Выдаліць</string>
+    <string name="plus_menu_delete_popup_text">Выдаліць зараз?</string>
+    <string name="plus_menu_properties">Уласцівасці</string>
+    <string name="plus_menu_rename">Перайменаваць</string>
+    <string name="plus_menu_rename_fail">Імя файла не можа ўтрымліваць \"/\"</string>
+    <string name="plus_menu_share">Падзяліцца</string>
     <string name="plus_mine_gallery">Мае альбомы</string>
     <string name="plus_mine_videos">Мае відэа</string>
     <string name="plus_player_8k_video_not_support">Немагчыма прайграць відэа 8K на гэтай прыладзе</string>
@@ -736,7 +776,7 @@ ID:%s
     <string name="plus_player_subtitle_local_add_success">Субцітры паспяхова дададзеныя</string>
     <string name="plus_player_subtitle_no_file">Тут няма субтытраў.</string>
     <string name="plus_player_subtitle_online">Анлайн-субцітры</string>
-    <string name="plus_player_subtitle_online_declare_content">Вы збіраецеся шукаць &lt;br/>субтытры ў базе дадзеных &lt;a href=http://www.opensubtitles.org>opensubtitles.org&lt;/a>. &lt;br/>Усе субтытры прадастаўлены &lt;a href=http://www.opensubtitles.org>opensubtitles.org&lt;/a>.</string>
+    <string name="plus_player_subtitle_online_declare_content">Вы збіраецеся шукаць &lt;br/>субтытры ў базе дадзеных &lt;a href=\"http://www.opensubtitles.org\">opensubtitles.org&lt;/a>. &lt;br/>Усе субтытры прадастаўлены &lt;a href=\"http://www.opensubtitles.org\">opensubtitles.org&lt;/a>.</string>
     <string name="plus_player_subtitle_online_declare_title">Адмова ад адказнасці</string>
     <string name="plus_player_subtitle_online_download_fail">Не атрымалася спампаваць субцітры</string>
     <string name="plus_player_subtitle_online_download_start">Загрузка субцітраў…</string>
@@ -748,6 +788,31 @@ ID:%s
     <string name="plus_player_unhide">Адлюстраваць</string>
     <string name="plus_player_video_not_support">Гэты фармат відэа не падтрымліваецца.</string>
     <string name="plus_poster_reset_default">Аднавіць вокладку па змаўчанні</string>
+    <string name="plus_properties_bit_rate">Бітрэйт</string>
+    <string name="plus_properties_codec">Кодэк</string>
+    <string name="plus_properties_date">Дата</string>
+    <string name="plus_properties_file">Файл</string>
+    <string name="plus_properties_file_name">Імя файла</string>
+    <string name="plus_properties_finished">Завершана</string>
+    <string name="plus_properties_format">Фармат</string>
+    <string name="plus_properties_frame_rate">Частата кадраў</string>
+    <string name="plus_properties_last_playback_position">Апошняя пазіцыя</string>
+    <string name="plus_properties_last_playback_time">У апошні раз прайграна</string>
+    <string name="plus_properties_length">Працягласць</string>
+    <string name="plus_properties_media">Медыя</string>
+    <string name="plus_properties_path">Месцазнаходжанне</string>
+    <string name="plus_properties_playback_history">Гісторыя прайгравання</string>
+    <string name="plus_properties_resolution">Разрознасць</string>
+    <string name="plus_properties_sample_rate">Частата дыскрэтызацыі</string>
+    <string name="plus_properties_size">Памер</string>
+    <string name="plus_properties_status">Статус</string>
+    <string name="plus_properties_stream">Паток</string>
+    <string name="plus_properties_stream_title">Загаловак</string>
+    <string name="plus_properties_type">Тып</string>
+    <string name="plus_properties_type_audio">Аўдыё</string>
+    <string name="plus_properties_type_subtitle">Субцітры</string>
+    <string name="plus_properties_type_video">Відэа</string>
+    <string name="plus_properties_unfinish">Не завершана</string>
     <string name="plus_search_barhint">Пошук лакальных відэа</string>
     <string name="plus_search_guide">Пошук відэа</string>
     <string name="plus_search_result_empty">Нічога не знайшлося</string>
@@ -787,6 +852,11 @@ ID:%s
     <string name="reload_sub_title">Націсніце для паўтору.</string>
     <string name="reload_title">Не атрымалася злучыцца з сеткай.</string>
     <string name="report">Справаздача</string>
+    <string name="report_content_fakement">Спам або махлярства</string>
+    <string name="report_content_illegal">Незаконныя заявы</string>
+    <string name="report_content_other">Іншае</string>
+    <string name="report_content_sexy">Змест сэксуальнага характару</string>
+    <string name="report_content_violence">Агрэсіўная гаворка</string>
     <string name="report_fail">Не атрымалася паскардзіцца. Паспрабуйце яшчэ раз.</string>
     <string name="report_success">Скарга паспяхова даслана</string>
     <string name="resend_active_email">Адправіць зноў</string>
@@ -839,6 +909,7 @@ ID:%s
     <string name="sns_bind_limit">Занадта шмат спробаў. Паспрабуйце іншыя спосабы ўваходу.</string>
     <string name="sns_sign_in">Іншыя спосабы ўваходу</string>
     <string name="source">"Крыніца: "</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_external_sdcard">SD-карта</string>
     <string name="storage_internal_sdcard">Унутраная памяць</string>
     <string name="submit">Адправіць</string>

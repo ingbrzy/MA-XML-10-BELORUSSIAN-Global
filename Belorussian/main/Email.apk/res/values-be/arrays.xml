@@ -42,7 +42,7 @@
         <item>Дата атрымання</item>
     </string-array>
     <string-array name="moveto_folder_sections">
-        <item>Сістэма</item>
+        <item>Сыстэма</item>
         <item>Найчасцей карыстаныя</item>
         <item>Усе папкі</item>
     </string-array>
@@ -50,6 +50,10 @@
         <item>Наступнае паведамленне</item>
         <item>Папярэдняе паведамленне</item>
         <item>Уваходныя</item>
+    </string-array>
+    <string-array name="prefEntries_contact_add">
+        <item>Усе</item>
+        <item>Толькі адпраўнікі</item>
     </string-array>
     <string-array name="signature_normal_string_array_next">
         <item>Адрас:</item>

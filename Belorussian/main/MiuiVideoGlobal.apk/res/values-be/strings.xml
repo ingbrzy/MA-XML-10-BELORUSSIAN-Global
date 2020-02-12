@@ -111,6 +111,7 @@
     <string name="cast_forward">Наперад</string>
     <string name="cast_forward_10">Дзесяць секунд наперад</string>
     <string name="cast_forward_30">Трыццаць секунд наперад</string>
+    <string name="cast_intro_overlay_button_text">\@android:string/ok</string>
     <string name="cast_mute">Адключыць гук</string>
     <string name="cast_notification_connected_message">Падключэнне да %1$s выканана</string>
     <string name="cast_notification_connecting_message">Падключэнне да %1$s</string>
@@ -275,6 +276,7 @@ ID:%s
     <string name="fw_loading">Хвілінку…</string>
     <string name="fw_reload_sub_title">Націсніце, каб паўтарыць</string>
     <string name="fw_reload_title">Не атрымалася злучыцца з сеткай.</string>
+    <string name="gallery_fold_tags">Схаваць пазнакі</string>
     <string name="gallery_folder_alias_TAOBAO">Taobao</string>
     <string name="gallery_folder_alias_camera">Камера</string>
     <string name="gallery_folder_alias_download">Спампаваць</string>
@@ -307,6 +309,7 @@ ID:%s
     <string name="gallery_video_operate_text">Рэгуляванне запаволенага прайгравання</string>
     <string name="gallery_video_save_video">Стварэнне відэа …</string>
     <string name="gallery_video_slow_edit">Запаволеная здымка</string>
+    <string name="gallery_view_tags">Паказаць пазнакі</string>
     <string name="get_back_pwd">Скідванне пароля</string>
     <string name="get_ph_ticket">Атрымаць код</string>
     <string name="get_phone_bind_exceed_limit">З тэлефонным нумарам можна звязаць да 3 Mi Акаўнтаў. Немагчыма дадаць новы акаўнт.</string>
@@ -334,11 +337,16 @@ ID:%s
     <string name="language_setting_tips_dialog">Вы можаце выбраць моўныя налады для кантэнту ў раздзеле «Акаўнт > Мова».</string>
     <string name="later">Пазней</string>
     <string name="loading">Хвілінку…</string>
+    <string name="local_push_title">Папулярныя сёння</string>
     <string name="login">Увайсцi</string>
     <string name="login_tip">Увайдзіце, каб атрымліваць нашы адказы на вашы водгукі.</string>
     <string name="logout">Выйсці з акаўнта</string>
     <string name="logout_account">Выйсці</string>
     <string name="lp_base_folder">SD-карта</string>
+    <string name="lp_play_mode_list_loop">Паўтараць усё</string>
+    <string name="lp_play_mode_pause">Прайграць адну</string>
+    <string name="lp_play_mode_single_loop">Паўтараць адну</string>
+    <string name="lp_play_mode_title">Рэжым прайгравання</string>
     <string name="lp_speed_title">Хуткасць прайгравання</string>
     <string name="lp_speed_toast">Прайграванне на хуткасці %sX…</string>
     <string name="lp_videoView_error_button">Зразумела</string>
@@ -359,6 +367,7 @@ ID:%s
     <string name="lv_audio_track">Гукавая дарожка</string>
     <string name="lv_auto_update">Абнавіць пазней</string>
     <string name="lv_brightness">Яркасць</string>
+    <string name="lv_cast">Трансляцыя</string>
     <string name="lv_check_delete_file">"Выберыце аб'екты для выдалення"</string>
     <string name="lv_check_send_file">Файлы можна дасылаць па адным</string>
     <string name="lv_confirm_delete_history">"Выдаліць выбраныя аб'екты?"</string>
@@ -495,6 +504,7 @@ ID:%s
     <string name="next">Наступны</string>
     <string name="nick_name">Нік</string>
     <string name="no_account">Уваход не выкананы</string>
+    <string name="no_more_content">Пакуль што гэта ўсё</string>
     <string name="no_network_tips">Немагчыма выкарыстаць функцыю. Доступ да сеткі абмежаваны.</string>
     <string name="no_phone">Няма нумара тэлефона</string>
     <string name="no_recommend_data">Цяпер няма рэкамендуемых відэа</string>
@@ -508,6 +518,7 @@ ID:%s
     <string name="notice_title">Паведамленні</string>
     <string name="notify_apk_installed">Спампавана паспяхова</string>
     <string name="ok">OК</string>
+    <string name="order_alphabet">А-Я</string>
     <string name="order_recently_subscribe">Новыя падпіскі</string>
     <string name="order_recently_updated">Нядаўна абноўлена</string>
     <string name="ovp_alert_dialog_download_install_task">Спампоўка HD-убудовы</string>
@@ -907,6 +918,7 @@ ID:%s
     <string name="sns_bind_limit">Занадта шмат спробаў. Паспрабуйце іншыя спосабы ўваходу.</string>
     <string name="sns_sign_in">Іншыя спосабы ўваходу</string>
     <string name="source">"Крыніца: "</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_external_sdcard">SD-карта</string>
     <string name="storage_internal_sdcard">Унутраная памяць</string>
     <string name="submit">Адправіць</string>

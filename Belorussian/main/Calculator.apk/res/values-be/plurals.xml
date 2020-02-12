@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="age_label_days">
+        <item quantity="other">%d дзён</item>
+        <item quantity="one">%d дзень</item>
+        <item quantity="few">%d дні</item>
+        <item quantity="many">%d дзён</item>
+    </plurals>
+    <plurals name="age_label_months">
+        <item quantity="other">%d месяцаў</item>
+        <item quantity="one">%d месяц</item>
+        <item quantity="few">%d месяца</item>
+        <item quantity="many">%d месяцаў</item>
+    </plurals>
+    <plurals name="age_label_yrs">
+        <item quantity="other">гадоў</item>
+        <item quantity="one">год</item>
+        <item quantity="few">гады</item>
+        <item quantity="many">гадоў</item>
+    </plurals>
     <plurals name="entries">
         <item quantity="other">"%d аб'ектаў"</item>
         <item quantity="one">"%d аб'ект"</item>
@@ -23,5 +41,11 @@
         <item quantity="one">%1$d год (%2$d мес.)</item>
         <item quantity="few">%1$d гады (%2$d мес.)</item>
         <item quantity="many">%1$d гадоў (%2$d мес.)</item>
+    </plurals>
+    <plurals name="tenure_months">
+        <item quantity="other">%d месяцаў</item>
+        <item quantity="one">%d месяц</item>
+        <item quantity="few">%d месяцы</item>
+        <item quantity="many">%d месяцаў</item>
     </plurals>
 </resources>

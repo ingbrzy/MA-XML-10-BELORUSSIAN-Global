@@ -44,7 +44,6 @@
     <string name="title_activity_add_printer">Дадаць прынтар</string>
     <string name="unreadable_input">Немагчыма прачытаць дакумент</string>
     <string name="waiting_to_send">Чаканне адпраўкі</string>
-    <string name="wifi_direct">Wi-Fi Direct</string>
     <string name="wifi_direct_permission_rationale">Службе друку па змаўчанні неабходны дазвол на доступ да месцазнаходжання, каб знайсці прылады паблізу.</string>
     <string name="wifi_direct_printers">Прынтэры Wi-Fi Direct</string>
     <string name="wifi_direct_printing">Друк праз Wi-Fi Direct</string>

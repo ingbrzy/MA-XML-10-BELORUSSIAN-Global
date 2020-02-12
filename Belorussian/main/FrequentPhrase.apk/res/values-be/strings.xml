@@ -9,6 +9,5 @@
     <string name="menu_add_frequent_phrases">Дадаць</string>
     <string name="menu_delete">Выдаліць</string>
     <string name="menu_edit">Змяніць</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="sync_phrase_label">Частыя выразы</string>
 </resources>

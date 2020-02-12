@@ -54,6 +54,7 @@
     <string name="action_item_hifi">Навушнікі і гукавыя эфекты</string>
     <string name="action_item_play_all">Перамяшаць усе</string>
     <string name="action_item_play_next">Прайграць пазней</string>
+    <string name="action_item_play_video">Прайграць музычны відэакліп</string>
     <string name="action_item_remove">Выдаліць</string>
     <string name="action_item_remove_from_favorite">Выдаліць з абраных</string>
     <string name="action_item_share">Падзяліцца</string>
@@ -111,6 +112,7 @@
     <string name="artist_name">Выканаўца</string>
     <string name="audio_picker_title">Абярыце трэк</string>
     <string name="auto_recommend">Аўта (рэкамендуецца)</string>
+    <string name="auto_sound_quality">Auto</string>
     <string name="auto_update">Абнаўляць аўтаматычна</string>
     <string name="auto_update_tip">Вы можаце абнаўляць сістэмныя праграмы праз мабільны інтэрнэт. Гэта можа пацягнуць дадатковыя выдаткі.</string>
     <string name="available_playlist_name_format">Новы плэйліст %d</string>
@@ -128,11 +130,13 @@
     <string name="button_wait_for_wifi">Пачакайце</string>
     <string name="cancel">Скасаваць</string>
     <string name="cancel_running_download">Скасаваць</string>
+    <string name="cannot_download_to_sdcard_hint">"Немагчыма спампаваць аб'екты на SD-карту з-за абмежаванняў інтэлектуальных правоў. Замест гэтага аб'екты будуць спампаваныя ва ўнутранае сховішча."</string>
     <string name="change_download_quality">Змяніць якасць спампоўкі</string>
     <string name="checking_new_version">Праверка абнаўлення…</string>
     <string name="choose_download_quality">Абярыце якасць спампоўкі</string>
     <string name="choose_music_lang_pref">Упадабаныя мовы песень</string>
     <string name="choose_stream_quality">Абрярыце якасць анлайн музыкі</string>
+    <string name="click_and_watch_video_tip">Націсніце для прайгравання музычнага відэакліпа</string>
     <string name="click_to_add_album_cover_and_lyric">Націсніце, каб дадаць вокладку альбома або тэкст песні</string>
     <string name="click_to_shuffle">Націсніце, каб перамясціць</string>
     <string name="close_music_time">"Засталося: "</string>
@@ -161,6 +165,7 @@
     <string name="connecting_apk">Далучэнне…</string>
     <string name="create_playlist">Стварыць плэйліст</string>
     <string name="create_playlist_failure">Не атрымалася стварыць плэйліст</string>
+    <string name="create_playlist_input_hint">Увядзіце назву плэйліста</string>
     <string name="current_album">Бягучая вокладка</string>
     <string name="current_lyric">Бягучы тэкст</string>
     <string name="current_version">Current version</string>
@@ -265,7 +270,9 @@
     <string name="download_method">Спампоўка</string>
     <string name="download_no_application_title">Не ўдаецца адкрыць файл</string>
     <string name="download_paused_in_power_save_mode">Downloads are paused when Battery saver is on</string>
+    <string name="download_percent">%d%%</string>
     <string name="download_processing">Спампоўка…</string>
+    <string name="download_progress">%d%%</string>
     <string name="download_quality">Якасць спампоўкі</string>
     <string name="download_quality_summary">Дадатковыя налады для спампоўкі песень</string>
     <string name="download_queued">У чарзе</string>
@@ -346,7 +353,9 @@
     <string name="exo_download_notification_channel_name">Спампоўкі</string>
     <string name="exo_download_removing">Выдаленне спамповак</string>
     <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Мбіт/с</string>
     <string name="exo_track_mono">Мона</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">Аўтаматычна</string>
     <string name="exo_track_selection_none">Няма</string>
     <string name="exo_track_selection_title_audio">Аўдыя</string>
@@ -374,6 +383,7 @@
     <string name="fcm_fallback_notification_channel_label">Рознае</string>
     <string name="feed_back">Feedback</string>
     <string name="file_not_found">Файл не існуе</string>
+    <string name="filter_by_MP4">Паказаць папкі з MP4-файламі</string>
     <string name="filter_by_duration">Па працягласці</string>
     <string name="filter_by_duration_max">%d mins</string>
     <string name="filter_by_duration_min">%d sec</string>
@@ -415,6 +425,7 @@
     <string name="home_tab_local">Мая музыка</string>
     <string name="home_tab_more_music">Яшчэ музыка</string>
     <string name="home_tab_online">Анлайн-музыка</string>
+    <string name="home_tab_recommend">Анлайн</string>
     <string name="home_tab_search">Пошук</string>
     <string name="hot_icon_in_fast_indexer">H</string>
     <string name="hungama_batch_download_alert_summary">Спампоўваць некалькі песняў адначасова могуць толькі члены PRO. Купіць членства PRO цяпер?</string>
@@ -599,6 +610,7 @@
     <string name="online_apk_install_in_background">Загрузка анлайн-зместу ў фонавым рэжыме…</string>
     <string name="online_apk_install_network_change_paused">Вы выкарыстоўваеце мабільны інтэрнэт. Запампоўка прыпыненая. Націсніце %s для прагляду.</string>
     <string name="online_apk_install_network_error">Не атрымалася злучыцца з сеткай. Праверце налады сеткі і паспрабуйце зноў.</string>
+    <string name="online_apk_install_tips">Вам неабходна спампаваць убудову гэтага пастаўшчыка кантэнту адзін раз. У наступны раз у вас будзе прамы доступ да песень.</string>
     <string name="online_list_delete_message">Усе спампаваныя трэкі ў гэтым спісе будуць выдалены з унутранага сховішча.</string>
     <string name="online_playlist_category">Плэйлісты</string>
     <string name="online_recommend">Playlist</string>
@@ -661,6 +673,7 @@
     <string name="priority_storage_summary">Аўтаматычна захоўваць файлы на SD-карту, калі яна падлучана</string>
     <string name="privacy_desc">Палітыка прыватнасці (абавязкова)</string>
     <string name="privacy_policy">Палітыка канфідэнцыяльнасці</string>
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=be_BY</string>
     <string name="pro_member">Член PRO</string>
     <string name="project_device">Mi Phone</string>
     <string name="prompt_grant_write_settings_permission">Дазволіць змяняць сістэмныя налады</string>
@@ -738,6 +751,8 @@
     <string name="service_and_settings">Service and settings</string>
     <string name="set_as_alarm_clock_ringtone">Будзільнік</string>
     <string name="set_as_ring">Усталяваць ў якасці мелодыі званка</string>
+    <string name="set_online_home_subtitle">Адкрываць анлайн-рэкамендацыі пры запуску праграмы</string>
+    <string name="set_online_home_title">Паказваць анлайн-рэкамендацыі на пачатковай старонцы</string>
     <string name="set_ringtones_failed">Не атрымалася ўсталяваць на званок</string>
     <string name="set_ringtones_successful">%s усталявана ў якасці мелодыі званка</string>
     <string name="setting_feature_setting">Рэкамендаваныя налады</string>
@@ -786,6 +801,7 @@
     <string name="start_to_check_new_version">Праверка абнаўлення…</string>
     <string name="start_to_download">Запампоўка…</string>
     <string name="start_to_play">Прайграць</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_cloned_app">Памяць для клонаў праграм</string>
     <string name="storage_internal">Унутранае сховішча</string>
     <string name="storage_sd_card">SD-карта</string>
@@ -862,6 +878,7 @@
     <string name="upgrade_music_message">Updates are ready. Restart to update.</string>
     <string name="upgrading_in_backstage">Updating in the background…</string>
     <string name="user_agreement">Карыстальніцкае пагадненне</string>
+    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=be_BY</string>
     <string name="v7_preference_off">ВЫКЛ.</string>
     <string name="v7_preference_on">УКЛ.</string>
     <string name="version_info">Version</string>
@@ -878,4 +895,5 @@
     <string name="wifi_required_title">Вы павінны падлучыцца да Wi-Fi, каб спампаваць гэты файл</string>
     <string name="you_can_switch_mode_in_settings">Вы можаце пераключацца паміж рэжымамі ў наладах</string>
     <string name="you_may_like">Вам таксама можа спадабацца</string>
+    <string name="youtube_play_history">Гісторыя прайгравання</string>
 </resources>

@@ -27,7 +27,6 @@
     <string name="abc_shareactionprovider_share_with">Абагуліць праз</string>
     <string name="abc_shareactionprovider_share_with_application">Абагуліць праз праграму \"%s\"</string>
     <string name="abc_toolbar_collapse_description">Згарнуць</string>
-    <string name="app_name">MIUI Bluetooth</string>
     <string name="ble_device_address">MAC-адрас прылады Bluetooth Smart</string>
     <string name="ble_device_profile">Профілі прылады Bluetooth</string>
     <string name="ble_device_profile_header_title">Налады</string>
@@ -46,8 +45,6 @@
     <string name="device_picker">Налады прылады Bluetooth</string>
     <string name="disconnect">Адвязаць</string>
     <string name="expand_button_title">Пашыраныя налады</string>
-    <string name="fast_connect_device_box">Box</string>
-    <string name="fast_connect_device_box_name">%1$s Box</string>
     <string name="fast_connect_device_connect_cancel">Скасаваць</string>
     <string name="fast_connect_device_connect_ok">Падлучыць</string>
     <string name="fast_connect_device_connect_retry">Паўтарыць</string>
@@ -60,7 +57,6 @@
     <string name="fast_connect_device_title_connect_fail">Не атрымалася падлучыць %1$s</string>
     <string name="fast_connect_device_title_connecting">Злучэнне…</string>
     <string name="fast_connect_device_title_find_headset">Знайсці гарнітуру %1$s</string>
-    <string name="fast_connect_device_title_find_headset_others">Find headset %1$s others</string>
     <string name="goto_package">Адкрыць %1$s</string>
     <string name="install_package">Усталюйце %1$s для дад. функцый</string>
     <string name="mi_band_vibrate_alarm">Вібраваць, калі гучыць будзільнік</string>
@@ -82,14 +78,11 @@
     <string name="not_set">Не зададзена</string>
     <string name="notify_device_lose_connection_text">Націсніце, каб адключыць %1$s</string>
     <string name="notify_device_lose_connection_title">Згублена злучэнне з %1$s</string>
-    <string name="ok_button">OK</string>
     <string name="preference_copied">\"%1$s\": скапіравана ў буфер абмену.</string>
     <string name="progress_scanning">Пошук…</string>
     <string name="reset_function_msg">Перазапуск гэтай функцыі можа парушыць працу %1$s.</string>
     <string name="search_menu_title">Пошук</string>
     <string name="some_app_taking">(гэта функцыя ўжо выкарыстоўваецца %1$s)</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
-    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="unbind_device_alert_cancel">Скасаваць</string>
     <string name="unbind_device_alert_content">Згублена злучэнне з %1$s. Адлучыце прыладу для захоўванне зараду батарэі.</string>
     <string name="unbind_device_alert_ok">Адлучыць</string>

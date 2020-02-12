@@ -18,6 +18,7 @@
     <string name="abc_shareactionprovider_share_with_application">Абагуліць праз праграму %s</string>
     <string name="abc_toolbar_collapse_description">Згарнуць</string>
     <string name="search_menu_title">Пошук</string>
+    <string name="status_bar_notification_info_overflow">больш за 999</string>
     <string name="ad_downloading">Запампоўка…</string>
     <string name="app_name">Убудова сістэмнай службы</string>
     <string name="app_select_title">Дадайце праграмы, якія часта выкарыстоўваюцца</string>
@@ -35,6 +36,7 @@
     <string name="dialog_market_score_title_step2">Дзякуй за ваш водгук!</string>
     <string name="dual_app_title">Кланаванне праграм</string>
     <string name="dual_app_words">Кожнаму акаўнту патрэбна ўласная праграма</string>
+    <string name="empty">" "</string>
     <string name="fastboot_locked_answer_1">Fastboot - гэта традыцыйны метад прашыўкі прылад Xiaomi. Калі прылада знаходзіцца ў рэжыме Fastboot, усе дадзеныя, якія захоўваюцца на ім, могуць быць зменены і сцёртыя напрамую. Мы блакуем Fastboot, каб пераканацца, што дадзеныя застануцца ў бяспецы ў выпадку страты прылады, а таксама для забеспячэння надзейнасці працы Пошуку прылады.</string>
     <string name="fastboot_locked_answer_2">У выпадку страты прылады, Fastboot гарантуе бяспеку дадзеных, якія захоўваюцца на ім. Калі вы разблакуеце Fastboot, вы больш не зможаце выдалена заблакаваць прыладу або сціраць дадзеныя з дапамогай функцыі Пошуку прылады. Таму мы не рэкамендуем разблакоўваць Fastboot на вашай прыладзе.</string>
     <string name="fastboot_locked_answer_3">Вы павінны выкарыстоўваць інструмент разблакоўкі з сайта MIUI. Каб разблакаваць прыладу, мы павінны пераканацца, што прылада належыць вам. Таму вам трэба ўвайсці ў свой Mi Акаўнт і ўключыць Пошук прылады.</string>

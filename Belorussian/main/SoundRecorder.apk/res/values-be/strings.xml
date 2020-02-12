@@ -152,6 +152,10 @@
     <string name="preference_status_bar_indicator_prompt">Паказваць значок у радку стану падчас запісу</string>
     <string name="preference_tip_rename">Даваць імёны запісам уручную</string>
     <string name="privacy_policy_title">Палітыка канфідэнцыяльнасці</string>
+    <string name="recognition_button_add_to_queue">Дадаць у чаргу</string>
+    <string name="recognition_button_cancel">Не зараз</string>
+    <string name="recognition_button_start">Расшыфраваць</string>
+    <string name="recognition_confirm_dialog_body">Расшыфроўка можа заняць некаторы час. Вы атрымаеце апавяшчэнне, калі гэтая задача будзе завершана. Расшыфраваць зараз?</string>
     <string name="recognition_error_cancel">Скасавана</string>
     <string name="recognition_error_code">Код памылкі: %d</string>
     <string name="recognition_error_download_cancel">Пазней</string>
@@ -167,6 +171,11 @@
     <string name="recognition_error_internal">Унутраная памылка</string>
     <string name="recognition_error_stopped">Расшыфроўка спыненая</string>
     <string name="recognition_error_unknown">Невядомая памылка. Паведаміце нам і паспрабуйце ізноў.</string>
+    <string name="recognition_interrupt_current_dialog_body">Расшыфроўка можа заняць некаторы час. Вы атрымаеце апавяшчэнне, калі гэтая задача будзе завершана. Зараз расшыфроўваецца \"%s\". Дадаць гэтую задачу ў чаргу расшыфроўкі?</string>
+    <string name="recognition_notification_channel">Расшыфроўка</string>
+    <string name="recognition_notification_complete_success">\"%s\" паспяхова расшыфравана. Націсніце для прагляду.</string>
+    <string name="recognition_notification_error">Не атрымалася расшыфраваць \"%s\"</string>
+    <string name="recognition_notification_running">Выконваецца расшыфроўка \"%s\"…</string>
     <string name="recognition_process_dialog_body">У дадзены момант ідзе расшыфроўка іншых запісаў (%s). Спыніць бягучыя задачы і запусціць новую?</string>
     <string name="recognition_process_dialog_cancel">Чарга</string>
     <string name="recognition_process_dialog_confirm">Запусціць прымусова</string>
@@ -174,6 +183,7 @@
     <string name="recognition_status_downloaded">Модуль расшыфроўкі паспяхова загружаны</string>
     <string name="recognition_status_downloading">"Спампоўка "</string>
     <string name="recognition_status_init">"Падрыхтоўка "</string>
+    <string name="recognition_stop_current">Спыніць бягучую задачу</string>
     <string name="recognize_choose_dialog_offline">Бясплатная расшыфроўка</string>
     <string name="recognize_choose_dialog_offline_desp">Расшыфроўвайце запісы без падлучэння да інтэрнэту</string>
     <string name="recognize_choose_dialog_online">Воблачнае расшыфроўка</string>

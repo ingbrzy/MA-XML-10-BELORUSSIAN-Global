@@ -42,13 +42,9 @@
     <string name="anonymous">Ананімна</string>
     <string name="anonymous_type">Пераносная (небяспечна)</string>
     <string name="app_name">Менеджар файлаў</string>
-    <string name="app_name_bluetooth">Bluetooth</string>
     <string name="app_name_camera">Камера</string>
     <string name="app_name_downloadedrom">Пакеты</string>
     <string name="app_name_downloads">Спампоўкі</string>
-    <string name="app_name_market">App Store</string>
-    <string name="app_name_midrop">Mi Drop</string>
-    <string name="app_name_miui">MIUI</string>
     <string name="app_name_miuimusic">Музыка</string>
     <string name="app_name_miuiringtone">Мелодыя</string>
     <string name="app_name_miuiwallpaper">Шпалеры</string>
@@ -71,15 +67,12 @@
     <string name="category">Катэгорыі</string>
     <string name="category_album">Альбомы</string>
     <string name="category_all">Усе файлы</string>
-    <string name="category_apk">APKs</string>
-    <string name="category_bluetooth">Bluetooth</string>
     <string name="category_document">Дакументы</string>
     <string name="category_download">Спампоўкі</string>
     <string name="category_favorite">Абраныя</string>
     <string name="category_file">Файлы</string>
     <string name="category_folder">Папкі</string>
     <string name="category_installed_app">Усталяваныя праграмы</string>
-    <string name="category_midrive">Mi Drive</string>
     <string name="category_move_limit_notice">"Вы можаце перамясціць у верхнюю частку экрана ад 3 да 7 аб'ектаў"</string>
     <string name="category_music">Музыка</string>
     <string name="category_other">Іншыя</string>
@@ -119,9 +112,7 @@
     <string name="compress_fail_unknown">Не атрымалася сціснць. Сховішча запоўненае або адбылася невядомая памылка.</string>
     <string name="compress_message">Сціснуць у…</string>
     <string name="compress_title">Сціснуць</string>
-    <string name="confirm">OK</string>
     <string name="confirm_clean">Ачысціць</string>
-    <string name="confirm_know">OK</string>
     <string name="connection_error">Не атрымалася падлучыцца</string>
     <string name="connection_lost">Адлучана</string>
     <string name="copy_failed">Не атрымалася скапіяваць</string>
@@ -161,7 +152,6 @@
     <string name="dialog_type_image">Выявы</string>
     <string name="dialog_type_text">Дакументы</string>
     <string name="dialog_type_video">Відэа</string>
-    <string name="directory_info_divider">"  |  "</string>
     <string name="display_name">Паказваць імя</string>
     <string name="domain">Дамен</string>
     <string name="download_success">Спампавана паспяхова</string>
@@ -171,7 +161,6 @@
     <string name="encoding">Кадыроўка</string>
     <string name="encoding_auto">Аўта</string>
     <string name="encrypt_error">Не атрымалася схаваць файлы, паспрабуйце яшчэ раз</string>
-    <string name="encrypt_prefix">HIDDEN</string>
     <string name="encrypt_success">Паспяхова схаваны</string>
     <string name="encrypt_success_first_five">Файл зашыфраваны і схаваны. Вы можаце праглядзець схаваныя файлы зрухам уніз на стартавай старонцы ў File Manager.</string>
     <string name="encrypting">Шыфраванне…</string>
@@ -197,7 +186,6 @@
     <string name="favorite_ringtone">Мелодыі</string>
     <string name="favorite_screen_cap">Здымкі экрана</string>
     <string name="feedback_send_email_body_extra_info">Не выдаляйце наступную інфармацыю. Гэта дапаможа нам знайсці праблему.</string>
-    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="file_info_canread">Чытанне: </string>
     <string name="file_info_canwrite">Запісванне: </string>
     <string name="file_info_ishidden">Схавана: </string>
@@ -242,7 +230,6 @@
     <string name="loading">Хвілінку…</string>
     <string name="local_image">Выявы</string>
     <string name="local_music">Аўдыё файлы</string>
-    <string name="local_network">LAN</string>
     <string name="local_video">Відэа файлы</string>
     <string name="make_private">Схаваць</string>
     <string name="make_private_msg_1">Схаваць гэты файл?</string>
@@ -258,7 +245,6 @@
     <string name="menu_item_sort_date">Час змянення</string>
     <string name="menu_item_sort_name">Імі</string>
     <string name="menu_item_sort_type">Тып</string>
-    <string name="menu_item_usb">USB</string>
     <string name="mi_router_label">Роутэр</string>
     <string name="mode">Рэжым</string>
     <string name="month_day_format">dd MMM</string>
@@ -293,7 +279,6 @@
     <string name="notif_server_starting">Запуск FTP-сервера…</string>
     <string name="notif_title">FTP-сервер запушчаны</string>
     <string name="notification_wechat_expired_empty">Гэтыя відэа былі выдаленыя з WeChat.</string>
-    <string name="ok">OK</string>
     <string name="online_not_support">Не ўдаецца праглядзець файл зараз.</string>
     <string name="open">Адкрыць</string>
     <string name="open_private_folder">Адпусціце для прагляду схаваных тэчак</string>
@@ -438,7 +423,6 @@
     <string name="settings_about">Аб праграме</string>
     <string name="settings_feedback">Водгук</string>
     <string name="settings_score">Ацаніць File Manager</string>
-    <string name="share_facebook">Facebook</string>
     <string name="share_file_manger">Падзяліцца Менеджарам файлаў</string>
     <string name="share_via_qr_code">Падзяліцеся з дапамогай QR-кода</string>
     <string name="skip_file">Прапусціць</string>
@@ -446,7 +430,6 @@
     <string name="sort_size_asc">Ад меншага да большага</string>
     <string name="sort_size_desc">Ад большага да меншага</string>
     <string name="start_server">Старт</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_cache">Кэш</string>
     <string name="status_download">Спампоўкі</string>
     <string name="stay_awake_summary">Не пераводзіць экран у рэжым сну пры выкарыстанні FTP</string>

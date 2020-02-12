@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="notification_download_success_more">
-        <item quantity="other">Спампавана: %1$d</item>
-        <item quantity="one">Спампавана: %1$d</item>
-        <item quantity="few">Спампавана: %1$d</item>
-        <item quantity="many">Спампавана: %1$d</item>
+    <plurals name="notif_summary_active">
+        <item quantity="other">%d файла пампуецца</item>
+        <item quantity="one">%d файл пампуецца</item>
+        <item quantity="few">%d файлы пампуецца</item>
+        <item quantity="many">%d файлаў пампуецца</item>
+    </plurals>
+    <plurals name="notif_summary_waiting">
+        <item quantity="other">%d файла ў чаканні</item>
+        <item quantity="one">%d файл у чаканні</item>
+        <item quantity="few">%d файлы ў чаканні</item>
+        <item quantity="many">%d файлаў у чаканні</item>
     </plurals>
     <plurals name="notif_title_multiple_downloading">
         <item quantity="other">Пампуецца %1$d файла</item>
@@ -18,16 +24,10 @@
         <item quantity="few">"Не атрымалася спампаваць %1$d аб'екты"</item>
         <item quantity="many">"Не атрымалася спампаваць %1$d аб'ектаў"</item>
     </plurals>
-    <plurals name="notif_summary_active">
-        <item quantity="other">%d файла пампуецца</item>
-        <item quantity="one">%d файл пампуецца</item>
-        <item quantity="few">%d файлы пампуецца</item>
-        <item quantity="many">%d файлаў пампуецца</item>
-    </plurals>
-    <plurals name="notif_summary_waiting">
-        <item quantity="other">%d файла ў чаканні</item>
-        <item quantity="one">%d файл у чаканні</item>
-        <item quantity="few">%d файлы ў чаканні</item>
-        <item quantity="many">%d файлаў у чаканні</item>
+    <plurals name="notification_download_success_more">
+        <item quantity="other">Спампавана: %1$d</item>
+        <item quantity="one">Спампавана: %1$d</item>
+        <item quantity="few">Спампавана: %1$d</item>
+        <item quantity="many">Спампавана: %1$d</item>
     </plurals>
 </resources>

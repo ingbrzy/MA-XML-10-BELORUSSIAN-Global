@@ -452,7 +452,6 @@
     <string name="pref_camera_autoexposure_entry_frameaverage">Усярэднены</string>
     <string name="pref_camera_autoexposure_entry_spotmetering">Кропкавы</string>
     <string name="pref_camera_autoexposure_title">Рэжым экспазіцыі</string>
-    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="pref_camera_beautify_entry_high">Высокі</string>
     <string name="pref_camera_beautify_entry_low">Нізкі</string>
     <string name="pref_camera_beautify_entry_normal">Сярэдні</string>

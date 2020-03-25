@@ -32,7 +32,6 @@
     <string name="on">Укл</string>
     <string name="settings_guide_title">Патрэбныя іншыя налады?</string>
     <string name="show_badge_notifications">Значкі апавяшчэнняў</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_setting">Радок стану</string>
     <string name="summary_disable_float_notification">Усплывальныя апавяшчэнні не дазволены</string>
     <string name="summary_disable_lockscreen_notification">Апавяшчэння на Экране блакавання не дазволены</string>

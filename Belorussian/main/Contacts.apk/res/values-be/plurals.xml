@@ -26,7 +26,7 @@
     </plurals>
     <plurals name="callNoAnswerTimeFormat">
         <item quantity="other">Прапушчана %1$d гудка</item>
-        <item quantity="one">Прапушчаны 1$d гудок</item>
+        <item quantity="one">Прапушчаны %1$d гудок</item>
         <item quantity="few">Прапушчана %1$d гудкі</item>
         <item quantity="many">Прапушчана %1$d гудкоў</item>
     </plurals>
@@ -132,23 +132,11 @@
         <item quantity="few">(%1$d)</item>
         <item quantity="many">(%1$d)</item>
     </plurals>
-    <plurals name="listFoundAllContacts">
-        <item quantity="other">Знойдзена: %d</item>
-        <item quantity="one">Знойдзена: 1</item>
-        <item quantity="few">Знойдзена: %d</item>
-        <item quantity="many">Знойдзена: %d</item>
-    </plurals>
     <plurals name="listTotalAllContacts">
-        <item quantity="other">%d кантакта</item>
-        <item quantity="one">1 кантакт</item>
-        <item quantity="few">%d кантакты</item>
+        <item quantity="other">%d кантактаў</item>
+        <item quantity="one">%d кантакт</item>
+        <item quantity="few">%d кантакта</item>
         <item quantity="many">%d кантактаў</item>
-    </plurals>
-    <plurals name="listTotalPhoneContacts">
-        <item quantity="other">Кантактаў з нумарамі тэлефонаў: %d</item>
-        <item quantity="one">Кантактаў з нумарамі тэлефонаў: 1</item>
-        <item quantity="few">Кантактаў з нумарамі тэлефонаў: %d</item>
-        <item quantity="many">Кантактаў з нумарамі тэлефонаў: %d</item>
     </plurals>
     <plurals name="merge_contact_message_plurals">
         <item quantity="other">%1$d кантактаў з аднолькавымі дадзенымі</item>
@@ -157,16 +145,10 @@
         <item quantity="many">%1$d кантактаў з аднолькавымі дадзенымі</item>
     </plurals>
     <plurals name="merge_info">
-        <item quantity="other">"аб/'яднаны з %1$d крыніцы"</item>
+        <item quantity="other">"аб/'яднаны з %0$d крыніцы"</item>
         <item quantity="one">"не аб'яднаны"</item>
-        <item quantity="few">"аб/'яднаны з %1$d крыніц"</item>
-        <item quantity="many">"аб/'яднаны з %1$d крыніц"</item>
-    </plurals>
-    <plurals name="notification_voicemail_title">
-        <item quantity="other">Галасавыя паведамленні: %1$d</item>
-        <item quantity="one">1 галасавое паведамленне</item>
-        <item quantity="few">Галасавыя паведамленні: %1$d</item>
-        <item quantity="many">Галасавыя паведамленні: %1$d</item>
+        <item quantity="few">"аб/'яднаны з %0$d крыніц"</item>
+        <item quantity="many">"аб/'яднаны з %0$d крыніц"</item>
     </plurals>
     <plurals name="numSelectedSimContacts">
         <item quantity="other">Выбрана: %1$d</item>
@@ -181,10 +163,10 @@
         <item quantity="many">%1$d кантактаў з %2$s</item>
     </plurals>
     <plurals name="num_groups_in_account">
-        <item quantity="other">Груп: %1$d</item>
-        <item quantity="one">1 група</item>
-        <item quantity="few">Груп: %1$d</item>
-        <item quantity="many">Груп: %1$d</item>
+        <item quantity="other">%d груп</item>
+        <item quantity="one">%d група</item>
+        <item quantity="few">%d групы</item>
+        <item quantity="many">%d груп</item>
     </plurals>
     <plurals name="number_of_items_available">
         <item quantity="other">"Засталося %1$d аб'екта"</item>
@@ -223,10 +205,10 @@
         <item quantity="many">%1$d нядаўніх кантактаў</item>
     </plurals>
     <plurals name="searchFoundContacts">
-        <item quantity="other">Знойдзена: %d</item>
-        <item quantity="one">Знойдзена: 1</item>
-        <item quantity="few">Знойдзена: %d</item>
-        <item quantity="many">Знойдзена: %d</item>
+        <item quantity="other">Знойдзена %d</item>
+        <item quantity="one">Знойдзен %d</item>
+        <item quantity="few">Знойдзена %d</item>
+        <item quantity="many">Знойдзена %d</item>
     </plurals>
     <plurals name="select_all_exceed_plurals">
         <item quantity="other">Выберыце не больш за %1$d, нельга выбраць усе</item>

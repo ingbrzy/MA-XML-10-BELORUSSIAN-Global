@@ -28,6 +28,7 @@
     <string name="abc_shareactionprovider_share_with_application">Абагуліць праз праграму %s</string>
     <string name="abc_toolbar_collapse_description">Згарнуць</string>
     <string name="search_menu_title">Пошук</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="Approval">Ужыць</string>
     <string name="Xiaomi_account_pending_approval">Заяўка знаходзіцца на разглядзе</string>
     <string name="about_title">Аб праграме</string>
@@ -48,6 +49,7 @@
     <string name="back">Назад</string>
     <string name="barcode_into_rectangle">Трымайце код у межах рамкі</string>
     <string name="birthday">Дзень народзінаў:</string>
+    <string name="blog">Weibo</string>
     <string name="business_card">Візітка</string>
     <string name="business_card_result_title">Візітка</string>
     <string name="business_card_title">Змясціце візітку у межах рамкі</string>
@@ -72,6 +74,18 @@
     <string name="choose_open_code_app">Выберыце праграму</string>
     <string name="choose_pay_title">Выберыце спосаб аплаты</string>
     <string name="choose_picture">Выбраць малюнак з QR-кодам</string>
+    <string name="classesNameNull_toast">Назва прадмета не можа быць пустой</string>
+    <string name="classes_canfirmTitle">Пацвердзіце вынікі і пачніце імпарт</string>
+    <string name="classes_company">Імпарт</string>
+    <string name="classes_dealalert">Заўвага: імпарт прадметаў прывядзе да перазапісу папярэдніх дадзеных.</string>
+    <string name="classes_delete">Выдаліць прадмет</string>
+    <string name="classes_deleteMessage">Выдаліць прадмет незваротна?</string>
+    <string name="classes_edit_dialog_title">Назва прадмета</string>
+    <string name="classes_edit_name">Увядзіце назву прадмета</string>
+    <string name="classes_fail">Не атрымалася распазнаць. Паспрабуйце яшчэ раз.</string>
+    <string name="classes_isNull">Вы не дадалі ні аднаго прадмета</string>
+    <string name="classes_titlt">Расклад урокаў</string>
+    <string name="classes_topTitle">Адскануйце расклад урокаў</string>
     <string name="close_hotspot_when_connecting_to_wifi">Уключаны хотспот. Уключыце Wi-Fi.</string>
     <string name="common_retake_picture">Зрабіць зноў</string>
     <string name="common_retry">Паспрабуйце зноў</string>
@@ -95,6 +109,7 @@
     <string name="document_crop_title">Абрэжце дакумент</string>
     <string name="document_grayscale">Манахромны</string>
     <string name="document_grayscale_tip_msg">Канвертацыя ў манахромны…</string>
+    <string name="document_ocr">OCR</string>
     <string name="document_ocr_result_copy">Капіяваць тэкст</string>
     <string name="document_ocr_result_save">Захаваць у нататкі</string>
     <string name="document_ocr_result_title">Фота дакумента</string>
@@ -111,6 +126,7 @@
     <string name="download_use_stable_version">Загрузіць стабільную версію</string>
     <string name="drag_barcode_into_frame">Зрабіце рамку па памерах кода</string>
     <string name="drag_crop_to_business_card">Рухайце для абрэзкі</string>
+    <string name="email">Email:</string>
     <string name="error_camera_disabled">Доступ да камеры быў забаронены з-за меркаванняў бяспекі</string>
     <string name="error_cannot_connect_camera">Не атрымалася падключыцца да камеры</string>
     <string name="error_empty_result">Нічога не знайшлося</string>
@@ -147,6 +163,7 @@
     <string name="impunity_declaration_negative_text">Выхад</string>
     <string name="impunity_declaration_title">Палітыка канфідэнцыяльнасці</string>
     <string name="jd_shopping_title">Пошук на JD</string>
+    <string name="jingdong">JD</string>
     <string name="kuaidi100_data">Падтрымка: Kuaidi 100</string>
     <string name="label_choose_picture">Выберыце малюнак</string>
     <string name="label_flash_light">Успышка</string>
@@ -166,6 +183,7 @@
     <string name="miracast_message">Трансляваць на %s?</string>
     <string name="miracast_switch_off">Бесправадны дысплэй адключаны</string>
     <string name="miracast_switch_tip">Уключыце бесправадны дысплэй, каб выкарыстоўваць гэтую функцыю</string>
+    <string name="mishop">Mi Store</string>
     <string name="module_title_business_card">Візітка</string>
     <string name="module_title_code">QR-код</string>
     <string name="module_title_document">Дакумент</string>
@@ -217,6 +235,7 @@
     <string name="see_app_details">Праглядзець інфармацыю аб праграме</string>
     <string name="see_details">Націсніце для прагляду падрабязнасцей</string>
     <string name="select_dialog_confirm">OК</string>
+    <string name="select_from_album">Галерэя</string>
     <string name="send_mail">Адправіць Email</string>
     <string name="setting_alipay">AliPay</string>
     <string name="setting_choose_every_time">Заўсёды пытацца</string>
@@ -225,6 +244,7 @@
     <string name="setting_preference_pay">Упадабаны спосаб аплаты</string>
     <string name="setting_title">Налады</string>
     <string name="setting_use_last_choose">Запомніць папярэдні выбар</string>
+    <string name="setting_wechat">WeChat</string>
     <string name="shopping_searching">Пошук…</string>
     <string name="shopping_title">Зрабіце фота тавару</string>
     <string name="shopping_vendor_info">Зроблена Taobao</string>
@@ -241,8 +261,11 @@
     <string name="study_searching">Пошук вынікаў…</string>
     <string name="study_title">Адскануйце задачу, якую хочаце вырашыць</string>
     <string name="study_vendor_info">Падтрымка: Zuoyebang</string>
+    <string name="submitting">Адпраўка…</string>
     <string name="suggested_submission_success">Ваш водгук паспяхова адпраўлены</string>
     <string name="switch_open">Уключыць</string>
+    <string name="take_a_picture">Камера</string>
+    <string name="taobao">Taobao</string>
     <string name="tel">Тэлефон</string>
     <string name="title">Пасада:</string>
     <string name="to_install_title">Гэта QR-код перанакіроўвае вас да неўсталяванай праграмы. Спампаваць гэтую праграму зараз?</string>
@@ -288,11 +311,13 @@
     <string name="website_details">Cайт:</string>
     <string name="weixin_code_tip">Сканаваць гэты QR-код з дапамогай WeChat</string>
     <string name="welcome_to_thesweepversion">Сардэчна запрашаем у бэта-версію Сканера!</string>
+    <string name="wifi_details">Wi-Fi:</string>
     <string name="wifi_exist_fail">Хот-спот \"%1$s\" ужо існуе. Выдаліце ​​яго, затым зноў адскануйце код для падлучэння.</string>
     <string name="wifi_open_fail">Немагчыма ўключыць Wi-Fi</string>
     <string name="wifi_psd_toolong">Пароль занадта доўгі. Увядзіце пароль уручную.</string>
     <string name="wifi_pwd">Пароль:</string>
     <string name="wifi_security">Бяспечнасць:</string>
+    <string name="wifi_ssid">SSID:</string>
     <string name="will_be_sent_tothe_background_review">" (Ваша заяўка будзе адпраўлена на разгляд у бліжэйшы час)."</string>
     <string name="wx_not_installed_toast">Гэтай функцыі патрабуецца WeChat. Спачатку ўсталюйце WeChat.</string>
     <string name="xiaoai_dialog">"Паспрабуйце сказаць, што вы

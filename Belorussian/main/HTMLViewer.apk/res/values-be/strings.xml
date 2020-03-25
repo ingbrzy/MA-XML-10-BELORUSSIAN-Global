@@ -14,6 +14,8 @@
     <string name="open_wifi_connect_summary">Націсніце для прагляду інфармацыі.</string>
     <string name="open_wifi_connect_title">Падлучана да %1$s</string>
     <string name="permdesc_accessDrm">Дазваляе праграме доступ да кантэнту, абароненага DRM.</string>
+    <string name="poco_launcher_privacy_policy">Палітыка прыватнасці POCO Launcher</string>
+    <string name="poco_launcher_user_agreement">Карыстальніцкае пагадненне POCO Launcher</string>
     <string name="poco_privacy_policy">"Палітыка прыватнасці і Карыстальніцкае пагадненне POCO Launcher "</string>
     <string name="policy_name">Пратакол: %s</string>
     <string name="pre_installed_apps">Перадусталяваныя праграмы</string>

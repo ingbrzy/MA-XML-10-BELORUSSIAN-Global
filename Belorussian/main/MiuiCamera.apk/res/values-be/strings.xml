@@ -21,6 +21,7 @@
     <string name="accessibility_camera_record_start">Запіс відэа запушчаны</string>
     <string name="accessibility_camera_record_stop">Запіс відэа спынены</string>
     <string name="accessibility_camera_shutter_finish">Здымак зроблены</string>
+    <string name="accessibility_camera_switch_capture_recording">Пераключайцеся паміж рэжымамі фота і відэа</string>
     <string name="accessibility_camera_ultra_wide_bokeh_off">Рэжым здымкі ў поўны рост адключаны</string>
     <string name="accessibility_camera_ultra_wide_bokeh_on">Рэжым здымкі ў поўны рост уключаны</string>
     <string name="accessibility_camera_video_960fps_120">120FPS</string>
@@ -71,14 +72,17 @@
     <string name="accessibility_video_pause_button">Запіс відэа прыпынены</string>
     <string name="accessibility_video_resume_button">Запіс відэа адноўлены</string>
     <string name="accessibility_zoom_button">Набліжэнне</string>
-    <string name="ai_scene_mode_use_hint_text">"AI камера аўтаматычна распазнае сцэны
-і абапіраючыся на гэтыя звесткі паляпшае фота"</string>
+    <string name="ai_scene_mode_use_hint_text">"Распазнаваць сцэны з выкарыстаннем AI
+і аўтаматычна наладжваць параметры"</string>
     <string name="ai_scene_top_moon_off">Рэжым слабога асвятлення</string>
     <string name="ai_scene_top_tip">Месячнае святло</string>
     <string name="audio_focus_exit_button_text">Адключыць аўдыяфокус</string>
     <string name="autozoom_click_hint">"Краніце аб'екта, каб трымаць яго ў фокусе. Заставайцеся на адлегласці не менш 3 метраў для атрымання найлепшага эфекту."</string>
     <string name="autozoom_disabled_hint">"Адсочванне аб'екта, які рухаецца, спынена"</string>
     <string name="autozoom_hint">"Адсочванне аб'екта, які рухаецца"</string>
+    <string name="auxiliary_close_status">Дадатковыя эфекты адключаныя</string>
+    <string name="auxiliary_exposure_feedback_status">Праверка экспазіцыі ўключаная</string>
+    <string name="auxiliary_focus_peak_status">Вылучэнне вобласці факусоўкі ўключана</string>
     <string name="back_bokeh_use_hint">"Трымаеце аб'ект у межах 1,5 метраў для лепшага эфекту"</string>
     <string name="beauty_body">Фігура</string>
     <string name="beauty_body_body">Складнасць</string>
@@ -112,6 +116,7 @@
     <string name="camera_liveshot_on_tip">Дынамічныя здымкі</string>
     <string name="camera_mode_options">Рэжымы</string>
     <string name="camera_setting">Камера</string>
+    <string name="camera_settings_category_development">Эксперыментальныя функцыі</string>
     <string name="camera_settings_label">Камера</string>
     <string name="camera_snap_mode_title">Хуткія здымкі</string>
     <string name="camera_snap_mode_title_detail">Націсніце для прагляду інфармацыі</string>
@@ -159,7 +164,7 @@
     <string name="confirm_install_scanner_message">Праграма дазваляе сканаваць QR-коды, штрыхкоды і г. д. Вам не патрэбна падлучацца да інтэрнэту, каб усталяваць яго.</string>
     <string name="confirm_install_scanner_title">Усталяваць Сканер</string>
     <string name="confirm_location_alert">Запамінаць месцазнаходжанне для фота</string>
-    <string name="confirm_location_message">Адзначайце месцазнаходжанне на фота і відэа. Дадзеная інфармацыя можа быць даступна для іншых праграм.</string>
+    <string name="confirm_location_message">&lt;Data>Сардэчна запрашаем у Камеру! Захоўвайце інфармацыю пра месцазнаходжанне, дзе былі зроблены фота ці запісана відэа, каб лепш арганізаваць вашу Галерэю і паскорыць пошук гэтых фота і відэа. Некаторыя функцыі будуць недаступныя, калі вы абмяжуеце доступ да вашага месцазнаходжання.&lt;br/> &lt;br/>Мы будзем абараняць вашу асабістую інфармацыю ў адпаведнасці з дзеючым заканадаўствам, правіламі і палітыкамі прыватнасці.&lt;/Data></string>
     <string name="confirm_location_title">Запамінаць месцазнаходжанне для фота?</string>
     <string name="confirm_recording_fail_calling_alert">Немагчыма запісаць падчас выкліку.</string>
     <string name="confirm_recording_fail_recorder_busy_alert">Магчыма мікрафон выкарыстоўваецца для запісу іншай праграмай.</string>
@@ -298,9 +303,11 @@
     <string name="live_sticker_fragment_tab_name">Эфекты TikTok</string>
     <string name="live_sticker_network_error_hint">Памылка сеткі</string>
     <string name="live_sticker_updating">Абнаўленне…</string>
+    <string name="location_access_allow">Дазволіць</string>
     <string name="location_permission_des">Запамінаць месцы, дзе былі знятыя фота і відэа</string>
     <string name="location_permission_not_ask_again">Дазвольце Камере доступ да вашага месцазнаходжання ў Наладах.</string>
     <string name="location_permission_not_ask_again_go_to_settings">Дазволіць</string>
+    <string name="log_format">LOG</string>
     <string name="lying_direct_hint">Бягучая арыентацыя</string>
     <string name="macro_mode">Макра</string>
     <string name="macro_mode_tip">"Адлегласць паміж аб'ектывам і аб'ектам не павінна перавышаць 10 см"</string>
@@ -381,6 +388,7 @@
     <string name="module_name_professional">Pro</string>
     <string name="module_name_square">Квадрат</string>
     <string name="module_name_video">Відэа</string>
+    <string name="moive_frame">Кадр фільма</string>
     <string name="multi_window_mode_not_supported">Камера не працуе ў рэжыме падзялення экрана</string>
     <string name="network_access_user_notice_agree">Згадзіцца</string>
     <string name="network_access_user_notice_message_live_video">&lt;Data>Камеры патрабуецца доступ да Інтэрнэту для прадастаўлення эфектаў, музыкі і іншых магчымасцяў для кароткіх відэа.&lt;br/>&lt;br/>Націскаючы на ​​Пагадзіцца ніжэй, вы згаджаецеся з нашымі &lt;a href =%1$s>Карыстальніцкім пагадненнем&lt;/a> і &lt;a href =%2$s>Палітыкай прыватнасці&lt;/a> i дазваляеце Камере падлучыцца да Інтэрнэту.&lt;/Data></string>
@@ -395,8 +403,47 @@
     <string name="pano_how_to_use_prompt_slow_down">Запаволіць…</string>
     <string name="pano_how_to_use_prompt_start">Змяняйце напрамак стрэлкамі і плаўна рухайце прыладу.</string>
     <string name="pano_how_to_use_prompt_to_move">Рухайце прыладу павольна</string>
+    <string name="parameter_description_pro_capture_title">Прафесійныя функцыі для фотаздымкі</string>
+    <string name="parameter_description_pro_video_title">Прафесійныя функцыі для здымкі відэа</string>
+    <string name="parameter_description_sub_title">Атрымайце поўны кантроль над фота і відэаздымкай</string>
+    <string name="parameter_ef_split_description">Вы можаце перацягнуць кальцо экспазіцыі ад кальца факусіроўкі і наладзіць два параметры паасобна.</string>
+    <string name="parameter_ef_split_title">Падзел вымярэння факусіроўкі і экспазіцыі</string>
+    <string name="parameter_et_description">Хуткасць аўтаматычнага затвора вызначаецца экспанометрам камеры. Калі вы ўсталёўваеце вытрымку ўручную, памятайце, што чым даўжэй адкрыты затвор, тым больш святла трапляе на фотаматрыцу, што робіць вашу выяву ярчэй.</string>
+    <string name="parameter_exposure_description">Гэтая функцыя дазваляе вам прымусова змяняць вымераную экспазіцыю для павелічэння яркасці выявы або яе зацямнення.</string>
+    <string name="parameter_exposure_feecback_description">Недаэкспанаваныя вобласці будуць падсвечаны сінім колерам, а пераэкспанаваныя — чырвоным. Гэта дазволіць вам больш дакладна адрэгуляваць экспазіцыю.</string>
+    <string name="parameter_exposure_feecback_title">Праверка экспазіцыі</string>
+    <string name="parameter_exposure_title">Экспакарэкцыя</string>
+    <string name="parameter_focus_description">"Вы можаце выконваць факусіроўкe як уручную, так і аўтаматычна. Чым большае значэнне факусіроўкі вы выбіраеце з дапамогай паўзунка, тым далей ад аб'ектыва будзе вобласць факусіроўкі."</string>
+    <string name="parameter_focus_title">Фокус</string>
+    <string name="parameter_histogram_description">"Гістаграма — гэта ўяўленне экспазіцыі ў рэжыме рэальнага часу, у якім самыя цёмныя часткі сцэны злева пераходзяць у самыя яркія часткі справа. Вертыкальная частка шкалы паказвае, якія долі сцэны з'яўляюцца яркімі або цёмнымі."</string>
+    <string name="parameter_histogram_title">Гістаграма</string>
+    <string name="parameter_iso_description">Значэнне ISO можа быць вызначана аўтаматычна пры дапамозе экспанометра. Вы таксама можаце змяняць гэта значэнне ўручную. Памятайце, што больш высокае значэнне ISO робіць камеру больш адчувальнай да святла, але павялічвае ўзровень лічбавага шуму.</string>
+    <string name="parameter_lens_description">"Вы можаце пераключацца паміж даступнымі аб'ектывамі:"</string>
+    <string name="parameter_lens_marco">", MACRO (макрааб'ектыў)"</string>
+    <string name="parameter_lens_st">", S-TELE (зум-аб'ектыў)"</string>
+    <string name="parameter_lens_t">", TELE (тэлеаб'ектыў)"</string>
+    <string name="parameter_lens_tele_2x">", TELE-2X (тэлеаб'ектыў)"</string>
+    <string name="parameter_lens_tele_5x">", TELE-5X (тэлеаб'ектыў)"</string>
+    <string name="parameter_lens_title">"Аб'ектывы"</string>
+    <string name="parameter_lens_uw">", UW (звышшырокавугольны аб'ектыў)"</string>
+    <string name="parameter_lens_w">"WIDE (шырокавугольны аб'ектыў)"</string>
+    <string name="parameter_log_format_description">Гэта фармат запісвае відэа з дапамогай лагарыфмічнай функцыі, якая прымяняецца да крывой экспазіцыі, каб захапіць больш дэталяў у падсветленых абласцях і ценях, што дае вам больш магчымасцяў падчас наступнай апрацоўкі.</string>
+    <string name="parameter_log_format_title">Фармат LOG</string>
+    <string name="parameter_metering_description">"Асераднёны замер улічвае ўсе вобласці выявы і лепш падыходзіць для раўнамерна асветленых кадраў. Цэнтраўзважаны замер у асноўным сфакусаваны на цэнтры кадра і ўлічвае яркасць навакольнай вобласці. Такі рэжым падыходзіць для здымкі аб'ектаў, размешчаных у цэнтры кадра. Кропкавы замер ахоплівае толькі вобласць у пэўнай кропцы, забяспечваючы дакладнае кіраванне экспазіцыяй."</string>
+    <string name="parameter_metering_title">Рэжымы вымярэння</string>
+    <string name="parameter_peak_focus_description">Пры ручной наладзе факусоўкі выкарыстоўвайце вызначэнне вобласці факусіравання для вылучэння чырвоным колерам дадзенай вобласці.</string>
+    <string name="parameter_peak_focus_title">Вызначэнне вобласці факусіравання</string>
+    <string name="parameter_peak_raw_description">Здымка ў дадзеным фармаце дазваляе захаваць усе дадзеныя аб выяве, атрыманыя фотаматрыцай. Несціснутыя дадзеныя даюць дадатковыя магчымасці падчас постапрацоўкі.</string>
+    <string name="parameter_peak_raw_title">Фармат RAW</string>
+    <string name="parameter_wb_description">Акрамя балансу белага (лямпа напальвання, дзённае святло, флуарэсцентнае святло, воблачна), вы таксама можаце ўсталяваць карыстацкае значэнне балансу белага ў межах дыяпазону 2000–8000 градусаў Кельвіна.</string>
+    <string name="parameter_wb_title">Баланс белага</string>
+    <string name="parameter_zoom_slider_description">Перацягвайце паўзунок маштабавання ўверх і ўніз, каб плаўна змяняць набліжэнне вашага здымка ад далёкага да буйнога плана.</string>
+    <string name="parameter_zoom_slider_title">Маштабаванне</string>
     <string name="path_settings">Сістэмныя праграмы/Камера/Налады</string>
     <string name="photo_assistance_tips_title">Парады ў рэальным часе</string>
+    <string name="pic_flaw_blink_more">Здаецца, у каго-то ў кадры зачыненыя вочы</string>
+    <string name="pic_flaw_blink_one">Здаецца, чалавек у кадры заплюшчыў вочы</string>
+    <string name="pic_flaw_cover">"Здаецца, аб'ектыў часткова прыкрыты"</string>
     <string name="popup_tip_3d_beauty_intro_text">3D паляпшэнне</string>
     <string name="portait_effect_entry_blackwhite">Ч/Б</string>
     <string name="portait_effect_entry_cool">Мята</string>
@@ -418,6 +465,17 @@
 і павялічвае выразнасць пярэдняга плана."</string>
     <string name="portrait_bokeh_text">Партрэтны рэжым</string>
     <string name="portrait_bokeh_tips">"Размесціце суб'екта у межах 1,5 метраў"</string>
+    <string name="portrait_india_effect_entry_memory">Памяць</string>
+    <string name="portrait_india_effect_entry_mono">Мона</string>
+    <string name="portrait_india_effect_entry_pink">Ружовы</string>
+    <string name="portrait_india_effect_entry_portrait">Партрэт</string>
+    <string name="portrait_india_effect_entry_retro">Рэтра</string>
+    <string name="portrait_india_effect_entry_romantic">Рамантычны</string>
+    <string name="portrait_india_effect_entry_strong">Насычаны</string>
+    <string name="portrait_india_effect_entry_sunny">Сонечна</string>
+    <string name="portrait_india_effect_entry_sweet">Карамель</string>
+    <string name="portrait_india_effect_entry_warm">Цёплы</string>
+    <string name="portrait_india_effect_entry_young">Малады</string>
     <string name="portrait_mode_depth_effect_success_hint">Эфект глыбіні</string>
     <string name="portrait_mode_lowlight_hint">Зараз занадта цёмна</string>
     <string name="portrait_mode_too_close_hint">"Адыдзіце далей ад аб'екта"</string>
@@ -427,7 +485,6 @@
     <string name="portrait_mode_use_hint_for_bokeh">"Паспрабуйце зрабіць фота ў партрэтным рэжыме.
 Аб'еут здымкі застанецца ў фокусе, а фон будзе размыты."</string>
     <string name="pref_960_watermark_title">Вадзяной знак 960FPS</string>
-    <string name="pref_advance_settings">Дадатковыя налады</string>
     <string name="pref_ai_detect">Вызначэнне AI</string>
     <string name="pref_audio_focus_entry_front">Франтальны</string>
     <string name="pref_audio_focus_entry_general">Нармальны</string>
@@ -452,6 +509,10 @@
     <string name="pref_camera_autoexposure_entry_frameaverage">Усярэднены</string>
     <string name="pref_camera_autoexposure_entry_spotmetering">Кропкавы</string>
     <string name="pref_camera_autoexposure_title">Рэжым экспазіцыі</string>
+    <string name="pref_camera_auxiliary_close">Адкл</string>
+    <string name="pref_camera_auxiliary_exposure_feedback">Праверка экспазіцыі</string>
+    <string name="pref_camera_auxiliary_focus_peak">Вызначэнне вобласці факусіравання</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="pref_camera_beautify_entry_high">Высокі</string>
     <string name="pref_camera_beautify_entry_low">Нізкі</string>
     <string name="pref_camera_beautify_entry_normal">Сярэдні</string>
@@ -476,6 +537,7 @@
     <string name="pref_camera_coloreffect_entry_vsco_a4">Аналагавы</string>
     <string name="pref_camera_coloreffect_entry_vsco_f2">Матавы</string>
     <string name="pref_camera_coloreffect_title">Фільтры</string>
+    <string name="pref_camera_common_settings">Агульныя налады</string>
     <string name="pref_camera_contrast_title">Кантраст</string>
     <string name="pref_camera_delay_capture_entry_10s">Затрымка 10 сек.</string>
     <string name="pref_camera_delay_capture_entry_3s">Затрымка 3 сек.</string>
@@ -484,12 +546,10 @@
     <string name="pref_camera_delay_capture_title">Таймер</string>
     <string name="pref_camera_device_watermark_title">Вадзяны знак прылады</string>
     <string name="pref_camera_exposuretime_entry_0_5">2 сек.</string>
-    <string name="pref_camera_exposuretime_entry_1">1s</string>
     <string name="pref_camera_exposuretime_entry_1000">1/1000s</string>
     <string name="pref_camera_exposuretime_entry_125">1/125s</string>
     <string name="pref_camera_exposuretime_entry_15">1/15s</string>
     <string name="pref_camera_exposuretime_entry_16s">16 сек.</string>
-    <string name="pref_camera_exposuretime_entry_2">1/2s</string>
     <string name="pref_camera_exposuretime_entry_250">1/250s</string>
     <string name="pref_camera_exposuretime_entry_30">1/30s</string>
     <string name="pref_camera_exposuretime_entry_32s">32 сек.</string>
@@ -526,6 +586,8 @@
     <string name="pref_camera_hdr_entry_live">Жывы</string>
     <string name="pref_camera_hdr_entry_normal">Pro</string>
     <string name="pref_camera_hdr_entry_off">Адкл</string>
+    <string name="pref_camera_heic_image_format_description">Фота ў высокаэфектыўнам фармаце файлаў выяў займаюць менш месцы ў сховішчы, але не падтрымліваюцца некаторымі праграмамі</string>
+    <string name="pref_camera_heic_image_format_title">Фармат HEIF</string>
     <string name="pref_camera_hfr_entry_2x">60</string>
     <string name="pref_camera_hfr_entry_3x">90</string>
     <string name="pref_camera_hfr_entry_4x">120</string>
@@ -548,6 +610,7 @@
     <string name="pref_camera_lying_summary">Апавяшчаць аб бягучай арыентацыі, калі тэлефон знаходзіцца паралельна зямлі</string>
     <string name="pref_camera_lying_title">Апавяшчаць аб арыентацыі</string>
     <string name="pref_camera_magic_mirror_title">Магічнае люстэрка</string>
+    <string name="pref_camera_manual_description_title">Аб прафесійных функцыях</string>
     <string name="pref_camera_manual_mode_title">Ручная</string>
     <string name="pref_camera_movie_solid_title">Стабілізацыя выявы</string>
     <string name="pref_camera_multilevel_entry_high">Высокая</string>
@@ -571,6 +634,7 @@
     <string name="pref_camera_portrait_mode_title">Партрэтны рэжым</string>
     <string name="pref_camera_proximity_lock_summary">Блакаваць выпадковыя дотыкі ў кішэні</string>
     <string name="pref_camera_proximity_lock_title">Кішэнны рэжым</string>
+    <string name="pref_camera_quick_settings">Хуткія налады</string>
     <string name="pref_camera_recordlocation_entry_off">Выкл</string>
     <string name="pref_camera_recordlocation_entry_on">Укл</string>
     <string name="pref_camera_recordlocation_title">Захаваць месцазнаходжанне для фота</string>
@@ -675,6 +739,9 @@
     <string name="pref_new_slow_motion_video_quality_entry_720p">HD 720p</string>
     <string name="pref_photo_assistance_tips_off">Выкл.</string>
     <string name="pref_photo_assistance_tips_on">Укл.</string>
+    <string name="pref_pic_flaw_tip_summary">"Атрымліваць паведамлення ў рэжыме рэальнага часу, калі людзі ў кадры зачынілі вочы ці аб'ектыў часткова прыкрыты падчас здымкі"</string>
+    <string name="pref_pic_flaw_tip_title">Апавяшчаць пра недахопы</string>
+    <string name="pref_popup_camera_title">Высоўная камера</string>
     <string name="pref_priority_storage_title">Захаваць на SD-карту</string>
     <string name="pref_privacy_title">Палітыка канфідэнцыяльнасці</string>
     <string name="pref_qc_focus_position_title">F</string>
@@ -814,7 +881,7 @@
     <string name="video_effect_entry_polaroid">Палароід</string>
     <string name="video_reach_size_limit">Дасягнуты максімальны памер відэа.</string>
     <string name="video_ultra_clear_tip">4K UHD</string>
-    <string name="video_ultra_clear_tip_8k">8K UHD</string>
+    <string name="video_ultra_clear_tip_8k">AI 8K</string>
     <string name="view_privacy_policy">Прагледзець Палітыку канфідэнцыяльнасці</string>
     <string name="vv_duartion_hint">%1$s | Сегмент %2$d | %3$ss</string>
     <string name="vv_hint">Вы можаце здымаць відэаблогі толькі ў пейзажным рэжыме</string>

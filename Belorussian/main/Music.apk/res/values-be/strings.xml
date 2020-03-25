@@ -112,7 +112,7 @@
     <string name="artist_name">Выканаўца</string>
     <string name="audio_picker_title">Абярыце трэк</string>
     <string name="auto_recommend">Аўта (рэкамендуецца)</string>
-    <string name="auto_sound_quality">Auto</string>
+    <string name="auto_sound_quality">Аўта</string>
     <string name="auto_update">Абнаўляць аўтаматычна</string>
     <string name="auto_update_tip">Вы можаце абнаўляць сістэмныя праграмы праз мабільны інтэрнэт. Гэта можа пацягнуць дадатковыя выдаткі.</string>
     <string name="available_playlist_name_format">Новы плэйліст %d</string>
@@ -270,7 +270,9 @@
     <string name="download_method">Спампоўка</string>
     <string name="download_no_application_title">Не ўдаецца адкрыць файл</string>
     <string name="download_paused_in_power_save_mode">Downloads are paused when Battery saver is on</string>
+    <string name="download_percent">%d%%</string>
     <string name="download_processing">Спампоўка…</string>
+    <string name="download_progress">%d%%</string>
     <string name="download_quality">Якасць спампоўкі</string>
     <string name="download_quality_summary">Дадатковыя налады для спампоўкі песень</string>
     <string name="download_queued">У чарзе</string>
@@ -351,7 +353,9 @@
     <string name="exo_download_notification_channel_name">Спампоўкі</string>
     <string name="exo_download_removing">Выдаленне спамповак</string>
     <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Мбіт/с</string>
     <string name="exo_track_mono">Мона</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">Аўтаматычна</string>
     <string name="exo_track_selection_none">Няма</string>
     <string name="exo_track_selection_title_audio">Аўдыя</string>
@@ -649,6 +653,7 @@
     <string name="play_mode_play_all">Play all</string>
     <string name="play_mode_shuffle_all">Shuffle</string>
     <string name="play_next">Play next</string>
+    <string name="play_setting">Прайграванне</string>
     <string name="play_video_with_traffic">ПРАДОЎЖЫЦЬ</string>
     <string name="play_video_with_traffic_toast">Зараз вы карыстаецеся мабільным інтэрнэтам.</string>
     <string name="playlist_empty">No playlists found.</string>
@@ -669,6 +674,7 @@
     <string name="priority_storage_summary">Аўтаматычна захоўваць файлы на SD-карту, калі яна падлучана</string>
     <string name="privacy_desc">Палітыка прыватнасці (абавязкова)</string>
     <string name="privacy_policy">Палітыка канфідэнцыяльнасці</string>
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=be_BY</string>
     <string name="pro_member">Член PRO</string>
     <string name="project_device">Mi Phone</string>
     <string name="prompt_grant_write_settings_permission">Дазволіць змяняць сістэмныя налады</string>
@@ -793,9 +799,11 @@
     <string name="songgroup_pick_playlist">Playlists</string>
     <string name="sort_by_name">Name</string>
     <string name="sort_by_time">Date</string>
+    <string name="sound_fade_in_and_out_when_change_song_automatically">Паспрабуйце ўключыць плыўны пераход паміж трэкамі</string>
     <string name="start_to_check_new_version">Праверка абнаўлення…</string>
     <string name="start_to_download">Запампоўка…</string>
     <string name="start_to_play">Прайграць</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_cloned_app">Памяць для клонаў праграм</string>
     <string name="storage_internal">Унутранае сховішча</string>
     <string name="storage_sd_card">SD-карта</string>
@@ -872,6 +880,7 @@
     <string name="upgrade_music_message">Updates are ready. Restart to update.</string>
     <string name="upgrading_in_backstage">Updating in the background…</string>
     <string name="user_agreement">Карыстальніцкае пагадненне</string>
+    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=be_BY</string>
     <string name="v7_preference_off">ВЫКЛ.</string>
     <string name="v7_preference_on">УКЛ.</string>
     <string name="version_info">Version</string>

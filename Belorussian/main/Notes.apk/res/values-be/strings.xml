@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="abc_action_bar_home_description">Перайсці на галоўную старонку</string>
+    <string name="abc_action_bar_up_description">Перайсці ўверх</string>
+    <string name="abc_action_menu_overflow_description">Дадатковыя параметры</string>
+    <string name="abc_action_mode_done">Гатова</string>
+    <string name="abc_activity_chooser_view_see_all">Паказаць усе</string>
+    <string name="abc_activitychooserview_choose_application">Выберыце праграму</string>
+    <string name="abc_capital_off">ВЫКЛ.</string>
+    <string name="abc_capital_on">УКЛ.</string>
+    <string name="abc_menu_alt_shortcut_label">Alt +</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
+    <string name="abc_menu_delete_shortcut_label">Delete</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">Fn +</string>
+    <string name="abc_menu_meta_shortcut_label">Meta +</string>
+    <string name="abc_menu_shift_shortcut_label">Shift +</string>
+    <string name="abc_menu_space_shortcut_label">Прабел</string>
+    <string name="abc_menu_sym_shortcut_label">Sym +</string>
+    <string name="abc_prepend_shortcut_label">Меню +</string>
+    <string name="abc_search_hint">Пошук…</string>
+    <string name="abc_searchview_description_clear">Выдаліць запыт</string>
+    <string name="abc_searchview_description_query">Пошукавы запыт</string>
+    <string name="abc_searchview_description_search">Пошук</string>
+    <string name="abc_searchview_description_submit">Адправіць запыт</string>
+    <string name="abc_searchview_description_voice">Галасавы пошук</string>
+    <string name="abc_shareactionprovider_share_with">Абагуліць праз</string>
+    <string name="abc_shareactionprovider_share_with_application">Абагуліць праз праграму \"%s\"</string>
+    <string name="abc_toolbar_collapse_description">Згарнуць</string>
     <string name="action_folder_description">Праглядзець папкі</string>
     <string name="action_mode_switcher_grid_description">У выглядзе табліцы</string>
     <string name="action_mode_switcher_list_description">У выглядзе спіса</string>
@@ -36,11 +63,14 @@
     <string name="cloud_trash_bin_title">Выдаленыя нататкі ў воблаку</string>
     <string name="confirm_cancel">Не згаджацца</string>
     <string name="confirm_ok">Згадзіцца</string>
+    <string name="copy">Капіраваць</string>
     <string name="cta_confirm_cancel">Не дазваляць</string>
     <string name="cta_confirm_ok">Дазволіць</string>
     <string name="cta_dialog_message">Для нармальнай працы Нататкам патрабуецца падлучэнне да Інтэрнэту, дазвол на запіс гуку і доступ да вашых кантактаў. Дазволіць?</string>
     <string name="cta_dialog_title">Патрабуюцца дазволы</string>
     <string name="cta_reminder">Для нармальнай працы Нататкам патрабуецца падлучэнне да інтэрнэту, дазвол на запіс гуку і доступ да вашых кантактаў. Дазволіць?</string>
+    <string name="data_empty_note">Тут пакуль няма нататкаў</string>
+    <string name="data_empty_todo">Тут пакуль няма задач</string>
     <string name="date_calculate_today">0 дзён</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
@@ -90,6 +120,7 @@
     <string name="error_unsupport_content">Нататка змяшчае невядомыя рэсурсы, націсніце для абнаўлення</string>
     <string name="error_widget_exist_for_send_to_desktop">Гэтая нататка ўжо прысутнічае на працоўным стале</string>
     <string name="exceed_todo_text_limitation">Апісанне задачы занадта доўгае.</string>
+    <string name="expand_button_title">Пашыраныя налады</string>
     <string name="first_enter_custom_folder_hint">Тут можна перайменаваць ці выдаліць папкі</string>
     <string name="fmt_chinese_date">N e</string>
     <string name="fmt_time_12hour_minute">h:mm</string>
@@ -137,6 +168,7 @@
     <string name="new_audio_create_guide_tip">Націсніце і ўтрымлівайце, каб стварыць галасавую нататку</string>
     <string name="new_audio_create_talkback_des">Націсніце, каб стварыць тэкставую нататку. Націсніце і ўтрымлівайце, каб стварыць галасавую нататку. Адпусціце кнопку, каб спыніць запіс і стварыць нататку, або правядзіце ўверх для адмены.</string>
     <string name="not_now">Не зараз</string>
+    <string name="not_set">Не зададзена</string>
     <string name="note_description_content">Праграма «Нататкі» — выдатны сродак для запісу вашых думак. У ёй маюцца ўбудаваныя напаміны, і яна сінхранізуе вашы нататкі з воблакам, каб вы маглі атрымаць доступ да іх у любым месцы ў любы час. Перад выдаленнем праграмы ўпэўніцеся, што вы можаце абысціся без гэтых функцый.</string>
     <string name="note_description_title">Аб праграме</string>
     <string name="note_link_email">Напісаць пісьмо</string>
@@ -147,6 +179,8 @@
     <string name="note_sort_way">Выберыце, як вы хочыце сартыраваць нататкі</string>
     <string name="notealert_enter">Адкрыць нататку</string>
     <string name="notealert_ok">Зачыніць</string>
+    <string name="notelist_string_info">…</string>
+    <string name="notification_content_add_todo_from_other_app">Вы дадалі новую задачу. Націсніце для прагляду.</string>
     <string name="notify_alarm_title">Нататкавы напамін</string>
     <string name="permdesc_accessNote">Злаўмысныя праграмы могуць выкарыстоўваць гэты дазвол для атрымання вашых асабістых дадзеных.</string>
     <string name="permission_get_account_desc">Сінхранізацыя нататак з воблакам</string>
@@ -171,6 +205,7 @@
     <string name="pref_title_skip_confirm_for_quick_delete">Выдаленне з дапамогай жэсту</string>
     <string name="pref_title_todo_float_mode">Выкарыстоўваць панэль інструментаў задач</string>
     <string name="pref_title_todo_shorcut">Панэль інструментаў</string>
+    <string name="preference_copied">\"%1$s\": скапіравана ў буфер абмену.</string>
     <string name="privacy_note_content_empty">"Тут пакуль няма аб'ектаў."</string>
     <string name="recover_notes_hint">Здарылася памылка, перайдзіце на i.mi.com, каб аднавіць нататкі.</string>
     <string name="redo">Вярнуць</string>
@@ -211,6 +246,7 @@
     <string name="search_hint">Пошук нататак</string>
     <string name="search_keyword_notes">Нататкі; Памятка</string>
     <string name="search_label">Пошук…</string>
+    <string name="search_menu_title">Пошук</string>
     <string name="search_path_notes">Сістэмныя праграмы/Нататкі</string>
     <string name="search_setting_description">Пошук тэксту ў нататках</string>
     <string name="select_account_prompt">Сінхранізацыя нататак</string>
@@ -235,6 +271,8 @@
     <string name="sns_title_send">Адправіць паведамленне</string>
     <string name="sns_toast_empty">Немагчыма адправіць пустое паведамленне</string>
     <string name="sns_toast_over_limit">Адпраўлена як малюнак</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sync_tips">Націсніце, каб сінхранізаваць нататкі з воблакам.</string>
     <string name="theme_blue_description">Сіні</string>
     <string name="theme_green_description">Зялёны</string>
@@ -345,6 +383,8 @@
     <string name="unclassfied_folder_name">Без катэгорыі</string>
     <string name="undo">Скасаваць</string>
     <string name="unknown_source">Невядомая крыніца</string>
+    <string name="v7_preference_off">ВЫКЛ.</string>
+    <string name="v7_preference_on">УКЛ.</string>
     <string name="widget_content_loading">Хвілінку…</string>
     <string name="widget_havenot_content">Націсніце, каб стварыць нататку. Утрымлівайце віджэт, каб змяніць памер.</string>
 </resources>

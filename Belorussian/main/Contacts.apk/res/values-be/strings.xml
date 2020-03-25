@@ -48,6 +48,11 @@
     <string name="back_description">Назад</string>
     <string name="back_view_description">Назад</string>
     <string name="batch_delete">Пакетнае выдаленне</string>
+    <string name="bind_simcard_default">SIM-карта па змаўчанні для выклікаў</string>
+    <string name="bind_simcard_menu">Выберыце SIM-карту па змаўчанні для выклікаў</string>
+    <string name="bind_simcard_no_dual">Другая SIM-карта не знойдзена</string>
+    <string name="bind_simcard_not_set">Не задана</string>
+    <string name="bind_simcard_title">SIM-карта па змаўчанні для выклікаў</string>
     <string name="blacklist">У чорны спіс</string>
     <string name="bluetooth_connection_failed_toast">Bluetooth злучэнне перапынена</string>
     <string name="blurbJoinContactDataWith">"Выберыце кантакт, для аб'яднання з \"%s\":"</string>
@@ -61,7 +66,7 @@
     <string name="callAgain">Паўторны выклік</string>
     <string name="callBack">Ператэлефанаваць</string>
     <string name="callDetailTitle">Інфармацыя пра выклік</string>
-    <string name="callDetailsDurationFormat" formatted="false">%s хв. %s сек.</string>
+    <string name="callDetailsDurationFormat">%1$s хв. %2$s сек.</string>
     <string name="callShortcutActivityTitle">Выберыце нумар для выкліка</string>
     <string name="call_assistant">Выклік %s</string>
     <string name="call_callback">Зваротны выклік</string>
@@ -100,6 +105,7 @@
     <string name="call_sim_menu_title_suffix">(Асноўны)</string>
     <string name="call_telex">Тэлекс</string>
     <string name="call_tty_tdd">Тэлетайп</string>
+    <string name="call_type_and_date">%1$s %2$s</string>
     <string name="call_unit">CNY</string>
     <string name="call_work">Працоўны тэлефон</string>
     <string name="call_work_mobile">Працоўны мабільны</string>
@@ -187,6 +193,7 @@
     <string name="cloud_state_loading">Хвілінку…</string>
     <string name="cloud_state_sync_finished">Сінхранізавана з воблакам</string>
     <string name="cloud_state_syncing">Сінхранізацыя з воблакам</string>
+    <string name="cloud_upgrade_recommend">Не ўдаецца сінхранізаваць кантакты з-за недахопу месца ў воблачным сховішча. Павысьце ўзровень свайго плана воблачнага сховішча.</string>
     <string name="combined_title_and_miprofile_swaped">%1$s, %2$s</string>
     <string name="combined_title_and_miprofile_swaped_huge_mode">"%1$s
 %2$s"</string>
@@ -194,6 +201,7 @@
     <string name="composer_has_no_exportable_contact">Кантакты для экспарту не знойдзены. Магчыма, экспарт кантактаў з прылады не падтрымліваецца пастаўшчыком паслуг перадачы дадзеных.</string>
     <string name="composer_not_initialized">Рэдактар vCard запушчаны некаррэктна.</string>
     <string name="conference_call_disable_tip">Немагчыма ажыццяўляць выклікі. Ваша прылада пваінна далучыцца да сеткі 4G з падтрымкай VoLTE.</string>
+    <string name="confirm_delete_cloud_all_call_logs">Выдаліць усе запісы журнала выклікаў, звязаныя з %s, з воблака і з гэтай прылады?</string>
     <string name="confirm_delete_contact_all_call_logs">Выдаліць усе запісы для кантакта %s?</string>
     <string name="confirm_delete_selected_all_call_logs">Ачысціць гісторыю выклікаў?</string>
     <string name="confirm_delete_sim_entry_miui_title">Выдаліць</string>
@@ -296,12 +304,15 @@
     <string name="date_time_set">Наладзіць</string>
     <string name="date_year_toggle">Пазначыць год</string>
     <string name="default_ringtone">Мелодыя па змаўчанні</string>
+    <string name="deleteCloudConfirmationDetail">Выдаліць кантактныя дадзеныя %s з воблака і з гэтай прылады?</string>
     <string name="deleteConfirmation">Гэты кантакт быў выдалены.</string>
     <string name="deleteConfirmationDetail">Выдаліць кантакт \"%s\"?</string>
     <string name="deleteConfirmation_title">Выдаліць гэты кантакт?</string>
     <string name="delete_call_log_message">Ачысціць гісторыю выклікаў?</string>
     <string name="delete_call_log_selected_title">Ачысціць выбраныя элементы?</string>
     <string name="delete_call_log_title">Ачысціць гісторыю выклікаў</string>
+    <string name="delete_conference_call_log_message">Выдаліць усе запісы канферэнц-выклікаў, звязаных з гэтым кантактам?</string>
+    <string name="delete_conference_call_log_title">Выдаліць запісы канферэнц-выклікаў</string>
     <string name="delete_contact_calllog_title">Ачысціць гісторыю выклікаў?</string>
     <string name="delete_dial_input">Выдаліць</string>
     <string name="delete_duplicate">"Аб'яднаць"</string>
@@ -378,17 +389,17 @@
     <string name="device_paired_dialog_title">Атрыманне кантактаў…</string>
     <string name="device_pairing_dialog_message">Падключэнне…</string>
     <string name="device_pairing_dialog_title">Далучэнне прылад</string>
-    <string name="device_transfer_by_bluetooth_message">"1. Калі ласка, уключыце \"Bluetooth\" на іншай прыладзе. 
+    <string name="device_transfer_by_bluetooth_message">"%1$d.Уключыце Bluetooth на іншай прыладзе.
 
-- на Android-прыладах \"Bluetooth\" звычайна знаходзіцца ў наладах сеткі 
-- на iOS-прыладах \"Bluetooth\" знаходзіцца ў меню Налады 
+- на Android-прыладах Bluetooth звычайна знаходзіцца ў наладах сеткі.
+- на iOS-прыладах Bluetooth знаходзіцца ў меню «Налады».
 
-2. На Android-прыладах таксама неабходна ўключыць рэжым бачнасці. 
+%2$d. На Android-прыладах таксама неабходна ўключыць рэжым бачнасці.
 
-3. Націсніце \"Далей\" і дазвольце доступ да Кантактаў на наступным кроку."</string>
-    <string name="device_transfer_by_sim_message">"\"1. Захавайце кантакты з іншай прылады на SIM-карту; 
+%3$d. Націсніце «Далей» і падайце Кантактам неабходныя дазволы."</string>
+    <string name="device_transfer_by_sim_message">"%1$d. Захавайце кантакты з іншай прылады на SIM-карту;
 
-2. Адкрыйце налады Кантактаў, перайдзіце ў \"Імпарт і экспарт\" - \"Імпарт з SIM-карты\", выберыце патрэбны рахунак, выберыце ўсе патрэбныя кантакты і націсніце \"Імпарт\".\""</string>
+%2$d. Адкрыйце налады ў праграме «Кантакты», перайдзіце ў  «Імпарт і экспарт кантактаў» - «Імпарт з SIM-карты», націсніце на любы кантакт SIM для яго выбару, выберыце ўсе патрэбныя кантакты і націсніце «Імпарт»."</string>
     <string name="device_version_header_bluetooth">Імпартаваць з дапамогай Bluetooth</string>
     <string name="device_version_header_no_bluetooth">Імпарт з дапамогай SIM-карты</string>
     <string name="dial">Выклік</string>
@@ -440,7 +451,6 @@
     <string name="edit_contact">Змяніць кантакт</string>
     <string name="edit_contact_card_title">Выберыце элементы для адпраўкі</string>
     <string name="edit_contact_photo">Змяніць фота кантакту</string>
-    <string name="eight">8</string>
     <string name="eight_letter">TUV</string>
     <string name="email">Email</string>
     <string name="emailLabelsGroup">Email</string>
@@ -471,13 +481,13 @@
 Прычына: \"%s\""</string>
     <string name="exporting_contact_failed_title">Не атрымалася экспартаваць</string>
     <string name="exporting_contact_list_message">Экспартаванне ў \"%s\".</string>
-    <string name="exporting_contact_list_progress" formatted="false">Кантактаў: %s з %s</string>
+    <string name="exporting_contact_list_progress">%1$s з %2$s кантактаў</string>
     <string name="exporting_contact_list_title">Экспарт дадзеных кантакту</string>
     <string name="exporting_vcard_canceled_title">Экспарт скасаваны: %s.</string>
     <string name="exporting_vcard_finished_title">Экспартаванне завершана: %s.</string>
     <string name="external_profile_title">Мой профіль %1$s</string>
     <string name="fail_reason_could_not_initialize_exporter">Не ўдаецца экспартаваць: %s.</string>
-    <string name="fail_reason_could_not_open_file" formatted="false">Не атрымалася адкрыць \"%s: %s.</string>
+    <string name="fail_reason_could_not_open_file">Не атрымалася адкрыць \"%1$s\": %2$s.</string>
     <string name="fail_reason_error_occurred_during_export">Памылка пры экспарце: %s.</string>
     <string name="fail_reason_failed_to_collect_vcard_meta_info">Немагчыма атрымаць інфармацыю з vCard.</string>
     <string name="fail_reason_failed_to_read_files">Не атрымалася імпартаваць адзін або некалькі файлаў (%s).</string>
@@ -493,13 +503,12 @@
     <string name="favoritesFrequentContacted">Часта выклікаемыя</string>
     <string name="favorites_list_empty">Няма выбраных</string>
     <string name="firewall_setting">Чорны спіс</string>
-    <string name="five">5</string>
     <string name="five_letter">JKL</string>
     <string name="force_touch_miprofile">Візітка</string>
     <string name="force_touch_new_contact">Новы кантакт</string>
-    <string name="four">4</string>
     <string name="four_letter">GHI</string>
     <string name="frequentList">Частыя</string>
+    <string name="from_account_format">%1$s</string>
     <string name="full_name">Імя</string>
     <string name="gallery">Галерэя</string>
     <string name="generic_no_account_prompt">Трымайце свае кантакты ў бяспецы нават калі Вы згубіце свой тэлефон: сінхранізацыя з анлайн-сэрвісам.</string>
@@ -554,8 +563,8 @@
     <string name="import_from_sim2">Імпарт з SIM-карты 2</string>
     <string name="import_multiple_vcard_string">Імпарт некалькіх vCard</string>
     <string name="import_name">Імя</string>
-    <string name="import_one_vcard_string">Імпарт 1 vCard файла</string>
-    <string name="import_percent">0%</string>
+    <string name="import_one_vcard_string">Імпартаваць %d файл vCard</string>
+    <string name="import_percent">%1$d%2$s</string>
     <string name="import_selected_sim_entries_miui">Імпарт выбраных кантактаў</string>
     <string name="import_sim_contacts_hint_title">Імпарт кантактаў з SIM-карты</string>
     <string name="import_sim_entries_finish">Імпарт кантактаў з SIM-карты завершаны</string>
@@ -683,6 +692,7 @@
     <string name="miprofile_contact_header">Кантакты з візіткамі</string>
     <string name="miprofile_contact_meaasge">Кантакты на прыладзе</string>
     <string name="miprofile_contact_verifying">Праверка</string>
+    <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miprofile_edit_title">Рэдагаваць профіль</string>
     <string name="miprofile_error_accept_self">Нельга абмяняцца візіткамі з сабой</string>
     <string name="miprofile_error_no_miaccount">Увайсці ў Mi Акаўнт</string>
@@ -736,6 +746,7 @@
     <string name="multi_number_menu_group">Новая група</string>
     <string name="multi_number_menu_message">Паведамленне</string>
     <string name="multi_number_title">Канферэнц-выклік</string>
+    <string name="multi_select">Абраць</string>
     <string name="multipleContactDeleteConfirmation">Выдаленне гэтага кантакту прывядзе да страты дадзеных з некалькіх акаўнтаў.</string>
     <string name="my_phone_not_provider_bluetooth">Не</string>
     <string name="my_phone_provider_bluetooth">Так</string>
@@ -756,7 +767,6 @@
     <string name="nickname_editor_title">Змяніць нік</string>
     <string name="nickname_picker_name_column">Імя кантакту</string>
     <string name="nickname_picker_nickname_column">Імя</string>
-    <string name="nine">9</string>
     <string name="nine_letter">WXYZ</string>
     <string name="noAccounts">Для стварэння груп неабходны акаўнт.</string>
     <string name="noContactHelpTextAccountsInfo" />
@@ -775,6 +785,7 @@
     <string name="no_contacts_dialog_message">Не знойдзена суадносін у вашых кантактах. Магчыма, кантакты знаходзяцца на SIM-карце. Для пошуку імпартуйце іх у тэлефон.</string>
     <string name="no_contacts_dialog_title">Кантакты не знойдзены</string>
     <string name="no_contacts_selected">Кантакты не выбраны.</string>
+    <string name="no_phone_no_shortcut">Немагчыма стварыць цэтлікі для кантактаў без тэлефонных нумароў</string>
     <string name="no_sdcard_message">SD-карта не выяўлена.</string>
     <string name="no_setting_menu">Галоўнае меню недаступна</string>
     <string name="non_phone_add_to_contacts">Дадаць да кантакту</string>
@@ -785,7 +796,6 @@
     <string name="notification_action_voicemail_play">Прайграць</string>
     <string name="notification_new_voicemail_ticker">Новае галасавое паведамленне ад %1$s</string>
     <string name="notification_voicemail_callers_list">%1$s, %2$s</string>
-    <string name="one">1</string>
     <string name="openDialKeyboard">Клавіятура</string>
     <string name="open_contact">Адчыніць кантакт</string>
     <string name="open_dial_pad_description">Адкрыць клавіятуру</string>
@@ -800,7 +810,7 @@
     <string name="option_send_to_others">Даслаць</string>
     <string name="option_view_contact">Прагляд</string>
     <string name="option_view_group">Прагляд</string>
-    <string name="organizationLabelsGroup">Арганізацыя</string>
+    <string name="organizationLabelsGroup">Пазіцыя</string>
     <string name="organization_company_and_title">%1$s, %2$s</string>
     <string name="other_contacts">Іншыя</string>
     <string name="other_phone">Іншыя прылады</string>
@@ -830,7 +840,10 @@
     <string name="path_wipe_data">Сістэмныя праграмы/Кантакты/Дадаткова/Ачысціць дадзеныя</string>
     <string name="payphone">Таксафон</string>
     <string name="people">Кантакты</string>
+    <string name="percent_sign">%1$s</string>
+    <string name="percentage">%1$s%2$s</string>
     <string name="phoneLabelsGroup">Тэлефон</string>
+    <string name="phone_info_divider">" ｜ "</string>
     <string name="phone_number_too_long_toast">Нумар занадта доўгі</string>
     <string name="phone_primary">Асноўны</string>
     <string name="photoPickerNotFoundText">Няма выяў.</string>
@@ -982,6 +995,10 @@
     <string name="ret_sign">"
 "</string>
     <string name="returnCall">Зваротны выклік</string>
+    <string name="return_call">Націсніце, каб вярнуцца да выкліку</string>
+    <string name="return_call_calling">Ідзе выклік</string>
+    <string name="return_call_dialing">Набор</string>
+    <string name="return_call_incoming">Уваходны выклік</string>
     <string name="ringLabelsGroup">Мелодыя</string>
     <string name="save_photo_progress">Захаванне фота…</string>
     <string name="savingContact">Кантакт захоўваецца…</string>
@@ -1032,6 +1049,9 @@
     <string name="select_none">"Аб'екты не выбраны"</string>
     <string name="select_show_contacts">Адлюстраванне</string>
     <string name="select_vcard_title">Выбар файла vCard</string>
+    <string name="send_contact_shortcut_todesktop_duplicate">Ярлык ўжо існуе</string>
+    <string name="send_contact_shortcut_todesktop_failed">Не атрымалася стварыць ярлык на Галоўным экране</string>
+    <string name="send_contact_shortcut_todesktop_overflow">Не ўдаецца размясціць больш ярлыкоў на Галоўным экране</string>
     <string name="send_contact_shortcut_todesktop_success">Дададзена на галоўны экран</string>
     <string name="send_to_voicemail_checkbox">Перанакіраваць выклікі на галасавую пошту</string>
     <string name="separatorJoinAggregateAll">Усе кантакты</string>
@@ -1042,11 +1062,10 @@
     <string name="set_data_package">Выберыце тарыфны план</string>
     <string name="set_default">Усталяваць па змаўчанні</string>
     <string name="set_photo_failed_msg">Не атрымалася прызначыць фота</string>
-    <string name="seven">7</string>
     <string name="seven_letter">PQRS</string>
     <string name="share_contact_as">Падзяліцца кантактам як</string>
     <string name="share_error">Не атрымалася перадаць дадзеныя</string>
-    <string name="share_over_limit">Нельга перадаць больш за 1000 кантактаў</string>
+    <string name="share_over_limit">Не ўдаецца падзяліцца з %d кантактамі</string>
     <string name="share_qrcode">Падзяліцца QR-кодам</string>
     <string name="share_via">Адправіць з дапамогай</string>
     <string name="share_visible_contacts">Адправіць кантакты</string>
@@ -1063,7 +1082,7 @@
     <string name="simContacts_title">Кантакты на SIM-карце</string>
     <string name="sim_account_name">SIM</string>
     <string name="sim_capacity">Ёмістасць SIM-карты</string>
-    <string name="sim_capacity_content" formatted="false">Усяго: %d | Выкарыстана: %d</string>
+    <string name="sim_capacity_content">Усяго: %1$d | Выкарыстана: %2$d</string>
     <string name="sim_card_no_free_space_message">Недастаткова вольнага месца</string>
     <string name="sim_card_no_free_space_title">SIM-карта запоўненая</string>
     <string name="sim_contact_existing">Кантакт ужо існуе</string>
@@ -1086,14 +1105,14 @@
     <string name="sim_unloaded">SIM-карта не ўсталявана</string>
     <string name="sina_weibo">Sina Weibo</string>
     <string name="single_group_list_empty">Няма кантактаў у групе</string>
-    <string name="six">6</string>
     <string name="six_letter">MNO</string>
+    <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
     <string name="smart_group_company_label">Па кампаніям</string>
     <string name="smart_group_company_unavailable">Няма кампаніі</string>
     <string name="smart_group_frequency_1">Напрацягу месяца</string>
-    <string name="smart_group_frequency_2">ад 1 да 3 месяцаў</string>
-    <string name="smart_group_frequency_3">ад 3 да 6 месяцаў</string>
-    <string name="smart_group_frequency_4">Больш за 6 месяцаў</string>
+    <string name="smart_group_frequency_2">Ад %1$d да %2$d месяцаў</string>
+    <string name="smart_group_frequency_3">Ад %1$d да %2$d месяцаў</string>
+    <string name="smart_group_frequency_4">Больш за %d месяца(-аў) таму</string>
     <string name="smart_group_frequency_label">Па апошнім выклікам</string>
     <string name="smart_group_label">Разумная групіроўка</string>
     <string name="smart_group_loading">Хвілінку…</string>
@@ -1133,6 +1152,7 @@
     <string name="starred_contacts">Абраныя</string>
     <string name="status_available">На месцы</string>
     <string name="status_away">Адсутнічае</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_busy">Не турбаваць</string>
     <string name="strequentList">Абраныя</string>
     <string name="success_message_import_from_account">Імпарт завершаны</string>
@@ -1143,12 +1163,11 @@
     <string name="t9_search_empty_send_sms">Адправіць паведамленне</string>
     <string name="t9_search_empty_video_call">Відэавыклік</string>
     <string name="t9_search_guide_pinyin_title1">Увядзіце лічбы для пошуку кантактаў</string>
-    <string name="t9_search_guide_pinyin_title2">Увядзіце \"4\" і \"9\", каб знайсці \"<font fgcolor="">Я</font>куб <font fgcolor="">К</font>олас\"</string>
+    <string name="t9_search_guide_pinyin_title2" formatted="false">Увядзіце \"%d\" і \"%d\", каб знайсці \"<font fgcolor="">Ю</font>рый <font fgcolor="">Л</font>юбімаў\"</string>
     <string name="t9_search_guide_zhuyin_title1">Увядзіце лічбы для пошуку кантактаў</string>
-    <string name="t9_search_guide_zhuyin_title2">Увядзіце \"5\" і \"6\", каб знайсці \"<font fgcolor="">М</font>аксім <font fgcolor="">Т</font>анк\"</string>
+    <string name="t9_search_guide_zhuyin_title2" formatted="false">Увядзіце \"%d\" і \"%d\", каб знайсці \"<font fgcolor="">М</font>аксым <font fgcolor="">С</font>яроў\"</string>
     <string name="take_new_photo">Зняць новае фота</string>
     <string name="take_photo">Зняць фота</string>
-    <string name="three">3</string>
     <string name="three_letter">DEF</string>
     <string name="titleJoinContactDataWith">"Аб'яднаць кантакты"</string>
     <string name="title_other_devices">Іншыя даступныя прылады</string>
@@ -1169,7 +1188,6 @@
     <string name="toast_text_copied">Тэкст скапіяваны</string>
     <string name="today">Сёння</string>
     <string name="transfer_accounts">Перадача акаўнтаў</string>
-    <string name="two">2</string>
     <string name="two_letter">ABC</string>
     <string name="type_incoming">Уваходны выклік</string>
     <string name="type_missed">Прапушчаны выклік</string>
@@ -1228,6 +1246,7 @@
     <string name="voip_audio_description">Выклік VoIP</string>
     <string name="voip_video_description">Відэавыклік VoIP</string>
     <string name="websiteLabelsGroup">Сайт</string>
+    <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
     <string name="wipe_data">Ачысціць дадзеныя</string>
     <string name="yellowPageNavigationIconLabel">Даведнік</string>
     <string name="yellowPageNavigationLabel">Даведнік</string>
@@ -1255,7 +1274,6 @@
     <string name="yellowpage_provider_label">Дадзеныя прадастаўленыя</string>
     <string name="yellowpage_search_the_yellowpage">Пошук у даведніку</string>
     <string name="yellowpage_user_profile">Профіль</string>
-    <string name="zero">0</string>
     <string name="zero_items_selected">Выберыце кантакт</string>
     <string name="zero_letter">+</string>
 </resources>

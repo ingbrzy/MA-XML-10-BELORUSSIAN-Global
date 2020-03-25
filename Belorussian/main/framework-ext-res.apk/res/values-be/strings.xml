@@ -83,6 +83,7 @@
     <string name="handy_mode_summary">Каб закрыць, націсніце на цёмную вобласць</string>
     <string name="handy_mode_title">Рэжым кіравання адной рукой</string>
     <string name="ignore_home_when_fingerprint_enrolling_msg">Прыкладзіце палец на кнопку Дамоў</string>
+    <string name="input_method_clipboard_tips">"Скапіраваныя аб'екты будуць выдалены з буфера абмену праз 48 гадзін"</string>
     <string name="input_method_edit_phrase_text">Рэдагаваць частыя выразы</string>
     <string name="input_method_no_content_text">"Пакуль няма аб'ектаў"</string>
     <string name="input_method_switch_settings_text">Налады клавіятуры</string>

@@ -1,5 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="last_several_days">
+        <item quantity="other">%d дзён</item>
+        <item quantity="one">%d дзень</item>
+        <item quantity="few">%d дні</item>
+        <item quantity="many">%d дзён</item>
+    </plurals>
+    <plurals name="trend_from_last_several_day_equal">
+        <item quantity="other">Сённяшні экранны час роўны вашаму сярэдняму %d-дзённаму паказчыку</item>
+        <item quantity="one">Сённяшні экранны час роўны вашаму сярэдняму %d-дзённаму паказчыку</item>
+        <item quantity="few">Сённяшні экранны час роўны вашаму сярэдняму %d-дзённаму паказчыку</item>
+        <item quantity="many">Сённяшні экранны час роўны вашаму сярэдняму %d-дзённаму паказчыку</item>
+    </plurals>
+    <plurals name="trend_from_last_several_day_less">
+        <item quantity="other">Сёння на %2$s менш экраннага часу, чым ваш сярэдні %1$d-дзённы паказчык</item>
+        <item quantity="one">Сёння на %2$s менш экраннага часу, чым ваш сярэдні %1$d-дзённы паказчык</item>
+        <item quantity="few">Сёння на %2$s менш экраннага часу, чым ваш сярэдні %1$d-дзённы паказчык</item>
+        <item quantity="many">Сёння на %2$s менш экраннага часу, чым ваш сярэдні %1$d-дзённы паказчык</item>
+    </plurals>
+    <plurals name="trend_from_last_several_day_more">
+        <item quantity="other">Сёння на %2$s больш экраннага часу, чым ваш сярэдні %1$d-дзённы паказчык</item>
+        <item quantity="one">Сёння на %2$s больш экраннага часу, чым ваш сярэдні %1$d-дзённы паказчык</item>
+        <item quantity="few">Сёння на %2$s больш экраннага часу, чым ваш сярэдні %1$d-дзённы паказчык</item>
+        <item quantity="many">Сёння на %2$s больш экраннага часу, чым ваш сярэдні %1$d-дзённы паказчык</item>
+    </plurals>
+    <plurals name="unlock_times">
+        <item quantity="other">%.2f разоў</item>
+        <item quantity="one">%.2f раз</item>
+        <item quantity="few">%.2f разы</item>
+        <item quantity="many">%.2f разоў</item>
+    </plurals>
+    <plurals name="usage_days">
+        <item quantity="other">%d дня</item>
+        <item quantity="one">%d дзень</item>
+        <item quantity="few">%d дні</item>
+        <item quantity="many">%d дзён</item>
+    </plurals>
     <plurals name="usage_state_device_explain_today">
         <item quantity="other">%d разблакіровак</item>
         <item quantity="one">%d разблакіроўка</item>
@@ -23,6 +59,12 @@
         <item quantity="one">Атрымана %d апавяшчэнне</item>
         <item quantity="few">Атрымана %d апавяшчэнні</item>
         <item quantity="many">Атрымана %d апавяшчэнняў</item>
+    </plurals>
+    <plurals name="usage_state_focus_usage_summary">
+        <item quantity="other">%d хвіліны — гэта вялікі крок насустрач уважлівасці і канцэнтрацыі.</item>
+        <item quantity="one">%d хвіліна — гэта вялікі крок насустрач уважлівасці і канцэнтрацыі.</item>
+        <item quantity="few">%d хвіліны — гэта вялікі крок насустрач уважлівасці і канцэнтрацыі.</item>
+        <item quantity="many">%d хвілін — гэта вялікі крок насустрач уважлівасці і канцэнтрацыі.</item>
     </plurals>
     <plurals name="usage_state_hour">
         <item quantity="other">%d г</item>

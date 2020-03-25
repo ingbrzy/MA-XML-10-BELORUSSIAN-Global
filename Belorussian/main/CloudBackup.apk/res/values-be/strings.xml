@@ -10,7 +10,6 @@
     <string name="retry">Паўтор</string>
     <string name="cloud_app_current_device">Бягучая прылада</string>
     <string name="cloud_app_other_devices">Іншыя прылады</string>
-    <string name="cloud_app_restore_app_and_data">Наладзіць прыладу</string>
     <string name="cloud_app_restore_data">"Асабістыя дадзеныя і праграмы, што былі раней усталяваныя, будуць з'яўляцца на прыладзе аўтаматычна"</string>
     <string name="cloud_app_dont_restore">Наладзіць як новую прыладу</string>
     <string name="cloud_app_restore_wifi_prompt">Аднавіць з воблачнай рэзервовай копіі.</string>
@@ -50,6 +49,8 @@
     <string name="self_device_second_space">Другая прастора гэтага тэлефона</string>
     <string name="other_device_main_space">Першая прастора</string>
     <string name="other_device_second_space">Другая прастора</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="process_whole_recovery">Аднаўленне \"%s\"</string>
     <string name="size_unknown">Невядомы памер</string>
     <string name="recovering">Аднаўленне \"%s\"</string>
@@ -222,4 +223,5 @@
     <string name="restore_task_unfinished">Не атрымалася аднавіць</string>
     <string name="restore_failed_reason_network_error">Памылка сеткі. Пачакайце хвіліну ці дзве і паўторыце спробу.</string>
     <string name="restore_failed_reason_disk_space_not_enough">Недастаткова вольнага месца ў сховішчы. Спачатку вызваліце ​​сховішча.</string>
+    <string name="cloud_app_restore_app_and_data">Наладзіць прыладу</string>
 </resources>

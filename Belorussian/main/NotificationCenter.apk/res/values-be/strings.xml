@@ -13,6 +13,7 @@
     <string name="hint_search_all">Пошук праграм</string>
     <string name="hint_search_in_disabled_apps">Шукаць праграмы, якія не могуць паказваць апавяшчэнні</string>
     <string name="hint_search_in_enabled_apps">Шукаць праграмы, якія могуць паказваць апавяшчэнні</string>
+    <string name="last_sent_time_second">Толькі што</string>
     <string name="list_title_disable_notification">Апавяшчэнні не дазволены</string>
     <string name="loading">Секундачку…</string>
     <string name="lock_screen_display_rules">Фармат</string>
@@ -25,10 +26,13 @@
     <string name="notification_fold_summary">"Усе няважныя апавяшчэнні будуць з'яўляцца ў асобнай тэчцы"</string>
     <string name="notification_fold_title">Папка з апавяшчэннямі</string>
     <string name="notification_manager">Апавяшчэнні праграм</string>
+    <string name="notification_style_android">Android</string>
+    <string name="notification_style_miui">MIUI</string>
     <string name="off">Адкл</string>
     <string name="on">Укл</string>
     <string name="settings_guide_title">Патрэбныя іншыя налады?</string>
     <string name="show_badge_notifications">Значкі апавяшчэнняў</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_setting">Радок стану</string>
     <string name="summary_disable_float_notification">Усплывальныя апавяшчэнні не дазволены</string>
     <string name="summary_disable_lockscreen_notification">Апавяшчэння на Экране блакавання не дазволены</string>

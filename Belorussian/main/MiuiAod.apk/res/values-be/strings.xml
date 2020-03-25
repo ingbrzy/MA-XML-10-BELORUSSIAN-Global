@@ -28,6 +28,8 @@
     <string name="abc_shareactionprovider_share_with_application">Абагуліць праз праграму %s</string>
     <string name="abc_toolbar_collapse_description">Згарнуць</string>
     <string name="search_menu_title">Пошук</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="above_image">Уверх</string>
     <string name="accessibility_battery_level">Зарад батарэі: %d адсоткаў.</string>
     <string name="accessibility_battery_level_charging">Зарадка, %d адсоткаў.</string>
     <string name="align_type">Выраўнаваць</string>
@@ -42,19 +44,22 @@
     <string name="aod_mode_summary">Адлюстраванне гадзінніка, даты, апавяшчэнняў і фонавых выяў на выключаным экране</string>
     <string name="aod_mode_time_summary">Плануйце час уключэння і выключэння рэжыму \"Экран заўжды актыўны\"</string>
     <string name="aod_mode_time_title">Расклад</string>
-    <string name="aod_mode_title">Экран заўжды актыўны</string>
+    <string name="aod_mode_title">Пастаянна ўключаны экран</string>
+    <string name="aod_show_date_and_time">Паказваць дату і час</string>
     <string name="aod_show_style_title">"Ппаказаць аб'екты"</string>
     <string name="aod_style">Тэма</string>
     <string name="aod_to_close">Адключыць</string>
     <string name="apply">Ужыць</string>
     <string name="apply_succeed">Паспяхова ўжыта</string>
     <string name="background_icon">Фон</string>
+    <string name="below_image">Уніз</string>
     <string name="cancel">Адмена</string>
     <string name="choose_aod_style">Абярыце тэму</string>
     <string name="chosen_picture">Выберыце фон</string>
     <string name="clock_panel_icon">Цыферблат гадзінніку</string>
     <string name="color_change_with_time_description">Аўтаматычна змяняць колер тэксту з цягам часу</string>
     <string name="color_change_with_time_title">Аўтаматычна змяняць колер</string>
+    <string name="custom_image">Асаблівая выява</string>
     <string name="deep_space_planet">Космас</string>
     <string name="deep_space_planet_des">Гэта тэма адлюстроўвае змены асвятлення, якія адбываюцца на працягу дня. Рассветы і закаты таксама сінхранізуюцца з вашым месцазнаходжаннем.</string>
     <string name="digital_clock">Лічбавы</string>
@@ -84,18 +89,20 @@
     <string name="show_battery_status">Паказваць стан батарэі</string>
     <string name="show_notification">Паказваць паведамленні</string>
     <string name="show_notificaton">Паказваць апавяшчэнні</string>
+    <string name="shownone_arround_image">Адсутнічае</string>
     <string name="signature">Подпіс</string>
     <string name="signature_default_content">"Заўсёды верце,
 что адбудзецца нешта цудоўнае"</string>
     <string name="standard_clock_panel">Стандартны</string>
     <string name="standard_style">Стандартны</string>
-    <string name="summary">"Для зніжэння спажывання энергіі аб'екты не будуць адлюстроўвацца ў наступных сітуацыях:
-1. Калі ваша прылада доўга ляжыць у цемры.
-2. Калі ўключаны рэжым «Не турбаваць»."</string>
+    <string name="summary">"Каб знізіць энергаспажыванне, аб'екты не будуць адлюстроўвацца, калі ваша прылада доўгі час ляжыць у цемры."</string>
     <string name="temporary_style">На працягу 10 секунд пасля дотыку</string>
     <string name="text_color">Колер тэксту</string>
     <string name="text_length_exceed_limit_alert">* Вы ўвялі занадта доўгі тэкст</string>
     <string name="text_size">Памер тэксту</string>
+    <string name="time_location">Пазіцыя Гадзінніку</string>
     <string name="time_style">Стыль</string>
     <string name="time_style_layout">Макет</string>
+    <string name="disable_aod_in_power_save_mode">Адключаць пры ўключэнні энергазберажэння</string>
+    <string name="disable_aod_in_power_save_mode_summary">"Не адлюстроўваць аб'екты для эканоміі энергіі"</string>
 </resources>

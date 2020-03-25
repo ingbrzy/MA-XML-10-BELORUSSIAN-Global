@@ -35,6 +35,7 @@
     <string name="content_description_start">Пачаць</string>
     <string name="content_introduction">Цэнтр зместа агрэгуе кантэнт і паслугі з некалькіх каналаў. Тут вы можаце чытаць артыкулы, глядзець відэа, праглядаць штодзённую падборку рэкамендаваных тавараў і атрымліваць рэкамендацыі па змесце.</string>
     <string name="continue_to_enable_accessibility">Працягвайце націскаць на экран двумя пальцамі каб уключыць TalkBack.</string>
+    <string name="data_traffic_enable_dialog_title">Калі вы не падлучаныя да Wi-Fi, будзе выкарыстоўвацца мабільны інтэрнэт. Аператар можа спаганяць дадатковую плату за выкарыстанне мабільнага інтэрнэту.</string>
     <string name="desc_extra_fingerprint" />
     <string name="desc_extra_international_fingerprint" />
     <string name="desc_fingerprint">Выкарыстоўвайце адбітак пальца для разблакавання прылады, пацвярджэння плацяжоў Mi Pay, а таксама для ўваходу ў праграмы і сэрвісы.</string>
@@ -59,7 +60,7 @@
     <string name="font_hint_large">Памер тэксту па змаўчанні</string>
     <string name="font_hint_normal">Павялічыць памер тэксту</string>
     <string name="framework_introduction">Mi Services Framework дазваляе выкарыстоўваць Mi акаўнт, Mi Push, Mi Статыстыку і бізнес-аналітыку MIUI.</string>
-    <string name="framwork_base_service">Для прадастаўлення вам гэтых паслуг Mi Services Framework (Mi акаўнт, Mi Push, Mi Статыстыка, Бізнес-аналітыка MIUI) патрабуецца падлучэнне да Інтэрнэту, доступ да вашага нумары тэлефона, IMEI і IMSI. Вы такэже павінны дазволіць вашай прыладзе атрымліваць push-апавяшчэнні</string>
+    <string name="framwork_base_service">Для прадастаўлення вам гэтых паслуг Mi Services Framework (Mi акаўнт, Mi Push, Mi Статыстыка, Бізнес-аналітыка MIUI) патрабуецца падлучэнне да Інтэрнэту, доступ да вашага месцазнаходжання, нумары тэлефон, IMEI і IMSI. Вы такэже павінны дазволіць вашай прыладзе атрымліваць push-апавяшчэнні</string>
     <string name="game_introduction">Убудова гульняў дазваляе ўваходзіць у сістэму, ствараць заказы, выконваць плацяжы, выкарыстоўваць купоны, а таксама ўдзельнічаць у прома-акцыях.</string>
     <string name="google_service_introduction">Для нармальнай працы Google Play патрабуецца падлучэнне да Інтэрнэту, доступ да вашага месцазнаходжання, дазвол на запіс аўдыё, выкананне выклікаў, доступ да мерапрыемстваў календара, гісторыі выклікаў, датчыкаў, памяці, камеры, інфармацыі пра прыладу, а таксама акаўнтаў.</string>
     <string name="ime_privacy_policy">Палітыка канфідэнцыяльнасці для выбранай клавіятуры</string>
@@ -146,6 +147,8 @@
     <string name="permission_virusscan_introduction">Для выканання праверкі на вірусы і аптымізацыі вашай прылады</string>
     <string name="permission_xunlei_introduction">Для ўваходу ў сістэму і кіравання сістэмнымі акаўнтамі ў мэтах прадастаўлення паслуг Xunlei</string>
     <string name="poco_agree_terms_other">(У тым ліку Палітыка канфідэнцыяльнасці і Карыстальніцкае пагадненне POCO Launcher)</string>
+    <string name="poco_launcher_privacy_policy">Палітыка прыватнасці POCO Launcher</string>
+    <string name="poco_launcher_user_agreement">Карыстальніцкае пагадненне POCO Launcher</string>
     <string name="pref_title_data_slot">Пераважная SIM для інтэрнэту</string>
     <string name="pref_title_voice_slot">Пераважная SIM для размоў</string>
     <string name="privacy_policy">Палітыка канфідэнцыяльнасці</string>
@@ -214,11 +217,11 @@
     <string name="terms_of_use_label_systemhelper">, самастойная рэгістрацыя</string>
     <string name="terms_of_use_label_updater">, Абнаўленне</string>
     <string name="terms_of_use_lable_apps">Сэрвісы Mi, Сэрвіс актывацыі Mi SIM, Xiaomi Cloud, Пошук прылады, Галоўны экран, Гульні, MIUI Daemon, сістэмныя кампаненты MSA, сервісы перакладу, Хуткія праграмы, Стужка віджэтаў, статыстыка, Mi Link</string>
-    <string name="terms_of_use_lable_default_input_method_facemoji">"r
-r
+    <string name="terms_of_use_lable_default_input_method_facemoji">"
+
 Перад выкарыстаннем гэтага сродку вам неабходна прыняць Палітыку канфідэнцыяльнасці Facemoji."</string>
-    <string name="terms_of_use_lable_default_input_method_kika">"r
-r
+    <string name="terms_of_use_lable_default_input_method_kika">"
+
 Перад выкарыстаннем гэтага сродку вам неабходна прыняць Палітыку канфідэнцыяльнасці Kika."</string>
     <string name="terms_of_use_lable_gms">, сэрвісы Google Play</string>
     <string name="terms_of_use_lable_smart_cards">, смарт-карты</string>
@@ -227,7 +230,7 @@ r
     <string name="terms_privacy_policy_input_method_kika">Палітыка канфідэнцыяльнасці Kika</string>
     <string name="title_fingerprint">Задаць пароль</string>
     <string name="user_agreement">Карыстальніцкае пагадненне</string>
-    <string name="user_agreement_declare">Перад выкарыстаннем MIUI вы абавязаны прачытаць нашы Карыстальніцкае пагадненне і Палітыку прыватнасці і пагадзіцца з імі. Падчас актывацыі прылады Сэрвіс актывацыі Mi SIM, Галоўны экран, Частыя фразы, Сэрвіс перакладу, MIUI Daemon і Абнаўленні будуць падлучацца да сеткі. MSA будзе падлучацца да сеткі і атрымліваць доступ да дадзеных аб вашым месцазнаходжанні.</string>
+    <string name="user_agreement_declare">Перад выкарыстаннем MIUI вы абавязаны прачытаць нашы Карыстальніцкае пагадненне і Палітыку прыватнасці і пагадзіцца з імі. Падчас актывацыі прылады Сэрвіс актывацыі Mi SIM, Xiaomi Cloud, Пошук прылады, Галоўны экран, Частыя фразы, Сэрвіс перакладу, MIUI Daemon, Прагляд HTML, Памочнік AI, Батарэя і прадукцыйнасць, Дэтэктар cілкавання, Joyose, Налады AI у АС і Абнаўленні будуць падлучацца да сеткі. Смарт-паслугі будуць падлучацца да сеткі і атрымліваць доступ да дадзеных аб вашым месцазнаходжанні.</string>
     <string name="voice_assist_advice">Mi AI дазваляе вам кіраваць прыладай з дапамогай голасу, але павышае спажыванне энергіі (+1% у гадзіну).</string>
     <string name="voice_assist_condition">"Вы зможаце карыстацца Mi AI у наступных выпадках:r
 1. Пры уключаным экране.r

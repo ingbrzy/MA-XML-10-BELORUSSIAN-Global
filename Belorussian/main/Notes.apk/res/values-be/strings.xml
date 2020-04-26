@@ -179,7 +179,6 @@
     <string name="note_sort_way">Выберыце, як вы хочыце сартыраваць нататкі</string>
     <string name="notealert_enter">Адкрыць нататку</string>
     <string name="notealert_ok">Зачыніць</string>
-    <string name="notelist_string_info">…</string>
     <string name="notification_content_add_todo_from_other_app">Вы дадалі новую задачу. Націсніце для прагляду.</string>
     <string name="notify_alarm_title">Нататкавы напамін</string>
     <string name="permdesc_accessNote">Злаўмысныя праграмы могуць выкарыстоўваць гэты дазвол для атрымання вашых асабістых дадзеных.</string>

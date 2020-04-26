@@ -41,7 +41,6 @@
     <string name="agree_camera_permission">Для здымкі фота і запісу відэа</string>
     <string name="agree_storage_permission">Для доступу да фота і файлаў, якія захоўваюцца на прыладзе</string>
     <string name="always">Заўсёды</string>
-    <string name="amazon_assistant_shopping_title">Пошук на Amazon</string>
     <string name="app_description_content">Сканер дае магчымасць сканаваць QR-коды, дакументы, візіткі і іншае. Упэўніцеся перад выдаленнем праграмы, што можаце абысціся без гэтых функцый.</string>
     <string name="app_description_title">Аб сканеры</string>
     <string name="app_details">Праграма:</string>
@@ -74,6 +73,7 @@
     <string name="choose_open_code_app">Выберыце праграму</string>
     <string name="choose_pay_title">Выберыце спосаб аплаты</string>
     <string name="choose_picture">Выбраць малюнак з QR-кодам</string>
+    <string name="choosed_title">Выбрана</string>
     <string name="classesNameNull_toast">Назва прадмета не можа быць пустой</string>
     <string name="classes_canfirmTitle">Пацвердзіце вынікі і пачніце імпарт</string>
     <string name="classes_company">Імпарт</string>
@@ -100,10 +100,16 @@
     <string name="copy_text">Капіяваць тэкст</string>
     <string name="copy_text_success">Тэкст скапіяваны</string>
     <string name="copy_tracknum">Капіяваць код адсочвання</string>
+    <string name="create">Стварыць QR-код</string>
+    <string name="createFail">Не атрымалася стварыць QR-код. Занадта доўгае паведамленне.</string>
+    <string name="createQRCode_hint">Увядзіце тэкст</string>
+    <string name="createQRCode_save">Захаваць</string>
+    <string name="create_again">Абнавіць</string>
     <string name="crop_cancel_description">Скасаваць</string>
     <string name="crop_done_description">Зроблена</string>
     <string name="crop_title_study">Абрэзаць фота</string>
     <string name="crop_title_translation">Выберыце тэкст для перакладу</string>
+    <string name="delete">Выдаліць</string>
     <string name="document_color_picture">Каляровы</string>
     <string name="document_color_picture_tip">Канвертацыя ў каляровы…</string>
     <string name="document_crop_title">Абрэжце дакумент</string>
@@ -158,6 +164,8 @@
     <string name="food_module_title_food">Калорыі</string>
     <string name="got_it">Зразумела</string>
     <string name="gps">Навігацыя</string>
+    <string name="history">Гісторыя</string>
+    <string name="importFailed">Не атрымалася імпартаваць</string>
     <string name="import_contact">Імпарт кантакту</string>
     <string name="impunity_declaration_content">"Сканару патрабуецца доступ да вашай камеры для апрацоўкі выяў, створаных пры выкарыстанні праграмы. Не выкарыстоўвайце Сканер для здымкі аб'ектаў, якія змяшчаюць вашыя асабістыя дадзеныя. Націснуўшы «Згадзіцца», вы прымаеце нашу &lt;&lt;xliff:bpt id=privacy>&lt;font color=\"#ff32b4ff\">&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\">&lt;/xliff:bpt>Палітыку прыватнасці&lt;xliff:ept id=privacy>&lt;/a>&lt;/font>&lt;/xliff:ept> і дазваляеце Сканару падлучацца да інтэрнэту."</string>
     <string name="impunity_declaration_negative_text">Выхад</string>
@@ -228,6 +236,11 @@
     <string name="recognize">Сканаваць</string>
     <string name="recognize_fail">Немагчыма прачытаць код</string>
     <string name="request_server_failed">Не атрымалася падлучыцца да сервера</string>
+    <string name="saveDone">Паспяхова захавана</string>
+    <string name="scanHistory">Гісторыя сканавання</string>
+    <string name="scanHistory_close">Адключыць</string>
+    <string name="scanHistory_isOpen">"Пачаць захоўваць гісторыю адсканаваных аб'ектаў?"</string>
+    <string name="scanHistory_open">Уключыць</string>
     <string name="scan_result">Вынік</string>
     <string name="scan_support_type">WeChat, Alipay, QR-коды, штрых-коды</string>
     <string name="sdk_not_ready">Падрыхтоўка SDK. Паўтарыце зноў пазней.</string>

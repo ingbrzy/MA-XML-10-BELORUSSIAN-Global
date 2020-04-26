@@ -76,6 +76,7 @@
 і аўтаматычна наладжваць параметры"</string>
     <string name="ai_scene_top_moon_off">Рэжым слабога асвятлення</string>
     <string name="ai_scene_top_tip">Месячнае святло</string>
+    <string name="ai_watermark_title">Вадзяны знак AI</string>
     <string name="audio_focus_exit_button_text">Адключыць аўдыяфокус</string>
     <string name="autozoom_click_hint">"Краніце аб'екта, каб трымаць яго ў фокусе. Заставайцеся на адлегласці не менш 3 метраў для атрымання найлепшага эфекту."</string>
     <string name="autozoom_disabled_hint">"Адсочванне аб'екта, які рухаецца, спынена"</string>
@@ -109,6 +110,7 @@
     <string name="button_fisheye_camera_title">Рыбіна вока</string>
     <string name="button_front_camera_title">Зрабіць сэлфі</string>
     <string name="button_normal_video_title">Запіс відэа</string>
+    <string name="camcorder_tip_8k_max_video_duration">Вы можаце запісаць да 6 хвілін у 8K</string>
     <string name="camera_disabled">Камера была адключана</string>
     <string name="camera_error_title">Памылка камеры</string>
     <string name="camera_label">Камера</string>
@@ -122,14 +124,15 @@
     <string name="camera_snap_mode_title_detail">Націсніце для прагляду інфармацыі</string>
     <string name="cannot_connect_camera_once">Не атрымліваецца падключыцца да камеры</string>
     <string name="cannot_connect_camera_twice">Усё яшчэ не атрымліваецца падключыцца да камеры. Паспрабуйце перазагрузіць ваш тэлефон.</string>
-    <string name="cannot_connect_camera_volte_call">Ідзе відэавыклік, паспрабуйце пазней.</string>
     <string name="cannot_move_warning_message">Не рухайце прыладу падчас здымкі</string>
     <string name="capture_back_pressed_hint">Націсніце яшчэ раз, каб выйсці</string>
+    <string name="ccc_temperature_warning_msg">Ваша прылада перагрэлась. Камера будзе зачынена праз %d секунд(-ы). Вашы фота або відэа будуць захаваны аўтаматычна.</string>
+    <string name="ccc_temperature_warning_title">Прылада перагрэлася</string>
     <string name="close_back_flash_toast">Прылада перагрэлася. Фотаўспышка недаступна.</string>
     <string name="close_front_flash_toast">Прылада перагрэлася. Фотаўспышка недаступна.</string>
     <string name="color_effect_entry_berry">Ягады</string>
     <string name="color_effect_entry_blackwhite">Ч/Б</string>
-    <string name="color_effect_entry_classic">Classic</string>
+    <string name="color_effect_entry_classic">Класічны</string>
     <string name="color_effect_entry_cookie">Пячэнне</string>
     <string name="color_effect_entry_delicacy">Ласунак</string>
     <string name="color_effect_entry_fade">Пабляклы</string>
@@ -150,6 +153,7 @@
     <string name="color_effect_live_none">Звычайны</string>
     <string name="color_effect_live_solar">Блакіт</string>
     <string name="color_effect_live_years">Сепія</string>
+    <string name="color_enhance_mode">Палепшаныя колеры</string>
     <string name="config_name_group">Групавое сэлфі</string>
     <string name="config_name_hht">Начны</string>
     <string name="config_name_magic">Магія</string>
@@ -183,6 +187,12 @@
     <string name="dialog_ok_time">OK (%ds)</string>
     <string name="dirty_tip_toast">"Аб'ектыў забруджаны. Працярыце яго."</string>
     <string name="do_not_remind_me">Больш не паказваць</string>
+    <string name="document_blackwhite">Ч/Б</string>
+    <string name="document_mode_use_hint_text_body">"Аўтаматычнае выраўноўванне і паляпшэнне
+адсканаваных дакументаў"</string>
+    <string name="document_mode_use_hint_text_title">Сканаваць дакументы</string>
+    <string name="document_origin">Арыгінал</string>
+    <string name="document_strengthen">Палепшаны</string>
     <string name="dual_camera_lens_covered_toast">"Аб'ектыў зачынены."</string>
     <string name="dual_camera_lowlight_toast">Падобна на тое, што занадта цёмна.</string>
     <string name="dual_camera_too_close_toast">"Камера знаходзіцца занадта блізка да аб'екта."</string>
@@ -193,6 +203,7 @@
     <string name="edit_eyebrow_dye">Бровы</string>
     <string name="edit_face_ruddy">Румянец</string>
     <string name="edit_face_slender">Складнасць</string>
+    <string name="edit_hairline">Лінія росту валасоў</string>
     <string name="edit_jelly_lips">Бляск для вуснаў</string>
     <string name="edit_lips">Губы</string>
     <string name="edit_neck">Шыя</string>
@@ -238,6 +249,7 @@
     <string name="face_beauty_smart">Разумны</string>
     <string name="face_score_info">Ацэнка: %.1f</string>
     <string name="fps960_toast">Рэжым «Запаволеная здымка» ўключыцца ў апошняй чвэрці запісу</string>
+    <string name="fragment_tab_name_bokeh">Бакэ</string>
     <string name="front_camera_hint_text_place">"Рабіць сэлфі будзе прасцей,
 калі вы павернеце тэлефон"</string>
     <string name="front_camera_hint_text_rotate">Перавярніце тэлефон</string>
@@ -256,8 +268,16 @@
     <string name="hint_groupshot_beauty">Немагчыма выкарыстоўваць Паляпшэнне на групавых здымках</string>
     <string name="hint_mimovie">Здымайце ў альбомным рэжыме для найлепшага эфекту</string>
     <string name="hint_slow_motion">Відэа будзе прайгравацца павольней.</string>
+    <string name="hint_subtitle">Дыктуйце субтытры падчас здымкі відэа</string>
+    <string name="hint_subtitle_prompt">Цяпер вы можаце дыктаваць субтытры</string>
     <string name="hunt_dual_water_mark">Вадзяны знак стэрэакамеры будзе дададзены аўтаматычна.</string>
+    <string name="id_card_mode_hint_back">Адскануйце зваротны бок свайго пасведчання асобы</string>
+    <string name="id_card_mode_hint_front">Адскануйце пярэдні бок свайго пасведчання асобы</string>
+    <string name="id_card_mode_use_hint_text_body">"Аб'ядноўвайце абодва бакі свайго пасведчання асобы ў адной выяве.
+Раздрукоўвайце копію праз бесправоднае злучэнне на паперы фармату А4."</string>
+    <string name="id_card_mode_use_hint_text_title">Сканаваць пасведчанне асобы</string>
     <string name="install_confirmed">Усталяваць</string>
+    <string name="kaleidoscope_fragment_tab_name">Калейдаскоп</string>
     <string name="lens_dirty_detected_content">"Аб'ектыў вашай камеры забруджаны.
 Ачысціце аб'ектыў для паляпшэння здымкаў."</string>
     <string name="lens_dirty_detected_title_back">Асноўная камера забруджана</string>
@@ -312,7 +332,7 @@
     <string name="macro_mode">Макра</string>
     <string name="macro_mode_tip">"Адлегласць паміж аб'ектывам і аб'ектам не павінна перавышаць 10 см"</string>
     <string name="macro_mode_use_hint_text_body">"Выкарыстоўвайце рэжым «Макра» для павелічэння
-небольших аб'ектаў на фота"</string>
+невялікіх аб'ектаў на фота"</string>
     <string name="macro_mode_use_hint_text_title">Макра</string>
     <string name="makeup_reset_toast">Эфекты макіяжу паспяхова скінутыя</string>
     <string name="message_snap_double_confirm">Доўгае ўтрыманне кнопкі гучнасці запускае NFC. Замяніць гэтую функцыю?</string>
@@ -391,9 +411,10 @@
     <string name="moive_frame">Кадр фільма</string>
     <string name="multi_window_mode_not_supported">Камера не працуе ў рэжыме падзялення экрана</string>
     <string name="network_access_user_notice_agree">Згадзіцца</string>
-    <string name="network_access_user_notice_message_live_video">&lt;Data>Камеры патрабуецца доступ да Інтэрнэту для прадастаўлення эфектаў, музыкі і іншых магчымасцяў для кароткіх відэа.&lt;br/>&lt;br/>Націскаючы на ​​Пагадзіцца ніжэй, вы згаджаецеся з нашымі &lt;a href =%1$s>Карыстальніцкім пагадненнем&lt;/a> і &lt;a href =%2$s>Палітыкай прыватнасці&lt;/a> i дазваляеце Камере падлучыцца да Інтэрнэту.&lt;/Data></string>
-    <string name="network_access_user_notice_message_sticker">&lt;Data>Камеры патрабуецца доступ да Інтэрнэту для прадастаўлення стыкераў для гэтай функцыі.&lt;br/>&lt;br/>Націскаючы на ​​Пагадзіцца ніжэй, вы згаджаецеся з нашымі &lt;a href =%1$s>Карыстальніцкім пагадненнем&lt;/a> і &lt;a href =%2$s>Палітыкай прыватнасці&lt;/a> i дазваляеце Камере падлучыцца да Інтэрнэту.&lt;/Data></string>
-    <string name="network_access_user_notice_message_voice_caption">&lt;Data>Камеры патрабуецца доступ да Інтэрнэту для прадастаўлення функцыі пераўтварэння тэксту ў гаворку.&lt;br/>&lt;br/>Націскаючы на ​​Пагадзіцца ніжэй, вы згаджаецеся з нашымі&lt;a href =%1$s>Карыстальніцкім пагадненнем&lt;/a> і &lt;a href =%2$s>Палітыкай прыватнасці&lt;/a> i дазваляеце Камере падлучыцца да Інтэрнэту.&lt;/Data></string>
+    <string name="network_access_user_notice_message_live_video">&lt;Data>Камеры патрабуецца доступ да Інтэрнэту для прадастаўлення эфектаў, музыкі і іншых магчымасцяў для кароткіх відэа.&lt;br/>&lt;br/>Націскаючы на ​​\"Пагадзіцца\" ніжэй, вы згаджаецеся з нашымі &lt;a href =%1$s>Карыстальніцкім пагадненнем&lt;/a> і &lt;a href =%2$s>Палітыкай прыватнасці&lt;/a> i дазваляеце Камере падлучыцца да Інтэрнэту.&lt;/Data></string>
+    <string name="network_access_user_notice_message_mi_live_video">&lt;Data>Сардэчна запрашаем у кароткія відэа! Нашаму сэрвісу трэба падлучацца да сеткі, каб даць вам доступ да музыкі і іншых функцый.&lt;br/>&lt;br/>Перед выкарыстаннем нашего сэрвісу азнаёмцеся і пагадзіцеся з нашым &lt;a href =%1$s>Карыстальніцкім пагадненнем&lt;/a>> і &lt;a href =%2$s>Палітыкай прыватнасці&lt;/a>, а таксама дазвольце праграме падлучацца да Інтэрнэту.&lt;/Data></string>
+    <string name="network_access_user_notice_message_sticker">&lt;Data>Камеры патрабуецца доступ да Інтэрнэту для прадастаўлення стыкераў для гэтай функцыі.&lt;br/>&lt;br/>Націскаючы на ​​\"Пагадзіцца\" ніжэй, вы згаджаецеся з нашымі &lt;a href =%1$s>Карыстальніцкім пагадненнем&lt;/a> і &lt;a href =%2$s>Палітыкай прыватнасці&lt;/a> i дазваляеце Камере падлучыцца да Інтэрнэту.&lt;/Data></string>
+    <string name="network_access_user_notice_message_voice_caption">&lt;Data>Камеры патрабуецца доступ да Інтэрнэту для прадастаўлення функцыі пераўтварэння тэксту ў гаворку.&lt;br/>&lt;br/>Націскаючы на ​​\"Пагадзіцца\" ніжэй, вы згаджаецеся з нашымі&lt;a href =%1$s>Карыстальніцкім пагадненнем&lt;/a> і &lt;a href =%2$s>Палітыкай прыватнасці&lt;/a> i дазваляеце Камере падлучыцца да Інтэрнэту.&lt;/Data></string>
     <string name="network_access_user_notice_title">Падключэнне да інтэрнэту...</string>
     <string name="no_storage">Устаўце SD-карту перад выкарыстаннем камеры</string>
     <string name="not_enough_space">SD-карта запоўненая</string>
@@ -409,6 +430,7 @@
     <string name="parameter_ef_split_description">Вы можаце перацягнуць кальцо экспазіцыі ад кальца факусіроўкі і наладзіць два параметры паасобна.</string>
     <string name="parameter_ef_split_title">Падзел вымярэння факусіроўкі і экспазіцыі</string>
     <string name="parameter_et_description">Хуткасць аўтаматычнага затвора вызначаецца экспанометрам камеры. Калі вы ўсталёўваеце вытрымку ўручную, памятайце, што чым даўжэй адкрыты затвор, тым больш святла трапляе на фотаматрыцу, што робіць вашу выяву ярчэй.</string>
+    <string name="parameter_et_title">Вытрымка затвора</string>
     <string name="parameter_exposure_description">Гэтая функцыя дазваляе вам прымусова змяняць вымераную экспазіцыю для павелічэння яркасці выявы або яе зацямнення.</string>
     <string name="parameter_exposure_feecback_description">Недаэкспанаваныя вобласці будуць падсвечаны сінім колерам, а пераэкспанаваныя — чырвоным. Гэта дазволіць вам больш дакладна адрэгуляваць экспазіцыю.</string>
     <string name="parameter_exposure_feecback_title">Праверка экспазіцыі</string>
@@ -418,7 +440,8 @@
     <string name="parameter_histogram_description">"Гістаграма — гэта ўяўленне экспазіцыі ў рэжыме рэальнага часу, у якім самыя цёмныя часткі сцэны злева пераходзяць у самыя яркія часткі справа. Вертыкальная частка шкалы паказвае, якія долі сцэны з'яўляюцца яркімі або цёмнымі."</string>
     <string name="parameter_histogram_title">Гістаграма</string>
     <string name="parameter_iso_description">Значэнне ISO можа быць вызначана аўтаматычна пры дапамозе экспанометра. Вы таксама можаце змяняць гэта значэнне ўручную. Памятайце, што больш высокае значэнне ISO робіць камеру больш адчувальнай да святла, але павялічвае ўзровень лічбавага шуму.</string>
-    <string name="parameter_lens_description">"Вы можаце пераключацца паміж даступнымі аб'ектывамі:"</string>
+    <string name="parameter_iso_title">Адчувальнасць ISO</string>
+    <string name="parameter_lens_description">"Вы можаце пераключацца паміж даступнымі аб'ектывамі: "</string>
     <string name="parameter_lens_marco">", MACRO (макрааб'ектыў)"</string>
     <string name="parameter_lens_st">", S-TELE (зум-аб'ектыў)"</string>
     <string name="parameter_lens_t">", TELE (тэлеаб'ектыў)"</string>
@@ -512,6 +535,7 @@
     <string name="pref_camera_auxiliary_close">Адкл</string>
     <string name="pref_camera_auxiliary_exposure_feedback">Праверка экспазіцыі</string>
     <string name="pref_camera_auxiliary_focus_peak">Вызначэнне вобласці факусіравання</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="pref_camera_beautify_entry_high">Высокі</string>
     <string name="pref_camera_beautify_entry_low">Нізкі</string>
     <string name="pref_camera_beautify_entry_normal">Сярэдні</string>
@@ -544,22 +568,8 @@
     <string name="pref_camera_delay_capture_entry_audio">Голас</string>
     <string name="pref_camera_delay_capture_title">Таймер</string>
     <string name="pref_camera_device_watermark_title">Вадзяны знак прылады</string>
-    <string name="pref_camera_exposuretime_entry_0_5">2 сек.</string>
-    <string name="pref_camera_exposuretime_entry_1000">1/1000s</string>
-    <string name="pref_camera_exposuretime_entry_125">1/125s</string>
-    <string name="pref_camera_exposuretime_entry_15">1/15s</string>
-    <string name="pref_camera_exposuretime_entry_16s">16 сек.</string>
-    <string name="pref_camera_exposuretime_entry_250">1/250s</string>
-    <string name="pref_camera_exposuretime_entry_30">1/30s</string>
-    <string name="pref_camera_exposuretime_entry_32s">32 сек.</string>
-    <string name="pref_camera_exposuretime_entry_4">1/4s</string>
-    <string name="pref_camera_exposuretime_entry_4s">4 сек.</string>
-    <string name="pref_camera_exposuretime_entry_500">1/500 сек.</string>
-    <string name="pref_camera_exposuretime_entry_60">1/60s</string>
-    <string name="pref_camera_exposuretime_entry_8">1/8s</string>
-    <string name="pref_camera_exposuretime_entry_8s">8 сек.</string>
-    <string name="pref_camera_exposuretime_entry_auto">АЎТА</string>
     <string name="pref_camera_face_info_watermark_title">Дадаваць узрост на фота</string>
+    <string name="pref_camera_first_tag_tips">Пазнака захавана</string>
     <string name="pref_camera_flashmode_entry_auto">Аўта</string>
     <string name="pref_camera_flashmode_entry_back_soft_light">Мяккае святло</string>
     <string name="pref_camera_flashmode_entry_off">Адкл</string>
@@ -690,6 +700,8 @@
     <string name="pref_camera_video_duration_entry_120">Без абмежаванняў</string>
     <string name="pref_camera_video_duration_entry_30">30 хвілін</string>
     <string name="pref_camera_video_duration_entry_mms">30 секунд (MMS)</string>
+    <string name="pref_camera_video_tag">Дазволіць маркіроўку відэа</string>
+    <string name="pref_camera_video_tag_description">Націсніце на «Пазнака» падчас запісу відэа, каб пазней падчас прайгравання вярнуцца да адзначанага месца</string>
     <string name="pref_camera_volumekey_function_entry_shutter">Здымак</string>
     <string name="pref_camera_volumekey_function_entry_timer">Таймер</string>
     <string name="pref_camera_volumekey_function_entry_volume">Гучнасць</string>
@@ -708,8 +720,8 @@
     <string name="pref_camera_zoom_mode_entry_macro">МАКРО</string>
     <string name="pref_camera_zoom_mode_entry_standard">ЗВЫЧАЙНЫ</string>
     <string name="pref_camera_zoom_mode_entry_tele">ТЕЛЕ</string>
-    <string name="pref_camera_zoom_mode_entry_tele_2X">Тэле 2X</string>
-    <string name="pref_camera_zoom_mode_entry_tele_standalone">Тэле 5X</string>
+    <string name="pref_camera_zoom_mode_entry_tele_2X">ТЭЛЕ 2X</string>
+    <string name="pref_camera_zoom_mode_entry_tele_standalone">ТЭЛЕ 5X</string>
     <string name="pref_camera_zoom_mode_entry_ultra">ЗВЫШШЫРОКІ</string>
     <string name="pref_camera_zoom_mode_entry_wide">ШЫРОКІ</string>
     <string name="pref_camera_zoom_mode_title">ЛІНЗЫ</string>
@@ -717,6 +729,7 @@
     <string name="pref_camera_zsl_entry_off">Выкл</string>
     <string name="pref_camera_zsl_entry_on">Укл</string>
     <string name="pref_capture_settings">Камера</string>
+    <string name="pref_document_mode">Дакументы</string>
     <string name="pref_face_beauty_title">Паляпшэнне</string>
     <string name="pref_fingerprint_capture_title">Здымка адбіткам пальца</string>
     <string name="pref_front_mirror_entry_auto">Калі твар распазнаны</string>
@@ -778,13 +791,14 @@
     <string name="pref_video_speed_entry_slow">Марудная</string>
     <string name="pref_video_speed_fast_title">Запаволеная здымка</string>
     <string name="pref_video_speed_slow_title">Запаволеная здымка</string>
+    <string name="pref_video_subtitle">Субцітры</string>
     <string name="pref_video_time_lapse_frame_interval_entry_10">10X (інтэрвал 0.3 секунды)</string>
     <string name="pref_video_time_lapse_frame_interval_entry_120">120X (інтэрвал 4 секунды)</string>
     <string name="pref_video_time_lapse_frame_interval_entry_150">150X (інтэрвал 5 секунд)</string>
     <string name="pref_video_time_lapse_frame_interval_entry_1800">1800X (інтэрвал 60 секунд)</string>
     <string name="pref_video_time_lapse_frame_interval_entry_2">2X (інтэрвал 0.06 секунды)</string>
     <string name="pref_video_time_lapse_frame_interval_entry_240">240X (інтэрвал 8 секунд)</string>
-    <string name="pref_video_time_lapse_frame_interval_entry_30">30X (інтэрвал 1 секунда)</string>
+    <string name="pref_video_time_lapse_frame_interval_entry_30">30X (інтэрвал 1 секунды)</string>
     <string name="pref_video_time_lapse_frame_interval_entry_300">300X (інтэрвал 10 секунд)</string>
     <string name="pref_video_time_lapse_frame_interval_entry_4">4X (інтэрвал 0.12 секунды)</string>
     <string name="pref_video_time_lapse_frame_interval_entry_450">450X (інтэрвал 15 секунд)</string>
@@ -796,6 +810,7 @@
     <string name="pref_watermark_on">Укл.</string>
     <string name="pref_watermark_title">Вадзяной знак</string>
     <string name="preparing_sd">Праверка SD-карты…</string>
+    <string name="pro_color_mode">Прафесійны колер</string>
     <string name="recommend_macro_mode">Паспрабуйце рэжым макраздымкі</string>
     <string name="recommend_portrait">Паспрабуйце партрэтны рэжым</string>
     <string name="recommend_soft_light_tip">Уключыць выбліск</string>
@@ -834,6 +849,10 @@
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="sticker_tab1">Мілы</string>
     <string name="sticker_tab2">Пацешны</string>
+    <string name="subtitle_network_exception_tips">Не атрымалася падлучыцца да сеткі. Транскрыбаванне недаступна.</string>
+    <string name="super_eis">Суперстабілізацыя</string>
+    <string name="super_eis_disabled_hint">Суперстабілізацыя выключана</string>
+    <string name="super_night_hint">Выконваецца аптымізацыя выявы… Трымайце прыладу нерухома.</string>
     <string name="super_night_toast">Трымайце тэлефон нерухома падчас здымкі</string>
     <string name="tap_to_exposure">Націсніце, каб наставіць экспазіцыю ўручную</string>
     <string name="tap_to_focus">Націсніце для фокуса</string>
@@ -846,13 +865,16 @@
     <string name="toast_start_audio_capture">Выдайце гук, каб зрабіць фота</string>
     <string name="ubi_focus_capture_fail">Не атрымалася сфатаграфаваць</string>
     <string name="ubifocus_capture_warning_message">"Выкарыстоўвайце 2 аб'екты для факусіравання: першы размясціце на адлегласці менш за 1 метр ад аб'ектыва, другі - удалечыні"</string>
+    <string name="ultra_pixel_108mp">108 МП</string>
     <string name="ultra_pixel_32mp">32 МП</string>
     <string name="ultra_pixel_48mp">48 МП</string>
     <string name="ultra_pixel_64mp">64 МП</string>
     <string name="ultra_pixel_photography_close_tip">%s Ultra HD адключаны</string>
     <string name="ultra_pixel_photography_open_tip">%s Ultra HD уключаны</string>
-    <string name="ultra_pixel_portrait_hint">HD-партрэт</string>
+    <string name="ultra_pixel_portrait_hint">Партрэт пры слабым асвятленні</string>
     <string name="ultra_pixel_zoom_no_support_tip">Павелічэнне не працуе ў рэжыме %s Ultra HD</string>
+    <string name="ultra_tele_use_hint_text_body">"Выкарыстоўвайце 50-кратнае павелічэнне для больш дэталёвай здымкі аддаленых аб'ектаў"</string>
+    <string name="ultra_tele_use_hint_text_title">50-кратнае павелічэнне</string>
     <string name="ultra_wide_bokeh_close_tip">Рэжым здымкі ў поўны рост адключаны</string>
     <string name="ultra_wide_bokeh_open_tip">Здымка ў поўны рост</string>
     <string name="ultra_wide_close_tip">Рэжым «Звышшырокі вугал» выключаны</string>
@@ -871,14 +893,27 @@
     <string name="user_notice_identify_summary_format">Перад выкарыстаннем Камеры вы павінны прыняць наша <a href="http://www.miui.com/res/doc/eula.html?lang=be_BY">Карыстальніцкае пагадненне</a> і <a href="http://www.miui.com/res/doc/privacy.html?lang=be_BY">Палітыку прыватнасці</a>. Для нармальнай працы камеры таксама патрабуецца падлучэнне да Інтэрнэту. Вы згодны?</string>
     <string name="user_notice_title">Умовы выкарыстання</string>
     <string name="video_beauty_tip">Паляпшэнне для відэа</string>
+    <string name="video_beauty_tip_beautification">Beautify</string>
+    <string name="video_beauty_tip_filter">Фільтры</string>
+    <string name="video_beauty_tip_portrait_bokeh">Бакэ</string>
     <string name="video_camera_label">Відэакамера</string>
     <string name="video_effect_entry_blackwhite">Ч/Б</string>
     <string name="video_effect_entry_bygone">Рэтра</string>
+    <string name="video_effect_entry_central">Цэнтральны</string>
+    <string name="video_effect_entry_color_retention">Сакавіты колер</string>
+    <string name="video_effect_entry_fantasy">Фантазія</string>
     <string name="video_effect_entry_film">Фільм</string>
     <string name="video_effect_entry_forest">Лес</string>
     <string name="video_effect_entry_holiday">Адлюстраванні</string>
+    <string name="video_effect_entry_lost">Паражэнне</string>
+    <string name="video_effect_entry_meet">Сутыкненне</string>
+    <string name="video_effect_entry_northern_europe">Скандынаўскі</string>
     <string name="video_effect_entry_polaroid">Палароід</string>
+    <string name="video_effect_entry_rome">Рым</string>
+    <string name="video_effect_entry_summer_day">Лета</string>
+    <string name="video_effect_entry_wind_sing">Легкі вецер</string>
     <string name="video_reach_size_limit">Дасягнуты максімальны памер відэа.</string>
+    <string name="video_tag_flag_title">Пазнака</string>
     <string name="video_ultra_clear_tip">4K UHD</string>
     <string name="video_ultra_clear_tip_8k">AI 8K</string>
     <string name="view_privacy_policy">Прагледзець Палітыку канфідэнцыяльнасці</string>
@@ -890,6 +925,11 @@
 запісваць і рэдагаваць відэа на хаду"</string>
     <string name="vv_use_hint_text_title">ВІДЭАБЛОГ</string>
     <string name="wait">Хвілінку…</string>
+    <string name="watermark_tab_city">Горад</string>
+    <string name="watermark_tab_festival">Свята</string>
+    <string name="watermark_tab_general">Агульны</string>
+    <string name="watermark_tab_scene">Сцэна</string>
+    <string name="watermark_tab_spots">Сайт</string>
     <string name="wideselfie_press_shoot_key_to_start">Націсніце кнопку здымкі</string>
     <string name="wideselfie_result_image_lossless">Не атрымалася стварыць панарамны здымак</string>
     <string name="wideselfie_rotate_slowly">Паварочвайце тэлефон</string>

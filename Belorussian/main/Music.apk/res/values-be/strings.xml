@@ -163,6 +163,7 @@
     <string name="confirm_exit">Save changes?</string>
     <string name="connect_now">Падлучыцца</string>
     <string name="connecting_apk">Далучэнне…</string>
+    <string name="copy">Капіраваць</string>
     <string name="create_playlist">Стварыць плэйліст</string>
     <string name="create_playlist_failure">Не атрымалася стварыць плэйліст</string>
     <string name="create_playlist_input_hint">Увядзіце назву плэйліста</string>
@@ -270,7 +271,9 @@
     <string name="download_method">Спампоўка</string>
     <string name="download_no_application_title">Не ўдаецца адкрыць файл</string>
     <string name="download_paused_in_power_save_mode">Downloads are paused when Battery saver is on</string>
+    <string name="download_percent">%d%%</string>
     <string name="download_processing">Спампоўка…</string>
+    <string name="download_progress">%d%%</string>
     <string name="download_quality">Якасць спампоўкі</string>
     <string name="download_quality_summary">Дадатковыя налады для спампоўкі песень</string>
     <string name="download_queued">У чарзе</string>
@@ -351,7 +354,9 @@
     <string name="exo_download_notification_channel_name">Спампоўкі</string>
     <string name="exo_download_removing">Выдаленне спамповак</string>
     <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Мбіт/с</string>
     <string name="exo_track_mono">Мона</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">Аўтаматычна</string>
     <string name="exo_track_selection_none">Няма</string>
     <string name="exo_track_selection_title_audio">Аўдыя</string>
@@ -567,6 +572,7 @@
     <string name="not_login">Уваход не выкананы</string>
     <string name="not_now">Не зараз</string>
     <string name="not_selected">Абярыце трэк</string>
+    <string name="not_set">Не зададзена</string>
     <string name="not_support_documentui">DocumentUI не патрымліваецца на гэтай прыладзе</string>
     <string name="notif_title_file_size">%1$d усяго</string>
     <string name="notif_title_single_downloading">Спампоўка %1$s</string>
@@ -665,11 +671,13 @@
     <string name="please_download_first">Перад усталёўкай на званок, трэк неабходна спампаваць</string>
     <string name="please_select_song">Спачатку выберыце песню</string>
     <string name="power_save_mode_dialog_msg">Уключаная эканомія энергіі. Пачаць спампоўку?</string>
+    <string name="preference_copied">\"%1$s\": скапіравана ў буфер абмену.</string>
     <string name="preset_music_playlist">Mi плэйліст</string>
     <string name="priority_storage">Выкарыстоўваць SD-карту</string>
     <string name="priority_storage_summary">Аўтаматычна захоўваць файлы на SD-карту, калі яна падлучана</string>
     <string name="privacy_desc">Палітыка прыватнасці (абавязкова)</string>
     <string name="privacy_policy">Палітыка канфідэнцыяльнасці</string>
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=be_BY</string>
     <string name="pro_member">Член PRO</string>
     <string name="project_device">Mi Phone</string>
     <string name="prompt_grant_write_settings_permission">Дазволіць змяняць сістэмныя налады</string>
@@ -798,6 +806,7 @@
     <string name="start_to_check_new_version">Праверка абнаўлення…</string>
     <string name="start_to_download">Запампоўка…</string>
     <string name="start_to_play">Прайграць</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_cloned_app">Памяць для клонаў праграм</string>
     <string name="storage_internal">Унутранае сховішча</string>
     <string name="storage_sd_card">SD-карта</string>
@@ -874,6 +883,7 @@
     <string name="upgrade_music_message">Updates are ready. Restart to update.</string>
     <string name="upgrading_in_backstage">Updating in the background…</string>
     <string name="user_agreement">Карыстальніцкае пагадненне</string>
+    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=be_BY</string>
     <string name="v7_preference_off">ВЫКЛ.</string>
     <string name="v7_preference_on">УКЛ.</string>
     <string name="version_info">Version</string>

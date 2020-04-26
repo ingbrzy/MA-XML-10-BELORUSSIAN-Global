@@ -49,6 +49,8 @@
     <string name="self_device_second_space">Другая прастора гэтага тэлефона</string>
     <string name="other_device_main_space">Першая прастора</string>
     <string name="other_device_second_space">Другая прастора</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="process_whole_recovery">Аднаўленне \"%s\"</string>
     <string name="size_unknown">Невядомы памер</string>
     <string name="recovering">Аднаўленне \"%s\"</string>
@@ -57,6 +59,7 @@
     <string name="start_backup_to_micloud">Ствараць рэзервовыя копіі праграм у Xiaomi Cloud</string>
     <string name="backing_up_to_micloud">Стварэнне рэзервовай копіі…</string>
     <string name="restore_from_cloud">Аднавіць з воблачнай рэзервовай копіі</string>
+    <string name="restore_from_mimover">Перанесці са старой прылады пры дапамозе Mi Mover</string>
     <string name="backup_to_cloud">Стварыць рэзервовую копію праграмы</string>
     <string name="restoring_file_title_no_progress">Аднаўленне файлаў…</string>
     <string name="menu_item_sort">Сартаванне</string>
@@ -80,7 +83,7 @@
     <string name="download_settings">Спампоўка параметраў працоўнага стала %s%%</string>
     <string name="cloud_back_up_date_format">HH:mm dd.MM.yyyy</string>
     <string name="recover_home_settings">Аднаўленне налад працоўнага стала</string>
-    <string name="cancel_recover_settings"><u>Скасаваць</u></string>
+    <string name="cancel_recover_settings">Адмена</string>
     <string name="recover_settings_description">Не адключайце прыладу</string>
     <string name="recover_miui_settings">Аднаўленне сістэмных налад</string>
     <string name="wait_icon_download">Спампаванне значкоў праграм</string>
@@ -106,6 +109,7 @@
     <string name="restore_data_summary">Для гэтай функцыі неабходна падлучэнне да інтэрнэту.</string>
     <string name="query_restore_summary">У Xiaomi Cloud знойдзена рэзервовая копія для гэтай прылады. Аднавіць праграмы і налады Галоўнага экрана або адзначыць прыладу як новую і выдаліць папярэднія рэзервовыя копіі з Xiaomi Cloud?</string>
     <string name="restore_home_screen_apps">Аднавіць з воблачнай рэзервовай копіі</string>
+    <string name="restoring_home_screen_apps">Аднаўленне з Xiaomi Cloud…</string>
     <string name="query_restore_description">Адновіце налады і праграмы працоўнага стала, выкарыстоўваючы гэтую рэзервовую копію. Гэта дзеянне перазапіша дадзеныя ўжо ўсталяваных дублюючых праграм. Праграмы, не ўключаныя ў рэзервовую копію, будуць перамешчаныя на апошні працоўны стол.</string>
     <string name="restore_from_this_device">Аднавіць, выкарыстоўваючы гэтую рэзервовую копію</string>
     <string name="confirm_cancel_restore_title">Скасаваць аднаўленне?</string>
@@ -132,7 +136,7 @@
     <string name="provision_error_connect_msg">Праверце сетку і паспрабуйце яшчэ раз. Рэзервовая копія недаступная, калі ваша прылада адлучаная ад сеткі.</string>
     <string name="provision_error_connect_title">Немагчыма падлучыцца</string>
     <string name="loading_user_backup">Загрузка рэзервовых копій…</string>
-    <string name="loading_progress_num">(%s%%)</string>
+    <string name="loading_progress_num">Загружана%s%%</string>
     <string name="error_num_placeholder">--</string>
     <string name="doing_calc_backup_data_size">Падлік памеру…</string>
     <string name="authentication_failed">Не атрымалася праверыць акаўнт.</string>
@@ -165,7 +169,7 @@
     <string name="cloud_backup">Воблачныя рэзервовыя копіі</string>
     <string name="open_backup_switch">Уключыце рэзерваванне</string>
     <string name="restore_cloud_backup_to_phone">"Аднавіць аб'екты з воблака"</string>
-    <string name="cloud_backup_in_process">Рэзерваванне…</string>
+    <string name="cloud_backup_in_process">Стварэнне бэкапа</string>
     <string name="cloud_backup_in_cancel">Скасаваць</string>
     <string name="dialog_cancel_backup_title">Скасаваць капіяванне?</string>
     <string name="dialog_cancel_backup_msg">Адключэнне рэзервавання перапыніць бягучыя працэсы капіявання.</string>
@@ -221,5 +225,6 @@
     <string name="restore_task_unfinished">Не атрымалася аднавіць</string>
     <string name="restore_failed_reason_network_error">Памылка сеткі. Пачакайце хвіліну ці дзве і паўторыце спробу.</string>
     <string name="restore_failed_reason_disk_space_not_enough">Недастаткова вольнага месца ў сховішчы. Спачатку вызваліце ​​сховішча.</string>
-    <string name="cloud_app_restore_app_and_data">Наладзіць прыладу</string>
+    <string name="storage_unit_mb">%s МБ</string>
+    <string name="storage_unit_gb">%s ГБ</string>
 </resources>

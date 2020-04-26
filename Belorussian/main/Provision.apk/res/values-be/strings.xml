@@ -95,6 +95,7 @@
     <string name="other_settings_auto_update">Аўтаматычнае абнаўленне сістэмы</string>
     <string name="other_settings_auto_update_summary">MIUI абярэ зручны час для загрузкі і ўстаноўкі абнаўленняў. Ваша прылада будзе аўтаматычна перазагружана для ўжывання зменаў.</string>
     <string name="other_settings_enhanced_lockscreen">Карусель шпалер</string>
+    <string name="other_settings_enhanced_lockscreen_for_india">Glance для Mi</string>
     <string name="other_settings_enhanced_lockscreen_privacy_index">Палітыка прыватнасці</string>
     <string name="other_settings_enhanced_lockscreen_summary">Атрымлівайце адборныя выявы і гісторыі для вашага экрана блакавання кожны дзень. %1$s і %2$s</string>
     <string name="other_settings_enhanced_lockscreen_summary_index">Ліцэнзійнае пагадненне з канчатковым карыстальнікам</string>
@@ -160,7 +161,7 @@
     <string name="require_authority_statement">Каб мы змаглі прадастаўляць вам асноўныя паслугі, вам неабходна прадаставіць нам наступныя дазволы на збор вашай асабістай інфармацыі:</string>
     <string name="require_network_authority_statement">Каб мы змаглі прадастаўляць вам асноўныя паслугі, вам неабходна падлучыцца да Інтэрнэту і прадаставіць нам наступныя дазволы на збор вашай асабістай інфармацыі:</string>
     <string name="screen_recording_introduction">Гэтая праграма дазваляе запісваць усё, што адбываецца на экране.</string>
-    <string name="security_introduction">Гэтая праграма дазваляе выдаляць непатрэбныя файлы з вашай прылады, выяўляць і выдаляць вірусы, аптымізаваць прадукцыйнасць для гульняў, эканоміць зарад батарэі, кіраваць праграмамі і рабіць шмат чаго яшчэ.</string>
+    <string name="security_introduction">Гэтая праграма дазваляе выдаляць непатрэбныя файлы з вашай прылады, выяўляць і выдаляць вірусы, аптымізаваць прадукцыйнасць для гульняў, эканоміць зарад батарэі, кіраваць праграмамі і дазволамі і рабіць шмат чаго яшчэ.</string>
     <string name="security_mobile_account_introduction">Для ўваходу ў сістэмныя акаўнты і кіравання імі</string>
     <string name="service_agreement">Я прачытаў(-ла) палажэнні і ўмовы і пагадзіўся(-лася) з імі.</string>
     <string name="service_name_album">Галерэя</string>
@@ -206,7 +207,7 @@
     <string name="summary_not_set">Не наладжана</string>
     <string name="system_navigation_mode">Спосаб навігацыі</string>
     <string name="terms_of_use">Умовы і палажэнні</string>
-    <string name="terms_of_use_ble_htmlViewer">, Fused Location Provider, HTMLViewer</string>
+    <string name="terms_of_use_ble_htmlViewer">, Fused Location Provider, Прагляд HTML</string>
     <string name="terms_of_use_label">"Прачытайце наша Карыстальніцкае пагадненне і нашу Палітыку канфідэнцыяльнасці, каб зразумець, якую інфармацыю мы збіраем, як мы яе выкарыстоўваем і якія варыянты даступныя для Вас.
 Вы павінны прыняць наша Карыстальніцкае пагадненне і нашу Палітыку канфідэнцыяльнасці, перш чым выкарыстоўваць MIUI.
 %s і кампаненты Mi акаўнта падключацца да інтэрнэту і вызначаць ваша месцазнаходжанне."</string>

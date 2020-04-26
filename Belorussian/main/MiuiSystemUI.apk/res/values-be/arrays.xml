@@ -26,6 +26,24 @@
         <item>%1$s</item>
         <item>%1$s</item>
     </string-array>
+    <string-array name="aqi_title_append">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+    </string-array>
     <string-array name="battery_labels">
         <item>0%</item>
         <item>50%</item>
@@ -93,6 +111,9 @@
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptive аўдыё</item>
         <item>Аўдыё Qualcomm® aptX™ TWS+</item>
+        <item>LHDC V3</item>
+        <item>LHDC V2</item>
+        <item>LHDC V1</item>
         <item>Уключыць дадатковыя кодэкі</item>
         <item>Выключыць дадатковыя кодэкі</item>
     </string-array>
@@ -105,6 +126,9 @@
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptive аўдыё</item>
         <item>Аўдыё Qualcomm® aptX™ TWS+</item>
+        <item>LHDC V3</item>
+        <item>LHDC V2</item>
+        <item>LHDC V1</item>
         <item>Уключыць дадатковыя кодэкі</item>
         <item>Выключыць дадатковыя кодэкі</item>
     </string-array>

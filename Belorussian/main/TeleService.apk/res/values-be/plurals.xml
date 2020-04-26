@@ -13,10 +13,10 @@
         <item quantity="many">Выбранае дзеянне недаступнае ў рэжыме экстраных зваротных выклікаў. Тэлефон застанецца ў гэтым рэжыме яшчэ %s хвілін. Выйсці з рэжыму?</item>
     </plurals>
     <plurals name="auto_answer_summary_delay">
-        <item quantity="other">затрымка: %s секунды</item>
-        <item quantity="one">затрымка: %s секунда</item>
-        <item quantity="few">затрымка: %s секунды</item>
-        <item quantity="many">затрымка: %s секундаў</item>
+        <item quantity="other">затрымка: %d секунд</item>
+        <item quantity="one">затрымка: %d секунда</item>
+        <item quantity="few">затрымка: %d секунды</item>
+        <item quantity="many">затрымка: %d секунд</item>
     </plurals>
     <plurals name="call_record_add_white_list_over_reminder">
         <item quantity="other">Вы можаце дадаць да %s нумара, выберыце наноў.</item>

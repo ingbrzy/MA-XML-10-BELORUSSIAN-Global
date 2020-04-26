@@ -91,7 +91,6 @@
     <string name="description_image_button_four">чатыры</string>
     <string name="description_image_button_hangup">Скончыць</string>
     <string name="description_image_button_message_enter">Адказаць паведамленнем</string>
-    <string name="description_image_button_message_exit">Схаваць паведамленні</string>
     <string name="description_image_button_nine">дзевяць</string>
     <string name="description_image_button_one">адзін</string>
     <string name="description_image_button_pound">краткі</string>
@@ -207,4 +206,5 @@
     <string name="wait_prompt_str">"Адправіць наступныя танальныя сігналы?
 "</string>
     <string name="waiting_close_airplane_mode">Хвілінку…</string>
+    <string name="wifi_call">Выклік VoWifi</string>
 </resources>

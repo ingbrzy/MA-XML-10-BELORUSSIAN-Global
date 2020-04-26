@@ -42,6 +42,12 @@
         <item quantity="few">Не запускалася %d гады</item>
         <item quantity="many">Не запускалася %d гадоў</item>
     </plurals>
+    <plurals name="applock_guide_app_count_tips">
+        <item quantity="other">Вы можаце абараніць па меншай меры %s праграм</item>
+        <item quantity="one">Вы можаце абараніць па меншай меры %s праграму</item>
+        <item quantity="few">Вы можаце абараніць па меншай меры %s праграмы</item>
+        <item quantity="many">Вы можаце абараніць па меншай меры %s праграм</item>
+    </plurals>
     <plurals name="bg_network_allow_count">
         <item quantity="other">%d праграмы з падключэннем да сеткі ў фоне</item>
         <item quantity="one">%d праграма з падключэннем да сеткі ў фоне</item>
@@ -151,6 +157,12 @@
         <item quantity="one">Гуляе %1$d чалавек</item>
         <item quantity="few">Гуляе %1$d людзей</item>
         <item quantity="many">Гуляе %1$d людзей</item>
+    </plurals>
+    <plurals name="gb_record_time_title">
+        <item quantity="other">%d сек.</item>
+        <item quantity="one">%d сек.</item>
+        <item quantity="few">%d сек.</item>
+        <item quantity="many">%d сек.</item>
     </plurals>
     <plurals name="gb_signed_days_sum">
         <item quantity="other">Адзначана %d раза запар</item>
@@ -685,6 +697,12 @@
         <item quantity="one">Не дададзена %d гульня</item>
         <item quantity="few">Не дададзена %d гульні</item>
         <item quantity="many">Не дададзена %d гульняў</item>
+    </plurals>
+    <plurals name="videobox_settings_manager_apps_count">
+        <item quantity="other">%d праграм</item>
+        <item quantity="one">%d праграма</item>
+        <item quantity="few">%d праграмы</item>
+        <item quantity="many">%d праграм</item>
     </plurals>
     <plurals name="view_num">
         <item quantity="other">%1$d прагляду</item>

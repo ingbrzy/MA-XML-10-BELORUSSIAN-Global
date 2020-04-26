@@ -311,6 +311,30 @@
         <item>Аптымізавана для якасці злучэння (330/303 Кбіт/c)</item>
         <item>Найлепшы эфект (Адаптыўны бітрэйт)</item>
     </string-array>
+    <string-array name="bluetooth_a2dp_codec_lhdc_latency_summaries">
+        <item>Кароткая затрымка</item>
+        <item>Сярэдняя затрымка</item>
+        <item>Доўгая затрымка</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_lhdc_latency_titles">
+        <item>Кароткая затрымка (ад 50 да 100 мс)</item>
+        <item>Сярэдняя затрымка (ад 150 да 200 мс)</item>
+        <item>Доўгая затрымка (ад 300 да 500 мс)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_summaries">
+        <item>Аптымізавана для нізкай затрымкі</item>
+        <item>Аптымізавана для хуткасці падключэння</item>
+        <item>Баланс якасці гуку і хуткасці падключэння</item>
+        <item>Аптымізавана для якасці гуку</item>
+        <item>Найлепшы варыянт (аўтаматычны бітрэйт)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_titles">
+        <item>Аптымізавана для нізкай затрымкі (256 Кбіт/с)</item>
+        <item>Аптымізавана для якасці падключэння (400 Кбіт/c)</item>
+        <item>Аптымізавана для якасці гуку і падключэння (500/560 Кбіт/c)</item>
+        <item>Аптымізавана для якасці гуку (900 Кбіт/c)</item>
+        <item>Найлепшы варыянт (аўтаматычны бітрэйт)</item>
+    </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
         <item>Выбар сістэмы (па змаўчанні)</item>
         <item>44.1 кГц</item>
@@ -333,8 +357,12 @@
         <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptive аўдыё</item>
+        <item>Аўдыё Qualcomm® aptX™ TWS+</item>
+        <item>LHDC_V3</item>
+        <item>LHDC_V2</item>
+        <item>LHDC_V1</item>
         <item>Уключыць дадатковыя кодэкі</item>
-        <item>Выключыць дадатковыя кодэкі</item>
+        <item>Адключыць дадатковыя кодэкі</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
         <item>Выбар сістэмы (па змаўчанні)</item>
@@ -344,6 +372,10 @@
         <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptive аўдыё</item>
+        <item>Аўдыё Qualcomm® aptX™ TWS+</item>
+        <item>LHDC_V3</item>
+        <item>LHDC_V2</item>
+        <item>LHDC_V1</item>
         <item>Уключыць дадатковыя кодэкі</item>
         <item>Выключыць дадатковыя кодэкі</item>
     </string-array>
@@ -739,6 +771,31 @@
         <item>Парамарыба</item>
         <item>Кіта</item>
     </string-array>
+    <array name="click_bottom">
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom02</item>
+        <item>@drawable/clickbottom03</item>
+        <item>@drawable/clickbottom04</item>
+        <item>@drawable/clickbottom05</item>
+        <item>@drawable/clickbottom06</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom08</item>
+        <item>@drawable/clickbottom03</item>
+        <item>@drawable/clickbottom02</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+    </array>
     <string-array name="color_mode_descriptions">
         <item>Палепшаныя колеры</item>
         <item>Натуральныя колеры, як іх бачаць вочы</item>
@@ -878,6 +935,15 @@
         <item>com.android.localphone</item>
         <item>com.android.sim</item>
     </string-array>
+    <string-array name="key_and_gesture_shortcut_action">
+        <item>long_press_home_key</item>
+        <item>long_press_menu_key</item>
+        <item>long_press_back_key</item>
+        <item>key_combination_power_home</item>
+        <item>key_combination_power_menu</item>
+        <item>key_combination_power_back</item>
+        <item>key_none</item>
+    </string-array>
     <string-array name="keyguard_notification_status_entries">
         <item>Не ўключаць экран</item>
         <item>Уключаць экран</item>
@@ -921,6 +987,43 @@
         <item>Праз 5 хвілін</item>
         <item>Ніколі</item>
     </string-array>
+    <array name="long_press">
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom02</item>
+        <item>@drawable/clickbottom03</item>
+        <item>@drawable/clickbottom04</item>
+        <item>@drawable/clickbottom05</item>
+        <item>@drawable/clickbottom06</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom03</item>
+        <item>@drawable/clickbottom02</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+    </array>
     <string-array name="long_press_timeout_selector_titles">
         <item>Кароткая</item>
         <item>Сярэдняя</item>
@@ -988,6 +1091,14 @@
         <item>Дазвольце доступ да падключанай прылады праз файлавы праваднік: mtpfs /media/mtp праз праваднік гэтак жа, як у лакальнай папцы.</item>
         <item>"Выдаліце прыладу: fusermount -u /media/mtp
 Толькі для Ubuntu 8.04!"</item>
+    </string-array>
+    <string-array name="msd_pc_system_retry_mac">
+        <item>@string/msd_install_retry_reinstall_mac</item>
+        <item>@string/msd_install_retry_connect</item>
+        <item>@string/msd_install_retry_reinstall</item>
+    </string-array>
+    <string-array name="msd_pc_system_retry_vista">
+        <item>@string/msd_install_retry_connect</item>
     </string-array>
     <string-array name="msd_pc_system_retry_xp">
         <item>@string/msd_install_retry_connect</item>
@@ -1089,6 +1200,97 @@
         <item>Падаўленне шуму (1 мікрафон)</item>
         <item>Падаўленне шуму (2 мікрафоны)</item>
     </string-array>
+    <array name="power_click">
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick02</item>
+        <item>@drawable/powerclick03</item>
+        <item>@drawable/powerclick04</item>
+        <item>@drawable/powerclick05</item>
+        <item>@drawable/powerclick06</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+    </array>
+    <array name="power_double_click">
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick02</item>
+        <item>@drawable/powerclick03</item>
+        <item>@drawable/powerclick04</item>
+        <item>@drawable/powerclick05</item>
+        <item>@drawable/powerclick06</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick02</item>
+        <item>@drawable/powerclick03</item>
+        <item>@drawable/powerclick04</item>
+        <item>@drawable/powerclick05</item>
+        <item>@drawable/powerclick06</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+    </array>
+    <array name="power_long_press">
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick02</item>
+        <item>@drawable/powerclick03</item>
+        <item>@drawable/powerclick04</item>
+        <item>@drawable/powerclick05</item>
+        <item>@drawable/powerclick06</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick03</item>
+        <item>@drawable/powerclick02</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+    </array>
     <string-array name="power_mode_entries">
         <item>Прадукцыйнасць</item>
         <item>Збалансаваны</item>
@@ -1199,12 +1401,17 @@
     <string-array name="screen_optimize_summary">
         <item>Адкарэктаваць колеры ў залежнасці ад бягучага асвятлення</item>
         <item>Заўсёды паляпшаць колеры</item>
-        <item>Аднавіць стандартны колер змесціва экрана з дапамогай каліброўкі колеру</item>
+        <item>Кантраснасць застанецца нязменнай</item>
     </string-array>
     <string-array name="screen_optimize_title">
         <item>Аўта (рэкамендуецца)</item>
         <item>Насычанае</item>
-        <item>Першапачатковы колер</item>
+        <item>Стандартны</item>
+    </string-array>
+    <string-array name="screen_resolution_format">
+        <item>@string/screen_resolution_ultrahigh_format</item>
+        <item>@string/screen_resolution_high_format</item>
+        <item>@string/screen_resolution_normal_format</item>
     </string-array>
     <string-array name="screen_resolution_text">
         <item>2K</item>
@@ -1273,6 +1480,10 @@
         <item>Намаляваць непрамавугольную вобласць экрана сінім</item>
         <item>Вылучаць тэставыя каманды малявання зялёным</item>
     </string-array>
+    <string-array name="silent_entries">
+        <item>@string/standard</item>
+        <item>@string/total</item>
+    </string-array>
     <string-array name="silent_mode_duration_text">
         <item>Заўсёды</item>
         <item>30 хвілін</item>
@@ -1299,6 +1510,31 @@
         <item>1</item>
         <item>0</item>
     </string-array>
+    <array name="three_drop">
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop02</item>
+        <item>@drawable/threedrop03</item>
+        <item>@drawable/threedrop04</item>
+        <item>@drawable/threedrop05</item>
+        <item>@drawable/threedrop06</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+    </array>
     <string-array name="time_format_entries">
         <item>12-гадзінны 1:00 пасля поўдня</item>
         <item>24-гадзінны 13:00</item>
@@ -1340,6 +1576,16 @@
         <item>Хуткасць анімацыі 2х</item>
         <item>Хуткасць анімацыі 5х</item>
         <item>Хуткасць анімацыі 10х</item>
+    </string-array>
+    <string-array name="true_color_screen_optimize_summary">
+        <item>Адкарэктаваць колеры ў залежнасці ад бягучага асвятлення</item>
+        <item>Заўсёды паляпшаць колеры</item>
+        <item>Аднавіць стандартны колер змесціва экрана з дапамогай каліброўкі колеру</item>
+    </string-array>
+    <string-array name="true_color_screen_optimize_title">
+        <item>Аўта (рэкамендуецца)</item>
+        <item>Насычанае</item>
+        <item>Першапачатковы колер</item>
     </string-array>
     <string-array name="tts_rate_entries">
         <item>Вельмі павольна</item>
@@ -1445,6 +1691,10 @@
         <item>Адсотак (на значку)</item>
         <item>Адсотак (побач са значком у Панэлі апавяшчэнняў)</item>
     </string-array>
+    <string-array name="wifi_ap_band_config_2G_5G">
+        <item>@string/wifi_ap_choose_2G</item>
+        <item>@string/wifi_ap_choose_5G</item>
+    </string-array>
     <string-array name="wifi_ap_security">
         <item>@string/wifi_security_none</item>
         <item>@string/wifi_security_wpa2</item>
@@ -1515,8 +1765,8 @@
         <item>GTC</item>
     </string-array>
     <string-array name="wifi_privacy_entries">
-        <item>Выкарыстоўваць выпадковы MAC-адрас (стандартна)</item>
-        <item>Выкарыстоўваць MAC-адрас прылады</item>
+        <item>Выкарыстоўваць выпадковы MAC</item>
+        <item>Выкарыстоўваць MAC прылады</item>
     </string-array>
     <string-array name="wifi_proxy_settings">
         <item>Няма</item>

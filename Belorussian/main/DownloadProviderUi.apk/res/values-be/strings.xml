@@ -56,7 +56,7 @@
     <string name="s7">Тэставая рэклама</string>
     <string name="select_all">Выбраць усё</string>
     <string name="selected_count">Выбрана %1$d з %2$d</string>
-    <string name="status_bar_notification_info_overflow">больш за 999</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="DOWNLOAD_UNIT_BIT">Б</string>
     <string name="DOWNLOAD_UNIT_GB">ГБ</string>
     <string name="DOWNLOAD_UNIT_KB">КБ</string>
@@ -127,13 +127,13 @@
     <string name="downloading">Спампоўка…</string>
     <string name="downloading_empty">Пуста</string>
     <string name="downloads_operating">Апрацоўка…</string>
-    <string name="durationDayHour">%1$d дзень %2$d гадз</string>
-    <string name="durationDayHours">%1$d дзень %2$d гадз</string>
-    <string name="durationHourMinute">%1$dгадз %2$dхв</string>
-    <string name="durationHourMinutes">%1$dгадз %2$dхв</string>
+    <string name="durationDayHour">%1$d дзень %2$d г</string>
+    <string name="durationDayHours">%1$d дзень %2$d гадз.</string>
+    <string name="durationHourMinute">%1$d г %2$d хв.</string>
+    <string name="durationHourMinutes">%1$d г %2$d хв.</string>
     <string name="durationMinute">%1$dхв</string>
-    <string name="durationMinuteSecond">%1$dхв %2$dсек</string>
-    <string name="durationMinuteSeconds">%1$dхв %2$dсек</string>
+    <string name="durationMinuteSecond">%1$d хв. %2$d сек.</string>
+    <string name="durationMinuteSeconds">%1$d хв. %2$d сек.</string>
     <string name="durationMinutes">%1$d хв</string>
     <string name="durationSecond">%1$dсек</string>
     <string name="durationSeconds">%1$d сек</string>
@@ -205,7 +205,7 @@
     <string name="pref_download_settings_title">Максімальны памер файла</string>
     <string name="pref_summary_any_bytes_popup">Заўсёды пампаваць файлы толькі пры наяўнасці падлучэння да Wi-Fi</string>
     <string name="pref_summary_enable_max_bytes_popup">Паказваць усплывальныя апавяшчэнні, калі выкарыстоўваецца мабільны інтэрнэт для спампоўкі дадзеных</string>
-    <string name="pref_summary_max_bytes_limit_format">Чакаць злучэння з Wi-Fi, калі памер файла большы за %s</string>
+    <string name="pref_summary_max_bytes_limit_format">Чакаць Wi-Fi, калі памер файла больш за %s</string>
     <string name="pref_summary_no_limit_popup">Неабмежавана</string>
     <string name="pref_title_enable_max_bytes_popup">Паказаць аператыўнае выкарыстанне дадзеных</string>
     <string name="preferences_title">Налады</string>
@@ -249,4 +249,5 @@
     <string name="toast_only_wifi_download">"Падключыцеся да Wi-Fi, каб спампаваць гэты аб'ект"</string>
     <string name="total_speedup">Паскарэнне (усяго)</string>
     <string name="version">Версія: %s</string>
+    <string name="security_ui_title">Security ads</string>
 </resources>

@@ -47,6 +47,7 @@
     <string name="content_description_web_url">Прагляд</string>
     <string name="copy">Капіяваць</string>
     <string name="cut">Выразаць</string>
+    <string name="data_usage_context">If Wi-Fi is not turned on, your device will connect to a mobile network, which may result in additional charges depending on your payment plan.Thank you!</string>
     <string name="default_device_name">Невядомая прылада</string>
     <string name="default_name">Па змаўчанні</string>
     <string name="description_title">Бязгучны рэжым</string>
@@ -71,7 +72,7 @@
     <string name="fp_nav_center_action_choose_dlg_negative_btn_text">Не зараз</string>
     <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Уключыць</string>
     <string name="fp_nav_center_action_choose_dlg_title">Уключыць функцыю хуткага дотыку</string>
-    <string name="frequent_email">Часты электронны ліст</string>
+    <string name="frequent_email">Email, які часта выкарыстоўваецца</string>
     <string name="frequent_phrases">Частыя выразы</string>
     <string name="functions_are_being_developed">Гэтая функцыя хутка стане даступная. Заставайцеся з намі!</string>
     <string name="global_actions_airplane_mode">Рэжым палёту</string>
@@ -190,7 +191,7 @@
     <string name="security_permission_xiaomi_account_missed_text">Увядзіце ID свайго Mi Акаўнта</string>
     <string name="select">Выбраць</string>
     <string name="select_all">Выбраць усё</string>
-    <string name="send_files_to">"Отправить аб'екты ў"</string>
+    <string name="send_files_to">"Адправіць аб'екты ў"</string>
     <string name="service_not_subscribed">БЕЗ ПАДПІСКІ НА СЭРВІС -33-</string>
     <string name="set_password_action">Задаць пароль</string>
     <string name="set_password_message">Задаць пароль каб выкарыстоўваць гэтую функцыю.</string>
@@ -202,6 +203,7 @@
     <string name="sim_added_reboot_title">SIM-карта будзе актывавана пасля перазагрузкі прылады.</string>
     <string name="sim_lock_non_ais_msg">Ваша SIM-карта не цалкам сумяшчальная з гэтым тэлефонам, паколькі яна не адпавядае умовам вашай падпіскі. Калі ў вас ёсць якія-небудзь пытанні ці вам патрэбна дадатковая інфармацыя па гэтай праблеме, звярніцеся ў сэрвісны цэнтр Xiaomi або ў краму, якая прадала вам прадукты.</string>
     <string name="sim_lock_now_ais_title">SIM %1$d</string>
+    <string name="slatoast">Для паскарэння выкарыстоўваецца мабільны інтэрнэт, могуць расходавацца мабільныя дадзеныя</string>
     <string name="slavewifi">Двухдыяпазонны Wi-Fi</string>
     <string name="slavewifi_disconnect">Адключыцца</string>
     <string name="slavewifi_notification_title">Выкарыстоўваецца двухдыяпазонны Wi-Fi</string>

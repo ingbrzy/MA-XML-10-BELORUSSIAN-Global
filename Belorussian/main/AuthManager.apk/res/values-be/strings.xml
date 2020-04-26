@@ -97,7 +97,7 @@
     <string name="grant_dialog_button_deny_background_and_dont_ask_again">Забараніць і больш не пытацца</string>
     <string name="location_settings">Налады месцазнаходжання</string>
     <string name="location_warning">%1$s забяспечвае дадзенымі месцазнаходжання на прыладзе. Доступ да месцазнаходжання можна змяніць у наладах.</string>
-    <string name="never_ask_again">Не пытаць зноў</string>
+    <string name="never_ask_again">Больш не пытацца пасля абмежавання</string>
     <string name="ok">OK</string>
     <string name="permdesc_camera">Здымка фота і відэа</string>
     <string name="permdesc_in_calls">Адсочванне ўваходных выклікаў</string>

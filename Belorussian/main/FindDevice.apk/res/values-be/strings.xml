@@ -22,12 +22,13 @@
     <string name="find_device_error_access_denied">Доступ забаронены.</string>
     <string name="find_device_error_account_sys_timeout">"Не атрымалася падлучыцца да Mi Акаўнта. "</string>
     <string name="find_device_error_account_unknown_error">Памылка Mi Акаўнта (%s).</string>
+    <string name="find_device_error_custom">%s</string>
     <string name="find_device_error_network">Памылка сеткі.</string>
     <string name="find_device_error_password_changed">Пароль акаўнта быў нядаўна зменены.</string>
     <string name="find_device_error_server">Памылка сервера (%s).</string>
     <string name="find_device_error_unknown">Невядомая памылка (%s).</string>
     <string name="find_device_noise_title">Сігнал пошуку прылады</string>
-    <string name="find_device_notice">Перайдзіце на &lt;br />&lt;b>&lt;font color=#e84700>i.mi.com&lt;/font>&lt;/b>&lt;br />, каб знайсці, заблакаваць або аднавіць прыладу.</string>
+    <string name="find_device_notice">Перайдзіце на &lt;b>&lt;font color=#0099FF>i.mi.com&lt;/font>&lt;/b>, каб знайсці, заблакаваць або аднавіць прыладу.</string>
     <string name="find_device_notice_sms_alert">Калі вы замянілі SIM-карту, SMS для паўторнай актывацыі будзе адпраўлена аўтаматычна.</string>
     <string name="find_device_stop_noise">Націсніце ОК, каб адключыць гук</string>
     <string name="find_device_storage_corrupted">Сховішча пашкоджана. Ваша прылада пад пагрозай.</string>

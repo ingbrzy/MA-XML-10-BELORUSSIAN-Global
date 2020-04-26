@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="HIPS_Perm_CallLog_Desc">Запіс і выдаленне гісторыі вызаваў</string>
+    <string name="HIPS_Perm_Call_Desc">Непасрэднае выкананне тэлефонных вызаваў</string>
+    <string name="HIPS_Perm_Contact_Desc">Змяняць і выдаляць кантакты</string>
+    <string name="HIPS_Perm_PhoneID_Desc">Доступ да нумара тэлефона, IMEI і IMSI</string>
+    <string name="HIPS_Perm_PhoneID_Desc_Q">Атрымаць доступ да нумара тэлефона і статусу прылады</string>
+    <string name="HIPS_Perm_Read_Call_Log_Desc">Чытанне гісторыі вызаваў</string>
+    <string name="HIPS_Perm_Read_Contact_Desc">Чытанне вашых кантактаў</string>
+    <string name="HIPS_Perm_Read_SMS_Desc">Чытанне SMS паведамленняў</string>
+    <string name="HIPS_Perm_SendSMS_Desc">Непасрэдны доступ да адпраўкі SMS</string>
+    <string name="HIPS_Perm_add_voicemail_Desc">Даданне сістэмных галасавых паведамленняў</string>
+    <string name="HIPS_Perm_get_accounts_Desc">Доступ да ўсіх акаўнтаў, што захаваныя на прыладзе</string>
+    <string name="HIPS_Perm_use_sip_Desc">Выкарыстанне пратаколf ініцыявання сеансаў для струменевага відэа</string>
     <string name="Phonepass">Дазволіць выклікі</string>
     <string name="SMS_and_MMS">SMS і MMS</string>
     <string name="SMSpass">Дазволіць SMS</string>
@@ -13,16 +25,20 @@
     <string name="ac_enter_applock">Увядзіце пароль блакавання</string>
     <string name="ac_firstUseApplock_subTitle">Выкарыстоўвайце лепшыя сродкі бяспекі</string>
     <string name="ac_firstUseApplock_title">Задаць пароль, каб абараніць вашыя праграмы</string>
-    <string name="ac_mask_all_apps">Схаваць для ўсіх праграм</string>
+    <string name="ac_mask_all_apps">Схаваць для ўсіх</string>
     <string name="ac_notification_contentText">Націсніце, каб уключыць</string>
     <string name="ac_notification_contentTitle">Абараніце вашы праграмы</string>
     <string name="ac_post_notification_contentText">Абарона на сістэмным узроўні</string>
     <string name="ac_post_notification_contentTitle">Уключыце Абарону праграм</string>
     <string name="ac_pre_notification_contentText">Абараніце вашы асабістыя дадзеныя</string>
     <string name="ac_pre_notification_contentTitle">Абарона праграм</string>
+    <string name="ac_recommend_guide_dialog_app_content">Use App lock with this app in order to protect your personal info and avoid data leaks.</string>
+    <string name="ac_recommend_guide_dialog_content">You can protect your personal info and avoid data leaks using App lock.</string>
+    <string name="ac_recommend_guide_dialog_ignore">"Don't show again"</string>
+    <string name="ac_recommend_guide_dialog_open">Turn on</string>
     <string name="ac_summaryOff">Для адкрыцця праграм не патрабуецца пароль</string>
     <string name="ac_summaryOn">Для адкрыцця абароненых праграм патрабуецца пароль</string>
-    <string name="ac_unmask_all_apps">Паказваць для ўсіх праграм</string>
+    <string name="ac_unmask_all_apps">Паказваць для ўсіх</string>
     <string name="access_control_app_is_launching">Праграма запускаецца</string>
     <string name="access_control_failed_need_to_unlock_nofingerprint">Увядзіце пароль перад выкарыстаннем новага адбітку пальца</string>
     <string name="access_control_fingerprint_not_identified_msg">Не атрымалася счытаць адбітак.</string>
@@ -126,8 +142,10 @@
     <string name="antivirus_update_btn_contiue">Працягнуць</string>
     <string name="antivirus_update_btn_open">Дазволіць</string>
     <string name="antivirus_update_btn_update">Абнавіць</string>
+    <string name="apn_exception_modify_summary">Кропка доступу аператара па змаўчанні не выкарыстоўваецца або зменена</string>
     <string name="apn_exception_summary">Дыягностыка канфігурацыі APN</string>
     <string name="apn_exception_title">Праверка налад APN</string>
+    <string name="apn_exception_wap_summary">WAP зараз працуе няўстойліва. Пераключыцеся на NET.</string>
     <string name="app_bg_restrict_dialog_message">Абмежаванне фонавых злучэнняў можа перашкодзіць звычайнай працы праграмы. Напрыклад, яно больш не зможа атрымліваць паведамленні ці абнаўляць кантэнт.</string>
     <string name="app_check_no_issue">Праблем з батарэяй не знойдзена. Цудоўна!</string>
     <string name="app_detail">Падрабязнасці</string>
@@ -288,6 +306,7 @@
     <string name="applock_add_account">Дадаць</string>
     <string name="applock_add_account_info">Дадайце Mi Акаўнт, каб мець магчымасць аднавіць пароль, калі вы яго забыліся.</string>
     <string name="applock_add_account_setting">Акаўнт і канфідэнцыяльнасць</string>
+    <string name="applock_app_recommend_lock_title">Вы можаце заблакаваць наступныя праграмы</string>
     <string name="applock_bind_account_title">Забылі пароль?</string>
     <string name="applock_close_dialog_summary">Усе схаваныя праграмы будуць паказаны, іх ярлыкі на працоўным стале адноўлены, а ваш пароль аховы выдалены. Адключыць ахову праграм?</string>
     <string name="applock_close_dialog_title">Адключыць абарону?</string>
@@ -296,11 +315,29 @@
     <string name="applock_face_unlock_title">Распазнаванне твару</string>
     <string name="applock_function_base_settings">Абарона праграм</string>
     <string name="applock_function_pwd_settings">Пароль</string>
+    <string name="applock_go_to">Налады</string>
+    <string name="applock_guide_open_applock">Уключыць</string>
+    <string name="applock_guide_tip1">Даступныя некалькі тыпаў пароля. Разблакуйце праграмы адбіткам пальца, выявай твару або паролем.</string>
+    <string name="applock_guide_tip1_global">Разблакуйце праграмы адбіткам пальца, выявай твару або паролем.</string>
+    <string name="applock_guide_tip1_global_without_face">Разблакуйце праграмы адбіткам пальца або паролем.</string>
+    <string name="applock_guide_tip1_global_without_finger">Разблакуйце праграмы выявай твару або паролем.</string>
+    <string name="applock_guide_tip1_global_without_finger_face">Даступныя некалькі тыпаў пароля.</string>
+    <string name="applock_guide_tip1_without_face">Даступныя некалькі тыпаў пароля. Разблакуйце праграмы адбіткам пальца або паролем.</string>
+    <string name="applock_guide_tip1_without_finger">Даступныя некалькі тыпаў пароля. Разблакуйце праграмы выявай твару або паролем.</string>
+    <string name="applock_guide_tip1_without_finger_face">Даступныя некалькі тыпаў пароля.</string>
+    <string name="applock_guide_tip2">Дадайце Mi Акаўнт, каб мець магчымасць скінуць пароль.</string>
+    <string name="applock_guide_tip3">Схаваць змест апавяшчэння.</string>
+    <string name="applock_guide_tip3_global">Схаваць змест апавяшчэння.</string>
+    <string name="applock_guide_title">Абараніце сваю прыватнасць з дапамогай Абароны праграм</string>
     <string name="applock_header_text_less_than_half">Занадта мала месца. Перацягніце падзельнік далей.</string>
+    <string name="applock_lock_all">Заблакаваць усе</string>
     <string name="applock_login_and_add_account">Увайсці і дадаць</string>
     <string name="applock_not_add_account"><u>Не зараз</u></string>
     <string name="applock_not_login_account">Вы не аўтарызаваны</string>
+    <string name="applock_set_password_title">Змяніць тып пароля</string>
+    <string name="applock_settings_unlock_all_toast">Разблакаваць усе праграмы</string>
     <string name="applock_toast_tip">Абарона праграм праверана</string>
+    <string name="applock_unlock_all">Разблакаваць усе</string>
     <string name="apps_item_sign_dialog_content">Подпіс %s адрозніваецца ад версіі ў Краме. Выдаліць гэтую праграму ды усталяваць афіцыйную версію? Увага: усталяванне праграмы з канфліктным подпісам можа прывесці да страты дадзеных праграмы.</string>
     <string name="apps_item_sign_dialog_title">Усталяваць афіцыйную прыладу</string>
     <string name="apps_item_sign_install_button_text">Замяніць</string>
@@ -557,6 +594,7 @@
     <string name="card_main_private_space_summary">Выкарыстоўвайце Другую прастору як асобную прыладу</string>
     <string name="card_main_private_space_title">Другая прастора</string>
     <string name="card_main_sectool_title">Інструменты</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_xspace_action">Стварыць</string>
     <string name="card_main_xspace_summary">Стварайце незалежныя копіі для хоць якой праграмы</string>
     <string name="card_main_xspace_title">Кланаванне</string>
@@ -748,6 +786,7 @@
     <string name="doze_optimization_title">Аптымізаванае сэнсарнае кіраванне</string>
     <string name="dual_setting_simcard1">SIM 1</string>
     <string name="dual_setting_simcard2">SIM 2</string>
+    <string name="ellipsis">…</string>
     <string name="email">Email</string>
     <string name="empty_app">Няма праграм</string>
     <string name="empty_title_auto_start_list">Няма праграм з аўтазапускам.</string>
@@ -797,7 +836,9 @@
     <string name="exo_download_notification_channel_name">Спампоўкі</string>
     <string name="exo_download_removing">Выдаленне спамповак</string>
     <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Мбіт/с</string>
     <string name="exo_track_mono">Мона</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">Аўтаматычна</string>
     <string name="exo_track_selection_none">Няма</string>
     <string name="exo_track_selection_title_audio">Аўдыя</string>
@@ -1248,6 +1289,7 @@
     <string name="load_only_under_wlan">Спампоўваць толькі па Wi-Fi</string>
     <string name="loading">Хвілінку…</string>
     <string name="local_ip_exception_summary">Не ўдалося атрымаць лакальны IP-адрас. Каб паведаміць MIUI пра праблему, увайдзіце ў праграму \"Справаздача\" і адпраўце журнал з вашай прылады.</string>
+    <string name="lock_all_title">Заблакаваць усе праграмы</string>
     <string name="lock_mode_title">Налады блакавання</string>
     <string name="lock_screen_traffic_guide_notification_summary">Выкарыстоўваецца на экране блакавання: %s</string>
     <string name="lock_screen_traffic_guide_notification_title">Націсніце для кіравання трафікам.</string>
@@ -1424,9 +1466,11 @@
     <string name="menu_text_antispam">Чорны спіс</string>
     <string name="menu_text_antivirus">Антывірус</string>
     <string name="menu_text_garbage_cleanup">Ачыстка</string>
+    <string name="menu_text_garbage_cleanup_danger">%s</string>
     <string name="menu_text_license_manager">Дазволы</string>
     <string name="menu_text_networkassistants">Трафік</string>
     <string name="menu_text_networkassistants_danger">перавышана на %s</string>
+    <string name="menu_text_networkassistants_data">%1$s %2$s</string>
     <string name="menu_text_networkassistants_remain">%s засталося</string>
     <string name="menu_text_networkassistants_unit_b">Б</string>
     <string name="menu_text_networkassistants_unit_gb">ГБ</string>
@@ -1434,6 +1478,7 @@
     <string name="menu_text_networkassistants_unit_mb">МБ</string>
     <string name="menu_text_optimize_manage">Паскарэнне</string>
     <string name="menu_text_power_manager">Батарэя і прадукцыйнасць</string>
+    <string name="menu_text_power_percent_title">%s</string>
     <string name="menu_wh_remove">Выдаліць з выняткаў</string>
     <string name="menu_white">Дадаць у выключэнні</string>
     <string name="mi_service_app_detail">Інфармацыя пра трафік</string>
@@ -1456,6 +1501,11 @@
     <string name="more_lock">Больш</string>
     <string name="more_settings">Больш</string>
     <string name="name">Назва</string>
+    <string name="nd_result_button_optimize">Аптымізаваць</string>
+    <string name="nd_result_summary_optimize">Паспрабуйце аптымізаваць падлучэнне да сеткі, калі яна нестабільная</string>
+    <string name="nd_result_title_auxiliary">Канфігурацыя сеткі</string>
+    <string name="nd_result_title_network">Магчымасць падлучэння да сеткі</string>
+    <string name="nd_result_title_optimize">Аптымізацыя сеткі</string>
     <string name="net_booster">Павелічэнне хуткасці сеткі</string>
     <string name="net_booster_expire_notification">Сеанс паскарэння сеткі хутка скончыцца</string>
     <string name="net_booster_overdue_notification">Сеанс паскарэння сеткі хутка скончыцца</string>
@@ -1536,8 +1586,8 @@
     <string name="notification_garbage_cleanup_title">Выдаліць смеццевыя файлы</string>
     <string name="notification_mask_summary">Ня адлюстроўваць змест апавяшчэнняў для абароненых праграм</string>
     <string name="notification_mask_title">Схаваць змест апавяшчэння</string>
-    <string name="notification_masked_item">Схаваць апавяшчэнні</string>
-    <string name="notification_masked_subtitle">Хаваць апавяшчэнні ад абароненых праграм</string>
+    <string name="notification_masked_item">Як схаваць змест апавяшчэнняў?</string>
+    <string name="notification_masked_subtitle">Выкарыстоўвайце Абарону праграм, каб схаваць змест апавяшчэнняў выбраных праграм</string>
     <string name="notification_summary_cmcc_app_check">Націсніце для прагляду інфармацыі.</string>
     <string name="notify_channel_mipush">Push-паведамленні бяспекі</string>
     <string name="notify_channel_name_security">Бяспека сістэмы</string>
@@ -1599,7 +1649,7 @@
     <string name="operator_number_unicom">10010</string>
     <string name="optimize_manage_title">Павелічэнне хуткасці</string>
     <string name="optimize_result_available_memory_info">Даступная памяць</string>
-    <string name="optimize_result_button_cloudspace">Дадаць месца ў воблаку</string>
+    <string name="optimize_result_button_cloudspace">Атрымаць больш месца ў воблачным сховішчы</string>
     <string name="optimize_result_button_consume_power_analysis">Рэйтынг спажывання</string>
     <string name="optimize_result_button_cooldown_now">Ахаладзіць</string>
     <string name="optimize_result_button_correct_now">Наладзіць</string>
@@ -1694,6 +1744,8 @@
     <string name="percentage">%d%%</string>
     <string name="perfermance_optimization_summary">Пазбягаць перагрэву і праблем з абсталяваннем</string>
     <string name="perfermance_optimization_title">Аптымізацыя прадукцыйнасці</string>
+    <string name="permdesc_in_calls">Monitor incoming calls</string>
+    <string name="permdesc_out_calls">Monitor outgoing calls</string>
     <string name="permgroupdesc_calendar">Доступ да падзей календара</string>
     <string name="permgroupdesc_calllog">"Доступ да гісторыі вызаваў і захаванне аб'ектаў у яе"</string>
     <string name="permgroupdesc_camera">Здымка фота і відэа</string>
@@ -1760,6 +1812,11 @@
     <string name="power_center_dialog_msg_top">Пры ўключэнні Эканоміі энергіі MIUI выканае наступныя аптымізацыі:</string>
     <string name="power_center_hints_scan_danger_result">Вырашыце праблемы з батарэяй</string>
     <string name="power_center_list_item_auto_brightness">Рэгулюйце яркасць аўтаматычна</string>
+    <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
+    <string name="power_center_list_item_battery_health_model_voltage">%s В</string>
+    <string name="power_center_list_item_battery_health_model_volume">%s мАг</string>
+    <string name="power_center_list_item_battery_status_capacity">мАг</string>
+    <string name="power_center_list_item_battery_status_temperature">℃</string>
     <string name="power_center_list_item_battery_status_time">г</string>
     <string name="power_center_list_item_close_bluetooth">Адключыць Bluetooth</string>
     <string name="power_center_list_item_deep_save_title">Пашыраныя налады</string>
@@ -1772,6 +1829,7 @@
     <string name="power_center_power_save_summary_text">Падоўжыць астатні час працы ад батарэі на %1$d г %2$d хв</string>
     <string name="power_center_power_save_title_text">Эканомія энергіі</string>
     <string name="power_center_repeat">Паўтор</string>
+    <string name="power_center_scan_item_title_5g">Сувязь 5G</string>
     <string name="power_center_scan_item_title_GPS">Дакладнасць GPS</string>
     <string name="power_center_scan_item_title_abnormal">Праблемы з батарэяй</string>
     <string name="power_center_scan_item_title_abnormal_apps">Праграмы, якія разражаюць батарэю</string>
@@ -1802,6 +1860,7 @@
     <string name="power_dialog_cancel">Скасаваць</string>
     <string name="power_dialog_ok">OK</string>
     <string name="power_dialog_super_save_msg">Ультра-эканомія энергіі абмяжоўвае большасць функцый, якія спажываюць энергію, і зніжае прадукцыйнасць вашай прылады, каб зрабіць асноўныя функцыі (напрыклад, званкі, SMS і падлучэнне да сеткі) даступнымі як мага даўжэй. Уключыць яе?</string>
+    <string name="power_dialog_super_save_msg_5g">Ультра-эканомія энергіі абмяжоўвае функцыі з найбольшым энергаспажываннем (напрыклад, cувязь 5G), зніжаючы прадукцыйнасць вашай прылады. Толькі выклікі, паведамленні і сеткавае злучэнне не будуць закрануты. Уключыць Ультра-эканомію энергіі?</string>
     <string name="power_dialog_super_save_title">Ультра-эканомія энергіі</string>
     <string name="power_idle">Рэжым чакання</string>
     <string name="power_main_battery_last_day_hour">Застаецца %1$s д %2$s г</string>
@@ -1813,6 +1872,7 @@
     <string name="power_optimize_btn_text_fixed">Аптымізавана</string>
     <string name="power_optimize_catagory_fixed_title">Аптымізавана</string>
     <string name="power_optimize_close_app">Зачыніць праграмы, якія празмерна спажываюць энергію</string>
+    <string name="power_optimize_disable_5g">Абмежаваць сувязь 5G</string>
     <string name="power_optimize_disable_app_autostart">Забараніць праграмам запускацца аўтаматычна</string>
     <string name="power_optimize_disable_gps">Адключыць GPS</string>
     <string name="power_optimize_disable_start_other_app">Забараніць праграмам запускаць іншыя праграмы</string>
@@ -1834,7 +1894,8 @@
     <string name="power_save_on_time_end_time_summary_na">Да</string>
     <string name="power_save_on_time_start_time_summary_na">З</string>
     <string name="power_save_ps_clean">Ачышчаць кэш, калі прылада заблакавана</string>
-    <string name="power_save_ps_close_setting">Адключаць фонавыя службы (сінхранізацыя, GPS) для эканоміі энергіі</string>
+    <string name="power_save_ps_close_setting">Адключыце службы і функцыі з высокім энергаспажываннем (сінхранізацыя, GPS, тактыльная аддача, «Абуджаць пры ўзяцці ў рукі», «Выкарыстоўваць падвойнs дотык», «Значок адбітка на выключаным экране») для эканоміі зарада батарэі</string>
+    <string name="power_save_ps_close_setting_5g">Адключыце службы і функцыі з высокім энергаспажываннем (сінхранізацыя, cувязь 5G, GPS, тактыльная аддача, «Абуджаць пры ўзяцці ў рукі», «Выкарыстоўваць падвойнs дотык», «Значок адбітка на выключаным экране») для эканоміі зарада батарэі</string>
     <string name="power_save_ps_freeze">Замарожваць праграмы ў фоне</string>
     <string name="power_save_ps_limit">Абмяжоўваць актыўнасць сістэмных праграм</string>
     <string name="power_save_settings">Налады батарэі</string>
@@ -1906,6 +1967,7 @@
     <string name="pref_normal_traffic_limit">Калі ліміт дадзеных перавышаны</string>
     <string name="pref_open_adjust_traffic">Абнаўляць статыстыку трафіка штодзённа на падставе дадзеных мабільнага аператара</string>
     <string name="pref_operator_not_set">Аператар не ўсталяваны</string>
+    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_over_traffic_limit">Па выкарыстанні ліміту дадзеных</string>
     <string name="pref_package_traffic_settings">Тарыфны план</string>
     <string name="pref_pkg_begin_date">Дата пачатку ўліку</string>
@@ -1974,6 +2036,9 @@
 
 Падчас каліброўкі MIUI адправіць аператару SMS для атрымання шаблону каліброўкі."</string>
     <string name="privacy_prompt_upload">Запампаваць</string>
+    <string name="privacyapp_number_masked_text">Змест апавяшчэнняў схаваны</string>
+    <string name="privacyapp_number_unmasked_text">Змест апавяшчэнняў можа быць схаваны</string>
+    <string name="process_kernel_label">Android</string>
     <string name="process_mediaserver_label">Медыя-сервер</string>
     <string name="promotion">Рэклама</string>
     <string name="prompt_all">Запытваць для ўсіх</string>
@@ -2107,6 +2172,8 @@
     <string name="shield_keyboard_detail">Каб уключыць кнопкі, двойчы націсніце</string>
     <string name="shield_keyboard_summary">Адключыць кнопкі і поўнаэкранныя жэсты падчас гульні</string>
     <string name="shield_keyboard_title">Адключыць кнопкі і жэсты</string>
+    <string name="shortcut_title_scan">Сканаваць</string>
+    <string name="shortcut_title_whatsapp_clean">Ачыстка WhatsApp</string>
     <string name="show_system_app">Паказаць сістэмныя праграмы</string>
     <string name="show_traffic_dialog_message">Вашы дадзеныя пра выкарыстанне трафіка будуць адлюстроўвацца ў шторцы паведамленняў. Уключыць або выключыць гэтую функцыю можна ў > Наладах.</string>
     <string name="show_traffic_dialog_title">адлюстроўваць выкарыстанне ў шторцы паведамленняў</string>
@@ -2114,6 +2181,8 @@
     <string name="shutdown_cancel_reminder">Прылада не была адключана</string>
     <string name="shutdown_cancel_reminder_detail">Прылада не была адключана ў зададзены час, так як здзяйсняўся выклік</string>
     <string name="shutdown_cancel_reminder_detail2">Запушчана гульнявая праграма. Запланаванае выключэнне прылады скасавана.</string>
+    <string name="signal_exception_4g_bad_rsrq">Дрэнны прыём сігналу. Хуткасць злучэння можа быць нізкай.</string>
+    <string name="signal_exception_none_4g_5g_network">Вы выкарыстоўваеце сеткі мабільнай сувязі 2G/3G. Хуткасць злучэння можа быць нізкай.</string>
     <string name="signal_exception_summary">Немагчыма злучыцца з сеткай.</string>
     <string name="signal_exception_title">Дыягностыка ўзроўню сігналу</string>
     <string name="signed_rule">Правілы</string>
@@ -2304,7 +2373,7 @@
     <string name="still_retain_btn">Пакінуць</string>
     <string name="stop_milink_connect">Трансляцыя спыненая</string>
     <string name="suggest_app_tolock">Прапановы</string>
-    <string name="suggest_app_tolock_masked">Схаваныя</string>
+    <string name="suggest_app_tolock_masked">Змест схаваны</string>
     <string name="suggest_app_tolock_unmasked">Бачныя апавяшчэнні</string>
     <string name="suggest_scan_again">Паўтарыце спробу, каб пазбегнуць пагроз бяспекі.</string>
     <string name="summary_app_lock_disable">Абараніць свае дадзеныя з дапамогай Абароны праграм</string>
@@ -2396,8 +2465,8 @@
     <string name="system_permission_declare_no_say_no">Калі вы вырашыце не даваць неабходныя дазволы ці не дазволіце нам збіраць і выкарыстоўваць вашы дадзеныя, гэтая прграма не зможа нармальна працаваць.</string>
     <string name="system_permission_declare_no_say_no_analytics">Калі вы не хочаце прадастаўляць гэтыя дазволы, вы можаце адмяніць рэгістрацыю ў раздзеле «Налады > Дадатковыя налады > Канфідэнцыяльнасць > Ппраграма карыстацкага вопыту.</string>
     <string name="system_permission_declare_no_say_no_non_mandatory">Калі вы вырашыце не даваць неабходныя дазволы ці не дазволіце нам збіраць і выкарыстоўваць вашы дадзеныя, гэтая праграма часткова не зможа працаваць.</string>
-    <string name="system_permission_declare_privacy_declare">Мы абавязаны абараняць вашу асабістую інфармацыю ў адпаведнасці з дзеючымі законамі, правіламі і палітыкамі прыватнасці. Звярніце ўвагу, што Бяспецы трэба падключэнне да Інтэрнэту і наступныя дазволы для збору вашай асабістай інфармацыі:</string>
-    <string name="system_permission_declare_privacy_no_permission">Звярніце ўвагу, што для прадастаўлення вам паслуг Бяспецы неабходна падлучыцца да Інтэрнэту і збіраць неабходную асабістую інфармацыю. Мы будзем абараняць вашу асабістую інфармацыю ў адпаведнасці з дзеючымі законамі, правіламі і палітыкамі прыватнасці.</string>
+    <string name="system_permission_declare_privacy_declare">Мы абавязаны абараняць вашу асабістую інфармацыю ў адпаведнасці з дзеючымі законамі, правіламі і палітыкамі прыватнасці. Звярніце ўвагу, што гэтай праграме трэба падключэнне да Інтэрнэту і наступныя дазволы для збору вашай асабістай інфармацыі:</string>
+    <string name="system_permission_declare_privacy_no_permission">Звярніце ўвагу, што для прадастаўлення вам паслуг гэтай праграме неабходна падлучыцца да Інтэрнэту і збіраць неабходную асабістую інфармацыю. Мы будзем абараняць вашу асабістую інфармацыю ў адпаведнасці з дзеючымі законамі, правіламі і палітыкамі прыватнасці.</string>
     <string name="system_permission_declare_privacy_policy">&lt;Data>Перад выкарыстаннем гэтай функцыі прачытайце і прыміце нашу &lt;a href=\"%1$s\">Палітыку прыватнасці&lt;/a>.&lt;/Data></string>
     <string name="system_permission_declare_revoke_system">Вы можаце зачыніць гэтую праграму.</string>
     <string name="system_permission_declare_revoke_uninstallable">Вы можаце выйсці, выдаліць гэтую праграму ці адклікаць свой дазвол у раздзеле «Бяспека > Кіраванне праграмамі > Дазволы > Дазволы».</string>
@@ -2405,6 +2474,7 @@
     <string name="system_permission_declare_use_network_no_permission">Падлучыцца да сеткі</string>
     <string name="system_permission_declare_user_agreement">&lt;Data>Перад выкарыстаннем гэтай функцыі прачытайце і прыміце наша &lt;a href=\"%1$s\">Карыстальніцкае пагадненне&lt;/a>.&lt;/Data></string>
     <string name="system_permission_perm_answer_call">Ажыццяўленне выклікаў</string>
+    <string name="system_permission_perm_optional">" (не абавязкова)"</string>
     <string name="system_permission_perm_read_mms">Прачытаць MMS</string>
     <string name="system_permission_perm_read_numbers">Прачытаць нумары тэлефона</string>
     <string name="system_permission_perm_send_mms">Адправіць MMS</string>

@@ -30,8 +30,12 @@
     <string name="mi_service_app_name">Сэрвісы і зваротная сувязь</string>
     <string name="miservice_channel_update_notification_info">«Сэрвісы і зваротная сувязь» запытвае дадзеныя анлайн…</string>
     <string name="miservice_notification_boot_content">Даведайцеся больш аб магчымасцях MIUI</string>
+    <string name="miservice_notification_huanji_content">Перамесціце іх з дапамогай Mi Mover</string>
+    <string name="miservice_notification_huanji_title">"На вашым старым тэлефоне ёсць важныя аб'екты?"</string>
     <string name="miservice_notification_open_feedback_content">Усе функцыі зваротнай сувязі былі перанесены ў новую праграму</string>
     <string name="miservice_notification_open_feedback_title">Прадстаўляем «Сэрвісы і зваротная сувязь»</string>
+    <string name="miservice_notification_scan_content">Выкарыстоўвайце Сканер для перакладу слоў і фраз</string>
+    <string name="miservice_notification_scan_title">Перавод за імгненне</string>
     <string name="miui_feedback_answer_detail_community">Вы можаце знайсці адказы на свае пытанні ў Супольніцтве Mi</string>
     <string name="miui_feedback_answer_detail_feedback_resolved">Да</string>
     <string name="miui_feedback_answer_detail_feedback_result">Дзякуй за ваш водгук!</string>
@@ -46,6 +50,7 @@
     <string name="miui_feedback_edit_add_original_images_dialog_content">Калі праблема, пра якую вы паведамляеце, звязана з якасцю выявы камеры, дадайце ўзор фота (без абрэзкі), каб дапамагчы нам знайсці яе. Дадаць фота зараз?</string>
     <string name="miui_feedback_edit_choose_module">"Выбраць аб'ект"</string>
     <string name="miui_feedback_edit_choose_module_hint">Абавязкова</string>
+    <string name="miui_feedback_edit_choose_occurrence_time">Час</string>
     <string name="miui_feedback_edit_choose_reproductivity">Рэпрадуктыўнасць</string>
     <string name="miui_feedback_edit_choose_third_app_name">Выберыце імя праграмы</string>
     <string name="miui_feedback_edit_contact_info_hint">Тэлефон/Email</string>
@@ -58,6 +63,7 @@
     <string name="miui_feedback_edit_discard_draft_dialog_title">Выдаліць чарнавік?</string>
     <string name="miui_feedback_edit_hint">Паведамляйце аб памылках кожны раз, калі вы сутыкаецеся з імі, каб дапамагчы нам вырашыць іх хутчэй</string>
     <string name="miui_feedback_edit_hint_gone">Паведамленне закрыта</string>
+    <string name="miui_feedback_edit_hint_optional">Выбраць</string>
     <string name="miui_feedback_edit_mobile_data_note_dialog_cancel">Чаканне Wi-Fi</string>
     <string name="miui_feedback_edit_mobile_data_note_dialog_confirm">Запампаваць</string>
     <string name="miui_feedback_edit_mobile_data_note_dialog_content">Вы падлучаны да платнай сеткі. Адпраўка журналаў можа выклікаць дадатковыя выдаткі.</string>
@@ -92,6 +98,7 @@
     <string name="miui_feedback_edit_submit_dialog_not_show_again">Больш не паказваць</string>
     <string name="miui_feedback_edit_submit_dialog_title">Адправіць справаздачу</string>
     <string name="miui_feedback_edit_submit_directly">Адправіць</string>
+    <string name="miui_feedback_edit_title_occurrence_time">Выберыце час</string>
     <string name="miui_feedback_edit_title_reproductivity">Выберыце рэпрадуктыўнасць</string>
     <string name="miui_feedback_edit_toast_description_required">Патрабуецца апісанне</string>
     <string name="miui_feedback_edit_toast_module_required">"Выберыце аб'ект"</string>

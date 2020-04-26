@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="choosed">
+        <item quantity="other">"Абрана %1$d аб'ектаў"</item>
+        <item quantity="one">"Абраны %1$d аб'ект"</item>
+        <item quantity="few">"Абрана %1$d аб'екта"</item>
+        <item quantity="many">"Абрана %1$d аб'ектаў"</item>
+    </plurals>
+</resources>

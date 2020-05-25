@@ -42,6 +42,12 @@
         <item quantity="few">%d хвіліны</item>
         <item quantity="many">%d хвілін</item>
     </plurals>
+    <plurals name="minute_text">
+        <item quantity="other">" хв."</item>
+        <item quantity="one">" хв."</item>
+        <item quantity="few">" хв."</item>
+        <item quantity="many">" хв."</item>
+    </plurals>
     <plurals name="second">
         <item quantity="other">%d секунд</item>
         <item quantity="one">%d секунда</item>
@@ -108,6 +114,18 @@
         <item quantity="few">Адкласці на %d хвіліны</item>
         <item quantity="many">Адкласці на %d хвілін</item>
     </plurals>
+    <plurals name="stopwatch_running_notification_day">
+        <item quantity="other">Секундамер запушчаны %s дзён. Націсніце для прагляду.</item>
+        <item quantity="one">Секундамер запушчаны %s дзень. Націсніце для прагляду.</item>
+        <item quantity="few">Секундамер запушчаны %s дні. Націсніце для прагляду.</item>
+        <item quantity="many">Секундамер запушчаны %s дзён. Націсніце для прагляду.</item>
+    </plurals>
+    <plurals name="stopwatch_running_notification_hour">
+        <item quantity="other">Секундамер запушчаны %s гадзін. Націсніце для прагляду.</item>
+        <item quantity="one">Секундамер запушчаны %s гадзіну. Націсніце для прагляду.</item>
+        <item quantity="few">Секундамер запушчаны %s гадзіны. Націсніце для прагляду.</item>
+        <item quantity="many">Секундамер запушчаны %s гадзін. Націсніце для прагляду.</item>
+    </plurals>
     <plurals name="timer_message_hour">
         <item quantity="other">"%1$d гадзіны "</item>
         <item quantity="one">"%1$d гадзіна "</item>
@@ -125,5 +143,17 @@
         <item quantity="one">%1$d секунда</item>
         <item quantity="few">%1$d секунды</item>
         <item quantity="many">%1$d секунд</item>
+    </plurals>
+    <plurals name="worldcolock_timezone_gap_fast">
+        <item quantity="other">%s гадзін раней</item>
+        <item quantity="one">%s гадзіну раней</item>
+        <item quantity="few">%s гадзіны раней</item>
+        <item quantity="many">%s гадзін раней</item>
+    </plurals>
+    <plurals name="worldcolock_timezone_gap_slow">
+        <item quantity="other">%s гадзін пазней</item>
+        <item quantity="one">%s гадзіну пазней</item>
+        <item quantity="few">%s гадзіны пазней</item>
+        <item quantity="many">%s гадзін пазней</item>
     </plurals>
 </resources>

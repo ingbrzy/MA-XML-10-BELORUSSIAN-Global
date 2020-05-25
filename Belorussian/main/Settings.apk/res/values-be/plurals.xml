@@ -132,6 +132,12 @@
         <item quantity="few">Засталося %d дні</item>
         <item quantity="many">Засталося %d дзён</item>
     </plurals>
+    <plurals name="bt_usable_device_title">
+        <item quantity="other">%d даступных прылад</item>
+        <item quantity="one">%d даступная прылада</item>
+        <item quantity="few">%d даступных прылады</item>
+        <item quantity="many">%d даступных прылад</item>
+    </plurals>
     <plurals name="connected_devices_number">
         <item quantity="other">%d прылады</item>
         <item quantity="one">%d прылада</item>
@@ -283,7 +289,7 @@
         <item quantity="many">Увядзіце не менш за %d сімвалаў</item>
     </plurals>
     <plurals name="lockpassword_pin_fixed_length">
-        <item quantity="other">PIN павінен складацца з %d лічбы</item>
+        <item quantity="other">PIN павінен складацца з %d лічбаў</item>
         <item quantity="one">PIN павінен складацца з %d лічбы</item>
         <item quantity="few">PIN павінен складацца з %d лічбаў</item>
         <item quantity="many">PIN павінен складацца з %d лічбаў</item>
@@ -455,6 +461,12 @@
         <item quantity="one">%1$d дазвол з %2$d атрыманы</item>
         <item quantity="few">%1$d дазволы з %2$d атрыманыя</item>
         <item quantity="many">%1$d дазволаў з %2$d атрымана</item>
+    </plurals>
+    <plurals name="saved_network_checked_num">
+        <item quantity="other">"Выбраны %d аб'ектаў"</item>
+        <item quantity="one">"Выбраны %d аб'ект"</item>
+        <item quantity="few">"Выбраны %d аб'екта"</item>
+        <item quantity="many">"Выбраны %d аб'ектаў"</item>
     </plurals>
     <plurals name="seconds">
         <item quantity="other">%s секунды</item>

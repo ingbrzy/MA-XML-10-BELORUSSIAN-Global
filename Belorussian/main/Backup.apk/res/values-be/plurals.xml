@@ -24,6 +24,30 @@
         <item quantity="few">%d элементы</item>
         <item quantity="many">%d элементаў</item>
     </plurals>
+    <plurals name="data_item_count_pair">
+        <item quantity="other">"%1$d/%2$d аб'ектаў"</item>
+        <item quantity="one">"%1$d/%2$d аб'ект"</item>
+        <item quantity="few">"%1$d/%2$d аб'екта"</item>
+        <item quantity="many">"%1$d/%2$d аб'ектаў"</item>
+    </plurals>
+    <plurals name="local_main_backup_manage_summary">
+        <item quantity="other">%1$s рэзервовых копій (%2$s)</item>
+        <item quantity="one">%1$s рэзервовая копія (%2$s)</item>
+        <item quantity="few">%1$s рэзервовых копіі (%2$s)</item>
+        <item quantity="many">%1$s рэзервовых копій (%2$s)</item>
+    </plurals>
+    <plurals name="new_task_backup_failed">
+        <item quantity="other">"Рэзервовая копія паспяхова створана. Не атрымалася стварыць рэзервовую копію %d аб'ектаў."</item>
+        <item quantity="one">"Рэзервовая копія паспяхова створана. Не атрымалася стварыць рэзервовую копію %d аб'екта."</item>
+        <item quantity="few">"Рэзервовая копія паспяхова створана. Не атрымалася стварыць рэзервовую копію %d аб'ектаў."</item>
+        <item quantity="many">"Рэзервовая копія паспяхова створана. Не атрымалася стварыць рэзервовую копію %d аб'ектаў."</item>
+    </plurals>
+    <plurals name="new_task_restore_failed">
+        <item quantity="other">"Паспяхова адноўлена. Не атрымалася аднавіць %d аб'ектаў."</item>
+        <item quantity="one">"Паспяхова адноўлена. Не атрымалася аднавіць %d аб'ект."</item>
+        <item quantity="few">"Паспяхова адноўлена. Не атрымалася аднавіць %d аб'екта."</item>
+        <item quantity="many">"Паспяхова адноўлена. Не атрымалася аднавіць %d аб'ектаў."</item>
+    </plurals>
     <plurals name="save_item_failed_summary_seg1">
         <item quantity="other">"Імпартаваны %d аб'ектаў. "</item>
         <item quantity="one">"Імпартаваны %d аб'ект. "</item>

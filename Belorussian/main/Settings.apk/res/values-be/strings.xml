@@ -239,6 +239,7 @@
     <string name="account_sync_summary_all_on">Сінхранізацыя ўключана для ўсіх элементаў</string>
     <string name="account_sync_summary_some_on">Сінхранізацыя ўключана для %1$d з %2$d элементаў</string>
     <string name="account_sync_title">Сінхранізацыя ўліковага запісу</string>
+    <string name="acount_data">Акаўнты</string>
     <string name="action_drag_label_move_bottom">Перамясціць уніз</string>
     <string name="action_drag_label_move_down">Перамясціць ніжэй</string>
     <string name="action_drag_label_move_top">Перамясціць уверх</string>
@@ -312,6 +313,7 @@
     <string name="advanced_security_title">Пашыраныя</string>
     <string name="advanced_settings">Дадатковыя налады</string>
     <string name="advanced_settings_summary">Уключыць дадатковыя параметры налад</string>
+    <string name="aggregate_title">Правілы групоўкі апавяшчэнняў</string>
     <string name="agps_roaming">Выкарыстоўваць A-GPS у роўмінгу</string>
     <string name="agps_roaming_dia">Выкарыстанне A-GPS у роўмінгу можа павялічваць выкарыстанне мабільнага інтэрнэта. Калі вы перавысіце ліміт трафіка, усталяваны вашым тарыфам, ваш аператар можа браць дадатковую плату.</string>
     <string name="agps_roaming_dia_title">Выкарыстоўваць A-GPS у роўмінгу</string>
@@ -350,7 +352,8 @@
     <string name="allow_lights_title">Дазволіць светлавую індыкацыю</string>
     <string name="allow_mock_location">Дазволіць ілжывыя месцазнаходжанні</string>
     <string name="allow_mock_location_summary">Дазволіць ілжывыя месцазнаходжанні</string>
-    <string name="allow_oaid_used">Дазволіць выкарыстанне ID прылады</string>
+    <string name="allow_oaid_used">禁止应用获取任何身份ID</string>
+    <string name="allow_oaid_used_desc">开启后，除您手动允许的情况外，系统将不再向应用提供任何身份ID，部分应用的推荐类功能可能受到影响</string>
     <string name="allow_overlay_description">Дазволіць гэтай праграме паказвацца паверх іншых праграм, якія вы выкарыстоўваеце. Гэта можа перашкодзіць выкарыстанню гэтых праграм або змяніць спосаб, якім яны могуць паказвацца або працаваць.</string>
     <string name="allow_sound_title">Дазволіць гук</string>
     <string name="allow_vibrate_title">Дазволіць вібрацыю</string>
@@ -503,6 +506,7 @@
     <string name="app_usage_preference">Перавагі выкарыстання дадатку</string>
     <string name="app_version">Версія</string>
     <string name="app_wifi">Wi-Fi</string>
+    <string name="application_data">Праграмы</string>
     <string name="application_forbid_auto_startup">Спыніць %s запуск у фоне</string>
     <string name="application_info_label">Звесткі пра праграмы</string>
     <string name="application_item_already_permission">Дазволена</string>
@@ -519,6 +523,7 @@
     <string name="applications_settings_summary">Кіраванне прыкладаннямі, налады шляхоў хуткага доступу</string>
     <string name="applications_settings_title">Праграмы</string>
     <string name="apply">Ужыць</string>
+    <string name="apply_fingerprint_to">Выкарыстоўваць адбіткі пальцаў для</string>
     <string name="apply_fingerprint_to_category_title">Прымяніць адбітак…</string>
     <string name="apply_now_button_text">Абнавіць</string>
     <string name="apply_password_to_category_title">Патрабаваць разблакаванне</string>
@@ -665,17 +670,30 @@
     <string name="background_restrict_app_dialog_message">Абмежаванне фонавага доступу да сеткі для гэтай праграмы можа прывесці да таго, што праграма не зможа звычайна працаваць, атрымліваць паведамленні, пампаваць кантэнт і т. д. Абмежаваць доступ?</string>
     <string name="background_traffic">Фонавы рэжым: %s</string>
     <string name="backtouch_enable_title">Рэгуляванне гучнасці на задняй панэлі</string>
+    <string name="backup_at_once">Стварыць рэзервовую копію</string>
     <string name="backup_configure_account_default_summary">Зараз ніякі ўліковы запіс не змяшчае дадзеных, якія былі рэзервова скапіяваны</string>
     <string name="backup_configure_account_title">Рэз. кап. уліковага запісу</string>
+    <string name="backup_data">Рэзервовыя копіі</string>
     <string name="backup_data_management_title">Кіраваць рэзервовым уліковым запісам</string>
     <string name="backup_data_summary">Ствараць рэзервовую копію дадзеных праграм, пароляў Wi-Fi і іншых налад на серверах Google</string>
     <string name="backup_data_title">Рэзервовае капіяванне дадзеных</string>
+    <string name="backup_difference_content">"Лакальныя рэзервовыя копіі.
+Лакальныя рэзервовыя копіі могуць уключаць у сябе дадзеныя праграм і, як правіла, утрымоўваюць больш аб'ектаў. Файлы рэзервовых копій захоўваюцца ў MIUI-backup-AllBackup, і іх трэба скапіяваць на кампутар пасля завяршэння працэсу рэзервовага капіявання.
+
+Воблачныя рэзервовыя копіі.
+Гэтыя рэзервовыя копіі захоўваюцца ў Xiaomi Cloud, і да іх можна атрымаць доступ па бесправадной сетцы. Гэты метад хутчэй і прасцей, чым лакальнае рэзервовае капіяванне, але ў Xiaomi Cloud нельга змясціць рэзервовыя копіі дадзеных праграм.
+"</string>
+    <string name="backup_difference_title">Чым лакальныя рэзервовыя копіі адрозніваюцца ад воблачных?</string>
     <string name="backup_disabled">Рэзервовае капіраванне адключана</string>
     <string name="backup_erase_dialog_message">Спыніць захаванне пароляў Wi-Fi, закладак, іншых налад і дадзеных праграм, а таксама выдаліць усе копіі з сервераў Google?</string>
     <string name="backup_erase_dialog_title" />
     <string name="backup_inactive_title">Служба рэзервовага капіравання неактыўная</string>
+    <string name="backup_more_settings">Налады</string>
     <string name="backup_pw_cancel_button_text">Скасаваць</string>
     <string name="backup_pw_set_button_text">Пазначце пароль рэзервовага капіравання</string>
+    <string name="backup_restore_data_content">"Вашы рэзервовыя копіі могуць утрымліваць кантакты, паведамленні (SMS і MMS), гісторыю вызаваў, падзеі календара, фота, аўдыёфайлы, відэа, дакументы, праграмы, дадзеныя праграм і знешні выгляд Галоўнага экрана.
+"</string>
+    <string name="backup_restore_data_title">"Рэзервовую копію якіх аб'ектаў я магу ствараць і якія аб'екты я магу аднаўляць?"</string>
     <string name="backup_section_title">Рэзервовае капіяванне і аднаўленне</string>
     <string name="backup_set_clear_success">Пароль рэзервовай копіі паспяхова адключаны</string>
     <string name="backup_set_clear_title">Выключыць пароль рэзервовай копіі</string>
@@ -957,6 +975,7 @@
     <string name="bluetooth_device_misc_title">Прылады, якія рэдка выкарыстоўваюцца</string>
     <string name="bluetooth_device_name">Імя:</string>
     <string name="bluetooth_device_name_summary">Бачная для іншых прылад як прылада \"^1\"</string>
+    <string name="bluetooth_device_nearby_title">Прылады паблізу</string>
     <string name="bluetooth_device_searchable">Бачнасць</string>
     <string name="bluetooth_devices">Прылады Bluetooth</string>
     <string name="bluetooth_disable_a2dp_hw_offload">Адключыць выгрузку Bluetooth A2DP</string>
@@ -1007,6 +1026,12 @@
     <string name="bluetooth_hid_profile_summary_connected">Падлучана да прылады ўводу</string>
     <string name="bluetooth_hid_profile_summary_use_for">Выкарыстоўваць для ўводу</string>
     <string name="bluetooth_incoming_pairing_msg">Ад: &lt;br>&lt;b>%1$sПадключыцца да гэтай прылады?</string>
+    <string name="bluetooth_inform_messgae">"Не атрымалася падлучыцца да %1$s.
+Спіс магчымых праблем:
+1. На прыладзе адключаны Bluetooth або янa знаходзіцца занадта далёка.
+2. На прыладзе не ўключаны рэжым выяўлення.
+3. Прылада падлучана да іншых прылад. Паспрабуйце адключыць яе і паспрабуйце зноў."</string>
+    <string name="bluetooth_inform_messgae_title">Не атрымалася падлучыцца</string>
     <string name="bluetooth_is_disconnect_question">Адлучыць %1$s?</string>
     <string name="bluetooth_is_discoverable">Зрабіць бачнай для ўсіх блізкіх прылад Bluetooth (%1$s)</string>
     <string name="bluetooth_is_discoverable_always">Зрабіць гэту прыладу бачнай для ўсіх Bluetooth прылад паблізу</string>
@@ -1055,9 +1080,9 @@
     <string name="bluetooth_pairing_request">Спалучыцца з %1$s?</string>
     <string name="bluetooth_pairing_shares_phonebook">Дазвольце доступ да сваіх кантактаў і гісторыі выклікаў</string>
     <string name="bluetooth_pairing_will_share_phonebook">Спалучэнне забяспечвае доступ да вашых кантактаў і гісторыі выклікаў.</string>
-    <string name="bluetooth_pan_nap_profile_summary_connected">Выкарыстоўваць прыладу для раздачы інтэрнэту</string>
+    <string name="bluetooth_pan_nap_profile_summary_connected">Абагульванне лакальнага падключэння да інтэрнэту з прыладай</string>
     <string name="bluetooth_pan_profile_summary_use_for">Выкарыстоўваць для доступу ў інтэрнэт</string>
-    <string name="bluetooth_pan_user_profile_summary_connected">Падлучана да іншай прылады для доступу ў інтэрнэт</string>
+    <string name="bluetooth_pan_user_profile_summary_connected">Падключэнне да прылады для доступу ў інтэрнэт</string>
     <string name="bluetooth_pb_acceptance_dialog_text">%1$s спрабуе атрымаць доступ да вашых кантактаў і гісторыі выклікаў. Даць доступ да %2$s?</string>
     <string name="bluetooth_pb_remember_choice">Больш не пытацца</string>
     <string name="bluetooth_phonebook_request">Запыт доступу да тэлефоннай кнігі</string>
@@ -1235,6 +1260,8 @@
 Калі вы ўжо рабілі што-небудзь з вышэйпералічанага, зноў дадайце свой Mi акаўнт; у адваротным выпадку вы не зможаце разблакаваць сваю прыладу."</string>
     <string name="bootloader_tips_ok">Зразумела</string>
     <string name="bootloader_tips_warning">Ня адключайцеся ад сеткі, не выходзьце з Mi акаўнта, не выконвайце скід налад або выдаленне сістэмных дадзеных.</string>
+    <string name="bootloader_unlock_webhome">https://unlock.update.miui.com</string>
+    <string name="bottom_function_settings">Функцыі дадатковых кнопак</string>
     <string name="breathing_light_color_menu_title">Колер індыкатара</string>
     <string name="breathing_light_color_summary">Колер індыкатара пры атрыманні новага паведамлення</string>
     <string name="breathing_light_freq_summary">Міргаць пры новых апавяшчэннях</string>
@@ -1256,8 +1283,7 @@
     <string name="bt_hci_snoop_log">Журнал Bluetooth HCI</string>
     <string name="bt_hci_snoop_log_summary">Захоўваць усе пакеты Bluetooth HCI ў файле</string>
     <string name="bt_ldac_declaration">Калі прылада Bluetooth падтрымлівае LDAC, ён будзе ўключаны па змаўчанні. LDAC забяспечвае высокую якасць гуку, але таксама прыводзіць да больш высокага энергаспажывання. Падчас прайгравання могуць узнікаць праблемы з-за апаратных абмежаванняў Bluetooth.</string>
-    <string name="bt_ldac_dialog_summary">"LDAC забяспечвае высокую якасць гуку, але таксама прыводзіць до больш высокага энергаспажывання
-Гэту функцыю можна выключыць у [Settings]"</string>
+    <string name="bt_ldac_dialog_summary">LDAC забяспечвае высокую якасць гуку, але таксама павялічвае спажыванне энергіі. Гэту функцыю можна адключыць у Наладах.</string>
     <string name="bt_ldac_dialog_title">Гэта прылада падтрылімвае LDAC, які ўключаны па змаўчанні:</string>
     <string name="bt_ldac_open_dialog_summary">LDAC забяспечвае высокую якасць гуку, але таксама прыводзіць да больш высокага энергаспажывання. Падчас прайгравання могуць узнікаць праблемы з-за апаратных абмежаванняў Bluetooth.</string>
     <string name="bt_ldac_open_dialog_title">Уключыць LDAC?</string>
@@ -1310,6 +1336,7 @@
     <string name="calendar_sound_dialog_title">Выберыце гук календара</string>
     <string name="calendar_sound_title">Гук календара</string>
     <string name="call_category">Выклік</string>
+    <string name="call_example_name">Імя</string>
     <string name="call_manager_enable_summary">Дазволіць гэтай службе кіраваць тым, як робяцца выклікі.</string>
     <string name="call_manager_enable_title">Уключыць Call Manager (Менеджар выклікаў)</string>
     <string name="call_manager_title">Call Manager (Менеджар выклікаў)</string>
@@ -1405,6 +1432,7 @@
     <string name="cellular_data_title">Мабільная перадача даных</string>
     <string name="cellular_data_usage">Выкарыстанне мабільнага трафіку</string>
     <string name="change">Змяніць</string>
+    <string name="change_lock_screen_password_title">Змяніць спосаб блакавання экрана</string>
     <string name="change_password">Змяніць блакаванне экрана</string>
     <string name="change_security_lock">Іншыя спосабы разблакавання</string>
     <string name="change_storage">Змяніць сховішча</string>
@@ -1437,12 +1465,15 @@
     <string name="clear_activities">Скінуць налады па змаўчанні</string>
     <string name="clear_activities_summary">Дазволіць гэтай праграме некаторыя дзеянні па змаўчанні</string>
     <string name="clear_adb_keys">Забараніць доступ для адладкі па USB</string>
+    <string name="clear_all_data">Выдаліць усе дадзеныя</string>
     <string name="clear_cache_btn_text">Ачысціць кэш</string>
+    <string name="clear_data_alert_info">"Усе рэзервовыя копіі, якія захоўваюцца на дадзенай прыладзе, будуць выдалены назаўсёды. Стварыце рэзервовую копію ўсіх важных аб'ектаў на сваім кампутары або ў Xiaomi Cloud перад тым, як працягнуць."</string>
     <string name="clear_data_dlg_text">Усе даныя гэтай праграмы будуць назаўсёды выдаленыя. Гэта датычыцца ўсiх файлаў, налад, уліковых запісаў, баз даных і г. д.</string>
     <string name="clear_data_dlg_title">Выдаліць даныя праграмы?</string>
     <string name="clear_failed_dlg_text">Немагчыма ачысціць сховішча для праграмы.</string>
     <string name="clear_instant_app_confirmation">Хочаце выдаліць гэту імгненную праграму?</string>
     <string name="clear_instant_app_data">Ачысціць даныя праграмы</string>
+    <string name="clear_phone_data_category">"Выдаліць наступныя аб'екты"</string>
     <string name="clear_uri_btn_text">Выдалiць даныя доступу</string>
     <string name="clear_user_data_text">Ачысціць сховішча</string>
     <string name="close_aod">Гэта функцыя не працуе, калі рэжым \"Экран заўжды актыўны\" уключаны. Спачатку адключыце рэжым \"Экран заўжды актыўны\".</string>
@@ -1458,8 +1489,11 @@
     <string name="close_slave_wifi_hint">Адключыць ад дапаможных сетак Wi-Fi перад трансляцыяй</string>
     <string name="cloud_backup_section_title">Рэзервовая копія ў Xiaomi Cloud</string>
     <string name="cloud_backup_settings_section_title">Налады стварэння рэзервовых копій</string>
+    <string name="cloud_category_text">Воблака</string>
     <string name="cloud_restore_section_summary">Аднаўленне сістэмных налад, знешняга выгляду галоўнага экрана і праграм</string>
+    <string name="cloud_restore_section_summary_new">Стварайце рэзервовыя копіі знешняга выгляду Галоўнага экрана, праграм, сістэмных налад і шмат чаго іншага</string>
     <string name="cloud_restore_section_title">Аднавіць з Xiaomi Cloud</string>
+    <string name="cloud_restore_section_title_new">У Xiaomi Cloud</string>
     <string name="cmcc_hardware_version">Версія апаратных сродкаў</string>
     <string name="codec_low_latency_summary">Мінімізаваць затрымку пры прайграванні аўдыё ў гульнях і сінхранізацыі відэа</string>
     <string name="codec_low_latency_title">Малая затрымка</string>
@@ -1517,9 +1551,12 @@
     <string name="color_unspecified">Па змаўчанні</string>
     <string name="color_white">Белы</string>
     <string name="color_yellow">Жоўты</string>
+    <string name="common_issue">Пытанні і адказы</string>
     <string name="common_settings">Хуткія налады</string>
     <string name="complete_parameters">Усе параметры</string>
     <string name="complete_settings">Агульныя налады</string>
+    <string name="computer_backup_summary">"Рэзервовае капіяванне і аднаўленне аб'ектаў з дапамогай кампутара"</string>
+    <string name="computer_backup_title">Кампутар</string>
     <string name="computing_size">Вылічэнне...</string>
     <string name="condition_airplane_summary">Сеткі недаступныя</string>
     <string name="condition_airplane_title">Рэжым палёту ўключаны</string>
@@ -1602,6 +1639,7 @@
     <string name="connected_wifi">Падлучана</string>
     <string name="connecting_to_vpn">Злучэнне з VPN</string>
     <string name="connection_and_sharing">Падключэнне і агульны доступ</string>
+    <string name="contact_data">Кантакты</string>
     <string name="content_capture">Змесціва праграмы</string>
     <string name="content_capture_summary">Дазваляе праграмам адпраўляць змесціва ў сістэму Android</string>
     <string name="content_description_menu_button">Меню</string>
@@ -1612,6 +1650,7 @@
     <string name="contextual_card_feedback_send">Адправіць водгук</string>
     <string name="contextual_card_removed_message">Прапанова выдалена</string>
     <string name="contextual_card_undo_dismissal_text">Адрабіць</string>
+    <string name="continue_reset_factory">Скід да завадскіх налад</string>
     <string name="contributors_title">Удзельнікі</string>
     <string name="controls_label">Сродкі кіравання</string>
     <string name="controls_subtitle">Адрэгуляваць спажыванне энергіі</string>
@@ -1635,7 +1674,7 @@
     <string name="credential_storage_type">Тып сховішча</string>
     <string name="credential_storage_type_hardware">Апаратнае</string>
     <string name="credential_storage_type_software">Толькі праграмнае забеспячэнне</string>
-    <string name="credentials_configure_lock_screen_hint">Вам неабходна ўсталяваць PIN-код блакавання экрана або пароль, перш чым вы зможаце выкарыстоўваць сховішча ўліковых дадзеных.</string>
+    <string name="credentials_configure_lock_screen_hint">Перад выкарыстаннем сховішча ўліковых дадзеных неабходна наладзіць блакаванне экрана.</string>
     <string name="credentials_erased">Захаваныя ўліковыя дадзеныя сціраюцца.</string>
     <string name="credentials_install">Усталяваць са сховішча</string>
     <string name="credentials_install_summary">Усталяваць сертыфікаты са сховішча</string>
@@ -1694,6 +1733,7 @@
     <string name="cryptkeeper_wrong_pin">Няправільны PIN-код</string>
     <string name="current_backup_pw_prompt">Увядзіце тут свой бягучы пароль поўнага рэзервовага капіявання</string>
     <string name="current_input_method">Бягучая раскладка клавіятуры</string>
+    <string name="current_password">Бягучае блакаванне экрана</string>
     <string name="current_screen_lock">Бягучы спосаб блакіроўкі</string>
     <string name="current_use_ese">Выкарыстоўваць убудаваны элемент бяспекі</string>
     <string name="current_use_ese_wallet">Вы выкарыстоўваеце Mi Wallet. Гэта дазваляе вам выкарыстоўваць Mi Pay ды картку грамадскага транспарту NFC.</string>
@@ -1702,6 +1742,7 @@
     <string name="current_use_uicc_wallet">Вы выкарыстоўваеце SIM%1$s Капшук</string>
     <string name="current_zone">(бягучы)</string>
     <string name="custom_carrier_title">Рэдагаваць імя аператара</string>
+    <string name="custom_color">Карыстальніцкі</string>
     <string name="custom_wifi_name_title">Змяніць імя Wi-Fi</string>
     <string name="cutout_mode_always">Заўсёды паказваць выраз</string>
     <string name="cutout_mode_default">Аўта</string>
@@ -1723,6 +1764,8 @@
     <string name="dark_color_mode">Цёмны рэжым</string>
     <string name="dark_color_summary_lcd">Выкарыстоўваць больш цёмную каляровую палітру для шпалер і сумяшчальных праграм. Цёмны рэжым дапамагае зняць нагрузку на вочы пры выкарыстанні прылады ў цемры.</string>
     <string name="dark_color_summary_oled">Выкарыстоўваць больш цёмную каляровую палітру для шпалер і сумяшчальных праграм. Цёмны рэжым зніжае спажыванне энергіі і дапамагае зняць нагрузку на вочы.</string>
+    <string name="dark_mode_contrast">Аўтаматычна рэгуляваць кантраст</string>
+    <string name="dark_mode_contrast_hint">Аўтаматычна рэгуляваць колеры і паніжаць кантраст пры памяншэнні яркасці</string>
     <string name="dark_ui_mode">Цёмная тэма</string>
     <string name="dark_ui_mode_disabled_summary_dark_theme_off">Часова ўключана ў рэжыме эканоміі зараду</string>
     <string name="dark_ui_mode_disabled_summary_dark_theme_on">Укл. / Часова адключана ў рэжыме эканоміі зараду</string>
@@ -1730,6 +1773,7 @@
     <string name="dark_ui_settings_dark_summary">Праграмы, якія падтрымліваюцца, таксама пераключацца на цёмную тэму</string>
     <string name="dark_ui_settings_dialog_acknowledge">Зразумела</string>
     <string name="dark_ui_settings_light_summary">Гэтыя параметры таксама прымяняюцца да праграм</string>
+    <string name="dark_wallpaper_mode">Адаптаваць шпалеры да Цёмнага рэжыму</string>
     <string name="dashboard_title">Налады</string>
     <string name="data_during_calls_summary">Дазволіць выкарыстанне гэтай SIM-карты для мабільнай перадачы даных толькі падчас выклікаў</string>
     <string name="data_during_calls_title">Перадача даных падчас выклікаў</string>
@@ -1835,8 +1879,8 @@
     <string name="data_usage_title">Асноўныя даныя</string>
     <string name="data_usage_total_during_range">%2$s: выкарыстоўваецца прыкладна %1$s.</string>
     <string name="data_usage_total_during_range_mobile">%2$s: паводле даных тэл., выкар. прыкл. %1$s. Ваш аператар можа ўлічваць выкар. даных па-іншаму.</string>
-    <string name="data_usage_uninstalled_apps">Выдаленыя праграмы</string>
-    <string name="data_usage_uninstalled_apps_users">Выдаленыя праграмы і карыстальнікі</string>
+    <string name="data_usage_uninstalled_apps">Выдаленыя прыкладанні</string>
+    <string name="data_usage_uninstalled_apps_users">Выдаленыя прыкладанні і карыстальнiкi</string>
     <string name="data_usage_warning_editor_title">Задаць папярэджанне аб выкарыстанні даных</string>
     <string name="data_usage_wifi_format">Wi-Fi выкарыстоўвае ^1</string>
     <string name="data_usage_wifi_title">Трафік Wi‑Fi</string>
@@ -1845,6 +1889,9 @@
     <string name="data_used_template">%1$s выкарыстана</string>
     <string name="data_warning">Папярэджанне пра трафік</string>
     <string name="data_warning_footnote">Папярэджанне перадачы даных і абмежаванне трафіка вызначаюцца вашай прыладай. Гэтыя даныя могуць адрознівацца ад даных аператара.</string>
+    <string name="datasize_decrease_content">"Кантакты, паведамленні і сістэмныя дадзеныя сціскаюцца ў працэсе рэзервовага капіявання, што прыводзіць да памяншэння памеру файла.
+"</string>
+    <string name="datasize_decrease_title">"Чаму некаторыя файлы рэзервовых копій менш, чым аб'екты, якія ў іх утрымліваюцца?"</string>
     <string name="date_and_time">Дата і час</string>
     <string name="date_and_time_settings_summary">Задаць дату, час, гадзiнны пояс і фарматы</string>
     <string name="date_and_time_settings_title">Дата і час</string>
@@ -1900,6 +1947,7 @@
     <string name="default_for_sms">Стандартна для SMS</string>
     <string name="default_for_work">Стандартныя для працы</string>
     <string name="default_input_method">Выбраць клавіятуру па змаўчанні</string>
+    <string name="default_keyboard">Па змаўчанні</string>
     <string name="default_keyboard_layout">Стандартная</string>
     <string name="default_launcher_set_jeejen_message">Націсніце кнопку \"Дадому\" для налады Jeejen</string>
     <string name="default_launcher_set_system_message">Націсніце кнопку \"Дадому\" для аднаўлення працоўнага стала па змаўчанні</string>
@@ -1915,6 +1963,7 @@
     <string name="default_usb_mode">Падключэнне па USB</string>
     <string name="delete">Выдаліць</string>
     <string name="delete_fingerprint_confirm_msg">Выдаліць адбітак пальца?</string>
+    <string name="delete_fingerprint_confirm_title">Увага</string>
     <string name="delete_fingerprint_text">Выдаліць адбітак пальца</string>
     <string name="delete_legacy_fingerprint">Выдаліць</string>
     <string name="delete_or_keep_legacy_passwords_confirm_msg">Выдаліць адбітак пальца?</string>
@@ -1929,6 +1978,7 @@
     <string name="demo_mode_summary">Паказваць значок дэманстрацыйнага рэжыму ў панэлі стану</string>
     <string name="deny">Адмовіць</string>
     <string name="detail_app_button">Звесткі пра праграму</string>
+    <string name="detail_question">Падрабязнасці</string>
     <string name="details_subtitle">Падрабязнасці выкарыстання</string>
     <string name="dev_logpersist_clear_warning_message">Не выкарыстоўваючы больш маніторынг пастаяннага журнала, мы павінны сцерці рэзідэнтныя дадзеныя журнала на прыладзе.</string>
     <string name="dev_logpersist_clear_warning_title">Ачысціць пастаянны дыск журналу?</string>
@@ -1973,13 +2023,16 @@
     <string name="device_miui_version">Версія MIUI</string>
     <string name="device_miui_version_for_POCO">Версія MIUI (для POCO)</string>
     <string name="device_miui_version_parameters">Версія MIUI</string>
-    <string name="device_miui_version_update">Даступная новая версія MIUI</string>
+    <string name="device_miui_version_update">Абнавіць</string>
     <string name="device_name">Імя прылады</string>
     <string name="device_name_input_error">Не атрымалася захаваць імя прылады</string>
     <string name="device_name_input_hint">Увядзіце імя</string>
     <string name="device_name_input_overlength">Задоўгае імя прылады</string>
     <string name="device_name_usage_point">Іншыя прылады паблізу бачаць гэта імя.</string>
-    <string name="device_oaid">ID прылады</string>
+    <string name="device_oaid">撤回个人信息</string>
+    <string name="device_oaid_desc">MIUI将向三方应用提供虚拟的身份ID(OAID)代替您的真实身份识别，防止应用对您的行为及喜好记录进行追踪，保护您的个人隐私信息</string>
+    <string name="device_oaid_title">虚拟身份ID</string>
+    <string name="device_of_someone">Прылада: %2$s (%1$s)</string>
     <string name="device_picker">Выберыце прыладу Bluetooth</string>
     <string name="device_rear_camera">Асноўная камера</string>
     <string name="device_screen_resolution">Разрознасць экрана</string>
@@ -2001,6 +2054,7 @@
 Каб вырашыць гэту праблему, вы можаце паспрабаваць адключыць праграму %1$s, каб яна не працавала ў фонавым рэжыме."</string>
     <string name="dialog_background_check_ok">Адключыць</string>
     <string name="dialog_background_check_title">Спыніць працу ў фонавым рэжыме і адключыць праграму?</string>
+    <string name="dialog_backup_title">Абнавіць рэзервовыя копіі перад скідам да завадскіх налад?</string>
     <string name="dialog_chose_item">"Абярыце аб'ект для паказу"</string>
     <string name="dialog_content_login">Увайсці ў Mi Акаўнт для абнаўлення?</string>
     <string name="dialog_location_message">"Ваш тэлефон не можа нармальна кіраваць зарадам акумулятара, бо %1$s пастаянна запытвае звесткі пра ваша месцазнаходжанне, калі вы не карыстаецеся праграмай.
@@ -2034,6 +2088,7 @@
     <string name="dialog_title_hdmi_color_calibration">Перадусталёўкі карэкцыі колеру</string>
     <string name="dialog_title_login">Увайдзіце ў Mi Акаўнт</string>
     <string name="dialog_yes">Так</string>
+    <string name="digital_clock_dot">:</string>
     <string name="direct_boot_unaware_dialog_message">Заўвага. Каб запусціць гэту праграму пасля перазапуску, разблакуйце тэлефон</string>
     <string name="disable_overlays">Адключыць накладанне апаратнымі сродкамі</string>
     <string name="disable_overlays_summary">Заўсёды выкарыстоўваць GPU для адмалёўкі экрана</string>
@@ -2107,6 +2162,7 @@
     <string name="dndm_auto_button_title">Паўтараць рэжым \"Не турбаваць\"</string>
     <string name="dndm_auto_setting_group">Расклад</string>
     <string name="dndm_auto_time_setting">Усталяваць час</string>
+    <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
     <string name="dndm_auto_time_turn_off">Да</string>
     <string name="dndm_auto_time_turn_off_title">Аўтаматычнае адключэнне рэжыму \"Не турбаваць\"</string>
     <string name="dndm_auto_time_turn_on">З</string>
@@ -2326,6 +2382,7 @@
     <string name="enhanced_4g_lte_mode_title">VoLTE</string>
     <string name="enhanced_4g_lte_mode_title_4g_calling">Выклік у 4G</string>
     <string name="enhanced_4g_lte_mode_title_advanced_calling">Пашыраныя магчымасці выкліку</string>
+    <string name="enrol_fingerprint_data">Дадаць адбітак пальца</string>
     <string name="enter_password">Каб запусціць Android, увядзіце пароль</string>
     <string name="enter_pattern">Каб запусціць Android, увядзіце графічны ключ</string>
     <string name="enter_pin">Каб запусціць Android, увядзіце PIN-код</string>
@@ -2365,29 +2422,6 @@
     <string name="enterprise_privacy_settings_summary_with_name">Змяненні і налады знаходзяцца пад кіраваннем %s</string>
     <string name="enterprise_privacy_usage_stats">Час і трафік, патрачаныя ў кожнай праграме</string>
     <string name="enterprise_privacy_wipe_device">Адміністратар можа выдаляць усе даныя прылады</string>
-    <string name="eq_auto">Карыстальніцкі</string>
-    <string name="eq_blues">Блюз</string>
-    <string name="eq_cancel">Скасаваць</string>
-    <string name="eq_classical">Класіка</string>
-    <string name="eq_country">Кантры</string>
-    <string name="eq_dance">Танцавальная</string>
-    <string name="eq_delete">Выдаліць</string>
-    <string name="eq_delete_success">Зроблена</string>
-    <string name="eq_electronic">Электра</string>
-    <string name="eq_flat">Па змаўчанні</string>
-    <string name="eq_hiphop">Хіп-хоп</string>
-    <string name="eq_jazz">Джаз</string>
-    <string name="eq_metal">Метал</string>
-    <string name="eq_ok">OK</string>
-    <string name="eq_pop">Поп</string>
-    <string name="eq_preset_create">Стварыць</string>
-    <string name="eq_preset_format">Перадусталёўка карыстальніка %d</string>
-    <string name="eq_preset_hint">Назва эфекту</string>
-    <string name="eq_preset_rename">Змяніць імя</string>
-    <string name="eq_preset_select">Выбар усталёўкі</string>
-    <string name="eq_return">Вяртанне</string>
-    <string name="eq_rock">Рок</string>
-    <string name="equalizer">Эквалайзер</string>
     <string name="erase_application">Выдаліць праграмы</string>
     <string name="erase_application_description">Выдаліць спампаваныя праграмы</string>
     <string name="erase_data">Выдаліць</string>
@@ -2427,15 +2461,69 @@
     <string name="extreme_threats_summary">Атрымліваць абвесткі аб надзвыч. пагрозах для жыцця і маёмасці</string>
     <string name="extreme_threats_title">Надзвычайныя пагрозы</string>
     <string name="face_add_max">Можна дадаць да %d твараў</string>
+    <string name="face_data_apply_for_category_title">Разблакаваць прыладу з дапамогай твару</string>
+    <string name="face_data_apply_for_keyguard_title">Экран блакавання</string>
+    <string name="face_data_input_camera_fail">Не атрымалася запусціць камеру</string>
+    <string name="face_data_input_camera_ok">Запуск камеры…</string>
+    <string name="face_data_input_cancel_msg">Немагчыма дадаць дадзеныя аб твары</string>
+    <string name="face_data_input_ok">Гатова</string>
+    <string name="face_data_input_ok_title">Паспяхова дададзена</string>
+    <string name="face_data_input_structure_title">3D-дадзеныя твару</string>
+    <string name="face_data_input_title">Дадаванне дадзеных аб твары</string>
+    <string name="face_data_introduction_msg">Распазнанне твару можа выкарыстоўвацца для разблакавання прылады або праверкі вашай асобы. Перш чым дадаваць твар, дадайце пароль для экрана блакавання.</string>
+    <string name="face_data_introduction_next">Наступны</string>
+    <string name="face_data_introduction_title">Распазнаванне твару</string>
+    <string name="face_data_manage_delete">Выдаліць дадзеныя аб твары?</string>
+    <string name="face_data_manage_delete_msg">Выдаленне дадзеных аб твары</string>
+    <string name="face_data_manage_delete_sure">Пасля выдалення дадзеных пра твар, вы не зможаце разблакаць прыладу з яго дапамогай.</string>
+    <string name="face_data_manage_unlock_liftcamera_msg">Пасля ўключэння экрана правядзіце ўверх для разблакоўкі прылады з дапамогай дадзеных твару.</string>
+    <string name="face_data_manage_unlock_msg">Разблакаваць прыладу з дапамогай твару</string>
+    <string name="face_data_manage_unlock_slide_msg">Выкарыстоўваць разблакаванне тварам замест іншых функцый слайдэра</string>
+    <string name="face_data_manage_unlock_title">Разблакаваць прыладу з дапамогай твару</string>
+    <string name="face_data_siggesstion_next">Наступны</string>
+    <string name="face_data_siggesstion_next_time">Далей (%d сек.)</string>
+    <string name="face_data_suggesstion_first">"Увага: разблакаванне з дапамогай распазнання асобы менш бяспечнае, чым выкарыстанне PIN-кода, пароля або графічнага ключа. Прылада можа быць разблакавана фатаграфіяй, а таксама людзьмі ці аб'ектамі з падобнай знешнасцю."</string>
+    <string name="face_data_suggesstion_second">Упэўніцеся, што твар бачна добра і ніякая з яго частак не прыкрытая прадметамі. Ваш твар павінен быць добра асветлены.</string>
     <string name="face_intro_error_max">Вы дадалі максімальную колькасць твараў</string>
     <string name="face_intro_error_unknown">Не ўдалося дадаць больш твараў</string>
     <string name="face_lock_screen_setup_skip_dialog_text">Абараніце тэлефон з дапамогай опцыі блакіроўкі экрана, каб ніхто не змог ім карыстацца ў выпадку прапажы ці крадзяжу. Опцыя блакіроўкі экрана таксама спатрэбіцца вам, каб наладзіць распазнаванне твару. Націсніце \"Скасаваць\", а потым задайце PIN-код, узор разблакіроўкі ці пароль.</string>
+    <string name="face_unlock">Распазнаванне твару</string>
+    <string name="face_unlock_be_on_the_screen">Трымайце прыладу насупраць твару</string>
+    <string name="face_unlock_by_notification_screen_on_msg">Вы можаце разблакаваць прыладу тварам пры ўключэнні экрана, калі прыходзяць апавяшчэнні. Гэта можа хутчэй разраджаць батарэю.</string>
+    <string name="face_unlock_by_notification_screen_on_title">Распазнаваць твары пры ўключэнні экрана</string>
+    <string name="face_unlock_category_title">Опцыі экрана блакавання</string>
+    <string name="face_unlock_check_failed">Немагчыма пазнаць вас</string>
+    <string name="face_unlock_close_screen">Трымайце прыладу бліжэй да твару</string>
     <string name="face_unlock_disable">Распазнаванне твару адключана</string>
+    <string name="face_unlock_down">Падніміце галаву</string>
     <string name="face_unlock_enable">Распазнаванне твару ўключана</string>
+    <string name="face_unlock_not_found">Не атрымалася пазнаць вас</string>
+    <string name="face_unlock_offset_bottom">Крыху апусціце тэлефон</string>
+    <string name="face_unlock_offset_left">Рухайцеся ў правы бок</string>
+    <string name="face_unlock_offset_right">Рухайцеся ў левы бок</string>
+    <string name="face_unlock_offset_top">Крыху падніміце тэлефон</string>
+    <string name="face_unlock_open_eye">Адкрыйце вашы вочы шырэй</string>
+    <string name="face_unlock_quality">Немагчыма выразна распазнаць ваш твар</string>
+    <string name="face_unlock_reveal_eye">Вашы вочы павінны быць бачнымі</string>
+    <string name="face_unlock_reveal_mouth">Вашы вусны мусяць быць бачнымі</string>
+    <string name="face_unlock_rise">Апусціце галаву</string>
+    <string name="face_unlock_rotated_left">Павярніце галаву ў правы бок</string>
+    <string name="face_unlock_rotated_right">Павярніце галаву ў левы бок</string>
+    <string name="face_unlock_sc_status">Націсніце на экран, каб адкрыць камеру</string>
     <string name="face_unlock_set_unlock_password">Распазнаванне твару + пароль</string>
     <string name="face_unlock_set_unlock_pattern">Распазнаванне твару + узор разблакіроўкі</string>
     <string name="face_unlock_set_unlock_pin">Распазнаванне твару + PIN-код</string>
     <string name="face_unlock_skip_face">Працягнуць без распазнавання твару</string>
+    <string name="face_unlock_stay_away_screen">Трымайце прыладу на адлегласці ад 25 да 40 см</string>
+    <string name="face_unlock_success_show_message_dialog_msg">Для паказу апавяшчэнняў на экране блакавання дазвольце іх адлюстраванне.</string>
+    <string name="face_unlock_success_show_message_dialog_negative_btn">Не, дзякуй</string>
+    <string name="face_unlock_success_show_message_dialog_positive_btn">Дазволіць</string>
+    <string name="face_unlock_success_show_message_dialog_title">Апавяшчэнні на экране блакавання</string>
+    <string name="face_unlock_success_show_message_msg">Паказваць толькі крыніцу апавяшчэнняў, калі прылада заблакавана, і дадаваць падрабязнасці апавяшчэнняў пасля праверкі дадзеных аб твары</string>
+    <string name="face_unlock_success_show_message_title">Падрабязныя апавяшчэння пасля праверкі дадзеных аб твары</string>
+    <string name="face_unlock_success_show_message_toast">Апавяшчэнні будуць адлюстроўвацца на Экране блакавання</string>
+    <string name="face_unlock_success_stay_screen_msg">Заставайцеся на экране блакавання пасля праверкі вашага твару. Правядзіце уверх, каб адкрыць Галоўны экран.</string>
+    <string name="face_unlock_success_stay_screen_title">Заставайцеся на Экране блакавання пасля разблакоўкі</string>
     <string name="face_unlock_title">Вы можаце выконваць разблакіроўку тэлефона з дапамогай функцыі распазнавання твару. У мэтах бяспекі для гэтага варыянта патрабуецца дадатковы спосаб блакіроўкі экрана.</string>
     <string name="factory_reset_summary">Ачысціць усе дадзеныя з унутранага сховішча тэлефона</string>
     <string name="failed_to_check_find_device_status_content">Не атрымалася праверыць статус пошуку прылады. Пачакайце хвіліну ці дзве і паспрабуйце ізноў.</string>
@@ -2449,6 +2537,7 @@
     <string name="fcc_equipment_id">Iдэнтыфiкатар абсталявання</string>
     <string name="feature_flags_dashboard_title">Эксперыментальныя функцыі</string>
     <string name="feedback">Зваротная сувязь</string>
+    <string name="feedback_btn_text">Адправіць водгук</string>
     <string name="feedback_settings">Сэрвісы і водгук</string>
     <string name="file_privacy_password_role_instruction">Вашы асабістыя файлы будуць захоўвацца тут.</string>
     <string name="filter">Фільтр</string>
@@ -2548,7 +2637,9 @@
     <string name="firewall_wifi">Wi-Fi</string>
     <string name="firewall_wifi_dialog_message">Усталяваная праграма не зможа падключыцца да інтэрнэту з дапамогай Wi-Fi, калі гэты перамыкач выключаны.</string>
     <string name="firmware_version">Версія Android</string>
-    <string name="flash_drive_backup_restore">Рэзерваваць ці аднавіць праз USB</string>
+    <string name="flash_drive_backup_disable">Спачатку падключыце USB-сховішча</string>
+    <string name="flash_drive_backup_enable">"Выкарыстоўваць USB-сховішча для захоўвання рэзервовых копій або аднаўлення аб'ектаў"</string>
+    <string name="flash_drive_backup_restore">USB-сховішча</string>
     <string name="flash_drive_backup_restore_summary">Падлучыць USB-сховішча</string>
     <string name="floating_window_switch_label">Уключыць плаваючыя вокны</string>
     <string name="floating_window_switch_label_disable">Адключыць плаваючыя вокны</string>
@@ -2618,7 +2709,7 @@
     <string name="free_wifi_agreement_remind_never">Не паказваць ізноў</string>
     <string name="free_wifi_confirm">OK</string>
     <string name="free_wifi_connect">Падлучыцца</string>
-    <string name="free_wifi_connect_dialog_summary">Сетка Wi-Fi \"%1$s прадастаўлена %2$s.</string>
+    <string name="free_wifi_connect_dialog_summary">Сетка Wi-Fi \"%1$s\" прадастаўлена %2$s.</string>
     <string name="free_wifi_connect_dialog_title">Даступная сетка Wi-Fi</string>
     <string name="free_wifi_connect_fail">Не ўдаецца злучыцца з інтэрнэтам. Праверце злучэнне і паспрабуйце ізноў.</string>
     <string name="free_wifi_connect_fail2">Не атрымалася аўтарызавацца. Пачакайце крыху і паспрабуйце ізноў.</string>
@@ -2636,6 +2727,19 @@
     <string name="free_wifi_user_agreement_title">Канфідэнцыйнае папярэджанне</string>
     <string name="free_wifi_wiwide_provider">WiWide</string>
     <string name="free_xiaomi_wifi_connect_summary">Даткніцеся, каб падлучыцца да %1$s.</string>
+    <string name="freeform_guide_drop_down_to_fullscreen_summary">Націсніце і ўтрымлівайце, а затым пацягніце ўніз панэль дзеянняў акна, якое плавае</string>
+    <string name="freeform_guide_drop_down_to_fullscreen_title">Прагляд вокнаў, якія плаваюць, у поўнаэкранным рэжыме</string>
+    <string name="freeform_guide_move_summary">Націсніце і ўтрымлівайце панэль дзеянняў акна, якое плавае, каб перамясціць яго</string>
+    <string name="freeform_guide_move_title">Перамяшчэньне вокнаў, якія плаваюць</string>
+    <string name="freeform_guide_move_to_small_freeform_window_summary">Перацягніце акно, якое плавае, у кут экрана</string>
+    <string name="freeform_guide_move_to_small_freeform_window_title">Згортванне вокнаў, якія плаваюць</string>
+    <string name="freeform_guide_notification_drop_down_summary">Націсніце і ўтрымлівайце, а затым пацягніце ўніз панэль дзеянняў</string>
+    <string name="freeform_guide_notification_drop_down_title">Адкрыццё вокнаў, якія плаваюць</string>
+    <string name="freeform_guide_settings">Акно, якое плавае</string>
+    <string name="freeform_guide_slide_up_to_close_summary">Правядзіце ўверх ад панэлі дзеянняў акна, якое плавае</string>
+    <string name="freeform_guide_slide_up_to_close_title">Закрыццё вокнаў, якія плаваюць</string>
+    <string name="freeform_vedio_description">"· Націсніце і ўтрымлівайце, а затым пацягніце ўніз апавяшчэнне, каб адкрыць яго ў акне, якое плавае.
+· Націсніце \"Вокны, якія плаваюць\" у \"Апошнія\" для выбару програм."</string>
     <string name="frequently_fragment_delete">Выдаліць</string>
     <string name="frequently_fragment_tempty">Тут будуць паказвацца часта ўжываныя элементы</string>
     <string name="fsg_mistake_touch_summary">У некаторых выпадках, напрыклад, у поўнаэкранных гульнях і відэа, жэсты будзе неабходна паўтараць двойчы</string>
@@ -2685,7 +2789,7 @@
     <string name="gesture_setting_off">Выключана</string>
     <string name="gesture_setting_on">Уключана</string>
     <string name="gesture_wakeup_summary">Двойчы краніце экрана для яго ўключэння або адключэння, калі ўстаноўлена тэма «Па змаўчанні» або «Класічная»</string>
-    <string name="gesture_wakeup_title">Абуджэнне экрана двайным дотыкам</string>
+    <string name="gesture_wakeup_title">Абуджаць экран падвойным дотыкам</string>
     <string name="giga_hertz">ГГц</string>
     <string name="gigabyteShort">ГБ</string>
     <string name="global_change_warning">Налады будуць зменены для ўсіх карыстальнікаў прылады.</string>
@@ -2716,6 +2820,7 @@
     <string name="gxzw_add_fingerprint_put_finger_message">Націсніце на экран і прыбярыце палец пасля вібрацыі. Паўтарыце некалькі разоў.</string>
     <string name="gxzw_add_fingerprint_put_finger_title">Націсніце і адпусціце пасля вібрацыі</string>
     <string name="gxzw_add_fingerprint_title">Дадаць свой адбітак пальца</string>
+    <string name="gxzw_anim_aurora">Aurora</string>
     <string name="gxzw_anim_light">Неон</string>
     <string name="gxzw_anim_pulse">Пульс</string>
     <string name="gxzw_anim_rhythm">Рытм</string>
@@ -2728,7 +2833,13 @@
     <string name="gxzw_dialog_ok">Зразумела</string>
     <string name="gxzw_dialog_title">Пра экранны сканер адбіткаў</string>
     <string name="gxzw_enroll_again">Прыбярыце палец і зноў націсніце на сканер адбіткаў</string>
-    <string name="gxzw_quick_open_title" />
+    <string name="gxzw_quick_open_enable_summary">Выкарыстоўвайце жэсты для запуску праграм або выкарыстання іх функцый пры разблакоўцы прылады</string>
+    <string name="gxzw_quick_open_enable_title">Жэсты на сканары адбіткаў пальцаў</string>
+    <string name="gxzw_quick_open_fast_summary">Правядзіце пальцам для выкарыстання цэтліка пры разблакоўцы прылады.</string>
+    <string name="gxzw_quick_open_fast_title">Хуткі жэст (прасунуты)</string>
+    <string name="gxzw_quick_open_slow_summary">Націсніце і ўтрымлівайце значок адбітка пальца для адкрыцця меню цэтліка. Правядзіце для выкарыстання цэтліка.</string>
+    <string name="gxzw_quick_open_slow_title">Націсніце і ўтрымлівайце</string>
+    <string name="gxzw_quick_open_title">Цэтлікі</string>
     <string name="handy_mode">Рэжым кіравання адной рукой</string>
     <string name="handy_mode_enable">Рэжым кіравання адной рукой</string>
     <string name="handy_mode_size">Памер экрана</string>
@@ -2765,6 +2876,7 @@
     <string name="header_data_and_synchronization">Сынхранізацыя дадзеных</string>
     <string name="headset_settings_title">Гукавыя эфекты</string>
     <string name="heavy_weight_stop_description">Нельга бяспечна спынiць гэты дадатак. Спыненне працы дадатку можа прывесцi да страты даных.</string>
+    <string name="help_and_feedback_title">Дапамога і водгук</string>
     <string name="help_feedback_label">Даведка і водгукі</string>
     <string name="help_label">Даведка і водгукі</string>
     <string name="hide_extra_apps">Выкарыстанне зараду праграмамі</string>
@@ -2792,6 +2904,39 @@
     <string name="homepage_all_settings">Усе налады</string>
     <string name="homepage_condition_footer_content_description">Згарнуць</string>
     <string name="homepage_personal_settings">Прапановы</string>
+    <string name="how_backup_content">"Вы можаце захоўваць рэзервовыя копіі лакальна або ў воблаку. Лакальныя рэзервовыя копіі могуць захоўвацца на вашай мабільнай прыладзе, кампутаре або ў USB-сховішче.
+
+Мабільная прылада
+ Захоўвайце сістэмныя налады, акаўнты, дадзеныя праграм і іншыя аб'екты ў асобным файле, які захоўваецца на прыладзе (MIUI-backup-AllBackup). Заўвага: аднаўленне завадскіх налад прывядзе да поўнага выдаленню такіх рэзервовых копій. Не забудзьцеся скапіяваць рэзервовыя копіі на свой кампутар.
+
+Кампутар
+Стварыце рэзервовыя копіі на гэтай прыладзе, а затым перайдзіце ў MIUI-backup-AllBackup і скапіруйце рэзервовую копію на свой кампутар праз USB-кабель.
+
+USB-сховішча
+Захоўвайце сістэмныя налады, акаўнты, дадзеныя праграм і іншыя аб'екты ў USB-сховішче.
+
+Xiaomi Cloud
+Сінхранізуйце свае кантакты, фатаграфіі, відэа, спіс праграм, сістэмныя налады і знешні выгляд працоўнага стала ў воблачным сховішче."</string>
+    <string name="how_backup_title">"Як я магу стварыць рэзервовую копію аб'ектаў?"</string>
+    <string name="how_encrypt_content">"Вы можаце шыфраваць толькі лакальныя рэзервовыя копіі. Вось некаторыя метады шыфравання, якія можна выкарыстоўваць:
+a) Перайдзіце ў раздзел \"Налады > Дадатковыя налады\" на старонке з вашымі лакальнымі рэзервовымі копіямі, націсніце на кнопку, каб уключыць шыфраванне, і ўвайдзіце ў свой Mi акаўнт. Пасля гэтага рэзервовыя копіі будуць зашыфраваныя аўтаматычна. Памятайце, што вам трэба ўвайсці ў свой Mi акаўнт для аднаўлення аб'ектаў з зашыфраваных рэзервовых копій
+б) Калі вы ўжываеце Mi PC Suite для рэзервовага капіявання аб'ектаў, вы можаце выкарыстоўваць опцыі шыфравання ў гэтай праграме.
+
+Заўвага: запомніце пароль, які вы ўсталёўваеце для зашыфраваных рэзервовых копій! Вы не зможаце расшыфраваць іх, калі забудзеце пароль."</string>
+    <string name="how_encrypt_title">Як зашыфраваць свае рэзервовыя копіі?</string>
+    <string name="how_restore_backup_content">"Вось як вы можаце аднавіць аб'екты, рэзервовыя копіі якіх былі створаныя з выкарыстаннем розных метадаў:
+
+Мабільная прылада
+Націсніце \"Мабільная прылада\", знайдзіце опцыю аднаўлення аб'ектаў і абярыце рэзервовую копію для працягу.
+
+Кампутар
+Скапіюйце рэзервовую копію з вашага кампутара ў MIUI-backup-AllBackup праз USB- кабель і адновіце аб'екты са сваёй мабільнай прылады.
+USB-сховішча
+Скапіюйце рэзервовую копію з вашага USB-сховішча ў MIUI-backup-AllBackup і абярыце опцыю аднаўлення аб'ектаў з USB-сховішчы для працягу.
+
+Xiaomi Cloud
+Адкрыйце Xiaomi Cloud і адновіце аб'екты адтуль."</string>
+    <string name="how_restore_backup_title">"Як аднавіць аб'екты з рэзервовых копій?"</string>
     <string name="http_invoke_app">Вэб-праграмы</string>
     <string name="http_invoke_app_summary">Адкрывайце праграмы хутчэй без іх усталявання</string>
     <string name="hwui_force_dark_summary">Змяняе наладу прымусовага ўключэння цёмнай тэмы на \"Заўсёды ўключана\"</string>
@@ -2831,21 +2976,28 @@
     <string name="information_dialog_button_text">Зразумела</string>
     <string name="information_label">Інфармацыя</string>
     <string name="input_assistance">Інструменты</string>
-    <string name="input_hint_prefix">Увядзіце %1$s</string>
     <string name="input_method">Клавіятура</string>
     <string name="input_method_bottom_close">Адкл</string>
     <string name="input_method_bottom_open">Укл</string>
-    <string name="input_method_function_clipboard">Буфер абмену і частыя фразы</string>
-    <string name="input_method_function_clipboard_des">Націсніце для прагляду змесціва буфера абмену і частых фраз</string>
-    <string name="input_method_function_no_function">Няма</string>
-    <string name="input_method_function_no_function_des">Не паказваць цэтлікі</string>
-    <string name="input_method_function_switch">Пераключэнне паміж клавіятурамі</string>
-    <string name="input_method_function_switch_des">Націсніце, каб пераключыцца на іншую клавіятуру</string>
-    <string name="input_method_function_voice">Галасавы ўвод</string>
-    <string name="input_method_function_voice_des">Націсніце, каб выкарыстоўваць галасавы ўвод</string>
-    <string name="input_method_function_xiaoai">Галасавы ўвод Mi AI</string>
-    <string name="input_method_function_xiaoai_des">Націсніце, каб выкарыстоўваць галасавы ўвод Mi AI</string>
+    <string name="input_method_clipboard_settings">Налады буфера абмену</string>
+    <string name="input_method_cloud_data_title">Воблачны буфер абмену</string>
+    <string name="input_method_cloud_paste_mode_bubble_des">"Вы будзеце бачыць усплывальную бурбалку кожны раз, калі ў воблачным буферы абмену з'яўляецца новы кантэнт. Націсніце на выноску, каб увесці скапіяваны тэкст."</string>
+    <string name="input_method_cloud_paste_mode_bubble_title">Бурбалка</string>
+    <string name="input_method_cloud_paste_mode_no_des">"Вы не будзеце бачыць апавяшчэнні, калі ў воблачным буферы абмену з'явіцца новы змест. Тым не менш вы зможаце выкарыстоўваць буфер абмену, націснуўшы на значок."</string>
+    <string name="input_method_cloud_paste_mode_no_title">Адсутнічае</string>
+    <string name="input_method_cloud_paste_mode_red_point_des">"Вы будзеце бачыць чырвоную кропку ў ніжняй частцы клавіятуры кожны раз, калі ў воблачным буферы абмену з'яўляецца новы змест. Націсніце на значок, каб адкрыць буфер абмену і выкарыстаць скапіяваны змест."</string>
+    <string name="input_method_cloud_paste_mode_red_point_title">Чырвоная кропка</string>
     <string name="input_method_manage">Кіраванне клавіятурамі</string>
+    <string name="input_method_quick_access">Хуткі доступ</string>
+    <string name="input_method_quick_cloud_mode_title">Паведамлення аб новым кантэнце ў буферы абмену</string>
+    <string name="input_method_quick_cloud_summary">"Капіюйце аб'екты на сумяшчальных кампутарах і ўстаўляйце іх на вашай прыладзе"</string>
+    <string name="input_method_quick_cloud_title">Воблачны буфер абмену</string>
+    <string name="input_method_quick_paste_summary">"Прагляд скапіяваных аб'ектаў націскам на значок буфера абмену"</string>
+    <string name="input_method_quick_paste_title">Хуткая ўстаўка</string>
+    <string name="input_method_quick_taobao_summary">Адкрываць скапіяваныя спасылкі Taobao націскам на значок буфера абмену</string>
+    <string name="input_method_quick_taobao_title">Cпасылкі Taobao</string>
+    <string name="input_method_quick_url_summary">Адкрываць скапіяваныя URL-адрасы націскам на значок буфера абмену</string>
+    <string name="input_method_quick_url_title">Вэб-сайты</string>
     <string name="input_method_selector">Сродак выбару метаду ўвода</string>
     <string name="input_method_selector_always_hide_title">Заўсёды хаваць</string>
     <string name="input_method_selector_always_show_title">Заўсёды паказваць</string>
@@ -3063,6 +3215,7 @@
     <string name="layout_exhuge_font_tips_reg">Спецыяльныя магчымасці > Памер тэксту</string>
     <string name="layout_size_exhuge">XXL</string>
     <string name="layout_size_exhuge_text">XXL</string>
+    <string name="layout_size_extral_small">XXS</string>
     <string name="layout_size_huge">XL</string>
     <string name="layout_size_huge_text">Вельмі вялікі</string>
     <string name="layout_size_large">L</string>
@@ -3116,7 +3269,9 @@
     <string name="local_backup_password_toast_success">Новы пароль ад рэзервовых копій усталяваны</string>
     <string name="local_backup_password_toast_validation_failure">Не атрымалася ўсталяваць пароль для рэзервовай копіі</string>
     <string name="local_backup_section_summary">Стварэнне рэзервовай копіі сістэмных налад, інфармацыі пра акаўнт і праграм</string>
+    <string name="local_backup_section_summary_new">Выконвайце рэзервовае капіраванне акаўнтаў, дадзеных праграм, сістэмных налад і шмат чаго іншага</string>
     <string name="local_backup_section_title">Лакальныя рэзервовыя копіі</string>
+    <string name="local_backup_section_title_new">На гэтай прыладзе</string>
     <string name="locale_default">Па змаўчанні</string>
     <string name="locale_not_translated">Можа быць недаступна ў некаторых праграмах</string>
     <string name="locale_remove_menu">Выдаліць</string>
@@ -3264,8 +3419,9 @@
     <string name="lockpassword_choose_your_password_header_for_face">Для распазнавання твару наладзьце пароль</string>
     <string name="lockpassword_choose_your_password_header_for_fingerprint">Задайце пароль для выкарыстання адбітка</string>
     <string name="lockpassword_choose_your_password_message">Задайце пароль, каб абараніць прыладу</string>
-    <string name="lockpassword_choose_your_password_second_space">"Задайце пароль 
- для Другой прасторы"</string>
+    <string name="lockpassword_choose_your_password_second_space">"Задайце код другой прасторы
+Ён мусіць утрымліваць столькі ж лічбаў,
+як і ў першай прасторы."</string>
     <string name="lockpassword_choose_your_pattern_header">Задайце графічны ключ</string>
     <string name="lockpassword_choose_your_pattern_header_for_face">Для распазнавання твару наладзьце ўзор</string>
     <string name="lockpassword_choose_your_pattern_header_for_fingerprint">Спачатку задайце ўзор</string>
@@ -3279,7 +3435,7 @@
     <string name="lockpassword_choose_your_pin_title" formatted="false">Увядзіце %d-%d лічбы</string>
     <string name="lockpassword_choose_your_screen_lock_header">Наладзьце блакіроўку экрана</string>
     <string name="lockpassword_clear_label">Ачысціць</string>
-    <string name="lockpassword_confirm_for_second_user">Пацвердзіць пароль для Другой прасторы</string>
+    <string name="lockpassword_confirm_for_second_user">Пацвердзіце пароль Другой прасторы</string>
     <string name="lockpassword_confirm_label">Пацвердзіць</string>
     <string name="lockpassword_confirm_passwords_dont_match">Паролі не супадаюць</string>
     <string name="lockpassword_confirm_pins_dont_match">PIN-коды не супадаюць</string>
@@ -3299,7 +3455,7 @@
     <string name="lockpassword_confirm_your_pin_details_frp">Тэлефон скінуты да заводскіх налад. Каб выкарыстаць яго, увядзіце папярэдні PIN-код.</string>
     <string name="lockpassword_confirm_your_pin_generic">Увядзіце PIN-код для працягу.</string>
     <string name="lockpassword_confirm_your_pin_generic_profile">Каб працягнуць, увядзіце PIN-код свайго працоўнага профілю.</string>
-    <string name="lockpassword_confirm_your_pin_header">Пацвердзіце PIN-код</string>
+    <string name="lockpassword_confirm_your_pin_header">Пацвердзіце код</string>
     <string name="lockpassword_confirm_your_pin_header_frp">Пацвердзіць PIN-код</string>
     <string name="lockpassword_confirm_your_private_password_header">Пацвердзіце пароль</string>
     <string name="lockpassword_confirm_your_private_pattern_header">Пацвердзіце графічны ключ</string>
@@ -3350,7 +3506,7 @@
     <string name="lockpattern_retry_button_text">Ачысіць</string>
     <string name="lockpattern_settings_change_lock_pattern">Змяніць графічны ключ</string>
     <string name="lockpattern_settings_choose_lock_pattern">Усталяваць графічны ключ</string>
-    <string name="lockpattern_settings_enable_power_button_instantly_locks">Блакаванне экрана кнопкаю сілкавання</string>
+    <string name="lockpattern_settings_enable_power_button_instantly_locks">Блакаванне кнопкай сілкавання</string>
     <string name="lockpattern_settings_enable_summary">Неабходна намаляваць графічны ключ для разблакавання экрана</string>
     <string name="lockpattern_settings_enable_tactile_feedback_title">Вібрацыя пры націсканні</string>
     <string name="lockpattern_settings_enable_title">Запытваць графічны ключ</string>
@@ -3372,7 +3528,8 @@
     <string name="lockscreen_glogin_submit_button">Увайсці</string>
     <string name="lockscreen_label">Экран блакавання</string>
     <string name="lockscreen_magazine">Карусель шпалер</string>
-    <string name="lockscreen_magazine_summary">Карусель шпалер высокай якасці</string>
+    <string name="lockscreen_magazine_india">Glance для Mi</string>
+    <string name="lockscreen_magazine_summary">Штодзённая падборка ўзрушаючых выяў і гісторый</string>
     <string name="lockscreen_magazine_title">Карусель шпалер</string>
     <string name="lockscreen_remote_input">Калі прылада заблакіравана, не дазваляць набіраць адказы або іншы тэкст у апавяшчэннях</string>
     <string name="lockscreen_settings_title">Экран блакіроўкі</string>
@@ -3440,7 +3597,7 @@
 У дадзены момант вы зайшлі ў наступныя ўліковыя запісы:
 "</string>
     <string name="master_clear_all">Выдаліць усе дадзеныя з унутранага сховішча тэлефона? Гэта дзеянне немагчыма скасаваць!</string>
-    <string name="master_clear_apply_step_1"><b>Скід да завадскіх налад выдаліць усе дадзеныя з тэлефона</b>" разам з фота, песнямі, нататкамі ды іншымі асабістымі дадзенымі. Пераканайцеся, што вы стварылі рэзервовую копію ўсіх важных аб'ектаў на камп'ютары."</string>
+    <string name="master_clear_apply_step_1"><b>\"Скід да завадскіх налад\" выдаліць усе дадзеныя з тэлефона</b>" разам з фота, песнямі, нататкамі ды іншымі асабістымі дадзенымі. Пераканайцеся, што вы стварылі рэзервовую копію ўсіх важных аб'ектаў на камп'ютары."</string>
     <string name="master_clear_apply_step_2">"Пераканайцеся, што вы стварылі рэзервовую копію ўсіх важных аб'ектаў на камп'ютары. Усе дадзеныя будуць выдалены з гэтай прылады падчас скіду. "<b>Страчаныя дадзеныя будзе немагчыма аднавіць.</b></string>
     <string name="master_clear_apply_title">Увага</string>
     <string name="master_clear_button_text">Сцерці ўсе даныя</string>
@@ -3477,6 +3634,7 @@
     <string name="master_clear_progress_title">Выдаленне</string>
     <string name="master_clear_short_title">Сцерці ўсе даныя (скід да заводскіх налад)</string>
     <string name="master_clear_title">Выдаліць усе дадзеныя (скід на завадскія налады)</string>
+    <string name="master_clear_title_new">Скід да завадскіх налад</string>
     <string name="max_aspect_settings_all_app_display_loading">Хвілінку…</string>
     <string name="max_cpu10_info">"Дзесяць ядзер Max "</string>
     <string name="max_cpu2_info">Два ядры Max</string>
@@ -3484,6 +3642,7 @@
     <string name="max_cpu6_info">"Шэсць ядзер Max "</string>
     <string name="max_cpu8_info">"Восем ядзер Max "</string>
     <string name="max_fingerprint_number_reached">Немагчыма дадаць больш за 5 адбіткаў пальцаў. Каб дадаць новы адбітак, спачатку выдаліце адзін з існуючых.</string>
+    <string name="max_fingerprint_reached_toast">Вы можаце дадаць да 5 адбіткаў пальцаў</string>
     <string name="maximum_memory_use">Максімальнае выкарыст. памяці</string>
     <string name="media_button">Кнопка Медыя</string>
     <string name="media_category">Медыя</string>
@@ -3533,6 +3692,7 @@
     <string name="memory_title">Даступна: %1$s\u0009\u0009Усяго: %2$s</string>
     <string name="memory_usage">Выкарыстанне памяці</string>
     <string name="memory_usage_apps">Выкарыстанне памяці праграмамі</string>
+    <string name="memory_use_running_format">%1$s / %2$s</string>
     <string name="memory_use_summary">%1$s – сярэдняе значэнне памяці, выкарыстанай за апошнія 3 гадзіны</string>
     <string name="menu_cancel">Адхіліць</string>
     <string name="menu_check">Досвед</string>
@@ -3567,16 +3727,22 @@
     <string name="mi_shopping_mall">Mi маркет</string>
     <string name="mi_transfer">Mi Mover</string>
     <string name="mi_upi_settings">Mi Pay Акаўнт</string>
+    <string name="micloud_service_summary">Сінхранізаваць спіс праграм, стварыць рэзервовую копію сістэмных налад і знешняга выгляду Галоўнага экрана</string>
+    <string name="micloud_service_title">Xiaomi Cloud</string>
     <string name="mipush_fake_channel_group_name">Mi Push</string>
     <string name="misc_files">Розныя файлы</string>
     <string name="misc_files_selected_count">выбрана %1$d з %2$d</string>
     <string name="misc_files_selected_count_bytes">%1$s з %2$s</string>
+    <string name="miui_accessibility_asr_summary">Пераўтварэнне аўдыё ў тэкст</string>
+    <string name="miui_accessibility_asr_title">Mi Ditto</string>
     <string name="miui_allow_alarm">Будзільнікі</string>
     <string name="miui_allow_light">Светлавы індыкатар апавяшчэння</string>
     <string name="miui_allow_music">Медыя</string>
     <string name="miui_allow_vibrate">Вібрацыі</string>
     <string name="miui_data_usage_menu_metered">Мабільныя пункты доступу</string>
     <string name="miui_experience_optimization">Уключыць MIUI аптымізацыю</string>
+    <string name="miui_face_enroll_success">"Зараз вы можаце разблакаваць прыладу з дапамогай дадзеных твару.
+Працягніце для доступу да дадатковых налад."</string>
     <string name="miui_input_method_settings">Налады спосаба уводу</string>
     <string name="miui_lab_ai_cloud_closed">Перадзагрузка пакуль не даступна.</string>
     <string name="miui_lab_ai_preload_desc">Перадзагрузка павышае хуткасць запуску праграм</string>
@@ -3781,70 +3947,25 @@
     <string name="msd_pc_system_install_summary_xp">1. Для ўсталёўкі запусціце setup.exe</string>
     <string name="msg_wlan_signal_found">Падлучыцца да %s?</string>
     <string name="msim_sim_radio_off">Адкл</string>
+    <string name="mtp_connection_failed">Немагчыма перадаць файлы на падлучаны кампутар. Паспрабуйце ліквідаваць непаладкі.</string>
+    <string name="mtp_connection_failed_title">Падключэнне па USB</string>
+    <string name="mtp_connection_not_remind">Больш не паказваць</string>
     <string name="mtp_ptp_mode_summary">Функцыя MTP або PTP актыўная</string>
+    <string name="mtp_solution_button_cancel">Зразумела</string>
+    <string name="mtp_solution_button_ok">Ліквідацыя непаладак</string>
+    <string name="multi_face_delete_message">Увага</string>
+    <string name="multi_face_delete_show_message">Выдаліць дадзеныя аб твары зараз?</string>
+    <string name="multi_face_input">Дадаць дадзеныя аб твары</string>
+    <string name="multi_face_input_reach_upper_limit">Не атрымалася дадаць дадзеныя твару. Пачакайце адну-дзве хвіліны і паўтарыце спробу.</string>
+    <string name="multi_face_input_success_name_title">Імя</string>
+    <string name="multi_face_list">Дадзеныя аб твары</string>
+    <string name="multi_face_name_prefix">"Твар "</string>
+    <string name="multi_face_number_reach_limit">Немагчыма дадаць дадзеныя больш чым для 2 твараў</string>
     <string name="multi_network_acceleration_app_settings">Паскарэнне злучэння для праграм</string>
     <string name="multi_touch_points_category_title">Пункты множнага дотыку</string>
     <string name="multi_touch_points_preference">Для прымянення наладаў трэба перазагрузіць прыладу</string>
-    <string name="music_app_unavailable">Пераканайцеся, што Mi Музыка ўсталявана.</string>
-    <string name="music_audio_effect_optimize">Аўдыяналады</string>
-    <string name="music_audio_effect_optimize_summary">Налады Dirac, навушнікаў і гарнітуры</string>
-    <string name="music_audio_effect_optimize_summary_with_hd">Налады Dirac, Hi-Fi, навушнікаў і гарнітуры</string>
-    <string name="music_audio_effect_optimize_summary_with_hifi">Налады Dirac, Hi-Fi, навушнікаў і гарнітуры</string>
-    <string name="music_audio_effect_settings">Налады эфектаў</string>
-    <string name="music_dirac_control">Паляпшэнне якасці гуку</string>
-    <string name="music_dirac_mode_cancelling">Mi Noise Cancelling 3.5mm</string>
-    <string name="music_dirac_mode_capsule">Mi Capsule</string>
-    <string name="music_dirac_mode_earbuds">Mi-навушнікі</string>
-    <string name="music_dirac_mode_general">Звычайныя навушнікі</string>
-    <string name="music_dirac_mode_general_earbuds">Звычайныя навушнікі</string>
-    <string name="music_dirac_mode_general_inear">Звычайныя ўкладышы</string>
-    <string name="music_dirac_mode_half_in_ear">Mi-укладышы</string>
-    <string name="music_dirac_mode_headset">Mi навушнікі</string>
-    <string name="music_dirac_mode_headset_comfort">Mi Comfort</string>
-    <string name="music_dirac_mode_in_ear">Mi-укладышы</string>
-    <string name="music_dirac_mode_in_ear2">Mi In-Ear 2</string>
-    <string name="music_dirac_mode_in_ear_2013">Mi In-Ear (2013)</string>
-    <string name="music_dirac_mode_in_ear_pro">Mi In-Ear Pro</string>
-    <string name="music_dirac_mode_india_earphones">Mi Earphones</string>
-    <string name="music_dirac_mode_india_earphones_basic">Mi Earphones Basic</string>
-    <string name="music_dirac_mode_off">Рэжым \"Dirac\" выключаны</string>
-    <string name="music_dirac_mode_piston_1">Mi-пістоны 1</string>
-    <string name="music_dirac_mode_piston_100">Mi-пістоны</string>
-    <string name="music_dirac_mode_piston_2">Mi-пістоны 2</string>
-    <string name="music_dirac_mode_piston_basic">Звыч. пістоны</string>
-    <string name="music_dirac_mode_piston_color">Каляровае версія</string>
-    <string name="music_dirac_mode_piston_standard">Стандартная версія</string>
-    <string name="music_dirac_mode_piston_youth">Моладзевая версія</string>
-    <string name="music_dirac_mode_reduction_noise">Mi Noise Cancelling Type-C</string>
-    <string name="music_dolby_mode_movie">Відэа</string>
-    <string name="music_dolby_mode_music">Музыка</string>
-    <string name="music_dolby_mode_off">Адключыць</string>
+    <string name="multifunction_keyboard">Шматфункцыянальная</string>
     <string name="music_equalizer">Эквалайзер</string>
-    <string name="music_equalizer_summary">Прыватныя ўсталёўкі для розных тыпаў музыкі</string>
-    <string name="music_hd_title">HD гук</string>
-    <string name="music_headphone_settings">Выберыце тып навушнікаў</string>
-    <string name="music_headset_button_settings">Функцыі клавіш</string>
-    <string name="music_headset_calibrate">Назначыць кнопкі</string>
-    <string name="music_headset_calibrate_apply">Прымяніць</string>
-    <string name="music_headset_calibrate_confirm">Прымяніць налады?</string>
-    <string name="music_headset_calibrate_hint">Націсніце на верхнюю кнопку</string>
-    <string name="music_headset_calibrate_next_track">Наступны трэк</string>
-    <string name="music_headset_calibrate_prev_track">Папярэдні трэк</string>
-    <string name="music_headset_calibrate_success">Налады захаваны</string>
-    <string name="music_headset_calibrate_volume_down">Памяншэнне гучнасці</string>
-    <string name="music_headset_calibrate_volume_up">Павелічэнне гучнасці</string>
-    <string name="music_headset_calibrate_wrong_key">Няверная клавіша</string>
-    <string name="music_headset_mode_music">Пераключэнне трэкаў</string>
-    <string name="music_headset_mode_settings">Функцыі кнопак навушнікаў</string>
-    <string name="music_headset_mode_volume">Рэгуліроўка гучнасці</string>
-    <string name="music_headset_no_contected">Навушнікі не падключаны</string>
-    <string name="music_headset_settings">Навушнікі і гукавыя эфекты</string>
-    <string name="music_hifi_summary">Зніжэнне шуму і скажэнняў для паляпшэння якасці гуку</string>
-    <string name="music_hifi_title">Hi-Fi гук</string>
-    <string name="music_mi_effect_summary">Выкарыстоўваць паляпшэнне гуку Mi пры прайграванні праз навушнікі</string>
-    <string name="music_mi_effect_title">Паляпшэнне гуку Mi</string>
-    <string name="music_title_dolby_control">Dolby Digital Plus</string>
-    <string name="music_unsupport_effect_summary">USB гарнітуры не падтрымліваюцца</string>
     <string name="musicfx_title">Музычныя эфекты</string>
     <string name="mute_music_stream">Адключыць музычны паток</string>
     <string name="mute_voiceassist_stream">Адключыць гук галасавога памочніка</string>
@@ -3856,6 +3977,9 @@
     <string name="my_device_info_device_name_preference_title">Назва прылады</string>
     <string name="n_cacrts">Сертыфікаты ЦС: %d</string>
     <string name="nature_color">Па змаўчанні</string>
+    <string name="navigation_guide_app_quick_switch_hide_line_summary">Правядзіце ўверх ад ніжняй частцы экрана, а затым правядзіце налева або направа</string>
+    <string name="navigation_guide_app_quick_switch_summary">Правядзіце налева або направа ад індыкатара поўнага экрана або ніжняй частцы экрана</string>
+    <string name="navigation_guide_app_quick_switch_title">Пераключыцца паміж праграмамі</string>
     <string name="navigation_guide_app_summary">Правядзіце пальцам ад краю верхняй часткі экрана ўлева ці ўправа</string>
     <string name="navigation_guide_app_title">Запуск дзеяння праграмы</string>
     <string name="navigation_guide_appswitch_anim_summary">Правядзіце пальцам па экране, пачынаючы з краю, каб вярнуцца да папярэдняй праграмы</string>
@@ -3870,6 +3994,10 @@
     <string name="navigation_guide_dialog_skip">Не зараз</string>
     <string name="navigation_guide_dialog_summary">Даведайцеся, якія жэсты вы можаце карыстацца для навігацыі.</string>
     <string name="navigation_guide_dialog_title">Вывучыце жэсты</string>
+    <string name="navigation_guide_gesture_line_dialog_summary">Новы жэст для пераключэння паміж праграмамі будзе выкарыстоўвацца пасля таго, як вы схаваеце індыкатар поўнага экрана. Вывучыць гэты жэст зараз?</string>
+    <string name="navigation_guide_gesture_line_dialog_title">Вывучыць новы жэст</string>
+    <string name="navigation_guide_hide_gesture_line_summary">Не паказваць індыкатар поўнага экрана пры выкарыстанні поўнаэкранных жэстаў</string>
+    <string name="navigation_guide_hide_gesture_line_title">Схаваць індыкатар поўнага экрана</string>
     <string name="navigation_guide_home_summary">Правядзіце па экране знізу ўверх</string>
     <string name="navigation_guide_home_title">Перайсці на працоўны стол</string>
     <string name="navigation_guide_recent_summary">Правядзіце па экране знізу ўверх і затрымайце палец</string>
@@ -3945,6 +4073,7 @@
     <string name="nfc_how_it_works_got_it">Зразумела</string>
     <string name="nfc_how_it_works_title">Аплата ў тэрмінале</string>
     <string name="nfc_more_title">Больш...</string>
+    <string name="nfc_payment_app_and_desc">%1$s – %2$s</string>
     <string name="nfc_payment_default">Стандартны спосаб аплаты</string>
     <string name="nfc_payment_default_not_set">Не задана</string>
     <string name="nfc_payment_favor_default">Заўсёды выкарыстоўвайце праграму па змаўчанні</string>
@@ -3959,6 +4088,24 @@
     <string name="nfc_payment_use_default">Выкарыстоўваць стандартную праграму</string>
     <string name="nfc_quick_toggle_summary">Дазволіць абмен дадзенымі пры сумяшчэнні тэлефона з іншай прыладай</string>
     <string name="nfc_quick_toggle_title">NFC</string>
+    <string name="nfc_repair_action_btn">Аднавіць</string>
+    <string name="nfc_repair_action_desc">Націсніце \"<b>Fднавіць</b>\" для выпраўлення праблем, якія перашкаджаюць выкарыстанню функцый NFC. Ня пакідайце бягучую старонку да завяршэння аднаўлення. Перазагрузіце прыладу, каб прымяніць змены.</string>
+    <string name="nfc_repair_btn_no">Не</string>
+    <string name="nfc_repair_btn_reboot">Перазагрузіць</string>
+    <string name="nfc_repair_btn_reboot_later">Пазней</string>
+    <string name="nfc_repair_btn_retry">Паўтарыць спробу</string>
+    <string name="nfc_repair_btn_yes">Так</string>
+    <string name="nfc_repair_confirm_desc" formatted="false">"У вас часта ўзнікалі наступныя праблемы?
+%d. Вы не змаглі дадаць або папоўніць карту NFC.
+%d. Ваша карта NFC не працуе.
+%d. Іншыя функцыі NFC не загружаюцца."</string>
+    <string name="nfc_repair_fail_desc">Адбылася памылка, якая перашкаджае аднаўленню функцый NFC. Паўтарыце спробу.</string>
+    <string name="nfc_repair_fail_title">Не атрымалася аднавіць</string>
+    <string name="nfc_repair_ongoing">Аднаўленне… Не пакідайце гэтую старонку.</string>
+    <string name="nfc_repair_pass_desc">Перазагрузіце прыладу для ўжывання змяненняў.</string>
+    <string name="nfc_repair_pass_title">Паспяхова адноўлена</string>
+    <string name="nfc_repair_summary">Выпраўленне праблем, якія перашкаджаюць выкарыстанню NFC</string>
+    <string name="nfc_repair_title">Аднаўленне функцый NFC</string>
     <string name="nfc_se_route_title">Пазіцыя элемента бяспекі</string>
     <string name="nfc_se_wallet_title">Капшук па змаўчанні</string>
     <string name="nfc_secure_settings_title">Абараніць NFC</string>
@@ -4029,7 +4176,6 @@
     <string name="noise_suppression">Праверка падаўлення шуму</string>
     <string name="none">Няма</string>
     <string name="normal">Звычайны</string>
-    <string name="normal_bottom_height_of_keyboard">Звычайная</string>
     <string name="normal_info">Усе налады гуку стануць стандартнымі</string>
     <string name="normal_smartcover_title">Непразрыстая</string>
     <string name="not_allowed">Ваша SIM-карта не дазваляе падключацца да гэтай сеткі.</string>
@@ -4184,6 +4330,8 @@
     <string name="notifications_title">Апавяшчэнні</string>
     <string name="now">Перазагрузіць зараз</string>
     <string name="number_of_device_admins_none">Няма актыўных праграм</string>
+    <string name="oaid_string">"您当前的虚拟身份ID为：
+%1s"</string>
     <string name="oem_lock_info_message">Перазапусціце прыладу, каб уключыць функцыю абароны прылады.</string>
     <string name="oem_radio_info_label">Інфармацыя/налады для пастаўшчыка</string>
     <string name="oem_unlock_enable">OEM-разблакаванне</string>
@@ -4194,7 +4342,7 @@
     <string name="oem_unlock_enable_summary">Дазволіць разблакаванне загрузчыка</string>
     <string name="off">Выкл</string>
     <string name="ok_rules">Завершана</string>
-    <string name="okay">OK</string>
+    <string name="okay">ОК</string>
     <string name="oldman_app_label">Палегчаны рэжым</string>
     <string name="oldman_installed_current_btn">Аднавіць першапачатковы</string>
     <string name="oldman_installed_current_des">Вы ўсталявалі Палегчаны рэжым у якасці працоўнага стала па змаўчанні. Націсніце кнопку ніжэй, каб аднавіць зыходны працоўны стол.</string>
@@ -4222,6 +4370,7 @@
     <string name="open_wifi_connect_summary">Націсніце для прагляду інфармацыі.</string>
     <string name="open_wifi_connect_title">Падлучана да %1$s</string>
     <string name="opening_paragraph_delete_profile_unknown_company">Гэты рабочы профіль знаходзіцца пад кіраваннем:</string>
+    <string name="operation_guide_title">Кіраўніцтва</string>
     <string name="operator_warning">Улік даных аператара можа адрознівацца ад уліку прылады</string>
     <string name="optimization_cancel">Скасаваць</string>
     <string name="osu_completing_sign_up">Завяршэнне рэгістрацыі…</string>
@@ -4240,8 +4389,10 @@
 nOTG аўтаматычна адключаецца праз 10 хвілін бяздзейнасці."</string>
     <string name="other">Іншыя</string>
     <string name="other_advanced_settings">Дадатковыя налады</string>
+    <string name="other_data">"Іншыя аб'екты на гэтай прыладзе"</string>
     <string name="other_device_info">Іншыя</string>
     <string name="other_input_settings">Пашыраныя налады клавіятуры</string>
+    <string name="other_password">Іншыя паролі</string>
     <string name="other_personal_settings">Асабістыя налады</string>
     <string name="other_relative">Іншыя</string>
     <string name="other_settings_sync_settings">Сінхранізаваць</string>
@@ -4253,6 +4404,7 @@ nOTG аўтаматычна адключаецца праз 10 хвілін бя
     <string name="overlay_settings">Паказваць паверх іншых праграм</string>
     <string name="overlay_toast_failed_to_apply">Не ўдалося ўжыць накладанне на экран</string>
     <string name="owner_info_settings_edit_text_hint">Напрыклад, Android Лявона</string>
+    <string name="owner_info_settings_status">%1$d / %2$d</string>
     <string name="owner_info_settings_summary">Няма</string>
     <string name="owner_info_settings_title">Подпіс на экране блакавання</string>
     <string name="owner_space">Першая прастора</string>
@@ -4330,6 +4482,7 @@ nOTG аўтаматычна адключаецца праз 10 хвілін бя
     <string name="passpoint_content">Уліковыя даныя %1$s</string>
     <string name="passpoint_label">Захавана з дапамогай</string>
     <string name="passwordIncorrect">Уведзены няправільны пароль</string>
+    <string name="password_and_security">Паролі і бяспека</string>
     <string name="password_entrance_title">Задаць блакаванне экрана</string>
     <string name="password_guard">Пароль</string>
     <string name="password_security_settings_title">Паролі і бяспека</string>
@@ -4361,13 +4514,16 @@ nOTG аўтаматычна адключаецца праз 10 хвілін бя
     <string name="personal_data_section_title">Асабістыя дадзеныя</string>
     <string name="personal_device_admin_title">Персанальныя</string>
     <string name="personal_section_title">Персаналізацыя</string>
+    <string name="phone_backup_summary">"Рэзервовае капіяванне і аднаўленне аб'ектаў на гэтай прыладзе"</string>
+    <string name="phone_backup_title">Мабільная прылада</string>
     <string name="phone_call_noise_suppression">Падаўленне шумоў падчас размоў</string>
     <string name="phone_index_label">Выберыце тэлефонны код</string>
     <string name="phone_info_label">Звесткі аб тэлефоне</string>
     <string name="phone_language">Мовы</string>
     <string name="phone_language_summary" />
+    <string name="photo_data">Фота і відэа</string>
     <string name="physical_keyboard_title">Фізічная клавіятура</string>
-    <string name="pick_up_gesture_wakeup_title">Абуджаць пры ўзяцці ў рукі</string>
+    <string name="pick_up_gesture_wakeup_title">Абуджаць пры узяцці ў рукі</string>
     <string name="picture_color_mode">Каляровы рэжым Малюнак</string>
     <string name="picture_color_mode_desc">Выкарыстоўваць sRGB</string>
     <string name="picture_in_picture_app_detail_summary">Дазволіць гэтай праграме ствараць акно відарыса ў відарысе, калі праграма адкрыта або пасля таго, як вы выйдзеце з яе (напрыклад, каб працягнуць прагляд відэа). Гэта акно паказваецца паверх іншых праграм, якія вы выкарыстоўваеце.</string>
@@ -4443,6 +4599,7 @@ nOTG аўтаматычна адключаецца праз 10 хвілін бя
     <string name="power_remaining_less_than_duration_only">Засталося менш за %1$s</string>
     <string name="power_remaining_more_than_subtext">Засталося больш за %1$s (%2$s)</string>
     <string name="power_remaining_only_more_than_subtext">Засталося больш за %1$s</string>
+    <string name="power_remaining_settings_home_page">%1$s - %2$s</string>
     <string name="power_screen">Экран</string>
     <string name="power_settings_title">Прадукцыйнасць сістэмы</string>
     <string name="power_suggestion_extend_battery">Падоўжыць час працы звыш %1$s</string>
@@ -4599,6 +4756,7 @@ nOTG аўтаматычна адключаецца праз 10 хвілін бя
     <string name="privacy_factory_reset_dlg_button_text">Скінуць</string>
     <string name="privacy_factory_reset_dlg_message">Калі вы забудзеце свой пароль, то давядзецца выканаць скід да завадскіх налад для ўсталёўкі новага.</string>
     <string name="privacy_factory_reset_dlg_title">Рэзервовае капіяванне дадзеных</string>
+    <string name="privacy_failed_need_to_unlock_nofingerprint">Увядзіце пароль перад выкарыстаннем новага адбітку пальца</string>
     <string name="privacy_file">Файлы</string>
     <string name="privacy_gallery">Фота</string>
     <string name="privacy_header_text_less_than_half">Занадта мала. Перацягніце далей.</string>
@@ -4608,7 +4766,7 @@ nOTG аўтаматычна адключаецца праз 10 хвілін бя
     <string name="privacy_mode_enable_sum">Схаваць паведамленні, нататкі, фота, налады і ўваходныя выклікі</string>
     <string name="privacy_mode_enable_title">Рэжым госця</string>
     <string name="privacy_notes">Нататкі</string>
-    <string name="privacy_password">Пароль для абароны асабістых дадзеных</string>
+    <string name="privacy_password">Абарона асабістых дадзеных паролем</string>
     <string name="privacy_password_add_account">Дадаць</string>
     <string name="privacy_password_add_account_info">Дадайце Mi Акаўнт, каб мець магчымасць аднавіць пароль, калі вы яго забудзеце</string>
     <string name="privacy_password_add_account_setting">Акаўнт і канфідэнцыяльнасць</string>
@@ -4643,10 +4801,12 @@ nOTG аўтаматычна адключаецца праз 10 хвілін бя
     <string name="privacy_password_use_finger_dialog_title">Разблакіроўка адбіткам пальца</string>
     <string name="privacy_password_use_finger_success">Уключана</string>
     <string name="privacy_password_visible_pattern">Паказваць ключ падчас ўводу</string>
-    <string name="privacy_protect_title">Абарона канфідэнцыяльнасці</string>
+    <string name="privacy_protect_title">Абарона асабістых дадзеных</string>
+    <string name="privacy_protection">Абарона канфідэнцыяльнасці</string>
     <string name="privacy_protection_title">Канфідэнцыяльнасць</string>
     <string name="privacy_relative">Прыватнасць</string>
     <string name="privacy_settings">Рэзервовая копія і скід</string>
+    <string name="privacy_settings_new">Стварэнне рэзервовых копій і аднаўленне</string>
     <string name="privacy_settings_title">Рэзервовае капіраванне</string>
     <string name="privacy_thumbnail_blur_progress_message">Секунду…</string>
     <string name="privacy_thumbnail_blur_title">Размыццё прадпрагляду праграм</string>
@@ -4663,6 +4823,8 @@ nOTG аўтаматычна адключаецца праз 10 хвілін бя
     <string name="private_sms_recording_intro_header">Намаляваць графічны ключ для разблакавання:</string>
     <string name="private_sms_reset_by_account">Каб скінуць ваш пароль, увайдзіце ў Mi Акаўнт</string>
     <string name="process_dex2oat_label">Аптымізацыя дадаткаў</string>
+    <string name="process_format">%1$s (%2$d)</string>
+    <string name="process_kernel_label">АС Android</string>
     <string name="process_mediaserver_label">Сервер медыя</string>
     <string name="process_provider_in_use_description">Выкарыстоўваецца пастаўшчык паслуг %1$s.</string>
     <string name="process_service_in_use_description">Служба %1$s выкарыстоўваецца.</string>
@@ -4787,9 +4949,6 @@ nOTG аўтаматычна адключаецца праз 10 хвілін бя
     <string name="radio_info_toggle_dns_check_label">Пераключыць праверку DNS</string>
     <string name="radio_info_ul_kbps">Паласа прапускання запампоўкі (кбіт/с):</string>
     <string name="radio_info_voice_network_type_label">Тып галасавой сеткі:</string>
-    <string name="raise_bottom_height_of_keyboard">Пашыраная</string>
-    <string name="raise_bottom_height_of_keyboard_sub_title">"Пры пераходзе ў пашыраны рэжым пад клавіятурай з'явіцца панэль з наладжвальнымі цэтлікамі"</string>
-    <string name="raise_bottom_height_of_keyboard_title">Падагнаць клавіятуру пад поўны экран</string>
     <string name="rank_title">Рэйтынгі</string>
     <string name="rarely_running">Запускаецца рэдка (%s)</string>
     <string name="reading_data">Атрыманне інфармацыі…</string>
@@ -4811,6 +4970,7 @@ nOTG аўтаматычна адключаецца праз 10 хвілін бя
     <string name="recommend_item_title">Парады</string>
     <string name="recommend_tip">Патрэбныя іншыя налады?</string>
     <string name="recompute_size">Пераразлік памеру...</string>
+    <string name="regional_screen_shot">Частковы скрыншот</string>
     <string name="register_automatically">Выконваецца аўтаматычная рэгістрацыя…</string>
     <string name="register_on_network">Выконваецца рэгістрацыя ў сетцы %s…</string>
     <string name="registration_done">Зарэгістравана ў сетцы.</string>
@@ -4873,6 +5033,7 @@ nOTG аўтаматычна адключаецца праз 10 хвілін бя
     <string name="reset_second_space_passwd_detail">Увядзіце пароль Mi Акаўнта, які выкарыстоўваўся ў Першай прасторы</string>
     <string name="reset_shortcut_manager_throttling">Скінуць абмежаванне частаты ShortcutManager</string>
     <string name="reset_shortcut_manager_throttling_complete">Абмежаванне частаты ShortcutManager было скінута</string>
+    <string name="reset_title">Скід</string>
     <string name="resetting_second_space_passwd">Задаць новы пароль Другой прасторы</string>
     <string name="resident_timezone_summary">Другі гадзіннік</string>
     <string name="resolver_settings_label">Сартаванне</string>
@@ -4883,9 +5044,9 @@ nOTG аўтаматычна адключаецца праз 10 хвілін бя
     <string name="restore_dialog_content">Скід бягучага ID прылады таксама скіне персанальныя рэкамендацыі. Скінуць зараз?</string>
     <string name="restore_dialog_positive">Скінуць</string>
     <string name="restore_dialog_title">Увага</string>
-    <string name="restore_oaid_content">Скід бягучага ID прылады створыць новы. Скінуць цяпер?</string>
-    <string name="restore_oaid_positive">Скінуць</string>
-    <string name="restore_oaid_title">Скід ID прылады</string>
+    <string name="restore_oaid_content">重置后，将提供给三方应用新的虚拟身份ID，让您的行为信息焕然一新</string>
+    <string name="restore_oaid_positive">重置</string>
+    <string name="restore_oaid_title">重置虚拟身份ID</string>
     <string name="restr_pin_enter_admin_pin">Увядзіце PIN-код адміністратара</string>
     <string name="restrict_background_blacklisted">Фонавая перадача даных выключана</string>
     <string name="restrict_bg_app">Абмежаваць</string>
@@ -4911,6 +5072,7 @@ nOTG аўтаматычна адключаецца праз 10 хвілін бя
     <string name="retail_demo_reset_next">Далей</string>
     <string name="retail_demo_reset_title">Патрабуецца пароль</string>
     <string name="retry">Паспрабаваць ізноў</string>
+    <string name="rgb_face_data_manage_delete_msg">Выдаленне 2D-дадзеных твару</string>
     <string name="rgb_manage_facerecoginition_text">Кіраванне 2D-дадзенымі твару</string>
     <string name="right_function_key">Правы ярлык</string>
     <string name="ring_to_you">Карыстальніцкі сігнал выкліку</string>
@@ -4939,7 +5101,7 @@ nOTG аўтаматычна адключаецца праз 10 хвілін бя
     <string name="rule_name">Імя</string>
     <string name="running_frequency">Частата</string>
     <string name="running_process_item_removed_user_label">Аддалены карыстальнiк</string>
-    <string name="running_process_item_user_label">Карыстальнік: %1$s</string>
+    <string name="running_process_item_user_label">Карыстальнiк: %1$s</string>
     <string name="running_processes_header_apps_prefix">Праграмы</string>
     <string name="running_processes_header_cached_prefix">Кэшаваныя</string>
     <string name="running_processes_header_footer">Выкарыстанне аператыўнай памяці праграмамі</string>
@@ -4984,6 +5146,9 @@ nOTG аўтаматычна адключаецца праз 10 хвілін бя
     <string name="screen_confirm">Уключыць</string>
     <string name="screen_dark_mode_advanced_title">Яшчэ</string>
     <string name="screen_dark_mode_select_time_error_summary">Час пачатку і час заканчэння не могуць быць аднолькавымі</string>
+    <string name="screen_dark_mode_smart_dark_3rd_apps_list">Староннія праграмы</string>
+    <string name="screen_dark_mode_smart_dark_apps_setting_summary">Некаторыя праграмы могуць некарэктна адлюстроўвацца ў цёмным рэжыме. Тут вы можаце абмежаваць выкарыстанне цёмнага рэжыму для асобных праграм.</string>
+    <string name="screen_dark_mode_smart_dark_apps_setting_title">Асобныя праграмы</string>
     <string name="screen_dark_mode_smart_dark_summary">Выкарыстоўваць цёмны рэжым для іншых праграм. Пэўныя праграмы могуць адлюстроўвацца няправільна.</string>
     <string name="screen_dark_mode_smart_dark_title">Цёмны рэжым для ўсіх</string>
     <string name="screen_dark_mode_time_title">Расклад</string>
@@ -5132,6 +5297,7 @@ nOTG аўтаматычна адключаецца праз 10 хвілін бя
     <string name="screenshot_three_gesture">Правядзіце трыма пальцамі ўніз, каб зрабіць здымак экрана</string>
     <string name="screenshot_three_gesture_summary">Іншыя жэсты трыма пальцамі будуць адключаны</string>
     <string name="sd_card_settings_label">USB-назапашвальнік</string>
+    <string name="sd_data">Дадзеныя на SD-карце</string>
     <string name="sd_eject">Адключыць сумеснае сховішча</string>
     <string name="sd_eject_summary">Адключыць унутраны USB-назапашвальнiк</string>
     <string name="sd_ejecting_summary">Ідзе адлучэнне</string>
@@ -5375,6 +5541,7 @@ nOTG аўтаматычна адключаецца праз 10 хвілін бя
     <string name="security_encryption_attention_3">Вам прыйдзецца ўсталяваць новы пароль блакавання экрана.</string>
     <string name="security_encryption_attention_4">Запомніце свой пароль блакавання экрана, інакш вам прыйдзецца выканаць поўны скід, і ўсе дадзеныя на прыладзе будуць страчаны.</string>
     <string name="security_encryption_attention_info">Вы можаце зашыфраваць свае акаўнты, налады, усталяваныя праграмы і іх дадзеныя, медыяфайлы і г.д.</string>
+    <string name="security_encryption_attention_symbol">•</string>
     <string name="security_encryption_attention_title">Важнае</string>
     <string name="security_encryption_close_dialog_info">Пры адключэнні шыфравання прылады з дапамогай пароля блакавання экрана некаторыя сэрвісы Google могуць стаць недаступнымі.</string>
     <string name="security_encryption_close_dialog_title">Вяртанне да абароны паролем па змаўчанні</string>
@@ -5698,6 +5865,7 @@ nOTG аўтаматычна адключаецца праз 10 хвілін бя
     <string name="sim_select_card">Выбар SIM-карты</string>
     <string name="sim_selection_channel_title">Выбар SIM-карты</string>
     <string name="sim_selection_required_pref">Трэба выбраць</string>
+    <string name="sim_settings_summary">%1$s – %2$s</string>
     <string name="sim_settings_title">SIM-карты</string>
     <string name="sim_setup_wizard_title">SIM-карты</string>
     <string name="sim_signal_strength">%1$d дБм %2$d asu</string>
@@ -5713,6 +5881,7 @@ nOTG аўтаматычна адключаецца праз 10 хвілін бя
     <string name="size_kilo_byte">КБ</string>
     <string name="size_mega_byte">МБ</string>
     <string name="size_peta_byte">ПБ</string>
+    <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">ТБ</string>
     <string name="skip_anyway_button_label">Усё роўна прапусціць</string>
     <string name="skip_label">Прапусціць</string>
@@ -5785,12 +5954,36 @@ nOTG аўтаматычна адключаецца праз 10 хвілін бя
     <string name="sort_order_frequent_notification">Самыя частыя</string>
     <string name="sort_order_recent_notification">Самыя апошнія</string>
     <string name="sort_order_size">Сартаваць па памеры</string>
+    <string name="sos_phone_call_privacy_dialog_message">"To call your emergency contacts and play SOS recording, this app needs the following permissions:
+• Making calls
+For making calls to your emergency contacts
+• Monitoring device status
+For playing SOS recording when your emergency contacts pick up
+If you don't agree to grant such permissions, you won't be able to use some features of this app; however, its basic functionality will still be available to you. You can always choose to turn this feature off."</string>
+    <string name="sos_phone_call_privacy_dialog_message_confirm">Allow</string>
+    <string name="sos_phone_log_privacy_dialog_message">"This app needs permission to access your call history to be able to share it with your emergency contacts.
+If you don't agree to grant such permissions, you won't be able to use some features of this app; however, its basic functionality will still be available to you. You can always choose to turn this feature off."</string>
     <string name="sos_privacy_and_content_policy">Карыстальніцкае пагадненне і Палітыка прыватнасці</string>
     <string name="sos_privacy_dialog_button_cancel">Скасаваць</string>
     <string name="sos_privacy_dialog_button_ok">Згадзіцца</string>
     <string name="sos_privacy_dialog_message">"Прачытайце і прыміце нашы %s перад выкарыстаннем гэтай функцыі.
 Гэтай функцыі патрабуюцца дазвалення для доступу да вашага месцазнаходжання, выкарыстання мабільных сетак і чытання вашых кантактаў. Вы згодны?"</string>
+    <string name="sos_privacy_dialog_message_new_version">"Emergency SOS allows you to share your location in real time and send text messages to your emergency contacts.
+We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies.
+Note that this app needs to connect to the internet and requires the following permissions to collect your personal information:
+• Accessing storage
+For saving emergency contacts
+• Accessing contacts
+For marking contacts as emergency contacts
+• Sending SMS
+For sending text messages to emergency contacts
+• Accessing location
+For sharing your location with emergency contacts
+If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use this app. You can choose to turn off or not use Emergency SOS in such cases.
+Before using our services, read and agree to our %s."</string>
     <string name="sos_privacy_dialog_title">Умовы і палажэнні</string>
+    <string name="sound_assist_summary">Наладзьце параметры гуку</string>
+    <string name="sound_assist_title">Гукавы дапаможнік</string>
     <string name="sound_category_call_ringtone_vibrate_title">Мелодыя і гукі апавяшчэння</string>
     <string name="sound_category_system_title">Сістэма</string>
     <string name="sound_dashboard_summary">Гучнасць, вібрацыя, рэжым \"Не турбаваць\"</string>
@@ -5841,8 +6034,10 @@ nOTG аўтаматычна адключаецца праз 10 хвілін бя
     <string name="status_bar_app_enable_keyguard">Экран блакіравання</string>
     <string name="status_bar_app_enable_message">Значкі</string>
     <string name="status_bar_carrier_settings_no_sim_card">Няма SIM-карты</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_settings">Апавяшчэнні і панэль стану</string>
     <string name="status_bar_settings_all_app_display_loading">Хвілінку…</string>
+    <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
     <string name="status_bar_settings_manage_notification">Апавяшчэнні праграм</string>
     <string name="status_bar_settings_notification_bar">Панэль апавяшчэнняў</string>
     <string name="status_bar_settings_status_bar">Панэль стану</string>
@@ -5968,6 +6163,7 @@ nOTG аўтаматычна адключаецца праз 10 хвілін бя
     <string name="storage_unmount_success">%1$s бяспечна вынята</string>
     <string name="storage_usb">USB сховішча</string>
     <string name="storage_usb_settings">Сховішча</string>
+    <string name="storage_use_title">Занята</string>
     <string name="storage_used">Сховішча для выкарыстання</string>
     <string name="storage_volume_summary">Выкарыстана %1$s з %2$s</string>
     <string name="storage_volume_total">Выкарыстана з %1$s</string>
@@ -6066,11 +6262,52 @@ nOTG аўтаматычна адключаецца праз 10 хвілін бя
     <string name="storageuse_settings_title">Выкарыстанне сховішча</string>
     <string name="strict_mode">Строгі рэжым уключаны</string>
     <string name="strict_mode_summary">Міргаць экранам у час доўгіх аперацый у галоўным працэсе</string>
-    <string name="strong_suppression_summary">Прылада не рэагуе на выпадковы дотык, некаторыя жэсты кіравання могуць не працаваць каля краёў</string>
+    <string name="strong_suppression_summary">Прылада будзе менш рэагаваць на выпадковыя дотыку. Некаторыя жэсты могуць перастаць працаваць побач з краямі экрана</string>
     <string name="strong_suppression_title">Вялікая вобласць</string>
     <string name="structure_add_facerecoginition_text">Дадаць 3D-дадзеныя твару</string>
+    <string name="structure_face_data_delete_fail">Не атрымалася выдаліць дадзеныя, паспрабуйце яшчэ раз.</string>
+    <string name="structure_face_data_input_down">Апусціце галаву</string>
+    <string name="structure_face_data_input_error_away_screen">Адсуньце тэлефон далей ад твару</string>
+    <string name="structure_face_data_input_error_expose_features">Немагчыма ўбачыць асобныя часткі твару</string>
+    <string name="structure_face_data_input_error_keep_inface">Размясціце твар у межах рамкі</string>
+    <string name="structure_face_data_input_error_overly_light">Занадта моцная падсветка</string>
+    <string name="structure_face_data_input_left">Павярніце галаву ў левы бок</string>
+    <string name="structure_face_data_input_right">Павярніце галаву ў правы бок</string>
+    <string name="structure_face_data_input_timeout_msg">Не атрымалася запісаць, паспрабуйце яшчэ раз.</string>
+    <string name="structure_face_data_input_timeout_title">Паспрабаваць зноў</string>
+    <string name="structure_face_data_input_up">Падыміце галаву</string>
+    <string name="structure_face_data_introduction_back">Назад</string>
+    <string name="structure_face_data_introduction_msg">3D-дадзеныя твару дазваляюць разблакаваць вашу прыладу і пацвердзіць асобу. Перад выкарыстаннем гэтай функцыі трэба наладзіць блакаванне экрана.</string>
+    <string name="structure_face_data_introduction_title">Дадаць 3D-дадзеныя твару</string>
+    <string name="structure_face_data_ir_input_face">Трошкі пасуньце галаву</string>
+    <string name="structure_face_data_manage_delete_msg">Выдаленне 3D-дадзеных твару</string>
+    <string name="structure_face_data_suggestion_text">Пераканайцеся, што твар бачны поўнасцю. Не надзявайце капелюшы, сонечныя акуляры або іншыя аксесуары, якія могуць закрываць твар падчас запісу дадзеных. Ваш твар мусіць быць добра асветлены.</string>
+    <string name="structure_face_data_suggestion_warning_text">Увага: разблакаванне з дапамогай распазнання твару меней бяспечна, чым выкарыстанне PIN-кода, пароля ці графічнага ключа. Прылада можа быць разблакавана вашым фотаздымкам ці людзьмі, якія падобны да вас.</string>
+    <string name="structure_face_delete_data_dialog_msg">Не атрымалася запусціць камеру. Паўтарыце спробу.</string>
+    <string name="structure_face_delete_data_dialog_msg_retry">Паспрабаваць зноў</string>
+    <string name="structure_face_delete_data_dialog_title">Не атрымалася запусціць камеру</string>
     <string name="structure_face_enroll_not_able_low_electric_itle">Нізкі зарад батарэі</string>
     <string name="structure_face_enroll_not_able_low_electric_msg">Для пачатку запісу зарад батарэі мусіць быць не меней за 5%.</string>
+    <string name="structure_face_hardware_abnormal_btn">Зразумела</string>
+    <string name="structure_face_hardware_abnormal_msg">Адбылася апаратная памылка. Перазагрузіце прыладу. Калі гэта не дапаможа, набярыце 400-100-5678, каб атрымаць даведку.</string>
+    <string name="structure_face_hardware_abnormal_title">Памылка апаратнага забеспячэння</string>
+    <string name="structure_face_modules_abnormal_btn">Перазагрузка</string>
+    <string name="structure_face_modules_abnormal_msg">Немагчыма запісаць дадзеныя твару праз памылку аптычнага модуля. Перазагрузіце прыладу і паўтарыце спробу.</string>
+    <string name="structure_face_modules_abnormal_title">Памылка аптычнага модуля</string>
+    <string name="structure_face_unlock_model2d_dialog_msg">3D-распазнанне будзе адключана. 3D-дадзеныя твару будуць выдалены. Вам таксама давядзецца дадаць 2D-дадзеныя твару. Уключыць 2D-распазнанне?</string>
+    <string name="structure_face_unlock_model2d_dialog_title">Уключэнне 2D-распазнання</string>
+    <string name="structure_face_unlock_model3d_dialog_msg">2D-распазнанне будзе адключана. 2D-дадзеныя твару будуць выдалены. Вам таксама давядзецца дадаць 3D-дадзеныя твару. Уключыць 3D-распазнанне?</string>
+    <string name="structure_face_unlock_model3d_dialog_title">Уключэнне 3D-распазнання</string>
+    <string name="structure_face_unlock_model_dialog_enable">Уключыць</string>
+    <string name="structure_face_unlock_model_dialog_notenable">Не, дзякуй</string>
+    <string name="structure_face_unlock_model_other">Іншае</string>
+    <string name="structure_face_unlock_model_other_msg_2d">2D-распазнанне</string>
+    <string name="structure_face_unlock_model_other_msg_3d">3D-распазнанне</string>
+    <string name="structure_face_unlock_model_other_suggestion_2d">2D-распазнанне твару меней бяспечнае, чым выкарыстанне PIN-кода, пароля або графічнага ключа. Прылада можа быць разблакавана вашым фотаздымкам, а таксама людзьмі з падобнай знешнасцю.</string>
+    <string name="structure_face_unlock_model_other_suggestion_3d">3D-распазнанне твару адносна бяспечнае. Вельмі малаверагодна, што прылада можа быць разблакавана вашым фотаздымкам. Аднак яна можа быць разблакавана людзьмі з падобнай знешнасцю.</string>
+    <string name="structure_face_unlock_model_other_title">Распазнаванне твару</string>
+    <string name="structure_face_unlock_not_same_person">Вы павінны выканаць усе крокі самастойна. Не мяняйцеся месцамі ні з кім.</string>
+    <string name="structure_face_unlock_tof_covered">Не атрымалася дадаць дадзеныя твару. Адсуньцеся далей ад экрана.</string>
     <string name="structure_manage_facerecoginition_text">Кіраванне 3D-дадзенымі твару</string>
     <string name="style_and_wallpaper_settings_title">Стылі і шпалеры</string>
     <string name="style_suggestion_summary">Спрабуйце розныя стылі, шпалеры, гадзіннікі і іншае</string>
@@ -6093,6 +6330,7 @@ nOTG аўтаматычна адключаецца праз 10 хвілін бя
     <string name="sum_carrier_select">Выбраць аператара сеткі</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="summary_divider_text">", "</string>
+    <string name="summary_range_symbol_combination">%1$s – %2$s</string>
     <string name="summary_range_verbal_combination">%1$s – %2$s</string>
     <string name="sunlight_mode">Рэжым сонечнага святла</string>
     <string name="sunlight_mode_summary">Рэгулюйце яркасць згодна моцнаму вонкаваму асвятленні, калі аўтаматычнае рэгуляванне яркасці адключана</string>
@@ -6148,6 +6386,7 @@ nOTG аўтаматычна адключаецца праз 10 хвілін бя
     <string name="system_app_settings">Сістэмныя праграмы</string>
     <string name="system_apps_updater">Абнаўленне сістэмных праграм</string>
     <string name="system_backup_section_title">Рэзервовая копія</string>
+    <string name="system_backup_section_title_new">На прыладзе</string>
     <string name="system_dashboard_summary">Мовы, жэсты, час, рэзервовае капіраванне</string>
     <string name="system_default_app">(Стандартныя сістэмныя)</string>
     <string name="system_haptic_feedback">Тактыльныя аддача</string>
@@ -6195,9 +6434,11 @@ nOTG аўтаматычна адключаецца праз 10 хвілін бя
     <string name="tether_settings_title_all">Мадэм і пункт доступу</string>
     <string name="tether_settings_title_bluetooth">Bluetooth-мадэм</string>
     <string name="tether_settings_title_usb">USB-мадэм</string>
-    <string name="tether_settings_title_usb_bluetooth">Рэжым мадэма</string>
-    <string name="tether_settings_title_wifi">Пункт доступу Wi-Fi</string>
+    <string name="tether_settings_title_usb_bluetooth">Мадэм</string>
+    <string name="tether_settings_title_wifi">Партатыўны хот-спот</string>
     <string name="tether_share_qrcode_title">Падзяліцца QR-кодам</string>
+    <string name="tether_use_wifi6_summary">Некаторыя прылады могуць быць несумяшчальныя са стандартам 802.11ax. Адключыце гэтую функцыю, калі сутыкнуліся з праблемамі.</string>
+    <string name="tether_use_wifi6_title">Падтрымка стандарту 6-га пакалення</string>
     <string name="tethering_footer_info">Выкарыстоўвайце хот-спот і рэжым мадэма для падключэння да інтэрнэту іншых прылад праз мабільную перадачу даных. Праграмы таксама могуць ствараць хот-спот для абагульвання змесціва з прыладамі паблізу.</string>
     <string name="tethering_hardware_offload">Апаратнае паскарэнне ў рэжыме мадэма</string>
     <string name="tethering_hardware_offload_summary">Выкарыстоўваць апаратнае паскарэнне ў рэжыме мадэма (калі даступна)</string>
@@ -6212,12 +6453,14 @@ nOTG аўтаматычна адключаецца праз 10 хвілін бя
     <string name="theme_settings_title">Тэмы</string>
     <string name="thememanager_not_found">Адкрыць \"Тэмы\" не атрымалася. Праверце, ці ўсталявана адпаведная праграма.</string>
     <string name="three_gesture_down">Жэст 3 пальцы ўніз</string>
+    <string name="three_gesture_long_press">Націсніце і ўтрымлівайце %d пальца(-аў)</string>
     <string name="time_format_category_title">Фармат часу</string>
     <string name="time_picker_title">Час</string>
     <string name="time_spent_in_app_pref_title">Час карыстання</string>
     <string name="time_unit_just_now">Толькі што</string>
     <string name="timed_titlei">Таймер %d</string>
     <string name="timezone_settings">Часавы пояс</string>
+    <string name="tip_remove_data">"Скід на завадскія налады выдаліць гэтыя аб'екты з вашай прылады"</string>
     <string name="title_color_calibration">Перадусталёўкі карэкцыі колеру</string>
     <string name="title_convert_fbe">Перайсці да файла, які абапіраецца на шыфраванне</string>
     <string name="title_font">Шрыфт</string>
@@ -6287,7 +6530,7 @@ nOTG аўтаматычна адключаецца праз 10 хвілін бя
     <string name="tts_engine_section_title">Модуль</string>
     <string name="tts_engine_security_warning">Дадзеная сістэма сінтэзу гаворкі здольная запісваць          увесь тэкст, які будзе прамаўляцца, улучаючы персанальныя дадзеныя, такія як паролі і          нумары крэдытных карт. Гэта ажыццяўляе сістэма %s.          Дазволіць выкарыстанне гэтай сістэмы сінтэзу гаворкі?</string>
     <string name="tts_engine_settings_button">Налады сінтэзу маўлення</string>
-    <string name="tts_engine_settings_title">Налады для %s</string>
+    <string name="tts_engine_settings_title">Налады модуля</string>
     <string name="tts_general_section_title">Агульныя налады</string>
     <string name="tts_install_data_summary">Усталяваць галасавыя дадзеныя, неабходныя для сінтэзу маўлення</string>
     <string name="tts_install_data_title">Усталяванне галасавых дадзеных</string>
@@ -6318,6 +6561,7 @@ nOTG аўтаматычна адключаецца праз 10 хвілін бя
     <string name="turn_off_common_password_confirm_msg">Блакаванне экрана будзе таксама адключана.</string>
     <string name="turn_off_keyguard_password_alert_title">Адключыць</string>
     <string name="turn_off_keyguard_password_confirm_msg">Некаторыя функцыі бяспекі без пароля працаваць не будуць.</string>
+    <string name="turn_off_keyguard_password_title">Выключыць блакаванне экрана</string>
     <string name="turn_off_keyguard_password_wait_dialog">Адключэнне блакіроўкі…</string>
     <string name="turn_off_keyguard_password_with_face_confirm_msg">Пасля адключэння пароля экрана блакавання, запісаныя дадзеныя твару будуць выдаленыя. Вы не зможаце разблакаваць прыладу з дапамогай твару.</string>
     <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">Вы не зможаце разблакаваць прыладу з дапамогай адбітка пальца пасля выключэння пароля.</string>
@@ -6354,7 +6598,7 @@ nOTG аўтаматычна адключаецца праз 10 хвілін бя
     <string name="unknown_unavailability_setting_summary">Налада недаступная</string>
     <string name="unlock_change_lock_password_title">Змяніць пароль разблакоўкі</string>
     <string name="unlock_change_lock_pattern_title">Змяніць шаблон разблакоўкі</string>
-    <string name="unlock_change_lock_pin_title">Змяніць PIN</string>
+    <string name="unlock_change_lock_pin_title">Змяніць PIN-код</string>
     <string name="unlock_disable_frp_warning_content_password">Функцыі абароны прылады не будуць працаваць без пароля.</string>
     <string name="unlock_disable_frp_warning_content_password_fingerprint">"Функцыі абароны прылады не будуць працаваць без вашага пароля.
 
@@ -6391,8 +6635,9 @@ nOTG аўтаматычна адключаецца праз 10 хвілін бя
     <string name="unlock_disable_frp_warning_ok">Так, выдаліць</string>
     <string name="unlock_disable_frp_warning_title">Выдаліць абарону прылады?</string>
     <string name="unlock_disable_frp_warning_title_profile">Выдаліць абарону профілю?</string>
-    <string name="unlock_disable_lock_pin_summary">Адключыць PIN</string>
+    <string name="unlock_disable_lock_pin_summary">Адключыць PIN-код</string>
     <string name="unlock_disable_lock_title">Выключыць блакаванне экрана</string>
+    <string name="unlock_failed">Унутраная памылка</string>
     <string name="unlock_footer_high_complexity_requested">%1$s рэкамендуе задаць надзейны PIN-код або пароль. Без іх праграма не будзе працаваць належным чынам</string>
     <string name="unlock_footer_low_complexity_requested">%1$s рэкамендуе задаць новы ўзор разблакіроўкі, PIN-код або пароль. Без іх праграма не будзе працаваць належным чынам</string>
     <string name="unlock_footer_medium_complexity_requested">%1$s рэкамендуе задаць новы PIN-код або пароль. Без іх праграма не будзе працаваць належным чынам</string>
@@ -6415,7 +6660,7 @@ nOTG аўтаматычна адключаецца праз 10 хвілін бя
     <string name="unlock_set_unlock_mode_off">Няма</string>
     <string name="unlock_set_unlock_mode_password">Пароль</string>
     <string name="unlock_set_unlock_mode_pattern">Узор</string>
-    <string name="unlock_set_unlock_mode_pin">PIN-код</string>
+    <string name="unlock_set_unlock_mode_pin">PIN</string>
     <string name="unlock_set_unlock_none_summary">Функцыі бяспекі адключаныя</string>
     <string name="unlock_set_unlock_none_title">Няма</string>
     <string name="unlock_set_unlock_off_summary" />
@@ -6424,9 +6669,9 @@ nOTG аўтаматычна адключаецца праз 10 хвілін бя
     <string name="unlock_set_unlock_password_summary">Увядзіце 4 ці больш літар або лічбаў для разблакавання прылады</string>
     <string name="unlock_set_unlock_password_title">Пароль</string>
     <string name="unlock_set_unlock_pattern_summary">Намалюйце графічны ключ для разблакавання прылады</string>
-    <string name="unlock_set_unlock_pattern_title">Узор</string>
+    <string name="unlock_set_unlock_pattern_title">Графічны ключ</string>
     <string name="unlock_set_unlock_pin_summary" formatted="false">Увядзіце %d-%d лічбы(-аў) для разблакоўкі</string>
-    <string name="unlock_set_unlock_pin_title">PIN-код</string>
+    <string name="unlock_set_unlock_pin_title">PIN</string>
     <string name="unlock_set_unlock_summary">Разблакаванне экрана</string>
     <string name="unlock_setup_wizard_fingerprint_details">Пасля таго як вы наладзіце блакіроўку экрана, вы зможаце наладзіць выкарыстанне адбітка пальца ў меню Налады > Бяспека.</string>
     <string name="unlock_type_category_title">Метад распазнання</string>
@@ -6615,16 +6860,17 @@ nOTG аўтаматычна адключаецца праз 10 хвілін бя
     <string name="usb_use_photo_transfers_desc">Перадача фатаграфій або файлаў, калі МТР не падтрымліваецца (PTP)</string>
     <string name="usb_use_power_only">Зарадка падключанай прылады</string>
     <string name="usb_use_tethering">USB-мадэм</string>
+    <string name="use_control_panel">Выкарыстоўваць Цэнтр кіравання</string>
     <string name="use_location_summary">Дазволіць Google выкарыстоўваць месцазнаходжання для паляпшэння вынікаў пошуку і іншых паслуг.</string>
     <string name="use_location_title">"Месцазнаходжання і  пошук Google"</string>
     <string name="use_open_wifi_automatically_summary">Аўтаматычна падключацца да высакаякасных сетак агульнага карыстання</string>
     <string name="use_open_wifi_automatically_summary_scorer_unsupported_disabled">Для выкарыстання функцыі выберыце сумяшчальнага пастаўшчыка паслугі ацэнкі сеткі</string>
     <string name="use_open_wifi_automatically_summary_scoring_disabled">Для выкарыстання функцыі выберыце пастаўшчыка паслугі ацэнкі сеткі</string>
     <string name="use_open_wifi_automatically_title">Падключацца да адкрытых сетак</string>
-    <string name="use_otg_charge_only">Reverse charging</string>
-    <string name="use_otg_charge_only_summary">Faster 1A charging</string>
-    <string name="use_otg_file_transfers">Reverse charging &amp; transferring files</string>
-    <string name="use_otg_file_transfers_summary">Slower 500mA charging and file transfers</string>
+    <string name="use_otg_charge_only">Зваротная зарадка</string>
+    <string name="use_otg_charge_only_summary">Хуткая зарадка на 1,8А</string>
+    <string name="use_otg_file_transfers">Зваротная зарадка і перадача файлаў</string>
+    <string name="use_otg_file_transfers_summary">Павольная зарадка на 500 мА і перадача файлаў</string>
     <string name="use_otg_title">USB On-The-Go</string>
     <string name="use_personalized_ad_service">Асабістыя рэкамендацыі</string>
     <string name="use_personalized_ad_service_summary">"Калі гэтая функцыя адключана, вы, як і раней, будзеце бачыць такую ж колькасць аб'яў, але ўжо не на падставе дадзеных пра вашы паводзіны або асабістай інфармацыі."</string>
@@ -6906,11 +7152,11 @@ nOTG аўтаматычна адключаецца праз 10 хвілін бя
     <string name="vpn_version">Версія %s</string>
     <string name="vr_listener_security_warning_summary">%1$s зможа выконвацца, калі вы выкарыстоўваеце праграмы ў рэжыме віртуальнай рэальнасці.</string>
     <string name="vr_listener_security_warning_title">Дазволіць сэрвісу віртуальнай рэальнасці (VR) доступ да %1$s?</string>
-    <string name="vr_listeners_title">Дапаможныя VR-сэрвісы</string>
+    <string name="vr_listeners_title">Паслугі VR-памочніка</string>
     <string name="vt_provisioned_switch_string">Відэавыклікі забяспечаны</string>
     <string name="wait_for_debugger">Чаканне адладжвальніка</string>
     <string name="wait_for_debugger_summary">Праграма, якая адладжваеца, будзе чакаць адладжвальніка перад запускам</string>
-    <string name="wake_suppression_summary">Прылада можа рэагаваць на выпадковы дотык, але таксама рэагуе на жэсты кіравання каля краёў</string>
+    <string name="wake_suppression_summary">Прылада можа мацней рэагаваць на выпадковыя дотыкі, а таксама на некаторыя элементы кіравання жэстамі паблізу ад краёў</string>
     <string name="wake_suppression_title">Маленькая вобласць</string>
     <string name="wakeup_and_sleep_settings_category_name">Налады экрана блакавання</string>
     <string name="wakeup_for_keyguard_notification_title">Абудзіць экран пры атрыманні апавяшчэнняў</string>
@@ -7588,7 +7834,7 @@ nOTG аўтаматычна адключаецца праз 10 хвілін бя
     <string name="zen_custom_settings_notifications_header">Апавяшчэнні</string>
     <string name="zen_event_rule_enabled_toast">Аўтаматычнае правіла, усталяванае для ўключэння рэжыму «Не турбаваць» падчас пэўных падзей</string>
     <string name="zen_event_rule_type_name">Падзея</string>
-    <string name="zen_interruption_level_priority">Толькі важнае</string>
+    <string name="zen_interruption_level_priority">Толькі прыярытэтныя</string>
     <string name="zen_mode_add">Дадаць</string>
     <string name="zen_mode_add_event_rule">Дадаць расклад падзей</string>
     <string name="zen_mode_add_rule">Дадаць яшчэ</string>
@@ -7650,7 +7896,7 @@ nOTG аўтаматычна адключаецца праз 10 хвілін бя
     <string name="zen_mode_delete_rule_button">Выдаліць</string>
     <string name="zen_mode_delete_rule_confirmation">Выдаліць правіла “%1$s”?</string>
     <string name="zen_mode_duration_always_prompt_title">Пытацца заўсёды</string>
-    <string name="zen_mode_duration_settings_title">Працягласць</string>
+    <string name="zen_mode_duration_settings_title">Стандартная працягласць</string>
     <string name="zen_mode_duration_summary_always_prompt">Заўсёды пытацца</string>
     <string name="zen_mode_duration_summary_forever">Пакуль не выключыце</string>
     <string name="zen_mode_duration_summary_time_minutes">%d хв</string>
@@ -7747,7 +7993,7 @@ nOTG аўтаматычна адключаецца праз 10 хвілін бя
     <string name="zen_mode_settings_dnd_manual_indefinite">Рэжым \"Не турбаваць\" будзе ўключаны, пакуль вы яго не выключыце</string>
     <string name="zen_mode_settings_summary_off">Ніколі</string>
     <string name="zen_mode_settings_title">Не турбаваць</string>
-    <string name="zen_mode_settings_turn_on_dialog_title">Рэжым \"Не турбаваць\"</string>
+    <string name="zen_mode_settings_turn_on_dialog_title">Уключэнне рэжыму \"Не турбаваць\"</string>
     <string name="zen_mode_slice_subtitle">Абмежаванне колькасці непатрэбных апавяшчэнняў</string>
     <string name="zen_mode_sound_summary_off">Выключана</string>
     <string name="zen_mode_sound_summary_off_with_info">Выключана / %1$s</string>
@@ -7796,8 +8042,10 @@ nOTG аўтаматычна адключаецца праз 10 хвілін бя
     <string name="zone_auto_summaryOn">Выкарыстоўваць гадзінны пояс аператара сеткі</string>
     <string name="zone_auto_title">Выкарыстоўваць часавы пояс сеткі</string>
     <string name="zone_change_to_from_dst">Змена на %1$s пачынаецца %2$s.</string>
+    <string name="zone_info_exemplar_location_and_offset">%1$s (%2$s)</string>
     <string name="zone_info_footer">Выкарыстоўваецца %1$s. Пераход на %2$s: %3$s.</string>
     <string name="zone_info_footer_no_dst">Выкарыстоўваецца %1$s. Без пераходу на летні час.</string>
+    <string name="zone_info_offset_and_name">%2$s (%1$s)</string>
     <string name="zone_list_menu_sort_alphabetically">Сартаваць па алфавіце</string>
     <string name="zone_list_menu_sort_by_timezone">Сартаваць па гадзіннаму поясу</string>
     <string name="zone_menu_by_offset">Выбраць зрушванне адносна UTC</string>

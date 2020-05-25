@@ -6,4 +6,10 @@
         <item quantity="few">" %1$s гадзіны %2$s"</item>
         <item quantity="many">" %1$s гадзін %2$s"</item>
     </plurals>
+    <plurals name="count_selected">
+        <item quantity="other">"Абрана %d аб'ектаў"</item>
+        <item quantity="one">"Абраны %d аб'ект"</item>
+        <item quantity="few">"Абрана %d аб'екта"</item>
+        <item quantity="many">"Абрана %d аб'ектаў"</item>
+    </plurals>
 </resources>

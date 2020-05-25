@@ -1,8 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="extra_photo_common_save_fail">Памылка захавання</string>
     <string name="extra_photo_common_saving">Захаванне…</string>
-    <string name="motion_photo_re_pick_title">Выберыце лепшае фота</string>
+    <string name="motion_photo_cancel">Адмена</string>
+    <string name="motion_photo_re_pick_title">Жывое фота</string>
+    <string name="motion_photo_save_fail">Памылка захавання</string>
+    <string name="motion_photo_save_gif">Захаваць як GIF</string>
+    <string name="motion_photo_save_gif_ing">Захаванне GIF…</string>
+    <string name="motion_photo_save_image">Захаваць лепшую выяву</string>
+    <string name="motion_photo_save_image_ing">Захаванне лепшай выявы…</string>
+    <string name="motion_photo_save_video">Захаваць як відэа</string>
+    <string name="motion_photo_save_video_ing">Захаванне відэа…</string>
     <string name="motion_photo_toast_default">Па змоўчанні</string>
+    <string name="motion_photo_toast_long_press_play">Націсніце і ўтрымлівайце фота для прайгравання</string>
     <string name="motion_photo_toast_suggest">Рэкамендавана</string>
     <string name="refocus_discard_confirm_message">Захаваць змены?</string>
     <string name="refocus_discard_negative_btn">Адмяніць</string>

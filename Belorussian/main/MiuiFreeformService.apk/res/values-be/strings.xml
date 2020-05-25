@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">свободная форма</string>
+    <string name="contentDescription">Перасоўванне акна</string>
+    <string name="freeform_demo_back">Назад</string>
+    <string name="freeform_demo_final_over">Гатова</string>
+    <string name="freeform_demo_final_restart">Пачаць спачатку</string>
+    <string name="freeform_demo_final_title">Усё гатова!</string>
+    <string name="freeform_demo_go_on">Далей</string>
+    <string name="freeform_demo_title_finish">Цудоўна!</string>
+    <string name="freeform_demo_title_skip">Прапусціць</string>
+    <string name="how_to_close_or_fullscreen_freeform">Закрыццё вокнаў, якія плаваюць, і пераключэнне ў поўнаэкранны рэжым</string>
+    <string name="how_to_drop_down_to_fullscreen">Пераключэнне ў поўнаэкранны рэжым</string>
+    <string name="how_to_drop_down_to_fullscreen_summary">Націсніце і ўтрымлівайце, а затым пацягніце ўніз панэль дзеянняў акна, якое плавае</string>
+    <string name="how_to_hang_freeform">Згортванне вокнаў, якія плаваюць</string>
+    <string name="how_to_hang_to_small_freeform">Згарнуць акно, якое плавае</string>
+    <string name="how_to_hang_to_small_freeform_summary">Перацягніце акно, якое плавае, у кут экрана</string>
+    <string name="how_to_move_freeform">Перамяшчэньне вокнаў, якія плаваюць</string>
+    <string name="how_to_move_freeform_window">Перамяшчэньне акна, якое плаваець</string>
+    <string name="how_to_move_freeform_window_summary">Утрымлівайце палец на панэлі дзеянняў акна, якое плавае, каб перамясціць яго</string>
+    <string name="how_to_notification_drop_down">Адкрыйце акно, якое плавае</string>
+    <string name="how_to_notification_drop_down_summary">Націсніце і ўтрымлівайце, а затым пацягніце панэль дзеянняў апавяшчэння ўніз</string>
+    <string name="how_to_open_freeform">Адкрыццё апавяшчэнняў у акне, якое плавае</string>
+    <string name="how_to_slide_up_to_close">Зачыніце акно, якое плавае</string>
+    <string name="how_to_slide_up_to_close_summary">Правядзіце ўверх па панэлі дзеянняў акна, якое плавае</string>
+    <string name="how_to_use_freeform">Як карыстацца вокнамі, якія плаваюць</string>
+</resources>

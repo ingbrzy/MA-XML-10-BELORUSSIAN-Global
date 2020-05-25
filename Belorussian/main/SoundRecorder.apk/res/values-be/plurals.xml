@@ -42,6 +42,18 @@
         <item quantity="few">%d запісы спампавана</item>
         <item quantity="many">%d запісаў спампавана</item>
     </plurals>
+    <plurals name="search_alll_records_hint">
+        <item quantity="other">Пошук сярод %d запісаў</item>
+        <item quantity="one">Пошук сярод %d запісу</item>
+        <item quantity="few">Пошук сярод %d запісаў</item>
+        <item quantity="many">Пошук сярод %d запісаў</item>
+    </plurals>
+    <plurals name="search_call_records_hint">
+        <item quantity="other">Пошук сярод %d запісаў выкліку</item>
+        <item quantity="one">Пошук сярод %d запісу выкліку</item>
+        <item quantity="few">Пошук сярод %d запісаў выкліку</item>
+        <item quantity="many">Пошук сярод %d запісаў выкліку</item>
+    </plurals>
     <plurals name="search_result">
         <item quantity="other">Знойдзена %d запісу</item>
         <item quantity="one">Знойдзен %d запіс</item>

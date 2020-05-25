@@ -6,6 +6,18 @@
         <item quantity="few">%d дні</item>
         <item quantity="many">%d дзён</item>
     </plurals>
+    <plurals name="steady_on_screen_notification_summary">
+        <item quantity="other">Вы бесперапынна выкарыстоўвалі прыладу на працягу %d хвілін</item>
+        <item quantity="one">Вы бесперапынна выкарыстоўвалі прыладу на працягу %d хвіліны</item>
+        <item quantity="few">Вы бесперапынна выкарыстоўвалі прыладу на працягу %d хвілін</item>
+        <item quantity="many">Вы бесперапынна выкарыстоўвалі прыладу на працягу %d хвілін</item>
+    </plurals>
+    <plurals name="steady_on_screen_time_pick">
+        <item quantity="other">%d хв.</item>
+        <item quantity="one">%d хв.</item>
+        <item quantity="few">%d хв.</item>
+        <item quantity="many">%d хв.</item>
+    </plurals>
     <plurals name="trend_from_last_several_day_equal">
         <item quantity="other">Сённяшні экранны час роўны вашаму сярэдняму %d-дзённаму паказчыку</item>
         <item quantity="one">Сённяшні экранны час роўны вашаму сярэдняму %d-дзённаму паказчыку</item>
@@ -35,6 +47,36 @@
         <item quantity="one">%d дзень</item>
         <item quantity="few">%d дні</item>
         <item quantity="many">%d дзён</item>
+    </plurals>
+    <plurals name="usage_new_home_avg_unlockc">
+        <item quantity="other">У сярэднім %.2f разоў у дзень</item>
+        <item quantity="one">У сярэднім %.2f раз у дзень</item>
+        <item quantity="few">У сярэднім %.2f разы ў дзень</item>
+        <item quantity="many">У сярэднім %.2f разоў у дзень</item>
+    </plurals>
+    <plurals name="usage_new_home_total_unlocks">
+        <item quantity="other">Разблакавана %d разоў</item>
+        <item quantity="one">Разблакавана %d раз</item>
+        <item quantity="few">Разблакавана %d разы</item>
+        <item quantity="many">Разблакавана %d разоў</item>
+    </plurals>
+    <plurals name="usage_new_home_total_week_unlocks">
+        <item quantity="other">Разблакавана %d разоў</item>
+        <item quantity="one">Разблакавана %d раз</item>
+        <item quantity="few">Разблакавана %d разы</item>
+        <item quantity="many">Разблакавана %d разоў</item>
+    </plurals>
+    <plurals name="usage_remain_about_hour">
+        <item quantity="other">≈%s гадз.</item>
+        <item quantity="one">≈%s гадз.</item>
+        <item quantity="few">≈%s гадз.</item>
+        <item quantity="many">≈%s гадз.</item>
+    </plurals>
+    <plurals name="usage_remain_about_miunte">
+        <item quantity="other">≈%s хв.</item>
+        <item quantity="one">≈%s хв.</item>
+        <item quantity="few">≈%s хв.</item>
+        <item quantity="many">≈%s хв.</item>
     </plurals>
     <plurals name="usage_state_device_explain_today">
         <item quantity="other">%d разблакіровак</item>
@@ -131,6 +173,18 @@
         <item quantity="one">Будні: %d хвіліна</item>
         <item quantity="few">Будні: %d хвіліны</item>
         <item quantity="many">Будні: %d хвілін</item>
+    </plurals>
+    <plurals name="usage_stats_remain_hour">
+        <item quantity="other">%s гадз.</item>
+        <item quantity="one">%s гадз.</item>
+        <item quantity="few">%s гадз.</item>
+        <item quantity="many">%s гадз.</item>
+    </plurals>
+    <plurals name="usage_stats_remain_miunte">
+        <item quantity="other">%s хв.</item>
+        <item quantity="one">%s хв.</item>
+        <item quantity="few">%s хв.</item>
+        <item quantity="many">%s хв.</item>
     </plurals>
     <plurals name="usagestats_device_notification_des_hour">
         <item quantity="other">" г"</item>

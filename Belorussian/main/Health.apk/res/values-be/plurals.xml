@@ -6,6 +6,12 @@
         <item quantity="few">%1$d-%2$d times</item>
         <item quantity="many">%1$d-%2$d times</item>
     </plurals>
+    <plurals name="cousume_unit_format">
+        <item quantity="other">%1$d кал.</item>
+        <item quantity="one">%1$d кал.</item>
+        <item quantity="few">%1$d кал.</item>
+        <item quantity="many">%1$d кал.</item>
+    </plurals>
     <plurals name="daily_suggestions_steps">
         <item quantity="other">Walk at least %1$d steps every day</item>
         <item quantity="one">Walk at least %1$d step every day</item>
@@ -43,10 +49,28 @@
         <item quantity="many">%1$d запісаў</item>
     </plurals>
     <plurals name="dream_talk_segment_unit">
-        <item quantity="other">recordings</item>
-        <item quantity="one">recording</item>
-        <item quantity="few">recordings</item>
-        <item quantity="many">recordings</item>
+        <item quantity="other">" instances"</item>
+        <item quantity="one">" instance"</item>
+        <item quantity="few">" instances"</item>
+        <item quantity="many">" instances"</item>
+    </plurals>
+    <plurals name="duration_unit_hour_format">
+        <item quantity="other">%1$d г</item>
+        <item quantity="one">%1$d г</item>
+        <item quantity="few">%1$d г</item>
+        <item quantity="many">%1$d г</item>
+    </plurals>
+    <plurals name="duration_unit_minute_format">
+        <item quantity="other">%1$d хв.</item>
+        <item quantity="one">%1$d хв.</item>
+        <item quantity="few">%1$d хв.</item>
+        <item quantity="many">%1$d хв.</item>
+    </plurals>
+    <plurals name="duration_unit_second_format">
+        <item quantity="other">%1$d сек.</item>
+        <item quantity="one">%1$d сек.</item>
+        <item quantity="few">%1$d сек.</item>
+        <item quantity="many">%1$d сек.</item>
     </plurals>
     <plurals name="goal_format_with_unit">
         <item quantity="other">Мэта: %1$d крокаў</item>
@@ -71,6 +95,12 @@
         <item quantity="one">%1$d hr</item>
         <item quantity="few">%1$d hrs</item>
         <item quantity="many">%1$d hrs</item>
+    </plurals>
+    <plurals name="length_unit_meter_format">
+        <item quantity="other">%1$d метраў</item>
+        <item quantity="one">%1$d метр</item>
+        <item quantity="few">%1$d метра</item>
+        <item quantity="many">%1$d метраў</item>
     </plurals>
     <plurals name="menstruation_sum_days">
         <item quantity="other">%1$d-дзённыя месячныя</item>

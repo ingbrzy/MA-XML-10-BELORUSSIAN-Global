@@ -249,5 +249,5 @@
     <string name="toast_only_wifi_download">"Падключыцеся да Wi-Fi, каб спампаваць гэты аб'ект"</string>
     <string name="total_speedup">Паскарэнне (усяго)</string>
     <string name="version">Версія: %s</string>
-    <string name="security_ui_title">Security ads</string>
+    <string name="security_ui_title">Рэклама ў сферы бяспекі</string>
 </resources>

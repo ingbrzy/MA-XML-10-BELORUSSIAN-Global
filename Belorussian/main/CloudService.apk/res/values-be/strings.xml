@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="abc_action_bar_home_description">Перайсці на галоўную старонку</string>
+    <string name="abc_action_bar_up_description">Перайсці ўверх</string>
+    <string name="abc_action_menu_overflow_description">Дадатковыя параметры</string>
+    <string name="abc_action_mode_done">Гатова</string>
+    <string name="abc_activity_chooser_view_see_all">Паказаць усе</string>
+    <string name="abc_activitychooserview_choose_application">Выберыце праграму</string>
+    <string name="abc_capital_off">ВЫКЛ.</string>
+    <string name="abc_capital_on">УКЛ.</string>
+    <string name="abc_menu_alt_shortcut_label">Alt +</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
+    <string name="abc_menu_delete_shortcut_label">Delete</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">Fn +</string>
+    <string name="abc_menu_meta_shortcut_label">Meta +</string>
+    <string name="abc_menu_shift_shortcut_label">Shift +</string>
+    <string name="abc_menu_space_shortcut_label">Прабел</string>
+    <string name="abc_menu_sym_shortcut_label">Sym +</string>
+    <string name="abc_prepend_shortcut_label">Меню +</string>
+    <string name="abc_search_hint">Пошук…</string>
+    <string name="abc_searchview_description_clear">Выдаліць запыт</string>
+    <string name="abc_searchview_description_query">Пошукавы запыт</string>
+    <string name="abc_searchview_description_search">Пошук</string>
+    <string name="abc_searchview_description_submit">Адправіць запыт</string>
+    <string name="abc_searchview_description_voice">Галасавы пошук</string>
+    <string name="abc_shareactionprovider_share_with">Абагуліць праз</string>
+    <string name="abc_shareactionprovider_share_with_application">Абагуліць праз праграму \"%s\"</string>
+    <string name="abc_toolbar_collapse_description">Згарнуць</string>
     <string name="access_denied">Доступ забаронены</string>
     <string name="account_related">Прылада звязана з існуючым Mi Акаўнтам (%s). Падключыцеся да сеткі, каб праверыць прыладу.</string>
     <string name="activate_find_device_success">Пошук прылады актывіраваны.</string>
@@ -8,7 +35,7 @@
     <string name="add_short_cut">Дадаць</string>
     <string name="added_successfully">Дададзена</string>
     <string name="antispam_sync">Рэжым \"Не турбаваць\"</string>
-    <string name="app_name">Cloud</string>
+    <string name="app_name">Xiaomi Cloud</string>
     <string name="bad_authentication">Няправільнае імя або пароль</string>
     <string name="btn_return">Назад</string>
     <string name="button_cancel">Скасаваць</string>
@@ -24,6 +51,7 @@
     <string name="cloud_storage_default_title">Воблачнае сховішча</string>
     <string name="cloud_storage_info_type_drive">Mi Drive</string>
     <string name="cloud_storage_info_type_duokan">Duokan</string>
+    <string name="cloud_storage_info_type_family">"Сям'я"</string>
     <string name="cloud_storage_info_type_others">Іншае</string>
     <string name="cloud_storage_info_type_pdc">Сістэмныя налады</string>
     <string name="cloud_storage_loading_data">Секундачку…</string>
@@ -34,20 +62,22 @@
     <string name="confirm_save">Захаваць</string>
     <string name="connect_network">Падключыцеся да Wi-Fi або ўстаўце SIM-карту</string>
     <string name="connect_wlan">Падключыцца да Wi-Fi</string>
+    <string name="copy">Капіраваць</string>
     <string name="data_merge_dialog_alert_active_on_phone_msg_more_than_two">"Гэты акаўнт таксама выкарыстоўваецца на іншай прыладзе. Аб'яднаць аб'екты з некалькіх праграм (уключаючы %1$s і %2$s) з аб'ектамі на гэтай прыладзе?"</string>
     <string name="data_merge_dialog_alert_active_on_phone_msg_one">"Гэты акаўнт таксама выкарыстоўваецца на іншай прыладзе. Аб'яднаць аб'екты з %s з аб'ектамі на гэтай прыладзе?"</string>
     <string name="data_merge_dialog_alert_active_on_phone_msg_two">"Гэты акаўнт таксама выкарыстоўваецца на іншай прыладзе. Аб'яднаць аб'екты з %1$s і %2$s з аб'ектамі на гэтай прыладзе?"</string>
-    <string name="data_merge_dialog_alert_msg_more_than_two">"Аб'екты з некалькіх праграм (уключаючы %1$ss і %2$s) на гэтай прыладзе будуць аб'яднаныя з аб'ектамі ў воблаку. Аб'яднаць аб'екты зараз?"</string>
-    <string name="data_merge_dialog_alert_msg_more_than_two_pad">"Аб'екты з некалькіх праграм (уключаючы %1$ss і %2$s) на гэтай прыладзе будуць аб'яднаныя з аб'ектамі ў воблаку. Аб'яднаць аб'екты зараз?"</string>
-    <string name="data_merge_dialog_alert_msg_one">"Аб'екты з %s на гэтай прыладзе будуць аб'яднаныя з аб'ектамі ў воблаку. Аб'яднаць аб'екты зараз?"</string>
-    <string name="data_merge_dialog_alert_msg_one_pad">"Аб'екты з %s на гэтай прыладзе будуць аб'яднаныя з аб'ектамі ў воблаку. Аб'яднаць аб'екты зараз?"</string>
-    <string name="data_merge_dialog_alert_msg_two">"Аб'екты з %1$ss і %2$s на гэтай прыладзе будуць аб'яднаныя з аб'ектамі ў воблаку. Аб'яднаць аб'екты зараз?"</string>
-    <string name="data_merge_dialog_alert_msg_two_pad">"Аб'екты з %1$ss і %2$s на гэтай прыладзе будуць аб'яднаныя з аб'ектамі ў воблаку. Аб'яднаць аб'екты зараз?"</string>
+    <string name="data_merge_dialog_alert_msg_more_than_two">"Аб'екты з некалькіх крыніц, уключаючы %1$s і %2$s, захаваны ў Xiaomi Cloud. Сінхранізаваць і аб'яднаць іх з аб'ектамі на гэтай прыладзе?"</string>
+    <string name="data_merge_dialog_alert_msg_more_than_two_pad">"Аб'екты з некалькіх крыніц, уключаючы %1$s і %2$s, захаваны ў Xiaomi Cloud. Сінхранізаваць і аб'яднаць іх з аб'ектамі на гэтай прыладзе?"</string>
+    <string name="data_merge_dialog_alert_msg_one">"Аб'екты з %s захоўваюцца ў Xiaomi Cloud. Сінхранізаваць і аб'яднаць іх з аб'ектамі на гэтай прыладзе?"</string>
+    <string name="data_merge_dialog_alert_msg_one_pad">"Аб'екты з %s захоўваюцца ў Xiaomi Cloud. Сінхранізаваць і аб'яднаць іх з аб'ектамі на гэтай прыладзе?"</string>
+    <string name="data_merge_dialog_alert_msg_two">"Аб'екты з %1$s і %2$s захаваны ў Xiaomi Cloud. Сінхранізаваць і аб'яднаць іх з аб'ектамі на гэтай прыладзе?"</string>
+    <string name="data_merge_dialog_alert_msg_two_pad">"Аб'екты з %1$s і %2$s захаваны ў Xiaomi Cloud. Сінхранізаваць і аб'яднаць іх з аб'ектамі на гэтай прыладзе?"</string>
     <string name="data_merge_dialog_loading">Праверка дадзеных…</string>
+    <string name="data_merge_dialog_title">"Аб'яднаць аб'екты"</string>
     <string name="data_protection_title">Абарона дадзеных</string>
     <string name="detect_sim_card">Пошук SIM-карты</string>
     <string name="disable_find_device_error">Не атрымалася адключыць пошук прылады. %1$s</string>
-    <string name="do_not_merge">"Не аб'ядноўваць"</string>
+    <string name="do_not_merge">Адмена</string>
     <string name="enable_find_device_error">Не атрымалася ўключыць пошук прылады. %1$s</string>
     <string name="enable_find_device_success">Пошук прылады ўключаны.</string>
     <string name="enable_micloud">Увайдзіце для выкарыстання Xiaomi Cloud</string>
@@ -57,8 +87,12 @@
     <string name="error_network">Немагчыма злучыцца з сеткай</string>
     <string name="error_server">Памылка сервера</string>
     <string name="error_unknown">Памылка аўтарызацыі</string>
+    <string name="expand_button_title">Пашыраныя налады</string>
+    <string name="feedback_custom_hint">Апішыце праблемы, з якімі вы сутыкнуліся. Калі вы можаце падаць прапановы, мы будзем удзячныя за больш падрабязную інфармацыю!</string>
     <string name="find_device">Пошук прылады</string>
     <string name="find_device_dspt_provision">Пры страце прылады вы зможаце выявіць яе месцазнаходжанне, заблакаваць або ачысціць дадзеныя на &lt;font color=#0097FF>%s&lt;/font>. Гэтую функцыю можна актываваць у Наладах у любы час.</string>
+    <string name="find_device_dspt_provision_2">i.mi.com</string>
+    <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
     <string name="find_device_error_network">Праверце злучэнне з інтэрнэтам і паўтарыце спробу.</string>
     <string name="find_device_error_server">Памылка сервера</string>
     <string name="find_device_gdpr_prompt">Уключыўшы Пошук прылады, вы прымаеце нашу <a href="app://com.miui.cloudservice.gdpr.license"><u>Палітыку прыватнасці</u></a>. Для скасавання дазволу адключыце гэтую функцыю.</string>
@@ -115,6 +149,9 @@
     <string name="menu_add_feedback">Водгук</string>
     <string name="menu_add_short_cut">Стварыць ярлык на Галоўным экране</string>
     <string name="merge">"Аб'яднаць"</string>
+    <string name="mi_drive_not_publish_toast">Хутка стане даступны Mi Drive</string>
+    <string name="mi_drive_summary">Атрымлівайце доступ да дакументаў у Xiaomi Cloud на некалькіх прыладах</string>
+    <string name="mi_drive_title">Mi Drive</string>
     <string name="micloud_alert_dialog_positive">ОК</string>
     <string name="micloud_all_sub_1_intl_sms">Міжнароднае SMS будзе адпраўлена для актывацыі SIM-карты. За гэта спаганяецца плата аператарам.</string>
     <string name="micloud_all_sub_1_sms">Звычайнае SMS будзе адпраўлена для актывацыі SIM-карты. За гэта спаганяецца плата аператарам.</string>
@@ -195,15 +232,18 @@
     <string name="micloud_find_device_open_fail">Не атрымалася ўключыць пошук прылады</string>
     <string name="micloud_find_device_opened">Пошук прылады ўключаны</string>
     <string name="micloud_find_device_opened_content">Знайдзіце сваю прыладу на %s</string>
+    <string name="micloud_find_device_opened_content_url">i.mi.com</string>
     <string name="micloud_find_device_sms_alert">Для актывацыі дадзенай паслугі будзе адпраўлена SMS. Аплата спаганяецца згодна тарыфу вашага аператара. Пры замене SIM-карты будзе аўтаматычна можа быць адпраўлена SMS для паўторнай актывацыі.</string>
     <string name="micloud_find_device_verify_button">Уключыць Пошук прылады</string>
     <string name="micloud_find_device_verify_close">Выключыць Пошук прылады</string>
     <string name="micloud_find_device_verify_fail">Не ўдалося актываваць Пошук прылады</string>
     <string name="micloud_find_device_verify_progress">Уключэнне Пошуку прылады…</string>
+    <string name="micloud_footer_international_url">mi.com/micloud</string>
+    <string name="micloud_footer_normal_url">i.mi.com</string>
     <string name="micloud_last_sync_canceled">Сінхранізацыя была адменена. Паўтарыце спробу.</string>
     <string name="micloud_main_head_menu_cloud_backup">Рэзервовая копія галоўнага экрана</string>
-    <string name="micloud_main_head_menu_cloud_backup_summary">Макет алоўнага экрана, праграмы і сістэмныя налады</string>
-    <string name="micloud_main_head_menu_finddevice_summary">Пошук і блакаванне прылады пры яе страце</string>
+    <string name="micloud_main_head_menu_cloud_backup_summary">Налады сістэмы і галоўнага экрана</string>
+    <string name="micloud_main_head_menu_finddevice_summary">Знайсці і заблакаваць вашу прыладу</string>
     <string name="micloud_main_head_menu_finddevice_unavailable">Пошук прылады недаступны з Другога сховішча.</string>
     <string name="micloud_main_head_menu_recycle_bin_summary">"Аднавіць выдаленыя аб'екты"</string>
     <string name="micloud_main_head_menu_recycle_bin_title">"Выдаленыя аб'екты"</string>
@@ -364,6 +404,7 @@
     <string name="mx_sub_dspt_provision_with_voip">Інтэрнэт тэлефанія</string>
     <string name="mx_voip_dspt">Mi Voice</string>
     <string name="no_sim">SIM-карта не знойдзена</string>
+    <string name="not_set">Не зададзена</string>
     <string name="pay_info_dialog_confirm_to_pay">Аплаціць %s</string>
     <string name="pay_info_dialog_mibi_balance_prefix">Выкарыстоўваць астатнія Mi Credits: %s</string>
     <string name="pay_info_dialog_title">Выберыце спосаб аплаты</string>
@@ -373,6 +414,7 @@
     <string name="pref_summary_sync_display_photo_on_wifi_only">Сінхранізаваць фота кантактаў толькі праз Wi-Fi</string>
     <string name="pref_title_sync_contacts_title">Сінхранізаваць кантакты</string>
     <string name="pref_title_sync_display_photo_on_wifi_only">Фота толькі па Wi-Fi</string>
+    <string name="preference_copied">\"%1$s\": скапіравана ў буфер абмену.</string>
     <string name="privacy_and_agreement">Умовы выкарыстання</string>
     <string name="privacy_dialog_finddevice_all_purpose_pad">Сардэчна запрашаем у Пошук прылады! Калі вы страціце сваю прыладу, вы можаце скарыстацца гэтым сэрвісам для пошуку і блакавання прылады і выдалення дадзеных з яе.</string>
     <string name="privacy_dialog_finddevice_all_purpose_phone">Сардэчна запрашаем у Пошук прылады! Калі вы страціце сваю прыладу, вы можаце скарыстацца гэтым сэрвісам для пошуку і блакавання прылады і выдалення дадзеных з яе.</string>
@@ -394,6 +436,7 @@
     <string name="search_finddevice_pref_desc">Уключыць/адключыць пошук прылады</string>
     <string name="search_finddevice_pref_key_words">пошук прылад, пошук прылад</string>
     <string name="search_finddevice_pref_path">Mi акаўнт/Xiaomi Cloud/Пошук прылады</string>
+    <string name="search_menu_title">Пошук</string>
     <string name="share_cancel">Адпраўка скасавана</string>
     <string name="share_failed">Не атрымалася адправіць</string>
     <string name="share_miliao_not_installed">Mi Talk не ўсталяваны.</string>
@@ -404,16 +447,21 @@
     <string name="soundrecorder_sync_only_in_wifi">Толькі па Wi-Fi</string>
     <string name="soundrecorder_sync_only_in_wifi_summary">Дыктафон не будзе выкарыстоўваць мабільны інтэрнэт для спампавання і запампавання запісаў</string>
     <string name="soundrecorder_sync_records">Сінхранізаваць з Xiaomi Cloud</string>
+    <string name="special_func_title">Асаблівыя функцыі</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_manage_expansion">Атрымаць больш</string>
     <string name="storage_manage_list_title">Воблачныя дадзеныя</string>
     <string name="storage_manage_list_title_action">Паказаць больш</string>
     <string name="storage_manage_renewal">Узнавіць</string>
     <string name="storage_manage_title">Змена тарыфу воблачнага сховішчы</string>
     <string name="storage_manage_upgrade">Абнавіць</string>
+    <string name="storage_upgrade_card_summary">Атрымаць больш месца ў воблачным сховішчы</string>
+    <string name="storage_upgrade_card_title">Павысьце узровень вашага плана</string>
     <string name="sub_alert_notif_content">Уключыць Xiaomi Cloud</string>
     <string name="sub_alert_notif_title">Сінхранізаваць з Xiaomi Cloud</string>
     <string name="sub_sync_item_sms_summary">Сінхранізаваць паведамленні, якія змяшчаюць фатаграфіі, аўдыя ці іншыя мультымедыйныя файлы, толькі калі вы падлучаныя да сеткі Wi-Fi</string>
     <string name="sub_sync_item_sms_title_wifi_only">MMS толькі па Wi-Fi</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sync_detail_summary_master_sync_off">Сінхранізацыя адключана</string>
     <string name="sync_detail_summary_off">Сінхранізацыя адключана</string>
     <string name="sync_detail_text">Падрабязнасці сінхранізацыі</string>
@@ -426,6 +474,8 @@
     <string name="sync_dspt_entrance_provision_network">Для звычайнай працы дадатку неабходнае падлучэнне да інтэрнэту. Сінхранізацыя магчыма праз мабільную сетку і Wi-Fi.</string>
     <string name="sync_dspt_entrance_provision_skip">Прапусціць</string>
     <string name="sync_dspt_provision">"Сінхранізуйце фатаграфіі, кантакты, нататкі і многае іншае на ўсіх вашых прыладах або атрымаць доступ да іх у "</string>
+    <string name="sync_dspt_provision2">i.mi.com</string>
+    <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
     <string name="sync_dspt_provision3">". Адключыць гэтую функцыю можна ў наладах.
 "</string>
     <string name="sync_item_calllog_summary">Сінхранізаваць журнал уваходных і выходных выклікаў</string>
@@ -455,6 +505,8 @@
 "</string>
     <string name="user_agreement_title">Умовы выкарыстання Xiaomi Cloud</string>
     <string name="user_storage_info_available_text_prefix">%s даступна</string>
+    <string name="v7_preference_off">ВЫКЛ.</string>
+    <string name="v7_preference_on">УКЛ.</string>
     <string name="waiting_for_sync">Чаканне…</string>
     <string name="warning_bar_action_add_short_cut">Дадаць</string>
     <string name="warning_bar_action_close">Закрыць</string>
@@ -475,6 +527,6 @@
     <string name="wipe_data_dialog_title">"Аб'екты не сінхранізаваны"</string>
     <string name="wipe_data_query_progress_title">Праверка…</string>
     <string name="wipe_secret_photo_dialog_title">Схаваныя фота не сінхранізаваны</string>
-    <string name="xiaomi_cloud_service">Cloud</string>
+    <string name="xiaomi_cloud_service">Xiaomi Cloud</string>
     <string name="xiaomi_cloud_service_subtitle">"Усе важныя аб'екты ў адным месцы"</string>
 </resources>

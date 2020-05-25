@@ -27,6 +27,7 @@
     <string name="abc_shareactionprovider_share_with">Абагуліць праз</string>
     <string name="abc_shareactionprovider_share_with_application">Абагуліць праз праграму \"%s\"</string>
     <string name="abc_toolbar_collapse_description">Згарнуць</string>
+    <string name="agree_description">Дазволіць гэтай праграме доступ да інтэрнэту для выкарыстання ўсіх яе функцый.</string>
     <string name="alert_message_clear_records">Выдаліць выбраныя запісы?</string>
     <string name="alert_message_delete_local_record">Выдаліць запіс?</string>
     <string name="alert_message_delete_record">Выдаленне запісу з прылады таксама выдаліць яго і з Xiaomi Cloud. Выдаліць зараз?</string>
@@ -48,6 +49,7 @@
     <string name="cloud_status_full_dialog_msg">Ваша воблачнае сховішча запоўнена, запісу не могуць быць сінхранізаваныя. Абнавіце свой рахунак, каб атрымаць больш воблачнай прасторы.</string>
     <string name="cloud_status_full_dialog_ok">Абнавіць</string>
     <string name="cloud_status_full_dialog_title">Сховішча Xiaomi Cloud запоўнена</string>
+    <string name="copy">Капіраваць</string>
     <string name="data_connection_body">Выкарыстанне мабільнага інтэрнэту для спампоўкі гэтага файла павялічыць расход трафіка. Калі вы перавысіце ліміт трафіка, усталяваны вашым тарыфам, ваш аператар сувязі можа спаганяць дадатковую плату.</string>
     <string name="data_connection_button_text">OK</string>
     <string name="data_connection_title">Папярэджанне аб выкарыстанні дадзеных</string>
@@ -88,6 +90,7 @@
     <string name="error_filename_too_long">Імя файла занадта доўгае.</string>
     <string name="error_sdcard_access">Няма доступу да SD-карты</string>
     <string name="error_sdcard_unmounted">SD-карта не падлучана</string>
+    <string name="expand_button_title">Пашыраныя налады</string>
     <string name="export_to_note">Экспарт</string>
     <string name="head_set_tip_dialog_msg">Адключыце гарнітуру для магчымасці запісу гуку з зададзенымі ўсталёўкамі (напрыклад, Музыка або Голас).</string>
     <string name="head_set_tip_dialog_ok">Зразумела</string>
@@ -122,6 +125,7 @@
     <string name="network_unavailable_tip">Злучыцеся з сеткай і паўтарыце спробу.</string>
     <string name="new_record_name">Новы запіс</string>
     <string name="no_file">Нічога няма</string>
+    <string name="not_set">Не зададзена</string>
     <string name="notification_message_all_paused">Чаканне сеткі Wi-Fi.</string>
     <string name="notification_playback">Прайграванне…</string>
     <string name="notification_recording">Запіс…</string>
@@ -164,6 +168,7 @@
     <string name="pay_error_unknown">Невядомая памылка</string>
     <string name="playback_delete_records">Выдаліць абраны запіс</string>
     <string name="playback_share_records">Падзяліцца запісам</string>
+    <string name="preference_copied">\"%1$s\": скапіравана ў буфер абмену.</string>
     <string name="preference_enable_earpiece_summary">Выкарыстоўваць размоўны дынамік для прайгравання</string>
     <string name="preference_enable_earpiece_title">Размоўны дынамік для прайгравання аўдыя</string>
     <string name="preference_led_indicator">Індыкатар запісу</string>
@@ -292,6 +297,7 @@
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_recording">Запіс…</string>
     <string name="status_bar_recording_pause">Запіс спынены</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="text_btn_backward_3_seconds">На 3 с назад</string>
     <string name="text_btn_complete">Спыніць</string>
     <string name="text_btn_forward_3_seconds">На 3 с наперад</string>
@@ -314,6 +320,8 @@
     <string name="toast_max_record_time">%1$s можа запісаць максімум %2$s</string>
     <string name="toast_uninstall_fileexplorer">Праваднік не ўсталяваны</string>
     <string name="usage_description">"Расшыфроўка аўдыё і сінхранізацыя аб'ектаў з воблакам"</string>
+    <string name="v7_preference_off">ВЫКЛ.</string>
+    <string name="v7_preference_on">УКЛ.</string>
     <string name="webview_check_network">Налады сеткі</string>
     <string name="webview_data_error">Адбылася памылка</string>
     <string name="webview_locating_fail">Не атрымалася вызначыць ваша месцазнаходжанне</string>

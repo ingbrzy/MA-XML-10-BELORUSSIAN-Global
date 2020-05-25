@@ -19,6 +19,7 @@
     <string name="poco_privacy_policy">"Палітыка прыватнасці і Карыстальніцкае пагадненне POCO Launcher "</string>
     <string name="policy_name">Пратакол: %s</string>
     <string name="pre_installed_apps">Перадусталяваныя праграмы</string>
+    <string name="privacy_station_title">Канфідэнцыяльнасць у Xiaomi</string>
     <string name="settings_ad_loading">Хвілінку…</string>
     <string name="settings_ad_loading_unavailable">Не атрымалася загрузіць дадзеныя.</string>
     <string name="settings_license_activity_loading">Хвілінку…</string>
@@ -28,4 +29,5 @@
     <string name="settings_safetylegal_activity_title">Інфармацыя пра бяспеку</string>
     <string name="settings_safetylegal_activity_unreachable">"Не атрымалася злучыцца з сеткай. Для прагляду гэтай інфармацыі перайдзіце на %s з любога камп'ютара, злучанага з інтэрнэтам."</string>
     <string name="settings_safetylegal_title">Інфармацыя пра бяспеку</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
 </resources>

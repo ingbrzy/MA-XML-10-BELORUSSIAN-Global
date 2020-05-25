@@ -12,17 +12,11 @@
         <item quantity="few">%1$s рэзервовых копіі (%2$s)</item>
         <item quantity="many">%1$s рэзервовых копій (%2$s)</item>
     </plurals>
-    <plurals name="restoring_file_tile">
-        <item quantity="other">Аднаўленне %d файла</item>
-        <item quantity="one">Аднаўленне %d файла</item>
-        <item quantity="few">Аднаўленне %d файлаў</item>
-        <item quantity="many">Аднаўленне %d файлаў</item>
-    </plurals>
-    <plurals name="restore_app_order_prior">
-        <item quantity="other">Высокі прыярытэт: %d праграмы</item>
-        <item quantity="one">Высокі прыярытэт: %d праграма</item>
-        <item quantity="few">Высокі прыярытэт: %d праграмы</item>
-        <item quantity="many">Высокі прыярытэт: %d праграм</item>
+    <plurals name="restore_app_order_installed">
+        <item quantity="other">%d праграм на прыладзе</item>
+        <item quantity="one">%d праграма на прыладзе</item>
+        <item quantity="few">%d праграмы на прыладзе</item>
+        <item quantity="many">%d праграм на прыладзе</item>
     </plurals>
     <plurals name="restore_app_order_normal">
         <item quantity="other">Звычайны прыярытэт: %d праграмы</item>
@@ -30,10 +24,16 @@
         <item quantity="few">Звычайны прыярытэт: %d праграмы</item>
         <item quantity="many">Звычайны прыярытэт: %d праграм</item>
     </plurals>
-    <plurals name="restore_app_order_installed">
-        <item quantity="other">%d праграм на прыладзе</item>
-        <item quantity="one">%d праграма на прыладзе</item>
-        <item quantity="few">%d праграмы на прыладзе</item>
-        <item quantity="many">%d праграм на прыладзе</item>
+    <plurals name="restore_app_order_prior">
+        <item quantity="other">Высокі прыярытэт: %d праграмы</item>
+        <item quantity="one">Высокі прыярытэт: %d праграма</item>
+        <item quantity="few">Высокі прыярытэт: %d праграмы</item>
+        <item quantity="many">Высокі прыярытэт: %d праграм</item>
+    </plurals>
+    <plurals name="restoring_file_tile">
+        <item quantity="other">Аднаўленне %d файла</item>
+        <item quantity="one">Аднаўленне %d файла</item>
+        <item quantity="few">Аднаўленне %d файлаў</item>
+        <item quantity="many">Аднаўленне %d файлаў</item>
     </plurals>
 </resources>

@@ -6,6 +6,84 @@
         <item quantity="few">Дададзена %d гульні</item>
         <item quantity="many">Дададзена %d гульняў</item>
     </plurals>
+    <plurals name="app_behavior_desc_allow">
+        <item quantity="other">Дазволена %3$d разоў у прамежку паміж %1$s і %2$s</item>
+        <item quantity="one">Дазволена %3$d раз у прамежку паміж %1$s і %2$s</item>
+        <item quantity="few">Дазволена %3$d разы ў прамежку паміж %1$s і %2$s</item>
+        <item quantity="many">Дазволена %3$d разоў у прамежку паміж %1$s і %2$s</item>
+    </plurals>
+    <plurals name="app_behavior_desc_allow_minute">
+        <item quantity="other">Было дазволена %2$d разоў у %1$s</item>
+        <item quantity="one">Было дазволена %2$d раз у %1$s</item>
+        <item quantity="few">Было дазволена %2$d разы у %1$s</item>
+        <item quantity="many">Было дазволена %2$d разоў у %1$s</item>
+    </plurals>
+    <plurals name="app_behavior_desc_deny">
+        <item quantity="other">Забаронена %3$d разоў у прамежку паміж %1$s і %2$s</item>
+        <item quantity="one">Забаронена %3$d раз у прамежку паміж %1$s і %2$s</item>
+        <item quantity="few">Забаронена %3$d разы ў прамежку паміж %1$s і %2$s</item>
+        <item quantity="many">Забаронена %3$d разоў у прамежку паміж %1$s і %2$s</item>
+    </plurals>
+    <plurals name="app_behavior_desc_deny_minute">
+        <item quantity="other">Забаронена %2$d разоў у %1$s</item>
+        <item quantity="one">Забаронена %2$d раз у %1$s</item>
+        <item quantity="few">Забаронена %2$d разы ў %1$s</item>
+        <item quantity="many">Забаронена %2$d разоў у %1$s</item>
+    </plurals>
+    <plurals name="app_behavior_desc_virtual">
+        <item quantity="other">Вярнула %3$d пустых паведамленняў з %1$s да%2$s</item>
+        <item quantity="one">Вярнула %3$d пустое паведамленне з %1$s да%2$s</item>
+        <item quantity="few">Вярнула %3$d пустых паведамлення з %1$s да%2$s</item>
+        <item quantity="many">Вярнула %3$d пустых паведамленняў з %1$s да%2$s</item>
+    </plurals>
+    <plurals name="app_behavior_desc_virtual_minute">
+        <item quantity="other">Былі вернутыя %2$d пустых паведамленняў у %1$s</item>
+        <item quantity="one">Было вернута %2$d пустое паведамленне ў %1$s</item>
+        <item quantity="few">Былі вернутыя %2$d пустых паведамлення ў %1$s</item>
+        <item quantity="many">Былі вернутыя %2$d пустых паведамленняў у %1$s</item>
+    </plurals>
+    <plurals name="app_behavior_notification_audio_more">
+        <item quantity="other">%2$d праграм, уключаючы %1$1s, запісваюць гук</item>
+        <item quantity="one">%2$d праграма, уключаючы %1$1s, запісвае гук</item>
+        <item quantity="few">%2$d праграмы, уключаючы %1$1s, запісваюць гук</item>
+        <item quantity="many">%2$d праграм, уключаючы %1$1s, запісваюць гук</item>
+    </plurals>
+    <plurals name="app_behavior_notification_camera_more">
+        <item quantity="other">%2$d праграм, уключаючы %1$1s, вядуць фотаздымку</item>
+        <item quantity="one">%2$d праграма, уключаючы %1$1s, вядзе фотаздымку</item>
+        <item quantity="few">%2$d праграмы, уключаючы %1$1s, вядуць фотаздымку</item>
+        <item quantity="many">%2$d праграм, уключаючы %1$1s, вядуць фотаздымку</item>
+    </plurals>
+    <plurals name="app_behavior_notification_location_more">
+        <item quantity="other">%2$d праграмы, уключаючы %1$1s, выкарыстоўваюць ваша месцазнаходжанне</item>
+        <item quantity="one">%2$d праграма, уключаючы %1$1s, выкарыстоўвае ваша месцазнаходжанне</item>
+        <item quantity="few">%2$d праграмы, уключаючы %1$1s, выкарыстоўваюць ваша месцазнаходжанне</item>
+        <item quantity="many">%2$d праграм, уключаючы %1$1s, выкарыстоўваюць ваша месцазнаходжанне</item>
+    </plurals>
+    <plurals name="app_behavior_privacy_manager_off">
+        <item quantity="other">Вы не будзеце апавешчаныя аб канфідэнцыйных дзеяннях, што выконваюцца %1$d праграмамі</item>
+        <item quantity="one">Вы не будзеце апавешчаныя аб канфідэнцыйных дзеяннях, што выконваюцца %1$d праграмай</item>
+        <item quantity="few">Вы не будзеце апавешчаныя аб канфідэнцыйных дзеяннях, што выконваюцца %1$d праграмамі</item>
+        <item quantity="many">Вы не будзеце апавешчаныя аб канфідэнцыйных дзеяннях, што выконваюцца %1$d праграмамі</item>
+    </plurals>
+    <plurals name="app_behavior_privacy_manager_on">
+        <item quantity="other">Вы будзеце апавешчаныя аб канфідэнцыйных дзеяннях, што выконваюцца %1$d праграмамі</item>
+        <item quantity="one">Вы будзеце апавешчаныя аб канфідэнцыйных дзеяннях, што выконваюцца %1$d праграмай</item>
+        <item quantity="few">Вы будзеце апавешчаныя аб канфідэнцыйных дзеяннях, што выконваюцца %1$d праграмамі</item>
+        <item quantity="many">Вы будзеце апавешчаныя аб канфідэнцыйных дзеяннях, што выконваюцца %1$d праграмамі</item>
+    </plurals>
+    <plurals name="app_behavior_wakepath_multiple">
+        <item quantity="other">Праграма %1$1s запусціла %2$d праграм</item>
+        <item quantity="one">Праграма %1$1s запусціла %2$d праграму</item>
+        <item quantity="few">Праграма %1$1s запусціла %2$d праграмы</item>
+        <item quantity="many">Праграма %1$1s запусціла %2$d праграм</item>
+    </plurals>
+    <plurals name="app_behavior_wakepath_multiple_single">
+        <item quantity="other">Гэтая праграма запусціла %1$d праграм</item>
+        <item quantity="one">Гэтая праграма запусціла %1$d праграму</item>
+        <item quantity="few">Гэтая праграма запусціла %1$d праграмы</item>
+        <item quantity="many">Гэтая праграма запусціла %1$d праграм</item>
+    </plurals>
     <plurals name="app_manager_permission_summary_accept">
         <item quantity="other">Патрабуецца %d дазволу</item>
         <item quantity="one">Патрабуецца %d дазвол</item>
@@ -266,6 +344,18 @@
         <item quantity="few">Дададзена %d гульні</item>
         <item quantity="many">Дададзена %d гульняў</item>
     </plurals>
+    <plurals name="keyguard_charging_info_drained_hour_time_format">
+        <item quantity="other">%s гадзін</item>
+        <item quantity="one">%s гадзіна</item>
+        <item quantity="few">%s гадзіны</item>
+        <item quantity="many">%s гадзін</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_min_time_format">
+        <item quantity="other">%s хвілін</item>
+        <item quantity="one">%s хвіліна</item>
+        <item quantity="few">%s хвіліны</item>
+        <item quantity="many">%s хвілін</item>
+    </plurals>
     <plurals name="lockpattern_recording_incorrect_too_short">
         <item quantity="other">Злучыце не менш за %d кропак</item>
         <item quantity="one">Злучыце не менш за %d кропак</item>
@@ -403,6 +493,18 @@
         <item quantity="one">%d праграма разраджае батарэю</item>
         <item quantity="few">%d праграмы разраджаюць батарэю</item>
         <item quantity="many">%d праграм разраджаюць батарэю</item>
+    </plurals>
+    <plurals name="pc_battery_history_hour">
+        <item quantity="other">" г"</item>
+        <item quantity="one">" г"</item>
+        <item quantity="few">" г"</item>
+        <item quantity="many">" г"</item>
+    </plurals>
+    <plurals name="pc_battery_history_minute">
+        <item quantity="other">" хв."</item>
+        <item quantity="one">" хв."</item>
+        <item quantity="few">" хв."</item>
+        <item quantity="many">" хв."</item>
     </plurals>
     <plurals name="pc_main_power_center_battery_day">
         <item quantity="other">%s дня</item>
@@ -554,6 +656,18 @@
         <item quantity="few">Засталося %s хвіліны</item>
         <item quantity="many">Засталося %s хвіліны</item>
     </plurals>
+    <plurals name="power_off_warning_button_ok_time">
+        <item quantity="other">Зразумела (%ds)</item>
+        <item quantity="one">Зразумела (%ds)</item>
+        <item quantity="few">Зразумела (%ds)</item>
+        <item quantity="many">Зразумела (%ds)</item>
+    </plurals>
+    <plurals name="power_off_warning_notification_message">
+        <item quantity="other">Ваша прылада выключыцца праз %d секунд. Падключыце зарадную прыладу.</item>
+        <item quantity="one">Ваша прылада выключыцца праз %d секунду. Падключыце зарадную прыладу.</item>
+        <item quantity="few">Ваша прылада выключыцца праз %d секунды. Падключыце зарадную прыладу.</item>
+        <item quantity="many">Ваша прылада выключыцца праз %d секунд. Падключыце зарадную прыладу.</item>
+    </plurals>
     <plurals name="privacy_apps_disable_header_title">
         <item quantity="other">%d значкоў праграмы схаваныя</item>
         <item quantity="one">%d значок праграмы схаваны</item>
@@ -565,6 +679,18 @@
         <item quantity="one">%d значок праграмы не схаваны</item>
         <item quantity="few">%d значка праграмы не схаваныя</item>
         <item quantity="many">%d значкоў праграмы не схаваныя</item>
+    </plurals>
+    <plurals name="privacy_permission_summary">
+        <item quantity="other">%s праграм маюць пастаянны доступ</item>
+        <item quantity="one">%s праграма мае пастаянны доступ</item>
+        <item quantity="few">%s праграмы маюць пастаянны доступ</item>
+        <item quantity="many">%s праграм маюць пастаянны доступ</item>
+    </plurals>
+    <plurals name="privacy_pop_times">
+        <item quantity="other">%s разоў</item>
+        <item quantity="one">%s раз</item>
+        <item quantity="few">%s разы</item>
+        <item quantity="many">%s разоў</item>
     </plurals>
     <plurals name="quick_optimize_issue_count">
         <item quantity="other">%d праблемы з батарэяй</item>

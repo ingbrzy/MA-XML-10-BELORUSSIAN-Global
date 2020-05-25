@@ -83,6 +83,7 @@
 Іншае
 Выканайце ўваход на i.mi.com і паспрабуйце разблакаваць прыладу адтуль."</string>
     <string name="unlock_help_title">Дапамога па разблакоўцы:</string>
+    <string name="unlock_number">Код разблакоўкі: %s</string>
     <string name="unlock_wrong_captcha">Уведзены няправільны код</string>
     <string name="unlocking">Актывацыя…</string>
     <string name="verifing_account">Праверка пароля…</string>

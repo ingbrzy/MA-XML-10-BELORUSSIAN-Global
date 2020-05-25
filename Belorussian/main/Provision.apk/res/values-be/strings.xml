@@ -31,7 +31,7 @@
     <string name="congratulation_swipe">Правядзіце ўверх для ўваходу ў сістэму</string>
     <string name="congratulation_title">Налады завершаны</string>
     <string name="content_description_complete">Завершана</string>
-    <string name="content_description_miui_version">MIUI 11</string>
+    <string name="content_description_miui_version">MIUI 12</string>
     <string name="content_description_start">Пачаць</string>
     <string name="content_introduction">Цэнтр зместа агрэгуе кантэнт і паслугі з некалькіх каналаў. Тут вы можаце чытаць артыкулы, глядзець відэа, праглядаць штодзённую падборку рэкамендаваных тавараў і атрымліваць рэкамендацыі па змесце.</string>
     <string name="continue_to_enable_accessibility">Працягвайце націскаць на экран двумя пальцамі каб уключыць TalkBack.</string>
@@ -76,6 +76,8 @@
     <string name="locale_picker_title">Выберыце свой рэгіён</string>
     <string name="location_introduction">Геалакацыйныя службы знаходзяць тавары і паслугі побач з вамі.</string>
     <string name="lockscreen_introduction">Чаргаванне тэмаў забяспечвае штодзённую дастаўку новых выяў на Экран блакавання.</string>
+    <string name="mint_keyboard_oobe_checkbox">Я прачытаў(-ла) і прымаю Палітыку прыватнасці Клавіятуры Mint</string>
+    <string name="mint_keyboard_oobe_terms">Палітыка прыватнасці Клавіятуры Mint</string>
     <string name="miui_privacy_policy_no_network">Няма падключэння да інтэрнэту. Азнаёміцца з Палітыкай канфідэнцыяльнасці на %s.</string>
     <string name="miui_terms_no_network">Няма падключэння да інтэрнэту. Праглядзіце Карыстальніцкае пагадненне па адрасе %s.</string>
     <string name="multisim_settings_category">Налады SIM-карты</string>
@@ -203,7 +205,7 @@
     <string name="skip_gesture_guide_dialog_positive_btn">OK</string>
     <string name="skip_gesture_guide_dialog_title">Поўнаэкранныя жэсты</string>
     <string name="skip_underline">Прапусціць</string>
-    <string name="start_up_slogan">Жыццё становіцца прасцей</string>
+    <string name="start_up_slogan">Цалкам ваша</string>
     <string name="summary_not_set">Не наладжана</string>
     <string name="system_navigation_mode">Спосаб навігацыі</string>
     <string name="terms_of_use">Умовы і палажэнні</string>
@@ -224,6 +226,9 @@
     <string name="terms_of_use_lable_default_input_method_kika">"
 
 Перад выкарыстаннем гэтага сродку вам неабходна прыняць Палітыку канфідэнцыяльнасці Kika."</string>
+    <string name="terms_of_use_lable_default_input_method_mint">"
+
+Перад выкарыстаннем гэтай функцыі вам неабходна прыняць Палітыку прыватнасці Клавіятуры Mint."</string>
     <string name="terms_of_use_lable_gms">, сэрвісы Google Play</string>
     <string name="terms_of_use_lable_smart_cards">, смарт-карты</string>
     <string name="terms_of_use_lable_vsimcore">, MConnService</string>
@@ -231,7 +236,7 @@
     <string name="terms_privacy_policy_input_method_kika">Палітыка канфідэнцыяльнасці Kika</string>
     <string name="title_fingerprint">Задаць пароль</string>
     <string name="user_agreement">Карыстальніцкае пагадненне</string>
-    <string name="user_agreement_declare">Перад выкарыстаннем MIUI вы абавязаны прачытаць нашы Карыстальніцкае пагадненне і Палітыку прыватнасці і пагадзіцца з імі. Падчас актывацыі прылады Сэрвіс актывацыі Mi SIM, Xiaomi Cloud, Пошук прылады, Галоўны экран, Частыя фразы, Сэрвіс перакладу, MIUI Daemon, Прагляд HTML, Памочнік AI, Батарэя і прадукцыйнасць, Дэтэктар cілкавання, Joyose, Налады AI у АС і Абнаўленні будуць падлучацца да сеткі. Смарт-паслугі будуць падлучацца да сеткі і атрымліваць доступ да дадзеных аб вашым месцазнаходжанні.</string>
+    <string name="user_agreement_declare">Перад выкарыстаннем MIUI вы абавязаны прачытаць нашы Карыстальніцкае пагадненне і Палітыку прыватнасці і пагадзіцца з імі. Падчас актывацыі прылады Сэрвіс актывацыі Mi SIM, Xiaomi Cloud, Пошук прылады, Галоўны экран, Частыя фразы, Сэрвіс перакладу, MIUI Daemon, Прагляд HTML, Памочнік AI, Батарэя і прадукцыйнасць, Дэтэктар cілкавання, Joyose, Налады AI у АС, Кіраванне дазволамі і Абнаўленні будуць падлучацца да сеткі. Смарт-паслугі будуць падлучацца да сеткі і атрымліваць доступ да дадзеных аб вашым месцазнаходжанні.</string>
     <string name="voice_assist_advice">Mi AI дазваляе вам кіраваць прыладай з дапамогай голасу, але павышае спажыванне энергіі (+1% у гадзіну).</string>
     <string name="voice_assist_condition">"Вы зможаце карыстацца Mi AI у наступных выпадках:r
 1. Пры уключаным экране.r

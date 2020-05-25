@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="ai_assistant">Смарт-выклікі</string>
+    <string name="ai_assistant_not_installed">Спачатку ўсталяваць Дапаможнік выклікаў з ШІ</string>
     <string name="antispam_local_marked">Адзначана лакальна</string>
     <string name="antispam_notification_title">Невядомы нумар</string>
     <string name="antispam_provider">Вызначана %s</string>
@@ -50,14 +52,10 @@
     <string name="can_not_use">Нельга выкарыстоўваць</string>
     <string name="cancel">Скасаваць</string>
     <string name="card_title_answering">Адказ на выклік</string>
-    <string name="card_title_answering_time_out">Не атрымалася адказаць на выклік, паспрабуйце яшчэ.</string>
     <string name="card_title_call_ended">"Выклік завершаны "</string>
     <string name="card_title_conf_call">Канферэнц-выклік</string>
     <string name="card_title_dialing">Набор</string>
     <string name="card_title_hanging_up">"Завяршэнне "</string>
-    <string name="card_title_hanging_up_fail">Не атрымалася скончыць выклік, паспрабуйце яшчэ.</string>
-    <string name="card_title_hanging_up_restart">Не атрымалася скончыць выклік. Перазагрузіце вашую прыладу.</string>
-    <string name="card_title_hanging_up_weak_signal">Слабы сігнал мабільнай сеткі. Сканчаем выклік…</string>
     <string name="card_title_in_call">Падчас выкліку</string>
     <string name="card_title_in_call_short">Падчас выкліку</string>
     <string name="card_title_in_video">Відэа </string>
@@ -117,6 +115,8 @@
     <string name="dialpad_zero">0</string>
     <string name="do_not_support_video_calls_by_remote">На той прыладзе не падтрымліваюцца відэавыклікі</string>
     <string name="emergency_call_dialog_number_for_display">Экстранны нумар</string>
+    <string name="enter_ai_assistant">Выкарыстаць</string>
+    <string name="enter_ai_assistant_tip">Калі вам нязручна размаўляць, вы можаце выкарыстоўаць Дапаможнік выклікаў з ШІ для пераўтварэння вашых паведамленняў у мову падчас гэтага выкліку. Выкарыстоўваць Дапаможнік выклікаў з ШІ?</string>
     <string name="inCallLabel">Тэлефон</string>
     <string name="incall_bubble_hangup_click_hint">Націсніце яшчэ раз, каб вярнуцца да выкліку</string>
     <string name="incall_call_type_label_sip">Інтэрнэт-выклік</string>

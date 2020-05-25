@@ -13,10 +13,23 @@
         <item>Па будных днях</item>
         <item>Уласны</item>
     </string-array>
+    <string-array name="app_behavior_type_menu">
+        <item>Усе запісы</item>
+        <item>Аўтазапуск</item>
+        <item>Ланцужковы запуск</item>
+        <item>Дазволы, якія выкарыстоўваюцца</item>
+        <item>Канфідэнцыйныя дзеянні</item>
+    </string-array>
     <string-array name="applock_password_types">
         <item>Графічны ключ</item>
         <item>PIN</item>
         <item>Пароль</item>
+    </string-array>
+    <string-array name="daily_brand">
+        <item>Карыстальніцкі</item>
+        <item>Карта Mi Fan</item>
+        <item>Картка Xiao Tiansheng</item>
+        <item>Картка Tencent King</item>
     </string-array>
     <string-array name="date_of_app_all">
         <item>"Учора (мабільны інтэрнэт) "</item>
@@ -50,6 +63,18 @@
         <item>"Сёння: "</item>
         <item>"Бягучы месяц: "</item>
     </string-array>
+    <string-array name="debug_open_intercept">
+        <item>Магчымасць атрымання доступу да файлаў на вашай прыладзе, а таксама іх рэдагаванне з дапамогай кампутара.</item>
+        <item>Устаноўка праграм на вашу прыладуа без вашай відавочнай згоды будзе дазволена.</item>
+        <item>Вы зможаце выдалена праглядаць і ствараць запісы экрана прылады.</item>
+        <item>Будзе магчыма атрымаць доступ да падрабязнай інфармацыі аб вашай прыладзе.</item>
+    </string-array>
+    <string-array name="key_app_info">
+        <item>install_source</item>
+        <item>install_time</item>
+        <item>update_source</item>
+        <item>update_time</item>
+    </string-array>
     <string-array name="lock_mode">
         <item>Пры блакаванні экрана</item>
         <item>Калі прылада заблакавана або пасля выхаду з праграмы</item>
@@ -64,9 +89,37 @@
         <item>"Выкарыстанне мабільнага інтэрнэту "</item>
         <item>"Выкарыстанне Wi-Fi "</item>
     </string-array>
+    <string-array name="miui_optimization_close_intercept">
+        <item>Важна: некалькі сістэмных праграм могуць пачаць працаваць з памылкамі.</item>
+        <item>Тэкст, акаўнты і кантэнт могуць адлюстроўвацца няправільна.</item>
+    </string-array>
+    <string-array name="operate_entries">
+        <item>@string/auto_task_operation_open</item>
+        <item>@string/auto_task_operation_close</item>
+        <item>@string/auto_task_operation_no_op</item>
+    </string-array>
+    <string-array name="operate_entryValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="operate_memory_entries">
+        <item>@string/auto_task_operation_open</item>
+        <item>@string/auto_task_operation_close</item>
+        <item>@string/auto_task_operation_no_op</item>
+    </string-array>
+    <string-array name="operate_memory_entryValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
     <string-array name="over_limit_traffic_waring_style">
         <item>Паказваць папярэджанне</item>
         <item>Папярэджваць і адключаць мабільны інтэрнэт</item>
+    </string-array>
+    <string-array name="pc_battery_history_spinner_choice">
+        <item>@string/pc_battery_history_consume_rank_menu_item</item>
+        <item>@string/pc_battery_history_battery_detail_menu_item</item>
     </string-array>
     <string-array name="pc_settings_thermal_entries">
         <item>Па змаўчанні</item>
@@ -75,6 +128,24 @@
     <string-array name="pc_settings_thermal_summaries">
         <item>Выкарыстоўваецца рэжым кантролю тэмпературы па змаўчанні</item>
         <item>Прыярытэт прадукцыйнасці</item>
+    </string-array>
+    <string-array name="perm_intercept_notification">
+        <item>"Доступ да ўсіх апавяшчэнняў, уключаючы змесціва тэкставых паведамленняў і іншыя аб'екты, якія могуць утрымліваць асабістую інфармацыю."</item>
+        <item>Абмежаваць дазвалення апавяшчэнняў для асобных праграм</item>
+        <item>Імітаваць націск на апавяшчэнне і адкрыццё праграм</item>
+        <item>Уключыць або адключыць рэжым \"Не турбаваць\"</item>
+    </string-array>
+    <string-array name="perm_intercept_statitics">
+        <item>Збор дадзеных аб вашых інтарэсах і звычках, заснаваных на інфармацыі аб выкарыстоўваных праграмах і часе іх выкарыстання.</item>
+        <item>Доступ да налад аператара сувязі і моўных налад, а таксама іншых дадзеных</item>
+    </string-array>
+    <string-array name="perm_intercept_unknown_source">
+        <item>Староннія праграмы, якія не былі правераны GetApps, могуць стаць прычынай ўзнікнення праблем і зніжэння стабільнасці сістэмы.</item>
+        <item>Некаторыя староннія праграмы могуць утрымліваць шкоднаснае ПЗ, якое пагражае вашым асабістым дадзеным.</item>
+    </string-array>
+    <string-array name="priority_storage_entries">
+        <item>Унутранае сховішча</item>
+        <item>Знешняе сховішча</item>
     </string-array>
     <string-array name="roaming_network_type">
         <item>Заўсёды</item>

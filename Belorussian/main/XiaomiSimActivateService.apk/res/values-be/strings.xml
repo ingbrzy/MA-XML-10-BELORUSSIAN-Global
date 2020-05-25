@@ -18,8 +18,8 @@
     <string name="activate_feature_verify_mx_token">Праверка Mi Акаўнта</string>
     <string name="activate_feature_voip">Mi Паведамленні VoIP</string>
     <string name="activate_history_canceled_overview">Актывацыя SIM-карты была скасавана. Актывацыя была запушчана \"%1$s\".</string>
-    <string name="activate_history_multisim_canceled_overview">Актывацыя SIM-карты %2$d была скасавана. Актывацыя была запушчана %1$s\".</string>
-    <string name="activate_history_multisim_success_overview">Актывацыя SIM-карты %2$d была паспяховай. Актывацыя ініцыюецца %1$s\".</string>
+    <string name="activate_history_multisim_canceled_overview">Актывацыя SIM-карты %2$d была скасавана. Актывацыя была запушчана \"%1$s\".</string>
+    <string name="activate_history_multisim_success_overview">Актывацыя SIM-карты %2$d была паспяховай. Актывацыя ініцыюецца \"%1$s\".</string>
     <string name="activate_history_sms">SMS было адпраўлена падчас актывацыі.</string>
     <string name="activate_history_success_overview">Актывацыя SIM-карты была паспяховай. Актывацыя ініцыюецца \"%1$s\".</string>
     <string name="activate_history_title">Актывацыя SIM-карты</string>

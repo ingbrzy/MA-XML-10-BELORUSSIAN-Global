@@ -42,6 +42,12 @@
         <item quantity="few">"Ваш кантэнт змяшчае аб'екты (%1$s), якія парушаюць стандарты нашай супольнасці. Ваш акаўнт заблакаваны на %2$d дні да %3$s."</item>
         <item quantity="many">"Ваш кантэнт змяшчае аб'екты (%1$s), якія парушаюць стандарты нашай супольнасці. Ваш акаўнт заблакаваны на %2$d дзён да %3$s."</item>
     </plurals>
+    <plurals name="notification_close_tip">
+        <item quantity="other">Гэтая функцыя будзе адключаная праз %s дзён</item>
+        <item quantity="one">Гэтая функцыя будзе адключаная праз %s дзень</item>
+        <item quantity="few">Гэтая функцыя будзе адключаная праз %s дні</item>
+        <item quantity="many">Гэтая функцыя будзе адключаная праз %s дзён</item>
+    </plurals>
     <plurals name="ovp_detail_v_video_count">
         <item quantity="other">%d відэа</item>
         <item quantity="one">%d відэа</item>

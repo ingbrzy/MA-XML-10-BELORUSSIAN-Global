@@ -6,6 +6,33 @@
 Паведамленні будуць з'яўляцца толькі ў Другой прасторы."</string>
     <string name="PrivacyContactDes2">"Калі вы выкарыстоўвалі прыватныя паведамленні ў Першай прасторы,
 то гэтая функцыя будзе дададзена ў Другую прастору аўтаматычна."</string>
+    <string name="abc_action_bar_home_description">Перайсці на галоўную старонку</string>
+    <string name="abc_action_bar_up_description">Перайсці ўверх</string>
+    <string name="abc_action_menu_overflow_description">Дадатковыя параметры</string>
+    <string name="abc_action_mode_done">Гатова</string>
+    <string name="abc_activity_chooser_view_see_all">Паказаць усе</string>
+    <string name="abc_activitychooserview_choose_application">Выберыце праграму</string>
+    <string name="abc_capital_off">ВЫКЛ.</string>
+    <string name="abc_capital_on">УКЛ.</string>
+    <string name="abc_menu_alt_shortcut_label">Alt +</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
+    <string name="abc_menu_delete_shortcut_label">Delete</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">Fn +</string>
+    <string name="abc_menu_meta_shortcut_label">Meta +</string>
+    <string name="abc_menu_shift_shortcut_label">Shift +</string>
+    <string name="abc_menu_space_shortcut_label">Прабел</string>
+    <string name="abc_menu_sym_shortcut_label">Sym +</string>
+    <string name="abc_prepend_shortcut_label">Меню +</string>
+    <string name="abc_search_hint">Пошук…</string>
+    <string name="abc_searchview_description_clear">Выдаліць запыт</string>
+    <string name="abc_searchview_description_query">Пошукавы запыт</string>
+    <string name="abc_searchview_description_search">Пошук</string>
+    <string name="abc_searchview_description_submit">Адправіць запыт</string>
+    <string name="abc_searchview_description_voice">Галасавы пошук</string>
+    <string name="abc_shareactionprovider_share_with">Абагуліць праз</string>
+    <string name="abc_shareactionprovider_share_with_application">Абагуліць праз праграму \"%s\"</string>
+    <string name="abc_toolbar_collapse_description">Згарнуць</string>
     <string name="about_ent_mode">Аб рэжыме прадпрыемства</string>
     <string name="activate_ent_mode">Актывацыя рэжыму прадпрыемства</string>
     <string name="add_finger_print">Дадаць адбітак пальца</string>
@@ -61,6 +88,7 @@
 каб мець магчымасць праглядаць іх у любы час"</string>
     <string name="contact_us">Звяжыцеся з намі</string>
     <string name="continueButton">Працягнуць</string>
+    <string name="copy">Капіраваць</string>
     <string name="createANewSpace">Стварыце асобную Працоўную прастору.</string>
     <string name="createUserFail">Не атрымалася стварыць</string>
     <string name="create_app_icon_failed">Не атрымалася стварыць ярлык</string>
@@ -149,6 +177,7 @@
     <string name="err_unknown">Невядомая памылка</string>
     <string name="err_volume_not_enough">Недастаткова вольнага месца</string>
     <string name="exit_private_space">Пераход</string>
+    <string name="expand_button_title">Пашыраныя налады</string>
     <string name="experience_more_features">Дадайце прыладу для прагляду ўсіх функцый</string>
     <string name="facebook_login">Увайсці праз Facebook</string>
     <string name="facebook_send">Адправіць у Facebook</string>
@@ -174,10 +203,10 @@
     <string name="greenguard_child_des_title">Счытайце QR-код сканерам, каб дадаць прыладу</string>
     <string name="greenguard_functional_description">"Выдаленае кіраванне прыладамі, прагляд месцазнаходжання,
 контроль усталяваных праграм і абмежаванне выкарыстання"</string>
-    <string name="greenguard_install_cancle">No thanks</string>
-    <string name="greenguard_install_confirm">Install</string>
-    <string name="greenguard_install_message">"Family Guard is a system app. You don't need internet to install it."</string>
-    <string name="greenguard_install_title">Install Family Guard</string>
+    <string name="greenguard_install_cancle">Не, дзякуй</string>
+    <string name="greenguard_install_confirm">Усталяваць</string>
+    <string name="greenguard_install_message">Бацькоўскі кантроль — гэта сістэмная праграма. Вам не патрэбен Інтэрнэт, каб усталяваць яе.</string>
+    <string name="greenguard_install_title">Усталяваць Бацькоўскі кантроль</string>
     <string name="greenguard_parent_des">Кіруйце прыладамі сваіх сяброў і родных</string>
     <string name="greenguard_parent_des_title">Выкарыстоўвайце Kite Guard для дадання прылад</string>
     <string name="guide_contact_sub_title_desc">"Кантакты, даданыя ў Другую прастору, стануць асабістымі.
@@ -223,6 +252,7 @@
     <string name="master_clear_apply_step_2">"Пераканайцеся, што вы выканалі рэзервовае капіраванне ўсіх важных аб'ектаў на вашым кампутары. Пасля націску на кнопку «OK» на прыладзе будзе выкананы скід да завадскіх налад, які цалкам выдаліць усе файлы і дадзеныя, уключаючы акаўнты, кантакты, фатаграфіі і праграмы."</string>
     <string name="master_clear_apply_title">Увага</string>
     <string name="master_clear_not_available">Скід на завадскія налады забаронены вашай кампаніяй.</string>
+    <string name="master_clear_not_available_ep">Зараз вы не можаце выканаць скід на завадскія налады або адклікаць свой дазвол. Звярніцеся да свайго кіраўніка.</string>
     <string name="menu_item_about_privacy_title">Палітыка канфідэнцыяльнасці</string>
     <string name="messageData">Паведамленні</string>
     <string name="more_settings">Яшчэ</string>
@@ -240,6 +270,7 @@
     <string name="next_setp">Далей</string>
     <string name="no_match_repate_scanner">Не атрымалася знайсці адбіткі пальцаў, каторыя супадаюць, паўтарыць сканаванне</string>
     <string name="normal_app">Першая прастора</string>
+    <string name="not_set">Не зададзена</string>
     <string name="not_support_air_space">Гэтая функцыя не падтрымліваецца на вашым тэлефоне</string>
     <string name="not_support_multiple_users">Шматкарыстальніцкі рэжым не падтрымліваецца</string>
     <string name="notificationSetPassword">Задаць пароль</string>
@@ -262,6 +293,7 @@
     <string name="passwordProtect">Пароль</string>
     <string name="please_diff_finger_print">"Пераканайцеся, што для Першай і Другой прасторы выкарыстоўваюцца розныя адбіткі пальцаў.
 Інакш вы не здолееце ўвайсці ў Другую прастору з экрана блакавання."</string>
+    <string name="preference_copied">\"%1$s\": скапіравана ў буфер абмену.</string>
     <string name="privacyContactsSummary">"Паказваць асабістыя аб'екты ў Другой прасторы"</string>
     <string name="privacyContactsTitle">Асабістыя паведамленні і кантакты</string>
     <string name="privacy_password_fingerprint_dialog_message">Прыкладзіце палец да сканера</string>
@@ -312,6 +344,7 @@
 Калі вы не абновіце сістэму, гэта можа паўплываць на карэктную працу кланаваных праграм."</string>
     <string name="sdcradfs_dialog_in_sec_title">Важнае абнаўленне</string>
     <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
+    <string name="search_menu_title">Пошук</string>
     <string name="search_result_text">Не атрымалася знайсці праграмы</string>
     <string name="secondSpace">Другая прастора</string>
     <string name="second_owner_finger_print">Адбітак пальца для Другой прасторы</string>
@@ -392,6 +425,7 @@
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stop_xspace_alert_content">Выдаліць усе клоны праграм разам з іх акаўнтамі і дадзенымі? Для прымянення змяненняў патрабуецца перазагрузка прылады.</string>
     <string name="stop_xspace_alert_title">Выдаліць акаўнты-клоны праграм</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="summary_switch_apps_settings">Выберыце праграмы, якія карыстаюцца ў бягучай прасторы</string>
     <string name="support_desc">Паслугі бяспекі ажыццяўляе Spaces Mobile</string>
     <string name="sure_to_use">Пацвердзіць</string>
@@ -441,6 +475,8 @@
     <string name="undo_success">Паспяхова скасавана</string>
     <string name="use_google_open">Абуджаць з дапамогай Google Асістэнта</string>
     <string name="use_xiaoai_open">Абуджаць з дапамогай Mi AI</string>
+    <string name="v7_preference_off">ВЫКЛ.</string>
+    <string name="v7_preference_on">УКЛ.</string>
     <string name="wating">Хвілінку…</string>
     <string name="weibo_send">Адправіць у Weibo</string>
     <string name="weixin_pay">WeChat Pay</string>
@@ -460,6 +496,8 @@
     <string name="xspace_description">"Клоны праграм - гэта копіі праграм, які могуць выкарыстоўвацца асобна з іншымі акаўнтамі.
 
 Некаторыя праграмы-клоны патрабуюць падтрымкі Google Services Framework. У такіх выпадках ствараюцца клоны Google Services Framework."</string>
+    <string name="xspace_disable">Не створана</string>
+    <string name="xspace_enable">Створана</string>
     <string name="xspace_facebook_title">Facebook</string>
     <string name="xspace_guide_des">Выкарыстоўвайце 2 акаўнты без пераключэння</string>
     <string name="xspace_guide_title">Стварыць клон праграмы</string>
@@ -472,9 +510,12 @@
     <string name="xspace_introduce">Рэкамендавана</string>
     <string name="xspace_label">Кланаванне праграм</string>
     <string name="xspace_loading_msg">Загрузка праграм…</string>
+    <string name="xspace_notification">Апавяшчэнні кланаванай праграмы</string>
+    <string name="xspace_notification_error">Увайдзіце ў кланаваны WeChat і паўтарыце спробу</string>
     <string name="xspace_qq_title">QQ</string>
     <string name="xspace_remove">Выдаліць акаўнты-клоны прыкладанняў</string>
     <string name="xspace_setting_label">Налады кланавання</string>
+    <string name="xspace_settins">Усталяваць</string>
     <string name="xspace_uninstall_completed">Кланаваная праграма выдалена паспяхова</string>
     <string name="xspace_uninstall_dialog_content">Выдаленне клона праграмы ачысціць усе яго дадзеныя.</string>
     <string name="xspace_uninstall_dialog_title">Выдаліць клон праграмы</string>

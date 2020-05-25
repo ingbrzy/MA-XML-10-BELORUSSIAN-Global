@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="last_sent_time_day">
-        <item quantity="other">%d дня таму</item>
+        <item quantity="other">%d дзён таму</item>
         <item quantity="one">%d дзень таму</item>
         <item quantity="few">%d дні таму</item>
         <item quantity="many">%d дзён таму</item>
     </plurals>
     <plurals name="last_sent_time_hour">
-        <item quantity="other">%d гадзіны таму</item>
-        <item quantity="one">%d гадзіну таму</item>
+        <item quantity="other">%d гадзін таму</item>
+        <item quantity="one">%d гадзіна таму</item>
         <item quantity="few">%d гадзіны таму</item>
         <item quantity="many">%d гадзін таму</item>
     </plurals>
     <plurals name="last_sent_time_minute">
-        <item quantity="other">%d хвіліны таму</item>
-        <item quantity="one">%d хвіліну таму</item>
+        <item quantity="other">%d хвілін таму</item>
+        <item quantity="one">%d хвіліна таму</item>
         <item quantity="few">%d хвіліны таму</item>
         <item quantity="many">%d хвілін таму</item>
     </plurals>
     <plurals name="last_sent_time_month">
-        <item quantity="other">%d месяца таму</item>
+        <item quantity="other">%d месяцаў таму</item>
         <item quantity="one">%d месяц таму</item>
         <item quantity="few">%d месяцы таму</item>
         <item quantity="many">%d месяцаў таму</item>
     </plurals>
     <plurals name="last_sent_time_week">
-        <item quantity="other">%d тыдня таму</item>
+        <item quantity="other">%d тыдняў таму</item>
         <item quantity="one">%d тыдзень таму</item>
         <item quantity="few">%d тыдні таму</item>
         <item quantity="many">%d тыдняў таму</item>

@@ -181,9 +181,6 @@
     <string name="bugreport_in_power">Ярлык для справаздачы пра памылкі</string>
     <string name="bugreport_in_power_summary">Паказаць кнопку для прыняцця справаздачы пра памылку ў меню сілкавання</string>
     <string name="button_convert_fbe">Сцерці і перайсці...</string>
-    <string name="callFailed_simError">Памылка SIM-карты</string>
-    <string name="can_not_dial_vt_while_voice_prompt">Немагчыма зрабіць відэавыклік падчас галасавога выкліку</string>
-    <string name="can_not_dial_while_vt_prompt">Немагчыма набраць нумар падчас гутаркі</string>
     <string name="cancel">Скасаваць</string>
     <string name="cant_call_due_to_no_supported_service">Не ўдалося зрабіць выклік, бо на прыладзе няма ўліковых запісаў для гэтага тыпу выклікаў.</string>
     <string name="cant_call_due_to_ongoing_call">Вы не можаце здзейсніць новы выклік, пакуль не завершыце бягучы ў праграме %1$s.</string>
@@ -203,7 +200,6 @@
     <string name="charge_length_format">%1$s таму</string>
     <string name="choose_profile">Выбраць профіль</string>
     <string name="clear_adb_keys">Адклікаць дазвол USB-адладкі</string>
-    <string name="close">Адключыць</string>
     <string name="confirm_enable_oem_unlock_text">ПАПЯРЭДЖАННЕ: Пакуль гэты параметр уключаны, абарона прылады не функцыянуе.</string>
     <string name="confirm_enable_oem_unlock_title">Дазволіць разблакіроўку OEM?</string>
     <string name="connected_via_app">Падключана праз праграму \"%1$s\"</string>
@@ -254,8 +250,6 @@
     <string name="development_settings_not_available">Параметры распрацоўшчыка недаступныя для гэтага карыстальніка</string>
     <string name="development_settings_summary">Налада параметраў для распрацоўкі прыкладанняў</string>
     <string name="development_settings_title">Параметры распрацоўшчыка</string>
-    <string name="dial_conference_fail_prompt">Немагчыма набраць нумар канферэнцыі напрамую, паколькі існуючая сетка не падтрымлівае VoLTE.</string>
-    <string name="dial_vt_fail_prompt">Бягучая сетка не падтрымлівае VoLTE. Пераключыць на звычайны галасавы выклік?</string>
     <string name="direct_boot_unaware_dialog_message">Заўвага. Пасля перазагрузкі гэта праграма не зможа запусціцца, пакуль вы не разблакіруеце тэлефон</string>
     <string name="disable_overlays">Апаратнае накладанне</string>
     <string name="disable_overlays_summary">Заўсёды выкарыстоўваць GPU для экраннай кампаноўкі</string>
@@ -300,9 +294,6 @@
     <string name="inactive_app_active_summary">Актыўная. Краніце, каб пераключыць.</string>
     <string name="inactive_app_inactive_summary">Неактыўная. Краніце, каб пераключыць.</string>
     <string name="inactive_apps_title">Праграмы ў рэжыме чакання</string>
-    <string name="incall_error_call_failed">Не атрымалася выканаць выклік</string>
-    <string name="incall_error_power_off">Адключыце рэжым палёту, каб зрабіць выклік.</string>
-    <string name="incall_error_supp_service_unknown">Паслуга не падтрымліваецца</string>
     <string name="install_other_apps">Усталёўваць невядомыя праграмы</string>
     <string name="keep_screen_on">Прадухіляць ад пераходу ў рэжым сну</string>
     <string name="keep_screen_on_summary">Падчас зарадкі экран будзе пастаянна ўключаны</string>
@@ -318,7 +309,6 @@
     <string name="managed_user_title">Усе працоўныя праграмы</string>
     <string name="media_category">Медыя</string>
     <string name="media_transfer_this_device_name">Гэта прылада</string>
-    <string name="missedcall_notification_public_version_title">Тэлефон</string>
     <string name="mobile_data_always_on">Мабільная перадача даных заўсёды актыўная</string>
     <string name="mobile_data_always_on_summary">Перадача даных мабільнай сувязі заўсёды актыўная, нават калі актыўная сетка Wi‑Fi (для хуткага пераключэння паміж сеткамі).</string>
     <string name="mock_location_app">Выбраць праграму для фіктыўных месцазнаходжанняў</string>
@@ -353,7 +343,6 @@
     <string name="no_vm_number_msg">На SIM-карце няма ні аднаго нумара галасавой пошты.</string>
     <string name="non_primary_user">Праглядаць і змяняць спіс заблакаваных нумароў можа толькі ўладальнік прылады.</string>
     <string name="not_set">Не зададзена</string>
-    <string name="notification_AllMissedCallTitle">Усе прапушчаныя выклікі</string>
     <string name="notification_channel_call_blocking">Блакіраванне выклікаў</string>
     <string name="notification_channel_incoming_call">Уваходныя выклікі</string>
     <string name="notification_channel_missed_call">Прапушчаныя выклікі</string>
@@ -362,7 +351,6 @@
     <string name="notification_missedCallTicker">Прапушчаны выклік ад %s</string>
     <string name="notification_missedCallTitle">Прапушчаны выклік</string>
     <string name="notification_missedCall_call_back">Ператэлефанаваць</string>
-    <string name="notification_missedCall_call_back_miui">Выклік</string>
     <string name="notification_missedCall_message">Паведамленне</string>
     <string name="notification_missedCallsMsg">%s прапушчаных выклікаў</string>
     <string name="notification_missedCallsTitle">Прапушчаныя выклікі</string>
@@ -419,6 +407,7 @@
     <string name="private_dns_mode_provider">Імя вузла аператара прыватнай DNS</string>
     <string name="private_dns_mode_provider_failure">Не атрымалася падключыцца</string>
     <string name="private_dns_mode_provider_hostname_hint">Увядзіце імя вузла аператара DNS</string>
+    <string name="process_kernel_label">АС Android</string>
     <string name="remaining_length_format">Засталося %1$s</string>
     <string name="respond_via_sms_canned_response_1">Не магу зараз размаўляць. Што здарылася?</string>
     <string name="respond_via_sms_canned_response_2">Я ператэлефаную.</string>
@@ -546,9 +535,6 @@
     <string name="v7_preference_on">УКЛ.</string>
     <string name="verify_apps_over_usb_summary">Праверка бяспекі праграм, усталяваных з дапамогай ADB/ADT.</string>
     <string name="verify_apps_over_usb_title">Праверце праграмы па USB</string>
-    <string name="voice_dial_out">Галасавы выклік</string>
-    <string name="voice_report_incoming_call">Уваходны выклік</string>
-    <string name="voice_report_unknown_num">Невядомы нумар</string>
     <string name="vpn_settings_not_available">Налады VPN недаступныя для гэтага карыстальніка</string>
     <string name="wait_for_debugger">Пачакайце адладчык</string>
     <string name="wait_for_debugger_summary">Праграма чакае падключэння адладчыка</string>

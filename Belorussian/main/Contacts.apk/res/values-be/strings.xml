@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="abc_action_bar_home_description">Перайсці на галоўную старонку</string>
+    <string name="abc_action_bar_up_description">Перайсці ўверх</string>
+    <string name="abc_action_menu_overflow_description">Дадатковыя параметры</string>
+    <string name="abc_action_mode_done">Гатова</string>
+    <string name="abc_activity_chooser_view_see_all">Паказаць усе</string>
+    <string name="abc_activitychooserview_choose_application">Выберыце праграму</string>
+    <string name="abc_capital_off">ВЫКЛ.</string>
+    <string name="abc_capital_on">УКЛ.</string>
+    <string name="abc_menu_alt_shortcut_label">Alt +</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
+    <string name="abc_menu_delete_shortcut_label">Delete</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">Fn +</string>
+    <string name="abc_menu_meta_shortcut_label">Meta +</string>
+    <string name="abc_menu_shift_shortcut_label">Shift +</string>
+    <string name="abc_menu_space_shortcut_label">Прабел</string>
+    <string name="abc_menu_sym_shortcut_label">Sym +</string>
+    <string name="abc_prepend_shortcut_label">Меню +</string>
+    <string name="abc_search_hint">Пошук…</string>
+    <string name="abc_searchview_description_clear">Выдаліць запыт</string>
+    <string name="abc_searchview_description_query">Пошукавы запыт</string>
+    <string name="abc_searchview_description_search">Пошук</string>
+    <string name="abc_searchview_description_submit">Адправіць запыт</string>
+    <string name="abc_searchview_description_voice">Галасавы пошук</string>
+    <string name="abc_shareactionprovider_share_with">Абагуліць праз</string>
+    <string name="abc_shareactionprovider_share_with_application">Абагуліць праз праграму \"%s\"</string>
+    <string name="abc_toolbar_collapse_description">Згарнуць</string>
     <string name="accessibility_calllog_detail">Гісторыя выклікаў</string>
     <string name="accessibility_contact_detail">Інфармацыя пра кантакт</string>
     <string name="account_container_title">З акаўнта</string>
@@ -106,6 +133,7 @@
     <string name="call_sim_menu_title_suffix">(Асноўны)</string>
     <string name="call_telex">Тэлекс</string>
     <string name="call_tty_tdd">Тэлетайп</string>
+    <string name="call_type_and_date">%1$s %2$s</string>
     <string name="call_unit">CNY</string>
     <string name="call_work">Працоўны тэлефон</string>
     <string name="call_work_mobile">Працоўны мабільны</string>
@@ -125,6 +153,7 @@
     <string name="callrecordview_item_op_time_short_outgoing">"Выходны: "</string>
     <string name="callrecordview_item_op_video">Відэа</string>
     <string name="callrecordview_menu_add_call_note">Дадаць нататку</string>
+    <string name="callrecordview_menu_aiphone">Выклікі з ШІ</string>
     <string name="callrecordview_menu_batch_delete">Пакетная ачыстка</string>
     <string name="callrecordview_menu_blocklist">Чорны спіс</string>
     <string name="callrecordview_menu_conference">Канферэнц-выклік</string>
@@ -189,7 +218,7 @@
     <string name="cloud_antispam_marked">Пазначана</string>
     <string name="cloud_antispam_title">Вызначальнік нумароў</string>
     <string name="cloud_recommend_msg">Націсніце для сінхранізацыі кантатаў з воблакам.</string>
-    <string name="cloud_state_disabled">Сінхранізацыя кантактаў з воблакам</string>
+    <string name="cloud_state_disabled">Сінхранізаваць кантакты з Xiaomi Cloud</string>
     <string name="cloud_state_loading">Хвілінку…</string>
     <string name="cloud_state_sync_finished">Сінхранізавана з воблакам</string>
     <string name="cloud_state_syncing">Сінхранізацыя з воблакам</string>
@@ -262,7 +291,7 @@
     <string name="contact_editor_prompt_one_account">Новыя кантакты будуць сінхранізаваныя з %1$s.</string>
     <string name="contact_editor_prompt_zero_accounts">Рэзервовая копія новага кантакту не будзе захаваная. Дадаць рахунак для захавання кантактаў у Mi Cloud?</string>
     <string name="contact_import_methods_dialog_bluetooth">Bluetooth</string>
-    <string name="contact_import_methods_dialog_mi_mover">Mi Mover</string>
+    <string name="contact_import_methods_dialog_mi_mover">Імпартаваць з дапамогай Mi Mover</string>
     <string name="contact_import_methods_dialog_title">Выберыце спосаб імпарту</string>
     <string name="contact_is_deleted">Гэты кантакт быў выдалены</string>
     <string name="contact_is_readOnly">Не атрымліваецца адрэдагаваць кантакт толькі для чытання</string>
@@ -287,6 +316,7 @@
     <string name="contacts_unavailable_import_from_old_device">Імпарт са старой прылады</string>
     <string name="contacts_unavailable_import_sim_contacts">Імпарт з SIM-карты</string>
     <string name="convenient_service">Сэрвісы</string>
+    <string name="copy">Капіраваць</string>
     <string name="copy_number">Капіяваць</string>
     <string name="copy_text">Капіяваць</string>
     <string name="createContactShortcutSuccessful">Віджэт кантакту дададзены на галоўны экран</string>
@@ -468,6 +498,7 @@
     <string name="event_edit_field_hint_text">Дата</string>
     <string name="expandCloseViewDescription">Згарнуць</string>
     <string name="expandOpenViewDescription">Разгарнуць</string>
+    <string name="expand_button_title">Пашыраныя налады</string>
     <string name="export_sim_contact_finish">Экспарт завершаны</string>
     <string name="export_sim_contact_finish_msg">Перададзена: %1$d | Паўтараюцца: %2$d | Засталося: %3$d %4$s</string>
     <string name="export_to_sdcard">Экспарт у сховішча</string>
@@ -508,6 +539,7 @@
     <string name="force_touch_new_contact">Новы кантакт</string>
     <string name="four_letter">GHI</string>
     <string name="frequentList">Частыя</string>
+    <string name="from_account_format">%1$s</string>
     <string name="full_name">Імя</string>
     <string name="gallery">Галерэя</string>
     <string name="generic_no_account_prompt">Трымайце свае кантакты ў бяспецы нават калі Вы згубіце свой тэлефон: сінхранізацыя з анлайн-сэрвісам.</string>
@@ -691,6 +723,7 @@
     <string name="miprofile_contact_header">Кантакты з візіткамі</string>
     <string name="miprofile_contact_meaasge">Кантакты на прыладзе</string>
     <string name="miprofile_contact_verifying">Праверка</string>
+    <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miprofile_edit_title">Рэдагаваць профіль</string>
     <string name="miprofile_error_accept_self">Нельга абмяняцца візіткамі з сабой</string>
     <string name="miprofile_error_no_miaccount">Увайсці ў Mi Акаўнт</string>
@@ -791,6 +824,7 @@
     <string name="non_phone_close">Зачыніць</string>
     <string name="none_paired">Няма далучанных прылад</string>
     <string name="not_applied">Не падтрымліваецца</string>
+    <string name="not_set">Не зададзена</string>
     <string name="notification_action_voicemail_play">Прайграць</string>
     <string name="notification_new_voicemail_ticker">Новае галасавое паведамленне ад %1$s</string>
     <string name="notification_voicemail_callers_list">%1$s, %2$s</string>
@@ -838,7 +872,10 @@
     <string name="path_wipe_data">Сістэмныя праграмы/Кантакты/Дадаткова/Ачысціць дадзеныя</string>
     <string name="payphone">Таксафон</string>
     <string name="people">Кантакты</string>
+    <string name="percent_sign">%1$s</string>
+    <string name="percentage">%1$s%2$s</string>
     <string name="phoneLabelsGroup">Тэлефон</string>
+    <string name="phone_info_divider">" ｜ "</string>
     <string name="phone_number_too_long_toast">Нумар занадта доўгі</string>
     <string name="phone_primary">Асноўны</string>
     <string name="photoPickerNotFoundText">Няма выяў.</string>
@@ -892,6 +929,7 @@
     <string name="preference_contacts_filter">Фільтр кантактаў</string>
     <string name="preference_contacts_more">Дадаткова</string>
     <string name="preference_contacts_moresetting">Яшчэ</string>
+    <string name="preference_copied">\"%1$s\": скапіравана ў буфер абмену.</string>
     <string name="preference_dial_pad_touch_tone_default">Па змаўчанні</string>
     <string name="preference_dial_pad_touch_tone_human">Голас</string>
     <string name="preference_dial_pad_touch_tone_piano">Піяніна</string>
@@ -1028,6 +1066,7 @@
     <string name="search_key_photo_word">Прызначыць;кантакт;фота;Кантакты</string>
     <string name="search_key_rebuild_t9_index_title">Дадаткова;Кантакты;Т9</string>
     <string name="search_key_sim_manage">Дадаткова;Кантакты</string>
+    <string name="search_menu_title">Пошук</string>
     <string name="search_preference_contacts_filter">Кантакты;Адлюстраванне</string>
     <string name="search_quick_dial_setting">Тэлефон</string>
     <string name="search_remove_duplicate">Дадаткова;Кантакты</string>
@@ -1101,6 +1140,7 @@
     <string name="sina_weibo">Sina Weibo</string>
     <string name="single_group_list_empty">Няма кантактаў у групе</string>
     <string name="six_letter">MNO</string>
+    <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
     <string name="smart_group_company_label">Па кампаніям</string>
     <string name="smart_group_company_unavailable">Няма кампаніі</string>
     <string name="smart_group_frequency_1">Напрацягу месяца</string>
@@ -1146,9 +1186,11 @@
     <string name="starred_contacts">Абраныя</string>
     <string name="status_available">На месцы</string>
     <string name="status_away">Адсутнічае</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_busy">Не турбаваць</string>
     <string name="strequentList">Абраныя</string>
     <string name="success_message_import_from_account">Імпарт завершаны</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="summary_kind_title">Асноўная інфармацыя</string>
     <string name="sv">SV</string>
     <string name="t9_search_empty_create_contact">Новы кантакт</string>
@@ -1156,7 +1198,7 @@
     <string name="t9_search_empty_send_sms">Адправіць паведамленне</string>
     <string name="t9_search_empty_video_call">Відэавыклік</string>
     <string name="t9_search_guide_pinyin_title1">Увядзіце лічбы для пошуку кантактаў</string>
-    <string name="t9_search_guide_pinyin_title2" formatted="false">Увядзіце \"%d\" і \"%d\", каб знайсці \"<font fgcolor="">Ю</font>рый <font fgcolor="">Л</font>юбімаў\"</string>
+    <string name="t9_search_guide_pinyin_title2" formatted="false">Увядзіце \"%d\" і \"%d\", каб знайсці \"<font fgcolor="">І</font>рына <font fgcolor="">П</font>атапава\"</string>
     <string name="t9_search_guide_zhuyin_title1">Увядзіце лічбы для пошуку кантактаў</string>
     <string name="t9_search_guide_zhuyin_title2" formatted="false">Увядзіце \"%d\" і \"%d\", каб знайсці \"<font fgcolor="">М</font>аксым <font fgcolor="">С</font>яроў\"</string>
     <string name="take_new_photo">Зняць новае фота</string>
@@ -1208,6 +1250,8 @@
     <string name="use_photo_as_primary2">Выкарыстаць фота кантакту %1$s</string>
     <string name="useful_numbers">Карысныя нумары</string>
     <string name="user_profile_contacts_list_header">Я</string>
+    <string name="v7_preference_off">ВЫКЛ.</string>
+    <string name="v7_preference_on">УКЛ.</string>
     <string name="vcard_export_request_rejected_message">Экспарт vCard скасаваны.</string>
     <string name="vcard_export_will_start_message">Экспарт \"%s\" пачнецца ў бліжэйшы час.</string>
     <string name="vcard_import_failed">Не ўдалося імпартаваць візітку %s.</string>
@@ -1239,6 +1283,7 @@
     <string name="voip_audio_description">Выклік VoIP</string>
     <string name="voip_video_description">Відэавыклік VoIP</string>
     <string name="websiteLabelsGroup">Сайт</string>
+    <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
     <string name="wipe_data">Ачысціць дадзеныя</string>
     <string name="yellowPageNavigationIconLabel">Даведнік</string>
     <string name="yellowPageNavigationLabel">Даведнік</string>

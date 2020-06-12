@@ -937,6 +937,7 @@
     <string name="private_dns_mode_provider_failure">Не атрымалася падключыцца</string>
     <string name="private_dns_mode_provider_hostname_hint">Увядзіце імя вузла аператара DNS</string>
     <string name="private_num">Схаваны нумар</string>
+    <string name="process_kernel_label">АС Android</string>
     <string name="progress_dialog_exiting_ecm">Выхад з рэжыму экстранных зваротных выклікаў</string>
     <string name="proxy_address_title">Адрас проксі-сервера</string>
     <string name="pstn_connection_service_label">Убудаваныя SIM-карты</string>
@@ -1172,6 +1173,7 @@
     <string name="time_end_minute">time end minute</string>
     <string name="time_formate_am">АМ</string>
     <string name="time_formate_pm">РМ</string>
+    <string name="time_interval_char">:</string>
     <string name="time_next_day">" Наступны дзень "</string>
     <string name="time_start">" Пачатак "</string>
     <string name="time_start_hour">time start hour</string>
@@ -1209,6 +1211,7 @@
     <string name="tts_status_ok">%1$s цалкам падтрымліваецца</string>
     <string name="tts_status_requires_network">Для %1$s патрабуецца падлучэнне да сеткі</string>
     <string name="tts_status_title">Статус мовы па змаўчанні</string>
+    <string name="tty_mode_key">button_tty_mode_key</string>
     <string name="tty_mode_not_allowed_video_call">Рэжым тэлетайпа нельга змяніць падчас відэавыкліку</string>
     <string name="tty_mode_option_summary">Усталяваць рэжым тэлетайпа</string>
     <string name="tty_mode_option_title">Рэжым тэлетайпа</string>
@@ -1248,6 +1251,7 @@
     <string name="voicemail">Галасавая пошта</string>
     <string name="voicemail_abbreviated">ГП:</string>
     <string name="voicemail_change_pin_dialog_title">Змяненне PIN</string>
+    <string name="voicemail_change_pin_key">voicemail_change_pin_key</string>
     <string name="voicemail_default">Ваш аператар</string>
     <string name="voicemail_notifications_preference_title">Апавяшчэнні</string>
     <string name="voicemail_number_not_set">&lt;Не наладжана></string>
@@ -1256,6 +1260,7 @@
     <string name="voicemail_settings">Налады</string>
     <string name="voicemail_settings_number_label">Нумар галасавой пошты</string>
     <string name="voicemail_settings_with_label">Галасавая пошта (%s)</string>
+    <string name="voicemail_visual_voicemail_key">voicemail_visual_voicemail_key</string>
     <string name="voicemail_visual_voicemail_switch_title">Візуальная галасавая пошта</string>
     <string name="vpn_settings_not_available">Налады VPN недаступныя для гэтага карыстальніка</string>
     <string name="vvm_unsupported_message_format">Непадтрымліваемы тым паведамлення, патэлефануйце %s, каб праслухаць.</string>
@@ -1265,6 +1270,7 @@
 "</string>
     <string name="wifi_ap_unable_to_handle_new_sta">Пункт доступу часова заняты</string>
     <string name="wifi_calling">Wi-Fi выклік</string>
+    <string name="wifi_calling_settings_key">button_wifi_calling_settings_key</string>
     <string name="wifi_calling_settings_title">Wi-Fi выклік</string>
     <string name="wifi_cant_connect">Немагчыма падключыцца</string>
     <string name="wifi_cant_connect_to_ap">Немагчыма падключыцца да сеткі \"%1$s\"</string>

@@ -407,6 +407,7 @@
     <string name="private_dns_mode_provider">Імя вузла аператара прыватнай DNS</string>
     <string name="private_dns_mode_provider_failure">Не атрымалася падключыцца</string>
     <string name="private_dns_mode_provider_hostname_hint">Увядзіце імя вузла аператара DNS</string>
+    <string name="process_kernel_label">АС Android</string>
     <string name="remaining_length_format">Засталося %1$s</string>
     <string name="respond_via_sms_canned_response_1">Не магу зараз размаўляць. Што здарылася?</string>
     <string name="respond_via_sms_canned_response_2">Я ператэлефаную.</string>

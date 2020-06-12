@@ -140,8 +140,11 @@
     <string name="first_enter_custom_folder_hint">Тут можна перайменаваць ці выдаліць папкі</string>
     <string name="float_todo_guide_cancel">Адмена</string>
     <string name="float_todo_guide_message">Ярлык на галоўным экране дазваляе праглядаць і ствараць задачы, праводзячы ад краю экрана. Стварыць ярлык зараз?</string>
+    <string name="float_todo_guide_message_v2">Цэтлікі жэстаў дазваляюць праглядаць і ствараць задачы пры дапамозе змахвання ад краю экрана. Вы можаце ўключыць або адключыць гэтую функцыю ў Наладах.</string>
     <string name="float_todo_guide_ok">Стварыць</string>
+    <string name="float_todo_guide_ok_v2">Уключыць</string>
     <string name="float_todo_guide_title">Ярлык на галоўным экране</string>
+    <string name="float_todo_guide_title_v2">Цэтлік жэсту</string>
     <string name="fmt_chinese_date">N e</string>
     <string name="fmt_date_day">dd</string>
     <string name="fmt_date_long_month">MMMM</string>
@@ -294,6 +297,7 @@
     <string name="note_sort_way">Выберыце, як вы хочыце сартыраваць нататкі</string>
     <string name="notealert_enter">Адкрыць нататку</string>
     <string name="notealert_ok">Зачыніць</string>
+    <string name="notelist_string_info">…</string>
     <string name="notification_content_add_todo_from_other_app">Вы дадалі новую задачу. Націсніце для прагляду.</string>
     <string name="notify_alarm_title">Нататкавы напамін</string>
     <string name="permdesc_accessNote">Злаўмысныя праграмы могуць выкарыстоўваць гэты дазвол для атрымання вашых асабістых дадзеных.</string>
@@ -313,7 +317,9 @@
     <string name="pref_desc_skip_confirm_for_quick_delete">Правядзіце ўверх двума пальцамі для выдалення нататак без пацверджання</string>
     <string name="pref_desc_todo_float_mode">Правядзіце ад верхняга краю экрана для адкрыцця панэлі інструментаў задач</string>
     <string name="pref_remind_type_summary">Прайграць гук напаміну ў бязгучнам рэжыме</string>
+    <string name="pref_remind_type_summary_new">Ігнараваць рэжым «Без гуку» і прайграваць гук да адключэння будзільніка</string>
     <string name="pref_remind_type_title">Ігнараваць Бязгучны рэжым</string>
+    <string name="pref_remind_type_title_new">Апавяшчэнні з высокім прыярытэтам</string>
     <string name="pref_title_cloud_trash_bin">Выдаленыя нататкі ў воблаку</string>
     <string name="pref_title_common">Дадатковыя налады</string>
     <string name="pref_title_font_size">Памер шрыфту</string>
@@ -473,6 +479,7 @@
     <string name="toast_reach_text_limit_truncate">Нататка занадта доўгая. Тэкст у канцы быў абрэзаны.</string>
     <string name="toast_refuse_to_record_when_in_call">Гэту функцыю нельга выкарыстоўваць падчас выклікаў</string>
     <string name="toast_refuse_to_record_when_in_multi_window">Гэту функцыю нельга выкарыстоўваць з падзяленнем экрана</string>
+    <string name="toast_refuse_to_record_when_in_multi_window_new">Падзел экрана і вокны, якія плаваюць, не могуць выкарыстоўваць гэтую функцыю</string>
     <string name="toast_refuse_to_use_contact">"Доступ да кантактаў абмежаваны.
 Дазвольце Нататкам чытанне кантактаў і пошук акаўнтаў на прыладзе."</string>
     <string name="toast_refuse_to_use_external_storage">"Доступ да памяці абмежаваны.
@@ -556,6 +563,7 @@
     <string name="toolbar_voice_description">Голас</string>
     <string name="trash_folder_name">Сметніца</string>
     <string name="trash_folder_reminder">Нататкі будуць выдалены назаўсёды праз 30 дзён.</string>
+    <string name="trash_folder_reminder_new">Notes are kept in the trash for 30 days before being permanently deleted</string>
     <string name="tuesday">Аўторак</string>
     <string name="tuesday_short">Аўт</string>
     <string name="tuesday_shortest">Аўт</string>

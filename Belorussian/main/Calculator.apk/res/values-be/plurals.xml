@@ -48,4 +48,10 @@
         <item quantity="few">%d месяцы</item>
         <item quantity="many">%d месяцаў</item>
     </plurals>
+    <plurals name="tenure_years">
+        <item quantity="other">%d гадоў</item>
+        <item quantity="one">%d год</item>
+        <item quantity="few">%d гады</item>
+        <item quantity="many">%d гадоў</item>
+    </plurals>
 </resources>

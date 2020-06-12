@@ -48,6 +48,12 @@
         <item quantity="few">Пошук сярод %d запісаў</item>
         <item quantity="many">Пошук сярод %d запісаў</item>
     </plurals>
+    <plurals name="search_app_records_hint">
+        <item quantity="other">Search among %d recordings</item>
+        <item quantity="one">Search among %d recording</item>
+        <item quantity="few">Search among %d recordings</item>
+        <item quantity="many">Search among %d recordings</item>
+    </plurals>
     <plurals name="search_call_records_hint">
         <item quantity="other">Пошук сярод %d запісаў выкліку</item>
         <item quantity="one">Пошук сярод %d запісу выкліку</item>

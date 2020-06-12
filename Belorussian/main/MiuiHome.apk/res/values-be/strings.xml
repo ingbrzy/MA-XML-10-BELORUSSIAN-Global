@@ -27,6 +27,13 @@
     <string name="abc_shareactionprovider_share_with">Абагуліць праз</string>
     <string name="abc_shareactionprovider_share_with_application">Абагуліць праз праграму \"%s\"</string>
     <string name="abc_toolbar_collapse_description">Згарнуць</string>
+    <string name="accessibility_all_app_custom_category_finish">Done</string>
+    <string name="accessibility_all_app_custom_category_item_remove">Remove \"%1$s\" from categories</string>
+    <string name="accessibility_clear_search_bar_text">Clear search bar</string>
+    <string name="accessibility_enter_all_app_mode">Open App drawer</string>
+    <string name="accessibility_enter_all_app_settings">Open App drawer settings</string>
+    <string name="accessibility_menu_item_smallwindow_disable">Гэта праграма не падтрымлівае плаваючыя вокны</string>
+    <string name="accessibility_menu_item_smallwindow_enable">Гэта праграма падтрымлівае плаваючыя вокны</string>
     <string name="accessibility_menu_item_split_disable">Праграма не падтрымлівае падзел экрана.</string>
     <string name="accessibility_menu_item_split_enable">Праграма падтрымлівае падзел экрана</string>
     <string name="accessibility_recent_task_enter">Адкрытыя Нядаўнія</string>
@@ -60,6 +67,7 @@
     <string name="all_apps_no_search_results">Нічога не знойдзена</string>
     <string name="all_apps_search_app">Пошук праграм</string>
     <string name="all_apps_search_market_message">Пошук у Інтэрнэце</string>
+    <string name="all_apps_setting_classic_title">Класічны</string>
     <string name="all_apps_setting_desktop_desc">Паказаць усе ўстаноўленыя праграмы на Галоўным экране. Націсніце і ўтрымлівайце значок праграмы, каб убачыць даступныя цэтлікі, кіраваць праграмай або выдаліць яе.</string>
     <string name="all_apps_setting_desktop_title">Звычайны</string>
     <string name="all_apps_setting_drawer_desc">Змесціце ўсе устаноўленыя праграмы ў Меню праграм, якое можна адкрыць, правёўшы ўверх па Галоўнаму экрану. Вы па-ранейшаму зможаце знайсці праграмы, якія перамясцілі на Галоўны экран, у Меню праграм.</string>
@@ -141,6 +149,7 @@
     <string name="auto_add_app_shortcut">Змяшчаць новыя праграмы на Галоўны экран</string>
     <string name="auto_delete_category_dialog_content">Бягучыя праграмы будуць выдалены з гэтай катэгорыі, а потым катэгорыя таксама будзе выдаленая. Выдаліць гэтую катэгорыю зараз?</string>
     <string name="auto_delete_category_dialog_title">Выдаленне катэгорыі</string>
+    <string name="back">Back</string>
     <string name="backup_fail">Збой рэзервовага капіявання лаунчера</string>
     <string name="bad_wallpaper_source_prompt">Не атрымалася загрузіць шпалеры</string>
     <string name="buffering">Буферызацыя…</string>
@@ -165,6 +174,10 @@
     <string name="choose_wallpaper">Выберыце шпалеры</string>
     <string name="chooser_wallpaper">Выберыце новыя шпалеры</string>
     <string name="cloud_app_restore_title">Чаканне</string>
+    <string name="common_home_search_delete">Выдаленне Панэлі пошуку галоўнага экрана...</string>
+    <string name="common_home_search_delete_cancle">Адмена</string>
+    <string name="common_home_search_delete_confirm">Выдаліць</string>
+    <string name="common_home_search_delete_content">"Вы не зможаце выконваць пошук аб'ектаў пры дапамозе панэлі пошуку галоўнага экрана пасля яе выдалення. Выдаліць панэль пошуку?"</string>
     <string name="configure_wallpaper">Налады</string>
     <string name="confirm_btn_label">ОК</string>
     <string name="confirm_uninstall_dialog_contain_xspace_app_msg">Клоны праграм будуць выдалены разам з асноўнымі праграмамі.</string>
@@ -490,8 +503,11 @@
     <string name="sort_by_not_defined">Па парадку</string>
     <string name="start_activity_failed">Не атрымалася запусціць рабочы стол</string>
     <string name="starting_preset_app">Запуск…</string>
-    <string name="status_bar_recent_memory_info1">Вольна %1$s Б з %2$s Б</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="status_bar_recent_memory_giga">%1$s ГБ</string>
+    <string name="status_bar_recent_memory_info1">%1$s з %2$s даступна</string>
     <string name="status_bar_recent_memory_info2" />
+    <string name="status_bar_recent_memory_mega">%1$s МБ</string>
     <string name="status_downloaded">Спампавана</string>
     <string name="status_downloading">Спампоўка</string>
     <string name="status_installing">Усталёўка</string>

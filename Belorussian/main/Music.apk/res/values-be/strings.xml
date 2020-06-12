@@ -128,6 +128,7 @@
     <string name="button_sort_by_date">Сартаваць па даце</string>
     <string name="button_sort_by_size">Сартаваць па памеры</string>
     <string name="button_wait_for_wifi">Пачакайце</string>
+    <string name="buy_vip_skip_ad">Выдаліць рэкламу</string>
     <string name="cancel">Скасаваць</string>
     <string name="cancel_running_download">Скасаваць</string>
     <string name="cannot_download_to_sdcard_hint">"Немагчыма спампаваць аб'екты на SD-карту з-за абмежаванняў інтэлектуальных правоў. Замест гэтага аб'екты будуць спампаваныя ва ўнутранае сховішча."</string>
@@ -271,7 +272,9 @@
     <string name="download_method">Спампоўка</string>
     <string name="download_no_application_title">Не ўдаецца адкрыць файл</string>
     <string name="download_paused_in_power_save_mode">Downloads are paused when Battery saver is on</string>
+    <string name="download_percent">%d%%</string>
     <string name="download_processing">Спампоўка…</string>
+    <string name="download_progress">%d%%</string>
     <string name="download_quality">Якасць спампоўкі</string>
     <string name="download_quality_summary">Дадатковыя налады для спампоўкі песень</string>
     <string name="download_queued">У чарзе</string>
@@ -352,7 +355,9 @@
     <string name="exo_download_notification_channel_name">Спампоўкі</string>
     <string name="exo_download_removing">Выдаленне спамповак</string>
     <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Мбіт/с</string>
     <string name="exo_track_mono">Мона</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">Аўтаматычна</string>
     <string name="exo_track_selection_none">Няма</string>
     <string name="exo_track_selection_title_audio">Аўдыя</string>
@@ -457,6 +462,46 @@
     <string name="is_scanning">Праверка сховішча…</string>
     <string name="is_scanning_support_online">"Праверка сховішча…
 (Пакуль можна слухаць музыку анлайн)"</string>
+    <string name="joox_account_bind_mi_account">Дадаць Мі Акаўнт</string>
+    <string name="joox_account_cancel_login">Адмена</string>
+    <string name="joox_account_continue_login">Увайсці</string>
+    <string name="joox_account_fans_center">Фанацкі цэнтр</string>
+    <string name="joox_account_login_conflict_message">Вы ўжо выканалі ўваход на іншай прыладзе. Увайсці ў сістэму?</string>
+    <string name="joox_account_login_exception">Увайсці зноў</string>
+    <string name="joox_account_multi_device_login">Некалькі прылад</string>
+    <string name="joox_area_check_failed">Вы знаходзіцеся ў вобласці, дзе нашы паслугі недаступныя. Падключыцеся да іншай сеткі і перазапусціце праграму.</string>
+    <string name="joox_auth_button_acquire_vip_instantly">Атрымаць VIP-падпіску</string>
+    <string name="joox_auth_button_login_to_acquire_vip">Увайдзіце, каб атрымаць VIP-падпіску</string>
+    <string name="joox_auth_dialog_message">Мы падабралі для вас некалькі песень. Аформіце VIP-падпіску, каб зняць абмежаванні.</string>
+    <string name="joox_auth_message_connect_network">Адсутнічае злучэнне з серверам. Падключыцеся да сеткі для прайгравання спампаванай музыкі.</string>
+    <string name="joox_auth_message_content_for_vip_only">"Аб'ект даступны толькі ўладальнікам VIP-падпіскі"</string>
+    <string name="joox_auth_message_content_offline">Анлайн-паслугі зараз недаступныя. Мы выправім пару памылак і вернемся ў бліжэйшы час. Сачыце за абнаўленнямі!</string>
+    <string name="joox_auth_message_login_status_expired">Сесія ўваходу мінула. Увайдзіце зноў.</string>
+    <string name="joox_auth_message_one_hour_limit_for_one_company">Вы можаце прайграваць не больш за 6 песень аднаго лэйбла гуказапісу кожную гадзіну. Пакуль паслухайце іншыя рэкамендаваныя песні.</string>
+    <string name="joox_auth_message_recommend_for_you">Рэкамендавана</string>
+    <string name="joox_auth_message_update_vip_to_change_playlist">Аформіце VIP-падпіску для рэдагавання плэйлістоў</string>
+    <string name="joox_auth_message_update_vip_to_download">Аформіце VIP-падпіску для спампоўкі</string>
+    <string name="joox_auth_message_update_vip_to_listen_offline">Тэрмін дзеяння VIP-падпіскі мінуў. Вы можаце слухаць музыку онлайн. Аформіце VIP-падпіску для спампоўкі музыкі.</string>
+    <string name="joox_auth_message_update_vip_to_play_on_demand">Немагчыма прайграць гэтую песню з-за абмежаваньняў аўтарскага права. Паспрабуйце прайграванне ў выпадковым парадку, каб праслухаць іншыя песні, ці аформіце VIP-падпіску, каб прайграць гэтую песню.</string>
+    <string name="joox_auth_message_update_vip_to_seek_progress">Немагчыма змяніць прагрэс прайгравання з-за абмежаваньняў аўтарскага права. Аформіце VIP-падпіску, каб зняць абмежаванні.</string>
+    <string name="joox_auth_message_update_vip_to_switch_songs">Аформіце VIP-падпіску для пераключэння паміж песнямі</string>
+    <string name="joox_auth_message_update_vip_to_use_function">Аформіце VIP-падпіску для доступу да гэтай функцыі</string>
+    <string name="joox_auth_title_download_song">Спампаваць песні</string>
+    <string name="joox_auth_title_login_again">Увайсці</string>
+    <string name="joox_auth_title_long_time_no_network">Вы даўно не падключаліся да сеткі</string>
+    <string name="joox_auth_title_shuffle_play">Змяшаць</string>
+    <string name="joox_auth_title_vip_content">VIP-кантэнт</string>
+    <string name="joox_auth_title_vip_expired">Тэрмін падпіскі скончыўся</string>
+    <string name="joox_auth_title_vip_function">VIP-функцыі</string>
+    <string name="joox_download_title">Спампоўкі JOOX</string>
+    <string name="joox_privacy_desc">Палітыка прыватнасці JOOX (неабавязкова)</string>
+    <string name="joox_privacy_tips_content">Перад выкарыстаннем анлайн-паслуг азнаёмцеся і пагадзіцеся з <a href="/link/click">Палітыкай прыватнасці JOOX</a>.</string>
+    <string name="joox_privacy_tips_title">Палітыка прыватнасці JOOX</string>
+    <string name="joox_recommend_artist_title">Рэкамендаваныя выканаўцы</string>
+    <string name="joox_recommend_playlist_title">Рэкамендаваныя плэйлісты</string>
+    <string name="joox_search_result_more">Больш</string>
+    <string name="joox_vip_check_to_pay">Набыць</string>
+    <string name="joox_vip_expired_hint">Тэрмін дзеяння вашай VIP-падпіскі мінуў. Музыка, загружаная з JOOX, будзе адлюстроўвацца толькі ў загрузках.</string>
     <string name="keep_queued_download">Трымаць</string>
     <string name="ktv_playlist">KTV плэйліст</string>
     <string name="language_page_confirm">Пацвердзіць</string>
@@ -673,6 +718,7 @@
     <string name="priority_storage_summary">Аўтаматычна захоўваць файлы на SD-карту, калі яна падлучана</string>
     <string name="privacy_desc">Палітыка прыватнасці (абавязкова)</string>
     <string name="privacy_policy">Палітыка канфідэнцыяльнасці</string>
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=be_BY</string>
     <string name="pro_member">Член PRO</string>
     <string name="project_device">Mi Phone</string>
     <string name="prompt_grant_write_settings_permission">Дазволіць змяняць сістэмныя налады</string>
@@ -801,12 +847,14 @@
     <string name="start_to_check_new_version">Праверка абнаўлення…</string>
     <string name="start_to_download">Запампоўка…</string>
     <string name="start_to_play">Прайграць</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_cloned_app">Памяць для клонаў праграм</string>
     <string name="storage_internal">Унутранае сховішча</string>
     <string name="storage_sd_card">SD-карта</string>
     <string name="storage_usb">USB-сховішча</string>
     <string name="streamloadingtext">Падключэнне да %s</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="supplementary_songs">Дадатковыя песні</string>
     <string name="switch_success">Пераключэнне паспяхова выканана</string>
     <string name="tab_album">Альбомы</string>
     <string name="tab_album_list">Альбомы</string>
@@ -877,6 +925,7 @@
     <string name="upgrade_music_message">Updates are ready. Restart to update.</string>
     <string name="upgrading_in_backstage">Updating in the background…</string>
     <string name="user_agreement">Карыстальніцкае пагадненне</string>
+    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=be_BY</string>
     <string name="v7_preference_off">ВЫКЛ.</string>
     <string name="v7_preference_on">УКЛ.</string>
     <string name="version_info">Version</string>

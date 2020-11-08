@@ -133,5 +133,4 @@
   <string name="screen_overlay_button">Адкрыць налады</string>
   <string name="screen_overlay_message">Каб змяніць гэты дазвол, вам патрэбна адключыць накладанне экранаў у наладах &gt; праграмы.</string>
   <string name="screen_overlay_title">Выяўлена накладанне экранаў</string>
-  <string name="static_cache_db_md5">824eb65433cd21456ac89ae798cb880a</string>
 </resources>

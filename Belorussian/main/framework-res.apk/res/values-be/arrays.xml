@@ -4,7 +4,7 @@
         <item>Хатні</item>
         <item>Працоўны</item>
         <item>Іншы</item>
-        <item>Карыстальніцкі</item>
+        <item>Адвольны</item>
     </string-array>
     <string-array name="imProtocols">
         <item>AIM</item>
@@ -18,8 +18,8 @@
     </string-array>
     <string-array name="organizationTypes">
         <item>Працоўны</item>
-        <item>Іншае</item>
-        <item>Карыстальніцкі</item>
+        <item>Іншы</item>
+        <item>Адвольны</item>
     </string-array>
     <string-array name="phoneTypes">
         <item>Хатні</item>
@@ -32,10 +32,10 @@
         <item>Асаблівы</item>
     </string-array>
     <string-array name="postalAddressTypes">
-        <item>На Галоўную старонку</item>
+        <item>На хатнюю старонку</item>
         <item>Працоўны</item>
         <item>Іншы</item>
-        <item>Карыстальніцкі</item>
+        <item>Адвольны</item>
     </string-array>
     <array name="face_acquired_vendor" />
     <array name="face_error_vendor" />
@@ -45,7 +45,7 @@
         <item>Хатні</item>
         <item>Працоўны</item>
         <item>Іншы</item>
-        <item>Карыстальніцкі</item>
+        <item>Адвольны</item>
     </string-array>
     <string-array name="network_switch_type_name">
         <item>мабільная перадача даных</item>
@@ -55,9 +55,9 @@
         <item>VPN</item>
     </string-array>
     <string-array name="wfcOperatorErrorAlertMessages">
-        <item>Каб рабіць выклікі і адпраўляць паведамленні па Wi-Fi, спачатку папрасіце свайго аператара наладзіць гэту паслугу. Затым зноў уключыце Wi-Fi-тэлефанію ў меню Налады. (Код памылкі: %1$s)</item>
+        <item>Каб здзяйсняць выклікі і адпраўляць паведамленні па Wi-Fi, спачатку папрасіце свайго аператара наладзіць гэтую паслугу. Затым зноў уключыце Wi-Fi-тэлефанію ў меню "Налады". (Код памылкі: %1$s)</item>
     </string-array>
     <string-array name="wfcOperatorErrorNotificationMessages">
-        <item>Памылка падключэння Wi‑Fi-тэлефаніі ў вашага аператара: %1$s</item>
+        <item>Памылка падлучэння Wi‑Fi-тэлефаніі ў вашага аператара: %1$s</item>
     </string-array>
 </resources>

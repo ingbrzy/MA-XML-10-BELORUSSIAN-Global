@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="Nalbum_total_songs">
-        <item quantity="other">Total %d songs</item>
-        <item quantity="one">Total %d song</item>
-        <item quantity="few">Total %d songs</item>
-        <item quantity="many">Total %d songs</item>
+        <item quantity="other">Усяго %d трэка</item>
+        <item quantity="one">Усяго %d трэк</item>
+        <item quantity="few">Усяго %d трэка</item>
+        <item quantity="many">Усяго %d трэка</item>
     </plurals>
     <plurals name="Nassociate_songs">
-        <item quantity="other">Searching for album covers and lyrics (%1$d/%2$d)</item>
-        <item quantity="one">Searching for album covers and lyrics (%1$d/%2$d)</item>
-        <item quantity="few">Searching for album covers and lyrics (%1$d/%2$d)</item>
-        <item quantity="many">Searching for album covers and lyrics (%1$d/%2$d)</item>
+        <item quantity="other">Пошук вокладак і тэкстаў (%1$d/%2$d)</item>
+        <item quantity="one">Пошук вокладак і тэкстаў (%1$d/%2$d)</item>
+        <item quantity="few">Пошук вокладак і тэкстаў (%1$d/%2$d)</item>
+        <item quantity="many">Пошук вокладак і тэкстаў (%1$d/%2$d)</item>
     </plurals>
     <plurals name="Ndialog_renew_content">
         <item quantity="other">"Ваша падпіска сканчаецца праз %d дзён.
@@ -35,14 +35,14 @@
         <item quantity="many">Прайгравальнік будзе спынены праз %d хвілін</item>
     </plurals>
     <plurals name="Nsong_group_detail_subtitle">
-        <item quantity="other">"Created on %1$s 
-total %2$d songs"</item>
-        <item quantity="one">"Created on %1$s 
-total %2$d song"</item>
-        <item quantity="few">"Created on %1$s 
-total %2$d songs"</item>
-        <item quantity="many">"Created on %1$s 
-total %2$d songs"</item>
+        <item quantity="other">"Створана %1$s 
+усяго %2$d песень"</item>
+        <item quantity="one">"Створана %1$s 
+усяго %2$d песня"</item>
+        <item quantity="few">"Створана %1$s 
+усяго %2$d песні"</item>
+        <item quantity="many">"Створана %1$s 
+усяго %2$d песень"</item>
     </plurals>
     <plurals name="Ntracks_add_to_playlist">
         <item quantity="other">%d песень дададзена да плэйліста</item>
@@ -69,10 +69,10 @@ total %2$d songs"</item>
         <item quantity="many">%d similar songs</item>
     </plurals>
     <plurals name="comment_count">
-        <item quantity="other">%d comments</item>
-        <item quantity="one">%d comment</item>
-        <item quantity="few">%d comments</item>
-        <item quantity="many">%d comments</item>
+        <item quantity="other">%d каментарыяў</item>
+        <item quantity="one">%d каментарый</item>
+        <item quantity="few">%d каментарыя</item>
+        <item quantity="many">%d каментарыяў</item>
     </plurals>
     <plurals name="days_ago">
         <item quantity="other">%d дзён таму</item>
@@ -133,10 +133,10 @@ total %2$d songs"</item>
         <item quantity="many">Засталіся %d бясплатных загрузак</item>
     </plurals>
     <plurals name="multichoice_title">
-        <item quantity="other">%d items selected</item>
-        <item quantity="one">%d item selected</item>
-        <item quantity="few">%d items selected</item>
-        <item quantity="many">%d items selected</item>
+        <item quantity="other">Выбрана элементаў: %d</item>
+        <item quantity="one">Выбрана элементаў: %d</item>
+        <item quantity="few">Выбрана элементаў: %d</item>
+        <item quantity="many">Выбрана элементаў: %d</item>
     </plurals>
     <plurals name="notif_title_multiple_downloading">
         <item quantity="other">Пампуецца %1$d файлаў</item>
@@ -151,10 +151,10 @@ total %2$d songs"</item>
         <item quantity="many">"Не атрымалася спампаваць %1$d аб'ектаў"</item>
     </plurals>
     <plurals name="reader_count">
-        <item quantity="other">%d followers</item>
-        <item quantity="one">%d follower</item>
-        <item quantity="few">%d followers</item>
-        <item quantity="many">%d followers</item>
+        <item quantity="other">%d падпісчыкаў</item>
+        <item quantity="one">%d падпісчык</item>
+        <item quantity="few">%d падпісчыка</item>
+        <item quantity="many">%d падпісчыкаў</item>
     </plurals>
     <plurals name="send_songs_toast">
         <item quantity="other">Будуць адпраўлены трэкі: %d</item>
@@ -163,10 +163,10 @@ total %2$d songs"</item>
         <item quantity="many">Будуць адпраўлены трэкі: %d</item>
     </plurals>
     <plurals name="skipped_online_songs_tips">
-        <item quantity="other">Skipped %d songs. Turn on online services in the settings to listen to them.</item>
-        <item quantity="one">Skipped %d song. Turn on online services in the settings to listen to it.</item>
-        <item quantity="few">Skipped %d songs. Turn on online services in the settings to listen to them.</item>
-        <item quantity="many">Skipped %d songs. Turn on online services in the settings to listen to them.</item>
+        <item quantity="other">Прапушчана %d песень. Уключыце анлайн-паслугі ў наладах, каб праслухаць іх.</item>
+        <item quantity="one">Прапушчана %d песня. Уключыце анлайн-паслугі ў наладах, каб праслухаць яе.</item>
+        <item quantity="few">Прапушчана %d песень. Уключыце анлайн-паслугі ў наладах, каб праслухаць іх.</item>
+        <item quantity="many">Прапушчана %d песень. Уключыце анлайн-паслугі ў наладах, каб праслухаць іх.</item>
     </plurals>
     <plurals name="song_already_favorite">
         <item quantity="other">Песні ўжо ў выбраных.</item>
@@ -175,10 +175,10 @@ total %2$d songs"</item>
         <item quantity="many">Песні ўжо ў выбраных.</item>
     </plurals>
     <plurals name="songs_count">
-        <item quantity="other">%d songs</item>
-        <item quantity="one">%d song</item>
-        <item quantity="few">%d songs</item>
-        <item quantity="many">%d songs</item>
+        <item quantity="other">%d трэка</item>
+        <item quantity="one">%d трэк</item>
+        <item quantity="few">%d трэка</item>
+        <item quantity="many">%d трэка</item>
     </plurals>
     <plurals name="sound_fade_duration_in_seconds">
         <item quantity="other">Плаўны пераход паміж трэкамі: %d секунд</item>

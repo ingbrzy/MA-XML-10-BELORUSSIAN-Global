@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="detail_update_time_hour">
-        <item quantity="other">%d гадзін таму</item>
-        <item quantity="one">%d гадзіна таму</item>
-        <item quantity="few">%d гадзіны таму</item>
-        <item quantity="many">%d гадзін таму</item>
-    </plurals>
-    <plurals name="detail_update_time_minute">
-        <item quantity="other">%d хвілін таму</item>
-        <item quantity="one">%d хвіліну таму</item>
-        <item quantity="few">%d хвіліны таму</item>
-        <item quantity="many">%d хвілін таму</item>
-    </plurals>
-    <plurals name="guide_used_number">
-        <item quantity="other">Ужыта на %1$d прыладах</item>
-        <item quantity="one">Ужыта на %1$d прыладзе</item>
-        <item quantity="few">Ужыта на %1$d прыладах</item>
-        <item quantity="many">Ужыта на %1$d прыладах</item>
+    <plurals name="portfolio">
+        <item quantity="other">%d работы</item>
+        <item quantity="one">%d работа</item>
+        <item quantity="few">%d работы</item>
+        <item quantity="many">%d работ</item>
     </plurals>
     <plurals name="resource_comment_score_count">
         <item quantity="other">%d каментарыяў</item>
@@ -24,59 +12,23 @@
         <item quantity="few">%d каментарыя</item>
         <item quantity="many">%d каментарыяў</item>
     </plurals>
-    <plurals name="resource_rating">
-        <item quantity="other">%1$.1f балаў</item>
-        <item quantity="one">%1$.1f бал</item>
-        <item quantity="few">%1$.1f бала</item>
-        <item quantity="many">%1$.1f балаў</item>
+    <plurals name="resource_font_download_notification_title_many">
+        <item quantity="other">%1$s шрыфтоў паспяхова спампаваныя</item>
+        <item quantity="one">%1$s шрыфт паспяхова спампаваны</item>
+        <item quantity="few">%1$s шрыфта паспяхова спампаваныя</item>
+        <item quantity="many">%1$s шрыфтоў паспяхова спампаваныя</item>
     </plurals>
-    <plurals name="ringtone_nums">
-        <item quantity="other">%1$s мелодый</item>
-        <item quantity="one">%1$s мелодыя</item>
-        <item quantity="few">%1$s мелодыі</item>
-        <item quantity="many">%1$s мелодый</item>
-    </plurals>
-    <plurals name="theme_batch_has_update_text">
-        <item quantity="other">Даступны абнаўленні для %1$d тэмы.</item>
-        <item quantity="one">Даступны абнаўленні для %1$d тэмы.</item>
-        <item quantity="few">Даступны абнаўленні для %1$d тэм.</item>
-        <item quantity="many">Даступны абнаўленні для %1$d тэм.</item>
+    <plurals name="resource_theme_download_notification_title_many">
+        <item quantity="other">%1$s тэм паспяхова спампаваныя</item>
+        <item quantity="one">%1$s тэма паспяхова спампавана</item>
+        <item quantity="few">%1$s тэмы паспяхова спампаваныя</item>
+        <item quantity="many">%1$s тэм паспяхова спампаваныя</item>
     </plurals>
     <plurals name="theme_designer_products_count">
         <item quantity="other">%1$s работ</item>
         <item quantity="one">%1$s работа</item>
         <item quantity="few">%1$s работы</item>
         <item quantity="many">%1$s работ</item>
-    </plurals>
-    <plurals name="theme_update_local_resource_notifaction">
-        <item quantity="other">Даступныя абнаўленні для %1$d тэмы</item>
-        <item quantity="one">Даступныя абнаўленні для %1$d тэмы</item>
-        <item quantity="few">Даступныя абнаўленні для %1$d тэм</item>
-        <item quantity="many">Даступныя абнаўленні для %1$d тэмаў</item>
-    </plurals>
-    <plurals name="transparent_wallpaper_filter_hint">
-        <item quantity="other">Шукаць сярод %1$d праграм</item>
-        <item quantity="one">Шукаць сярод %1$d праграмы</item>
-        <item quantity="few">Шукаць сярод %1$d праграм</item>
-        <item quantity="many">Шукаць сярод %1$d праграм</item>
-    </plurals>
-    <plurals name="transparent_wallpaper_filter_result">
-        <item quantity="other">Знойдзена праграм: %1$d</item>
-        <item quantity="one">Знойдзена праграм: %1$d</item>
-        <item quantity="few">Знойдзена праграм: %1$d</item>
-        <item quantity="many">Знойдзена праграм: %1$d</item>
-    </plurals>
-    <plurals name="trial_countdown_notification_tip">
-        <item quantity="other">Вы зможаце паспрабаваць \"%2$s\" праз %1$d гадзін</item>
-        <item quantity="one">Вы зможаце паспрабаваць \"%2$s\" праз %1$d гадзіну</item>
-        <item quantity="few">Вы зможаце паспрабаваць \"%2$s\" праз %1$d гадзіны</item>
-        <item quantity="many">Вы зможаце паспрабаваць \"%2$s\" праз %1$d гадзін</item>
-    </plurals>
-    <plurals name="try_3_day">
-        <item quantity="other">"3-дзённая выпрабавальная версія (на сёння засталось %1$d аб'ектаў)"</item>
-        <item quantity="one">"3-дзённая выпрабавальная версія (на сёння застаўся %1$d аб'ект)"</item>
-        <item quantity="few">"3-дзённая выпрабавальная версія (на сёння засталось %1$d аб'екта)"</item>
-        <item quantity="many">"3-дзённая выпрабавальная версія (на сёння засталось %1$d аб'ектаў)"</item>
     </plurals>
     <plurals name="wallpaper_staggered_item_text">
         <item quantity="other">"%1$s | %2$d аб'ектаў"</item>

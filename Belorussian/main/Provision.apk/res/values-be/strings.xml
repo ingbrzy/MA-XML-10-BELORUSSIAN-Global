@@ -19,6 +19,7 @@
     <string name="application_package_introduction">Гэтая праграма дазваляе ўсталёўваць праграмы іншых распрацоўнікаў і сканаваць іх перад устаноўкай, а таксама дае рэкамендацыі пасля ўстаноўкі.</string>
     <string name="application_permissions">Дазволы праграм</string>
     <string name="back">Назад</string>
+    <string name="backup_introduction">Вы можаце выкарыстоўваць гэтую праграму для рэзервовага капіявання і аднаўлення дадзеных на вашай прыладзе.</string>
     <string name="calculator_introduction">Вы можаце выкарыстоўваць гэтую праграму для разлікаў, канвертавання адзінак і валют, а таксама папярэдняга разліку памеру выплат па іпатэцы.</string>
     <string name="camera_introduction">Вы можаце выкарыстоўваць Камеру для здымкі фота і відэа.</string>
     <string name="carrier_introduction">Для прадастаўлення вам лепшых паслуг прылада можа перыядычна адпраўляць інфармацыю аб версіі прылады, ідэнтыфікацыйныя дадзеныя прылады (у тым ліку IMEI/IMSI/MSISDN/MAC-адрас, Meid/ICCID) і інфармацыю аб прыблізным месцазнаходжанні (уключаючы ідэнтыфікатар базавай станцыі) аператару праз Wi- Fi, сетку мабільных дадзеных або ў бясплатным SMS. Аператар абяцае аналізаваць адпаведную інфармацыю толькі для лепшага аказання ці прадастаўленні спецыялізаваных паслуг або тэхналогій, а таксама не будзе раскрываць адпаведную інфармацыю трэцім асобам у любой форме, якая дазваляе вызначыць вашу асобу. Канкрэтная заява аператара мае пераважную сілу. Звярніцеся да свайго аператару за звесткамі аб кошце выкарыстання дадзенай паслугі.</string>
@@ -44,6 +45,7 @@
     <string name="disageement_abnormal_download">Калі вы не згодныя прадаставіць такія дазволы або перадаваць і загружаць вашу асабістую інфармацыю, вы не зможаце скарыстацца гэтай паслугай.</string>
     <string name="disagree">Скасаваць</string>
     <string name="disagreement_abnormal_running">Калі вы не згодныя прадаставіць такія дазволы або перадаць і загрузіць сваю асабістую інфармацыю, вы не зможаце выкарыстоўваць гэтую праграму. У такіх выпадках вы можаце не выкарыстоўваць гэтую праграму ці не абмежаваць дазволы ў наладах.</string>
+    <string name="disagreement_abnormal_running_fast_pairing">Калі вы не згодныя прадастаўляць дадзеныя дазволы, вы не зможаце скарыстацца гэтай праграмай. У такіх выпадках вы можаце абмежаваць дазволы і выключыць гэтую функцыю ў Наладах.</string>
     <string name="disagreement_donnot_use_application">Калі вы не згодныя прадаставіць такія дазволы або перадаць і загрузіць сваю асабістую інфармацыю, вы не зможаце выкарыстоўваць гэтую праграму. У такіх выпадках вы можаце адмовіцца ад выкарыстання гэтай праграмы.</string>
     <string name="disagreement_donnot_use_product">Калі вы не згодныя прадаставіць такія дазволы або перадаць і загрузіць сваю асабістую інфармацыю, вы не зможаце выкарыстоўваць гэты прадукт. У такіх выпадках вы можаце адмовіцца ад выкарыстання гэтага прадукта.</string>
     <string name="disagreement_donnot_use_service">Калі вы не згодныя прадаставіць такія дазволы або перадаць і загрузіць сваю асабістую інфармацыю, вы не зможаце выкарыстоўваць гэтую паслугу. У такіх выпадках вы можаце адмовіцца ад выкарыстання гэтай паслугі.</string>
@@ -51,18 +53,22 @@
     <string name="disagreement_function">Калі вы не згодныя прадаставіць такія дазволы або перадаць і загрузіць сваю асабістую інфармацыю, вы не зможаце выкарыстоўваць гэтую функцыю. У такіх выпадках вы можаце адмовіцца ад выкарыстання гэтай функцыі.</string>
     <string name="disagreement_location_service">Калі вы не згодныя прадаставіць такія дазволы або перадаваць і загружаць вашу асабістую інфармацыю, вы не зможаце скарыстацца гэтай паслугай.</string>
     <string name="disagreement_terminate_service">Калі вы не згодныя прадаставіць такія дазволы або перадаць і загрузіць сваю асабістую інфармацыю, вы не зможаце выкарыстоўваць гэтую праграму. У такіх выпадках вы можаце выдаліць праграму, выйсці з яе або абмежаваць дазволы ў Наладах.</string>
-    <string name="download_introduction">Гэтая праграма кіруе ўсімі запампоўкамі, у тым ліку тымі, якія выконваюцца ў GetApps, Mi Відэа, інструменце «Абнаўленні», Тэмах і браўзэры.</string>
+    <string name="download_introduction">"Інструмент «Запампоўкі» выкарыстоўвае Xunlei для запампоўкі аб'ектаў на вашe прыладe. Ён выкарыстоўваецца ў праграме GetApps, а таксама для загрузкі сістэмных абнаўленняў, тэм, відэа і файлаў у браўзэры."</string>
     <string name="enable_accessibility_canceled">Уключэнне TalkBack скасавана.</string>
     <string name="enable_accessibility_dialog_message">Вы ўключылі TalkBack, націскаючы на ​​экран двума пальцамі даўжэй 10 секунд. TalkBack - гэта галасавы сэрвіс для людзей з парушэннем зроку. Калі вы выпадкова ўключылі яго, націсніце кнопку \"Скасаваць\", а затым двойчы краніцеся экрана.</string>
     <string name="enable_accessibility_dialog_negative_btn">Скасаваць</string>
     <string name="enable_accessibility_dialog_positive_btn">OK</string>
     <string name="fast_application_introduction">Абалонка «Хуткія праграмы» дазваляе ствараць і прадастаўляць паслугі ў Хуткіх праграмах.</string>
+    <string name="fast_pairing_introduction">Mi Link дазваляе вашай прыладзе падлучацца да Bluetooth-прылад паблізу з дапамогай паслугі MIUI Bluetooth. Для пошуку прылад паблізу дазволіце сэрвісу MIUI Bluetooth падключацца да Інтэрнэту.</string>
     <string name="font_hint_large">Памер тэксту па змаўчанні</string>
     <string name="font_hint_normal">Павялічыць памер тэксту</string>
     <string name="framework_introduction">Mi Services Framework дазваляе выкарыстоўваць Mi акаўнт, Mi Push, Mi Статыстыку і бізнес-аналітыку MIUI.</string>
     <string name="framwork_base_service">Для прадастаўлення вам гэтых паслуг Mi Services Framework (Mi акаўнт, Mi Push, Mi Статыстыка, Бізнес-аналітыка MIUI) патрабуецца падлучэнне да Інтэрнэту, доступ да вашага месцазнаходжання, нумары тэлефон, IMEI і IMSI. Вы такэже павінны дазволіць вашай прыладзе атрымліваць push-апавяшчэнні</string>
     <string name="game_introduction">Убудова гульняў дазваляе ўваходзіць у сістэму, ствараць заказы, выконваць плацяжы, выкарыстоўваць купоны, а таксама ўдзельнічаць у прома-акцыях.</string>
     <string name="google_service_introduction">Для нармальнай працы Google Play патрабуецца падлучэнне да Інтэрнэту, доступ да вашага месцазнаходжання, дазвол на запіс аўдыё, выкананне выклікаў, доступ да мерапрыемстваў календара, гісторыі выклікаў, датчыкаў, памяці, камеры, інфармацыі пра прыладу, а таксама акаўнтаў.</string>
+    <string name="home_settings_miui_home">Класічны</string>
+    <string name="home_settings_poco_launcher">Меню праграм</string>
+    <string name="home_settings_title">Выберыце працоўны стол па змаўчанні</string>
     <string name="ime_privacy_policy">Палітыка канфідэнцыяльнасці для выбранай клавіятуры</string>
     <string name="ime_privacy_policy_no_network">Няма падключэння да сеткі. Паказаць Палітыку канфідэнцыяльнасці для гэтай клавіятуры на %s.</string>
     <string name="input_method_category">Выберыце клавіятуру па змаўчанні, якую вы будзеце выкарыстоўваць для напісання паведамленняў, нататак і г. д. Звярніце ўвагу, што вы можаце ўсталяваць іншыя клавіятуры пазней.</string>
@@ -70,16 +76,27 @@
     <string name="install_preinstall_app">Загрузка праграмы…</string>
     <string name="item_fingerprint">Адбітак пальца</string>
     <string name="item_lock_screen_password">Толькі блакаванне экрана</string>
+    <string name="ktlocation_U">(KT Service Agent)</string>
+    <string name="ktposition_header">Перадача інфармацыі пра месцазнаходжанне аварыйна-выратавальным службам</string>
     <string name="language_picker_other_languages_title">Іншыя мовы</string>
     <string name="language_settings">Выбраць мову</string>
     <string name="locale_picker_other_locale_title">Дадатковыя рэгіёны</string>
     <string name="locale_picker_title">Выберыце свой рэгіён</string>
+    <string name="location_U">U+ GPSnWPS</string>
+    <string name="location_content">"У адпаведнасці з законам аператары мабільнай сувязі могуць атрымліваць інфармацыю пра месцазнаходжанне мабільных прылад для выканання патрабаванняў аварыйна-ратавальных органаў (аддзелаў пажарнай аховы і паліцыі), што прад'яўляюцца ў мэтах бяспекі і выратавання ў надзвычайных абставінах."</string>
     <string name="location_introduction">Геалакацыйныя службы знаходзяць тавары і паслугі побач з вамі.</string>
+    <string name="location_location">Аварыйна-выратавальныя органы могуць па запыце атрымліваць інфармацыю аб вашым бягучым месцазнаходжанні</string>
     <string name="lockscreen_introduction">Чаргаванне тэмаў забяспечвае штодзённую дастаўку новых выяў на Экран блакавання.</string>
     <string name="mint_keyboard_oobe_checkbox">Я прачытаў(-ла) і прымаю Палітыку прыватнасці Клавіятуры Mint</string>
     <string name="mint_keyboard_oobe_terms">Палітыка прыватнасці Клавіятуры Mint</string>
     <string name="miui_privacy_policy_no_network">Няма падключэння да інтэрнэту. Азнаёміцца з Палітыкай канфідэнцыяльнасці на %s.</string>
     <string name="miui_terms_no_network">Няма падключэння да інтэрнэту. Праглядзіце Карыстальніцкае пагадненне па адрасе %s.</string>
+    <string name="mobile_network">Выкарыстоўваецца мабільны інтэрнэт</string>
+    <string name="move_data_dialog_box_le">"Гэта дазваляе выкарыстоўваць мабільны інтэрнэт і падлучэнне GPS па запыце карыстальніка. Сінхранізацыя акаўнтаў і іншых аб'ектаў могуць запатрабаваць выкарыстання мабільнага інтэрнэту ў залежнасці ад тэхнічных характарыстык смартфона."</string>
+    <string name="move_data_dialog_box_title">"Акрамя выпадкаў наяўнасці ў вас тарыфнага плана з неабмежаваным аб'ёмам дадзеных, выкарыстанне мабільнага інтэрнэту можа прывесці да налічэння дадатковых збораў аператарам. Усё роўна выкарыстоўваць мабільны інтэрнэт?"</string>
+    <string name="move_data_dialog_cancel">Адмена</string>
+    <string name="move_data_dialog_title">Пазней вы можаце абмежаваць выкарыстанне мабільнага інтэрнэту ў Наладах</string>
+    <string name="move_data_dialog_use">Выкарыстаць</string>
     <string name="multisim_settings_category">Налады SIM-карты</string>
     <string name="multisim_settings_title">Выяўлена 2 SIM-карты</string>
     <string name="navigation_picker_gesture_guide">Кіраўніцтва па жэстах</string>
@@ -111,6 +128,8 @@
     <string name="permission_account">Доступ да акаўнтаў на вашай прыладзе:</string>
     <string name="permission_account_introduction">Для ўваходу з дапамогай Mi акаўнт</string>
     <string name="permission_application_package_introduction">Для доступу да памяці з мэтай праверкі і сканавання пакетаў усталявання</string>
+    <string name="permission_backup">Доступ да памяці</string>
+    <string name="permission_backup_introduction">Для захавання рэзервовых копій і доступу да іх на вашай прыладзе</string>
     <string name="permission_call_records">Доступ да Гісторыі вызаваў:</string>
     <string name="permission_call_records_introduction">"Для доступу да Гісторыі вызаваў, каб адлюстраваць заблякаваныя аб'екты"</string>
     <string name="permission_call_state_introduction">Для доступу да статусу тэлефона, запісу выклікаў і прыпынення запісу падчас ўваходных выклікаў</string>
@@ -152,6 +171,8 @@
     <string name="poco_agree_terms_other">(У тым ліку Палітыка канфідэнцыяльнасці і Карыстальніцкае пагадненне POCO Launcher)</string>
     <string name="poco_launcher_privacy_policy">Палітыка прыватнасці POCO Launcher</string>
     <string name="poco_launcher_user_agreement">Карыстальніцкае пагадненне POCO Launcher</string>
+    <string name="position_header">Перадача інфармацыі пра месцазнаходжанне</string>
+    <string name="position_subheading">Інфармацыя пра месцазнаходжанне</string>
     <string name="pref_title_data_slot">Пераважная SIM для інтэрнэту</string>
     <string name="pref_title_voice_slot">Пераважная SIM для размоў</string>
     <string name="privacy_policy">Палітыка канфідэнцыяльнасці</string>
@@ -168,6 +189,7 @@
     <string name="service_agreement">Я прачытаў(-ла) палажэнні і ўмовы і пагадзіўся(-лася) з імі.</string>
     <string name="service_name_album">Галерэя</string>
     <string name="service_name_application_package">Усталёўнік пакетаў</string>
+    <string name="service_name_backup">Рэзервовыя копіі</string>
     <string name="service_name_calculator">Калькулятар</string>
     <string name="service_name_camera">Камера</string>
     <string name="service_name_carrier">Заяву аб паслугах аператара</string>
@@ -176,6 +198,7 @@
     <string name="service_name_content_center">Цэнтр зместу</string>
     <string name="service_name_download">Спампоўкі</string>
     <string name="service_name_fast_application">Абалонка «Хуткія праграмы»</string>
+    <string name="service_name_fast_pairing">Mi Link</string>
     <string name="service_name_game">Убудова гульняў</string>
     <string name="service_name_google_service">Заява аб паслугах Google</string>
     <string name="service_name_location">Геалакацыйныя службы</string>
@@ -186,6 +209,7 @@
     <string name="service_name_security">Бяспека</string>
     <string name="service_name_service_framework">Mi Services Framework</string>
     <string name="service_policy">&lt;Data>Прачытайце і прыміце нашу &lt;a href=%1$s>Палітыку прыватнасці&lt;/a >.&lt;/Data></string>
+    <string name="service_policy_download">&lt;Data>Перад выкарыстаннем нашых службаў азнаёмцеся і пагадзіцеся з &lt;a href=%1$s>Палітыкай прыватнасці Xunlei&lt;/a >.&lt;/Data></string>
     <string name="service_privacy_index">Палітыка канфідэцыйнасці</string>
     <string name="servicestate_title">Заяву аб асноўных паслугах</string>
     <string name="setting_locale">Налады рэгіёна…</string>
@@ -219,7 +243,7 @@
     <string name="terms_of_use_label_phrase">, Частыя выразы</string>
     <string name="terms_of_use_label_systemhelper">, самастойная рэгістрацыя</string>
     <string name="terms_of_use_label_updater">, Абнаўленне</string>
-    <string name="terms_of_use_lable_apps">Сэрвісы Mi, Сэрвіс актывацыі Mi SIM, Xiaomi Cloud, Пошук прылады, Галоўны экран, Гульні, MIUI Daemon, сістэмныя кампаненты MSA, сервісы перакладу, Хуткія праграмы, Стужка віджэтаў, статыстыка, Mi Link</string>
+    <string name="terms_of_use_lable_apps">Сэрвісы Mi, Сэрвіс актывацыі Mi SIM, Xiaomi Cloud, Пошук прылады, Галоўны экран, Гульні, MIUI Daemon, сістэмныя кампаненты MSA, сервісы перакладу, MIUI SDK, Хуткія праграмы, Стужка віджэтаў, статыстыка, Mi Link</string>
     <string name="terms_of_use_lable_default_input_method_facemoji">"
 
 Перад выкарыстаннем гэтага сродку вам неабходна прыняць Палітыку канфідэнцыяльнасці Facemoji."</string>
@@ -236,7 +260,7 @@
     <string name="terms_privacy_policy_input_method_kika">Палітыка канфідэнцыяльнасці Kika</string>
     <string name="title_fingerprint">Задаць пароль</string>
     <string name="user_agreement">Карыстальніцкае пагадненне</string>
-    <string name="user_agreement_declare">Перад выкарыстаннем MIUI вы абавязаны прачытаць нашы Карыстальніцкае пагадненне і Палітыку прыватнасці і пагадзіцца з імі. Падчас актывацыі прылады Сэрвіс актывацыі Mi SIM, Xiaomi Cloud, Пошук прылады, Галоўны экран, Частыя фразы, Сэрвіс перакладу, MIUI Daemon, Прагляд HTML, Памочнік AI, Батарэя і прадукцыйнасць, Дэтэктар cілкавання, Joyose, Налады AI у АС, Кіраванне дазволамі і Абнаўленні будуць падлучацца да сеткі. Смарт-паслугі будуць падлучацца да сеткі і атрымліваць доступ да дадзеных аб вашым месцазнаходжанні.</string>
+    <string name="user_agreement_declare">Перад выкарыстаннем MIUI вы абавязаны прачытаць нашы Карыстальніцкае пагадненне і Палітыку прыватнасці і пагадзіцца з імі. Падчас актывацыі прылады Сэрвіс актывацыі Mi SIM, Xiaomi Cloud, Пошук прылады, Галоўны экран, Частыя фразы, Сэрвіс перакладу, MIUI Daemon, Прагляд HTML, MIUI SDK, Памочнік AI, Батарэя і прадукцыйнасць, Дэтэктар cілкавання, Joyose, Налады AI у АС, Кіраванне дазволамі і Абнаўленні будуць падлучацца да сеткі. Смарт-паслугі будуць падлучацца да сеткі і атрымліваць доступ да дадзеных аб вашым месцазнаходжанні.</string>
     <string name="voice_assist_advice">Mi AI дазваляе вам кіраваць прыладай з дапамогай голасу, але павышае спажыванне энергіі (+1% у гадзіну).</string>
     <string name="voice_assist_condition">"Вы зможаце карыстацца Mi AI у наступных выпадках:r
 1. Пры уключаным экране.r

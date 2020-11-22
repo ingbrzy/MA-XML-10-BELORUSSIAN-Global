@@ -46,8 +46,8 @@
     <string name="passport_trust_device">Давяраць гэтай прыладзе</string>
     <string name="passport_vcode_prompt_long">Увядзіце праверачны код</string>
     <string name="passport_verify">Праверыць</string>
-    <string name="password">Пароль</string>
-    <string name="phone_locked">Гэтая прылада, магчыма, суадносіцца з існуючым Mi Акаўнтам (%s). Ажыццявіце ўваход для актывавання прылады.</string>
+    <string name="password">Увядзіце пароль</string>
+    <string name="phone_locked">Гэта прылада звязана з Mi акаўнтам (%s). Увядзіце пароль для актывацыі прылады.</string>
     <string name="phone_locked_account_email">, звязаны email: %s</string>
     <string name="phone_locked_account_phone">, звязаны нумар тэлефона: %s</string>
     <string name="return_to_call">Вярнуцца да размовы</string>
@@ -74,14 +74,14 @@
     <string name="unlock_error_unknown">Не атрымалася ўвасці</string>
     <string name="unlock_error_user_name">Няправільнае імя карыстальніка</string>
     <string name="unlock_error_wrong_vcode">Уведзены няправільны код</string>
-    <string name="unlock_help">"Падлучыцеся да сеткі.
-Пераканайцеся, што ўсталяваная SIM-карта дзейная (калі падтрымліваецца прыладай) і прылада падлучана да дзейнай сеткі Wi-Fi.
+    <string name="unlock_help">"Падключыцеся да сеткі.
+Устаўце SIM-карту, якая працуе, і не падключайцеся да несапраўдных сетак Wi-Fi.
 
-Забылі пароль?
-Перайдзіце на id.mi.com, каб скінуць пароль.
+Забыліся пароль?
+Перайдзіце на id.mi.com, абярыце «Забылі пароль?» і выконвайце інструкцыі.
 
-Іншае
-Выканайце ўваход на i.mi.com і паспрабуйце разблакаваць прыладу адтуль."</string>
+Не ўдаецца актываваць прыладу?
+Перайдзіце на i.mi.com/ss і адпраўце заяўку на разблакоўку прылады."</string>
     <string name="unlock_help_title">Дапамога па разблакоўцы:</string>
     <string name="unlock_number">Код разблакоўкі: %s</string>
     <string name="unlock_wrong_captcha">Уведзены няправільны код</string>

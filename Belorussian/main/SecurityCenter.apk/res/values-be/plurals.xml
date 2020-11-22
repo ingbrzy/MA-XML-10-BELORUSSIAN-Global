@@ -482,6 +482,12 @@
         <item quantity="few">Замацавана %d праграмы</item>
         <item quantity="many">Замацавана %d праграм</item>
     </plurals>
+    <plurals name="om_running_apps_num">
+        <item quantity="other">%d праграм</item>
+        <item quantity="one">%d праграма</item>
+        <item quantity="few">%d праграмы</item>
+        <item quantity="many">%d праграм</item>
+    </plurals>
     <plurals name="optimize_result_button_add_score">
         <item quantity="other">+%d</item>
         <item quantity="one">+%d</item>

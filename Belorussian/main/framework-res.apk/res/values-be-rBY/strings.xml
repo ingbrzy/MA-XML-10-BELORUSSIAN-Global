@@ -23,6 +23,7 @@
     <string name="dialog_alert_title">Увага</string>
     <string name="VideoView_error_text_invalid_progressive_playback">Відэа не падыходзіць для патокавай перадачы на ​​гэту прыладу.</string>
     <string name="selectTextMode">Выбраць тэкст</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="fingerprint_icon_content_description">Значок адбіткаў пальцаў</string>
     <string name="paste_as_plain_text">Уставіць як звычайны тэкст</string>
     <string name="autofill">Аўтазапаўненне</string>
@@ -174,7 +175,6 @@
 Рэжым эканоміі зараду адключаецца аўтаматычна, калі прылада зараджаецца."</string>
     <string name="beforeOneMonthDurationPast">Раней, чым 1 месяц таму</string>
     <string name="bluetooth_a2dp_audio_route_name">Bluetooth-аўдыё</string>
-    <string name="browse">Браўзер</string>
     <string name="bugreport_message">Будзе збiрацца iнфармацыя пра бягучы стан прылады, якая будзе адпраўляцца на электронную пошту. Стварэнне справаздачы пра памылкi зойме некаторы час.</string>
     <string name="bugreport_option_full_summary">Выкарыстоўвайце гэту опцыю, каб забяспечыць мінімальнае ўмяшанне сістэмы, калі прылада не адказвае ці працуе занадта павольна, або калі вам патрэбны ўсе раздзелы справаздачы. Выкарыстоўваючы гэту опцыю, вы не зможаце ўвесці больш падрабязную інфармацыю або зрабіць дадатковыя здымкі экрана.</string>
     <string name="bugreport_option_full_title">Поўная справаздача</string>
@@ -262,7 +262,6 @@
     <string name="deny">Адмовіць</string>
     <string name="description_target_unlock_tablet">Прагартайце, каб разблакаваць.</string>
     <string name="device_storage_monitor_notification_channel">Сховішча на прыладзе</string>
-    <string name="dial">Тэлефон</string>
     <string name="dial_number_using">"Набраць нумар
 з выкарыстаннем %s"</string>
     <string name="disable_accessibility_shortcut">Дэактываваць камбінацыю хуткага доступу</string>
@@ -281,7 +280,6 @@
     <string name="editTextMenuTitle">Дзеянні з тэкстам</string>
     <string name="elapsed_time_short_format_h_mm_ss">%1$d:%2$02d:%3$02d</string>
     <string name="elapsed_time_short_format_mm_ss">%1$02d:%2$02d</string>
-    <string name="email">Электронная пошта</string>
     <string name="emailTypeCustom">Карыстальніцкі</string>
     <string name="emailTypeHome">Хатні</string>
     <string name="emailTypeMobile">Мабільны</string>
@@ -357,6 +355,7 @@
     <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
     <string name="fcComplete">"Код аб'екта завершаны."</string>
     <string name="fcError">Праблема падлучэння ці няправільны код функцыі.</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="find">Пошук</string>
     <string name="find_next">Знайсці нiжэй</string>
     <string name="find_on_page">Знайсці на старонцы</string>
@@ -543,6 +542,7 @@
     <string name="kg_reordering_delete_drop_target_text">Выдалiць</string>
     <string name="kg_sim_pin_instructions">Увядзіце PIN-код SIM-карты</string>
     <string name="kg_sim_unlock_progress_dialog_message">Разблакiроўка SIM-карты...</string>
+    <string name="kg_text_message_separator">" — "</string>
     <string name="kg_too_many_failed_password_attempts_dialog_message">"Вы няправільна ўвялі пароль пэўную колькасць разоў: %1$d. 
 
 Паўтарыце спробу праз %2$d с."</string>
@@ -644,7 +644,6 @@
     <string name="managed_profile_label_badge">%1$s (праца)</string>
     <string name="managed_profile_label_badge_2">Другая праца %1$s</string>
     <string name="managed_profile_label_badge_3">Трэцяя праца %1$s</string>
-    <string name="map">Карты</string>
     <string name="maximize_button_text">Разгарнуць</string>
     <string name="me">Я</string>
     <string name="media_route_button_content_description">Перадача</string>
@@ -806,6 +805,7 @@
     <string name="notification_channel_wfc">Wi-Fi-тэлефанія</string>
     <string name="notification_hidden_text">Змесціва схавана</string>
     <string name="notification_listener_binding_label">Слухач апавяшчэння</string>
+    <string name="notification_messaging_title_template">%1$s: %2$s</string>
     <string name="notification_ranker_binding_label">Служба ацэнкі важнасці апавяшчэнняў</string>
     <string name="notification_title">Памылка ўваходу ва ўлiковы запiс %1$s</string>
     <string name="notification_work_profile_content_description">Працоўны профіль</string>
@@ -1093,6 +1093,7 @@
     <string name="phoneTypeWork">Працоўны</string>
     <string name="phoneTypeWorkMobile">Працоўны мабільны нумар</string>
     <string name="phoneTypeWorkPager">Працоўны пэйджар</string>
+    <string name="pin_target">Замацаваць</string>
     <string name="policydesc_disableCamera">Забараніць выкарыстанне ўсіх камер прылады.</string>
     <string name="policydesc_disableKeyguardFeatures">Забараніць выкарыстанне некаторых функцый блакіроўкі экрана.</string>
     <string name="policydesc_encryptedStorage">Запыт на шыфраванне захаваных дадзеных прыкладанняў.</string>
@@ -1317,7 +1318,6 @@
     <string name="system_error_wipe_data">На вашай прыладзе ўзнікла ўнутраная праблема, і яна можа працаваць нестабільна, пакуль вы не зробіце скід да заводскіх налад.</string>
     <string name="taking_remote_bugreport_notification_title">Стварэнне справаздачы пра памылку…</string>
     <string name="terabyteShort">Тб</string>
-    <string name="tethered_notification_message">Дакраніцеся, каб наладзіць.</string>
     <string name="tethered_notification_title">USB-мадэм або кропка доступу Wi-Fi актыўныя</string>
     <string name="textSelectionCABTitle">Вылучэнне тэксту</string>
     <string name="text_copied">Тэкст скапіяваны ў буфер абмену.</string>
@@ -1341,6 +1341,7 @@
     <string name="turn_on_radio">Уключыць бесправадную сетку</string>
     <string name="tutorial_double_tap_to_zoom_message_short">Націсніце двойчы, каб кіраваць маштабаваннем</string>
     <string name="undo">Адрабіць</string>
+    <string name="unpin_target">Адмацаваць</string>
     <string name="unsupported_display_size_message">%1$s не падтрымлівае бягучую наладу Памеру дысплэя і можа паводзіць сябе непрадказальным чынам.</string>
     <string name="unsupported_display_size_show">Заўсёды паказваць</string>
     <string name="upload_file">Выберыце файл</string>
@@ -1423,25 +1424,8 @@
     <string name="whichViewApplicationNamed">Адкрыць з дапамогай %1$s</string>
     <string name="wifi_available_sign_in">Уваход у сетку Wi-Fi</string>
     <string name="wifi_calling_off_summary">Выкл.</string>
-    <string name="wifi_connect_alert_message">Праграма %1$s хоча падлучыцца да сеткі Wi-Fi %2$s</string>
-    <string name="wifi_connect_alert_title">Дазволіць падключэнне?</string>
-    <string name="wifi_connect_default_application">Праграма</string>
     <string name="wifi_no_internet">У Wi-Fi няма доступу да Інтэрнэту</string>
     <string name="wifi_no_internet_detailed">Дакраніцеся, каб убачыць параметры</string>
-    <string name="wifi_p2p_dialog_title">Wi-Fi Direct</string>
-    <string name="wifi_p2p_enabled_notification_message">Дакраніцеся, каб убачыць налады</string>
-    <string name="wifi_p2p_enabled_notification_title">Wi-Fi Direct уключаны</string>
-    <string name="wifi_p2p_enter_pin_message">Увядзіце патрэбны PIN-код:</string>
-    <string name="wifi_p2p_failed_message">Немагчыма запусціць Wi-Fi Direct.</string>
-    <string name="wifi_p2p_frequency_conflict_message">Тэлефон будзе часова адключаны ад Wi-Fi, пакуль ён падлучаны да прылады %1$s</string>
-    <string name="wifi_p2p_from_message">Ад:</string>
-    <string name="wifi_p2p_invitation_sent_title">Запрашэнне адпраўлена</string>
-    <string name="wifi_p2p_invitation_to_connect_title">Запрашэнне далучыцца</string>
-    <string name="wifi_p2p_show_pin_message">PIN-код</string>
-    <string name="wifi_p2p_to_message">Каму:</string>
-    <string name="wifi_p2p_turnon_message">Пачаць работу Wi-Fi Direct. Гэта адключыць кліента або кропку доступу Wi-Fi.</string>
-    <string name="wifi_watchdog_network_disabled">Немагчыма падключыцца да Wi-Fi</string>
-    <string name="wifi_watchdog_network_disabled_detailed">" дрэннае падключэнне да Інтэрнэту."</string>
     <string name="wireless_display_route_description">Бесправадны дысплей</string>
     <string name="work_mode_off_message">Гэта прывядзе да ўключэння вашага працоўнага профілю, у тым ліку праграм, фонавай сінхранізацыі і звязаных з імі функцый</string>
     <string name="work_mode_off_title">Уключыць працоўны рэжым?</string>
@@ -1461,5 +1445,6 @@
     <string name="zen_mode_feature_name">Не турбаваць</string>
     <string name="zen_mode_forever">Пакуль вы не выключыце рэжым \"Не турбаваць\"</string>
     <string name="zen_mode_forever_dnd">Пакуль вы не выключыце рэжым «Не турбаваць»</string>
+    <string name="zen_mode_rule_name_combination">%1$s / %2$s</string>
     <string name="zen_mode_until">Да %1$s</string>
 </resources>

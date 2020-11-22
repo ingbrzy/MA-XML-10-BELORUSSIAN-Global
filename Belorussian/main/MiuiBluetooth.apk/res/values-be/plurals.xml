@@ -12,6 +12,12 @@
         <item quantity="few">Націсніце і ўтрымлівайце сэнсарную панэлі навушнікаў %1$d секунды</item>
         <item quantity="many">Націсніце і ўтрымлівайце сэнсарную панэлі навушнікаў %1$d секунд</item>
     </plurals>
+    <plurals name="fast_connect_reset_nzbt">
+        <item quantity="other">Утрымлівайце кнопку на працягу %1$s сек., калі прылада выключана.</item>
+        <item quantity="one">Утрымлівайце кнопку на працягу %1$s сек., калі прылада выключана.</item>
+        <item quantity="few">Утрымлівайце кнопку на працягу %1$s сек., калі прылада выключана.</item>
+        <item quantity="many">Утрымлівайце кнопку на працягу %1$s сек., калі прылада выключана.</item>
+    </plurals>
     <plurals name="wifi_tether_connected_summary">
         <item quantity="other">Падлучана %1$d прылад</item>
         <item quantity="one">Падлучана %1$d прылада</item>

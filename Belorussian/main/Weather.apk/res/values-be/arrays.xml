@@ -25,12 +25,12 @@
         <item>%1$s</item>
     </string-array>
     <string-array name="aqi_title_prefix">
-        <item>AQI %1$s</item>
-        <item>AQI %1$s</item>
-        <item>AQI %1$s</item>
-        <item>AQI %1$s</item>
-        <item>AQI %1$s</item>
-        <item>AQI %1$s</item>
+        <item>ІЯП %1$s</item>
+        <item>ІЯП %1$s</item>
+        <item>ІЯП %1$s</item>
+        <item>ІЯП %1$s</item>
+        <item>ІЯП %1$s</item>
+        <item>ІЯП %1$s</item>
     </string-array>
     <string-array name="aqi_value">
         <item>Добры</item>
@@ -77,14 +77,12 @@
         <item>Умераны</item>
         <item>Слабы</item>
     </string-array>
-    <string-array name="pollution_level_desc_arr">
-        <item>Выдатна</item>
-        <item>Добра</item>
-        <item>Слаба забруджанае</item>
-        <item>Памерана забруджанае</item>
-        <item>Моцна забруджанае</item>
-        <item>Небяспечнна забруджанае</item>
-        <item>Па-за індэксам</item>
+    <string-array name="settings_atmospheric_pressure_unit_detail">
+        <item>@string/settings_atmospheric_pressure_mbar</item>
+        <item>@string/settings_atmospheric_pressure_hpa</item>
+        <item>@string/settings_atmospheric_pressure_mmhg</item>
+        <item>@string/settings_atmospheric_pressure_inhg</item>
+        <item>@string/settings_atmospheric_pressure_atm</item>
     </string-array>
     <string-array name="weather_type">
         <item>Ясна</item>

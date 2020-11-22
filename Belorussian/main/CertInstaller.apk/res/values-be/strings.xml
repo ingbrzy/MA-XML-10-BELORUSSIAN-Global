@@ -3,14 +3,17 @@
     <string name="action_missing_private_key">Каб усталяваць сертыфікат, патрэбны закрыты ключ</string>
     <string name="action_missing_user_cert">Каб усталяваць закрыты ключ, патрэбны сертыфікат</string>
     <string name="app_name">Усталёўшчык сертыфікатаў</string>
-    <string name="cert_is_added">Усталяваны %s.</string>
+    <string name="ca_cert_is_added">Сертыфікат ЦС усталяваны</string>
+    <string name="ca_certificate">Сертыфікат ЦС</string>
     <string name="cert_missing_error">Не атрымлiваецца ўсталяваць, таму што немагчыма размясцiць файл сертыфіката.</string>
     <string name="cert_not_saved">Сертыфікат не ўсталяваны.</string>
     <string name="cert_read_error">Не атрымлiваецца ўсталяваць, таму што немагчыма прачытаць файл сертыфіката.</string>
+    <string name="cert_temp_error">Часовая памылка. Паўтарыце спробу пазней.</string>
     <string name="cert_too_large_error">Не атрымлiваецца ўсталяваць, таму што памер сертыфiката занадта вялікі.</string>
+    <string name="certificate">Сертыфікат</string>
     <string name="certificate_capabilities_warning">Заўвага. Выдавец гэтага сертыфікату можа праглядаць увесь трафік, які прылада атрымлівае і адпраўляе.</string>
+    <string name="certificate_name">Назва сертыфіката</string>
     <string name="credential_info">Пакет змяшчае:</string>
-    <string name="credential_name">Назва сертыфіката:</string>
     <string name="credential_password">Увядзіце пароль, каб атрымаць сертыфікаты.</string>
     <string name="credential_usage_label">Выкарыстанне ўліковых дадзеных:</string>
     <string name="done_label">ГАТОВА</string>
@@ -18,9 +21,12 @@
     <string name="install_done">Уліковыя даныя %1$s былі дададзены да захаваных сетак Wi-Fi.</string>
     <string name="install_done_title">Уліковыя даныя ўсталяваны</string>
     <string name="invalid_cert">Сертыфікат несапраўдны.</string>
+    <string name="invalid_certificate_close_button">Закрыць</string>
+    <string name="invalid_certificate_message">Гэты файл нельга выкарыстоўваць як %1$s</string>
+    <string name="invalid_certificate_title">Не ўдалося скарыстаць гэты файл</string>
     <string name="n_cacrts">Сертыфікаты ЦС: %d</string>
     <string name="name_char_error">Увядзіце імя, якое змяшчае толькі літары і лічбы.</string>
-    <string name="name_credential_dialog_title">Дайце назву сертыфікату</string>
+    <string name="name_credential_dialog_title">Дайце назву гэтаму сертыфікату</string>
     <string name="name_empty_error">Увядзіце назву.</string>
     <string name="no_cert_to_saved">Няма сертыфіката для ўсталявання.</string>
     <string name="one_cacrt">адзін сертыфікат ЦС</string>
@@ -33,9 +39,17 @@
     <string name="pick_file_title">Выбар сертыфіката</string>
     <string name="pkcs12_file_password_dialog_title">Выпіска з %s</string>
     <string name="pkcs12_password_dialog_title">Выманне сертыфікату</string>
+    <string name="redirect_ca_certificate_close_button">Закрыць</string>
+    <string name="redirect_ca_certificate_title">Усталяваць сертыфікаты ЦС у Наладах</string>
+    <string name="redirect_ca_certificate_with_app_info_message">Гэты сертыфікат з праграмы \"%1$s\" трэба ўсталяваць у Наладах. Усталёўвайце сертыфікаты ЦС толькі ад арганізацый, якім давяраеце.</string>
+    <string name="select_certificate_usage_title">Выберыце тып сертыфіката</string>
     <string name="unable_to_save_cert">Немагчыма захаваць сертыфікат. Сховішча ўліковых дадзеных не ўключана або няправільна ініцыялізавана.</string>
+    <string name="user_cert_is_added">Сертыфікат карыстальніка ўсталяваны</string>
+    <string name="user_certificate">Сертыфікат карыстальніка VPN і праграм</string>
     <string name="userkey_type">Алгарытм:</string>
     <string name="wifi_cancel_label">Скасаваць</string>
+    <string name="wifi_cert_is_added">Сертыфікат Wi‑Fi усталяваны</string>
+    <string name="wifi_certificate">Сертыфікат Wi‑Fi</string>
     <string name="wifi_config_text">"Імя: %1$s
 FQDN: %2$s
 Роўмінг-кансорцыумы: %3$s

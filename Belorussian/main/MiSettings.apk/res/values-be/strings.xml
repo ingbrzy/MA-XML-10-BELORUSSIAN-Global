@@ -30,7 +30,7 @@
     <string name="advanced_mode">Пашыраныя налады</string>
     <string name="anti_flicker_mode">Устаранення мігацення</string>
     <string name="anti_flicker_mode_categroy">Рэжымы</string>
-    <string name="anti_flicker_mode_summary">Памяншаць мігаценне ва ўмовах нізкай асветленасці, каб знізіць нагрузку на вочы. Некаторыя элементы могуць не адлюстроўвацца правільна.</string>
+    <string name="anti_flicker_mode_summary">Прадухіленне мігацення і зніжэнне нагрузкі на вочы пры слабым асвятленні</string>
     <string name="anti_flicker_title">Рэжым устаранення мігацення</string>
     <string name="app_name">Налады</string>
     <string name="application_sound">Апавяшчэнні праграм</string>
@@ -51,6 +51,10 @@
     <string name="created">Створана</string>
     <string name="created_successfully">Паспяхова створаны</string>
     <string name="cu_confirm">Усталяваць</string>
+    <string name="dc_light_hint_enable_title">Увага</string>
+    <string name="dc_light_hint_normal">"Зацямненне DC можа паўплываць на адлюстраванне некаторых аб'ектаў."</string>
+    <string name="dc_light_hint_other">"Зацямненне DC можа паўплываць на частату абнаўлення і адлюстраванне некаторых аб'ектаў."</string>
+    <string name="dc_lignt_enable_hint">Рэжым анты-мігацення ўсталюе частату абнаўлення экрана на 60 Гц. Пераключыцца ў рэжым анты-мігацення?</string>
     <string name="display_description">Буйнейшыя значкі і тэкст, менш візуальнага халусця</string>
     <string name="display_title">"Павелічэнне аб'ектаў"</string>
     <string name="exit_easymode">Адключыць Палегчаны рэжым</string>
@@ -66,6 +70,7 @@
     <string name="follow_sim1">Прымяніць налады SIM 1</string>
     <string name="gamma">Гама</string>
     <string name="healthy_use_phone">Кіраванне экранным часам</string>
+    <string name="high_fps_description">Высокая частата абнаўлення экрана. Высокае энергаспажыванне.</string>
     <string name="hsv_space_color">Каляровая прастора HSV</string>
     <string name="hsv_space_color_hue">Адценне</string>
     <string name="hsv_space_color_saturation">Насычанасць</string>
@@ -74,6 +79,7 @@
     <string name="intelligent_recognition_item_title">Вызначыць паслугі</string>
     <string name="less_than_one">&lt; %d</string>
     <string name="lock_summary">Абараніце вашы асабістыя дадзеныя</string>
+    <string name="low_fps_description">Нізкая частата абнаўлення экрана. Нізкае энергаспажыванне.</string>
     <string name="low_light_preview">Предппросмотр ва ўмовах нізкай асветленасці</string>
     <string name="mms">Паведамленні</string>
     <string name="more_ringtone">Усе мелодыі</string>
@@ -119,6 +125,7 @@
     <string name="search_menu_title">Пошук</string>
     <string name="several_days_use_time">Экранны час: %2$s</string>
     <string name="shortcut_created">Ярлык ўжо існуе</string>
+    <string name="silent_ringtone_hint">Гук адключаны. Павялічце гучнасць і паспрабуйце ізноў.</string>
     <string name="sim_slot_1">" (SIM 1)"</string>
     <string name="sim_slot_2">" (SIM 2)"</string>
     <string name="sms_delivered_sound_title">Паведамленне дастаўлена</string>
@@ -158,7 +165,9 @@
     <string name="usage_app_limit_alter_title">Праверце ліміт часу экрана</string>
     <string name="usage_app_limit_prelong">Падоўжыць час</string>
     <string name="usage_app_limit_reach_summay">%s засталося</string>
+    <string name="usage_app_limit_reach_summay_new">Націсніце, каб дадаць %d хвілін(-ы).</string>
     <string name="usage_app_limit_reach_title">%s набліжаецца да ліміту экраннага часу</string>
+    <string name="usage_app_limit_reach_title_new" formatted="false">Застаўшыся экранны час для %1s: %2s</string>
     <string name="usage_app_limit_summary">Выбраныя праграмы будуць недаступныя пры дасягненні ліміту</string>
     <string name="usage_app_limit_title">Абмежаваць час працы экрау</string>
     <string name="usage_app_other_settings">Дадатковыя налады</string>
@@ -210,8 +219,12 @@
     <string name="usage_home_premission_second_summary_double_link_prefix">Мы абавязаны абараняць вашу асабістую інфармацыю ў адпаведнасці з адпаведнымі законамі, правіламі і палітыкамі прыватнасці. Калі вы не згодныя прадаставіць такія дазволы або перадаць і загрузіць сваю асабістую інфармацыю, вы не зможаце выкарыстоўваць гэтую праграму. Вы можаце адклікаць свой дазвол у «Час працы экрана > Налады > Выключыць Час працы экрана».</string>
     <string name="usage_home_premission_second_summary_double_link_suffix" formatted="false">"&lt;Data>Перад выкарыстаннем гэтай праграмы вы павінны прачытаць нашы &lt;a href='%1s'>Карыстальніцкае пагадненне&lt;/a> і &lt;a href='%2s'>Палітыку прыватнасці&lt;/a> і згадзіцца з імі.&lt;/Data>"</string>
     <string name="usage_home_premission_second_summary_new">Мы абавязаны абараняць вашу асабістую інфармацыю ў адпаведнасці з адпаведнымі законамі, правіламі і палітыкамі прыватнасці. Калі вы не згодныя прадаставіць такія дазволы або перадаць і загрузіць сваю асабістую інфармацыю, вы не зможаце выкарыстоўваць гэтую праграму. Вы можаце адклікаць сваё дазвол у «Час працы экрана > Налады > Выключыць Час працы экрана». Калі ў вас ёсць іншыя пытанні р прыватнасці, вы можаце звязацца з намі па адрасе privacy@xiaomi.com.</string>
+    <string name="usage_new_home_app_limit_summary">Усталяваць дзённы ліміт працы экрана для гэтай праграмы</string>
+    <string name="usage_new_home_app_limit_title">Абмежаваць час працы экрау</string>
     <string name="usage_new_home_average">"Сярэд. "</string>
+    <string name="usage_new_home_avg_usage_day">У сярэднім %s у дзень</string>
     <string name="usage_new_home_category">Катэгорыі</string>
+    <string name="usage_new_home_classify_manage">Кіраваць катэгорыямі праграм</string>
     <string name="usage_new_home_compare_text1">На %.2f больш, чым учора</string>
     <string name="usage_new_home_compare_text2">На %.2f меньш, чым пазаўчора</string>
     <string name="usage_new_home_compare_text3">Гэтак жа, як і ўчора</string>
@@ -219,15 +232,19 @@
     <string name="usage_new_home_dashboard">Панэль кіравання</string>
     <string name="usage_new_home_date_day_title">%s | Тэрмін выкарыстання</string>
     <string name="usage_new_home_day_category_title">Катэгорыі праграм</string>
+    <string name="usage_new_home_day_category_title_new">Экранны час па катэгорыях праграм %s</string>
     <string name="usage_new_home_day_title">Дзень</string>
     <string name="usage_new_home_day_usage_title">Асобныя праграмы</string>
+    <string name="usage_new_home_day_usage_title_new">Экранны час %s</string>
     <string name="usage_new_home_first_unlock">Першая разблакіроўка: %s</string>
     <string name="usage_new_home_name">Імя</string>
     <string name="usage_new_home_show_more_data_summary">Вы можаце абмежаваць выкарыстанне асобных праграм</string>
     <string name="usage_new_home_show_more_data_title">Паглядзець дадатковую статыстыку</string>
+    <string name="usage_new_home_sys_no_limit_summary">Нельга абмежаваць час працы экрану сістэмных праграм</string>
     <string name="usage_new_home_unlock_equals_text">Гэтак жа, як і ўчора</string>
     <string name="usage_new_home_unused">Не выкарыстоўваць</string>
     <string name="usage_new_home_update">Змяніць</string>
+    <string name="usage_new_home_usage_detail">Звесткі аб выкарыстанні</string>
     <string name="usage_new_home_week_category_title">Катэгорыі праграм</string>
     <string name="usage_new_home_week_compare_text1">На %.2f больш, чым на папярэднім тыдні</string>
     <string name="usage_new_home_week_compare_text2">На %.2f меньш, чым на папярэднім тыдні</string>
@@ -249,7 +266,7 @@
     <string name="usage_reach_device_limit_warning_text">Вы дасягнулі сутачнага ліміту часу працы экрана на сёння</string>
     <string name="usage_refresh">Паспрабаваць зноў</string>
     <string name="usage_remain_about_hour_miunte">≈%1$s %2$s</string>
-    <string name="usage_remain_hour_miunte">%1$s%2$s</string>
+    <string name="usage_remain_hour_miunte">%1$s %2$s</string>
     <string name="usage_request_error_summary">Здарылася невядомая памылка</string>
     <string name="usage_request_timeout_summary">Час запыту скончыўся</string>
     <string name="usage_runtime_per_des_summary">Для захавання статыстыкі праграмы Час працы экрана</string>
@@ -363,6 +380,8 @@
     <string name="usage_stats_week_day">У выхадныя</string>
     <string name="usage_total_days">Усяго дзён</string>
     <string name="usage_total_times">Усяго сеансаў</string>
+    <string name="usage_week_avg_usage_title">У сярэднім на гэтым тыдні</string>
+    <string name="usage_week_avg_usage_title2">Сярэдні час</string>
     <string name="usage_weekly_report_summary">Даведайцеся, як вы праводзіце час з вашай прыладай</string>
     <string name="usage_weekly_report_title">Тыднёвая справаздача</string>
     <string name="usagestats_app_category_miui_education">Адукацыя</string>

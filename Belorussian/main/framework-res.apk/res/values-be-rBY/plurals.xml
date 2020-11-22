@@ -144,18 +144,6 @@
         <item quantity="few">Усталяваны цэнтры сертыфікацыі</item>
         <item quantity="many">Усталяваны цэнтры сертыфікацыі</item>
     </plurals>
-    <plurals name="wifi_available">
-        <item quantity="other">сеткі Wi-Fi даступна</item>
-        <item quantity="one">сетка Wi-Fi даступная</item>
-        <item quantity="few">сеткі Wi-Fi даступныя</item>
-        <item quantity="many">сетак Wi-Fi даступна</item>
-    </plurals>
-    <plurals name="wifi_available_detailed">
-        <item quantity="other">адкрытай сеткі Wi-Fi даступна</item>
-        <item quantity="one">адкрытая сетка Wi-Fi даступная</item>
-        <item quantity="few">адкрытыя сеткі Wi-Fi даступныя</item>
-        <item quantity="many">адкрытых сетак Wi-Fi даступна</item>
-    </plurals>
     <plurals name="zen_mode_duration_hours">
         <item quantity="other">На %d гадзіны</item>
         <item quantity="one">На %d гадзіну</item>

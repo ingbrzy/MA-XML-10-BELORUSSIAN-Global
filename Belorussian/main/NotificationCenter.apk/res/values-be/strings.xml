@@ -28,6 +28,7 @@
     <string name="abc_shareactionprovider_share_with_application">Абагуліць праз праграму \"%s\"</string>
     <string name="abc_toolbar_collapse_description">Згарнуць</string>
     <string name="app_name">Апавяшчэння</string>
+    <string name="back">Назад</string>
     <string name="cancel">Скасаваць</string>
     <string name="category_other">Іншае</string>
     <string name="confirm">OК</string>
@@ -46,6 +47,7 @@
     <string name="feedback_tip_msg">Для больш дакладнай групоўкі апавяшчэнняў нам неабходна ажыццяўляць збор інфармацыі пра назву праграмы, загаловак і апісанне апавяшчэння, а таксама пра час, у якое было атрымана апавяшчэнне. Адправіць водгук?</string>
     <string name="feedback_tip_title">Водгук аб катэгорыях апавяшчэнняў</string>
     <string name="float_notifications">Усплываючыя апавяшчэнні</string>
+    <string name="float_notifications_short">Лунаючае</string>
     <string name="function_description">Пра гэту функцыю</string>
     <string name="hint_search_all">Пошук праграм</string>
     <string name="hint_search_in_disabled_apps">Шукаць праграмы, якія не могуць паказваць апавяшчэнні</string>
@@ -56,20 +58,14 @@
     <string name="lock_screen_display_rules">Фармат</string>
     <string name="lock_screen_tip_toast">Дазволіце паведамлення на экране блакавання ў раздзеле «Фармат»</string>
     <string name="lockscreen_notifications">Апавяшчэнні на Экране блакавання</string>
-    <string name="menu_setting_recommend_to_minus">Паказваць менш апавяшчэнняў</string>
-    <string name="menu_setting_recommend_to_normal">Не зьмяншаць колькасць апавяшчэнняў</string>
+    <string name="lockscreen_notifications_short">Экран блакавання</string>
     <string name="menu_setting_show_in_home">Не групаваць</string>
-    <string name="menu_setting_tip_recommend_minus">Вы будзеце бачыць менш апавяшчэнняў ад %s</string>
-    <string name="menu_setting_tip_recommend_normal">Колькасць апавяшчэнняў %s не будзе зменшана</string>
     <string name="menu_setting_tip_show_in_home">Апавяшчэння %s не будуць згрупаваны</string>
     <string name="menu_setting_tip_unfold">Усё апавяшчэнні гэтай праграмы будуць лічыцца важнымі</string>
-    <string name="menu_setting_toast_recommend_minus">Вы будзеце бачыць менш апавяшчэнняў ад %s</string>
-    <string name="menu_setting_toast_recommend_normal">Колькасць апавяшчэнняў %s не будзе зменшана</string>
-    <string name="menu_setting_toast_show_in_home">Апавяшчэнні ад %s не будуць згрупаваны</string>
     <string name="menu_setting_unfold">Важнае</string>
     <string name="not_sent_recently">Апавяшчэнняў не было</string>
     <string name="not_set">Не зададзена</string>
-    <string name="notch_and_status_bar_setting">Выраз і радок стану</string>
+    <string name="notch_and_status_bar_setting">Цэнтр кіравання і панэль стану</string>
     <string name="notification_aggregate_description1">MIUI дазваляе аўтаматычна групаваць паведамлення ў панэлі апавяшчэнняў.</string>
     <string name="notification_aggregate_description2">Нашы алгарытмы дазваляюць аналізаваць змест апавяшчэнняў і не выкарыстоўваць функцыю для важных абвестак і апавяшчэнняў мессенджеров. Калі вы заўважылі, што нейкія важныя паведамлення былі схаваныя або згрупаваныя, паведаміце нам аб гэтай памылцы пры дапамозе функцыі «Водгук».</string>
     <string name="notification_aggregate_summary">Дазволіць MIUI аўтаматычна групаваць апавяшчэння</string>
@@ -80,8 +76,6 @@
     <string name="notification_fold_summary">Групаваць неістотныя апавяшчэння аўтаматычна</string>
     <string name="notification_fold_title">Групавыя апавяшчэння</string>
     <string name="notification_manager">Апавяшчэнні праграм</string>
-    <string name="notification_setting_menu_feedback_text">"Гэта апавяшчэнне не павінна быць тут?
-Калі ласка, паведаміце аб гэтай памылцы >"</string>
     <string name="notification_style_android">Android</string>
     <string name="notification_style_miui">MIUI</string>
     <string name="off">Адкл</string>
@@ -90,6 +84,8 @@
     <string name="search_menu_title">Пошук</string>
     <string name="settings_guide_title">Патрэбныя іншыя налады?</string>
     <string name="show_badge_notifications">Значкі апавяшчэнняў</string>
+    <string name="show_badge_notifications_short">Значкі</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_setting">Радок стану</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="summary_disable_float_notification">Усплывальныя апавяшчэнні не дазволены</string>
@@ -102,8 +98,6 @@
     <string name="summary_lock_screen_enable_notification_first">Для ўключэння апавяшчэнняў на Экране блакавання дазвольце апавяшчэння</string>
     <string name="summary_show_badge_enable_notification_first">Для ўключэння значкоў апавяшчэнняў дазвольце апавяшчэнні</string>
     <string name="swipe_to_delete">Правядзіце налева або направа для выдалення</string>
-    <string name="tip_feedback_success">Паспяхова даслана</string>
-    <string name="tip_select_category">Выберыце катэгорыю апавяшчэнняў</string>
     <string name="v7_preference_off">ВЫКЛ.</string>
     <string name="v7_preference_on">УКЛ.</string>
 </resources>

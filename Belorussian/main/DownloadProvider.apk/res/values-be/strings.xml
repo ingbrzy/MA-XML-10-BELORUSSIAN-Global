@@ -10,6 +10,7 @@
     <string name="download_queued">У чарзе</string>
     <string name="download_remaining">Засталося %s</string>
     <string name="download_running">Спампоўка</string>
+    <string name="download_running_percent">Спампавана %s</string>
     <string name="download_unknown_title">&lt;Без назвы></string>
     <string name="notif_title_file_size">Усяго: %1$d</string>
     <string name="notif_title_single_downloading">Спампоўка %1$s</string>
@@ -34,12 +35,12 @@
     <string name="permlab_downloadWithoutNotification">Пампаванне файлаў без апавяшчэння</string>
     <string name="permlab_seeAllExternal">Прагляд спамповак на USB-сховішчы</string>
     <string name="root_downloads">Спампоўкі</string>
-    <string name="wifi_recommended_body" formatted="false">"Запуск гэтай спампоўкі (%s) можа скараціць час аўтаномнай працы і/або прывесці да празмернага спажывання мабільнага трафіка.
+    <string name="wifi_recommended_body">"Запуск гэтай спампоўкі (%1$s) можа скараціць час аўтаномнай працы і/або прывесці да празмернага спажывання мабільнага трафіка.
 
-Націсніце %s для працягу спампоўкі пры наступным падключэнні да сеткі Wi-Fi."</string>
+Націсніце %2$s для працягу спампоўкі пры наступным падключэнні да сеткі Wi-Fi."</string>
     <string name="wifi_recommended_title">Паставіць у чаргу на спампоўку?</string>
-    <string name="wifi_required_body" formatted="false">"Падключыцеся да Wi-Fi для завяршэння гэтай спампоўкі %s.
+    <string name="wifi_required_body">"Падключыцеся да Wi-Fi для завяршэння гэтай спампоўкі %1$s.
 
-Націсніце %s для працягу спампоўкі пры наступным падключэнні да сеткі Wi-Fi."</string>
+Націсніце %2$s для працягу спампоўкі пры наступным падключэнні да сеткі Wi-Fi."</string>
     <string name="wifi_required_title">Файл занадта вялікі</string>
 </resources>

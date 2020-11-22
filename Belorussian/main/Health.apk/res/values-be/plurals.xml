@@ -78,6 +78,18 @@
         <item quantity="few">%1$d дні</item>
         <item quantity="many">%1$d дзён</item>
     </plurals>
+    <plurals name="days_in_menstrual_period">
+        <item quantity="other">Period duration: %1$d days</item>
+        <item quantity="one">Period duration: %1$d day</item>
+        <item quantity="few">Period duration: %1$d days</item>
+        <item quantity="many">Period duration: %1$d days</item>
+    </plurals>
+    <plurals name="days_in_period">
+        <item quantity="other">Cycle duration: %1$d days</item>
+        <item quantity="one">Cycle duration: %1$d day</item>
+        <item quantity="few">Cycle duration: %1$d days</item>
+        <item quantity="many">Cycle duration: %1$d days</item>
+    </plurals>
     <plurals name="dialog_choose_items">
         <item quantity="other">Selected %1$d items</item>
         <item quantity="one">Selected %1$d item</item>
@@ -144,6 +156,12 @@
         <item quantity="few">%1$d steps</item>
         <item quantity="many">%1$d steps</item>
     </plurals>
+    <plurals name="group_unit">
+        <item quantity="other">%1$d cycles</item>
+        <item quantity="one">%1$d cycle</item>
+        <item quantity="few">%1$d cycles</item>
+        <item quantity="many">%1$d cycles</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Паўгадзіны таму</item>
         <item quantity="one">Паўгадзіны таму</item>
@@ -191,6 +209,12 @@
         <item quantity="one">Толькі што</item>
         <item quantity="few">Толькі што</item>
         <item quantity="many">Толькі што</item>
+    </plurals>
+    <plurals name="mens_offset_predict_menstrual_period">
+        <item quantity="other">Period will likely start in %1$d days</item>
+        <item quantity="one">Period will likely start in %1$d day</item>
+        <item quantity="few">Period will likely start in %1$d days</item>
+        <item quantity="many">Period will likely start in %1$d days</item>
     </plurals>
     <plurals name="menstruation_sum_days">
         <item quantity="other">%1$d-дзённыя месячныя</item>
@@ -359,6 +383,42 @@
         <item quantity="one">" дзень"</item>
         <item quantity="few">" дні"</item>
         <item quantity="many">" дзён"</item>
+    </plurals>
+    <plurals name="unit_group">
+        <item quantity="other">" cycles"</item>
+        <item quantity="one">" cycle"</item>
+        <item quantity="few">" cycles"</item>
+        <item quantity="many">" cycles"</item>
+    </plurals>
+    <plurals name="unit_hours">
+        <item quantity="other">" hrs "</item>
+        <item quantity="one">" hr "</item>
+        <item quantity="few">" hrs "</item>
+        <item quantity="many">" hrs "</item>
+    </plurals>
+    <plurals name="unit_hours2">
+        <item quantity="other">" hours "</item>
+        <item quantity="one">" hour "</item>
+        <item quantity="few">" hours "</item>
+        <item quantity="many">" hours "</item>
+    </plurals>
+    <plurals name="unit_mins">
+        <item quantity="other">" mins "</item>
+        <item quantity="one">" min "</item>
+        <item quantity="few">" mins "</item>
+        <item quantity="many">" mins "</item>
+    </plurals>
+    <plurals name="unit_mins2">
+        <item quantity="other">" minutes "</item>
+        <item quantity="one">" minute "</item>
+        <item quantity="few">" minutes "</item>
+        <item quantity="many">" minutes "</item>
+    </plurals>
+    <plurals name="unit_seconds">
+        <item quantity="other">" secs "</item>
+        <item quantity="one">" sec "</item>
+        <item quantity="few">" secs "</item>
+        <item quantity="many">" secs "</item>
     </plurals>
     <plurals name="unit_times">
         <item quantity="other">" times"</item>

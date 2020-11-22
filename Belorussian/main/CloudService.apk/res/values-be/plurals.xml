@@ -84,6 +84,12 @@
         <item quantity="few">%d сеткі Wi-Fi</item>
         <item quantity="many">%d сетак Wi-Fi</item>
     </plurals>
+    <plurals name="dirty_wlan_count_china">
+        <item quantity="other">%d WLAN networks</item>
+        <item quantity="one">%d WLAN network</item>
+        <item quantity="few">%d WLAN networks</item>
+        <item quantity="many">%d WLAN networks</item>
+    </plurals>
     <plurals name="items_unsynced">
         <item quantity="other">Элементы, якія чакаюць сінхранізацыі: %d</item>
         <item quantity="one">Элементы, якія чакаюць сінхранізацыі: %d</item>
@@ -113,5 +119,11 @@
         <item quantity="one">%s сэрвіс будзе сінхранізаваны з Xiaomi Cloud</item>
         <item quantity="few">%s сэрвіса будуць сінхранізаваныя з Xiaomi Cloud</item>
         <item quantity="many">%s сэрвісаў будуць сінхранізаваныя з Xiaomi Cloud</item>
+    </plurals>
+    <plurals name="select_no_more_than">
+        <item quantity="other">"Немагчыма выбраць больш за %d аб'ектаў"</item>
+        <item quantity="one">"Немагчыма выбраць больш за %d аб'ект"</item>
+        <item quantity="few">"Немагчыма выбраць больш за %d аб'екта"</item>
+        <item quantity="many">"Немагчыма выбраць больш за %d аб'ектаў"</item>
     </plurals>
 </resources>

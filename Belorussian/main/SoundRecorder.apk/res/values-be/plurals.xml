@@ -42,6 +42,12 @@
         <item quantity="few">%d запісы спампавана</item>
         <item quantity="many">%d запісаў спампавана</item>
     </plurals>
+    <plurals name="recovery_failed_dialog_message">
+        <item quantity="other">"Не атрымалася аднавіць %d аб'ектаў з-за невядомай памылкі."</item>
+        <item quantity="one">"Не атрымалася аднавіць %d аб'ект з-за невядомай памылкі."</item>
+        <item quantity="few">"Не атрымалася аднавіць %d аб'екта з-за невядомай памылкі."</item>
+        <item quantity="many">"Не атрымалася аднавіць %d аб'ектаў з-за невядомай памылкі."</item>
+    </plurals>
     <plurals name="search_alll_records_hint">
         <item quantity="other">Пошук сярод %d запісаў</item>
         <item quantity="one">Пошук сярод %d запісу</item>
@@ -49,10 +55,10 @@
         <item quantity="many">Пошук сярод %d запісаў</item>
     </plurals>
     <plurals name="search_app_records_hint">
-        <item quantity="other">Search among %d recordings</item>
-        <item quantity="one">Search among %d recording</item>
-        <item quantity="few">Search among %d recordings</item>
-        <item quantity="many">Search among %d recordings</item>
+        <item quantity="other">Пошук сярод %d запісаў</item>
+        <item quantity="one">Пошук сярод %d запісу</item>
+        <item quantity="few">Пошук сярод %d запісаў</item>
+        <item quantity="many">Пошук сярод %d запісаў</item>
     </plurals>
     <plurals name="search_call_records_hint">
         <item quantity="other">Пошук сярод %d запісаў выкліку</item>
@@ -65,6 +71,24 @@
         <item quantity="one">Знойдзен %d запіс</item>
         <item quantity="few">Знойдзеныя %d запісы</item>
         <item quantity="many">Знойдзеныя %d запісаў</item>
+    </plurals>
+    <plurals name="time_left_for_clear_file">
+        <item quantity="other">засталося %d дзён</item>
+        <item quantity="one">застаўся %d дзень</item>
+        <item quantity="few">засталося %d дні</item>
+        <item quantity="many">засталося %d дзён</item>
+    </plurals>
+    <plurals name="trash_box_delete_items">
+        <item quantity="other">Выдаліць %d выбраных запісаў назаўсёды?</item>
+        <item quantity="one">Выдаліць %d выбраны запіс назаўсёды?</item>
+        <item quantity="few">Выдаліць %d выбраных запісу назаўсёды?</item>
+        <item quantity="many">Выдаліць %d выбраных запісаў назаўсёды?</item>
+    </plurals>
+    <plurals name="trash_box_tip">
+        <item quantity="other">"Выдаленыя аб'екты могуць захоўвацца ў сметніцы %d дзён"</item>
+        <item quantity="one">"Выдаленыя аб'екты могуць захоўвацца ў сметніцы %d дзень"</item>
+        <item quantity="few">"Выдаленыя аб'екты могуць захоўвацца ў сметніцы %d дні"</item>
+        <item quantity="many">"Выдаленыя аб'екты могуць захоўвацца ў сметніцы %d дзён"</item>
     </plurals>
     <plurals name="unsynced_records_count">
         <item quantity="other">%d запісу не сінхранізавана</item>

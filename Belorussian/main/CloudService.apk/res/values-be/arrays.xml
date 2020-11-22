@@ -20,6 +20,12 @@
         <item>Рэзервуйце важныя налады, у тым ліку Wi-Fi і экран</item>
         <item>Блакуйце прыладу аддалена ў выпадку яе страты</item>
     </string-array>
+    <string-array name="micloud_entrance_subtitleArray_china">
+        <item>Sync your contacts, messages, notes, calendar, and more</item>
+        <item>Back up apps, Home screen layout, and wallpaper</item>
+        <item>Back up important settings, including WLAN and display</item>
+        <item>"Lock your device remotely if it's lost"</item>
+    </string-array>
     <string-array name="micloud_entrance_titleArray">
         <item>Сінхранізацыя дадзеных</item>
         <item>Рэзерваванне працоўнага стала</item>
@@ -98,6 +104,11 @@
         <item>Уключыць сінхранізацыю</item>
         <item>Праграмнае сховішча;Карткі;Воблака;Сінхранізацыя;Воблачныя сэрвісы;Xiaomi Cloud</item>
     </string-array>
+    <string-array name="settings_search_phrase">
+        <item>Сінхранізаваць хуткія адказы</item>
+        <item>Уключыць сінхранізацыю</item>
+        <item>Хуткія адказы;Буфер абмену;Рэдактар;Воблака;Сінхранізацыя;Хмарныя сэрвісы</item>
+    </string-array>
     <string-array name="settings_search_recorder">
         <item>Сінхранізаваць запісы з Xiaomi Cloud</item>
         <item>Уключыць/наладзіць сінхранізацыю</item>
@@ -114,9 +125,9 @@
         <item>Воблака;Рэзервовая копія;Стварыць рэзервовую копію;Аднаўленне;Воблачныя сервісы;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_security">
-        <item>Сінхранізаваць Бяспеку з Xiaomi Cloud</item>
+        <item>Воблачнае сінхранізацыя Бяспекі</item>
         <item>Уключыць сінхранізацыю</item>
-        <item>Бяспкека;Воблака;Сінхранізацыя;Воблачныя сэрвісы;Xiaomi Cloud</item>
+        <item>Бяспека;Воблака;Xiaomi Cloud;Сінхранізаваць;Воблачныя сэрвісы</item>
     </string-array>
     <string-array name="settings_search_sms">
         <item>Сінхранізаваць паведамленні з Xiaomi Cloud</item>
@@ -137,6 +148,11 @@
         <item>Сінхранізацыя налады Wi-Fi з Xiaomi Cloud</item>
         <item>Уключыць сінхранізацыю</item>
         <item>WLAN;wifi;Wi-Fi;Воблака;Сінхранізацыя;Воблачныя сэрвісы;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_wlan_china">
+        <item>Sync WLAN settings with Xiaomi Cloud</item>
+        <item>Turn on sync</item>
+        <item>WLAN;wifi;Wi-Fi;Cloud;Sync;Cloud services;Xiaomi Cloud</item>
     </string-array>
     <string-array name="user_detail_fixed_items">
         <item>"Прагляд сінхранізаваных аб'ектаў"</item>

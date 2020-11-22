@@ -126,13 +126,6 @@
     <string name="dual_animation">Анімацыя запуску</string>
     <string name="dual_animation_description">Паказваць анімацыю пры запуску клона праграмы</string>
     <string name="enable">Уключыць</string>
-    <string name="encrypt_space_delete_dialog_click_message">*Калі вам не трэба перамяшчаць дадзеныя, %s</string>
-    <string name="encrypt_space_delete_dialog_click_message_action">выдаліце і стварыце другую прастору.</string>
-    <string name="encrypt_space_delete_dialog_message">Вы збіраецеся абнавіць сістэму. Пасля абнаўлення дадзеныя другой прасторы стануць несумяшчальнымі. Каб пазбегнуць гэтага, перамясціце ўсе дадзеныя ў першую прастору, выдаліце другую прастору і стварыце яе зноў.</string>
-    <string name="encrypt_space_delete_dialog_positive_text">Перамясціць дадзеныя</string>
-    <string name="encrypt_space_delete_dialog_title">Увага</string>
-    <string name="encrypt_space_delete_notification_message">Для паспяховага абнаўлення прылады выдаліце другую прастору і стварыце яе нанава.</string>
-    <string name="encrypt_space_delete_notification_title">Другая прастора</string>
     <string name="ent_activating">Актывацыя…</string>
     <string name="ent_activation">Актываваць</string>
     <string name="ent_activation_hint">Увядзіце код прадпрыемства разам з кодам ліцэнзіі для актывацыі рэжыму прадпрыемства. Пасля гэтага будуць уключаны карпаратыўныя службы.</string>
@@ -217,7 +210,6 @@
     <string name="guide_pwd_detail_title">"Абараніце вашы дадзеныя
 Уваходзьце ў Другую прастору з экрану блакавання"</string>
     <string name="guide_setting_guide_title">Кіраванне Другой прасторай</string>
-    <string name="guide_start_ads_text">Абсалютна новы ровень бяспекі</string>
     <string name="guide_start_text">Дзве прасторы. Адна прылада.</string>
     <string name="has_created_second_space">"Зараз вы можаце адкрыць Другую прастору.
 Дзве прасторы. Адна прылада."</string>
@@ -255,6 +247,14 @@
     <string name="master_clear_not_available_ep">Зараз вы не можаце выканаць скід на завадскія налады або адклікаць свой дазвол. Звярніцеся да свайго кіраўніка.</string>
     <string name="menu_item_about_privacy_title">Палітыка канфідэнцыяльнасці</string>
     <string name="messageData">Паведамленні</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Пацягніце ўніз для абнаўлення</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Абноўлена</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Абнаўленне…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Адпусціце для абнаўлення</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">Пакуль што гэта ўсё</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">Пакуль што гэта ўсё</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Хвілінку…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Не атрымалася загрузіць аб'екты"</string>
     <string name="more_settings">Яшчэ</string>
     <string name="msg_switch_file">Выдаліць гэтыя файлы ў першай прасторы пасля іх перасоўвання?</string>
     <string name="msg_switch_file_second">Выдаліць гэтыя файлы ў другой прасторы пасля іх перасоўвання?</string>
@@ -286,7 +286,6 @@
     <string name="openPasswordGuard">Задаць пароль Другой прасторы</string>
     <string name="openSuccess">Уключана</string>
     <string name="opened">Укл</string>
-    <string name="optimize_now">Аптымізаваць</string>
     <string name="other">Іншыя</string>
     <string name="otherSettings">Іншыя налады</string>
     <string name="passWordGuardSummary">Уваходзьце ў Другую прастору з экрана блакавання, выкарыстоўваючы пароль</string>
@@ -310,8 +309,6 @@
     <string name="remove_button">Выдаліць</string>
     <string name="remove_button_time">Выдаліць (%ds)</string>
     <string name="remove_second_space_msg">Усе дадзеныя праграмы ў Другой прасторы будуць страчаны пасля таго, як вы выдаліце Другую прастору. Выдаліць Другую прастору?</string>
-    <string name="remove_user_click_message">"*Калі ў вас няма важных аб'ектаў у Другой прасторы, %s"</string>
-    <string name="remove_user_click_message_action">вы можаце выдаліць Другую прастору ды перазагрузіць прыладу зараз.</string>
     <string name="removingSpace">Выдаленне…</string>
     <string name="repeat_scanner_fingerprint">Дадаць ізноў</string>
     <string name="reset_passwd_success">Пароль паспяхова скінуты</string>
@@ -335,14 +332,6 @@
     <string name="scanner_fingerprint_tips_desc">Выберыце існуючы адбітак пальца, каб увайсці ў Другую прастору. Вы не здолееце выкарыстоўваць яго для ўваходу ў Першую прастору.</string>
     <string name="scanner_fingerprint_tips_title">Увайсці ў Другую прастору, прымяніўшы існуючы адбітак пальца</string>
     <string name="scanner_second_space_fingerprint">Сканаваць адбітак пальца для Другой прасторы</string>
-    <string name="sdcardfs_dialog_message">Гэта абнаўленне ўключае ў сябе новую файлавую сістэму. Старыя дадзеныя могуць быць несумеснымі з ёю. Для вырашэння гэтай праблемы зрабіце наступныя крокі, каб усталяваць абнаўленні. Падчас абнаўлення прылада двойчы перазагрузіцца.</string>
-    <string name="sdcardfs_dialog_title">Важнае абнаўленне</string>
-    <string name="sdcradfs_dialog_in_owner_message">"Гэта абнаўленне мае новую файлавую сістэму. Старыя дадзеныя могуць быць несумеснымі з ёю. Для абнаўлення, перамясціце аб'екты з Другой прасторы, перазагрузіце вашую прыладу ды стварыце Другую прастору наноў.
-Калі вы не абновіце сістэму, гэта можа паўплываць на карэктную працу кланаваных праграм."</string>
-    <string name="sdcradfs_dialog_in_owner_title">Другая прастора</string>
-    <string name="sdcradfs_dialog_in_sec_message">"Для абнаўлення, вы павінны выдаліць Другую прастору, а затым стварыць яе наноў. Перамясціце дадзеныя з Другой прасторы ў Першую прастору ды перазагрузіце прыладу для завяршэння абнаўлення.
-Калі вы не абновіце сістэму, гэта можа паўплываць на карэктную працу кланаваных праграм."</string>
-    <string name="sdcradfs_dialog_in_sec_title">Важнае абнаўленне</string>
     <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
     <string name="search_menu_title">Пошук</string>
     <string name="search_result_text">Не атрымалася знайсці праграмы</string>
@@ -353,6 +342,8 @@
     <string name="second_space_desktop_tips_dialog_title">Важнае абнаўленне</string>
     <string name="second_space_finger_printf_desc">Дадайце адбітак пальца, які будзе выкарыстоўвацца адмыслова для ўваходу ў Другую прастору</string>
     <string name="second_space_finger_printf_title">Адбітак пальца для Другой прасторы</string>
+    <string name="secondspace_homepage">"Наладзьце блакаванне Другой прасторы.
+Падзяляйце і абараняйце дадзеныя."</string>
     <string name="select_existed_fingerprint">Выбраць адбітак пальца</string>
     <string name="serNameSummary">Другая прастора</string>
     <string name="setSecondSpacePassword">Задаць пароль Другой прасторы</string>
@@ -410,7 +401,6 @@
     <string name="space_create_guide_title_1">Абараніце сваю канфідэнцыяльнасць</string>
     <string name="space_create_guide_title_2">Стварайце ў любы час</string>
     <string name="space_create_guide_title_3">Абсалютна бяспечна</string>
-    <string name="space_created_success">Другая прастора створана паспяхова</string>
     <string name="space_deleted">Гэтая прастора была выдаленая</string>
     <string name="space_des_default">Ізаляваная прастора з зашыфраванымі дадзенымі</string>
     <string name="space_finger_sub_text">Усталюйце адбітак пальца для Другой прасторы для хутчэйшага пераключэння</string>
@@ -427,7 +417,6 @@
     <string name="stop_xspace_alert_title">Выдаліць акаўнты-клоны праграм</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="summary_switch_apps_settings">Выберыце праграмы, якія карыстаюцца ў бягучай прасторы</string>
-    <string name="support_desc">Паслугі бяспекі ажыццяўляе Spaces Mobile</string>
     <string name="sure_to_use">Пацвердзіць</string>
     <string name="switchDataSummary">"Перасоўванне аб'ектаў паміж прасторамі"</string>
     <string name="switch_apps_settings">Налады праграм</string>

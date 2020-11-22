@@ -47,6 +47,7 @@
     <string name="content_description_web_url">Прагляд</string>
     <string name="copy">Капіяваць</string>
     <string name="cut">Выразаць</string>
+    <string name="data_usage_context">If Wi-Fi is not turned on, your device will connect to a mobile network, which may result in additional charges depending on your payment plan.Thank you!</string>
     <string name="default_device_name">Невядомая прылада</string>
     <string name="default_name">Па змаўчанні</string>
     <string name="description_title">Бязгучны рэжым</string>
@@ -82,6 +83,10 @@
     <string name="global_actions_reboot">Перезагрузка</string>
     <string name="global_actions_shutdown">Выключэнне</string>
     <string name="global_actions_silent_mode">Бязгучны рэжым</string>
+    <string name="handset_text_unsupported_handset_insert">Націсніце для прагляду падрабязнасцей</string>
+    <string name="handset_text_usb_handset_insert">Націсніце, каб адкрыць дадатковыя налады</string>
+    <string name="handset_title_unsupported_handset_insert">Адаптары USB-навушнікаў не падтрымліваюцца</string>
+    <string name="handset_title_usb_handset_insert">Прайграванне гуку па USB</string>
     <string name="handy_mode_enter_dlg_msg">Увайсці ў Рэжым кіравання адной рукой?</string>
     <string name="handy_mode_enter_dlg_title">Увайсці ў Рэжым кіравання адной рукой</string>
     <string name="handy_mode_summary">Каб закрыць, націсніце на цёмную вобласць</string>
@@ -127,6 +132,8 @@
     <string name="mi_9t_pro">Mi 9T Pro</string>
     <string name="mi_a3">Mi A3</string>
     <string name="mi_drop">Mi Share</string>
+    <string name="miaudiovisual_notification_summary">Уключыце для адлюстравання эфектаў на экране блакавання</string>
+    <string name="miaudiovisual_notification_title">Гукавыя і візуальныя эфекты</string>
     <string name="miui_forbid_poweroff_when_device_locked">Немагчыма выключыць: прылада заблакавана.</string>
     <string name="miui_screen_ratio_hint">Праблемы з адлюстраваннем</string>
     <string name="miui_screen_ratio_hint_dont_show_again">Больш не паказваць</string>
@@ -225,6 +232,7 @@
     <string name="sim_added_reboot_title">SIM-карта будзе актывавана пасля перазагрузкі прылады.</string>
     <string name="sim_lock_non_ais_msg">Ваша SIM-карта не цалкам сумяшчальная з гэтым тэлефонам, паколькі яна не адпавядае умовам вашай падпіскі. Калі ў вас ёсць якія-небудзь пытанні ці вам патрэбна дадатковая інфармацыя па гэтай праблеме, звярніцеся ў сэрвісны цэнтр Xiaomi або ў краму, якая прадала вам прадукты.</string>
     <string name="sim_lock_now_ais_title">SIM %1$d</string>
+    <string name="slatoast">Выкарыстанне мабільнага інтэрнэту для паскарэння можа прывесці да спагнання дадатковых збораў аператарам</string>
     <string name="slavewifi">Двухдыяпазонны Wi-Fi</string>
     <string name="slavewifi_disconnect">Адключыцца</string>
     <string name="slavewifi_notification_title">Выкарыстоўваецца двухдыяпазонны Wi-Fi</string>

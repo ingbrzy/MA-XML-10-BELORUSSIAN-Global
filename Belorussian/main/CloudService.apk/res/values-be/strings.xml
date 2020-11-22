@@ -40,6 +40,8 @@
     <string name="btn_return">Назад</string>
     <string name="button_cancel">Скасаваць</string>
     <string name="calendar_sync">Каляндар</string>
+    <string name="check_contact">Дадаць</string>
+    <string name="choose_contact_title">Кантакты</string>
     <string name="click_to_enabled">Націсніце для сінхранізацыі.</string>
     <string name="close_shortcut">Закрыць</string>
     <string name="cloud_find_device">Пошук прылады</string>
@@ -61,7 +63,9 @@
     <string name="confirm_delete">Выдаліць</string>
     <string name="confirm_save">Захаваць</string>
     <string name="connect_network">Падключыцеся да Wi-Fi або ўстаўце SIM-карту</string>
+    <string name="connect_network_china">Connect to WLAN or insert a SIM card</string>
     <string name="connect_wlan">Падключыцца да Wi-Fi</string>
+    <string name="connect_wlan_china">Connect to WLAN</string>
     <string name="copy">Капіраваць</string>
     <string name="data_merge_dialog_alert_active_on_phone_msg_more_than_two">"Гэты акаўнт таксама выкарыстоўваецца на іншай прыладзе. Аб'яднаць аб'екты з некалькіх праграм (уключаючы %1$s і %2$s) з аб'ектамі на гэтай прыладзе?"</string>
     <string name="data_merge_dialog_alert_active_on_phone_msg_one">"Гэты акаўнт таксама выкарыстоўваецца на іншай прыладзе. Аб'яднаць аб'екты з %s з аб'ектамі на гэтай прыладзе?"</string>
@@ -91,6 +95,8 @@
     <string name="feedback_custom_hint">Апішыце праблемы, з якімі вы сутыкнуліся. Калі вы можаце падаць прапановы, мы будзем удзячныя за больш падрабязную інфармацыю!</string>
     <string name="find_device">Пошук прылады</string>
     <string name="find_device_dspt_provision">Пры страце прылады вы зможаце выявіць яе месцазнаходжанне, заблакаваць або ачысціць дадзеныя на &lt;font color=#0097FF>%s&lt;/font>. Гэтую функцыю можна актываваць у Наладах у любы час.</string>
+    <string name="find_device_dspt_provision_2">i.mi.com</string>
+    <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
     <string name="find_device_error_network">Праверце злучэнне з інтэрнэтам і паўтарыце спробу.</string>
     <string name="find_device_error_server">Памылка сервера</string>
     <string name="find_device_gdpr_prompt">Уключыўшы Пошук прылады, вы прымаеце нашу <a href="app://com.miui.cloudservice.gdpr.license"><u>Палітыку прыватнасці</u></a>. Для скасавання дазволу адключыце гэтую функцыю.</string>
@@ -100,6 +106,7 @@
     <string name="finddevice_miservice_notification_content">Блакуйце прыладу аддалена ў выпадку яе страты</string>
     <string name="finddevice_miservice_notification_title">Уключыць Пошук прылады</string>
     <string name="forget_password"><u>Забылі пароль?</u></string>
+    <string name="help_and_feedback">Дапамога і зваротная сувязь</string>
     <string name="i_know">OК</string>
     <string name="input_password_hint">Увесці пароль</string>
     <string name="internet_access_dspt">Гэта праграма павінна падлучыцца да Інтэрнэту, каб працаваць звычайна.</string>
@@ -200,7 +207,9 @@
     <string name="micloud_dspt">"Сінхранізуйце кантакты, паведамленні, журнал выклікаў і іншыя аб'екты паміж прыладамі.
 Вы таксама можаце шукаць прылады і блакаваць іх, калі яны былі згубленыя."</string>
     <string name="micloud_dspt_provision">Выкарыстоўвайце Xiaomi Cloud для сінхранізацыі дадзеных, пошуку вашай прылады і адпраўкі рознай інфармацыі сябрам.</string>
+    <string name="micloud_dspt_provision_china">Use Xiaomi Cloud to sync data, locate your device, and share things with friends.</string>
     <string name="micloud_dspt_provision_xms">Выкарыстоўвайце Xiaomi Cloud для сінхранізацыі дадзеных.</string>
+    <string name="micloud_dspt_provision_xms_china">Use Xiaomi Cloud to sync data.</string>
     <string name="micloud_find_device_close_alert_content">Пасля адключэння Пошуку прылады вы не зможаце знайсці свой тэлефон з дапамогай гэтай функцыі. Калі ваш тэлефон падтрымлівае функцыі NFC, усе вашыя банкаўскія карты і ключ-карты будуць выдаленыя з Mi Pay.</string>
     <string name="micloud_find_device_close_alert_negtive">Выключыць</string>
     <string name="micloud_find_device_close_alert_positive">Не выключаць</string>
@@ -214,6 +223,8 @@
     <string name="micloud_find_device_guide_alert_positive">OK</string>
     <string name="micloud_find_device_guide_alert_title">Запомніце свой пароль</string>
     <string name="micloud_find_device_guide_button">Уключыць пошук прылады</string>
+    <string name="micloud_find_device_guide_desc_pad">Калі ваша прылада страцілася, увайдзіце на &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> на любой іншай прыладзе, каб знайсці або выдалена заблакаваць страчаную прыладу або сцерці на ёй дадзеныя. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice>Больш падрабязна&lt;/a>.</string>
+    <string name="micloud_find_device_guide_desc_phone">Калі ваша прылада страцілася, увайдзіце на &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> на любой іншай прыладзе, каб знайсці або выдалена заблакаваць страчаную прыладу або сцерці на ёй дадзеныя. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice>Больш падрабязна&lt;/a>.</string>
     <string name="micloud_find_device_guide_fail_reopen">Вы можаце ўключыць Пошук прылады ў Mi акаўнт - Xiaomi Cloud</string>
     <string name="micloud_find_device_guide_fail_sub_net">Праверце злучэнне і паспрабуйце ізноў.</string>
     <string name="micloud_find_device_guide_micloud_sub_content">Сінхранізуйце кантакты, фота і многае іншае з дапамогай Xiaomi Cloud</string>
@@ -226,15 +237,17 @@
     <string name="micloud_find_device_guide_noti_title_by_app_change_wx">WeChat рэкамендуе ўключыць пошук прылады</string>
     <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">Alipay рэкамендуе ўключыць пошук прылады</string>
     <string name="micloud_find_device_guide_progress">Уключэнне пошуку прылады…</string>
-    <string name="micloud_find_device_guide_title">Увайдзіце на &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> для пошуку і блакавання прылады, а таксама для выдалення ўсіх дадзеных з яе. Гэта можа дапамагчы вам знайсці прыладу, калі яна была згублена.</string>
     <string name="micloud_find_device_open_fail">Не атрымалася ўключыць пошук прылады</string>
     <string name="micloud_find_device_opened">Пошук прылады ўключаны</string>
     <string name="micloud_find_device_opened_content">Знайдзіце сваю прыладу на %s</string>
+    <string name="micloud_find_device_opened_content_url">i.mi.com</string>
     <string name="micloud_find_device_sms_alert">Для актывацыі дадзенай паслугі будзе адпраўлена SMS. Аплата спаганяецца згодна тарыфу вашага аператара. Пры замене SIM-карты будзе аўтаматычна можа быць адпраўлена SMS для паўторнай актывацыі.</string>
     <string name="micloud_find_device_verify_button">Уключыць Пошук прылады</string>
     <string name="micloud_find_device_verify_close">Выключыць Пошук прылады</string>
     <string name="micloud_find_device_verify_fail">Не ўдалося актываваць Пошук прылады</string>
     <string name="micloud_find_device_verify_progress">Уключэнне Пошуку прылады…</string>
+    <string name="micloud_footer_international_url">mi.com/micloud</string>
+    <string name="micloud_footer_normal_url">i.mi.com</string>
     <string name="micloud_last_sync_canceled">Сінхранізацыя была адменена. Паўтарыце спробу.</string>
     <string name="micloud_main_head_menu_cloud_backup">Рэзервовая копія галоўнага экрана</string>
     <string name="micloud_main_head_menu_cloud_backup_summary">Налады сістэмы і галоўнага экрана</string>
@@ -252,9 +265,6 @@
     <string name="micloud_main_sync_mode_title">Хуткая сінхранізацыя</string>
     <string name="micloud_main_wait_charge">Поўнасцю зарадзіце прыладу.</string>
     <string name="micloud_main_wait_charge_sleep">Выключыце экран і поўнасцю зарадзіце прыладу.</string>
-    <string name="micloud_main_wait_wlan">Чаканне Wi-Fi</string>
-    <string name="micloud_main_wait_wlan_charge">Падлучыцеся да Wi-Fi і поўнасцю зарадзіце прыладу.</string>
-    <string name="micloud_main_wait_wlan_charge_sleep">Падлучыцеся да Wi-Fi, выключыце экран і поўнасцю зарадзіце прыладу.</string>
     <string name="micloud_manage_space_data">Кіраванне воблачнымі дадзенымі</string>
     <string name="micloud_manaul_sync_success_button_text">Падрабязнасці</string>
     <string name="micloud_manaul_sync_success_time_prefix">Апошняя сінхранізацыя: %s</string>
@@ -293,8 +303,10 @@
     <string name="micloud_member_pay_order_error_toast">Памылка дадзеных</string>
     <string name="micloud_notif_content_battery_low">Нізкі ўзровень зараду батарэі.</string>
     <string name="micloud_notif_content_depend_wifi">Падключыцеся да Wi-Fi для сінхранізацыі.</string>
+    <string name="micloud_notif_content_depend_wifi_china">Connect to WLAN to sync.</string>
     <string name="micloud_notif_content_dirty_data">Падрабязнасці</string>
     <string name="micloud_notif_content_master_depend_wifi">Падключыцеся да Wi-Fi або зменіце налады сінхранізацыі. Націсніце, каб змяніць.</string>
+    <string name="micloud_notif_content_master_depend_wifi_china">Connect to WLAN or change sync settings. Tap to change.</string>
     <string name="micloud_notif_content_memory_low">Недастаткова вольнага месца.</string>
     <string name="micloud_notif_content_multi_user_error">Вы ўвайшлі ў той жа акаўнт, што і ў першай прасторы.</string>
     <string name="micloud_notif_content_privacy_reopen_failed">Падрабязнасці</string>
@@ -336,6 +348,7 @@
     <string name="micloud_setting_sms_summary">SMS і MMS паведамленні</string>
     <string name="micloud_setting_sms_summary_for_google_csp">Тэкставыя паведамленні</string>
     <string name="micloud_setting_wifi_summary">Налады Wi-Fi</string>
+    <string name="micloud_setting_wifi_summary_china">WLAN settings</string>
     <string name="micloud_space_applist_detail">Кіраванне праграмамі на працоўным стале</string>
     <string name="micloud_space_applist_title">Кіраванне праграмамі</string>
     <string name="micloud_space_duokan_detail">Пампуйце і чытайце кнігі з дапамогай праграмы Duokan.</string>
@@ -369,6 +382,7 @@
     <string name="micloud_sync_result_secure_space_limit">"Ня сінхранізаваць аб/'екты з Другой прасторы"</string>
     <string name="micloud_sync_result_sim_activated_error">Немагчыма актываваць SIM-карту</string>
     <string name="micloud_sync_result_wifi_only">"Аб'ект занадта вялікі. Сінхранізуйце яго пасля падлучэння да Wi-Fi."</string>
+    <string name="micloud_sync_result_wifi_only_china">This item is too big. Sync it when connected to WLAN.</string>
     <string name="micloud_upgrade_member">Атрымаць больш месца</string>
     <string name="micloud_user_space_title">Памяць сховішча</string>
     <string name="micloud_warn_full_sum">Новыя дадзеныя не могуць сінхранізавацца з Xiaomi Cloud.</string>
@@ -376,8 +390,8 @@
     <string name="micloud_warn_low_sum">Xiaomi Cloud запоўнена на 90%.</string>
     <string name="micloud_warn_low_title">Заканчваецца месца</string>
     <string name="micloud_web_discription_place_holder">"Наведайце %1$s з вашага камп'ютара для кіраванне дадзенымі."</string>
-    <string name="micloud_wipe_data_confirm_label">Выдаліць дадзеныя з воблака</string>
-    <string name="micloud_wipe_data_confirm_title">"Выдаліць аб'екты, сінхранізаваныя з Xiaomi Cloud, з тэлефона пасля выхаду?"</string>
+    <string name="micloud_wipe_data_confirm_label">"Выдаліць з гэтай прылады сінхранізаваныя аб'екты?"</string>
+    <string name="micloud_wipe_data_confirm_title">"Некаторыя аб'екты наступных праграмы былі сінхранізаваныя з Xiaomi Cloud. Вы можаце выдаліць сінхранізаваныя аб'екты з гэтай прылады, пакінуўшы іх копію ў воблаку."</string>
     <string name="micloud_wipe_data_remove">Выдаліць</string>
     <string name="micloud_wipe_data_retain">Пакінуць</string>
     <string name="mx_dspt">Mi Паведамленні</string>
@@ -404,17 +418,23 @@
     <string name="pay_info_dialog_mibi_balance_prefix">Выкарыстоўваць астатнія Mi Credits: %s</string>
     <string name="pay_info_dialog_title">Выберыце спосаб аплаты</string>
     <string name="phone_number_required_dspt_provision">"Гэты сэрвіс запытвае ваш нумар тэлефона. "</string>
+    <string name="picker_list_empty">Туту няма кантактаў</string>
+    <string name="picker_search_empty">Не атрымалася знайсці кантакты</string>
+    <string name="picker_search_hint">Пошук</string>
     <string name="pre_privacy_policy">Палітыка прыватнасці</string>
     <string name="pre_user_agreement">Карыстальніцкае пагадненне</string>
     <string name="pref_summary_sync_display_photo_on_wifi_only">Сінхранізаваць фота кантактаў толькі праз Wi-Fi</string>
     <string name="pref_title_sync_contacts_title">Сінхранізаваць кантакты</string>
     <string name="pref_title_sync_display_photo_on_wifi_only">Фота толькі па Wi-Fi</string>
+    <string name="pref_title_sync_display_photo_on_wifi_only_china">Only use WLAN to sync photos</string>
     <string name="preference_copied">\"%1$s\": скапіравана ў буфер абмену.</string>
     <string name="privacy_and_agreement">Умовы выкарыстання</string>
     <string name="privacy_dialog_finddevice_all_purpose_pad">Сардэчна запрашаем у Пошук прылады! Калі вы страціце сваю прыладу, вы можаце скарыстацца гэтым сэрвісам для пошуку і блакавання прылады і выдалення дадзеных з яе.</string>
     <string name="privacy_dialog_finddevice_all_purpose_phone">Сардэчна запрашаем у Пошук прылады! Калі вы страціце сваю прыладу, вы можаце скарыстацца гэтым сэрвісам для пошуку і блакавання прылады і выдалення дадзеных з яе.</string>
     <string name="privacy_dialog_sync_all_purpose">"Сардэчна запрашаем у Xiaomi Cloud! Выкарыстоўвайце Xiaomi Cloud для сінхранізацыі паведамленняў, гісторыі вызаваў, кантактаў, нататак, налад браўзэра, песень, фота і відэа, налад Wi-Fi, галасавых запісаў, знешняга выгляду Галоўнага экрана, праграм, падзей календара, аб'ектаў Чорнага спісу і Стужкі віджэтаў паміж усімі падлучанымі прыладамі."</string>
+    <string name="privacy_dialog_sync_all_purpose_china">Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your messages, call history, contacts, notes, Browser settings, songs, photos and videos, WLAN settings, recordings, Home screen layout, apps, calendar events, Blocklist items, and App vault across all connected devices.</string>
     <string name="privacy_doc_cloudservice">"Сардэчна запрашаем у сэрвісы Xiaomi Cloud! Выкарыстоўвайце Xiaomi Cloud для сінхранізацыі паведамленняў, гісторыі вызаваў, кантактаў, нататак, налад браўзэра, песень, фота і відэа, налад Wi-Fi, галасавых запісаў, знешняга выгляду Галоўнага экрана, праграм, падзей календара, аб'ектаў Чорнага спісу і Стужкі віджэтаў паміж усімі падлучанымі прыладамі. Вы можаце атрымаць доступ до аб'ектаў і сінхранізаваць іх у любым браўзэры, перайшоўшы на &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font>.&lt;br />&lt;br />Для актывацыі гэтых сэрвісаў можа спатрэбіцца выходнае SMS-паведамленне. Ваш аператар спаганяе адпаведную плату за гэта паведамленне. Пры змене SIM-карты паведамленне будзе адпраўлена аўтаматычна для паўторнай актывацыі гэтых сэрвісаў.&lt;br />&lt;br />Мы будзем абараняць вашу асабістую інфармацыю ў адпаведнасці з дзеючым заканадаўствам, правіламі і палітыкамі прыватнасці.&lt;br />Для правільнай працы гэтым сэрвісам неабходна падлучэнне да Інтэрнэту і наступныя дазволы для збору вашай асабістай інфармацыі:&lt;br />• Доступ да календара:&lt;br />для сінхранізацыі раскладу&lt;br />• Доступ да SMS:&lt;br />для сінхранізацыі паведамленняў&lt;br />• Доступ да MMS:&lt;br />для сінхранізацыі паведамленняў&lt;br />• Доступ да кантактаў: &lt;br />для сінхранізацыі кантактаў&lt;br />• Змена кантактаў: &lt;br />для сінхранізацыі кантактаў&lt;br />• Доступ да сховішча:&lt;br />для захавання аб'ектаў на прыладзе (напрыклад, выявы, відэа, музыка)&lt;br />Калі вы не згодныя прадастаўляць дазволы або дзяліцца і загружаць асабістую інфармацыю, вы не зможаце выкарыстоўваць гэтыя сэрвісы. Вы можаце выдаліць гэтую праграму, выйсці з сістэмы або абмежаваць дазволы ў Наладах.&lt;br />Перед выкарыстаннем Xiaomi Cloud азнаёмцеся і пагадзіцеся з нашым &lt;a href=%1$s>&lt;u>Карыстальніцкім пагадненнем&lt;/u>&lt;/a> і &lt;a href=%2$s>&lt;u>Палітыкай прыватнасці&lt;/u>&lt;/a>.&lt;br />"</string>
+    <string name="privacy_doc_cloudservice_china">"Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your messages, call history, contacts, notes, Browser settings, songs, photos and videos, WLAN settings, recordings, Home screen layout, apps, calendar events, Blocklist items, and App vault across all connected devices. Access the things you sync from any browser at &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font>.&lt;br />&lt;br />An outgoing SMS message may be required to activate these services. Your carrier will charge you for this message. When you switch your SIM card, a message may be sent automatically to reactivate these services.&lt;br />&lt;br />We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies.&lt;br />To be able to work normally, these services need to connect to the internet and require the following permissions in order to collect your personal information:&lt;br />• Calendar:&lt;br />For syncing events&lt;br />• Accessing SMS:&lt;br />For syncing messages&lt;br />• Accessing MMS:&lt;br />For syncing messages&lt;br />• Accessing contacts:&lt;br />For syncing contacts&lt;br />• Editing contacts:&lt;br />For syncing contacts&lt;br />• Storage:&lt;br />For saving items on your device (e.g. images, videos, songs)&lt;br />If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use these services. You can choose to uninstall this app, sign out, or restrict permissions in the Settings in such cases.&lt;br />Read and agree to our &lt;a href=%1$s>&lt;u>User Agreement&lt;/u>&lt;/a> and &lt;a href=%2$s>&lt;u>Privacy Policy&lt;/u>&lt;/a> before using Xiaomi Cloud.&lt;br />"</string>
     <string name="privacy_doc_finddevice_pad">Сардэчна запрашаем у Пошук прылады! Калі вы страціце сваю прыладу, вы можаце скарыстацца гэтым сэрвісам для яе пошуку і блакавання і выдалення дадзеных з яе. Вы можаце перайсці на &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> для пошуку прылады, яе блакавання або скіду.&lt;br />&lt;br />Мы абавязаны абараняць вашу асабістую інфармацыю ў адпаведнасці з дзеючымі законамі, правіламі і палітыкамі прыватнасці.&lt;br />Для нармальнай працы сэрвісу патрабуецца падлучэнне да Інтэрнэту і наступныя дазволы на збор вашай асабістай інфармацыі:&lt;br /> • Доступ да інфармацыі прылады:&lt;br />для ідэнтыфікацыі прылады&lt;br />• Месцазнаходжанне:&lt;br />для вызначэння месцазнаходжання прылады і пераходу ў рэжым згубленай прылады&lt;br />Калі вы не згодныя прадаставіць такія дазволы або перадаць і загрузіць сваю асабістую інфармацыю, вы не зможаце выкарыстоўваць гэты сэрвіс. У такіх выпадках вы можаце выдаліць праграму, выйсці з яе або абмежаваць дазволы ў Наладах.&lt;br />Перад выкарыстаннем Пошуку прылады прачытайце наша &lt;a href=%1$s>&lt;u>Карыстальніцкае пагадненне&lt;/u>&lt;/a> і нашу &lt;a href=%2$s>&lt;u>Палітыку прыватнасці&lt;/u>&lt;/a> і пагадзіцеся імі.&lt;br /></string>
     <string name="privacy_doc_finddevice_phone">Сардэчна запрашаем у Пошук прылады! Калі вы страціце сваю прыладу, вы можаце скарыстацца гэтым сэрвісам для яе пошуку і блакавання і выдалення дадзеных з яе. Вы можаце перайсці на &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> для пошуку прылады, яе блакавання або скіду.&lt;br />&lt;br />Мы абавязаны абараняць вашу асабістую інфармацыю ў адпаведнасці з дзеючымі законамі, правіламі і палітыкамі прыватнасці.&lt;br />Для нармальнай працы сэрвісу патрабуецца падлучэнне да Інтэрнэту і наступныя дазволы на збор вашай асабістай інфармацыі:&lt;br /> • Доступ да інфармацыі прылады:&lt;br />для ідэнтыфікацыі прылады&lt;br />• Месцазнаходжанне:&lt;br />для вызначэння месцазнаходжання прылады і пераходу ў рэжым згубленай прылады&lt;br />Калі вы не згодныя прадаставіць такія дазволы або перадаць і загрузіць сваю асабістую інфармацыю, вы не зможаце выкарыстоўваць гэты сэрвіс. У такіх выпадках вы можаце выдаліць праграму, выйсці з яе або абмежаваць дазволы ў Наладах.&lt;br />Перад выкарыстаннем Пошуку прылады прачытайце наша &lt;a href=%1$s>&lt;u>Карыстальніцкае пагадненне&lt;/u>&lt;/a> і нашу &lt;a href=%2$s>&lt;u>Палітыку прыватнасці&lt;/u>&lt;/a> і пагадзіцеся імі.&lt;br /></string>
     <string name="privacy_doc_finddevice_with_telephony_feature_pad">Сардэчна запрашаем у Пошук прылады! Калі вы страціце сваю прыладу, вы можаце скарыстацца гэтым сэрвісам для яе пошуку і блакавання і выдалення дадзеных з яе. Вы можаце перайсці на &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> для пошуку прылады, яе блакавання або скіду.&lt;br />&lt;br />Для актывізацыі гэтага сэрвісу можа спатрэбіцца адпраўка выходнага SMS-паведамлення. Аплата за яго спаганяецца згодна тарыфу вашага аператара. Пры замене SIM-карты будзе аўтаматычна адпраўлена SMS для паўторнай актывацыі гэтага сэрвісу.&lt;br />&lt;br />Мы абавязаны абараняць вашу асабістую інфармацыю ў адпаведнасці з дзеючымі законамі, правіламі і палітыкамі прыватнасці.&lt;br />Для нармальнай працы сэрвісу патрабуецца падлучэнне да Інтэрнэту і наступныя дазволы на збор вашай асабістай інфармацыі:&lt;br /> • Доступ да інфармацыі прылады:&lt;br />для ідэнтыфікацыі прылады&lt;br />• Месцазнаходжанне:&lt;br />для вызначэння месцазнаходжання прылады і пераходу ў рэжым згубленай прылады&lt;br />Калі вы не згодныя прадаставіць такія дазволы або перадаць і загрузіць сваю асабістую інфармацыю, вы не зможаце выкарыстоўваць гэты сэрвіс. У такіх выпадках вы можаце выдаліць праграму, выйсці з яе або абмежаваць дазволы ў Наладах.&lt;br />Перад выкарыстаннем Пошуку прылады прачытайце наша &lt;a href=%1$s>&lt;u>Карыстальніцкае пагадненне&lt;/u>&lt;/a> і нашу &lt;a href=%2$s>&lt;u>Палітыку прыватнасці&lt;/u>&lt;/a> і пагадзіцеся імі.&lt;br /></string>
@@ -423,14 +443,6 @@
     <string name="provision_sync_items_loading">"Падрыхтоўка да сінхранізацыі аб'ектаў"</string>
     <string name="reading_status">Загрузка статусу…</string>
     <string name="reading_status_failure">Не атрымалася загрузіць статус.</string>
-    <string name="search_cloudbackup_pref">Стварэнне рэзервовых копій у Mi Cloud</string>
-    <string name="search_cloudbackup_pref_desc">Уключыць/адключыць стварэнне рэзервовых копій у Mi Cloud</string>
-    <string name="search_cloudbackup_pref_key_words">рэзервовая копія mi cloud, воблачная рэзервовая копія</string>
-    <string name="search_cloudbackup_pref_path">Mi акаўнт/Xiaomi Cloud/Стварыць рэзервовую копію прылады</string>
-    <string name="search_finddevice_pref">Пошук прылады</string>
-    <string name="search_finddevice_pref_desc">Уключыць/адключыць пошук прылады</string>
-    <string name="search_finddevice_pref_key_words">пошук прылад, пошук прылад</string>
-    <string name="search_finddevice_pref_path">Mi акаўнт/Xiaomi Cloud/Пошук прылады</string>
     <string name="search_menu_title">Пошук</string>
     <string name="share_cancel">Адпраўка скасавана</string>
     <string name="share_failed">Не атрымалася адправіць</string>
@@ -440,9 +452,12 @@
     <string name="share_weixin_not_installed">WeChat не ўсталяваны.</string>
     <string name="short_cut_desc">Дадаць значок Xiaomi Cloud на Галоўны экран?</string>
     <string name="soundrecorder_sync_only_in_wifi">Толькі па Wi-Fi</string>
+    <string name="soundrecorder_sync_only_in_wifi_china">Only use WLAN to sync</string>
     <string name="soundrecorder_sync_only_in_wifi_summary">Дыктафон не будзе выкарыстоўваць мабільны інтэрнэт для спампавання і запампавання запісаў</string>
+    <string name="soundrecorder_sync_only_in_wifi_summary_china">Recorder will not use mobile data to download or upload recordings</string>
     <string name="soundrecorder_sync_records">Сінхранізаваць з Xiaomi Cloud</string>
     <string name="special_func_title">Асаблівыя функцыі</string>
+    <string name="starred_contact">Абранае</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_manage_expansion">Атрымаць больш</string>
     <string name="storage_manage_list_title">Воблачныя дадзеныя</string>
@@ -456,6 +471,7 @@
     <string name="sub_alert_notif_title">Сінхранізаваць з Xiaomi Cloud</string>
     <string name="sub_sync_item_sms_summary">Сінхранізаваць паведамленні, якія змяшчаюць фатаграфіі, аўдыя ці іншыя мультымедыйныя файлы, толькі калі вы падлучаныя да сеткі Wi-Fi</string>
     <string name="sub_sync_item_sms_title_wifi_only">MMS толькі па Wi-Fi</string>
+    <string name="sub_sync_item_sms_title_wifi_only_china">Only use WLAN to sync MMS</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sync_detail_summary_master_sync_off">Сінхранізацыя адключана</string>
     <string name="sync_detail_summary_off">Сінхранізацыя адключана</string>
@@ -467,8 +483,11 @@
     <string name="sync_dspt_entrance_provision_confirm_open">Выкарыстоўваць Xiaomi Cloud</string>
     <string name="sync_dspt_entrance_provision_confirm_title">Не выкарыстоўваць Xiaomi Cloud?</string>
     <string name="sync_dspt_entrance_provision_network">Для звычайнай працы дадатку неабходнае падлучэнне да інтэрнэту. Сінхранізацыя магчыма праз мабільную сетку і Wi-Fi.</string>
+    <string name="sync_dspt_entrance_provision_network_china">This app needs to connect to the internet to work normally. Syncing data may require mobile data connection and turning on WLAN.</string>
     <string name="sync_dspt_entrance_provision_skip">Прапусціць</string>
     <string name="sync_dspt_provision">"Сінхранізуйце фатаграфіі, кантакты, нататкі і многае іншае на ўсіх вашых прыладах або атрымаць доступ да іх у "</string>
+    <string name="sync_dspt_provision2">i.mi.com</string>
+    <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
     <string name="sync_dspt_provision3">". Адключыць гэтую функцыю можна ў наладах.
 "</string>
     <string name="sync_item_calllog_summary">Сінхранізаваць журнал уваходных і выходных выклікаў</string>

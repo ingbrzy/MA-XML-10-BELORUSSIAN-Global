@@ -60,6 +60,12 @@
         <item quantity="few">Разблакавана %d разы</item>
         <item quantity="many">Разблакавана %d разоў</item>
     </plurals>
+    <plurals name="usage_new_home_total_unlocks_new">
+        <item quantity="other">Разблакавана %1$d разоў %2$s</item>
+        <item quantity="one">Разблакавана %1$d раз %2$s</item>
+        <item quantity="few">Разблакавана %1$d разы %2$s</item>
+        <item quantity="many">Разблакавана %1$d разоў %2$s</item>
+    </plurals>
     <plurals name="usage_new_home_total_week_unlocks">
         <item quantity="other">Разблакавана %d разоў</item>
         <item quantity="one">Разблакавана %d раз</item>

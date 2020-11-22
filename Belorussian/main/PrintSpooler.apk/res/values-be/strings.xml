@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="add_print_service_label">Дадаць службу</string>
+    <string name="activity_convert_pdf_alert_message">Канвертаванне файла ажыццяўляецца WPS Office</string>
+    <string name="activity_convert_pdf_alert_title">Канвертаванне файла перед друком…</string>
+    <string name="activity_jump_market_alert_install_message">Усталюйце WPS Office для канвертавання гэтага файла і падрыхтоўкі яго да друку. Вам трэба будзе зноўку запусціць друк пасля заканчэння ўсталёўкі. Усталяваць зараз?</string>
+    <string name="activity_jump_market_alert_install_positive_button">Усталяваць</string>
+    <string name="activity_jump_market_alert_title">Увага</string>
+    <string name="activity_jump_market_alert_update_message">Абновіце WPS Office для канвертавання гэтага файла і падрыхтоўкі яго да друку. Вам трэба будзе зноўку запусціць друк пасля ўсталёўкі новай версіі. Абнавіць зараз?</string>
+    <string name="activity_jump_market_alert_update_positive_button">Абнавіць</string>
+    <string name="add_print_service_label">Дадаць сэрвіс</string>
     <string name="all_printers">Усе прынтары...</string>
     <string name="all_printers_label">Усе прынтары</string>
     <string name="all_services_title">Усе службы</string>
@@ -16,7 +23,10 @@
     <string name="collapse_handle">Маркер згортвання</string>
     <string name="connectio_delay_content">Вам можа спатрэбіцца пацвердзіць злучэнне на вашым прынтэры.</string>
     <string name="connectio_help_title">Падключэнне да прынтэру...</string>
+    <string name="copies_decrease">Мінус адна копія</string>
+    <string name="copies_increase">Плюс адна копія</string>
     <string name="could_not_create_file">Не ўдалося стварыць файл</string>
+    <string name="current_page_template">%1$d/%2$d</string>
     <string name="delete_saved_printer_content">Выдаліць абраныя прынтэры зараз?</string>
     <string name="destination_default_text">Выбар прынтара</string>
     <string name="disabled_services_title">Адключаныя службы</string>
@@ -45,7 +55,7 @@
     <string name="open_print_service">Уключыць функцыю друкавання</string>
     <string name="open_print_service_tips">Каб выкарыстоўваць гэтую функцыю, спачатку ўключыце друк у Наладах.</string>
     <string name="open_wlan">Уключыць Wi-Fi</string>
-    <string name="open_wlan_tips">Уключыце Wi-Fi, каб хутчэй знаходзіць прынтэры.</string>
+    <string name="open_wlan_tips">Уключыце Wi-Fi, каб знайсці прынтэры</string>
     <string name="other_printer">Іншыя прынтэры</string>
     <string name="page_description_template">Старонка %1$d з %2$d</string>
     <string name="pages_range_example">напр., 1—5,8,11—13</string>
@@ -62,9 +72,9 @@
     <string name="print_fail_network_error">Не атрымалася надрукаваць. Праверце налады сеткі і паспрабуйце зноў.</string>
     <string name="print_forget_printer">Не запамінаць прынтар</string>
     <string name="print_help_label">Дапамога</string>
-    <string name="print_help_tip">Пераканайцеся, што ваш тэлефон і прынтэр падлучаныя да адной і той жа сеткі Wi-Fi або Wi-Fi Direct уключаны. %1$s.</string>
+    <string name="print_help_tip">Пераканайцеся, што ваш прынтэр і ваш тэлефон падлучаныя да адной і той жа сеткі Wi-Fi або Wi-Fi Direct уключаны. %1$s.</string>
     <string name="print_help_tip_reg">Прагледзець «Дапамогу»</string>
-    <string name="print_no_print_services">Службы друку не ўключаны</string>
+    <string name="print_no_print_services">Сэрвісы друку не ўключаны</string>
     <string name="print_no_printers">Прынтараў не знойдзена</string>
     <string name="print_options_collapsed">Параметры друку згорнуты</string>
     <string name="print_options_expanded">Параметры друку разгорнуты</string>
@@ -77,7 +87,7 @@
     <string name="print_select_printer">Выбар прынтара</string>
     <string name="print_service_security_warning_summary">Ваш дакумент можа прайсці праз адзін ці больш сервераў перад тым, як будзе надрукаваны.</string>
     <string name="print_service_security_warning_title">Выкарыстоўваць службу %1$s?</string>
-    <string name="print_services_disabled_toast">Некаторыя службы друку адключаны</string>
+    <string name="print_services_disabled_toast">Некаторыя сэрвісы друку адключаны</string>
     <string name="print_submited">Гатовы да друку</string>
     <string name="print_title">Друк…</string>
     <string name="print_write_error_message">Не атрымалася запісаць у файл</string>
@@ -85,6 +95,7 @@
     <string name="printer_busy">Прынтэр заняты</string>
     <string name="printer_error">Памылка прынтэра</string>
     <string name="printer_error_msg">Памылка прынтара: %1$s</string>
+    <string name="printer_extended_description_template">%1$s – %2$s</string>
     <string name="printer_info_desc">Больш падрабязная інфармацыя пра гэты прынтар</string>
     <string name="printer_notification_error_title">Не атрымалася надрукаваць %1$s</string>
     <string name="printer_unavailable">Прынтэр недаступны</string>
@@ -109,4 +120,6 @@
     <string name="template_all_pages">Усе %1$s</string>
     <string name="template_page_range">У дыяпазоне %1$s</string>
     <string name="wifi_direct">Wi-Fi Direct</string>
+    <string name="wps_convert_error_toast_text">Не атрымалася канвертаваць файл з-за памылкі фармату</string>
+    <string name="wps_convert_too_large_and_wait_toast_text">Канвертаванне можа заняць больш часу з-за вялікага памеру файла. Канвертуецца…</string>
 </resources>

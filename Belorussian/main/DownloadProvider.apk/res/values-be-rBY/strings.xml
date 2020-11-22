@@ -9,6 +9,7 @@
     <string name="download_queued">У чарзе</string>
     <string name="download_remaining">Засталося %s</string>
     <string name="download_running">У працэсе</string>
+    <string name="download_running_percent">У працэсе, %s</string>
     <string name="download_unknown_title">&lt;Без назвы></string>
     <string name="notification_download_complete">Спампаванне завершана</string>
     <string name="notification_download_failed">Не атрымалася спампаваць.</string>
@@ -29,12 +30,12 @@
     <string name="permlab_downloadWithoutNotification">спампоўваць файлы без апавяшчэння</string>
     <string name="permlab_seeAllExternal">Прагледзець усе спампоўкі на USB-назапашвальнiк</string>
     <string name="root_downloads">Спампоўкі</string>
-    <string name="wifi_recommended_body" formatted="false">"Спампаванне файла памерам %s  можа скараціць тэрмін службы акумулятара або прывесці да празмернага выкарыстання мабільнага падлучэння дадзеных, за што вашым мабiльным аператарам можа спаганяцца дадатковая плата.
+    <string name="wifi_recommended_body">"Спампаванне файла памерам %1$s  можа скараціць тэрмін службы акумулятара або прывесці да празмернага выкарыстання мабільнага падлучэння дадзеных, за што вашым мабiльным аператарам можа спаганяцца дадатковая плата.
 
-Дакранiцеся да надпiсу %s, каб пачаць спампаванне, калi з'явiцца падлучэнне да сеткi Wi-Fi."</string>
+Дакранiцеся да надпiсу %2$s, каб пачаць спампаванне, калi з'явiцца падлучэнне да сеткi Wi-Fi."</string>
     <string name="wifi_recommended_title">Стаць у чаргу, каб спампаваць пазней?</string>
-    <string name="wifi_required_body" formatted="false">"Каб завяршыць спампаванне файла памерам %s , патрабуецца падлучэнне да сеткi Wi-Fi. 
+    <string name="wifi_required_body">"Каб завяршыць спампаванне файла памерам %1$s , патрабуецца падлучэнне да сеткi Wi-Fi. 
 
-Дакранiцеся да надпiсу %s , каб пачаць спампаванне, калi будзе даступна сетка Wi-Fi."</string>
+Дакранiцеся да надпiсу %2$s , каб пачаць спампаванне, калi будзе даступна сетка Wi-Fi."</string>
     <string name="wifi_required_title">Спампоўка занадта вялікая для сеткі аператара</string>
 </resources>

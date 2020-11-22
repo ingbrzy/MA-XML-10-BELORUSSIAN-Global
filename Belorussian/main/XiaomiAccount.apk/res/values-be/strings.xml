@@ -135,6 +135,7 @@ ID вашага акаўнта:%s"</string>
     <string name="confirm_unbundled_phone_dialog_message">Нумар тэлефона %1$s быў звязаны з Mi Акаўнтам %2$s. Калі вы працягніце, нумар больш не будзе звязаны з Mi Акаўнтам %3$s. Працягнуць?</string>
     <string name="continue_action">Працягнуць</string>
     <string name="copy">Капіраваць</string>
+    <string name="copy_to_clipboard_successful">Паспяхова скапіявана</string>
     <string name="delete_action">Выдаліць</string>
     <string name="delete_bank_card_message">Пасля выхаду банкаўскія карткі Mi Pay і карткі NFC будуць выдалены.</string>
     <string name="delete_bank_card_title">Увага</string>
@@ -335,6 +336,10 @@ ID:%s
     <string name="passport_get_verify_code">Атрымаць код</string>
     <string name="passport_getting_activator_phone">Атрыманне інфармацыі SIM…</string>
     <string name="passport_getting_verify_code">Атрыманне</string>
+    <string name="passport_google_login">Увайсці з дапамогай акаўнта Google, які выкарыстоўваўся раней?</string>
+    <string name="passport_google_login_agree">Акаўнт Google</string>
+    <string name="passport_google_login_disagree">Mi Акаўнт</string>
+    <string name="passport_google_login_failed">Не атрымалася ўвайсці з дапамогай Google. Увайдзіце ў свой Mi Акаўнт напрамую.</string>
     <string name="passport_i_know">Зразумела</string>
     <string name="passport_identification_expired">Тэрмін дзеяння праверачнага кода скончыўся, пачніце спачатку</string>
     <string name="passport_imei_permission_denied_message">Мы запытваем доступ да IMEI вашай прылады. Mi Акаўнт выкарыстоўвае IMEI, каб забяспечыць бяспеку вашых дадзеных.</string>

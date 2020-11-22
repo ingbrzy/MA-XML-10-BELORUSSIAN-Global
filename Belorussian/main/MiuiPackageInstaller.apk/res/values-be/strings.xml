@@ -29,6 +29,14 @@
     <string name="abc_toolbar_collapse_description">Згарнуць</string>
     <string name="copy">Капіраваць</string>
     <string name="expand_button_title">Пашыраныя налады</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Пацягніце ўніз для абнаўлення</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Абноўлена</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Абнаўленне…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Адпусціце для абнаўлення</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">Пакуль што гэта ўсё</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">Пакуль што гэта ўсё</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Хвілінку…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Не атрымалася загрузіць аб'екты"</string>
     <string name="not_set">Не зададзена</string>
     <string name="preference_copied">\"%1$s\": скапіравана ў буфер абмену.</string>
     <string name="search_menu_title">Пошук</string>

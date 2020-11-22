@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_search_earth">
+        <item>Дадому</item>
+        <item>Шпалеры/Супершпалеры/Дадому</item>
+        <item>Земля,Супершпалеры,Выданне Зямлі,Шпалеры</item>
+    </string-array>
+    <string-array name="settings_search_mars">
+        <item>Чырвоная планета</item>
+        <item>Шпалеры/Супершпалеры/Чырвоная планета</item>
+        <item>Марс;Марсіянскі;Супершпалеры;Шпалеры</item>
+    </string-array>
+    <string-array name="settings_search_superwp">
+        <item>Супершпалеры</item>
+        <item>Шпалеры/Супершпалеры</item>
+        <item>Супершпалеры;Шпалеры;Дынамічныя шпалеры;3D-шпалеры</item>
+    </string-array>
+</resources>

@@ -180,6 +180,12 @@
         <item quantity="few">Праз %1$d дні</item>
         <item quantity="many">Праз %1$d дзён</item>
     </plurals>
+    <plurals name="todo_terms">
+        <item quantity="other">%1$s задач</item>
+        <item quantity="one">%1$s задача</item>
+        <item quantity="few">%1$s задачы</item>
+        <item quantity="many">%1$s задач</item>
+    </plurals>
     <plurals name="word_count">
         <item quantity="other">%d сімвалаў</item>
         <item quantity="one">%d сімвал</item>

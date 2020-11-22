@@ -37,7 +37,6 @@
     <string name="back_up_task_in_process">Стварэнне рэзервовай копіі…</string>
     <string name="back_up_task_unfinished">Немагчыма стварыць рэзервовую копію</string>
     <string name="backing_up_to_micloud">Стварэнне рэзервовай копіі…</string>
-    <string name="backup_fail_wifi_needed">Рэзерваванне не атрымалася, патрабуецца Wi-Fi.</string>
     <string name="backup_failed_reason_cloud_space_not_enough">У Xiaomi Cloud недастаткова месца для захоўвання. Павысьце ўзровень свайго плана або вызваліце ​​месца ў сховішчы.</string>
     <string name="backup_failed_reason_disk_space_not_enough">Недастаткова вольнага месца ў сховішчы. Спачатку вызваліце ​​сховішча.</string>
     <string name="backup_failed_reason_network_error">Памылка сеткі. Пачакайце хвіліну ці дзве і паўтарыце спробу.</string>
@@ -58,6 +57,7 @@
     <string name="btn_restore_resume">Працягнуць</string>
     <string name="btn_restore_retry">Паспрабаваць зноў</string>
     <string name="btn_restore_wait">Чаканне Wi-Fi</string>
+    <string name="btn_restore_wait_china">Wait for WLAN</string>
     <string name="btn_retry">Праверце яшчэ раз</string>
     <string name="btn_skip">Прапусціць</string>
     <string name="button_cancel">Скасаваць</string>
@@ -87,10 +87,15 @@
 *  Налады апавяшчэнняў 
 *  Налады MIUI і сістэмы 
 Увага: рэзервовыя копіі дадзеных ўсталяваных праграм не будуць захоўвацца ў Xiaomi Cloud."</string>
+    <string name="cloud_back_up_detail_discription_china">"These items will be backed up to Xiaomi Cloud when your device is connected to WLAN: 
+*  Apps, Home screen layout, and wallpapers 
+*  Alarm, clock, and time settings 
+*  Notification settings 
+*  MIUI and system settings 
+Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</string>
     <string name="cloud_back_up_frequence_choice_title">Стварэнне рэзервовых копій па раскладу</string>
     <string name="cloud_back_up_frequence_long">Кожныя 7 дзён</string>
     <string name="cloud_back_up_frequence_short">Штодня</string>
-    <string name="cloud_back_up_no_network_warn">Няма даступных Wi-Fi сетак</string>
     <string name="cloud_back_up_ok_btn">OК</string>
     <string name="cloud_back_up_opening">Хвілінку…</string>
     <string name="cloud_back_up_subscribe_vip_confirm">Палепшыць</string>
@@ -103,6 +108,7 @@
     <string name="cloud_backup_detail_manage">Кіраванне рэзервовымі копіямі</string>
     <string name="cloud_backup_detail_state">Аўтарэзерваванне</string>
     <string name="cloud_backup_detail_state_summary">Ствараць рэзервовыя копіі ў Xiaomi Cloud аўтаматычна пры падлучэнні да Wi-Fi.</string>
+    <string name="cloud_backup_detail_state_summary_china">Create Xiaomi Cloud backups automatically when connected to WLAN.</string>
     <string name="cloud_backup_detail_time">Апошняя рэзервовая копія: %1$s</string>
     <string name="cloud_backup_detail_title">Працоўны стол, праграмы і налады.</string>
     <string name="cloud_backup_have_data">Знойдзена рэзервовая копія ў Xiaomi Cloud</string>
@@ -138,7 +144,9 @@
     <string name="dialog_cancel_backup_title">Скасаваць капіяванне?</string>
     <string name="dialog_msg_overwrite_backup">Лакальная рэзервовая копія адрозніваецца ад копіі ў Xiaomi Cloud. Калі вы працягнеце, бягучая копія перазапіша папярэднюю.</string>
     <string name="dialog_msg_restore_require_wlan">Каб аднавіць з рэзервовай копіі, патрабуецца злучэнне з Wi-Fi.</string>
+    <string name="dialog_msg_restore_require_wlan_china">Restoring backups requires connecting to WLAN.</string>
     <string name="dialog_title_require_wlan">Злучыцца з Wi-Fi</string>
+    <string name="dialog_title_require_wlan_china">Connect to WLAN</string>
     <string name="dir_date_format">HHmmss_ddMMyyyy</string>
     <string name="doing_calc_backup_data_size">Падлік памеру…</string>
     <string name="doing_restore_home">Аднаўленне працоўнага стала і налад…</string>
@@ -153,6 +161,7 @@
     <string name="error_unknown">Нешта не так</string>
     <string name="expand_button_title">Пашыраныя налады</string>
     <string name="get_device_id_error">Немагчыма атрымаць ID прылады</string>
+    <string name="help_and_feedback">Дапамога і водгук</string>
     <string name="hint_restore_cross_space">"Пры перамяшчэнні аб'ектаў паміж прасторамі раскладка Галоўнага экрана можа адлюстроўвацца няправільна."</string>
     <string name="home_hint_global_launcher">Працоўны стол POCO</string>
     <string name="home_hint_other_launcher">Іншы працоўны стол</string>
@@ -179,11 +188,10 @@
     <string name="notification_channel_remind">Нагадванне</string>
     <string name="notification_channel_service">Сэрвіс</string>
     <string name="open_backup_switch">Уключыце рэзерваванне</string>
-    <string name="open_wifi">Уключыць Wi-Fi</string>
-    <string name="open_wifi_description">Падлучыцеся да Wi-Fi для аднаўлення</string>
-    <string name="open_wifi_setting">Налады Wi-Fi</string>
     <string name="other_device_main_space">Першая прастора</string>
     <string name="other_device_second_space">Другая прастора</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="preference_copied">\"%1$s\": скапіравана ў буфер абмену.</string>
     <string name="process_whole_recovery">Аднаўленне \"%s\"</string>
     <string name="provision_background_restore_more_data">"Аднавіць іншыя аб'екты ў фоне"</string>
@@ -211,7 +219,6 @@
     <string name="restore_app_order_search_prior">Важныя праграмы</string>
     <string name="restore_app_order_title">"Прыярытэт аднаўлення аб'ектаў"</string>
     <string name="restore_cloud_backup_to_phone">"Аднавіць аб'екты з воблака"</string>
-    <string name="restore_data_summary">Для гэтай функцыі неабходна падлучэнне да інтэрнэту.</string>
     <string name="restore_data_title">Аднаўленне дадзеных</string>
     <string name="restore_detail_category_apps">Працоўны стол і праграмы</string>
     <string name="restore_detail_category_settings">Налады</string>

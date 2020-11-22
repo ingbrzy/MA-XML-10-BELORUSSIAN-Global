@@ -12,6 +12,12 @@
         <item quantity="few">Зварот на галоўную старонку праз %1$d секунды…</item>
         <item quantity="many">Зварот на галоўную старонку праз %1$d секунд…</item>
     </plurals>
+    <plurals name="follower">
+        <item quantity="other">%d падпісчыкаў</item>
+        <item quantity="one">%d падпісчык</item>
+        <item quantity="few">%d падпісчыка</item>
+        <item quantity="many">%d падпісчыкаў</item>
+    </plurals>
     <plurals name="lv_subtitle_offset_advance_times">
         <item quantity="other">Субцітры будуць паказаны на %.1f секунд пазней</item>
         <item quantity="one">Субцітры будуць паказаны на %.1f секунду пазней</item>
@@ -35,6 +41,12 @@
         <item quantity="one">%d відэа</item>
         <item quantity="few">%d відэа</item>
         <item quantity="many">%d відэа</item>
+    </plurals>
+    <plurals name="mediation_animate_close_after">
+        <item quantity="other">Засталося %s сек.</item>
+        <item quantity="one">Засталася %s сек.</item>
+        <item quantity="few">Засталося %s сек.</item>
+        <item quantity="many">Засталося %s сек.</item>
     </plurals>
     <plurals name="notice_user_banned">
         <item quantity="other">"Ваш кантэнт змяшчае аб'екты (%1$s), якія парушаюць стандарты нашай супольнасці. Ваш акаўнт заблакаваны на %2$d дня да %3$s."</item>
@@ -95,6 +107,24 @@
         <item quantity="one">%d відэа</item>
         <item quantity="few">%d відэа</item>
         <item quantity="many">%d відэа</item>
+    </plurals>
+    <plurals name="s_double_tap_backward">
+        <item quantity="other">Націсніце двойчы для перамоткі на %d секунд назад</item>
+        <item quantity="one">Націсніце двойчы для перамоткі на %d секунду назад</item>
+        <item quantity="few">Націсніце двойчы для перамоткі на %d секунды назад</item>
+        <item quantity="many">Націсніце двойчы для перамоткі на %d секунд назад</item>
+    </plurals>
+    <plurals name="s_double_tap_forward">
+        <item quantity="other">Націсніце двойчы для перамоткі на %d секунд наперад</item>
+        <item quantity="one">Націсніце двойчы для перамоткі на %d секунду наперад</item>
+        <item quantity="few">Націсніце двойчы для перамоткі на %d секунды наперад</item>
+        <item quantity="many">Націсніце двойчы для перамоткі на %d секунд наперад</item>
+    </plurals>
+    <plurals name="s_forward_tip">
+        <item quantity="other">%1$s сек.</item>
+        <item quantity="one">%1$s сек.</item>
+        <item quantity="few">%1$s сек.</item>
+        <item quantity="many">%1$s сек.</item>
     </plurals>
     <plurals name="subscriber">
         <item quantity="other">%s падпісчыкаў</item>

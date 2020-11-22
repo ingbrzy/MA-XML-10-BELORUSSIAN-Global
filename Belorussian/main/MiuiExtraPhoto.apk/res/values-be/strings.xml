@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="doc_photo_adjust_section_title">Перацягніце для налады</string>
+    <string name="doc_photo_cancel">Адмена</string>
+    <string name="doc_photo_confirm">Выйсці</string>
+    <string name="doc_photo_doc_photo_title">Змяніць дакумент</string>
+    <string name="doc_photo_enhance_bin">Ч/Б</string>
+    <string name="doc_photo_enhance_color">Палепшаны</string>
+    <string name="doc_photo_enhance_none">Арыгінал</string>
+    <string name="doc_photo_idcard_alert_msg">Адмяніць усе змены і выйсці з рэдактара?</string>
+    <string name="doc_photo_idcard_emblem">Назад</string>
+    <string name="doc_photo_idcard_mode_title">Пасведчанне асобы</string>
+    <string name="doc_photo_idcard_portrait">Пярэдні бок</string>
+    <string name="doc_photo_not_support">Не ўдаецца адрэдагаваць гэтую выяву ў якасці дакумента</string>
+    <string name="doc_photo_view_effect">Прадпрагляд</string>
     <string name="extra_photo_common_save_fail">Памылка захавання</string>
     <string name="extra_photo_common_saving">Захаванне…</string>
     <string name="motion_photo_cancel">Адмена</string>
@@ -25,6 +38,7 @@
     <string name="refocus_save_to_video">Захаваць як відэа</string>
     <string name="refocus_saving">Захаванне…</string>
     <string name="refocus_title">Размыццё</string>
+    <string name="refocus_type_movie_relighting">Кінематаграфічны</string>
     <string name="refocus_type_relighting">Студыйнае асвятленне</string>
     <string name="refocus_type_relighting_no_face">Файл не знойдзены</string>
     <string name="refocus_type_relighting_small_face">Студыйнае асвятленне працуе на фота, дзе твары займаюць больш месца.</string>

@@ -10,6 +10,14 @@
 перайдзіце на %s з любой прылады, злучанай з сеткай."</string>
     <string name="loading">Хвілінку…</string>
     <string name="mibi_license">Карыстальніцкае пагадненне Mi Credits</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Пацягніце ўніз для абнаўлення</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Абноўлена</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Абнаўленне…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Адпусціце для абнаўлення</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">Пакуль што гэта ўсё</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">Пакуль што гэта ўсё</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Хвілінку…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Не атрымалася загрузіць аб'екты"</string>
     <string name="open_wifi_connect_and_use_data_summary">Выкарыстоўваецца мабільны інтэрнэт. Націсніце, каб далучыцца да Wi-Fi.</string>
     <string name="open_wifi_connect_summary">Націсніце для прагляду інфармацыі.</string>
     <string name="open_wifi_connect_title">Падлучана да %1$s</string>

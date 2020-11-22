@@ -35,6 +35,11 @@
     <string name="close_panel">Адключыць асістэнт дотыку</string>
     <string name="copy">Капіраваць</string>
     <string name="customize_entries">Выбраць ярлыкі</string>
+    <string name="edge_distance_pref_summary">Націсніце на вобласць побач з краем экрана, каб актываваць сэнсарнага памочніка</string>
+    <string name="edge_distance_pref_title">Вобласці актывацыі</string>
+    <string name="edge_mode_custom_summary">Зменіце памер вобласці актывацыі побач з краямі экрана</string>
+    <string name="edge_mode_custom_title">Карыстальніцкі</string>
+    <string name="edge_mode_default_title">Па змоўчанні</string>
     <string name="enable_touch_assistant">Уключыць асістэнт дотыку</string>
     <string name="expand_button_title">Пашыраныя налады</string>
     <string name="function_settings">Налады ярлыкоў</string>
@@ -67,6 +72,7 @@
     <string name="name_trans_cards">Транспартная картка</string>
     <string name="name_wechat_payment_code">Аплата праз WeChat</string>
     <string name="name_wechat_scan">Сканер WeChat</string>
+    <string name="name_xiao_ai">Mi AI</string>
     <string name="nfc_all_mipay_card_not_in_use">Mi Pay не актываваны</string>
     <string name="nfc_trans_card_not_in_use">Транспартная картка не актываваная</string>
     <string name="not_set">Не зададзена</string>

@@ -37,10 +37,10 @@
         <item quantity="many">Выдаліць %1$d чарнавікоў?</item>
     </plurals>
     <plurals name="contact_num_selected">
-        <item quantity="other">Выбрана:%d</item>
-        <item quantity="one">Выбрана:%d</item>
-        <item quantity="few">Выбрана:%d</item>
-        <item quantity="many">Выбрана:%d</item>
+        <item quantity="other">Дададзена %d кантактаў</item>
+        <item quantity="one">Дадзены %d кантакт</item>
+        <item quantity="few">Дадзена %d кантакты</item>
+        <item quantity="many">Дададзена %d кантактаў</item>
     </plurals>
     <plurals name="conversation_archived">
         <item quantity="other">Архівавана: &lt;b>%1$d&lt;/b>.</item>
@@ -173,6 +173,66 @@
         <item quantity="one">Выбрана:%d</item>
         <item quantity="few">Выбрана:%d</item>
         <item quantity="many">Выбрана:%d</item>
+    </plurals>
+    <plurals name="number_of_day_after">
+        <item quantity="other">праз %1$d дзён</item>
+        <item quantity="one">праз %1$d дзень</item>
+        <item quantity="few">праз %1$d дні</item>
+        <item quantity="many">праз %1$d дзён</item>
+    </plurals>
+    <plurals name="number_of_day_before">
+        <item quantity="other">за %1$d дзён</item>
+        <item quantity="one">за %1$d дзень</item>
+        <item quantity="few">за %1$d дні</item>
+        <item quantity="many">за %1$d дзён</item>
+    </plurals>
+    <plurals name="number_of_hour_after">
+        <item quantity="other">праз %1$d гадзін</item>
+        <item quantity="one">праз %1$d гадзіну</item>
+        <item quantity="few">праз %1$d гадзіны</item>
+        <item quantity="many">праз %1$d гадзін</item>
+    </plurals>
+    <plurals name="number_of_hour_before">
+        <item quantity="other">за %1$d гадзін</item>
+        <item quantity="one">за %1$d гадзіну</item>
+        <item quantity="few">за %1$d гадзіны</item>
+        <item quantity="many">за %1$d гадзін</item>
+    </plurals>
+    <plurals name="number_of_minute_after">
+        <item quantity="other">праз %1$d хвілін</item>
+        <item quantity="one">праз %1$d хвіліну</item>
+        <item quantity="few">праз %1$d хвіліны</item>
+        <item quantity="many">праз %1$d хвілін</item>
+    </plurals>
+    <plurals name="number_of_minute_before">
+        <item quantity="other">за %1$d хвілін</item>
+        <item quantity="one">за %1$d хвіліну</item>
+        <item quantity="few">за %1$d хвіліны</item>
+        <item quantity="many">за %1$d хвілін</item>
+    </plurals>
+    <plurals name="number_of_second_after">
+        <item quantity="other">праз %1$d секунд</item>
+        <item quantity="one">праз %1$d секунду</item>
+        <item quantity="few">праз %1$d секунды</item>
+        <item quantity="many">праз %1$d секунд</item>
+    </plurals>
+    <plurals name="number_of_second_before">
+        <item quantity="other">за %1$d секунд</item>
+        <item quantity="one">за %1$d секунду</item>
+        <item quantity="few">%1$d секунды таму</item>
+        <item quantity="many">за %1$d секунд</item>
+    </plurals>
+    <plurals name="number_of_week_after">
+        <item quantity="other">праз %1$d тыдняў</item>
+        <item quantity="one">праз %1$d тыдзень</item>
+        <item quantity="few">праз %1$d тыдня</item>
+        <item quantity="many">праз %1$d тыдняў</item>
+    </plurals>
+    <plurals name="number_of_week_before">
+        <item quantity="other">за %1$d тыдняў</item>
+        <item quantity="one">за %1$d тыдзень</item>
+        <item quantity="few">за %1$d тыдні</item>
+        <item quantity="many">за %1$d тыдняў</item>
     </plurals>
     <plurals name="quick_reply_hint">
         <item quantity="other">Адказаць %1$d кантакта</item>

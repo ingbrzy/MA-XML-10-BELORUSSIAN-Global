@@ -54,7 +54,7 @@
   <string name="deleteAll_record">Выдаліць усе запісы</string>
   <string name="delete_record">Выдаліць запіс</string>
   <string name="download_cancel">Спыніць</string>
-  <string name="download_fail_line1">Файл не атрыманы</string>
+  <string name="download_fail_line1">Файл не атрыманыя</string>
   <string name="download_fail_line2">Файл: %1$s</string>
   <string name="download_fail_line3">Прычына: %1$s</string>
   <string name="download_fail_ok">Добра</string>

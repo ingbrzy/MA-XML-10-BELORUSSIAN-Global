@@ -39,16 +39,16 @@
   <string name="VideoView_error_title">Праблема з відэа</string>
   <string name="accept">Ухваліць</string>
   <string name="accessibility_binding_label">Адмысловыя магчымасці</string>
-  <string name="accessibility_button_instructional_text">Каб пераключыцца на другую службу, націсніце і ўтрымлівайце кнопку спецыяльных магчымасцей.</string>
-  <string name="accessibility_button_prompt_text">Выберыце службу для выкарыстання пры націску кнопкі \"Спецыяльныя магчымасці\":</string>
+  <string name="accessibility_button_instructional_text">Каб пераключыцца паміж службамі, націсніце і ўтрымлівайце кнопку адмысловых магчымасцяў.</string>
+  <string name="accessibility_button_prompt_text">Абярыце службу для выкарыстання пры націсканні кнопкі \"Адмысловыя магчымасці\":</string>
   <string name="accessibility_gesture_3finger_instructional_text">Каб пераключыцца на іншую службу, правядзіце ўверх трыма пальцамі, утрымліваючы іх на экране.</string>
-  <string name="accessibility_gesture_3finger_prompt_text">З дапамогай жэста спецыяльных магчымасцей (правесці трыма пальцамі па экране знізу ўверх) выберыце службу для выкарыстання:</string>
-  <string name="accessibility_gesture_instructional_text">Каб пераключыцца на другую службу, правядзіце ўверх двума пальцамі, утрымліваючы іх на экране.</string>
-  <string name="accessibility_gesture_prompt_text">З дапамогай жэста спецыяльных магчымасцей (правесці двума пальцамі па экране знізу ўверх) выберыце службу для выкарыстання:</string>
+  <string name="accessibility_gesture_3finger_prompt_text">Пры дапамозе жэста адмысловых магчымасцяў (правесці трыма пальцамі па экране знізу ўверх) абярыце службу для выкарыстання:</string>
+  <string name="accessibility_gesture_instructional_text">Каб пераключыцца на іншую службу, правядзіце ўверх двума пальцамі, утрымліваючы іх на экране.</string>
+  <string name="accessibility_gesture_prompt_text">Пры дапамозе жэста адмысловых магчымасцяў (правесці двума пальцамі па экране знізу ўверх) абярыце службу для выкарыстання:</string>
   <string name="accessibility_magnification_chooser_text">Павелічэнне</string>
   <string name="accessibility_shortcut_disabling_service">%1$s быў адключаны пры дапамозе камбінацыі хуткага доступу для адмысловых магчымасцяў</string>
   <string name="accessibility_shortcut_enabling_service">%1$s быў уключаны пры дапамозе камбінацыі хуткага доступу для адмысловых магчымасцяў</string>
-  <string name="accessibility_shortcut_spoken_feedback">Каб карыстацца сэрвісам \"%1$s\", націсніце і ўтрымлівайце на працягу трох секунд абедзве клавішы гучнасці</string>
+  <string name="accessibility_shortcut_spoken_feedback">Каб карыстацца службай \"%1$s\", націсніце і ўтрымлівайце на працягу трох секунд абедзве клавішы гучнасці</string>
   <string name="accessibility_shortcut_toogle_warning">"Калі камбінацыя хуткага доступу ўключаная, вы можаце націснуць абедзве кнопкі гучнасці і ўтрымліваць іх 3 секунды, каб уключыць функцыю адмысловых магчымасцяў.
 
  Бягучая функцыя адмысловых магчымасцяў:
@@ -66,14 +66,14 @@
   <string name="activity_chooser_view_see_all">Праглядзець усё</string>
   <string name="activity_list_empty">Адпаведных працэсаў не знойдзена.</string>
   <string name="activity_resolver_app_settings">Налады</string>
-  <string name="activity_resolver_set_always">Прызначыць стандартна для адкрыцця</string>
+  <string name="activity_resolver_set_always">Заўсёды для адкрыцця</string>
   <string name="activity_resolver_use_always">Заўсёды</string>
   <string name="activity_resolver_use_once">Толькі адзін раз</string>
   <string name="activity_resolver_work_profiles_support">"%1$s не падтрымлівае працоўны профіль"</string>
   <string name="activitychooserview_choose_application">Абярыце праграму</string>
   <string name="activitychooserview_choose_application_error">"Не атрымалася запусціць %s"</string>
   <string name="adb_active_notification_message">Націсніце, каб адключыць адладку па USB</string>
-  <string name="adb_active_notification_title">Дыягностыка па USB уключаная</string>
+  <string name="adb_active_notification_title">Адладка па USB уключаная</string>
   <string name="adb_debugging_notification_channel_tv">Адладка па USB</string>
   <string name="addToDictionary">Дадаць у слоўнік</string>
   <string name="add_account_button_label">Дадаць акаўнт</string>
@@ -201,10 +201,10 @@
   <string name="autofill_state">Штат</string>
   <string name="autofill_state_re">state|county|region|province|land|county|principality|都道府県|estado|provincia|область|省|地區</string>
   <string name="autofill_this_form">Аўтазапаўненне</string>
-  <string name="autofill_update_title">Абнавіць у сэрвісе <b>%1$s</b>?</string>
-  <string name="autofill_update_title_with_2types">Абнавіць даныя \"%1$s\" і \"%2$s\" у сэрвісе <b>%3$s</b>?</string>
-  <string name="autofill_update_title_with_3types">Абнавіць наступныя элементы ў сэрвісе <b>%4$s</b>: %1$s, %2$s і %3$s?</string>
-  <string name="autofill_update_title_with_type">Абнавіць даныя \"%1$s\" у сэрвісе <b>%2$s</b>?</string>
+  <string name="autofill_update_title">Абнавіць у &lt;b&gt;%1$s&lt;/b&gt;?</string>
+  <string name="autofill_update_title_with_2types">Абнавіць \"%1$s\" і \"%2$s\" у &lt;b&gt;%3$s&lt;/b&gt;?</string>
+  <string name="autofill_update_title_with_3types">Абнавіць наступныя элементы ў &lt;b&gt;%4$s&lt;/b&gt;: %1$s, %2$s, і %3$s ?</string>
+  <string name="autofill_update_title_with_type">Абнавіць \"%1$s\" у &lt;b&gt;%2$s&lt;/b&gt;?</string>
   <string name="autofill_update_yes">Абнавіць</string>
   <string name="autofill_username_re">user.?name|user.?id|vollständiger.?name|用户名</string>
   <string name="autofill_window_title">Аўтазапаўненне праз \"%1$s\"</string>
@@ -215,19 +215,19 @@
   <string name="badPin">"Стары PIN-код уведзены няправільна."</string>
   <string name="badPuk">"Няправільны PUK-код."</string>
   <string name="battery_saver_charged_notification_title">Узровень зараду тэлефона: %1$s</string>
-  <string name="battery_saver_description">Каб павялічыць тэрмін службы акумулятара, рэжым эканоміі зараду выключае ці абмяжоўвае дзеянні ў фонавым рэжыме, некаторыя візуальныя эфекты і іншыя функцыі з высокімі энергавыдаткамі.</string>
-  <string name="battery_saver_description_with_learn_more">Каб павялічыць тэрмін службы акумулятара, рэжым эканоміі зараду выключае ці абмяжоўвае дзеянні ў фонавым рэжыме, некаторыя візуальныя эфекты і іншыя функцыі з высокімі энергавыдаткамі. <annotation id="url">Даведацца больш</annotation></string>
-  <string name="battery_saver_notification_channel_name">Эканомія зараду</string>
-  <string name="battery_saver_off_alternative_notification_summary">Рэжым эканоміі зараду выключаны. Функцыі больш не абмежаваны.</string>
-  <string name="battery_saver_off_notification_summary">Рэжым эканоміі зараду выключаны. Функцыі больш не абмежаваны.</string>
-  <string name="battery_saver_sticky_disabled_notification_summary">Акумулятар зараджаны да дастатковага ўзроўню. Рэжым эканоміі зараду ўключыцца зноў, калі ў акумулятара будзе нізкі зарад.</string>
-  <string name="battery_saver_sticky_disabled_notification_title">Рэжым эканоміі зараду ўключыцца зноў, калі ў акумулятара будзе нізкі зарад</string>
+  <string name="battery_saver_description">Каб павялічыць тэрмін службы батарэі, рэжым эканоміі выключае ці абмяжоўвае дзеянні ў фоне, некаторыя візуальныя эфекты і іншыя функцыі з высокімі энергавыдаткамі.</string>
+  <string name="battery_saver_description_with_learn_more">Каб павялічыць тэрмін службы батарэі, рэжым эканоміі выключае ці абмяжоўвае дзеянні ў фоне, некаторыя візуальныя эфекты і іншыя функцыі з высокімі энергавыдаткамі.&lt;annotation id=\"url\"&gt;Даведацца больш&lt;/annotation&gt;</string>
+  <string name="battery_saver_notification_channel_name">Эканомія энергіі</string>
+  <string name="battery_saver_off_alternative_notification_summary">Рэжым эканоміі энергіі выключаны. Функцыі больш не абмяжоўваюцца.</string>
+  <string name="battery_saver_off_notification_summary">Рэжым эканоміі энергіі выключаны. Функцыі больш не абмяжоўваюцца.</string>
+  <string name="battery_saver_sticky_disabled_notification_summary">Батарэя засілкаваная да дастатковага ўзроўню. Рэжым эканоміі энергіі ўключыцца зноў, калі ў батарэі будзе нізкі ўзровень зарад.</string>
+  <string name="battery_saver_sticky_disabled_notification_title">Рэжым эканоміі энергіі ўключыцца зноў, калі ў батарэі будзе нізкі ўзровень зараду</string>
   <string name="beforeOneMonthDurationPast">Раней, чым 1 месяц таму</string>
   <string name="biometric_dialog_default_title">Спраўдзіце, што гэта вы</string>
-  <string name="biometric_error_canceled">Аўтэнтыфікацыя скасавана</string>
-  <string name="biometric_error_device_not_secured">Не заданы PIN-код, узор разблакіроўкі або пароль</string>
-  <string name="biometric_error_hw_unavailable">Біяметрычнае абсталяванне недаступнае</string>
-  <string name="biometric_error_user_canceled">Аўтэнтыфікацыя скасавана</string>
+  <string name="biometric_error_canceled">Аўтэнтыфікацыя скасаваная</string>
+  <string name="biometric_error_device_not_secured">Не вызначаны PIN-код, графічны ключ альбо пароль</string>
+  <string name="biometric_error_hw_unavailable">Біяметрычнае абсталяванне недаступна</string>
+  <string name="biometric_error_user_canceled">Аўтэнтыфікацыя скасаваная</string>
   <string name="biometric_not_recognized">Не распазнана</string>
   <string name="bluetooth_a2dp_audio_route_name">Bluetooth-аўдыё</string>
   <string name="browse">Адкрыць</string>
@@ -271,7 +271,7 @@
   <string name="chooseUsbActivity">Абярыце праграму для USB-прылады</string>
   <string name="choose_account_label">Абярыце акаўнт</string>
   <string name="chooser_all_apps_button_label">Спіс праграм</string>
-  <string name="chooser_no_direct_share_targets">Непасрэднае абагульванне недаступнае</string>
+  <string name="chooser_no_direct_share_targets">Непасрэднае абагульванне недаступна</string>
   <string name="chooser_wallpaper">Змяніць шпалеры</string>
   <string name="clearDefaultHintMsg">Прадвызначана ачышчаць у раздзеле \"Налады сістэмы &gt; Праграмы &gt; Спампаваныя\".</string>
   <string name="close_button_text">Закрыць</string>
@@ -517,11 +517,11 @@
   <string name="dump_heap_ready_notification">Дынамічная памяць %1$s гатовая</string>
   <string name="dump_heap_ready_text">Дамп дынамічнай памяці працэсу \"%1$s\" даступны для абгульвання. Будзьце асцярожныя: у дампе дынамічнай памяці можа ўтрымлівацца асабістая інфармацыя, да якой у працэсу ёсць доступ. Яна можа ўключаць уведзеныя вамі даныя.</string>
   <string name="dump_heap_system_text">Працэс \"%1$s\" перавысіў ліміт памяці %2$s. Дамп дынамічнай памяці даступны для абагульвання. Будзьце асцярожныя: у дампе дынамічнай памяці можа ўтрымлівацца асабістая інфармацыя, да якой у працэсу ёсць доступ. Яна можа ўключаць уведзеныя вамі даныя.</string>
-  <string name="dump_heap_text">Працэс %1$s перавысіў ліміт памяці %2$s. Дамп дынамічнай памяці даступны для вас, вы можаце абагуліць яго з распрацоўшчыкам. Будзьце асцярожныя: у дампе дынамічнай памяці можа ўтрымлівацца асабістая інфармацыя, да якой у праграмы ёсць доступ.</string>
+  <string name="dump_heap_text">Працэс %1$s перавысіў ліміт памяці %2$s. Дамп дынамічнай памяці даступны для вас, вы можаце падзяліцца ім з распрацоўнікамі. Будзьце асцярожныя: у дампе дынамічнай памяці можа ўтрымлівацца асабістая інфармацыя, да якой у праграмы ёсць доступ.</string>
   <string name="dump_heap_title">Падзяліцца дампам дынамічнай вобласці?</string>
-  <string name="dynamic_mode_notification_channel_name">Апавяшчэнне з інфармацыяй пра ўсталяваны рэжым</string>
-  <string name="dynamic_mode_notification_summary">Каб павялічыць тэрмін работы акумулятара, уключаны рэжым эканоміі зараду</string>
-  <string name="dynamic_mode_notification_title">Акумулятар можа разрадзіцца хутчэй, чым прыйдзе час звычайнай зарадкі</string>
+  <string name="dynamic_mode_notification_channel_name">Апавяшчэнне з інфармацыяй пра рэжым</string>
+  <string name="dynamic_mode_notification_summary">Для павелічэння тэрміну працы батарэі ўключаны рэжым эканоміі энергіі</string>
+  <string name="dynamic_mode_notification_title">Батарэя можа разрадзіцца хутчэй, чым звычайна</string>
   <string name="editTextMenuTitle">Дзеянні з тэкстам</string>
   <string name="elapsed_time_short_format_h_mm_ss">%1$d:%2$02d:%3$02d</string>
   <string name="elapsed_time_short_format_mm_ss">%1$02d:%2$02d</string>
@@ -595,9 +595,9 @@
   <string name="extract_edit_menu_button">Рэдагаваць</string>
   <string name="face_acquired_insufficient">Не атрымалася распазнаць твар. Паўтарыце спробу.</string>
   <string name="face_acquired_not_detected">Не відаць твару. Глядзіце на тэлефон.</string>
-  <string name="face_acquired_obscured">Прыміце ўсё, што закрывае ваш твар.</string>
+  <string name="face_acquired_obscured">Прыбярыце ўсё, што закрывае ваш твар.</string>
   <string name="face_acquired_pan_too_extreme">Вы занадта моцна павярнулі галаву.</string>
-  <string name="face_acquired_poor_gaze">Глядзіце прама на экран прылады.</string>
+  <string name="face_acquired_poor_gaze">Глядзіце непасрэдна на экран прылады.</string>
   <string name="face_acquired_recalibrate">Паўтарыце рэгістрацыю твару.</string>
   <string name="face_acquired_roll_too_extreme">Вы занадта моцна павярнулі галаву.</string>
   <string name="face_acquired_sensor_dirty">Ачысціце датчык уверсе экрана.</string>
@@ -619,8 +619,8 @@
   <string name="face_error_hw_not_available">Твар не спраўджаны. Абсталяванне недаступнае.</string>
   <string name="face_error_hw_not_present">На гэтай прыладзе распазнаванне твару не падтрымліваецца</string>
   <string name="face_error_lockout">Занадта шмат спробаў. Паўтарыце спробу пазней.</string>
-  <string name="face_error_lockout_permanent">Занадта шмат спроб. Распазнаванне твару выключана.</string>
-  <string name="face_error_no_space">Новыя даныя пра твар не захаваны. Спачатку выдаліце старыя.</string>
+  <string name="face_error_lockout_permanent">Занадта шмат спробаў. Распазнаванне твару выключана.</string>
+  <string name="face_error_no_space">Новыя даныя пра твар не захаваныя. Спачатку выдаліце старыя.</string>
   <string name="face_error_not_enrolled">Вы не наладзілі распазнаванне твару</string>
   <string name="face_error_timeout">Выканайце распазнаванне твару паўторна.</string>
   <string name="face_error_unable_to_process">Не ўдалося спраўдзіць твар. Паўтарыце спробу.</string>
@@ -898,8 +898,8 @@
   <string name="lock_to_app_description_accessible">"Замацаванне экрана фіксуе яго ў адпаведным становішчы.
 
 Каб адмацаваць экран, націсніце і ўтрымлівайце адначасова кнопкі \"Хатні экран\" і \"Сілкаванне\"."</string>
-  <string name="lock_to_app_toast">Каб адмацаваць экран, націсніце і ўтрымлівайце адначасова кнопкі \"Хатні экран\" і \"Сілкаванне\".</string>
-  <string name="lock_to_app_toast_accessible">Каб адмацаваць экран, націсніце і ўтрымлівайце адначасова кнопкі \"Хатні экран\" і \"Сілкаванне\".</string>
+  <string name="lock_to_app_toast">Каб адмацаваць акно, націсніце і ўтрымлівайце адначасова кнопкі \"Хатні экран\" і \"Сілкаванне\".</string>
+  <string name="lock_to_app_toast_accessible">Каб адмацаваць акно, націсніце і ўтрымлівайце адначасова кнопкі \"Хатні экран\" і \"Сілкаванне\".</string>
   <string name="lock_to_app_unlock_password">Запытваць пароль перад адмацаваннем</string>
   <string name="lock_to_app_unlock_pattern">Запытваць графічны ключ перад адмацаваннем</string>
   <string name="lock_to_app_unlock_pin">Запытваць PIN-код перад адмацаваннем</string>
@@ -912,11 +912,11 @@
   <string name="lockscreen_carrier_default">Не абслугоўваецца</string>
   <string name="lockscreen_emergency_call">Экстранны выклік</string>
   <string name="lockscreen_failed_attempts_almost_at_wipe">Вы няправільна спрабавалі разблакаваць тэлефон %1$d разы(оў). Пасля яшчэ %2$d спробаў ён будзе скінуты да завадскіх налад i карыстальнiцкiя даныя страцяцца.</string>
-  <string name="lockscreen_failed_attempts_almost_glogin">"Вы няправільна нарысавалі графічны ключ %1$d разы(оў). Пасля яшчэ %2$d няўдалых спробаў вам будзе прапанавана разблакаваць тэлефон увайшоўшы ў Google.
+  <string name="lockscreen_failed_attempts_almost_glogin">"Вы няправільна намалявалі графічны ключ %1$d разы(оў). Пасля яшчэ %2$d няўдалых спробаў вам будзе прапанавана разблакаваць тэлефон увайшоўшы ў Google.
 
  Паўтарыце спробу праз %3$d сек."</string>
   <string name="lockscreen_failed_attempts_now_wiping">Вы няправільна спрабавалі разблакаваць тэлефон %d разы(оў). Цяпер ён будзе скінуты да завадскіх налад.</string>
-  <string name="lockscreen_forgot_pattern_button_text">Забыліся на ўзор?</string>
+  <string name="lockscreen_forgot_pattern_button_text">Забыліся на графічны ключ?</string>
   <string name="lockscreen_glogin_account_recovery_hint">\"Забыліся на імя карыстальніка або пароль?
 Наведайце \"&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;.</string>
   <string name="lockscreen_glogin_checking_password">Праверка…</string>
@@ -925,7 +925,7 @@
   <string name="lockscreen_glogin_invalid_input">Хібнае імя карыстальніка ці пароль.</string>
   <string name="lockscreen_glogin_password_hint">Пароль</string>
   <string name="lockscreen_glogin_submit_button">Увайсці</string>
-  <string name="lockscreen_glogin_too_many_attempts">Занадта шмат спробаў нарысаваць графічны ключ</string>
+  <string name="lockscreen_glogin_too_many_attempts">Занадта шмат спробаў намаляваць графічны ключ</string>
   <string name="lockscreen_glogin_username_hint">Імя карыстальніка (электронная пошта)</string>
   <string name="lockscreen_instructions_when_pattern_disabled">Націсніце \"Меню\", каб разблакаваць.</string>
   <string name="lockscreen_instructions_when_pattern_enabled">Націсніце \"Меню\", каб разблакаваць, або зрабіце экстранны выклік.</string>
@@ -936,9 +936,9 @@
   <string name="lockscreen_network_locked_message">Сетка заблакаваная</string>
   <string name="lockscreen_password_wrong">Паўтарыце спробу</string>
   <string name="lockscreen_pattern_correct">Правільна!</string>
-  <string name="lockscreen_pattern_instructions">Нарысуйце ўзор, каб разблакаваць</string>
+  <string name="lockscreen_pattern_instructions">Намалюйце графічны ключ, каб разблакаваць</string>
   <string name="lockscreen_pattern_wrong">Паспрабуйце яшчэ раз</string>
-  <string name="lockscreen_permanent_disabled_sim_instructions">"Ваша SIM-картка назаўсёды адключана.
+  <string name="lockscreen_permanent_disabled_sim_instructions">"Ваша SIM-картка назаўсёды адключаная.
 Звярніцеся да аператара сувязі, каб атрымаць новую SIM-картку."</string>
   <string name="lockscreen_permanent_disabled_sim_message_short">SIM-картка непрыдатная.</string>
   <string name="lockscreen_return_to_call">Вярнуцца да выкліку</string>
@@ -951,7 +951,7 @@
   <string name="lockscreen_sound_on_label">Гук уключаны</string>
   <string name="lockscreen_storage_locked">Разблакаваць для ўсіх функцый і даных</string>
   <string name="lockscreen_too_many_failed_attempts_countdown">Паўтарыце спробу праз %d секунд.</string>
-  <string name="lockscreen_too_many_failed_attempts_dialog_message">"Вы няправільна нарысавалі графічны ключ %1$d разы(оў). 
+  <string name="lockscreen_too_many_failed_attempts_dialog_message">"Вы няправільна намалявалі графічны ключ %1$d разы(оў). 
 
 Паўтарыце спробу праз %2$d сек."</string>
   <string name="lockscreen_too_many_failed_password_attempts_dialog_message">"Вы няправільна ўвялі пароль %1$d разы(оў). 
@@ -961,10 +961,10 @@
 
 Паўтарыце спробу праз %2$d сек."</string>
   <string name="lockscreen_transport_ffw_description">Перамотка ўперад</string>
-  <string name="lockscreen_transport_next_description">Наступны шлях</string>
+  <string name="lockscreen_transport_next_description">Наступная кампазіцыя</string>
   <string name="lockscreen_transport_pause_description">Прыпыніць</string>
   <string name="lockscreen_transport_play_description">Прайграць</string>
-  <string name="lockscreen_transport_prev_description">Папярэдні шлях</string>
+  <string name="lockscreen_transport_prev_description">Папярэдняя кампазіцыя</string>
   <string name="lockscreen_transport_rew_description">Перамотка назад</string>
   <string name="lockscreen_transport_stop_description">Спыніць</string>
   <string name="lockscreen_unlock_label">Разблакаваць</string>
@@ -1134,8 +1134,8 @@
   <string name="network_available_sign_in_detailed">%1$s</string>
   <string name="network_logging_notification_text">Ваша арганізацыя кіруе гэтай прыладай і можа сачыць за сеткавым трафікам. Націсніце, каб праглядзець падрабязнасці.</string>
   <string name="network_logging_notification_title">Прылада знаходзіцца пад кіраваннем</string>
-  <string name="network_partial_connectivity">%1$s мае абмежаваную магчымасць падключэння</string>
-  <string name="network_partial_connectivity_detailed">Націсніце, каб падключыцца</string>
+  <string name="network_partial_connectivity">%1$s мае абмежаванне падлучэння</string>
+  <string name="network_partial_connectivity_detailed">Націсніце, каб падлучыцца</string>
   <string name="network_switch_metered">Выкананы пераход да %1$s</string>
   <string name="network_switch_metered_detail">Прылада выкарыстоўвае сетку %1$s, калі ў сетцы %2$s няма доступу да інтэрнэту. Можа спаганяцца плата.</string>
   <string name="network_switch_metered_toast">Выкананы пераход з %1$s да %2$s</string>
@@ -1228,21 +1228,21 @@
   <string name="perm_costs_money">за гэта можа спаганяцца плата</string>
   <string name="permdesc_acceptHandovers">Дазваляе праграме працягваць выклік, які пачаўся ў іншай праграме.</string>
   <string name="permdesc_accessBackgroundLocation">Акрамя доступу да прыкладнага ці дакладнага месцазнаходжання праграма можа мець доступ да вызначэння геалакацыі ў фонавым рэжыме працы. На гэта патрабуецца дазвол.</string>
-  <string name="permdesc_accessCoarseLocation">Гэта праграма можа атрымліваць звесткі пра ваша месцазнаходжанне толькі ў актыўным рэжыме на падставе даных сеткавых крыніц, такіх як вышкі сотавай сувязі і сеткі Wi-Fi. Каб праграма магла карыстацца гэтымі службамі геалакацыі, неабходна ўключыць і зрабіць іх даступнымі на тэлефоне.</string>
+  <string name="permdesc_accessCoarseLocation">Гэтая праграма можа атрымліваць звесткі пра ваша месцазнаходжанне толькі ў актыўным рэжыме на падставе даных сеткавых крыніц, такіх як вышкі сотавай сувязі і сеткі Wi-Fi. Каб праграма магла карыстацца гэтымі службамі геалакацыі, неабходна ўключыць і зрабіць іх даступнымі на тэлефоне.</string>
   <string name="permdesc_accessDrmCertificates">Дазваляе праграме пастаўляць і выкарыстоўваць сертыфікаты DRM. Ніколі не павінна патрабавацца для Не патрабуецца звычайным праграмам.</string>
-  <string name="permdesc_accessFineLocation">Гэта праграма можа атрымліваць звесткі пра ваша дакладнае месцазнаходжанне толькі ў асноўным рэжыме. Службы геалакацыі павінны быць уключаны і даступныя на вашым тэлефоне, каб праграма магла імі карыстацца. Гэта можа павялічыць спажыванне зараду акумулятара.</string>
+  <string name="permdesc_accessFineLocation">Гэтая праграма можа атрымліваць звесткі пра ваша дакладнае месцазнаходжанне толькі ў актыўным рэжыме. Службы геалакацыі павінны быць уключаныя і даступныя на вашым тэлефоне, каб праграма магла імі карыстацца. Гэта можа павялічыць спажыванне зараду батарэі.</string>
   <string name="permdesc_accessImsCallService">Дазваляе праграме выкарыстоўваць службу IMS, каб здзяйсняць выклікі без вашага ўмяшання.</string>
   <string name="permdesc_accessLocationExtraCommands">Дазваляе праграме атрымліваць доступ да дадатковых загадаў службаў вызначэння месцазнаходжання. Гэта можа дазволіць праграме ўмешвацца ў дзейнасць GPS або іншых крыніц даных пра месцазнаходжанне.</string>
   <string name="permdesc_accessNetworkConditions">Дазваляе праграме праслухоўваць даныя назіранняў за станам сеткі. Не патрабуецца звычайным праграмам.</string>
   <string name="permdesc_accessNetworkState">Дазваляе праграме праглядаць звесткi пра сеткавыя злучэнні(якія сеткі існуюць, з якімі наладжана злучэнне).</string>
   <string name="permdesc_accessNotifications">Дазваляе праграме атрымлiваць, правяраць i выдаляць апавяшчэннi, у тым лiку апублiкаваныя iншымi праграмамі.</string>
   <string name="permdesc_accessWifiState">Дазваляе праграме праглядаць звесткi пра Wi-Fi-злучэнні(ці ўключаны Wi-Fi, якія прылады Wi-Fi падлучаныя).</string>
-  <string name="permdesc_accessWimaxState">Дазваляе праграма вызначаць, ці ўключаны WiMAX, і атрымліваць звесткі пра сеткі WiMAX, з якімі наладжана злучэнне.</string>
+  <string name="permdesc_accessWimaxState">Дазваляе праграме вызначаць, ці ўключаны WiMAX, і атрымліваць звесткі пра сеткі WiMAX, з якімі наладжана злучэнне.</string>
   <string name="permdesc_access_notification_policy">Дазваляе праграме чытаць і запісваць канфігурацыю рэжыму «Не турбаваць».</string>
-  <string name="permdesc_activityRecognition">Гэта праграма можа распазнаваць фізічную актыўнасць.</string>
+  <string name="permdesc_activityRecognition">Гэтая праграма можа распазнаваць фізічную актыўнасць.</string>
   <string name="permdesc_addVoicemail">Дазваляе праграме дадаваць паведамленні ў скрыню галасавой пошты.</string>
   <string name="permdesc_answerPhoneCalls">Дазваляе праграме адказваць на ўваходны тэлефонны выклік.</string>
-  <string name="permdesc_audioWrite">Праграма зможа змяняць музычную калекцыю.</string>
+  <string name="permdesc_audioWrite">Праграма можа змяняць музычную калекцыю.</string>
   <string name="permdesc_bindCarrierMessagingService">Дазваляе выконваць прывязку да інтэрфейсу верхняга ўзроўню службы паведамленняў аператара. Не патрабуецца звычайным праграмам.</string>
   <string name="permdesc_bindCarrierServices">Дазваляе ажыццяўляць прывязку да службаў аператара. Не патрабуецца звычайным праграмам.</string>
   <string name="permdesc_bindConditionProviderService">Дазваляе выконваць прывязку да інтэрфейсу верхняга ўзроўню пастаўшчыка ўмоў. Не патрабуецца звычайным праграмам.</string>
@@ -1254,7 +1254,7 @@
   <string name="permdesc_bluetoothAdmin">Дазваляе праграме наладжваць Bluetooth, а таксама знаходзіць адлучаныя прылады i падлучацца да ix.</string>
   <string name="permdesc_bodySensors">Дазваляе праграме атрымліваць доступ да даных з датчыкаў, якія назіраюць за вашым фізічным станам, напрыклад.</string>
   <string name="permdesc_broadcastSticky">Дазваляе праграме адпраўляць далейшыя звязаныя перадачы, якія застаюцца пасля заканчэння асноўнай перадачы. Пры злоўжыванні праца тэлефона можа быць павольнай або няўстойлівай, бо будзе выкарыстоўвацца занадта шмат памяці.</string>
-  <string name="permdesc_callCompanionApp">Дазваляе праграме праглядаць на прыладзе ўваходныя выклікі і кіраваць імі. Гэта інфармацыя ўключае нумары выклікаў і звесткі пра іх краіну.</string>
+  <string name="permdesc_callCompanionApp">Праграма можа праглядаць на прыладзе ўваходныя выклікі і кіраваць імі. Гэтая інфармацыя ўключае нумары выклікаў і звесткі пра іх краіну.</string>
   <string name="permdesc_callPhone">"Дазваляе праграме тэлефанаваць без вашага ўмяшання. Гэта можа прывесці да нечаканага спагнання сродкаў або непатрэбных выклікаў. Звярніце ўвагу, што праграма не можа рабiць экстранныя выклікi. Шкоднасныя праграмы могуць здзяйсняць выклікі, за якія з вас будуць спаганяцца сродкi."</string>
   <string name="permdesc_camera">Гэтая праграма можа рабіць фота і запісваць відэа пры дапамозе камеры ў любы час.</string>
   <string name="permdesc_changeNetworkState">Дазваляе праграме змяняць стан сеткавага злучэння.</string>
@@ -1273,20 +1273,20 @@
   <string name="permdesc_getPackageSize">Дазваляе праграме атрымліваць свой код, даныя і памер кэшу</string>
   <string name="permdesc_getTasks">Дазваляе праграме атрымлiваць звесткi пра пра дзейныя і нядаўнія задачы. Праграма можа знайсцi iнфармацыю пра тое, якiя праграмы выкарыстоўваюцца.</string>
   <string name="permdesc_handoverStatus">Дазваляе праграме атрымліваць інфармацыю пра бягучыя перадачы Android Beam</string>
-  <string name="permdesc_imagesWrite">Праграма зможа змяняць фотакалекцыю.</string>
+  <string name="permdesc_imagesWrite">Праграма можа змяняць фотакалекцыю.</string>
   <string name="permdesc_install_shortcut">Дазваляе праграме дадаваць цэтлікі на хатні экран без умяшання карыстальніка.</string>
   <string name="permdesc_invokeCarrierSetup">Дазваляе выклікаць праграму аператарскай канфігурацыі. Не патрабуецца звычайным праграмам.</string>
   <string name="permdesc_killBackgroundProcesses">Дазваляе праграме завяршаць фонавыя працэсы іншых праграм.</string>
-  <string name="permdesc_manageFace">Праграма зможа дадаваць і выдаляць шаблоны твару.</string>
+  <string name="permdesc_manageFace">Дазваляе праграме дадаваць і выдаляць шаблоны твараў.</string>
   <string name="permdesc_manageFingerprint">Дазваляе праграме выкарыстоўваць спосабы дадання і выдалення шаблонаў адбіткаў пальцаў для выкарыстання.</string>
   <string name="permdesc_manageNetworkPolicy">Дазваляе праграме кіраваць сеткавай палітыкай і вызначаць правілы для пэўных праграм.</string>
   <string name="permdesc_manageOwnCalls">Дазваляе праграме перанакіроўваць выклікі праз сістэму ў мэтах паляпшэння выклікаў.</string>
   <string name="permdesc_manageProfileAndDeviceOwners">Дазваляе праграмам вызначаць уладальнікаў профіляў і ўладальніка прылады.</string>
-  <string name="permdesc_mediaLocation">Праграма зможа паказваць месцазнаходжанне ў калекцыі мультымедыя.</string>
+  <string name="permdesc_mediaLocation">Дазваляе праграме атрымліваць доступ да месцазнаходжання ў калекцыі мультымедыя.</string>
   <string name="permdesc_modifyAudioSettings">Дазваляе праграме змяняць глабальныя налады гуку.</string>
   <string name="permdesc_modifyNetworkAccounting">Дазваляе праграме змяняць метад уліку выкарыстання сеткі праграмамі. Не патрабуецца звычайным праграмам.</string>
   <string name="permdesc_nfc">Дазваляе праграме ўзаемадзейнічаць з пазнакамі, карткамі і чытальнымі прыладамі Near Field Communication (NFC).</string>
-  <string name="permdesc_persistentActivity">Дазваляе праграме захоўваць некаторыя пастаянныя часткi ў памяцi. Гэта можа абмежаваць аб\'ём памяці, даступнай для іншых праграм, i запаволiць працу тэлефона.</string>
+  <string name="permdesc_persistentActivity">Дазваляе праграме захоўваць некаторыя сталыя часткi ў памяцi. Гэта можа абмежаваць аб\'ём памяці, даступнай для іншых праграм, i запаволiць працу тэлефона.</string>
   <string name="permdesc_processOutgoingCalls">Дазваляе праграме бачыць набраны нумар падчас выходнага выкліку з магчымасцю перанакіравання выкліку на іншы нумар або спынення выкліку.</string>
   <string name="permdesc_readCalendar">Гэтая праграма можа чытаць усе падзеі календара, захаваныя на вашым тэлефоне, і захоўваць даныя календара ці дзяліцца імі.</string>
   <string name="permdesc_readCallLog">Гэтая праграма можа чытаць ваш журнал выклікаў.</string>
@@ -1312,10 +1312,10 @@
   <string name="permdesc_requestDeletePackages">Дазваляе праграме запытваць выдаленне пакункаў.</string>
   <string name="permdesc_requestIgnoreBatteryOptimizations">Дазваляе праграме запытваць дазвол на ігнараванне аптымізацыі батарэі для гэтай праграмы.</string>
   <string name="permdesc_requestInstallPackages">Дазваляе праграме запытваць усталёўку пакункаў.</string>
-  <string name="permdesc_requestPasswordComplexity">Дазваляе праграме вызначаць узровень складанасці блакіроўкі экрана (высокі, сярэдні, нізкі ці нулявы), які залежыць ад даўжыні пароля і ад тыпу блакіроўкі экрана. Праграма можа прапанаваць карыстальнікам ускладніць блакіроўку экрана, аднак гэту прапанову можна ігнараваць. Заўважце, што праграма не можа ведаць тып і пароль блакіроўкі экрана, таму што яны захоўваюцца ў зашыфраваным выглядзе.</string>
+  <string name="permdesc_requestPasswordComplexity">Дазваляе праграме вызначаць узровень складанасці блакавання экрана (высокі, сярэдні, нізкі ці нулявы), які залежыць ад даўжыні пароля і ад тыпу блакавання экрана. Праграма можа прапанаваць карыстальнікам ускладніць блакаванне экрана, аднак гэтую прапанову можна ігнараваць. Майце на ўвазе, што праграма не можа ведаць тып і пароль блакавання экрана, бо яны захоўваюцца ў зашыфраваным выглядзе.</string>
   <string name="permdesc_route_media_output">Дазваляе праграме перанакіроўваць мультымедыя на iншыя вонкавыя прылады.</string>
   <string name="permdesc_runInBackground">Гэтая праграма можа працаваць у фоне. Гэта можа прывесці да павышанага спажывання зараду батарэі.</string>
-  <string name="permdesc_sdcardRead">Дазваляе праграме счытваць змесціва абагуленага сховішча.</string>
+  <string name="permdesc_sdcardRead">Дазваляе праграме чытаць змесціва абагуленага сховішча.</string>
   <string name="permdesc_sdcardWrite">Дазваляе праграме запісваць змесціва абагуленага сховішча.</string>
   <string name="permdesc_sendSms">Дазваляе праграме адпраўляць SMS-паведамленні. Гэта можа прывесці да нечаканых выдаткаў. Шкоднасныя праграмы могуць адпраўляць SMS-паведамленні без вашага пацвярджэння.</string>
   <string name="permdesc_setAlarm">Дазваляе праграме дадаваць сігнал ва ўсталяванай праграме будзільніка. Некаторыя будзільнікі не падтрымліваюць такую магчымасць.</string>
@@ -1324,7 +1324,7 @@
   <string name="permdesc_setWallpaper">Дазваляе праграме змяняць шпалеры.</string>
   <string name="permdesc_setWallpaperHints">Дазваляе праграме ствараць падказкі па памерах шпалер.</string>
   <string name="permdesc_sim_communication">Дазваляе праграме адпраўляць загады SIM-картцы. Гэта вельмі небяспечна.</string>
-  <string name="permdesc_startViewPermissionUsage">Дазваляе трымальніку запусціць выкарыстанне дазволаў праграмай. Не патрэбна для звычайных праграм.</string>
+  <string name="permdesc_startViewPermissionUsage">Дазваляе праграме атрымліваць доступ да даных пра выкарыстоўваемыя дазволы. Ніколі не патрабуецца звычайным праграмам.</string>
   <string name="permdesc_statusBar">Дазваляе праграме адключаць радок статусу або дадаваць і выдаляць сістэмныя значкі.</string>
   <string name="permdesc_statusBarService">Дазваляе праграме быць радком статусу.</string>
   <string name="permdesc_subscribedFeedsRead">Дазваляе праграме атрымліваць інфармацыю пра каналы, якія сінхранізуюцца на гэты момант.</string>
@@ -1333,11 +1333,11 @@
   <string name="permdesc_uninstall_shortcut">Дазваляе праграме выдаляць цэтлікі з хатняга экрана без умяшання карыстальніка.</string>
   <string name="permdesc_useBiometric">Дазваляе праграме выкарыстоўваць для аўтэнтыфікацыі біяметрычнае абсталяванне</string>
   <string name="permdesc_useDataInBackground">Гэтая праграма можа спажываць даныя ў фоне. Гэта можа прывесці да павелічэння аб\'ёму трафіка.</string>
-  <string name="permdesc_useFaceAuthentication">Праграма зможа выкарыстоўваць абсталяванне распазнавання твару для аўтэнтыфікацыі</string>
+  <string name="permdesc_useFaceAuthentication">Дазваляе праграме выкарыстоўваць для аўтэнтыфікацыі абсталяванне для распазнавання твару</string>
   <string name="permdesc_useFingerprint">Дазваляе праграме выкарыстоўваць апаратныя сродкі распазнавання адбіткаў пальцаў для аўтэнтыфікацыі</string>
   <string name="permdesc_use_sip">Дазваляе праграме здзяйсняць і прымаць выклікі SIP.</string>
   <string name="permdesc_vibrate">Дазваляе праграме кіраваць вібрацыяй.</string>
-  <string name="permdesc_videoWrite">Праграма зможа змяняць відэакалекцыю.</string>
+  <string name="permdesc_videoWrite">Дазваляе праграме змяняць відэакалекцыю.</string>
   <string name="permdesc_wakeLock">Дазваляе праграме прадухіляць пераход у рэжым сну.</string>
   <string name="permdesc_writeCalendar">Гэтая праграма можа дадаваць, выдаляць або змяняць падзеі календара на вашым тэлефоне. Гэтая праграма можа адпраўляць паведамленні ад імя ўладальніка календара або змяняць падзеі без апавяшчэння іх уладальнікаў.</string>
   <string name="permdesc_writeCallLog">"Дазваляе праграме змяняць журнал выклiкаў, у тым лiку даныя пра ўваходныя і выходныя выклiкi. Шкоднасныя праграмы могуць выкарыстоўваць гэта, каб сціраць або змяняць журнал выклікаў."</string>
@@ -1346,17 +1346,17 @@
   <string name="permdesc_writeHistoryBookmarks">"Дазваляе праграме змяняць гісторыю браўзера і яго закладкі. Гэта дазволіць праграме выдаляць або змяняць даныя браўзера. Увага: гэты дазвол можа не дзейнiчаць для пабочных браўзераў і іншых праграм з функцыямі вэб-браўзера."</string>
   <string name="permdesc_writeSettings">"Дазваляе праграме змяняць даныя налад сістэмы. Шкоднасныя праграмы могуць пашкодзіць канфігурацыю вашай сістэмы."</string>
   <string name="permdesc_writeSyncSettings">Дазваляе праграме змяняць налады сінхранізацыі акаўнта. Напрыклад, гэта можа выкарыстоўвацца для ўключэння сінхранізацыі кантактаў з акаўнтам.</string>
-  <string name="permgroupbackgroundrequest_location">Дазволіць праграме &lt;b&gt;%1$s&lt;/b&gt; доступ да даных пра месцазнаходжанне гэтай прылады &lt;b&gt;ўвесь час&lt;/b&gt;?</string>
+  <string name="permgroupbackgroundrequest_location">Даць праграме &lt;b&gt;%1$s&lt;/b&gt; доступ да даных пра месцазнаходжанне гэтай прылады &lt;b&gt;ў любы час&lt;/b&gt;?</string>
   <string name="permgroupbackgroundrequestdetail_location">Цяпер праграма можа мець доступ да звестак пра месцазнаходжанне, толькі калі яна выкарыстоўваецца</string>
   <string name="permgroupdesc_activityRecognition">доступ да даных фізічнай актыўнасці</string>
   <string name="permgroupdesc_calendar">доступ да вашага календара</string>
   <string name="permgroupdesc_calllog">чытанне і запіс журнала тэлефонных выклікаў</string>
   <string name="permgroupdesc_camera">стварэнне фотаздымкаў і запіс відэа</string>
   <string name="permgroupdesc_contacts">доступ да вашых кантактаў</string>
-  <string name="permgroupdesc_location">"атрыманне доступу да месцазнаходжання гэтай прылады"</string>
+  <string name="permgroupdesc_location">"доступ да месцазнаходжання гэтай прылады"</string>
   <string name="permgroupdesc_microphone">запісваць аўдыё</string>
   <string name="permgroupdesc_phone">здзяйсненне тэлефонных выклікаў і кіраванне імі</string>
-  <string name="permgroupdesc_sensors">атрыманне з датчыка даныя асноўных фізіялагічных паказчыкаў</string>
+  <string name="permgroupdesc_sensors">атрыманне з датчыка даных асноўных фізіялагічных паказчыкаў</string>
   <string name="permgroupdesc_sms">адпраўленне і прагляд SMS-паведамленняў</string>
   <string name="permgroupdesc_storage">доступ да фатаграфій, медыяфайлаў і файлаў на вашай прыладзе</string>
   <string name="permgrouplab_activityRecognition">Фізічная актыўнасць</string>
@@ -1370,7 +1370,7 @@
   <string name="permgrouplab_sensors">Датчыкі цела</string>
   <string name="permgrouplab_sms">SMS</string>
   <string name="permgrouplab_storage">Сховішча</string>
-  <string name="permgrouprequest_activityRecognition">Дазволіць праграме &lt;b&gt;%1$s&lt;/b&gt; доступ да даных фізічнай актыўнасці?</string>
+  <string name="permgrouprequest_activityRecognition">Даць праграме &lt;b&gt;%1$s&lt;/b&gt; доступ да даных фізічнай актыўнасці?</string>
   <string name="permgrouprequest_calendar">Дазволіць праграме &lt;b&gt;%1$s&lt;/b&gt; доступ да вашага календара?</string>
   <string name="permgrouprequest_calllog">Даць праграме &lt;b&gt;%1$s&lt;/b&gt; доступ да журналаў выклікаў вашага тэлефона?</string>
   <string name="permgrouprequest_camera">Дазволіць праграме &lt;b&gt;%1$s&lt;/b&gt; рабіць фота і запісваць відэа?</string>
@@ -1392,18 +1392,18 @@
   <string name="permlab_accessCoarseLocation">доступ да прыблізнага месцазнаходжання (на падставе сеткі) толькі ў актыўным рэжыме</string>
   <string name="permlab_accessDrmCertificates">доступ да сертыфікатаў DRM</string>
   <string name="permlab_accessFineLocation">доступ да дакладнага месцазнаходжання толькі ў асноўным рэжыме</string>
-  <string name="permlab_accessImsCallService">атрымліваць доступ да службы выклікаў IMS</string>
+  <string name="permlab_accessImsCallService">доступ да службы выклікаў IMS</string>
   <string name="permlab_accessLocationExtraCommands">доступ да дадатковых загадаў пастаўшчыка месцазнаходжання</string>
   <string name="permlab_accessNetworkConditions">адсочванне даных назіранняў за станам сеткі</string>
   <string name="permlab_accessNetworkState">прагляд сеткавых злучэнняў</string>
   <string name="permlab_accessNotifications">доступ да паведамленняў</string>
   <string name="permlab_accessWifiState">прагляд злучэнняў Wi-Fi</string>
   <string name="permlab_accessWimaxState">падлучэнне і адлучэнне ад WiMAX</string>
-  <string name="permlab_access_notification_policy">атрымліваць доступ да рэжыму «Не турбаваць»</string>
-  <string name="permlab_activityRecognition">распазнаваць фізічную актыўнасць</string>
+  <string name="permlab_access_notification_policy">доступ да рэжыму «Не турбаваць»</string>
+  <string name="permlab_activityRecognition">распазнаванне фізічнай актыўнасці</string>
   <string name="permlab_addVoicemail">дадаць галасавое паведамленне</string>
   <string name="permlab_answerPhoneCalls">адказваць на тэлефонныя выклікі</string>
-  <string name="permlab_audioWrite">змяняць музычную калекцыю</string>
+  <string name="permlab_audioWrite">змена музычнай калекцыі</string>
   <string name="permlab_bindCarrierMessagingService">прывязка да службы паведамленняў аператара</string>
   <string name="permlab_bindCarrierServices">прывязвацца да службаў аператара</string>
   <string name="permlab_bindConditionProviderService">прывязка да службы пастаўшчыка ўмоў</string>
@@ -1415,7 +1415,7 @@
   <string name="permlab_bluetoothAdmin">атрыманне доступу да налад прылады Bluetooth</string>
   <string name="permlab_bodySensors">доступ да датчыкаў цела (напрыклад, пульсометраў)</string>
   <string name="permlab_broadcastSticky">адпраўляць нетэрмiновую рассылку</string>
-  <string name="permlab_callCompanionApp">праглядаць выклікі і кіраваць імі праз сістэму.</string>
+  <string name="permlab_callCompanionApp">прагляд выклікаў і кіраванне імі праз сістэму.</string>
   <string name="permlab_callPhone">непасрэдны набор тэлефонных нумароў</string>
   <string name="permlab_camera">стварэнне фотаздымкаў і відэа</string>
   <string name="permlab_changeNetworkState">змена падлучэння да сеткі</string>
@@ -1434,16 +1434,16 @@
   <string name="permlab_getPackageSize">вымярэнне месца для захоўвання праграм</string>
   <string name="permlab_getTasks">атрымаць запушчаныя праграмы</string>
   <string name="permlab_handoverStatus">атрыманне статусу перадачы Android Beam</string>
-  <string name="permlab_imagesWrite">змяняць фотакалекцыю</string>
+  <string name="permlab_imagesWrite">змена фотакалекцыі</string>
   <string name="permlab_install_shortcut">усталяваць цэтлікі</string>
   <string name="permlab_invokeCarrierSetup">выклік праграмы аператарскай канфігурацыі</string>
   <string name="permlab_killBackgroundProcesses">закрыццё іншых праграм</string>
-  <string name="permlab_manageFace">кіраваць абсталяваннем для распазнавання твару</string>
+  <string name="permlab_manageFace">кіраванне абсталяваннем для распазнавання твару</string>
   <string name="permlab_manageFingerprint">кіраванне апаратнымі сродкамі для адбіткаў пальцаў</string>
   <string name="permlab_manageNetworkPolicy">кіраванне палітыкай сеткі</string>
   <string name="permlab_manageOwnCalls">перанакіраванне выклікаў праз сістэму</string>
   <string name="permlab_manageProfileAndDeviceOwners">кіраванне профілем і ўладальнікамі прылады</string>
-  <string name="permlab_mediaLocation">паказваць месцазнаходжанне ў калекцыі мультымедыя</string>
+  <string name="permlab_mediaLocation">доступ да даных месцазнаходжання ў калекцыі мультымедыя</string>
   <string name="permlab_modifyAudioSettings">змена налад аудыё</string>
   <string name="permlab_modifyNetworkAccounting">змена метаду ўліку выкарыстання сеткі</string>
   <string name="permlab_nfc">кантроль Near Field Communication</string>
@@ -1473,11 +1473,11 @@
   <string name="permlab_requestDeletePackages">запытваць выдаленне пакункаў</string>
   <string name="permlab_requestIgnoreBatteryOptimizations">запыт дазволу на ігнараванне аптымізацыі акумулятара</string>
   <string name="permlab_requestInstallPackages">запыт усталёўкі пакункаў</string>
-  <string name="permlab_requestPasswordComplexity">запытваць узровень складанасці блакіроўкі экрана</string>
+  <string name="permlab_requestPasswordComplexity">запыт даных узроўню складанасці блакавання экрана</string>
   <string name="permlab_route_media_output">кіраванне вывадам мультымедыйнага змесціва</string>
   <string name="permlab_runInBackground">працаваць у фоне</string>
   <string name="permlab_sdcardRead">чытанне змесціва абагуленага сховішча</string>
-  <string name="permlab_sdcardWrite">змяненне або выдаленне змесціва абагуленага сховішча</string>
+  <string name="permlab_sdcardWrite">змена або выдаленне змесціва абагуленага сховішча</string>
   <string name="permlab_sendSms">адпраўленне і прагляд SMS-паведамленняў</string>
   <string name="permlab_setAlarm">вызначыць сігнал</string>
   <string name="permlab_setInputCalibration">змена калібравання прылады ўводу</string>
@@ -1485,7 +1485,7 @@
   <string name="permlab_setWallpaper">вызначыць шпалеры</string>
   <string name="permlab_setWallpaperHints">наладка памеру шпалер</string>
   <string name="permlab_sim_communication">адпраўленне загадаў на SIM-картку</string>
-  <string name="permlab_startViewPermissionUsage">запусціць выкарыстанне дазволаў на прагляд</string>
+  <string name="permlab_startViewPermissionUsage">прагляд даных пра выкарыстоўваемыя дазволы</string>
   <string name="permlab_statusBar">адключэнне ці змена радка стану</string>
   <string name="permlab_statusBarService">быць панэллю статусу</string>
   <string name="permlab_subscribedFeedsRead">чытаць падпісаныя стужкі</string>
@@ -1494,11 +1494,11 @@
   <string name="permlab_uninstall_shortcut">выдаліць цэтлікі</string>
   <string name="permlab_useBiometric">выкарыстоўваць біяметрычнае абсталяванне</string>
   <string name="permlab_useDataInBackground">выкарыстанне даных у фоне</string>
-  <string name="permlab_useFaceAuthentication">карыстацца абсталяваннем для распазнавання твару</string>
+  <string name="permlab_useFaceAuthentication">выкарыстанне абсталявання для распазнавання твару</string>
   <string name="permlab_useFingerprint">выкарыстанне апаратных сродкаў для адбіткаў пальцаў</string>
   <string name="permlab_use_sip">ажыццяўленне/прыманне выклікаў SIP</string>
   <string name="permlab_vibrate">кіраванне вібрацыяй</string>
-  <string name="permlab_videoWrite">змяняць відэакалекцыю</string>
+  <string name="permlab_videoWrite">змена відэакалекцыі</string>
   <string name="permlab_wakeLock">забарона пераходу тэлефона ў рэжым сну</string>
   <string name="permlab_writeCalendar">"даданне ці змена падзей календара і адпраўленне лістоў да гасцей без ведама ўладальнікаў"</string>
   <string name="permlab_writeCallLog">запіс журнала выклікаў</string>
@@ -1571,7 +1571,7 @@
   <string name="profile_encrypted_detail">Працоўны профіль заблакаваны</string>
   <string name="profile_encrypted_message">Націсніце, каб разблакаваць працоўны профіль</string>
   <string name="profile_encrypted_title">Функцыі могуць быць абмежаваныя</string>
-  <string name="progress_erasing">Сціраюцца даныя абагуленага сховішча…</string>
+  <string name="progress_erasing">Сціранне даных абагуленага сховішча…</string>
   <string name="prohibit_manual_network_selection_in_gobal_mode">не</string>
   <string name="quick_contacts_not_available">Праграма для прагляду гэтага кантакту адсутнічае.</string>
   <string name="radial_numbers_typeface">sans-serif</string>
@@ -1669,7 +1669,7 @@
   <string name="select_character">Уставіць сімвал</string>
   <string name="select_day">Абярыце месяц і дзень</string>
   <string name="select_hours">Абраць гадзіны</string>
-  <string name="select_input_method">Выберыце метад уводу</string>
+  <string name="select_input_method">Абярыце метад уводу</string>
   <string name="select_keyboard_layout_notification_message">Націсніце, каб абраць мову і раскладку</string>
   <string name="select_keyboard_layout_notification_title">Наладка фізічнай клавіятуры</string>
   <string name="select_minutes">Абраць хвіліны</string>
@@ -1762,7 +1762,7 @@
   <string name="status_bar_data_connection">data_connection</string>
   <string name="status_bar_data_saver">data_saver</string>
   <string name="status_bar_ethernet">ethernet</string>
-  <string name="status_bar_headset">headset</string>
+  <string name="status_bar_headset">навушнікі</string>
   <string name="status_bar_hotspot">пункт доступу</string>
   <string name="status_bar_ime">ime</string>
   <string name="status_bar_location">размяшчэнне</string>
@@ -1920,10 +1920,10 @@
   <string name="volume_ringtone">Гучнасць мелодыі</string>
   <string name="volume_unknown">Гучнасць</string>
   <string name="vpn_lockdown_config">Змяніць налады сеткі ці VPN</string>
-  <string name="vpn_lockdown_connected">Пастаянная сетка VPN падлучаная</string>
-  <string name="vpn_lockdown_connecting">Падлучэнне пастаяннай сеткі VPN…</string>
-  <string name="vpn_lockdown_disconnected">Адлучана ад пастаяннай сеткі VPN</string>
-  <string name="vpn_lockdown_error">"Не атрымалася падлучыцца да пастаяннай сеткі VPN"</string>
+  <string name="vpn_lockdown_connected">Сталы VPN падлучаны</string>
+  <string name="vpn_lockdown_connecting">Падлучэнне сталага VPN…</string>
+  <string name="vpn_lockdown_disconnected">Адлучана ад сталага VPN</string>
+  <string name="vpn_lockdown_error">"Не атрымалася падлучыцца да сталага VPN"</string>
   <string name="vpn_text">Націсніце, каб кіраваць сеткай.</string>
   <string name="vpn_text_long">Падлучана да %s. Націсніце, каб кiраваць сеткай.</string>
   <string name="vpn_title">Сетка VPN актываваная</string>
@@ -1966,10 +1966,10 @@
   <string name="whichImageCaptureApplication">Зрабіць здымак пры дапамозе</string>
   <string name="whichImageCaptureApplicationLabel">Зрабіць здымак</string>
   <string name="whichImageCaptureApplicationNamed">Зрабіць здымак пры дапамозе %1$s</string>
-  <string name="whichOpenHostLinksWith">Адкрываць спасылкі %1$s з дапамогай</string>
-  <string name="whichOpenHostLinksWithApp">Адкрываць спасылкі %1$sз дапамогай праграмы \"%2$s\"</string>
-  <string name="whichOpenLinksWith">Адкрываць спасылкі з дапамогай</string>
-  <string name="whichOpenLinksWithApp">Адкрываць спасылкі з дапамогай праграмы \"%1$s\"</string>
+  <string name="whichOpenHostLinksWith">Адкрываць спасылкі %1$s пры дапамозе</string>
+  <string name="whichOpenHostLinksWithApp">Адкрываць спасылкі %1$s пры дапамозе праграмы \"%2$s\"</string>
+  <string name="whichOpenLinksWith">Адкрываць спасылкі пры дапамозе</string>
+  <string name="whichOpenLinksWithApp">Адкрываць спасылкі пры дапамозе праграмы \"%1$s\"</string>
   <string name="whichSendApplication">Падзяліцца</string>
   <string name="whichSendApplicationLabel">Падзяліцца</string>
   <string name="whichSendApplicationNamed">Падзяліцца праз %1$s</string>
@@ -2014,8 +2014,8 @@
   <string name="wifi_softap_config_change_summary">Чашчыня пункта доступу змянілася.</string>
   <string name="wifi_suggestion_action_allow_app">Так</string>
   <string name="wifi_suggestion_action_disallow_app">Не</string>
-  <string name="wifi_suggestion_content">Прапанавана ўладальнікам %s</string>
-  <string name="wifi_suggestion_title">Падключыцца да сетак Wi-Fi?</string>
+  <string name="wifi_suggestion_content">Прапанавана %s</string>
+  <string name="wifi_suggestion_title">Падлучыцца да сетак Wi-Fi?</string>
   <string name="wifi_tether_configure_ssid_default">AndroidAP</string>
   <string name="wifi_wakeup_enabled_content">"Вы знаходзіцеся побач з захаванай сеткай: %1$s"</string>
   <string name="wifi_wakeup_enabled_title">Wi‑Fi уключыўся аўтаматычна</string>

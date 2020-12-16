@@ -49,7 +49,7 @@
   <string name="backup_new">Новая:</string>
   <string name="backup_progress">Стварэнне рэзервовай копіі…</string>
   <string name="backup_report">Падрабязнасці</string>
-  <string name="backup_security_tips_message">Некаторыя праграмы немагчыма захавць або аднавіць.</string>
+  <string name="backup_security_tips_message">Некаторыя праграмы немагчыма захаваць або аднавіць.</string>
   <string name="backup_security_tips_title">Рэзервовыя копіі могуць не працаваць</string>
   <string name="backup_update">Абнавіць</string>
   <string name="batch_delete_backup_confirm">Выдаліць абраныя рэзервовыя копіі?</string>
@@ -74,7 +74,7 @@
   <string name="cancel_moving_dialog_message">Спыніць імпарт?</string>
   <string name="cancel_moving_dialog_title">Спыніць імпарт</string>
   <string name="cancel_restore">Спыніць</string>
-  <string name="click_soft_ap_to_link">Абраць мабільных пункт перадачы для падлучэння</string>
+  <string name="click_soft_ap_to_link">Абраць мабільны пункт перадачы для падлучэння</string>
   <string name="click_to_view">Націсніце для прагляду</string>
   <string name="close_twice_auth_btn">Адключыць двухфактарную аўтэнтыфікацыю</string>
   <string name="close_twice_auth_note">"Звярніце ўвагу:
@@ -224,7 +224,7 @@ https://appleid.apple.com/#!&amp;page=signin"</string>
 \u0009http://www.miliao.com
 
 2.\u0009Зайдзіце ў налады Mi Talk і стварыце рэзервовую копію кантактаў у акаўнце Mi"</string>
-  <string name="import_from_xiaomi_account_hint2">Перайдзіце да наступнага крока, калі рэзервовая копія ўжо існуе.</string>
+  <string name="import_from_xiaomi_account_hint2">Перайдзіце да наступнага кроку, калі рэзервовая копія ўжо існуе.</string>
   <string name="import_from_xiaomi_account_hint_title">Карыстайцеся Mi Talk для капіявання кантактаў паміж прыладамі.</string>
   <string name="import_tip_message">@string/icloud_how_to_backup_tip_steps</string>
   <string name="import_tip_summary">Праз праблемы з сумяшчальнасцю вы можаце перадаваць даныя з прылад з iOS  толькі часткова. Праверце перад пачаткам перадачы наяўнасць створанай рэзервовай копіі.</string>
@@ -394,7 +394,7 @@ https://appleid.apple.com/#!&amp;page=signin"</string>
   <string name="summary_err_restore_encrypting">"Не атрымалася аднавіць. Пераканайцеся, што рэзервовая копія была створаная з вашага акаўнта Mi."</string>
   <string name="summary_err_restore_no_network">"Не атрымалася злучыцца з сеткай"</string>
   <string name="system_backup">Рэзервовая копія</string>
-  <string name="system_backup_info">Налады сістэмы і галоўнага экрана</string>
+  <string name="system_backup_info">Налады сістэмы і хатняга экрана</string>
   <string name="task_backup_cancel_progress">Спыненне…</string>
   <string name="task_backup_finished_local">"Рэзервовая копія створаная "</string>
   <string name="task_canceled">Рэзервовае капіяванне скасавана</string>
@@ -456,7 +456,7 @@ https://appleid.apple.com/#!&amp;page=signin"</string>
   <string name="trans_detail_category_sysdata">Сістэмныя даныя (уключаючы паведамленні, кантакты і журналы выклікаў)</string>
   <string name="trans_detail_category_user_app_data">Даныя праграм</string>
   <string name="trans_detail_category_userdata">Праграмы</string>
-  <string name="trans_detail_category_wechat_qq">Даныя WeChat і QQ (уключаючы гісторыю гутарак)</string>
+  <string name="trans_detail_category_wechat_qq">Даныя WeChat і QQ (уключаючы гісторыю чатаў)</string>
   <string name="trans_detail_item_app_data_selected_tip">Абраныя адпаведныя праграмы.</string>
   <string name="trans_detail_item_app_data_skip_data">"Немагчыма перадаць даныя праграмы"</string>
   <string name="trans_detail_item_app_data_too_large_tip">Аб\'ект занадта вялікі для перадачы.</string>
@@ -464,7 +464,7 @@ https://appleid.apple.com/#!&amp;page=signin"</string>
 2. Калі вы абярэце даныя праграм, таксама абяруцца адпаведныя праграмы.
 3. Даныя праграм WeChat і QQ можа не атрымацца перадаць праз праблемы сумяшчальнасці. Вы можаце паспрабаваць выкарыстаць функцыі перадачы ў праграме."</string>
   <string name="trans_detail_page_tip">Чым больш аб\'ектаў вы абярэце, тым даўжэй будзе адбывацца працэс перадачы.</string>
-  <string name="trans_detail_qq_data">Даныя QQ (уключаючы гісторыя гутарак)</string>
+  <string name="trans_detail_qq_data">Даныя QQ (уключаючы гісторыю чатаў)</string>
   <string name="trans_detail_sys_data_list_title">Сістэмныя праграмы</string>
   <string name="trans_detail_sys_data_page_title">Абярыце сістэмныя праграмы</string>
   <string name="trans_detail_wechat_data">Даныя WeChat (уключаючы гісторыю выклікаў)</string>
@@ -496,7 +496,7 @@ https://appleid.apple.com/#!&amp;page=signin"</string>
   <string name="trans_intro_desc_5">На старых прыладах перад перадачай ствараюцца пакункі з данымі. Таму перад пачаткам перадачы пераканайцеся, што на вашай старой прыладзе ёсць не менш за 500 Мб - 1 Гб вольнай памяці.</string>
   <string name="trans_intro_desc_6">Існуе некалькі прычын: праблемы сумяшчальнасці версій сістэмы і праграм, праблемы з сеткаю, праблемы сумяшчальнасці, спецыфічныя для канкрэтнай прылады і г. д.</string>
   <string name="trans_intro_desc_7">Профілі некаторых праграм (інтэрнэт-банкінг, фінансы і г. д.) прывязаныя да пэўных прылад па прычыне бяспекі. Паспрабуйце ачысціць даныя праграмы або зноў усталюйце праграму на новай прыладзе.</string>
-  <string name="trans_intro_desc_8">"Даныя WeChat і гісторыю гутарак можа не атрымацца перадаць поўнасцю. Перайдзіце да налад WeChat і выйдзіце са свайго акаўнта, каб павысіць шанцы на паспяховую перадачу."</string>
+  <string name="trans_intro_desc_8">"Даныя WeChat і гісторыю чатаў можа не атрымацца перадаць поўнасцю. Перайдзіце да налад WeChat і выйдзіце са свайго акаўнта, каб павысіць шанцы на паспяховую перадачу."</string>
   <string name="trans_intro_desc_9_method_1_dec">Перайдзіце да \"Хатні экран\" &gt; \"Інструменты\" &gt; \"Зваротная сувязь\".</string>
   <string name="trans_intro_desc_9_method_1_title">1. Адпраўце водгук праз праграму \"Зваротная сувязь\".</string>
   <string name="trans_intro_desc_9_method_2_dec">Адпраўце водгук на адрас miui-mover@xiaomi.com.</string>

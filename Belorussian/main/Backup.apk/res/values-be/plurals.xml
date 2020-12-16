@@ -3,7 +3,7 @@
     <plurals name="backup_items_sysdata_tailer">
         <item quantity="other">%d сістэмных файлаў</item>
         <item quantity="one">%d сістэмны файл</item>
-        <item quantity="few">%d сістэмных файла</item>
+        <item quantity="few">%d сістэмныя файлы</item>
         <item quantity="many">%d сістэмных файлаў</item>
     </plurals>
     <plurals name="backup_items_app_tailer">
@@ -19,16 +19,16 @@
         <item quantity="many">%d элементаў</item>
     </plurals>
     <plurals name="total_num">
-        <item quantity="other">%d аб’ектаў,</item>
-        <item quantity="one">%d аб’ект,</item>
-        <item quantity="few">%d аб’екты,</item>
-        <item quantity="many">%d аб’ектаў,</item>
+        <item quantity="other">%d элементаў,</item>
+        <item quantity="one">%d элемент,</item>
+        <item quantity="few">%d элементы,</item>
+        <item quantity="many">%d элементаў,</item>
     </plurals>
     <plurals name="custom_progress">
-        <item quantity="other">%d аб’ектаў</item>
-        <item quantity="one">%d аб’ект</item>
-        <item quantity="few">%d аб’екты</item>
-        <item quantity="many">%d аб’ектаў</item>
+        <item quantity="other">%d элементаў</item>
+        <item quantity="one">%d элемент</item>
+        <item quantity="few">%d элементы</item>
+        <item quantity="many">%d элементаў</item>
     </plurals>
     <plurals name="trans_failed_summary">
         <item quantity="other">"Не атрымалася перадаць %d аб'ектаў. Націсніце для прагляду."</item>

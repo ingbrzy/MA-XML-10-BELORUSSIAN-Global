@@ -17,7 +17,6 @@
   <string name="channel_downloading">Ход спампоўвання</string>
   <string name="channel_update">Даступна новая версія</string>
   <string name="check_new_version">Праверыць на абнаўленні</string>
-  <string name="chengelog">%1$s</string>
   <string name="default_filedownloader_notification_content">Сродак спампоўвання запушчаны.</string>
   <string name="default_filedownloader_notification_title">Сродак спампоўвання</string>
   <string name="dialog_3g_desc">Майце на ўвазе, што пры спампоўванні прашыўкі праз мабільны інтэрнэт можа выдаткавацца вялікая частка трафіка вашага тарыфнага плана.</string>
@@ -39,7 +38,6 @@
   <string name="menu_title_current_version_log">Што новага?</string>
   <string name="menu_title_pick_rom_file">Абраць пакунак абнаўлення</string>
   <string name="menu_title_recovery">Перазапусціць у рэжым аднаўлення (Recovery)</string>
-  <string name="message">%1$s</string>
   <string name="message_checkbox">Не паказваць апавяшчэнні ад каманды Xiaomi.eu</string>
   <string name="message_checkbox_device">Больш не паказваць</string>
   <string name="message_title">УВАГА!</string>
@@ -66,7 +64,6 @@
   <string name="share_desc">Ваша версія MIUI была абноўленая да версіі %1$s, праглядзіце апошні спіс змен на: %2$s</string>
   <string name="share_title">Падзяліцца праз</string>
   <string name="stable">стабільная версія</string>
-  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="version">Зараз усталявана:</string>
   <string name="weekly">штотыднёвая версія</string>
   <string name="wifi_recommended">Немагчыма пачаць спампоўванне праз адсутнасць злучэння з WiFi!</string>

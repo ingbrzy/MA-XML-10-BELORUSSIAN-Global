@@ -13,17 +13,14 @@
   <string name="find_wifi_direct">Пошук прынтараў з Wi-Fi Direct</string>
   <string name="forget">Забыцца</string>
   <string name="hostname_or_ip">Назва хоста або IP-адрас</string>
-  <string name="ip_hint">192.168.0.4</string>
   <string name="media_size_4x6in">4x6 цаляў</string>
   <string name="media_size_54x86mm">54x86 мм</string>
   <string name="media_size_5x7in">5x7 цаляў</string>
   <string name="media_size_89x119mm">89x119 мм</string>
   <string name="media_size_8x10in">8x10 цаляў</string>
-  <string name="media_size_l">Л</string>
   <string name="no_printer_found">Па гэтым адрасе не знойдзена прынтараў</string>
   <string name="printer_busy">Заняты</string>
   <string name="printer_check">Праверце прынтар</string>
-  <string name="printer_description">%1$s – %2$s</string>
   <string name="printer_door_open">Адкрыта вечка</string>
   <string name="printer_jammed">Захрасанне</string>
   <string name="printer_low_on_ink">Мала чарніл</string>
@@ -33,7 +30,6 @@
   <string name="printer_out_of_ink">Скончыліся чарнілы</string>
   <string name="printer_out_of_paper">Скончылася папера</string>
   <string name="printer_out_of_toner">Скончыўся тонер</string>
-  <string name="resolution_300_dpi">300 dpi</string>
   <string name="saved_printers">Захаваныя прынтары</string>
   <string name="searching">Пошук…</string>
   <string name="title_activity_add_printer">Дадаць прынтар</string>

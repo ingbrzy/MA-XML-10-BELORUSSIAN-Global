@@ -1,11 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="trans_cancel_survey_title">
-        <item>Агульнае ўражанне</item>
+    <string-array name="font_size_scale">
+        <item>0.86</item>
+        <item>1.0</item>
+        <item>1.2</item>
+        <item>1.21</item>
+    </string-array>
+    <string-array name="mi_stat_success_survey_key">
+        <item>overall_rating</item>
+        <item>duration_of_transfer</item>
+        <item>simplicity_of_the_process</item>
+        <item>clarity_of_instructions</item>
+    </string-array>
+    <string-array name="trans_succeed_survey_title">
+        <item>Агульны рэйтынг</item>
         <item>Працягласць перадачы</item>
         <item>Прастата працэсу</item>
-        <item>Яснасць інструкцый</item>
-        <item>Гэтая функцыя карысная</item>
+        <item>Дакладнасць інструкцый</item>
     </string-array>
     <string-array name="trans_succeed_rating_hint">
         <item>Вельмі незадаволены(-ая)</item>
@@ -14,10 +25,18 @@
         <item>Часткова задаволены(-ая)</item>
         <item>Вельмі задаволены(-ая)</item>
     </string-array>
-    <string-array name="trans_succeed_survey_title">
-        <item>Агульная адзнака</item>
+    <string-array name="trans_cancel_survey_title">
+        <item>Агульнае ўражанне</item>
         <item>Працягласць перадачы</item>
         <item>Прастата працэсу</item>
-        <item>Дакладнасць інструкцый</item>
+        <item>Выразнасць інструкцый</item>
+        <item>Гэтая функцыя карысная</item>
+    </string-array>
+    <string-array name="mi_stat_cancel_survey_key">
+        <item>overall_experience_cancel</item>
+        <item>transfer_duration_cancel</item>
+        <item>simplicity_of_the_process_cancel</item>
+        <item>clarity_of_instructions_cancel</item>
+        <item>this_feature_is_useful_cancel</item>
     </string-array>
 </resources>

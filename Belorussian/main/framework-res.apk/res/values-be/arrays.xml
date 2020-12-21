@@ -4,7 +4,7 @@
         <item>Хатні</item>
         <item>Працоўны</item>
         <item>Іншы</item>
-        <item>Карыстальніцкі</item>
+        <item>Адвольны</item>
     </string-array>
     <string-array name="imProtocols">
         <item>AIM</item>
@@ -18,8 +18,8 @@
     </string-array>
     <string-array name="organizationTypes">
         <item>Працоўны</item>
-        <item>Іншае</item>
-        <item>Карыстальніцкі</item>
+        <item>Іншы</item>
+        <item>Адвольны</item>
     </string-array>
     <string-array name="phoneTypes">
         <item>Хатні</item>
@@ -29,35 +29,139 @@
         <item>Хатні факс</item>
         <item>Пэйджар</item>
         <item>Іншы</item>
-        <item>Асаблівы</item>
+        <item>Адвольны</item>
     </string-array>
     <string-array name="postalAddressTypes">
-        <item>На Галоўную старонку</item>
+        <item>Хатні</item>
         <item>Працоўны</item>
         <item>Іншы</item>
-        <item>Карыстальніцкі</item>
+        <item>Адвольны</item>
     </string-array>
-    <array name="face_acquired_vendor" />
-    <array name="face_error_vendor" />
-    <array name="fingerprint_acquired_vendor" />
-    <array name="fingerprint_error_vendor" />
+    <string-array name="config_callBarringMMI">
+        <item>33</item>
+        <item>331</item>
+        <item>332</item>
+        <item>35</item>
+        <item>351</item>
+        <item>330</item>
+        <item>333</item>
+        <item>353</item>
+    </string-array>
+    <string-array name="config_cdma_home_system">
+        <item>1</item>
+    </string-array>
+    <string-array name="config_globalActionsList">
+        <item>сілкаванне</item>
+        <item>перазапуск</item>
+        <item>блакаванне</item>
+        <item>выхад</item>
+        <item>справаздача пра памылку</item>
+        <item>здымак экрана</item>
+        <item>экстранны выклік</item>
+    </string-array>
+    <string-array name="config_miuiNonBlockableNotificationPackages">
+        <item>android</item>
+        <item>com.android.incallui</item>
+        <item>com.android.deskclock</item>
+        <item>com.android.mms</item>
+        <item>com.android.bluetooth</item>
+        <item>com.android.updater</item>
+        <item>com.android.providers.downloads</item>
+        <item>com.miui.hybrid</item>
+        <item>com.xiaomi.xmsf</item>
+    </string-array>
+    <string-array name="config_statusBarIcons">
+        <item>навушнікі</item>
+        <item>мікі</item>
+        <item>call_record</item>
+        <item>privacy_mode</item>
+        <item>ble_unlock_mode</item>
+        <item>цішыня</item>
+        <item>gps</item>
+        <item>missed_call</item>
+        <item>managed_profile</item>
+        <item>ime</item>
+        <item>sync_failing</item>
+        <item>sync_active</item>
+        <item>трансляцыя</item>
+        <item>месцазнаходжанне</item>
+        <item>bluetooth</item>
+        <item>bluetooth_handsfree_battery</item>
+        <item>nfc</item>
+        <item>tty</item>
+        <item>дынамік</item>
+        <item>дзэн</item>
+        <item>без гуку</item>
+        <item>гучнасць</item>
+        <item>wifi</item>
+        <item>wimax</item>
+        <item>cdma_eri</item>
+        <item>data_connection</item>
+        <item>phone_evdo_signal</item>
+        <item>phone_signal</item>
+        <item>батарэя</item>
+        <item>alarm_clock</item>
+        <item>бяспечны</item>
+        <item>гадзіннік</item>
+    </string-array>
+    <string-array name="config_system_condition_providers">
+        <item>падзея</item>
+        <item>расклад</item>
+        <item>падзея</item>
+    </string-array>
+    <string-array name="config_wearActivityModeRadios">
+        <item>wifi</item>
+    </string-array>
+    <string-array name="fingerprint_acquired_vendor">
+        <item>Паўтарыць спробу</item>
+        <item></item>
+        <item></item>
+        <item>Поўнасцю закрыйце сканер адбіткаў пальцаў і націсніце</item>
+        <item></item>
+        <item>Поўнасцю закрыйце сканер адбіткаў пальцаў і націсніце</item>
+        <item>Поўнасцю закрыйце сканер адбіткаў пальцаў і націсніце</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Поўнасцю закрыйце сканер адбіткаў пальцаў і націсніце</item>
+        <item>Поўнасцю закрыйце сканер адбіткаў пальцаў і націсніце</item>
+        <item>"Занадта хутка! Не атрымалася распазнаць адбітак"</item>
+        <item>Крыху перамясціце палец і паспрабуйце зноў</item>
+        <item>Прыбярыце палец і зноў вярніце на сканер адбіткаў</item>
+        <item>Патрымайце палец на сканеры крыху даўжэй</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Крыху перамясціце палец</item>
+        <item>Гэты адбітак дададзены, выкарыстайце іншы палец</item>
+    </string-array>
     <string-array name="imAddressTypes">
         <item>Хатні</item>
         <item>Працоўны</item>
         <item>Іншы</item>
-        <item>Карыстальніцкі</item>
+        <item>Адвольны</item>
     </string-array>
     <string-array name="network_switch_type_name">
-        <item>мабільная перадача даных</item>
+        <item>мабільны інтэрнэт</item>
         <item>Wi-Fi</item>
         <item>Bluetooth</item>
         <item>Ethernet</item>
         <item>VPN</item>
     </string-array>
     <string-array name="wfcOperatorErrorAlertMessages">
-        <item>Каб рабіць выклікі і адпраўляць паведамленні па Wi-Fi, спачатку папрасіце свайго аператара наладзіць гэту паслугу. Затым зноў уключыце Wi-Fi-тэлефанію ў меню Налады. (Код памылкі: %1$s)</item>
+        <item>Каб здяйсняць выклікі і адпраўляць паведамленні па Wi-Fi, звярніцеся да аператара, каб вам дапамаглі наладзіць гэтую паслугу. Пасля зноў уключыце выклікі па Wi-Fi у наладах. (Код памылкі: %1$s)</item>
     </string-array>
     <string-array name="wfcOperatorErrorNotificationMessages">
-        <item>Памылка падключэння Wi‑Fi-тэлефаніі ў вашага аператара: %1$s</item>
+        <item>Праблема з рэгістрацыяй выклікаў Wi-Fi у вашага аператара: %1$s</item>
+    </string-array>
+    <string-array name="wfcSpnFormats">
+        <item>%s</item>
+        <item>Wi-Fi-тэлефанія ад %s</item>
     </string-array>
 </resources>

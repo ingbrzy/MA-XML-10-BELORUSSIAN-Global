@@ -1239,7 +1239,6 @@
   <string name="calendar_sound_title">Гук календара</string>
   <string name="call_manager_enable_summary">Дазволіць гэтай службе кіраваць здзяйсненнем выклікаў.</string>
   <string name="call_manager_enable_title">Уключыць кіраўніка выклікаў</string>
-  <string name="call_manager_summary">%1$s</string>
   <string name="call_manager_title">Кіраўнік выклікаў</string>
   <string name="call_records_name_1">Ганна Кавалёва</string>
   <string name="call_records_name_2">Зміцер Кулінковіч</string>
@@ -1446,7 +1445,6 @@
   <string name="condition_hotspot_title">Пункт перадачы ўключаны</string>
   <string name="condition_night_display_summary">Экран афарбуецца ў бурштынавы колер. Гэта дапаможа вам заснуць.</string>
   <string name="condition_night_display_title">Начны рэжым уключаны</string>
-  <string name="condition_summary">%1$d</string>
   <string name="condition_turn_off">Выключыць</string>
   <string name="condition_turn_on">Уключыць</string>
   <string name="condition_work_summary">Праграмы, фонавая сінхранізацыя, і іншыя функцыі вашага працоўнага профілю будуць адключаныя.</string>
@@ -1932,10 +1930,8 @@
   <string name="dialog_title_hdmi_color_calibration">Перадналады карэкцыі колеру</string>
   <string name="dialog_title_login">Увайдзіце ў акаўнт Mi</string>
   <string name="dialog_yes">Так</string>
-  <string name="digital_clock_dot">:</string>
   <string name="direct_boot_unaware_dialog_message">"Нататка: каб запусціць гэтую праграму пасля перазапуску, разблакуйце тэлефон"</string>
   <string name="directory_access">Доступ да каталога</string>
-  <string name="directory_on_volume">%1$s (%2$s)</string>
   <string name="disable_overlays">Адключыць накладанне апаратнымі сродкамі</string>
   <string name="disable_overlays_summary">Заўсёды выкарыстоўваць GPU для адмалёўкі экрана</string>
   <string name="disable_power_key_long_press_under_keyguard">Адключыць меню кнопкі сілкавання</string>
@@ -2003,7 +1999,6 @@
   <string name="dndm_auto_button_title">Паўтараць рэжым \"Не турбаваць\"</string>
   <string name="dndm_auto_setting_group">Расклад</string>
   <string name="dndm_auto_time_setting">Вызначыць час</string>
-  <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
   <string name="dndm_auto_time_turn_off">Да</string>
   <string name="dndm_auto_time_turn_off_title">Аўтаматычнае адключэнне рэжыму \"Не турбаваць\"</string>
   <string name="dndm_auto_time_turn_on">Ад</string>
@@ -2392,7 +2387,6 @@
   <string name="firewall_temp_rule_reason">Праграма %2$s абмежавала падлучэнне да інтэрнэту для %1$s</string>
   <string name="firewall_wifi">Wi-Fi</string>
   <string name="firewall_wifi_dialog_message">"Усталяваная праграма не зможа падлучыцца да інтэрнэту з дапамогай Wi-Fi, калі гэта адключана."</string>
-  <string name="firmware_title">Android</string>
   <string name="firmware_version">Версія Android</string>
   <string name="flash_drive_backup_restore">Рэзервовае капіяванне ці аднаўленне па USB</string>
   <string name="flash_drive_backup_restore_summary">Падлучыць USB-назапашвальнік</string>
@@ -2504,7 +2498,6 @@
   <string name="gadget_picker_title">Абярыце прыладу</string>
   <string name="gadget_state_off">адкл</string>
   <string name="gadget_state_on">укл</string>
-  <string name="gadget_state_template">%1$s %2$s</string>
   <string name="gadget_state_turning_off">адключэнне</string>
   <string name="gadget_state_turning_on">уключэнне</string>
   <string name="gadget_sync">Сінхранізацыя</string>
@@ -2937,7 +2930,6 @@
   <string name="lights_title">Светлавы індыкатар</string>
   <string name="line_breaking_summary">Выправіць разрывы радкоў абзаца</string>
   <string name="line_breaking_title">Аптымізацыя тэксту</string>
-  <string name="link_speed">%1$d Мб/с</string>
   <string name="link_speed_label">Хуткасць сувязі:</string>
   <string name="list_bg_header_text">"Пры абмежаванні фонавых злучэнняў новыя праграмы не змогуць злучацца з інтэрнэтам у фонавым рэжыме. Яны больш не змогуць атрымліваць паведамленні ці абнаўляць даныя."</string>
   <string name="list_empty_text">Пуста</string>
@@ -3351,7 +3343,6 @@
   <string name="memory_title">Даступна: %1$s\u0009\u0009Агулам: %2$s</string>
   <string name="memory_usage">Выкарыстанне памяці</string>
   <string name="memory_usage_apps">Выкарыстанне памяці праграмамі</string>
-  <string name="memory_use_running_format">%1$s / %2$s</string>
   <string name="memory_use_summary">%1$s – сярэдняе значэнне памяці, выкарыстанай за апошнія 3 гадзіны</string>
   <string name="menu_cancel">Адхіліць</string>
   <string name="menu_check">Досвед</string>
@@ -3689,7 +3680,6 @@
   <string name="nfc_how_it_works_got_it">Зразумела</string>
   <string name="nfc_how_it_works_title">Аплата ў тэрмінале</string>
   <string name="nfc_more_title">Больш...</string>
-  <string name="nfc_payment_app_and_desc">%1$s - %2$s</string>
   <string name="nfc_payment_default">Прадвызначаны спосаб аплаты</string>
   <string name="nfc_payment_default_not_set">Не вызначана</string>
   <string name="nfc_payment_favor_default">Заўсёды выкарыстоўваць прадвызначаную праграму</string>
@@ -3817,7 +3807,6 @@
   <string name="notification_fold_summary">Усе няважныя апавяшчэнні будуць з\'яўляцца ў асобным каталозе</string>
   <string name="notification_fold_title">Фільтр апавяшчэнняў</string>
   <string name="notification_group_title">Група катэгорыі апавяшчэнняў</string>
-  <string name="notification_header_divider_symbol_with_spaces">" • "</string>
   <string name="notification_importance_blocked">Ніколі не паказваць апавяшчэнні</string>
   <string name="notification_importance_default">Прайграваць гук</string>
   <string name="notification_importance_default_title">Высокая</string>
@@ -3971,7 +3960,6 @@ OTG аўтаматычна адключаецца праз 10 хвілін бя�
   <string name="overlay_display_devices_title">Эмуляцыя другасных дысплеяў</string>
   <string name="overlay_settings">Паказваць паверх іншых праграм</string>
   <string name="owner_info_settings_edit_text_hint">Напрыклад, Android Лявона</string>
-  <string name="owner_info_settings_status">%1$d / %2$d</string>
   <string name="owner_info_settings_summary">Няма</string>
   <string name="owner_info_settings_title">Подпіс на экране блакавання</string>
   <string name="owner_space">Першая прастора</string>
@@ -4118,7 +4106,6 @@ OTG аўтаматычна адключаецца праз 10 хвілін бя�
   <string name="power_cell">Сетка мабільнай сувязі ў рэжыме чакання</string>
   <string name="power_center">Аптымізацыя батарэі</string>
   <string name="power_charge_remaining">Засталося %1$s</string>
-  <string name="power_charging">%1$s - %2$s</string>
   <string name="power_charging_duration">%1$s - %2$s да поўнага засілкавання</string>
   <string name="power_checker">Праверка батарэі</string>
   <string name="power_discharge_by">Засталося прыблізна %1$s (%2$s)</string>
@@ -4160,7 +4147,6 @@ OTG аўтаматычна адключаецца праз 10 хвілін бя�
   <string name="power_remaining_less_than_duration_only">Засталося менш за %1$s</string>
   <string name="power_remaining_more_than_subtext">Засталося больш за %1$s (%2$s)</string>
   <string name="power_remaining_only_more_than_subtext">Засталося больш за %1$s</string>
-  <string name="power_remaining_settings_home_page">%1$s - %2$s</string>
   <string name="power_screen">Экран</string>
   <string name="power_settings_title">Прадукцыйнасць сістэмы</string>
   <string name="power_unaccounted">Рознае</string>
@@ -4349,8 +4335,6 @@ OTG аўтаматычна адключаецца праз 10 хвілін бя�
   <string name="private_sms_recording_intro_header">Каб разблакаваць, намалюйце графічны ключ:</string>
   <string name="private_sms_reset_by_account">Каб скінуць ваш пароль, увайдзіце ў акаўнт Mi</string>
   <string name="process_dex2oat_label">Аптымізацыя праграм</string>
-  <string name="process_format">%1$s (%2$d)</string>
-  <string name="process_kernel_label">Android OS</string>
   <string name="process_mediaserver_label">Медыясервер</string>
   <string name="process_provider_in_use_description">Выкарыстоўваецца пастаўшчык %1$s.</string>
   <string name="process_service_in_use_description">Выкарыстоўваецца служба %1$s.</string>
@@ -4391,7 +4375,6 @@ OTG аўтаматычна адключаецца праз 10 хвілін бя�
   <string name="proxy_error_invalid_port">Вы ўвялі несапраўдную назву порта.</string>
   <string name="proxy_exclusionlist_label">Абыход для</string>
   <string name="proxy_hostname_label">Назва хоста</string>
-  <string name="proxy_port_hint">8080</string>
   <string name="proxy_port_label">Порт</string>
   <string name="proxy_settings_label">Налады проксі</string>
   <string name="proxy_settings_title">Проксі-сервер</string>
@@ -5043,7 +5026,6 @@ OTG аўтаматычна адключаецца праз 10 хвілін бя�
   <string name="security_encryption_attention_3">"Вам давядзецца прызначыць новы пароль блакавання экрана."</string>
   <string name="security_encryption_attention_4">"Запомніце свой пароль блакавання экрана, інакш вам давядзецца скінуць прыладу да завадскога стану. Пры гэтым усе даныя страцяцца."</string>
   <string name="security_encryption_attention_info">Вы можаце зашыфраваць свае акаўнты, налады, усталяваныя праграмы і іх даныя, медыяфайлы і іншыя файлы.</string>
-  <string name="security_encryption_attention_symbol">•</string>
   <string name="security_encryption_attention_title">Важнае</string>
   <string name="security_encryption_close_dialog_info">Калі адмовіцца ад шыфравання прылады з дапамогай пароля блакавання экрана, некаторыя службы Google могуць стаць недаступнымі.</string>
   <string name="security_encryption_close_dialog_title">Вяртанне да абароны паролем</string>
@@ -5135,11 +5117,9 @@ OTG аўтаматычна адключаецца праз 10 хвілін бя�
   <string name="select_webview_provider_title">Рэалізацыя WebView</string>
   <string name="select_webview_provider_toast_text">Выбар несапраўдны. Паспрабуйце зноў.</string>
   <string name="service_background_processes">Вольна %1$s</string>
-  <string name="service_client_name">%1$s</string>
   <string name="service_foreground_processes">Выкарыстана %1$s</string>
   <string name="service_manage">Налады</string>
   <string name="service_manage_description">%1$s выкарыстоўваецца. Каб кіраваць, націсніце \"Налады\".</string>
-  <string name="service_process_name">%1$s</string>
   <string name="service_restarting">Перазапуск</string>
   <string name="service_started_by_app">Запушчана праграмай.</string>
   <string name="service_stop">Спыніць</string>
@@ -5167,7 +5147,6 @@ OTG аўтаматычна адключаецца праз 10 хвілін бя�
   <string name="settings_notify_need_backup">Стварыце рэзервовую копію вашых налад у Xiaomi Cloud, каб мець доступ да іх пасля змены тэлефона.</string>
   <string name="settings_notify_new_version">Даступна абнаўленне. Націсніце для прагляду.</string>
   <string name="settings_notify_phone_recycled">Ваш нумар тэлефона быў перапрацаваны. Націсніце, каб дадаць іншы нумар.</string>
-  <string name="settings_package">com.android.settings</string>
   <string name="settings_safetylegal_activity_loading">Загрузка…</string>
   <string name="settings_safetylegal_activity_title">Інфармацыя пра бяспеку</string>
   <string name="settings_safetylegal_activity_unreachable">Адсутнічае злучэнне з інтэрнэтам. Каб праглядзець гэтую інфармацыю, наведайце %s з любога камп\'ютара, падлучанага да інтэрнэту.</string>
@@ -5315,7 +5294,6 @@ OTG аўтаматычна адключаецца праз 10 хвілін бя�
   <string name="sim_select_card">Абярыце SIM-картку</string>
   <string name="sim_selection_channel_title">Выбар SIM-карты</string>
   <string name="sim_selection_required_pref">Патрэбна абраць</string>
-  <string name="sim_settings_summary">%1$s - %2$s</string>
   <string name="sim_settings_title">SIM-карткі</string>
   <string name="sim_setup_wizard_title">SIM-карткі</string>
   <string name="sim_signal_strength">%1$d дБм %2$d asu</string>
@@ -5331,7 +5309,6 @@ OTG аўтаматычна адключаецца праз 10 хвілін бя�
   <string name="size_kilo_byte">КБ</string>
   <string name="size_mega_byte">МБ</string>
   <string name="size_peta_byte">ПБ</string>
-  <string name="size_suffix">%1$s%2$s</string>
   <string name="size_tera_byte">ТБ</string>
   <string name="skip_anyway_button_label">Усё адно прамінуць</string>
   <string name="skip_label">Прамінуць</string>
@@ -5455,10 +5432,8 @@ OTG аўтаматычна адключаецца праз 10 хвілін бя�
   <string name="status_bar_app_enable_keyguard">Экран блакавання</string>
   <string name="status_bar_app_enable_message">Значкі</string>
   <string name="status_bar_carrier_settings_no_sim_card">Няма SIM-карткі</string>
-  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="status_bar_settings">Апавяшчэнні і панэль стану</string>
   <string name="status_bar_settings_all_app_display_loading">Хвілінку…</string>
-  <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
   <string name="status_bar_settings_manage_notification">Апавяшчэнні праграм</string>
   <string name="status_bar_settings_notification_bar">Панэль апавяшчэнняў</string>
   <string name="status_bar_settings_notification_use_app_icon">Выкарыстоўваць для апавяшчэнняў значкі праграм</string>
@@ -5713,8 +5688,6 @@ OTG аўтаматычна адключаецца праз 10 хвілін бя�
   <string name="sum_carrier_select">Абраць аператара сеткі</string>
   <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
   <string name="summary_divider_text">", "</string>
-  <string name="summary_font_size">%1$s</string>
-  <string name="summary_range_symbol_combination">%1$s - %2$s</string>
   <string name="summary_range_verbal_combination">%1$s – %2$s</string>
   <string name="supl_not_set">&lt;Не вызначана&gt;</string>
   <string name="supplicant_state_label">Стан:</string>
@@ -6632,7 +6605,6 @@ OTG аўтаматычна адключаецца праз 10 хвілін бя�
   <string name="wifi_calling_off_explanation">Калі ўключана Wi-Fi-тэлефанія, ваш тэлефон можа накіроўваць выклікі праз сеткі Wi-Fi або сетку вашага аператара, у залежнасці ад вашых налад і магутнасці сігналу. Перад уключэннем гэтай функцыі спытайце ў вашага аператара наконт аплаты і іншых звестак.</string>
   <string name="wifi_calling_pref_managed_by_carrier">Наладамі кіруе аператар</string>
   <string name="wifi_calling_roaming_mode_dialog_title">Налады роўмінгу</string>
-  <string name="wifi_calling_roaming_mode_summary">%1$s</string>
   <string name="wifi_calling_roaming_mode_title">Налады роўмінгу</string>
   <string name="wifi_calling_settings_activation_instructions">Актываваць Wi-Fi-тэлефанію</string>
   <string name="wifi_calling_settings_title">Wi-Fi-тэлефанія</string>
@@ -7352,10 +7324,8 @@ OTG аўтаматычна адключаецца праз 10 хвілін бя�
   <string name="zone_auto_summaryOff">Выкарыстоўваць часавы пояс аператара сеткі</string>
   <string name="zone_auto_summaryOn">Выкарыстоўваць часавы пояс аператара сеткі</string>
   <string name="zone_change_to_from_dst">%1$s пачынаецца %2$s.</string>
-  <string name="zone_info_exemplar_location_and_offset">%1$s (%2$s)</string>
   <string name="zone_info_footer">Выкарыстоўваецца %1$s. Пераход на %2$s: %3$s.</string>
   <string name="zone_info_footer_no_dst">Выкарыстоўваецца %1$s. Без пераходу на летні час.</string>
-  <string name="zone_info_offset_and_name">%2$s (%1$s)</string>
   <string name="zone_list_menu_sort_alphabetically">Сартаваць па алфавіце</string>
   <string name="zone_list_menu_sort_by_timezone">Сартаваць па часавым поясе</string>
   <string name="zone_menu_by_offset">Абраць зрух адносна UTC</string>

@@ -456,12 +456,6 @@
         <item>PIN-код</item>
         <item>Пароль</item>
     </string-array>
-    <string-array name="change_security_lock_picker_key">
-        <item>facial</item>
-        <item>графічны ключ</item>
-        <item>лічбавы</item>
-        <item>змешаны</item>
-    </string-array>
     <string-array name="city_name">
         <item>Абіджан</item>
         <item>Акра</item>

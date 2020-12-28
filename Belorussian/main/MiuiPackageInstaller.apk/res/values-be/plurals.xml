@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="additional_permissions_more">
+        <item quantity="other">Яшчэ %1$d</item>
+        <item quantity="one">Яшчэ %1$d</item>
+        <item quantity="few">Яшчэ %1$d</item>
+        <item quantity="many">Яшчэ %1$d</item>
+    </plurals>
+    <plurals name="miui_permission_detail">
+        <item quantity="other">%d дазволаў</item>
+        <item quantity="one">%d дазвол</item>
+        <item quantity="few">%d дазволы</item>
+        <item quantity="many">%d дазволаў</item>
+    </plurals>
+</resources>

@@ -47,22 +47,17 @@
     <string name="account_security_title">Бяспека прылады</string>
     <string name="account_security_verification">Праверка акаўнта</string>
     <string name="account_set_up_change_type_note">Калі вам трэба пераключацца паміж наладамі POP3 і IMAP, выдаліце ваш акаўнт і стварыце новы з патрабаванымі параметрамі.</string>
-    <string name="account_setting">Акаўнты</string>
-    <string name="account_setting_keywords">Акаўнты;акаўнты пошты</string>
     <string name="account_setting_message_body_load_complete">Паведамленне цалкам</string>
     <string name="account_setting_message_body_load_head_abstract">Кароткі змест Email-ліста</string>
     <string name="account_setting_message_body_load_head_only">Толькі загаловак</string>
     <string name="account_setting_message_body_load_text">Толькі тэкст</string>
     <string name="account_settings_action">Налады акаўнта</string>
-    <string name="account_settings_background_attachments_label">Спампаваць прымацаванні</string>
     <string name="account_settings_background_attachments_summary">Спампаваць прымацаванні па WLAN</string>
     <string name="account_settings_background_attachments_summary_inter">Спампаваць прымацаванні па WLAN</string>
     <string name="account_settings_data_usage">Налады сінхранізацыі</string>
     <string name="account_settings_description_label">Імя акаўнта</string>
     <string name="account_settings_edit_quick_responses_label">Хуткі адказ</string>
     <string name="account_settings_edit_quick_responses_summary">Рэдагаваць кароткія паведамленні для ўстаўкі ў лісты электроннай пошты</string>
-    <string name="account_settings_enforced_label">Палітыка</string>
-    <string name="account_settings_enforced_summary">Адсутнічае</string>
     <string name="account_settings_incoming_summary">Імя карыстальніка, пароль і іншыя налады сервера</string>
     <string name="account_settings_login_dialog_content_fmt">"Некарэктнае імя карыстальніка або пароль для %s.
  Абнавіць іх зараз?\""</string>
@@ -77,12 +72,9 @@
     <string name="account_settings_notify_label">Апавяшчэнні пра пошту</string>
     <string name="account_settings_notify_summary">Паказваць апавяшчэнне, калі прыходзіць новая пошта</string>
     <string name="account_settings_param">Налады акаўнта</string>
-    <string name="account_settings_policies">Палітыка бяспекі</string>
     <string name="account_settings_preference_att_save_path">Прадвызначанае месцазнаходжанне прымацаванняў</string>
     <string name="account_settings_preference_head_icon">Фота профілю</string>
     <string name="account_settings_preference_notify">Апавяшчэнні</string>
-    <string name="account_settings_retry_label">Спроба сінхранізацыі</string>
-    <string name="account_settings_retry_summary">Націсніце для сінхранізацыі з акаўнтам</string>
     <string name="account_settings_ringtone">Гук апавяшчэння</string>
     <string name="account_settings_servers">Налады сервера</string>
     <string name="account_settings_smime_title">S/MIME (бяспечныя/шматмэтавыя пашырэння інтэрнэт-пошты)</string>
@@ -93,13 +85,9 @@
     <string name="account_settings_sync_contacts_summary">Сінхранізаваць кантакты для гэтага акаўнта</string>
     <string name="account_settings_sync_email_enable">Сінхранізаваць пошту</string>
     <string name="account_settings_sync_email_summary">Сінхранізаваць пошту для гэтага акаўнта</string>
-    <string name="account_settings_unsupported_label">Палітыка не падтрымліваецца</string>
-    <string name="account_settings_unsupported_summary">Адсутнічае</string>
     <string name="account_settings_user_usage">Налады акаўнта</string>
     <string name="account_settings_using_ringtone">Мелодыя</string>
     <string name="account_settings_vibrate_when_label">Вібрацыя</string>
-    <string name="account_setup_account_type_instructions">Выберыце тып акаўнта</string>
-    <string name="account_setup_account_type_title">Наладка акаўнта</string>
     <string name="account_setup_address_label">Posta elektronikoa</string>
     <string name="account_setup_autodiscover_dlg_authfail_message">Пацвердзіце карэктнасць імя карыстальніка, пароля і параметраў акаўнта.</string>
     <string name="account_setup_autodiscover_dlg_authfail_title">Не атрымалася стварыць акаўнт</string>
@@ -117,7 +105,6 @@
     <string name="account_setup_creating_account_msg">"    Стварэнне акаўнта…"</string>
     <string name="account_setup_deleting_account_msg">"    Выдаленне акаўнта…"</string>
     <string name="account_setup_exchange_certificate_title">Сертыфікат кліента</string>
-    <string name="account_setup_exchange_device_id_label">ID мабільнай прылады</string>
     <string name="account_setup_exchange_no_certificate">Не выкарыстоўваецца</string>
     <string name="account_setup_failed_auth_required">Гэты метад праверкі сапраўднасці не падтрымліваецца серверам.</string>
     <string name="account_setup_failed_certificate_inaccessible">Сертыфікат несапраўдны ці недаступны.</string>
@@ -135,7 +122,6 @@
     <string name="account_setup_failed_dlg_server_message_fmt">"Не атрымалася падлучыцца да сервера.
 (%s)"</string>
     <string name="account_setup_failed_dlg_title">Не атрымалася стварыць акаўнт</string>
-    <string name="account_setup_failed_dlg_todo1">Наладзьце акаўнт як паказана ніжэй або паспрабуйце ўвайсці з дапамогай EXCHANGE.</string>
     <string name="account_setup_failed_dlg_todo2">Наладзьце акаўнт як паказана ніжэй</string>
     <string name="account_setup_failed_dlg_unknown_auth_message">Невядомая памылка.</string>
     <string name="account_setup_failed_ioerror">Не атрымалася адкрыць злучэнне з серверам.</string>
@@ -183,8 +169,6 @@
     <string name="account_setup_outgoing_port_label">Порт</string>
     <string name="account_setup_outgoing_require_login_label">Вы павінны ўвайсці</string>
     <string name="account_setup_outgoing_smtp_server_label">Сервер SMTP</string>
-    <string name="account_setup_security_policies_required_fmt">Серверу %s патрабуецца дазвол на аддаленае кіраванне некаторымі функцыямі бяспекі вашай Android-прылады. Завяршыць налады гэтага акаўнта?</string>
-    <string name="account_setup_security_required_title">Аддаленае кіраванне бяспекай</string>
     <string name="account_setup_server_acc_manager_title">Акаўнты</string>
     <string name="account_setup_username_password_toast">Увядзіце сапраўдны адрас электроннай пошты і пароль.</string>
     <string name="account_smime">S/MIME</string>
@@ -196,17 +180,13 @@
     <string name="account_sync_settings_settings">Сінхранізацыя кантактаў і календара</string>
     <string name="account_sync_settingstip_description">Сінхранізацыя</string>
     <string name="account_waiting_for_folders_msg">Загрузка папак…</string>
-    <string name="actionbar_more_option">Іншыя параметры</string>
     <string name="activity_folder_selection">Выбраць папку</string>
     <string name="activity_mailbox_selection">Выбраць акаўнт</string>
     <string name="ad_merge">Рэклама &amp; апавяшчэнні</string>
     <string name="add_account">Дадаць акаўнт</string>
-    <string name="add_account_keywords">Дадаць акаўнт;дадаць акаўнт пошты</string>
-    <string name="add_account_search">Дадаць акаўнт</string>
     <string name="add_attachment">Дадаць прымацаванне</string>
     <string name="add_calendar">Нагадаць</string>
     <string name="add_file_exception">Не атрымалася дадаць. Паспрабуйце дадаць гэтае прымацаванне з іншага месца.</string>
-    <string name="add_label">Дадаць папку</string>
     <string name="add_pre_message_attachments">Дадаць прымацаванне папярэдняга паведамлення?</string>
     <string name="add_pre_message_attachments_no">Не дадаваць</string>
     <string name="add_pre_message_attachments_yes">Дадаць</string>
@@ -214,7 +194,6 @@
     <string name="all_purpose">Сардэчна запрашаем у Пошту. Паштовы кліент, распрацаваны Kingsoft спецыяльна для Xiaomi. Вы можаце выкарыстоўваць гэтую праграму для стварэння, адпраўкі і атрымання электронных лістоў.</string>
     <string name="allread">Прачытаць усё</string>
     <string name="always_bcc_myself">Заўсёды ўтоеная копія сабе</string>
-    <string name="always_show_images">Заўсёды паказваць выявы ад гэтага адпраўніка</string>
     <string name="app_name">Пошта</string>
     <string name="appraise_des">Вам падабаецца наша праграма?</string>
     <string name="appraise_good">Так</string>
@@ -223,7 +202,6 @@
     <string name="archive">Архіў</string>
     <string name="archived">Архівавана</string>
     <string name="att_download_failed_content">Не атрымалася спампаваць прымацаванне з гэтага паведамлення.</string>
-    <string name="att_download_failed_network_slow">Хуткасць злучэння занадта павольная, паспрабуйце пазней</string>
     <string name="att_download_failed_permission_denied">Няма дазволу на доступ да знешняга сховішча</string>
     <string name="att_download_failed_title">Не атрымалася спампаваць прымацаванне</string>
     <string name="att_file_not_exists">Не атрымалася знайсці %s</string>
@@ -274,9 +252,8 @@
     <string name="b_contacts_remove_tips">Выдаліць гэты адрас з чорнага спісу?</string>
     <string name="back">Назад</string>
     <string name="bank_card_detail">Дадзеныя крэдытнай карткі</string>
-    <string name="battery_saver">Энергазберажэнне</string>
-    <string name="battery_saver_keywords">энергазберажэнне;батарэя пошты</string>
     <string name="bcc">Утоеная копія</string>
+    <string name="bcc_heading">"Утоеная копія: "</string>
     <string name="bill_center_setting">Налады рахункаў</string>
     <string name="bill_center_setting_head">Імпарт інфармацыі з гэтых акаўнтаў</string>
     <string name="bill_cycle_text">Плацёжны цыкл</string>
@@ -298,6 +275,7 @@
     <string name="cancel_pop3_attchemt_downloading">Не ўдаецца адмяніць бягучыя загрузкі для прымацаванняў у акаўнтах POP3</string>
     <string name="cant_move_or_change_labels">"Немагчыма перамясціць аб'екты з некалькіх акаўнтаў."</string>
     <string name="cc">Копія</string>
+    <string name="cc_attribution">Копія: %1$s&lt;br></string>
     <string name="cc_bcc">Копія/Утоеная копія</string>
     <string name="cc_heading">"Копія: "</string>
     <string name="certificate_add_failed">Не атрымалася дадаць сертыфікат \"%s\"</string>
@@ -314,7 +292,6 @@
     <string name="change_sync_settings">Змяніць налады сінхранізацыі</string>
     <string name="changepw_dialog_auth_tips">Увядзіце код ад %s яшчэ раз</string>
     <string name="changepw_dialog_tips">Паўтарыце ўвод пароля для %s</string>
-    <string name="changepw_dialog_tips_please_clikc_btn">Паглядзіце праверачны код на %s і зноў увайдзіце ў сістэму.</string>
     <string name="chat_item_msg_people_unit">людзі</string>
     <string name="chat_item_msg_user_etc">і т.д.</string>
     <string name="check_setup_data">"    Праверка наладаў сервера…"</string>
@@ -326,8 +303,8 @@
     <string name="click_download_all_content">[ Націсніце, каб спампаваць ]</string>
     <string name="click_to_reload">Даткніцеся экрана, каб абнавіць</string>
     <string name="collapse_recipient_details">Схаваць звесткі аб атрымальніку</string>
+    <string name="colon">:</string>
     <string name="compose">Стварыць</string>
-    <string name="compose_attachment_number_limit">Немагчыма дадаць больш за 10 прымацаванняў</string>
     <string name="compose_event">Запрашэнне</string>
     <string name="compose_paste_address_oob">Занадта шмат сімвалаў</string>
     <string name="compose_picturesexceedlimits">Вы можаце дадаць больш выяў у якасці дадаткаў</string>
@@ -336,10 +313,6 @@
     <string name="confirm">ОК</string>
     <string name="confirm_add_to_calendar">Даданне ў каляндар…</string>
     <string name="confirm_age">Пацвердзіце ўзрост</string>
-    <string name="confirm_before_delete">Пацвердзіць перад выдаленнем</string>
-    <string name="confirm_before_delete_keywords">пацвердзіць перад выдаленнем;пацверджанне выдалення</string>
-    <string name="confirm_before_send">Пацвердзіць перад адпраўкай</string>
-    <string name="confirm_before_send_keywords">пацвердзіць перад адпраўкай;пацверджанне адпраўкі</string>
     <string name="confirm_delete_attachment">Выдаліць прымацаванне?</string>
     <string name="confirm_delete_conversation_title">Выдаліць</string>
     <string name="confirm_discard_text">Адмяніць гэтае паведамленне?</string>
@@ -360,8 +333,6 @@
     <string name="contact_edit_set_phone_contact">Змяніць кантакты тэлефона</string>
     <string name="contact_edit_title_phone_contact">Спіс кантактаў тэлефона</string>
     <string name="contact_in_filter_title">Адпраўнік</string>
-    <string name="contact_info_string">Паказаць кантактную інфармацыю пра %1$s</string>
-    <string name="contact_info_string_default">Паказаць кантактную інфармацыю</string>
     <string name="contact_list_add_btn">Дадаць</string>
     <string name="contact_list_search_hint">Пошук кантактаў</string>
     <string name="contact_list_title">Кантакты</string>
@@ -397,21 +368,17 @@
     <string name="conversation_message_encrypt_tips">Гэты email зашыфраваны. Дадайце сертыфікат, неабходны для расшыфроўкі.</string>
     <string name="conversation_msg_header_collapsed_sent_to">"Адпраўлена "</string>
     <string name="conversation_photo_welcome_text">Націсніце на выяву адпраўніка, каб выбраць гэтую гутарку.</string>
-    <string name="conversation_pull_ad_content">Кіруйце вашымі Email-лістамі без асаблівых высілкаў</string>
     <string name="conversation_quick_button_approve">OK</string>
     <string name="conversation_quick_button_disapprove">Скасаваць</string>
     <string name="conversation_quick_button_received">Атрымана</string>
     <string name="conversation_report_spam">Паведаміць пра спам</string>
     <string name="conversation_spam_dig_msg">Пазначыць гэта паведамленне як спам? Гэта паведамленне будзе перамешчана ў папку «Спам», а адпраўнік будзе дададзены ў чорны спіс.</string>
     <string name="conversation_spam_tips">Пазначыць гэта паведамленне як спам?</string>
-    <string name="conversation_view">Праглядзець гутарку</string>
-    <string name="conversation_view_keywords">перагледзець гутарку;гутарка пошты</string>
     <string name="copied">Скапіявана</string>
     <string name="copy">Капіраваць</string>
     <string name="copy_email">Капіяваць адрас электроннай пошты</string>
     <string name="copy_number">Капіяваць нумар тэлефона</string>
     <string name="create_action">Новы</string>
-    <string name="credit_limit_text">Крэдытны ліміт</string>
     <string name="cur_debt">Баланс акаўнта</string>
     <string name="custom_from_account_label">Даслаць пошту як:</string>
     <string name="database_exception">Адбылася памылка. Паўтарыце ўваход.</string>
@@ -430,8 +397,6 @@
     <string name="delete">Выдаліць</string>
     <string name="delete_contact_content">Выдаліць гэты кантакт?</string>
     <string name="delete_message_event">Выдаліць гэта запрашэнне?</string>
-    <string name="delete_message_flow">Выдаліць гутарку</string>
-    <string name="delete_message_flow_keywords">выдаліць гутарку;выдаліць пераадрасацыю</string>
     <string name="deleted">Выдалена</string>
     <string name="device_activity_btn_str">Актываваць</string>
     <string name="device_activity_lint_str">Уключыць поўнае абнаўленне паштовай службы і актываваць налады бяспекі</string>
@@ -439,7 +404,6 @@
     <string name="device_admin_label">Posta elektronikoa</string>
     <string name="device_not_activiey_lint1">Менеджар прылад не актываваны</string>
     <string name="device_not_activiey_lint2">Паштовая служба не працуе з Exchange</string>
-    <string name="dialog_account_auto_sync_setting_no_open">Вы выбралі сінхранізацыю лістоў уручную. Абнавіце, каб сінхранізаваць.</string>
     <string name="dialog_agree">Згодзен</string>
     <string name="dialog_change_sync_lookback">Пошта, атрыманая %s таму, будзе выдаленая аўтаматычна. Націсніце, каб змяніць.</string>
     <string name="dialog_disagree">Не згодны</string>
@@ -448,7 +412,6 @@
     <string name="dialog_system_auto_sync_account_no_open">Уключыце сінхранізацыю акаўнта, каб аўтаматычна атрымліваць лісты</string>
     <string name="dialog_system_auto_sync_master_no_open">Уключыце сінхранізацыю, каб аўтаматычна атрымліваць лісты</string>
     <string name="disable_admin_warning">ПАПЯРЭДЖАННЕ: Пры дэактывацыі дазволу на адміністраванне вашай прылады праз праграму \"Пошта\" будуць выдалены ўсе акаўнты электроннай пошты, якія патрабуюць яго, разам з іх паведамленнямі, кантактамі, падзеямі календара і іншымі данымі.</string>
-    <string name="discard">Адмяніць</string>
     <string name="discard_drafts">Выдаліць чарнавікі</string>
     <string name="dismiss_tip_hover_text">Адхіліць параду</string>
     <string name="disturb_switch">Не турбаваць</string>
@@ -463,7 +426,6 @@
     <string name="downlaod_confirm_download">Спампаваць</string>
     <string name="downlaod_nonWifi_confirm_message">Выкарыстаць мабільную перадачу даных, каб спампаваць гэтае прымацаванне?</string>
     <string name="downlaod_nonWifi_confirm_title">Спампаваць гэтае прымацаванне?</string>
-    <string name="download_again">Спампаваць зноў</string>
     <string name="download_before_sharing">" яшчэ не спампавана."</string>
     <string name="download_cancel_confirm_message">Спампаванне будзе спынена</string>
     <string name="download_cancel_confirm_title">Спампаваць гэтае прымацаванне?</string>
@@ -473,7 +435,6 @@
     <string name="download_message_failed_for_too_large">Паведамленне занадта вялікае, каб спампаваць.</string>
     <string name="draft_count_format"> (%1$s)</string>
     <string name="drawer_bank_bill">Банкаўскія выпіскі</string>
-    <string name="drawer_classification">Катэгорыі</string>
     <string name="drawer_close">Закрыць панэль навігацыі</string>
     <string name="drawer_contacts">Кантакты</string>
     <string name="drawer_open">Адкрыць панэль навігацыі</string>
@@ -486,8 +447,6 @@
     <string name="editor_max_length_limit_hint">Вы ўвялі занадта доўгае паведамленне</string>
     <string name="email_netease">Пошта NetEase</string>
     <string name="email_qq">Пошта QQ</string>
-    <string name="email_setting">Пошта</string>
-    <string name="email_setting_keywords">Акаўнты;Дадаць акаўнт;акаўнты электроннай пошты;дадаць акаўнт электроннай пошты;пацвердзіць перад выдаленнем;выдаліць пацверджанне;пацвердзіць перад адпраўкай;адправіць пацверджанне; выдаліць гутарку;выдаліць пераадрасацыю;праглядзець гутарку;гутарка пошты;энергазберажэнне;батарэя пошты;адправіць водгук;загрузіць журналы</string>
     <string name="email_sina">Пошта Sina</string>
     <string name="email_sync_failed">Не атрымалася сінхранізаваць пошту</string>
     <string name="eml_parse_message">Адкрыццё файла EML…</string>
@@ -513,7 +472,6 @@
     <string name="fail_get_email_message">Атрымаць паведамленне не ўдалося.</string>
     <string name="failed">Не атрымалася загрузіць выяву</string>
     <string name="failed_parse_eml_file">Не атрымалася адкрыць файл EML, паспрабуйце яшчэ раз.</string>
-    <string name="failed_read_phone_state_permission">Дазволіць доступ да статусу прылады</string>
     <string name="failed_read_write_calendar_permission">Доступ да Календара абмежаваны</string>
     <string name="failed_read_write_contacts_permission">Доступ да кантактаў абмежаваны</string>
     <string name="feedback">Адправіць водгук</string>
@@ -594,19 +552,16 @@
     <string name="gmail_login_confirm_to_use_proxy">Выкарыстаць проксі-сервер для доступу да акаўнта Gmail?</string>
     <string name="gmail_login_failed_non_proxy_title">Няма доступу да сервера Gmail</string>
     <string name="gmail_server_authorization_deleted">Не атрымалася спраўдзіць акаўнт. Паспрабуйце дадаць гэты акаўнт яшчэ раз.</string>
-    <string name="gmail_web_login_go">OK</string>
-    <string name="gmail_web_login_required_message">Увайсці ў Gmail</string>
     <string name="go_to_mail_content">Паказаць ліст</string>
     <string name="have_auth_code">Я маю код</string>
     <string name="header_category_account">Акаўнты</string>
-    <string name="header_category_other">Водгук</string>
+    <string name="header_category_general">@string/header_label_general_preferences</string>
     <string name="header_label_general_preferences">Агульныя</string>
     <string name="help_and_info">Дапамога</string>
     <string name="help_me_get_qq_auth">Атрымаць код</string>
     <string name="help_weixin_title">"Калі ў вас ёсць якія-небудзь пытанні, не саромейцеся, пішыце на наш афіцыйны WeChat Акаўнт: "</string>
     <string name="hide_elided">▼ Схаваць цытаваны тэкст</string>
     <string name="hide_password">Схаваць пароль</string>
-    <string name="hint_quick_reply_all">Адказаць усім</string>
     <string name="imap_name">IMAP</string>
     <string name="imap_or_pop3_name">IMAP/POP3</string>
     <string name="imap_password_error">Няправільны пароль для сервера ўваходнай пошты</string>
@@ -614,14 +569,13 @@
     <string name="import_from_other_account">Імпарт з іншых акаўнтаў</string>
     <string name="info_actionbar_normal_detail">Рэклама</string>
     <string name="info_item_hide">Выдаліць</string>
-    <string name="info_switch_summary">Паказваць рэкламу ў верхняй частцы Уваходных</string>
-    <string name="info_switch_title">Рэклама</string>
     <string name="inline_picture_deleted">Спампаванне выявы, якой не стае…</string>
     <string name="input_password_prompt">Увядзіце пароль</string>
     <string name="interact_with_server_error">Не атрымалася падлучыцца да сервера</string>
     <string name="invalid_recipient">Адрас %s несапраўдны.</string>
     <string name="invalid_recipient_title">Памылка атрымальніка</string>
     <string name="kilobytes">%s КБ</string>
+    <string name="label_notification_ticker">%1$s: %2$s</string>
     <string name="list_empty_to_fresh">Пакуль няма паведамленняў электроннай пошты.</string>
     <string name="load_from_remote">Пошук паштовай скрыні на серверы</string>
     <string name="load_more">Загрузіць больш</string>
@@ -633,7 +587,6 @@
     <string name="log_save_path">Шлях да журнала</string>
     <string name="login">Увайсці</string>
     <string name="login_des_126">Увайсці ў 126 Mail</string>
-    <string name="login_des_139">Увайсці ў 139 Mail</string>
     <string name="login_des_163">Увайсці ў 163 Mail</string>
     <string name="login_des_exchange">Уваход у Exchange</string>
     <string name="login_des_gmail">Увайсці ў Gmail</string>
@@ -653,7 +606,6 @@
     <string name="login_failed_title">Памылка аўтарызацыі</string>
     <string name="login_mail">Увайсці</string>
     <string name="login_qq_psw">Увесці код уручную</string>
-    <string name="login_support_tip_text">Падтрымка ўсіх асноўных акаўнтаў электроннай пошты</string>
     <string name="long_press_to_select_tip">Націсніце &amp; ўтрымлівайце, каб выбраць адну гутарку, а затым націскайце, каб выбраць больш.</string>
     <string name="mail">Пошта</string>
     <string name="mail_body_turncated">"Гэта паведамленне занадта вялікае, каб загрузіць, таму адлюстроўваецца толькі яго частка. Калі ласка, прачытайце яго цалкам пазней на камп'ютары."</string>
@@ -696,16 +648,6 @@
         Прынята:
         %s
     "</string>
-    <string name="meeting_allday">"
-        Калі:
-        %s
-        (увесь дзень)
-    "</string>
-    <string name="meeting_allday_recurring">"
-        Калі:
-        %s
-        (увесь дзень, з паўторам)
-    "</string>
     <string name="meeting_canceled">"
         Скасавана:
         %s
@@ -714,11 +656,6 @@
         Адхілена:
         %s
     "</string>
-    <string name="meeting_recurring">"
-        Калі:
-        %s
-        (з паўторам)
-    "</string>
     <string name="meeting_responded_failed">Няма адказу</string>
     <string name="meeting_tentative">"
         Ня вызначана:
@@ -726,14 +663,6 @@
     "</string>
     <string name="meeting_updated">"
         Абноўлена:
-        %s
-    "</string>
-    <string name="meeting_when">"
-        Калі:
-        %s
-    "</string>
-    <string name="meeting_where">"
-        Дзе:
         %s
     "</string>
     <string name="megabytes">%s МБ</string>
@@ -750,9 +679,6 @@
     <string name="menu_folder_options">Параметры сінхранізацыі</string>
     <string name="menu_move_to">Перасунуць у</string>
     <string name="menu_move_to_inbox">Перасунуць ва \"Ўваходныя\"</string>
-    <string name="menu_photo_save_all">Захаваць усе</string>
-    <string name="menu_photo_share">Падзяліцца</string>
-    <string name="menu_photo_share_all">Падзяліцца з усімі</string>
     <string name="menu_resend_all">Даслаць усе</string>
     <string name="menu_search">Пошук</string>
     <string name="menu_settings">Налады</string>
@@ -760,7 +686,6 @@
     <string name="message_body_load_set_description">Загружаць пошту, калі выкарыстоўваецца мабільная перадача даных</string>
     <string name="message_compose_insert_quick_response_list_title">Уставіць хуткі адказ</string>
     <string name="message_decode_error">Не атрымалася раскадаваць паведамленне</string>
-    <string name="message_details_title">Інфармацыя пра паведамленне</string>
     <string name="message_discarded">Чарнавік скасаваны</string>
     <string name="message_invite_accept">Так</string>
     <string name="message_invite_calendar_view">Паглядзець у календары</string>
@@ -771,7 +696,6 @@
     <string name="message_invite_state_decline">Адхілена</string>
     <string name="message_invite_state_tentative">Чаканне</string>
     <string name="message_invite_tentative">Магчыма</string>
-    <string name="message_invite_title">Запрашэнне календара</string>
     <string name="message_saved">Паведамленне захавана як чарнавік.</string>
     <string name="message_view_attachment_background_load">Прымацаванні ў пераадрасаваным паведамленні будуць запампаваныя перад адпраўкай.</string>
     <string name="mi_sync_erroe_toast">"Памылка далучэння да сеткі: "</string>
@@ -783,12 +707,10 @@
     <string name="mibill_privacy_policy_title">Аўтаматычнае кіраванне плацяжамі</string>
     <string name="min_payment_text">Мінімальная плата</string>
     <string name="modify_contact_address">Змяніць адрас кантакту эл. пошты</string>
-    <string name="more_context">Больш</string>
     <string name="move_to_selection_dialog_title">Перамясціць у іншую папку</string>
     <string name="multiple_new_message_notification_item"><b>%1$s</b>"   %2$s"</string>
     <string name="mute">Адключыць гук</string>
     <string name="navigation_menu">Меню навігацыі</string>
-    <string name="need_get_qq_mail">Патрабуецца QQ Mail</string>
     <string name="network_error">Няма злучэння</string>
     <string name="network_invaild">Немагчыма падлучыцца да сеткі</string>
     <string name="network_not_available">Немагчыма злучыцца з сеткай</string>
@@ -805,15 +727,12 @@
     <string name="no_contacts">Няма кантактаў.</string>
     <string name="no_content_in_body">[No Body]</string>
     <string name="no_conversations">Няма паведамленняў</string>
-    <string name="no_filtrable_email_account">Няма акаўнтаў для фільтрацыі</string>
     <string name="no_img_application_found">Не атрымалася выявіць праграму для прагляду гэтай выявы</string>
     <string name="no_img_application_found_title">Не ўдаецца адкрыць гэтую выяву</string>
     <string name="no_mails">Няма пошты.</string>
     <string name="no_matched_attachment">Няма вынікаў.</string>
     <string name="no_more_mail">Больш няма паведамленняў</string>
     <string name="no_open_smime_toast">Спачатку дадайце сертыфікат S/MIME</string>
-    <string name="no_recognize_describe">"Не атрымалася знайсці Email-лісты, якія змяшчаюць квіткі ці замовы.
-Паспрабуйце іншую паштовую скрыню."</string>
     <string name="no_search_results">Шукаць на серверы</string>
     <string name="not_set">Не зададзена</string>
     <string name="not_subject">(Без тэмы)</string>
@@ -826,7 +745,6 @@
     <string name="notification_action_undo_archive">Архівавана</string>
     <string name="notification_action_undo_delete">Выдалена</string>
     <string name="notification_action_undo_remove_label">Пазнака выдалена</string>
-    <string name="notification_exchange_calendar_added">Дададзены каляндар Exchange</string>
     <string name="notify_channel_new_mail">Апавяшчаць пра новыя паведамленні</string>
     <string name="notify_channel_no_disterb">Рэжым \"Не турбаваць\"</string>
     <string name="notify_channel_permission_notice">Неабходныя дазволы</string>
@@ -847,7 +765,6 @@
     <string name="oauth_gmail_login_notify">Увядзіце імя карыстальніка і пароль акаўнта Google на наступнай старонцы ўваходу.</string>
     <string name="oauth_login_continue">Працягнуць</string>
     <string name="oauth_login_continue_qq">Атрымаць код доступу і ўвайсці ў ></string>
-    <string name="oauth_login_usr_proxy">Увайсці з дапамогай проксі</string>
     <string name="obtain_new_auth_code">Атрымаць новы код</string>
     <string name="ok">OК</string>
     <string name="okay_action">Ados</string>
@@ -893,7 +810,6 @@
     <string name="over_sixteen">Мне споўнілася 16 гадоў.</string>
     <string name="parase_setup_data">Атрыманне дадзеных…</string>
     <string name="parse_bill_discribe">Апрацоўка рахункаў крэдытнай карткі…</string>
-    <string name="parse_recognize_describe">Аналіз эл. пошты…</string>
     <string name="password_expire_warning_content_title">Сыходзіць тэрмін дзеяння пароля блакавання экрана</string>
     <string name="password_expire_warning_dialog_content_fmt">Вы павінны змяніць свой PIN-код або пароль блакавання экрана бліжэйшым часам, інакш даныя акаўнта %s будуць выдалены. Змяніць яго цяпер?</string>
     <string name="password_expire_warning_dialog_title">Сыходзіць тэрмін дзеяння пароля блакавання экрана</string>
@@ -903,16 +819,6 @@
     <string name="password_expired_dialog_content_fmt">Даныя акаўнта %s сціраюцца з вашай прылады. Вы можаце аднавіць іх, змяніўшы PIN-код або пароль блакавання экрана. Змяніць зараз?</string>
     <string name="password_expired_dialog_title">Тэрмін дзеяння пароля блакавання экрана сышоў</string>
     <string name="password_expired_ticker">Тэрмін дзеяння вашага PIN-кода або пароля блакавання экрана сышоў.</string>
-    <string name="path_about_account_setting">Пошта/Налады/Акаўнты</string>
-    <string name="path_about_add_account">Пошта/Налады/Дадаць акаўнт</string>
-    <string name="path_about_battery_saver">Пошта/Налады/Энергазберажэнне</string>
-    <string name="path_about_confirm_before_delete">Пошта/Налады/Пацвердзіць перад выдаленнем</string>
-    <string name="path_about_confirm_before_send">Пошта/Налады/Пацвердзіць перад адпраўкай</string>
-    <string name="path_about_conversation_view">Пошта/Налады/Праглядзець гутарку</string>
-    <string name="path_about_delete_message_flow">Пошта/Налады/Выдаліць гутарку</string>
-    <string name="path_about_email_setting">Пошта/Налады</string>
-    <string name="path_about_send_feed_back">Пошта/Налады/Адправіць водгук</string>
-    <string name="path_about_upload_logs">Пошта/Налады/Загрузіць журналы</string>
     <string name="perference_change_pw_notnull_tips">Увядзіце пароль</string>
     <string name="perference_change_pw_ok_tips">Пароль зменены</string>
     <string name="perference_setup_pop_del">Выдаліць пошту з сервера</string>
@@ -928,19 +834,15 @@
     <string name="personal_data_collection_summary">Калі перамыкач уключаны, вы згаджаецеся з тым, што мы можам збіраць вашыя асабістыя дадзеныя. Вы можаце ў любы час адключыць яго, адклікаць дазвол і выдаліць свае дадзеныя з нашых сервераў.</string>
     <string name="personal_data_collection_title">Дазволіць збор асабістых дадзеных</string>
     <string name="phone">тэлефонам</string>
-    <string name="photo_load_failed">Не атрымалася загрузіць выяву</string>
     <string name="photo_view_count">%1$d/%2$d</string>
     <string name="pl_select_age">Пазначце ўзрост</string>
-    <string name="please_fill_in_your_mailbox_information2">Увядзіце дадзеныя вашай паштовай скрыні</string>
     <string name="pls_parse_bill_discribe">"Аналізуйце рахункі і інфармацыю пра падарожжы ў вашай электроннай пошце,
 каб атрымліваць напамінкі пра плацяжы і паездкі"</string>
     <string name="policy_app_blacklist">Забараніць указаныя праграмы</string>
     <string name="policy_app_whitelist">Дазволіць толькі ўказаныя праграмы</string>
     <string name="policy_bluetooth_restricted">Абмежаваць выкарыстанне Bluetooth</string>
-    <string name="policy_calendar_age">Абмежаваць колькасць сінхранізаваных падзей календара</string>
     <string name="policy_dont_allow_attachments">Не дазваляць прымацаванні</string>
     <string name="policy_dont_allow_browser">Не выкарыстоўваць браўзэры</string>
-    <string name="policy_dont_allow_camera">Блакаваць выкарыстанне камеры гэтай прылады</string>
     <string name="policy_dont_allow_consumer_email">Не дазваляць рэкламныя Email-лісты</string>
     <string name="policy_dont_allow_html">Не дазваляць Email-лісты фармата HTML</string>
     <string name="policy_dont_allow_internet_sharing">Не дазваляць агульны доступ да Інтэрнэту</string>
@@ -952,28 +854,19 @@
     <string name="policy_dont_allow_unsigned_installers">Не дазваляць усталёўваць непадпісаныя праграмы</string>
     <string name="policy_dont_allow_wifi">Не выкарыстоўваць WLAN</string>
     <string name="policy_dont_allow_wifi_inter">Не дазваляць выкарыстоўваць Wi-Fi</string>
-    <string name="policy_email_age">Абмежаваць колькасць сінхранізаваных электронных лістоў</string>
     <string name="policy_html_truncation">Абмежаваць памер Email-ліста фармата HTML</string>
-    <string name="policy_password_expiration">Усталяваць тэрміны дзеяння пароляў</string>
-    <string name="policy_password_history">Абмежаваць паўторнае выкарыстанне нядаўніх пароляў</string>
     <string name="policy_require_encryption">Патрабаваць шыфраванне прылады</string>
     <string name="policy_require_manual_sync_roaming">Дазволіць толькі ручную сінхранізацыю ў роўмінгу</string>
-    <string name="policy_require_password">Патрабаваць пароль прылады</string>
     <string name="policy_require_sd_encryption">Патрабаваць шыфраванне SD-карты</string>
     <string name="policy_require_smime">Патрабаваць паведамленні ў фармаце SMIME</string>
-    <string name="policy_screen_timeout">Патрабаваць блакавання экрана для бяздзейнай прылады</string>
     <string name="policy_text_truncation">Абмежаваць памер тэксту Email-ліста</string>
     <string name="pop3_name">POP3</string>
     <string name="preference_copied">\"%1$s\": скапіравана ў буфер абмену.</string>
     <string name="preference_eas_tips">Націсніце “Актываваць”, каб наладзіць паштовы сервер.</string>
     <string name="preference_imap_tips" />
     <string name="preference_pop_tips">Пры выкарыстанні пратакола POP3 прымацаванні электронных лістоў будуць спампоўвацца аўтаматычна. Гэта можа павялічыць выкарыстанне мабільнай перадачы даных.</string>
-    <string name="preference_sender_image_description">Паказваць выяву профілю побач з імем адпраўніка ва Уваходных</string>
-    <string name="preference_sender_image_title">Паказваць выяву профілю ва Уваходных</string>
     <string name="preferences_signature_dialog_title">Подпіс</string>
-    <string name="preferences_signature_summary_not_set">Не ўсталявана</string>
     <string name="preferences_signature_title">Подпіс</string>
-    <string name="preview_attachment">Папярэдні прагляд</string>
     <string name="previous_action">Назад</string>
     <string name="print">Друк</string>
     <string name="print_scheduler_title">Друк усіх планавальнікаў</string>
@@ -982,7 +875,6 @@
     <string name="privacy_setting_agree">Згадзіцца</string>
     <string name="prompt_title">Запыт</string>
     <string name="protocol_setting_toast">Калі вы згодны, націсніце на правы верхні кут, каб перайсці да налад</string>
-    <string name="pull_load_more">Пацягніце ўніз, каб загрузіць больш</string>
     <string name="pull_to_refresh">Пацягніце ўніз, каб абнавіць</string>
     <string name="push_wps_better_confirm_download">Спампаваць</string>
     <string name="push_wps_better_confirm_exit">Іншыя праграмы</string>
@@ -1003,26 +895,17 @@
     <string name="qq_bar_open_imap">Дапамога</string>
     <string name="qq_bar_send_message">Адпраўка SMS</string>
     <string name="qq_changepw_dialog_tips">Атрымаць новы код ад %s для ўваходу ў сістэму.</string>
-    <string name="qq_login_basecode">Уваход у вэб-пошту QQ. Увядзіце незалежны пароль.</string>
-    <string name="qq_login_get_auth">Уключыце абарону паролем, калі вы не можаце атрымаць SMS</string>
     <string name="qq_login_help_bottom_tip">"Калі вы забыліся свой пароль ці павінны праверыць статус свайго акаўнта, скарыстайцеся вэб-версіяй QQ Mail. Вы таксама можаце атрымаць дапамогу ў WeChat: "</string>
     <string name="qq_login_help_details1">1. Пароль QQ можна выкарыстоўваць, калі ў пратаколах IMAP/Exchange не быў усталяваны незалежны пароль або код аўтарызацыі.</string>
     <string name="qq_login_help_details2">2. Незалежны пароль можа быць выкарыстаны, калі ў пратаколах IMAP/Exchange не быў усталяваны код аўтарызацыі.</string>
     <string name="qq_login_help_details3">"3. Коды аўтарызацыі, створаныя для старонніх кліентаў эл. пошты, таксама могуць быць выкарыстаны для ўваходу ў сістэму. Калі вы забыліся свой код, звярніцеся да гэтай спасылкі: "</string>
     <string name="qq_login_help_title">QQ/Незалежны пароль/Код аўтарызацыі:</string>
     <string name="qq_login_notice">Заўвага: Калі вы ўжо ўсталявалі пароль, то трэба будзе пацвердзіць яго пры ўваходзе ў сістэму.</string>
-    <string name="qq_login_open_imap">Націсніце \"Дапамога\", каб уключыць IMAP/SMTP</string>
-    <string name="qq_login_origin_setting">Увядзіце імя карыстальніка і пароль, каб увайсці ў ></string>
-    <string name="qq_login_send_message">Націсніце «Адправіць SMS», каб атрымаць код пацверджання</string>
     <string name="qq_login_sent_setting">Сінхранізаваць адпраўленыя паведамленні</string>
-    <string name="qq_login_webview">Уваход у вэб-кліент QQ, націсніце Ўвайсці з выкарыстаннем пароля.</string>
-    <string name="qq_next_generation_auth_toast">Уключыце абарону паролем у вашым браўзэры</string>
     <string name="qq_pwd_or_qq_auth_code">Увядзіце код</string>
     <string name="qq_sent_no_message">Не можаце знайсці адпраўленыя паведамленні? Націсніце тут для прагляду даступных дзеянняў.</string>
     <string name="qq_sent_no_message_setting">Сінхранізаваць паведамленні, адпраўленыя з QQ Mail</string>
     <string name="qq_uthentication_failed">Не атрымалася праверыць акаўнт, увайдзіце яшчэ раз</string>
-    <string name="qq_verify_code">(Патрабуецца код пацверджання ад QQ)</string>
-    <string name="qq_webview_loading">Хвілінку…</string>
     <string name="questionnair_body_invisibility">Паведамленні не адлюстраваны</string>
     <string name="questionnair_confirm_delete">Выдаліць акаўнт?</string>
     <string name="questionnair_instability">Частыя збоі</string>
@@ -1038,9 +921,6 @@
     <string name="quick_4">Давайце сустрэнемся, каб абмеркаваць гэта.</string>
     <string name="quick_reply_dialog_title">Выберыце адказ</string>
     <string name="quick_reply_expend">Больш</string>
-    <string name="quick_reply_hint_bcc">(Да ўтоеных копій)</string>
-    <string name="quick_reply_hint_cc">(у копію)</string>
-    <string name="quick_reply_hint_reply_only_from">Хуткі адказ (толькі адпраўніку)</string>
     <string name="quick_responses_empty_view">Няма шаблонаў хуткіх адказаў</string>
     <string name="quoted_text">Уключаючы цытуемы тэкст</string>
     <string name="quoted_text_label">Цытаваць тэкст</string>
@@ -1049,38 +929,11 @@
     <string name="read_string">гутарка прачытаная</string>
     <string name="recipient_needed">Дадайце як мінімум 1 атрымальніка.</string>
     <string name="recipient_needed_title">Папярэдзіць</string>
-    <string name="recognize_hotel_check_in_date">Час заезду</string>
-    <string name="recognize_hotel_hotel_money">Кошт %1$s</string>
-    <string name="recognize_hotel_notification_content">Прыемнага адпачынку!</string>
-    <string name="recognize_hotel_notification_title">Вы замовілі пакой у %1$s, пачынаючы з %2$s.%3$s. Двойчы праверце свой заказ перад прыбыццём туды.</string>
-    <string name="recognize_hotel_order_money">Агулам</string>
-    <string name="recognize_hotel_other_money">Іншыя выдаткі %1$s</string>
-    <string name="recognize_hotel_reverse_date">Зарэгіструйцеся да %1$s:%2$s %3$s</string>
-    <string name="recognize_hotel_room_type">Пакой</string>
-    <string name="recognize_hotel_room_type_value">%1$s × %2$s</string>
-    <string name="recognize_hotel_title">Замова гатэля</string>
-    <string name="recognize_hotel_user_names">Госць</string>
-    <string name="recognize_hotel_user_names_value">%1$s+%2$s</string>
-    <string name="recognize_setting_title">Налады падарожжа</string>
-    <string name="recognize_ticket_air_notification_content">Прыемнага палёту!</string>
-    <string name="recognize_ticket_air_notification_title">Рэйс %3$s (%1$s.%2$s) хутка адляціць. Двойчы праверце інфармацыю пра свой рэйс.</string>
-    <string name="recognize_ticket_air_state_stopover">Прыпынак на шляху</string>
-    <string name="recognize_ticket_air_state_transfer">Перасадка</string>
-    <string name="recognize_ticket_air_user_name">Пасажыр: %1$s</string>
-    <string name="recognize_ticket_title">Квіткі на самалёт &amp; цягнік</string>
-    <string name="recognize_ticket_train_alter">Зменена</string>
-    <string name="recognize_ticket_train_depart_date">Адпраўленне %1$s.%2$s а %3$s:%4$s</string>
-    <string name="recognize_ticket_train_notification_content">У добры шлях!</string>
-    <string name="recognize_ticket_train_notification_title">Цягнік %3$s (%1$s.%2$s) хутка адыдзе. Двойчы праверце свой квіток.</string>
-    <string name="recognize_ticket_train_return">Вернута</string>
-    <string name="recognize_ticket_train_user_name">Пасажыр: %1$s</string>
-    <string name="recognize_title">Інфармацыя пра падарожжа</string>
     <string name="recommend_protocal">Рэкамендацыі па выкарыстанню пратакола</string>
     <string name="reduce_the_receiving_frequencye_summary">Сінхранізаваць Уваходныя радзей, пакуль уключаны рэжым \"Не турбаваць\"</string>
     <string name="reduce_the_receiving_frequencye_title">Сінхранізаваць радзей</string>
     <string name="refresh">Абнавіць</string>
     <string name="refreshing">Абнаўленне…</string>
-    <string name="refreshing_done">Зроблена</string>
     <string name="release_to_refresh">Адпусціце, каб абнавіць</string>
     <string name="remind_attachment_size_limit">Вашыя лісты павінны быць меншымі за %sМБ</string>
     <string name="reminder">Нагадванне</string>
@@ -1103,14 +956,10 @@
     <string name="respond_inline">"   Уставіць ў тэкст"</string>
     <string name="retry_login">Увайсці зноў</string>
     <string name="save_action">Захаваць</string>
-    <string name="save_attachment">Захаваць</string>
     <string name="save_draft_failed">Захаваць чарнавік не ўдалося</string>
     <string name="save_power_summary">Усталяваць час эканоміі энергіі</string>
     <string name="save_power_title">Энергазахаванне</string>
-    <string name="save_this_new_signature">Захаваць новы подпіс?</string>
     <string name="saved">Захавана,  %s</string>
-    <string name="saving">Захаванне…</string>
-    <string name="sdcard_cannot_use">Немагчыма выкарыстаць SD-карту</string>
     <string name="search_bar_text">Пошук адпраўнікаў або кантактаў</string>
     <string name="search_hint">Пошук пошты</string>
     <string name="search_menu_title">Пошук</string>
@@ -1121,10 +970,7 @@
     <string name="search_tabs_name_sender">Адпраўнік</string>
     <string name="search_tabs_name_subject">Тэма</string>
     <string name="search_txt_size_limit_prompt">Пошукавы запыт павінен утрымліваць больш за 3 сімвалы</string>
-    <string name="security_changed_ticker_fmt">Акаўнт \"%s\" змяніў свае параметры бяспекі; ніякіх дзеянняў ад карыстальніка не патрабуецца.</string>
     <string name="security_needed_ticker_fmt">Акаўнт \"%s\" патрабуе абнавіць параметры бяспекі.</string>
-    <string name="security_notification_content_change_title">"Палітыка бяспекі
-         зменена"</string>
     <string name="security_notification_content_unsupported_title">"Патрабаванні бяспекі не могуць быць
          выкананы"</string>
     <string name="security_notification_content_update_title">Патрабуецца абнаўленне сістэмы бяспекі</string>
@@ -1137,9 +983,6 @@
     <string name="send_encrypt_dialog_fail_content">У атрымальніка няма праверанага сертыфіката, неабходнага для расшыфроўкі гэтага email. Адправіць звычайны email?</string>
     <string name="send_encrypt_dialog_fail_title">Немагчыма адправіць зашыфраваны email</string>
     <string name="send_failed">Паведамленне не было адпраўлена.</string>
-    <string name="send_feed_back">Адправіць водгук</string>
-    <string name="send_feed_back_keywords">адправіць водгук</string>
-    <string name="send_mail">Даслаць</string>
     <string name="sender_whitelist_cleared">Выявы не будуць паказаны аўтаматычна.</string>
     <string name="senders_split_token">, </string>
     <string name="sending">Адпраўка…</string>
@@ -1164,7 +1007,6 @@
     <string name="server_cet_cert_issuer">"Пастаўшчык сертыфіката: "</string>
     <string name="server_cet_data">"Тэрмін дзеяння: "</string>
     <string name="server_cet_data_exp">Тэрмін дзеяння гэтага сертыфіката сервера скончыўся.</string>
-    <string name="server_cet_data_to" formatted="false">%s - %s</string>
     <string name="server_cet_domain">"Даменнае імя: "</string>
     <string name="server_cet_error_sug">"Паспрабуйце наступнае:
 1. Падключыцеся да іншай сеткі або перазагрузіце роутер Wi-Fi.
@@ -1197,11 +1039,12 @@
 
 
 %s"</string>
-    <string name="silent_ringtone">Без гуку</string>
     <string name="single_new_message_notification_big_text">"%1$s
 %2$s"</string>
+    <string name="single_new_message_notification_title">%1$s: %2$s</string>
     <string name="smtp_password_error">Няправільны пароль для сервера выходнай пошты</string>
     <string name="sort_attachment">Сартаваць па</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage">Сховішча</string>
     <string name="str_select_all">Выбраць усё</string>
     <string name="str_select_none">Зняць выбар з усіх</string>
@@ -1214,23 +1057,14 @@
     <string name="sync_calendra_fail_permission">Не атрымалася сінхранізаваць падзеі календара. Спачатку прадастаўце Поште доступ да Календара.</string>
     <string name="sync_contacts_fail_per_content">Націсніце, каб дазволіць доступ да кантактаў</string>
     <string name="sync_contacts_fail_per_title">Не атрымалася сінхранізацыя кантактаў</string>
-    <string name="sync_contacts_fail_permission">Не атрымалася сінхранізацыя кантактаў, дазвольце праграме Пошта доступ да вашых кантактаў у меню Налады</string>
     <string name="sync_contacts_req_per_ignored">Дазвольце праграме Пошта доступ да вашых кантактаў для сінхранізацыі</string>
     <string name="sync_error">Не атрымалася сінхранізаваць.</string>
     <string name="sync_error_message">Недастаткова месца ў сховішчы прылады для сінхранізацыі.</string>
-    <string name="sync_failed_mi_authority_view_detail">Падрабязнасці</string>
     <string name="sync_question_feed">Паведаміць аб праблеме сінхранізацыі</string>
     <string name="sync_upload_question">Водгук</string>
     <string name="syncing_wait_restart">Паспрабаваць ізноў</string>
     <string name="syncing_wait_restart_title">Перавышаны час чакання</string>
     <string name="system_account_create_failed">Не атрымалася стварыць акаўнт. Паўтарыць.</string>
-    <string name="system_folders_sent_dlg">Выберыце папку \"Адпраўленыя\" на вашым серверы</string>
-    <string name="system_folders_sent_summary">Выберыце папку \"Адпраўленыя\" на вашым серверы</string>
-    <string name="system_folders_sent_title">Папка \"Адпраўленыя\"</string>
-    <string name="system_folders_title">Сыстэмныя папкі</string>
-    <string name="system_folders_trash_dlg">Выберыце папку \"Сметніца\" на вашым серверы</string>
-    <string name="system_folders_trash_summary">Выберыце папку \"Сметніца\" на вашым серверы</string>
-    <string name="system_folders_trash_title">Сметніца</string>
     <string name="system_root_path">Налады ўнутранага сховішча</string>
     <string name="system_security_open_error">Каб рэгуляваць параметры бяспекі, надайце праграме Пошта неабходныя дазволы ў Наладах</string>
     <string name="system_setup_open_error">Уключыце сінхранізацыю пошты ў Наладах</string>
@@ -1291,18 +1125,14 @@
     <string name="unknow">Невядома</string>
     <string name="unread_string">гутарка не прачытаная</string>
     <string name="unzip_file_failed">Не атрымалася распакаваць файл</string>
-    <string name="update_date_format_templete">HH:mm aa, d MMMM</string>
     <string name="update_domain_summary">Абнавіце спіс даступных даменаў і канфігурацый</string>
     <string name="update_domain_title">Абнавіце налады дамена</string>
-    <string name="updated_at">Апошняе абнаўленне: %1$s</string>
     <string name="upload_log">Даслаць</string>
     <string name="upload_log_failed">Не атрымалася даслаць журналы</string>
     <string name="upload_log_no">Скасаваць</string>
     <string name="upload_log_success">Адпраўлена паспяхова, мы звяжамся з вамі ў бліжэйшы час.</string>
     <string name="upload_log_title">Дасылайце журналы памылак, каб дапамагчы нам палепшыць Пошту</string>
     <string name="upload_log_yes">Даслаць</string>
-    <string name="upload_logs">Загрузіць журналы</string>
-    <string name="upload_logs_keywords">загрузіць журналы</string>
     <string name="uploading_logs">Секундачку…</string>
     <string name="user_new_auth_code">Выкарыстоўвайце новы код для ўваходу</string>
     <string name="user_privacy_settings">Налады прыватнасці</string>
@@ -1312,14 +1142,12 @@
     <string name="user_privacy_settings_title">Палажэнне аб прыватнасці Пошты</string>
     <string name="v7_preference_off">ВЫКЛ.</string>
     <string name="v7_preference_on">УКЛ.</string>
-    <string name="validation_failed_prompt">Немагчыма спраўдзіць акаўнт, праверце налады сервера %s</string>
     <string name="veiled_address" />
     <string name="veiled_alternate_text" />
     <string name="veiled_alternate_text_unknown_person" />
     <string name="veiled_summary_unknown_person" />
     <string name="verify_code">Код пацверджання</string>
     <string name="version_string">Версія: %s</string>
-    <string name="via_domain">праз %1$s</string>
     <string name="view_more_conversations">Паглядзець іншыя гутаркі</string>
     <string name="wait_for_manual_sync_body">"Гэты акаўнт не настроены на аўтаматычную сінхранізацыю.
 Націсніце "<b>Сінхранізаваць зараз</b>, каб сінхранізаваць пошту, або <b>Змяніць налады сінхранізацыі</b>, каб наладзіць гэты акаўнт на аўтаматычную сінхранізацыю пошты.</string>
@@ -1335,13 +1163,9 @@
     <string name="widget_large_unread_count">%d+</string>
     <string name="widget_other_views">Іншае</string>
     <string name="wipe_account_fail_description">Дазволіць</string>
-    <string name="wipe_account_fail_description_remind">"Пасля выдалення акаўнта, з-за абмежаванняў на выкарыстанне даных, у Календары і Кантактах могуць заставацца рэшткавыя даныя. Выдаліце гэтыя аб'екты ўручную."</string>
     <string name="wipe_account_fail_title">Не атрымалася выдаліць асабістыя дадзеныя</string>
-    <string name="wps_title">WPS Mail</string>
     <string name="wrong_password">Уведзены няправільны пароль</string>
-    <string name="xiaomi_auth_toastbar">Увайдзіце, каб аўтарызаваць вашу прыладу</string>
     <string name="xiaomi_email">Пошта</string>
-    <string name="xiaomi_under_certification">Аўтарызацыя…</string>
     <string name="yes">Так</string>
     <string name="you_are_in_mobile_network">Выкарыстаць мабільную перадачу даных для запампоўкі журналаў?</string>
     <string name="youfuli">Рэклама</string>

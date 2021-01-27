@@ -54,6 +54,7 @@
     <string name="dual_app_title">Кланаванне праграм</string>
     <string name="dual_app_words">Кожнаму акаўнту патрэбна ўласная праграма</string>
     <string name="early_morning">Раніца</string>
+    <string name="empty">" "</string>
     <string name="eras_ad">н. э.</string>
     <string name="eras_bc">до н. э.</string>
     <string name="evening">Поўдзень</string>
@@ -161,8 +162,14 @@
     <string name="gb_advance_settings_vibration_4d_summary">Вібраваць падчас страляніны ў гульнях</string>
     <string name="gb_advance_settings_vibration_4d_summary2">Вібраваць падчас забойстваў у гульнях</string>
     <string name="gb_alipays_can_not_complete">Не атрымалася завяршыць аплату. Усталюйце для працягу.</string>
+    <string name="gb_dialog_game_speed_close">Адключэнне рэжыму «Хуткасць святла»…</string>
+    <string name="gb_dialog_game_speed_exist">Вы можаце выкарыстоўваць толькі адну гульню ў рэжыме «Хуткасць святла». Замяніць \"%s\"?</string>
     <string name="gb_game_control">Налады графікі</string>
     <string name="gb_game_settings">Дадатковыя налады</string>
+    <string name="gb_game_speed_closed">Рэжым «Хуткасць святла» адключаны</string>
+    <string name="gb_game_speed_closed_fail">Не атрымалася адключыць рэжым «Хуткасць святла»</string>
+    <string name="gb_game_speed_open">Уключаны рэжым «Хуткасць святла»</string>
+    <string name="gb_game_speed_open_fail">Не атрымалася ўключыць рэжым «Хуткасць святла»</string>
     <string name="gb_gpu_control_anisotropic_filtering">Анізатропнае фільтраванне</string>
     <string name="gb_gpu_control_anti_aliasing">Згладжванне</string>
     <string name="gb_gpu_control_fps">Частата кадраў</string>
@@ -191,6 +198,7 @@
     <string name="gb_pannel_control_mode_power_saving">Эканоміць энергію</string>
     <string name="gb_weixinpay_can_not_complete">Не атрымалася завяршыць аплату. Усталюйце для працягу.</string>
     <string name="gdpr_msg">&lt;Data>Для таго каб выкарыстоўваць асноўныя функцыі Бяспекі, вы павінны пагадзіцца, што Xiaomi будзе збіраць, апрацоўваць і выкарыстоўваць вашы асабістыя дадзеныя, уключаючы інфармацыю пра спосабы выкарыстання функцый Бяспекі (напрыклад, статыстыка мабільнага трафіку, інфармацыя аб шкоднасных праграмах, а таксама асноўная інфармацыя пра прыладу) і іншыя тыпы інфармацыі, якія вызначае наша &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Палітыка прыватнасці&lt;/a>.&lt;/Data></string>
+    <string name="install_success">%s Install Success</string>
     <string name="lucky_result_title">Чырвоныя канверты</string>
     <string name="main_toolbar_purchase">Папоўніць</string>
     <string name="midnight">Ноч</string>
@@ -263,6 +271,7 @@
     <string name="saturday_shortest">Суб</string>
     <string name="search_menu_title">Пошук</string>
     <string name="share">Падзяліцца</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="sunday">Нядзеля</string>
     <string name="sunday_short">Ндз</string>
     <string name="sunday_shortest">Ндз</string>
@@ -341,6 +350,9 @@
     <string name="title_share_link">Падзяліцца спасылкай</string>
     <string name="today">Сёння</string>
     <string name="tomorrow">Заўтра</string>
+    <string name="tool_box_active_loading">Хвілінку…</string>
+    <string name="tool_box_active_no_networ">Не атрымалася падлучыцца да сеткі</string>
+    <string name="tool_box_active_reload">Аднавіць</string>
     <string name="tuesday">Аўторак</string>
     <string name="tuesday_short">Аўт</string>
     <string name="tuesday_shortest">Аўт</string>

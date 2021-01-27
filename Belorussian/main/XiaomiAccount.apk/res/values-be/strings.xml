@@ -47,7 +47,7 @@
     <string name="account_has_been_set">Змяніць</string>
     <string name="account_invalid_user_avatar">Фота недапушчальнае. Паспрабуйце іншае.</string>
     <string name="account_limit_update_birthday">Не атрымліваецца змяніць дату нараджэння</string>
-    <string name="account_mibi_center">Mi Credits</string>
+    <string name="account_mibi_center">Mi Coins</string>
     <string name="account_mibi_charge">Папоўніць</string>
     <string name="account_mipay_info">Mi Pay</string>
     <string name="account_no_set">Няма</string>
@@ -83,7 +83,7 @@ ID вашага акаўнта:%s"</string>
     <string name="activate_email_notice">Актывуйце ваш акаўнт у бліжэйшыя 24 гадзіны</string>
     <string name="activity_not_found_notice">Немагчыма знайсці праграму</string>
     <string name="add_account">Падлучыць акаўнт</string>
-    <string name="agreement_and_privacy">Палітыка прыватнасці і Карыстальніцкае пагадненне</string>
+    <string name="agreement_and_privacy">Умовы і палажэнні</string>
     <string name="app_name">Mi Акаўнт</string>
     <string name="auth_fail_warning">Час сесіі скончыўся, увайдзіце пазней зноў</string>
     <string name="authorize_title">Аўтарызацыя</string>
@@ -204,6 +204,7 @@ ID:%s
     <string name="health_state_not_activated">Не актывавана</string>
     <string name="health_state_not_installed">Не ўсталявана</string>
     <string name="health_state_not_support">Не падтрымліваецца ў гэтай версіі</string>
+    <string name="help_center">Дапамога</string>
     <string name="i_agree">OK</string>
     <string name="i_agree_continue">Згадзіцца</string>
     <string name="identity">Ідэнтыфікацыя</string>
@@ -287,7 +288,7 @@ ID:%s
     <string name="passport_checking_input">Праверка дадзеных…</string>
     <string name="passport_click_email_to_valid">Каб актываваць свой акаўнт перайдзіце па спасылцы, дасланай па электроннай пошце.</string>
     <string name="passport_completed">Завяршыць</string>
-    <string name="passport_confirm_login">Працягнуць</string>
+    <string name="passport_confirm_login">Увайсці</string>
     <string name="passport_confirm_recycle_account">Так</string>
     <string name="passport_confirm_recycle_account_msg">&lt;font color=Red>Падобна на тое,&lt;/font> што нумар %s быў выкарыстаны паўторна, і існуе Mi Акаўнт звязаны з ім. Гэта ваш акаўнт?</string>
     <string name="passport_continue">Працягнуць</string>
@@ -325,7 +326,7 @@ ID:%s
     <string name="passport_error_verify_activator_phone_title">Не атрымалася праверыць нумар тэлефона</string>
     <string name="passport_failed_to_send_activate_email">Не атрымліваецца даслаць ліст актывацыі</string>
     <string name="passport_find_password_on_web_msg">Наведайце account.mi.com каб змяніць свой пароль.</string>
-    <string name="passport_first_login_prompt">Mi акаўнт будзе створаны аўтаматычна пры першым уваходзе ў сістэму.</string>
+    <string name="passport_first_login_prompt">Mi акаўнт будзе створаны аўтаматычна пры першым выкарыстанні тэлефоннага нумара.</string>
     <string name="passport_forget_password"><u>Забылі пароль?</u></string>
     <string name="passport_forget_password_no_underline">Забылі пароль?</string>
     <string name="passport_get_back_pwd">Аднавіць пароль ад акаўнта</string>
@@ -440,8 +441,8 @@ ID:%s
     <string name="passport_setting">Наладка…</string>
     <string name="passport_skip_login">Прапусціць</string>
     <string name="passport_skip_register">Прапусціць рэгістрацыю</string>
-    <string name="passport_skip_setup_account_msg">Вы можаце настроіць Мі Акаўнт пазней у Наладах.</string>
-    <string name="passport_skip_setup_account_title">Не выкарыстоўваць Xiaomi Cloud?</string>
+    <string name="passport_skip_setup_account_msg">Уваход у Mi акаўнт Mi дазваляе выкарыстоўваць сэрвісы Xiaomi Cloud. Усё роўна прапусціць гэты крок?</string>
+    <string name="passport_skip_setup_account_title">Mi акаўнт і Xiaomi Cloud</string>
     <string name="passport_sms_send_success">Дасланы</string>
     <string name="passport_sms_verification_code_login">Увайсці з дапамогай SMS</string>
     <string name="passport_sms_verification_code_login_or_register">Увайсці ці стварыць акаунт праз SMS</string>
@@ -567,7 +568,7 @@ ID:%s
     <string name="update_email_address_dialog_title">Абнавіць Email</string>
     <string name="update_phone_notice">Налады бяспекі</string>
     <string name="update_phone_number_notice_message">Вы павінны пацвердзіць сваю асобу перад змяненнем нумара тэлефона.</string>
-    <string name="used_cloud_storage_info">Занята месца ў сховішчы %s</string>
+    <string name="used_cloud_storage_info">Выкарыстана %s</string>
     <string name="user_avatar_update_title">Змяніць фота профілю</string>
     <string name="user_avatar_uploading">Хвілінку…</string>
     <string name="v7_preference_off">ВЫКЛ.</string>

@@ -65,6 +65,10 @@
     <string name="about">Даведка</string>
     <string name="action_settings">Налады</string>
     <string name="ad_install">Усталяваць</string>
+    <string name="add_download_download">Спампавана</string>
+    <string name="add_download_error_not_support">Гэтая спасылка не падтрымліваецца</string>
+    <string name="add_download_text_hint">Увядзіце спасылку HTTP/HTTPS</string>
+    <string name="add_download_title">Дадаць URL</string>
     <string name="all_downloads">Усе спампоўкі</string>
     <string name="all_fileter">Усе</string>
     <string name="all_share_files_content">Выбраныя файлы ўжо выдалены.</string>
@@ -89,6 +93,8 @@
     <string name="dialog_btn_cancel">Скасаваць</string>
     <string name="dialog_btn_ok">OK</string>
     <string name="dialog_btn_ok_disabled_net">Налады сеткі</string>
+    <string name="dialog_clipboard_permission_message">Дазволіць «Запампоўкам» доступ да дадзеных у буферы абмену для аўтаматычнай ўстаўкі скапіяваных URL-адрасоў?</string>
+    <string name="dialog_clipboard_permission_title">Патрабуюцца дазволы</string>
     <string name="dialog_confirm_delete_checkbox_message">Выдаліць таксама лакальныя файлы</string>
     <string name="dialog_confirm_delete_the_download_item_message">Выдаліць выбраныя спампоўкі</string>
     <string name="dialog_file_missing_title">Немагчыма адкрыць файл</string>
@@ -124,19 +130,13 @@
     <string name="download_when_network_connected">Спампоўваць, выкарыстоўваючы мабільны інтэрнэт</string>
     <string name="downloaded">Спампоўка завершана</string>
     <string name="downloaded_empty">Пуста</string>
+    <string name="downloaded_tab_hint">"Загружаныя аб'екты даступныя ў Мэнэджару файлаў"</string>
     <string name="downloading">Спампоўка…</string>
     <string name="downloading_empty">Пуста</string>
     <string name="downloads_operating">Апрацоўка…</string>
-    <string name="durationDayHour">%1$d дзень %2$d г</string>
-    <string name="durationDayHours">%1$d дзень %2$d гадз.</string>
-    <string name="durationHourMinute">%1$d г %2$d хв.</string>
-    <string name="durationHourMinutes">%1$d г %2$d хв.</string>
-    <string name="durationMinute">%1$dхв</string>
-    <string name="durationMinuteSecond">%1$d хв. %2$d сек.</string>
-    <string name="durationMinuteSeconds">%1$d хв. %2$d сек.</string>
-    <string name="durationMinutes">%1$d хв</string>
-    <string name="durationSecond">%1$dсек</string>
-    <string name="durationSeconds">%1$d сек</string>
+    <string name="durationDayHours">%1$s %2$s</string>
+    <string name="durationHourMinutes">%1$s %2$s</string>
+    <string name="durationMinuteSeconds">%1$s %2$s</string>
     <string name="editmode_menu_delete">Выдаліць</string>
     <string name="editmode_menu_share">Падзяліцца</string>
     <string name="extend">Яшчэ</string>
@@ -205,10 +205,20 @@
     <string name="pref_download_settings_title">Максімальны памер файла</string>
     <string name="pref_summary_any_bytes_popup">Заўсёды пампаваць файлы толькі пры наяўнасці падлучэння да Wi-Fi</string>
     <string name="pref_summary_enable_max_bytes_popup">Паказваць усплывальныя апавяшчэнні, калі выкарыстоўваецца мабільны інтэрнэт для спампоўкі дадзеных</string>
-    <string name="pref_summary_max_bytes_limit_format">Чакаць Wi-Fi, калі памер файла больш за %s</string>
     <string name="pref_summary_no_limit_popup">Неабмежавана</string>
     <string name="pref_title_enable_max_bytes_popup">Паказаць аператыўнае выкарыстанне дадзеных</string>
     <string name="preferences_title">Налады</string>
+    <string name="privacy_agree_dialog_msg">&lt;Data>Сардэчна запрашаем у Запампоўкі! Вы можаце выкарыстоўваць гэтую праграму для загрузкі файлаў.&lt;BR>Праграме Запампоўкі трэба збіраць неабходную асабістую інфармацыю, каб прадастаўляць вам паслугі, якія генеруюць статыстыку загрузак. Вы можаце даведацца, як мы апрацоўваем інфармацыю, якую збіраем, у нашай &lt;a href=\"%1$s\">Палітыцы прыватнасці&lt;/a>.&lt;BR>Прачытайце нашы &lt;a href=\"%2$s\">Карыстальніцкае пагадненне&lt;/a> і &lt;a href=\"%1$s\">Палітыку прыватнасці&lt;/a> перад выкарыстанне праграмы Запампоўкі.&lt;BR>Вы можаце ў любы момант адклікаць сваю згоду з Палітыкай прыватнасці праграмы Запампоўкі у Наладах. Калі вы не згодныя з нашай Палітыкай прыватнасці, вы не зможаце выкарыстоўваць некаторыя функцыі гэтай праграмы, аднак яе базавая функцыянальнасць па-ранейшаму будзе вам даступная.&lt;/Data></string>
+    <string name="privacy_agree_dialog_title">Умовы і палажэнні</string>
+    <string name="privacy_revoke_dialog_later">Адмена</string>
+    <string name="privacy_revoke_dialog_msg">Выключаючы перамыкач, вы адклікаецца сваю згоду з Палітыкай прыватнасці праграмы \"Запампоўкі\". Мы перастанем збіраць вашу асабістую інфармацыю, а ўжо сабраныя і захаваныя асабістыя дадзеныя будуць выдаленыя на працягу пэўнага перыяду ў адпаведнасці з патрабаваннямі заканадаўства, якое ўжываецца. Праграме \"Запампоўкі\" трэба збіраць неабходную асабістую інфармацыю для прадастаўлення вам паслуг, якія генеруюць статыстыку загрузак. Адкліканне згоды з Палітыкай прыватнасці праграмы будзе разглядацца як адмова прыняць такія паслугі, якія аказваюцца на аснове сабранай асабістай інфармацыі.</string>
+    <string name="privacy_revoke_dialog_ok">Адклікаць</string>
+    <string name="privacy_revoke_dialog_title">Адкліканне згоды</string>
+    <string name="privacy_revoke_label">Адкліканне згоды</string>
+    <string name="privacy_revoke_msg">Выключаючы перамыкач, вы адклікаецца сваю згоду з Палітыкай прыватнасці праграмы \"Запампоўкі\".</string>
+    <string name="privacy_revoke_nonetwork_msg">Ваша прылада павінна падключыцца да сеткі, каб вы змаглі адклікаць згоду. Праверце налады сеткі і паспрабуйце яшчэ раз.</string>
+    <string name="privacy_revoke_nonetwork_ok">Зразумела</string>
+    <string name="privacy_revoke_nonetwork_title">Немагчыма злучыцца з сеткай</string>
     <string name="privacy_tip_cancel">Скасаваць</string>
     <string name="privacy_tip_ok">OK</string>
     <string name="rank">Рэйтынгі</string>
@@ -249,5 +259,4 @@
     <string name="toast_only_wifi_download">"Падключыцеся да Wi-Fi, каб спампаваць гэты аб'ект"</string>
     <string name="total_speedup">Паскарэнне (усяго)</string>
     <string name="version">Версія: %s</string>
-    <string name="security_ui_title">Рэклама ў сферы бяспекі</string>
 </resources>

@@ -236,6 +236,12 @@
         <item quantity="few">Гуляе %1$d людзей</item>
         <item quantity="many">Гуляе %1$d людзей</item>
     </plurals>
+    <plurals name="gb_dialog_game_uninstall_multi_tips_title">
+        <item quantity="other">Выдаліць %2$d гульняў (уключаючы %1$s)</item>
+        <item quantity="one">Выдаліць %2$d гульню (уключаючы %1$s)</item>
+        <item quantity="few">Выдаліць %2$d гульні (уключаючы %1$s)</item>
+        <item quantity="many">Выдаліць %2$d гульняў (уключаючы %1$s)</item>
+    </plurals>
     <plurals name="gb_record_time_title">
         <item quantity="other">%d сек.</item>
         <item quantity="one">%d сек.</item>

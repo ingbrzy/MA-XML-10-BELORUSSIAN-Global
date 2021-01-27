@@ -41,6 +41,7 @@
     <string name="account_unactivated">Акаўнт не актывіраваны</string>
     <string name="ad_app_download_start">Пачынаецца спампоўка…</string>
     <string name="ad_app_is_downloading">Спампоўка…</string>
+    <string name="ad_service">Паказаць рэкламу</string>
     <string name="add_resource_detail_fail">Не атрымалася дадаць рэсурс</string>
     <string name="agreement_desc">Карыстальніцкае пагадненне (абавязкова)</string>
     <string name="alarm_sound">Будзільнік</string>
@@ -163,7 +164,9 @@
     <string name="exo_download_notification_channel_name">Спампоўкі</string>
     <string name="exo_download_removing">Выдаленне спамповак</string>
     <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Мбіт/с</string>
     <string name="exo_track_mono">Мона</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">Аўтаматычна</string>
     <string name="exo_track_selection_none">Няма</string>
     <string name="exo_track_selection_title_audio">Аўдыя</string>
@@ -181,6 +184,7 @@
     <string name="fail_to_add_account">Не атрымалася дадаць акаўнт</string>
     <string name="favorite_list">Абраныя</string>
     <string name="favorite_list_format">Абраныя %1$s</string>
+    <string name="fcm_fallback_notification_channel_label">Рознае</string>
     <string name="find_more">Знайсці яшчэ</string>
     <string name="find_more_theme">Іншыя тэмы</string>
     <string name="find_more_wallpapers">Іншыя шпалеры</string>
@@ -230,6 +234,7 @@
     <string name="incompatible_dialog_ok">Зразумела</string>
     <string name="incompatible_dialog_title">Праблемы сумяшчальнасці</string>
     <string name="is_setting_wallpaper_message">Усталёўка шпалер…</string>
+    <string name="item_resource_audio_divider">│</string>
     <string name="item_resource_audio_optional_alarm_ring">Будзільнікі</string>
     <string name="item_resource_audio_optional_color_ring">Мелодыя выкліку</string>
     <string name="item_resource_audio_optional_notification_ring">Апавяшчэнні</string>
@@ -252,7 +257,8 @@
     <string name="lockscreen_magazine_title">Чаргаванне тэмаў</string>
     <string name="lockscreen_wallpaper">Экран блакіроўкі</string>
     <string name="lockstyle_personal_settings">Наладзіць</string>
-    <string name="login_invalid">Тэрмін сеансу скончыўся</string>
+    <string name="login_invalid">Сесія састарэла. Ўвайдзіце паўторна.</string>
+    <string name="match_theme">Падбор тэм</string>
     <string name="max_usable_themes">99+</string>
     <string name="message">Тэкставае паведамленне</string>
     <string name="message_sim_one">Паведамленне SIM 1</string>
@@ -274,6 +280,7 @@
     <string name="my_gifts">Падарункі</string>
     <string name="my_gifts_purchased">Набыта</string>
     <string name="my_gifts_received">Атрымана</string>
+    <string name="need_permission">Абавязковыя дазволы (для доступу да асноўных функцый і службам гэтай праграмы)</string>
     <string name="no_data">Немагчыма злучыцца з сеткай</string>
     <string name="no_related_font">Нічога не знойдзена</string>
     <string name="no_related_ringtone">Нічога не знойдзена</string>
@@ -291,11 +298,17 @@
     <string name="online_precust_lifestyle">Стыль жыцця</string>
     <string name="online_precust_museum">Брытанскі музей</string>
     <string name="online_precust_plant">Расліна</string>
-    <string name="online_precust_scenery">Пейзажы</string>
+    <string name="online_precust_scenery">Пейзаж</string>
     <string name="online_ringtones">Мелодыі ў сетцы</string>
     <string name="online_search_hint">Пошук анлайн-рэсурсаў</string>
     <string name="online_themes">Тэмы ў сеткі</string>
     <string name="online_wallpapers">Анлайн-шпалеры</string>
+    <string name="ota_theme_default_push_content">Паспрабуйце нешта новае</string>
+    <string name="ota_theme_default_push_title">Надакучыла тэма па змаўчанні?</string>
+    <string name="ota_theme_new_push_content">Надайце сваёй прыладзе новае аблічча</string>
+    <string name="ota_theme_new_push_title">Паспрабуйце абсалютна новыя тэмы MIUI 12</string>
+    <string name="personal_recommend_desc">Атрымліваць рэкамендацыі, заснаваныя на вашых перавагах.</string>
+    <string name="personal_recommend_title">Асабістыя рэкамендацыі</string>
     <string name="phone_ringtone">Мелодыя</string>
     <string name="popular_themes">Папулярныя тэмы</string>
     <string name="popular_wallpapers">Папулярныя шпалеры</string>
@@ -322,6 +335,7 @@
     <string name="rank_one">1.%s</string>
     <string name="rank_three">3.%s</string>
     <string name="rank_two">2.%s</string>
+    <string name="read_write_file">Доступ да файлаў і іх захаванне на гэтай прыладзе</string>
     <string name="recently_used">Нядаўнія</string>
     <string name="refresh_footer_all_loaded">Гэта ўсё на дадзены момант.</string>
     <string name="refresh_footer_failed">Не атрымалася запампаваць дадзеныя</string>
@@ -473,6 +487,7 @@
     <string name="resource_pack_price_info">Арыгінальны кошт: %1$s</string>
     <string name="resource_pack_warning">Вы ўжо купілі %1$d кампанентаў гэтай тэмы. Будзе танней дакупіць астатнія кампаненты асобна.</string>
     <string name="resource_present">Падарунак</string>
+    <string name="resource_price_format">(%1$s)</string>
     <string name="resource_price_free">Бясплатна</string>
     <string name="resource_price_unit"> Mi Credits</string>
     <string name="resource_purchase_common_error">Здарылася памылка, паспрабуйце зноў</string>
@@ -573,6 +588,7 @@
     <string name="s5">Стварыць падзею календара</string>
     <string name="s6">Дазволіць рэкламе стварыць падзею календара?</string>
     <string name="s7">Тэставая рэклама</string>
+    <string name="scroll_switch">"Правядзіце для пераключэння паміж аб'ектамі"</string>
     <string name="sdcard_not_mounted_dialog_message">"Устаўце SD-карту.
 "</string>
     <string name="sdcard_not_mounted_dialog_title">SD-карта адсутнічае</string>
@@ -594,6 +610,8 @@
     <string name="sim_one">SIM 1</string>
     <string name="sim_two">SIM 2</string>
     <string name="similar_theme">Падобныя тэмы</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="storage_file">"Для захавання загружаных аб'ектаў"</string>
     <string name="swipe_find_more">Свайп уверх для прагляду падрабязнасьцяў</string>
     <string name="system_phone">Выклікі</string>
     <string name="system_precust">Перадусталяваныя</string>
@@ -604,6 +622,7 @@
     <string name="theme_apply_audio_dialog_item_notification">Апавяшчэнне</string>
     <string name="theme_apply_audio_dialog_item_ringtone">Мелодыя</string>
     <string name="theme_apply_failured">Не ўдалося прымяніць</string>
+    <string name="theme_apply_fully">Тэма ўсталяваная. Карусель шпалер адключаная.</string>
     <string name="theme_apply_success">Паспяхова ўжыта</string>
     <string name="theme_applying">Прымяненне…</string>
     <string name="theme_batch_update_all">Абнавіць усё</string>
@@ -657,6 +676,7 @@
     <string name="theme_is_external_priority_storage">Захаваць на SD-карту</string>
     <string name="theme_is_external_priority_storage_summary">Праграма Тэмы перазапусціцца для ўжывання змяненняў.</string>
     <string name="theme_multiple_button_title_customize">Персаналізуй</string>
+    <string name="theme_name">%1$s</string>
     <string name="theme_no">Не</string>
     <string name="theme_select_others">Агляд</string>
     <string name="theme_setting">Налады</string>
@@ -694,7 +714,7 @@
     <string name="uid_change_dialog_ok">Зразумела</string>
     <string name="uid_change_dialog_title">Перазагрузіце прыладу</string>
     <string name="unsupport_tip">Гэты фармат файла не падтрымліваецца. Паспрабуйце выбраць іншы файл.</string>
-    <string name="up_to_the_end">На гэты момант усё. Прыходзьце пазней.</string>
+    <string name="up_to_the_end">"Больш няма аб'ектаў"</string>
     <string name="update_btn">Абнавіць</string>
     <string name="update_check">Праверыць абнаўленні</string>
     <string name="update_checking">Праверка абнаўлення…</string>
@@ -709,7 +729,7 @@
     <string name="user_agree">Згадзіцца</string>
     <string name="user_authorization_dialog_agree">Згадзіцца</string>
     <string name="user_authorization_dialog_disagree">Выйсці</string>
-    <string name="user_authorization_dialog_message">Перад выкарыстаннем праграмы «Тэмы» азнаёмцеся і пагадзіцеся з нашым &lt;a href=\"%1$s\">Карыстальніцкім пагадненнем&lt;/a> і нашай &lt;a href=\"%2$s\">Палітыкай прыватнасці&lt;/a>.</string>
+    <string name="user_authorization_dialog_message">Азнаёмцеся і пагадзіцеся з нашымі &lt;a href=\"%1$s\">Карыстальніцкім пагадненнем&lt;/a> і &lt;a href=\"%2$s\">Палітыкай прыватнасці&lt;/a>, каб працягнуць.</string>
     <string name="user_authorization_dialog_title">Прадастаўленне дазволу...</string>
     <string name="user_know">Зразумела</string>
     <string name="using_theme_has_update_tips">Даступна абнаўленне для гэтай тэмы.</string>

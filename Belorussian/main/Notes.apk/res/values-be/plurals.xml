@@ -132,6 +132,18 @@
         <item quantity="few">%d хвіліны таму</item>
         <item quantity="many">%d хвілін таму</item>
     </plurals>
+    <plurals name="pc_notes_search_result">
+        <item quantity="other">Знойдзены %1$s нататак</item>
+        <item quantity="one">Знойдзена %1$s нататка</item>
+        <item quantity="few">Знойдзены %1$s нататкі</item>
+        <item quantity="many">Знойдзены %1$s нататак</item>
+    </plurals>
+    <plurals name="pc_todo_search_result">
+        <item quantity="other">Знойдзены %1$s задач</item>
+        <item quantity="one">Знойдзена %1$s задача</item>
+        <item quantity="few">Знойдзены %1$s задачы</item>
+        <item quantity="many">Знойдзены %1$s задач</item>
+    </plurals>
     <plurals name="record_last_ten_seconds_reminder">
         <item quantity="other">Засталося %d секунд</item>
         <item quantity="one">Засталася %d секунда</item>

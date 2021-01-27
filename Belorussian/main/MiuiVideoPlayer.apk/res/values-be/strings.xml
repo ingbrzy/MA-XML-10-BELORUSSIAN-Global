@@ -94,6 +94,7 @@
     <string name="auth_fail_warning">Сеанс састарэл. Увайдзіце паўторна.</string>
     <string name="auto_play_next_off">Аўтапрайграванне адключана</string>
     <string name="auto_play_next_on">Аўтапрайграванне ўключана</string>
+    <string name="back_to_mainpage">Пошук</string>
     <string name="before_yestoday">2 дні таму</string>
     <string name="bind_sign_in_title">Дадаць Mi Акаўнт</string>
     <string name="cancel">Скасаваць</string>
@@ -117,6 +118,7 @@
     <string name="cast_forward">Наперад</string>
     <string name="cast_forward_10">Дзесяць секунд наперад</string>
     <string name="cast_forward_30">Трыццаць секунд наперад</string>
+    <string name="cast_intro_overlay_button_text">\@android:string/ok</string>
     <string name="cast_live_label">У ЖЫВЫМ ЭФІРЫ</string>
     <string name="cast_mute">Адключыць гук</string>
     <string name="cast_notification_connected_message">Падключэнне да %1$s выканана</string>
@@ -210,7 +212,7 @@
 ID:%s
 Адпраўце гэты код тэхперсаналу."</string>
     <string name="dialog_privacy_info_new2">Для выкарыстання паслуг вы павінны пагадзіцца з тым, што %1$s будзе збіраць, апрацоўваць і выкарыстоўваць вашыя асабістыя дадзеныя. Націск на «Згадзіцца» ніжэй азначае, што вы прачыталі і прымаеце нашу &lt;a href=%2$s>Палітыку прыватнасці&lt;/a>.</string>
-    <string name="dialog_privacy_info_new3">Для выкарыстання гэтай службы вы павінны пагадзіцца з тым, што праграма %1$s будзе збіраць, апрацоўваць і выкарыстоўваць вашыя асабістыя дадзеныя ў адпаведнасці з Палітыкай прыватнасці. Націскаючы «Згадзіцца» ніжэй, вы згаджаецеся з &lt;a href=%2$s>Палітыкай прыватнасці&lt;/a> і &lt;a href=%3$s>Карыстальніцкім пагадненнем&lt;/a> Xiaomi.</string>
+    <string name="dialog_privacy_info_new3">"Для выкарыстання гэтай службы вы павінны пагадзіцца з тым, што праграма %1$s будзе збіраць, апрацоўваць і выкарыстоўваць вашыя асабістыя дадзеныя ў адпаведнасці з Палітыкай прыватнасці. Націскаючы Згадзіцца ніжэй, вы згаджаецеся з &lt;a href=%2$s>Палітыкай прыватнасці&lt;/a> і &lt;a href=%3$s>Карыстальніцкім пагадненнем&lt;/a> Xiaomi. &lt;br/>&lt;br/>Націск на Пагадзіцца таксама дазваляе Mi Video атрымліваць доступ да спісу праграм, устаноўленых на вашай прыладзе. Атрымаўшы гэты дазвол, Mi Video зможа абменьвацца аб'ектамі, разумець, ці ўсталяваная праграма на вашай прыладзе, якая версія праграмы ўстаноўлена і ці з'яўляецца праграма бяспечнай."</string>
     <string name="dialog_privacy_title">Аўтарызацыя</string>
     <string name="dialog_revoke_privacy_info_new2">Пасля таго як вы адклічаце аўтарызацыю, праграма спыніць збор дадзеных, а таксама ўсе звязаныя з імі дадзеныя будуць выдалены з сервераў. Гэта можа зрабіць праграму практычна непрыдатнай для выкарыстання. Усё роўна адклікаць аўтарызацыю?</string>
     <string name="dialog_revoke_privacy_title">Адкліканне дазволу</string>
@@ -280,6 +282,7 @@ ID:%s
     <string name="favorite_fail">Не атрымалася дадаць да абраных. Паўтарыце спробу пазней.</string>
     <string name="favorite_success">Паспяхова дададзена ў абранае</string>
     <string name="fcm_fallback_notification_channel_label">Рознае</string>
+    <string name="fcm_push_title">Папулярныя відэа</string>
     <string name="feedback">Водгук</string>
     <string name="feedback_activity_title">Водгук</string>
     <string name="feedback_contact_empty">Увядзіце сваю кантактную інфармацыю</string>
@@ -626,6 +629,9 @@ ID:%s
     <string name="notification_bar_player_subtitle">Паказаць згорнуты плэер у Шторке паведамленняў</string>
     <string name="notification_bar_player_title">Згарнуць плэер</string>
     <string name="notification_open_tip">Уключыце, каб атрымліваць апавяшчэнні</string>
+    <string name="notification_recall_action">Уключыць</string>
+    <string name="notification_recall_desc">Mi Відэа можа паведаміць вам аб папулярных відэа і вашых падпісках.</string>
+    <string name="notification_recall_title">Уключыць апавяшчэнні</string>
     <string name="notify_apk_installed">Спампавана паспяхова</string>
     <string name="ok">OК</string>
     <string name="order_alphabet">А-Я</string>
@@ -824,6 +830,7 @@ ID:%s
     <string name="permission_storage">Сховішча</string>
     <string name="permission_storage_desc">"Для доступу да аб'ектаў, захавання файлаў, адлюстравання і прайгравання лакальных відэа"</string>
     <string name="permission_title">Запыт дазволу</string>
+    <string name="pgc_push_title">Падпіскі</string>
     <string name="phone_bind_too_many">Гэты нумар быў звязаны з некалькімі ўліковымі запісамі падчас кароткага перыяду часу. Паспрабуйце выкарыстоўваць іншы нумар.</string>
     <string name="phone_hint">Нумар тэлефона</string>
     <string name="phone_num_use_for">Функцыі нумара тэлефона:</string>

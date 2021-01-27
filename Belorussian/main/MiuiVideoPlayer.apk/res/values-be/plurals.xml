@@ -108,6 +108,24 @@
         <item quantity="few">%d відэа</item>
         <item quantity="many">%d відэа</item>
     </plurals>
+    <plurals name="s_double_tap_backward">
+        <item quantity="other">Націсніце двойчы для перамоткі на %d секунд назад</item>
+        <item quantity="one">Націсніце двойчы для перамоткі на %d секунду назад</item>
+        <item quantity="few">Націсніце двойчы для перамоткі на %d секунды назад</item>
+        <item quantity="many">Націсніце двойчы для перамоткі на %d секунд назад</item>
+    </plurals>
+    <plurals name="s_double_tap_forward">
+        <item quantity="other">Націсніце двойчы для перамоткі на %d секунд наперад</item>
+        <item quantity="one">Націсніце двойчы для перамоткі на %d секунду наперад</item>
+        <item quantity="few">Націсніце двойчы для перамоткі на %d секунды наперад</item>
+        <item quantity="many">Націсніце двойчы для перамоткі на %d секунд наперад</item>
+    </plurals>
+    <plurals name="s_forward_tip">
+        <item quantity="other">%1$s сек.</item>
+        <item quantity="one">%1$s сек.</item>
+        <item quantity="few">%1$s сек.</item>
+        <item quantity="many">%1$s сек.</item>
+    </plurals>
     <plurals name="subscriber">
         <item quantity="other">%s падпісчыкаў</item>
         <item quantity="one">%s падпісчык</item>

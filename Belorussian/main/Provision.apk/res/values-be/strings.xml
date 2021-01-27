@@ -106,8 +106,9 @@
     <string name="next_fingerprint">Далей</string>
     <string name="note_introduction">Гэтая праграма дазваляе ствараць, праглядаць і рэдагаваць нататкі.</string>
     <string name="other_settings">Дадатковыя налады</string>
-    <string name="other_settings_ad_dialog_content">"Пасля адключэння гэтай функцыі вы больш не будзеце атрымліваць персаналізаваную рэкламу. Аднак вы ўсё роўна ўбачыце рэкламу, якая не мае дачынення да вашых інтарэсаў. Вы можаце даведацца больш пра персаналізаванай рэкламе ў Палітыцы прыватнасці Xiaomi.
-Усё роўна адключыць персаналізаваную рэкламу?"</string>
+    <string name="other_settings_ad_dialog_agree">Уключыць</string>
+    <string name="other_settings_ad_dialog_content">"Калі персанальная рэкамендаваны рэклама выключана, вы будзеце бачыць такую ж колькасць рэкламных аб'яў, як і калі, калі гэтая функцыя ўключаная. Аднак рэклама больш не будзе рэлевантнай, бо яна не будзе заснавана на вашых асабістых перавагах."</string>
+    <string name="other_settings_ad_dialog_disagree">Адключыць</string>
     <string name="other_settings_ad_disable_summary">Уключыць персаналізаваную рэкламу</string>
     <string name="other_settings_ad_enable">Персаналізаваны рэклама</string>
     <string name="other_settings_ad_enable_summary">Пэрсаналізуйце рэкламу з улікам сваіх інтарэсаў</string>

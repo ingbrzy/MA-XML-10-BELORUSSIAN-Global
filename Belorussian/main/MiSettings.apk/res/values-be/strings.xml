@@ -68,6 +68,13 @@
     <string name="focus_mode_timer_pick_dialog_title">Увядзіце працягласць</string>
     <string name="focus_time_exception_tip">Здаецца, сістэмны час был зменены. Рэжым факусіроўкі адключаны.</string>
     <string name="follow_sim1">Прымяніць налады SIM 1</string>
+    <string name="fps_nature_summary">Высокая частата абнаўлення захоўвае ўсе выразным і ясным</string>
+    <string name="fps_nature_title">Высокая</string>
+    <string name="fps_smooth_summary">Сярэдняя частата абнаўлення робіць выразней дэталі</string>
+    <string name="fps_smooth_title">Сярэдняя</string>
+    <string name="fps_standard_summary">Стандартная частата абнаўлення эканоміць зарад батарэі</string>
+    <string name="fps_standard_title">Стандартная</string>
+    <string name="fps_user_tip">Гэтыя дэма-анімацыі прайграваецца на нізкай хуткасці для вашай даведкі. Фактычная прадукцыйнасць можа выглядаць па-іншаму ў залежнасці ад розных фактараў.</string>
     <string name="gamma">Гама</string>
     <string name="healthy_use_phone">Кіраванне экранным часам</string>
     <string name="high_fps_description">Высокая частата абнаўлення экрана. Высокае энергаспажыванне.</string>
@@ -114,6 +121,7 @@
     <string name="screen_fps_summary_power_save">Выкарыстанне фіксаванай частаты прыводзіць да зніжэння спажывання энергіі</string>
     <string name="screen_fps_summary_smooth">Некаторыя праграмы будуць аўтаматычна павялічваць частату абнаўлення для паляпшэння якасці выявы</string>
     <string name="screen_fps_title">Частата абнаўлення</string>
+    <string name="screen_fps_unit">%d Гц</string>
     <string name="screen_fps_unit_power_save">%d Гц (эканомія энергіі)</string>
     <string name="screen_fps_unit_smooth">%d Гц (лепшая якасць)</string>
     <string name="screen_original_gamut">Пашыраная</string>
@@ -186,6 +194,7 @@
     <string name="usage_device_limit_app_prolong_time2">Дадаць 40 хвілін</string>
     <string name="usage_device_limit_app_prolong_time3">Дадаць 60 хвілін</string>
     <string name="usage_device_limit_app_prolong_time4">Сёння не абмяжоўваць</string>
+    <string name="usage_device_limit_app_prolong_time5">Дадаць час толькі адзін раз</string>
     <string name="usage_device_limit_notifation_summary_start">Вы дасягніце свайго ліміту праз %1$s</string>
     <string name="usage_device_limit_notifation_title">Астатак часу сёння</string>
     <string name="usage_device_limit_time_over">Вы дасягнулі сённяшняга ліміту (%1$s)</string>

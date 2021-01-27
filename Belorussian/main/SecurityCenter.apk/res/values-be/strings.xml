@@ -766,7 +766,6 @@
     <string name="card_main_private_space_summary">Выкарыстоўвайце Другую прастору як асобную прыладу</string>
     <string name="card_main_private_space_title">Другая прастора</string>
     <string name="card_main_sectool_title">Інструменты</string>
-    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_xspace_action">Стварыць</string>
     <string name="card_main_xspace_summary">Стварайце незалежныя копіі для хоць якой праграмы</string>
     <string name="card_main_xspace_title">Кланаванне</string>
@@ -977,7 +976,6 @@
     <string name="doze_optimization_title">Аптымізаванае сэнсарнае кіраванне</string>
     <string name="dual_setting_simcard1">SIM 1</string>
     <string name="dual_setting_simcard2">SIM 2</string>
-    <string name="ellipsis">…</string>
     <string name="email">Email</string>
     <string name="empty_app">Няма праграм</string>
     <string name="empty_title_auto_start_list">Няма праграм з аўтазапускам.</string>
@@ -1029,9 +1027,7 @@
     <string name="exo_download_notification_channel_name">Спампоўкі</string>
     <string name="exo_download_removing">Выдаленне спамповак</string>
     <string name="exo_item_list">%1$s, %2$s</string>
-    <string name="exo_track_bitrate">%1$.2f Мбіт/с</string>
     <string name="exo_track_mono">Мона</string>
-    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">Аўтаматычна</string>
     <string name="exo_track_selection_none">Няма</string>
     <string name="exo_track_selection_title_audio">Аўдыя</string>
@@ -1718,7 +1714,6 @@
     <string name="menu_text_license_manager">Дазволы</string>
     <string name="menu_text_networkassistants">Трафік</string>
     <string name="menu_text_networkassistants_danger">перавышана на %s</string>
-    <string name="menu_text_networkassistants_data">%1$s %2$s</string>
     <string name="menu_text_networkassistants_remain">%s засталося</string>
     <string name="menu_text_networkassistants_unit_b">Б</string>
     <string name="menu_text_networkassistants_unit_gb">ГБ</string>
@@ -1727,7 +1722,6 @@
     <string name="menu_text_optimize_manage">Паскарэнне</string>
     <string name="menu_text_optimize_manage_1">Паскорыць</string>
     <string name="menu_text_power_manager">Батарэя</string>
-    <string name="menu_text_power_percent_title">%s</string>
     <string name="menu_wh_remove">Выдаліць з выняткаў</string>
     <string name="menu_white">Дадаць у выключэнні</string>
     <string name="mi_service_app_detail">Інфармацыя пра трафік</string>
@@ -2121,11 +2115,6 @@
     <string name="power_center_dialog_msg_top">Пры ўключэнні Эканоміі энергіі MIUI выканае наступныя аптымізацыі:</string>
     <string name="power_center_hints_scan_danger_result">Вырашыце праблемы з батарэяй</string>
     <string name="power_center_list_item_auto_brightness">Рэгулюйце яркасць аўтаматычна</string>
-    <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
-    <string name="power_center_list_item_battery_health_model_voltage">%s В</string>
-    <string name="power_center_list_item_battery_health_model_volume">%s мАг</string>
-    <string name="power_center_list_item_battery_status_capacity">мАг</string>
-    <string name="power_center_list_item_battery_status_temperature">℃</string>
     <string name="power_center_list_item_battery_status_time">г</string>
     <string name="power_center_list_item_close_bluetooth">Адключыць Bluetooth</string>
     <string name="power_center_list_item_deep_save_title">Пашыраныя налады</string>
@@ -2302,7 +2291,6 @@
     <string name="pref_normal_traffic_limit">Калі ліміт дадзеных перавышаны</string>
     <string name="pref_open_adjust_traffic">Абнаўляць статыстыку трафіка штодзённа на падставе дадзеных мабільнага аператара</string>
     <string name="pref_operator_not_set">Аператар не ўсталяваны</string>
-    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_over_traffic_limit">Па выкарыстанні ліміту дадзеных</string>
     <string name="pref_package_traffic_settings">Тарыфны план</string>
     <string name="pref_pkg_begin_date">Дата пачатку ўліку</string>
@@ -2466,7 +2454,6 @@
     <string name="privacy_using_record">Запіс аўдыё</string>
     <string name="privacyapp_number_masked_text">Змест апавяшчэнняў схаваны</string>
     <string name="privacyapp_number_unmasked_text">Змест апавяшчэнняў можа быць схаваны</string>
-    <string name="process_kernel_label">Android</string>
     <string name="process_mediaserver_label">Медыя-сервер</string>
     <string name="process_vpnsdkmanager_label">Паскарэнне гульняў</string>
     <string name="promotion">Рэклама</string>

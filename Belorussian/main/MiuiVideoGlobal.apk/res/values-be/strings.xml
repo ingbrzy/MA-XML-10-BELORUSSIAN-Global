@@ -31,7 +31,6 @@
     <string name="abc_shareactionprovider_share_with">Абагуліць праз</string>
     <string name="abc_shareactionprovider_share_with_application">Абагуліць праз праграму \"%s\"</string>
     <string name="abc_toolbar_collapse_description">Згарнуць</string>
-    <string name="access_denied_info">Занадта шмат спробаў. Пачакайце хвіліну ці дзве і паспрабуйце зноў.</string>
     <string name="account_bind_secure_email_title">Дадаць эл. пошту для аднаўлення</string>
     <string name="account_bind_secure_phone_title">Дадаць нумар тэлефона для аднаўлення</string>
     <string name="account_crop_user_avatar">Абрэзаць фота</string>
@@ -67,8 +66,6 @@
     <string name="action_update_phone">Змяніць нумар тэлефона</string>
     <string name="activate_email_notice">Актывуйце ваш акаўнт у бліжэйшыя 24 гадзіны</string>
     <string name="activity_not_found_notice">Немагчыма знайсці праграму</string>
-    <string name="ad_bar_notification_setting_sub_title">Паказваць падзеі ў панэлі апавяшчэнняў</string>
-    <string name="ad_bar_notification_setting_title">Падзеі</string>
     <string name="ad_buy">Набыць</string>
     <string name="ad_download">Спампаваць</string>
     <string name="ad_join">Уступіць у супольнасць</string>
@@ -374,8 +371,6 @@ ID:%s
     <string name="galleryplus_online_cta_disagree">Не згаджацца</string>
     <string name="galleryplus_online_cta_title">Правілы і ўмовы</string>
     <string name="galleryplus_online_video_loading">Секундачку…</string>
-    <string name="galleryplus_orientation_lock">Арыентацыя заблакаваная</string>
-    <string name="galleryplus_orientation_unlock">Арыентацыя экрана адмыкнутая</string>
     <string name="galleryplus_permission_content">Прадастаўце Mi Відэа неабходныя дазволы, каб атрымаць магчымасць выкарыстоўваць гэтую функцыю.</string>
     <string name="galleryplus_permission_content2">"Каб мець магчымасць выкарыстоўваць гэтую функцыю, перайдзіце ў раздзел «Налады > Праграмы > Mi Відэа > Дазволы праграм» і дазвольце Mi Відэа наступнае:
 
@@ -429,7 +424,6 @@ ID:%s
     <string name="history_local_video">Лакальныя</string>
     <string name="history_online_video">Анлайн</string>
     <string name="hot">Папулярнае</string>
-    <string name="i_know">Зразумела</string>
     <string name="identity">Ідэнтыфікацыя</string>
     <string name="inconsistent_pwd">Паролі не супадаюць</string>
     <string name="init_channels">Усталяваць налады па змаўчанні</string>
@@ -626,10 +620,8 @@ ID:%s
     <string name="my_favorite_channels">Мае абраныя каналы</string>
     <string name="my_feedback_title">Мае адчуванні</string>
     <string name="need_update_app">Абнавіце Mi Відэа, каб карыстацца ўсімі функцыямі</string>
-    <string name="network_connect_info">Не атрымалася злучыцца з сеткай.</string>
-    <string name="network_error_info">Адбылася памылка сеткі. Праверце налады сеткі і паспрабуйце зноў.</string>
+    <string name="network_connect_info">Не атрымалася злучыцца з сеткай. Праверце налады сеткі і паспрабуйце зноў.</string>
     <string name="network_failed">Не атрымалася падлучыцца да сеткі</string>
-    <string name="network_timeout_info">Не атрымалася злучыцца з сеткай. Паспрабуйце яшчэ раз.</string>
     <string name="new_channel_tip">Зірніце на новыя каналы!</string>
     <string name="next">Наступны</string>
     <string name="next_step">Далей</string>
@@ -661,7 +653,6 @@ ID:%s
     <string name="off_tip_firework_recommend">Вы не будзеце атрымліваць персанальныя рэкамендацыі па кантэнце ад Firework.</string>
     <string name="ok">OК</string>
     <string name="on_tip_firework_recommend">Вы будзеце атрымліваць персанальныя рэкамендацыі па кантэнце ад Firework.</string>
-    <string name="open_settings">Налады</string>
     <string name="order_recently_subscribe">Новыя падпіскі</string>
     <string name="order_recently_updated">Нядаўна абноўлена</string>
     <string name="ovp_alert_dialog_download_install_task">Спампоўка HD-убудовы</string>
@@ -762,7 +753,6 @@ ID:%s
     <string name="passport_area_code_title">Тэлефонны код вобласці</string>
     <string name="passport_bad_authentication">Няправільнае імя карыстальніка ці пароль</string>
     <string name="passport_barcode_add_account_prompt">Для дадання акаўнта адскануйце QR-код зноў пасля ўвахода.</string>
-    <string name="passport_can_not_receive_verification_code">Не атрымалі код пацвярджэння?</string>
     <string name="passport_captcha_title">Ахоўны код</string>
     <string name="passport_checking_account">Праверка пароля…</string>
     <string name="passport_close">Закрыць</string>
@@ -902,7 +892,6 @@ ID:%s
     <string name="plus_menu_delete_popup_text">Выдаліць зараз?</string>
     <string name="plus_menu_properties">Уласцівасці</string>
     <string name="plus_menu_rename">Перайменаваць</string>
-    <string name="plus_menu_rename_cant_empty">Імя файла не можа быць пустым</string>
     <string name="plus_menu_rename_fail">Імя файла не можа ўтрымліваць \"/\"</string>
     <string name="plus_menu_share">Падзяліцца</string>
     <string name="plus_mine_gallery">Мае альбомы</string>
@@ -998,7 +987,6 @@ ID:%s
     <string name="plus_sort_type_time">Час</string>
     <string name="plus_tab_gallery">Тэчкі</string>
     <string name="plus_tab_time">Храналогія</string>
-    <string name="progressbar_title">Праверка на наяўнасць праблем з бяспекай…</string>
     <string name="psw_hint">Пароль</string>
     <string name="psw_sign_in">Увайсці з дапамогай пароля</string>
     <string name="pull_to_refresh_from_bottom_pull_label">Пацягніце ўверх для абнаўлення…</string>
@@ -1036,7 +1024,6 @@ ID:%s
     <string name="report_content_violence">Агрэсіўная гаворка</string>
     <string name="report_fail">Не атрымалася паскардзіцца. Паспрабуйце яшчэ раз.</string>
     <string name="report_success">Скарга паспяхова даслана</string>
-    <string name="request_camera_permission_message">Мы будзем абараняць вашу асабістую інфармацыю ў адпаведнасці з дзеючым заканадаўствам і нормамі. Для правільнай працы з праграмай патрабуюцца наступныя дазволы:&lt;br>&lt;br>&lt;b> Доступ да камеры (для налады фота профілю)&lt;/b>&lt;br>&lt;br>Калі вы не згодныя прадастаўляць дадзеныя дазволы, вы не зможаце скарыстацца некаторымі функцыямі гэтай праграмы. Тым не менш яе асноўныя функцыі застануцца даступныя. Вы ў любы момант можаце адклікаць дазвол у Наладах.</string>
     <string name="resend_active_email">Адправіць зноў</string>
     <string name="resend_email_reach_limit_message">Вы запыталі занадта шмат лістоў для пацвярджэння. Пераканайцеся, што ліст не трапіў у папку для спаму вашай паштовай скрыні.</string>
     <string name="resend_email_reach_limit_title">Занадта шмат спробаў</string>
@@ -1111,7 +1098,6 @@ ID:%s
     <string name="sync_favorites_limit">У абраных ёсць больш за 500 відэа. Нам прыйдзецца выдаліць некаторыя з папярэдніх відэа, каб працягнуць сінхранізацыю.</string>
     <string name="sync_favorites_message">"Сінхранізаваць абраныя з гэтай прылады ў свой акаўнт? Аб'екты, якія больш не даступныя, будуць выдаленыя."</string>
     <string name="sync_favorites_title">Сінхранізаваць абраныя</string>
-    <string name="system_error_info">Сістэма занятая. Пачакайце хвіліну ці дзве і паспрабуйце зноў.</string>
     <string name="t_check_hide_file">"Выберыце аб'екты для ўтойвання"</string>
     <string name="t_check_unhide_file">"Выберыце аб'екты для адлюстравання"</string>
     <string name="t_downloading">Спампаванне:</string>
@@ -1164,7 +1150,6 @@ ID:%s
     <string name="ugc_no_net">Не атрымалася злучыцца з сеткай. Праверце налады сеткі і паспрабуйце зноў.</string>
     <string name="ui_log_tip">Націсніце на гэтую вобласць, каб схаваць, націсніце і ўтрымлівайце, каб ачысціць старыя запісы журнала. Перацягвайце журналы ўручную.</string>
     <string name="unknow">Невядома</string>
-    <string name="unknown_error_info">Невядомая памылка</string>
     <string name="update">Абнавіць</string>
     <string name="update_email_address_dialog_message">Перад змяненнем вашай эл. пошты для аднаўлення вам неабходна пацвердзіць асобу.</string>
     <string name="update_email_address_dialog_title">Змяніць эл. пошту для аднаўлення</string>

@@ -19,34 +19,16 @@
         <item quantity="many">Інтэрвал: %d секунд</item>
     </plurals>
     <plurals name="accessibility_vv_duartion">
-        <item quantity="other">Працягласць: %d секунд</item>
-        <item quantity="one">Працягласць: %d секунда</item>
-        <item quantity="few">Працягласць: %d секунды</item>
-        <item quantity="many">Працягласць: %d секунд</item>
+        <item quantity="other">Duration: %d seconds</item>
+        <item quantity="one">Duration: %d second</item>
+        <item quantity="few">Duration: %d seconds</item>
+        <item quantity="many">Duration: %d seconds</item>
     </plurals>
     <plurals name="clone_guide_tip2">
         <item quantity="other">Вы можаце стварыць не больш %d клонаў за раз.</item>
         <item quantity="one">Вы можаце стварыць не больш %d клона за раз.</item>
         <item quantity="few">Вы можаце стварыць не больш %d клонаў за раз.</item>
         <item quantity="many">Вы можаце стварыць не больш %d клонаў за раз.</item>
-    </plurals>
-    <plurals name="fastmotion_pro_min_unit">
-        <item quantity="other">%1$d хв.</item>
-        <item quantity="one">%1$d хв.</item>
-        <item quantity="few">%1$d хв.</item>
-        <item quantity="many">%1$d хв.</item>
-    </plurals>
-    <plurals name="fastmotion_pro_sec_unit">
-        <item quantity="other">%1$d сек.</item>
-        <item quantity="one">%1$d сек.</item>
-        <item quantity="few">%1$d сек.</item>
-        <item quantity="many">%1$d сек.</item>
-    </plurals>
-    <plurals name="live_workspace_delete_dialog_title">
-        <item quantity="other">Выдаліць %1$d чарнавікоў?</item>
-        <item quantity="one">Выдаліць %1$d чарнавік?</item>
-        <item quantity="few">Выдаліць %1$d чарнавіка?</item>
-        <item quantity="many">Выдаліць %1$d чарнавікоў?</item>
     </plurals>
     <plurals name="pref_camera_fastmotion_duration_unit">
         <item quantity="other">%1$s хв.</item>

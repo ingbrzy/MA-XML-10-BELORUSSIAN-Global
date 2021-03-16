@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="abc_action_bar_home_description">Перайсці на галоўную старонку</string>
-    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
-    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
     <string name="abc_action_bar_up_description">Перайсці ўверх</string>
     <string name="abc_action_menu_overflow_description">Дадатковыя параметры</string>
     <string name="abc_action_mode_done">Гатова</string>
@@ -144,8 +142,6 @@
     <string name="night">Вечар</string>
     <string name="noon">Сярэдзіна дня</string>
     <string name="not_set">Не зададзена</string>
-    <string name="passport_oauth_actionbar_title">Mi Акаўнт</string>
-    <string name="passport_oauth_sucess_tip">Authorized success</string>
     <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\": скапіравана ў буфер абмену.</string>
     <string name="saturday">Субота</string>

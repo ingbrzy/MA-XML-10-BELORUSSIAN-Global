@@ -31,9 +31,6 @@
     <string name="back">Назад</string>
     <string name="cancel">Скасаваць</string>
     <string name="category_other">Іншае</string>
-    <string name="channel_name_aggregation">Згрупаваныя апавяшчэння</string>
-    <string name="channel_name_notification">Апавяшчэнні праграм</string>
-    <string name="channel_name_recovered">Адноўленыя апавяшчэння</string>
     <string name="confirm">OК</string>
     <string name="copy">Капіраваць</string>
     <string name="default_list_type">Сартаваць па часу атрымання</string>
@@ -62,14 +59,10 @@
     <string name="lock_screen_tip_toast">Дазволіце паведамлення на экране блакавання ў раздзеле «Фармат»</string>
     <string name="lockscreen_notifications">Апавяшчэнні на Экране блакавання</string>
     <string name="lockscreen_notifications_short">Экран блакавання</string>
-    <string name="menu_setting_aggregatation_feedback">Опцыі групоўкі</string>
-    <string name="menu_setting_feedback_donot_classify">Не групаваць</string>
-    <string name="menu_setting_more_settings">Больш наладаў</string>
     <string name="menu_setting_show_in_home">Не групаваць</string>
     <string name="menu_setting_tip_show_in_home">Апавяшчэння %s не будуць згрупаваны</string>
     <string name="menu_setting_tip_unfold">Усё апавяшчэнні гэтай праграмы будуць лічыцца важнымі</string>
     <string name="menu_setting_unfold">Важнае</string>
-    <string name="mune_setting_prefix_category">"Групаваць з "</string>
     <string name="not_sent_recently">Апавяшчэнняў не было</string>
     <string name="not_set">Не зададзена</string>
     <string name="notch_and_status_bar_setting">Цэнтр кіравання і панэль стану</string>
@@ -89,7 +82,6 @@
     <string name="on">Укл</string>
     <string name="preference_copied">\"%1$s\": скапіравана ў буфер абмену.</string>
     <string name="search_menu_title">Пошук</string>
-    <string name="setting_menu_success">Паспяхова наладжана</string>
     <string name="settings_guide_title">Патрэбныя іншыя налады?</string>
     <string name="show_badge_notifications">Значкі апавяшчэнняў</string>
     <string name="show_badge_notifications_short">Значкі</string>
@@ -105,7 +97,6 @@
     <string name="summary_lock_screen_enable_notification_first">Для ўключэння апавяшчэнняў на Экране блакавання дазвольце апавяшчэння</string>
     <string name="summary_show_badge_enable_notification_first">Для ўключэння значкоў апавяшчэнняў дазвольце апавяшчэнні</string>
     <string name="swipe_to_delete">Правядзіце налева або направа для выдалення</string>
-    <string name="tip_feedback_thanks">Дзякуй за ваш водгук!</string>
     <string name="v7_preference_off">ВЫКЛ.</string>
     <string name="v7_preference_on">УКЛ.</string>
 </resources>

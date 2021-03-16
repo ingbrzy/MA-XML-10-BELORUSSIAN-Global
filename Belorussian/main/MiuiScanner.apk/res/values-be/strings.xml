@@ -27,7 +27,6 @@
     <string name="abc_shareactionprovider_share_with">Абагуліць праз</string>
     <string name="abc_shareactionprovider_share_with_application">Абагуліць праз праграму \"%s\"</string>
     <string name="abc_toolbar_collapse_description">Згарнуць</string>
-    <string name="clearable_edittext_clear_description">Ачысціць</string>
     <string name="copy">Капіраваць</string>
     <string name="expand_button_title">Пашыраныя налады</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Пацягніце ўніз для абнаўлення</string>

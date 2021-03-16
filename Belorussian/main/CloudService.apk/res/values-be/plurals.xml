@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="cloud_space_full_gallery_notification_content_title">
-        <item quantity="other">"Не атрымоўваецца сінхранізаваць %s аб'ектаў"</item>
-        <item quantity="one">"Не атрымоўваецца сінхранізаваць %s аб'ект"</item>
-        <item quantity="few">"Не атрымоўваецца сінхранізаваць %s аб'екта"</item>
-        <item quantity="many">"Не атрымоўваецца сінхранізаваць %s аб'ектаў"</item>
-    </plurals>
     <plurals name="dirty_blocklist_count">
         <item quantity="other">%d запісаў чорнага спісу</item>
         <item quantity="one">%d запіс чорнага спісу</item>

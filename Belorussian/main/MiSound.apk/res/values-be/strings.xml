@@ -82,8 +82,8 @@
     <string name="miuix_sbl_tracking_progress_labe_up_none">Пакуль што гэта ўсё</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Хвілінку…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Не атрымалася загрузіць аб'екты"</string>
-    <string name="multi_music_coexistence_summary">Не змяняць гучнасць мультымедыя падчас уваходных паведамленняў або пры прайграванні гуку з іншых крыніц</string>
-    <string name="multi_music_coexistence_title">Некалькі крыніц гуку</string>
+    <string name="multi_music_coexistence_summary">Пры прайграванні сігналу аб атрыманні паведамлення, гучнасць мультымедыя будзе заставацца нязменнай, а некалькі крыніц гуку мультымедыя не будуць уплываць адзна на адну</string>
+    <string name="multi_music_coexistence_title">Дазволіць некалькі крыніц гуку</string>
     <string name="music_add_my_sound">Дадаць карыстацкі прасэт</string>
     <string name="music_app_unavailable">Пераканайцеся, што Mi Музыка ўсталявана.</string>
     <string name="music_audio_effect_optimize">Аўдыяналады</string>
@@ -99,8 +99,6 @@
     <string name="music_delete">Выдаліць</string>
     <string name="music_delete_sound_title">Выдаленне прасэтаў</string>
     <string name="music_dirac_control">Паляпшэнне якасці гуку</string>
-    <string name="music_dirac_mode_bluetooth_collar">Патылічныя навушнікі Mi Bluetooth</string>
-    <string name="music_dirac_mode_bluetooth_linefree">Навушнікі Mi Bluetooth (бесправадная версія)</string>
     <string name="music_dirac_mode_cancelling">Mi Шумападаўленне 3,5 мм</string>
     <string name="music_dirac_mode_capsule">Mi Capsule</string>
     <string name="music_dirac_mode_earbuds">Mi-навушнікі</string>
@@ -195,8 +193,6 @@
     <string name="personal_sound">Прайграць з ужытым прасэтам</string>
     <string name="preference_copied">\"%1$s\": скапіравана ў буфер абмену.</string>
     <string name="retry_test">Пачаць спачатку</string>
-    <string name="ringtone_output_device_summary">Дазволіць гук для ўваходных выклікаў і апавяшчэнняў, калі падлучаныя аксэсуары (правадныя гарнітуры ці Bluetooth-прылады)</string>
-    <string name="ringtone_output_device_title">Дазволіць гук дынаміка</string>
     <string name="save_and_apply">Захаваць і ўжыць</string>
     <string name="search_menu_title">Пошук</string>
     <string name="second_note">Надзеньце навушнікі.</string>

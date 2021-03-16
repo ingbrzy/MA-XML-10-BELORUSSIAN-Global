@@ -43,8 +43,6 @@
     <string name="call_record_list_group_connected">Падключана</string>
     <string name="call_record_list_group_unconnected">Не падключана</string>
     <string name="cancel_rename">Адмена</string>
-    <string name="clear_data_dialog_content">"Кэшаваныя аб'екты, дадзеныя праграм і індывідуальныя налады будуць выдалены, але вашыя запісы застануцца некранутымі."</string>
-    <string name="clear_data_dialog_title">Выдаліць дадзеныя зараз?</string>
     <string name="clear_records">Выдаленне сінхранізаваных запісаў</string>
     <string name="cloud_record_open">Сінхранізаваць запісы</string>
     <string name="cloud_record_tip">Сінхранізаваць запісы з Xiaomi Cloud.</string>
@@ -129,7 +127,7 @@
     <string name="network_unavailable_tip">Злучыцеся з сеткай і паўтарыце спробу.</string>
     <string name="new_record_name">Новы запіс</string>
     <string name="no_file">Нічога няма</string>
-    <string name="no_network">Не атрымалася падлучыцца да сеткі</string>
+    <string name="no_network">"Couldn't connect to the network"</string>
     <string name="not_set">Не зададзена</string>
     <string name="notification_message_all_paused">Чаканне сеткі Wi-Fi.</string>
     <string name="notification_playback">Прайграванне…</string>
@@ -173,7 +171,6 @@
     <string name="pay_error_unknown">Невядомая памылка</string>
     <string name="playback_delete_records">Выдаліць абраны запіс</string>
     <string name="playback_share_records">Падзяліцца запісам</string>
-    <string name="preference_clear_data">Выдаліць дадзеныя</string>
     <string name="preference_copied">\"%1$s\": скапіравана ў буфер абмену.</string>
     <string name="preference_enable_earpiece_summary">Выкарыстоўваць размоўны дынамік для прайгравання</string>
     <string name="preference_enable_earpiece_title">Размоўны дынамік для прайгравання аўдыя</string>
@@ -332,8 +329,6 @@
     <string name="trash_box">"Нядаўна выдаленыя аб'екты"</string>
     <string name="trash_box_close_tip">Зачыніць дыялогавае акно</string>
     <string name="trash_box_delete_all">"Выдаліць усе аб'екты з сметніцы назаўсёды?"</string>
-    <string name="uninstall_warning_content">\"Дыктафон\" — гэта сістэмная праграма. Вы не зможаце запісваць і расшыфроўваць аўдыё і галасавыя выклікі пасля яе выдалення.</string>
-    <string name="uninstall_warning_title">Выдаліць Дыктафон?</string>
     <string name="usage_description">"Расшыфроўка аўдыё і сінхранізацыя аб'ектаў з воблакам"</string>
     <string name="user_feedback">Водгук</string>
     <string name="v7_preference_off">ВЫКЛ.</string>

@@ -47,7 +47,7 @@
     <string name="config_mode_title">Налада фонавай актыўнасці</string>
     <string name="config_no_restrict_description">Энергазберажэнне не абмяжоўвае актыўнасць праграм</string>
     <string name="config_no_restrict_title">Няма абмежаванняў</string>
-    <string name="config_restrict_function_description">Можа паўплываць на некаторыя функцыі (напрыклад, на push-апавяшчэнні), але праграмы не будуць закрытыя</string>
+    <string name="config_restrict_function_description">Закрываць праграмы праз 10 хвілін фонавай актыўнасці</string>
     <string name="config_restrict_function_title">Абмежаваць фонавыя праграмы</string>
     <string name="config_restrict_running_description">Праграмы будуць закрытыя, каб захаваць энергію</string>
     <string name="config_restrict_running_title">Абмежаваць фонавую актыўнасць</string>

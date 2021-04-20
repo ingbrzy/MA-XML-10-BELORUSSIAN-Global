@@ -7,10 +7,10 @@
         <item quantity="many">%d кантактаў</item>
     </plurals>
     <plurals name="b">
-        <item quantity="other">Delete %d selected files?</item>
-        <item quantity="one">Delete %d selected file?</item>
-        <item quantity="few">Delete %d selected files?</item>
-        <item quantity="many">Delete %d selected files?</item>
+        <item quantity="other">Выдаліць %d абраных файлаў?</item>
+        <item quantity="one">Выдаліць %d абраны файл?</item>
+        <item quantity="few">Выдаліць %d абраных файла?</item>
+        <item quantity="many">Выдаліць %d абраных файлаў?</item>
     </plurals>
     <plurals name="c">
         <item quantity="other">Даступна %1$s прылад</item>
@@ -55,10 +55,10 @@
         <item quantity="many">"%1$s і яшчэ %2$s аб'ектаў ужо перадаюцца."</item>
     </plurals>
     <plurals name="j">
-        <item quantity="other">Selected %d items</item>
-        <item quantity="one">Selected %d item</item>
-        <item quantity="few">Selected %d items</item>
-        <item quantity="many">Selected %d items</item>
+        <item quantity="other">"Выбрана %d аб'екта"</item>
+        <item quantity="one">"Выбраны %d аб'ект"</item>
+        <item quantity="few">"Выбрана %d аб'екта"</item>
+        <item quantity="many">"Выбрана %d аб'екта"</item>
     </plurals>
     <plurals name="k">
         <item quantity="other">"%1$d аб'ект"</item>

@@ -455,7 +455,6 @@
   <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
   <string name="fcComplete">Код аб\'екта завершаны.</string>
   <string name="fcError">Праблема злучэння ці хібны код функцыі.</string>
-  <string name="fileSizeSuffix">%1$s %2$s</string>
   <string name="find">Пошук</string>
   <string name="find_next">Шукаць наступнае</string>
   <string name="find_on_page">Знайсці на старонцы</string>
@@ -921,7 +920,6 @@
   <string name="needPuk2">Увядзіце PUK2 для разблакавання SIM-карткі.</string>
   <string name="negative_duration">−%1$s</string>
   <string name="network_available_sign_in">Увайдзіце ў сетку</string>
-  <string name="network_available_sign_in_detailed">%1$s</string>
   <string name="network_logging_notification_text">Ваша арганізацыя кіруе гэтай прыладай і можа сачыць за сеткавым трафікам. Націсніце, каб праглядзець падрабязнасці.</string>
   <string name="network_logging_notification_title">Прылада знаходзіцца пад кіраваннем</string>
   <string name="network_partial_connectivity">%1$s мае абмежаванне падлучэння</string>
@@ -978,7 +976,6 @@
   <string name="notification_description">Статус галасавога выкліку</string>
   <string name="notification_hidden_text">Новае апавяшчэнне</string>
   <string name="notification_listener_binding_label">Праслухоўванне апавяшчэння</string>
-  <string name="notification_messaging_title_template">%1$s: %2$s</string>
   <string name="notification_ranker_binding_label">Служба ацэнкі важнасці апавяшчэнняў</string>
   <string name="notification_reply_button_accessibility">Адказаць</string>
   <string name="notification_title">Не атрымалася ўвайсці ў %1$s</string>
@@ -1536,22 +1533,10 @@
   <string name="ssl_certificate">Сертыфікат бяспекі</string>
   <string name="ssl_certificate_is_valid">Гэты сертыфікат сапраўдны.</string>
   <string name="status_bar_airplane">у самалёце</string>
-  <string name="status_bar_battery">батарэя</string>
-  <string name="status_bar_bluetooth">bluetooth</string>
   <string name="status_bar_camera">камера</string>
-  <string name="status_bar_cast">ролі выконвалі</string>
-  <string name="status_bar_clock">гадзіннік</string>
   <string name="status_bar_ethernet">ethernet</string>
-  <string name="status_bar_headset">навушнікі</string>
-  <string name="status_bar_hotspot">пункт доступу</string>
-  <string name="status_bar_location">размяшчэнне</string>
   <string name="status_bar_microphone">мікрафон</string>
   <string name="status_bar_mobile">мабільны</string>
-  <string name="status_bar_mute">сцішыць</string>
-  <string name="status_bar_notification_info_overflow">999+</string>
-  <string name="status_bar_rotate">павярнуць</string>
-  <string name="status_bar_secure">бяспечны</string>
-  <string name="status_bar_volume">гучнасць</string>
   <string name="status_communication_speaker_summary">Ідзе выклік па гучнай сувязі. Пры падлучэнні навушнікаў гук усё адно будзе з дынамікаў.</string>
   <string name="status_communication_summary">Ідзе выклік па гучнай сувязі. Вы можаце толькі наладзіць гучнасць.</string>
   <string name="stk_cc_ss_to_dial">SS-запыт заменены на стандартны выклік</string>
@@ -1806,7 +1791,6 @@
   <string name="zen_mode_feature_name">Не турбаваць</string>
   <string name="zen_mode_forever">Пакуль не выключыце</string>
   <string name="zen_mode_forever_dnd">Пакуль вы не адключыце рэжым \"Не турбаваць\"</string>
-  <string name="zen_mode_rule_name_combination">%1$s / %2$s</string>
   <string name="zen_mode_until">Да %1$s</string>
   <string name="zen_upgrade_notification_content">"Націсніце, каб паглядзець заблакаванае."</string>
   <string name="zen_upgrade_notification_title">Зменены налады рэжыму \"Не турбаваць\"</string>

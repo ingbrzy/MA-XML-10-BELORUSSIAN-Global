@@ -107,6 +107,7 @@
     <string name="currency_update_updating">Абнаўленне курсаў...…</string>
     <string name="current_rate_remind_commercial" />
     <string name="current_rate_remind_fund" />
+    <string name="date_format">d MMM yyyy</string>
     <string name="dateformat">dd.MM.yyyy</string>
     <string name="day">дзень</string>
     <string name="degDesc">Вугал</string>
@@ -115,6 +116,9 @@
     <string name="description_title">Аб праграме</string>
     <string name="devided_by_zero_reminder_message">Падзяліць на нуль нельга</string>
     <string name="dialog_privacy_content">&lt;Data>Акрамя асноўных функцый калькулятара, наша праграма таксама змяшчае навуковы калькулятар і шматфункцыянальны канвэртар. Для нармальнай працы некаторых функцый патрабуецца падлучэнне да Інтэрнэту. Вы павінны прачытаць і прыняць нашы &lt;a href=\"%1$s\">Карыстальніцкае пагадненне&lt;/a> і &lt;a href=\"%2$s\">Палітыку прыватнасці&lt;/a> перад выкарыстаннем Калькулятара.&lt;/Data></string>
+    <string name="dialog_privacy_disagree_msg">Выключаючы перамыкач, вы адклікаецца сваю згоду з Палітыкай прыватнасці праграмы \"Калькулятар\". Мы перастанем збіраць вашу асабістую інфармацыю, а ўжо сабраныя і захаваныя асабістыя дадзеныя будуць выдаленыя на працягу пэўнага перыяду ў адпаведнасці з патрабаваннямі заканадаўства, якое ўжываецца. Праграме \"Калькулятар\" трэба збіраць неабходную асабістую інфармацыю для прадастаўлення вам асноўных паслуг. Адкліканне згоды з Палітыкай прыватнасці праграмы будзе разглядацца як адмова прыняць яе паслугі, якія аказваюцца на аснове сабраных асабістых дадзеных.</string>
+    <string name="dialog_privacy_revoke_btn_ok">Адклікаць</string>
+    <string name="dialog_privacy_revoke_title">Адкліканне згоды</string>
     <string name="dialog_privacy_title">Умовы і палажэнні</string>
     <string name="dialog_rating_desc_ask">Як вы ставіцеся да Калькулятара?</string>
     <string name="dialog_rating_desc_less">Не маглі б вы накіраваць нам свой водгук?</string>
@@ -164,6 +168,7 @@
     <string name="global_search_key_word_figure">Фінансавыя сімвалы</string>
     <string name="golbal_search_calculator_setting">Калькулятар;Налады каульклятара;Налады</string>
     <string name="golbal_search_path_calculator_setting">Сістэмныя праграмы/Калькулятар/Налады</string>
+    <string name="gst_percentage">%s</string>
     <string name="height_prompt">Рост</string>
     <string name="help_content_desc">Дапамога</string>
     <string name="hint_annual_rate">Увядзіце гадавую стаўку</string>
@@ -208,6 +213,17 @@
     <string name="item_title_vel_conversion">Хуткасць</string>
     <string name="item_title_volume_conversion">"Аб'ём"</string>
     <string name="item_title_weight_conversion">Маса</string>
+    <string name="l_digit0">%d</string>
+    <string name="l_digit1">%d</string>
+    <string name="l_digit2">%d</string>
+    <string name="l_digit3">%d</string>
+    <string name="l_digit4">%d</string>
+    <string name="l_digit5">%d</string>
+    <string name="l_digit6">%d</string>
+    <string name="l_digit7">%d</string>
+    <string name="l_digit8">%d</string>
+    <string name="l_digit9">%d</string>
+    <string name="l_name_discount">Зніжка (%s зніжкі)</string>
     <string name="label_about">Аб праграме</string>
     <string name="label_clear_history">Ачысціць усё</string>
     <string name="label_date_difference">Розніца</string>
@@ -266,6 +282,7 @@
     <string name="loan_type_summary_lpr">БСК</string>
     <string name="loan_type_title">Стандартная працэнтная стаўка</string>
     <string name="loan_unit">(×10 тыс.)</string>
+    <string name="localised_number">%d</string>
     <string name="lpr_ok">Зразумела</string>
     <string name="lpr_tips_msg">З 8 кастрычніка 2019 года працэнтная стаўка па асабістых камерцыйных жыллёвых крэдытах будзе разлічвацца на аснове базіснай стаўкі па крэдытах (БСК) замест арыентыровачнай працэнтнай стаўкі 4,9%, якая ўжывалася раней. Цяпер канчатковая стаўка будзе ўсталёўвацца шляхам дадання базіснага пункта БСК. Аднагадовыя і пяцігадовыя стаўкі БСК будуць паведамляцца 20 чысла кожнага месяца (з-за банкаўскіх святаў паведамленне аб стаўках можа публікавацца з затрымкай) на сайце Народнага банка Кітая.</string>
     <string name="lpr_tips_title">БСК (базісная стаўка па крэдытах)</string>
@@ -325,6 +342,7 @@
     <string name="network_confirm_content">Для звычайнай працы канвертара валют, падаткавага і крэдытнага калькулятараў патрэбна падлучэнне да інтэрнэту і доступ да месцазнаходжання.</string>
     <string name="network_confirm_title">Запыт доступу</string>
     <string name="network_purpose">Сардэчна запрашаем у Калькулятар! Пры дапамозе Калькулятара вы можаце канвертаваць валюты, разлічваць выплаты па іпатэцы і рабіць многае іншае.</string>
+    <string name="new_privacy_string">&lt;Data>Сардэчна запрашаем у праграму Калькулятар!&lt;br/>Гэтая праграма выконвае наступныя функцыі:&lt;br/>• Базавы калькулятар&lt;br/>• Інжынерны калькулятар&lt;br/>• Універсальны канвэртар (канвертар валют, адзінак вымярэння і інш.)&lt;br/>• Шаблоны разлікаў для пазык, інвестыцый, штомесячных плацяжоў і шмат чаго іншага&lt;br/>Праграме Калькулятар трэба збіраць неабходную асабістую інфармацыю, каб прадастаўляць вам асноўныя паслугі. Вы можаце даведацца, як мы апрацоўваем інфармацыю, якую збіраем, у нашай &lt;a href= \"%1$s\">Палітыцы прыватнасці&lt;/a>. Прачытайце нашы &lt;a href=\"%2$s\">Карыстальніцкае пагадненне&lt;/a> і &lt;a href=\"%3$s\">Палітыку прыватнасці&lt;/a> перад выкарыстаннем праграмы Калькулятар. Вы можаце ў любы момант адклікаць сваю згоду з Палітыкай прыватнасці праграмы Калькулятар у Наладах. Калі вы не згодныя з нашай Палітыкай прыватнасці, вы не зможаце выкарыстоўваць некаторыя функцыі гэтай праграмы, аднак яе базавая функцыянальнасць па-ранейшаму будзе вам даступная.&lt;/Data></string>
     <string name="none">Адсутнічае</string>
     <string name="not_supported_due_to_language">Гэтая функцыя даступная толькі для кітайскай мовы</string>
     <string name="ok">OК</string>
@@ -357,7 +375,11 @@
     <string name="preference_use_voice_summary">Уключыце, каб выкарыстоўваць вывад гаворкі падчас разлікаў</string>
     <string name="preference_use_voice_title">Вывад гаворкі</string>
     <string name="preference_user_feedback_title">Водгук</string>
+    <string name="privacy_dialog_title">Прыватнасць</string>
     <string name="privacy_policy">Палітыка прыватнасці</string>
+    <string name="privacy_revoke_error">Не атрымалася адклікаць. Паспрабуйце зноў.</string>
+    <string name="privacy_revoke_progress">Адкліканне…</string>
+    <string name="privacy_switch">Адкліканне згоды</string>
     <string name="radDesc">Радыян</string>
     <string name="rate_data_provider">Працэнтныя стаўкі забяспечваюцца hexun.com</string>
     <string name="reciprocalDesc">Зваротная велічыня</string>
@@ -795,12 +817,14 @@
     <string name="unit_yuan">CNY</string>
     <string name="updating">Абнаўленне калькулятара…</string>
     <string name="user_agreement">Карыстальніцкае пагадненне</string>
+    <string name="user_experience_program_title">Праграма паляпшэння якасці</string>
     <string name="view_float_window_move">Перамясціць згорнуты Калькулятар</string>
     <string name="voiceDesc">Упраўленне голасам</string>
     <string name="voice_guide_text">Вы можаце ўключыць вывад гаворкі тут</string>
     <string name="warn_locale_unsupport_for_voice">Галасавы вывад для дадзенай мовы пакуль не падтрымліваецца.</string>
     <string name="weight_prompt">Вага</string>
     <string name="wf_word_figure">Фінансавыя сімвалы</string>
+    <string name="withdraw_network_error">Ваша прылада павінна падключыцца да сеткі, каб вы змаглі адклікаць згоду. Праверце налады сеткі і паспрабуйце яшчэ раз.</string>
     <string name="word_figure_big_unit_fen">分</string>
     <string name="word_figure_big_unit_jiao">角</string>
     <string name="word_figure_big_unit_wan">"万 "</string>

@@ -74,6 +74,7 @@
     <string name="ew_detail_receive_time_title">Час пачатку</string>
     <string name="ew_detail_receive_warn_time_message">%s сек.</string>
     <string name="ew_detail_receive_warn_time_title">Час да пачатку</string>
+    <string name="ew_save_title">Захаваць</string>
     <string name="ew_share_logo_title">Папярэджанне пра землятрус</string>
     <string name="ew_share_save_tips">Захаваць у %s</string>
     <string name="ew_share_title">Падзяліцца</string>
@@ -137,13 +138,25 @@
     <string name="gamebooster_network_dialog_message">Дазволіць праграме падключацца да інтэрнэту для выкарыстання ўсіх функцый Паскарэнні гульняў?</string>
     <string name="gamebooster_network_dialog_title">Некаторыя функцыі недаступныя</string>
     <string name="gamebox_no_network_btn">Абнавіць</string>
+    <string name="gb_adv_touch_adv_title">Класічны рэжым (па змаўчанні)</string>
+    <string name="gb_adv_touch_custom1">Водгук на рух пальца</string>
+    <string name="gb_adv_touch_custom2">Адчувальнасць да бесперапынных дотыкаў</string>
+    <string name="gb_adv_touch_custom3">Дакладнасць прыцэльвання</string>
+    <string name="gb_adv_touch_custom4">Стабільнасць націску</string>
+    <string name="gb_adv_touch_custom_tip1">Больш высокая хуткасць рэакцыі на рух пальца паскарае рэакцыю на гэты жэст, а больш нізкая хуткасць павышае стабільнасць распазнання жэсту.</string>
+    <string name="gb_adv_touch_custom_tip2">Больш высокая адчувальнасць да бесперапынных дотыкаў павялічвае хуткасць рэакцыі на гэты жэст, а больш нізкая адчувальнасць робіць жэст больш стабільным.</string>
+    <string name="gb_adv_touch_custom_tip3">Больш высокая дакладнасць прыцэльвання робіць рухі пальцамі больш дакладнымі, а больш нізкая дакладнасць прыцэльвання павышае стабільнасць распазнання жэсту.</string>
+    <string name="gb_adv_touch_custom_tip4">Больш высокая стабільнасць націску робіць націску больш стабільнымі, а больш нізкая стабільнасць націску павышае дакладнасць больш дробных рухаў пальцам.</string>
+    <string name="gb_adv_touch_custom_title">Наладзіць</string>
+    <string name="gb_adv_touch_mode_pro_tips">*Гэты рэжым прызначаны для прафесійных гульцоў. Звычайным гульцам гэты рэжым можа здацца нязручным.</string>
+    <string name="gb_adv_touch_pro_title">Рэжым Pro</string>
     <string name="gb_advance_settings_edge_gear1">Адсутнічае</string>
     <string name="gb_advance_settings_edge_gear2">Малы</string>
     <string name="gb_advance_settings_edge_gear3">Сярэдні</string>
     <string name="gb_advance_settings_edge_gear4">Вялікі</string>
     <string name="gb_advance_settings_edge_suppression">Неадчувальная зона</string>
     <string name="gb_advance_settings_edge_suppression_summary">Памяншаць адчувальнасць каля краёў экрана, каб пазбегнуць спрацоўвання элементаў кіравання. Трымайце прыладу за вылучаныя вобласці, каб не закрываць дынамікі.</string>
-    <string name="gb_advance_settings_finger_up">Адчувальнасць да дотыкаў</string>
+    <string name="gb_advance_settings_finger_up">Адчувальнасць да бесперапынных дотыкаў</string>
     <string name="gb_advance_settings_follow_up">Рэакцыя пры дотыку</string>
     <string name="gb_advance_settings_reset">Аднавіць налады па змоўчанні</string>
     <string name="gb_advance_settings_reset_button">Аднавіць</string>
@@ -161,8 +174,14 @@
     <string name="gb_advance_settings_vibration_4d_summary">Вібраваць падчас страляніны ў гульнях</string>
     <string name="gb_advance_settings_vibration_4d_summary2">Вібраваць падчас забойстваў у гульнях</string>
     <string name="gb_alipays_can_not_complete">Не атрымалася завяршыць аплату. Усталюйце для працягу.</string>
+    <string name="gb_dialog_game_speed_close">Адключэнне рэжыму «Хуткасць святла»…</string>
+    <string name="gb_dialog_game_speed_exist">Вы можаце выкарыстоўваць толькі адну гульню ў рэжыме «Хуткасць святла». Замяніць \"%s\"?</string>
     <string name="gb_game_control">Налады графікі</string>
     <string name="gb_game_settings">Дадатковыя налады</string>
+    <string name="gb_game_speed_closed">Рэжым «Хуткасць святла» адключаны</string>
+    <string name="gb_game_speed_closed_fail">Не атрымалася адключыць рэжым «Хуткасць святла»</string>
+    <string name="gb_game_speed_open">Уключаны рэжым «Хуткасць святла»</string>
+    <string name="gb_game_speed_open_fail">Не атрымалася ўключыць рэжым «Хуткасць святла»</string>
     <string name="gb_gpu_control_anisotropic_filtering">Анізатропнае фільтраванне</string>
     <string name="gb_gpu_control_anti_aliasing">Згладжванне</string>
     <string name="gb_gpu_control_fps">Частата кадраў</string>
@@ -191,6 +210,7 @@
     <string name="gb_pannel_control_mode_power_saving">Эканоміць энергію</string>
     <string name="gb_weixinpay_can_not_complete">Не атрымалася завяршыць аплату. Усталюйце для працягу.</string>
     <string name="gdpr_msg">&lt;Data>Для таго каб выкарыстоўваць асноўныя функцыі Бяспекі, вы павінны пагадзіцца, што Xiaomi будзе збіраць, апрацоўваць і выкарыстоўваць вашы асабістыя дадзеныя, уключаючы інфармацыю пра спосабы выкарыстання функцый Бяспекі (напрыклад, статыстыка мабільнага трафіку, інфармацыя аб шкоднасных праграмах, а таксама асноўная інфармацыя пра прыладу) і іншыя тыпы інфармацыі, якія вызначае наша &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Палітыка прыватнасці&lt;/a>.&lt;/Data></string>
+    <string name="install_success">%s Install Success</string>
     <string name="lucky_result_title">Чырвоныя канверты</string>
     <string name="main_toolbar_purchase">Папоўніць</string>
     <string name="midnight">Ноч</string>
@@ -341,6 +361,9 @@
     <string name="title_share_link">Падзяліцца спасылкай</string>
     <string name="today">Сёння</string>
     <string name="tomorrow">Заўтра</string>
+    <string name="tool_box_active_loading">Хвілінку…</string>
+    <string name="tool_box_active_no_networ">Не атрымалася падлучыцца да сеткі</string>
+    <string name="tool_box_active_reload">Аднавіць</string>
     <string name="tuesday">Аўторак</string>
     <string name="tuesday_short">Аўт</string>
     <string name="tuesday_shortest">Аўт</string>

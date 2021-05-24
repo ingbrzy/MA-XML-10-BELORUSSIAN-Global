@@ -65,6 +65,7 @@
     <string name="ad_setting">Пашыраныя налады</string>
     <string name="add_music">Дадаць песні</string>
     <string name="add_to_last_of_playlist">Дадаць у канец плэйліста</string>
+    <string name="add_to_playlist">Дадаць у чаргу</string>
     <string name="add_to_playlist_successful">Паспяхова дададзена</string>
     <string name="added_next_play">Дададзена ў спіс</string>
     <string name="agreement_desc">Карыстальніцкае пагадненне (абавязкова)</string>
@@ -86,6 +87,8 @@
     <string name="already_download_btn">Спампоўка…</string>
     <string name="already_favorited">Ужо ў абраным</string>
     <string name="always_use_metered">Заўсёды выкарыстоўваць мабільны інтэрнэт</string>
+    <string name="app_description_content">Музыка — гэта сістэмная праграма, якая ўтрымлівае аўдыяплэер і дазваляе кіраваць аўдыёфайламі. Вы па-ранейшаму зможаце прайграваць аўдыёфайлы пасля выдалення ярлыка з Галоўнага экрана.</string>
+    <string name="app_description_title">Выдаліць «Музыку» з Галоўнага экрана?</string>
     <string name="app_label">Спампоўкі</string>
     <string name="app_permission_confirm">Зразумела</string>
     <string name="app_permission_optional">Неабавязковыя дазволы</string>
@@ -123,6 +126,7 @@
     <string name="back">Назад</string>
     <string name="back_confirm">Націсніце зноў, каб згарнуць праграму</string>
     <string name="bluetooth_device">Bluetooth прылада</string>
+    <string name="btn_text_edit">Змяніць</string>
     <string name="buffering">Буферызацыя…</string>
     <string name="button_cancel_download">Скасаваць</string>
     <string name="button_download_now">Спампаваць зараз</string>
@@ -208,6 +212,7 @@
     <string name="dialog_insufficient_space_on_cache">Не ўдаецца завяршыць спампоўку, недастаткова вольнага месца ва ўнутраным сховішчы.</string>
     <string name="dialog_insufficient_space_on_external">Немагчыма завяршыць спампоўку. Не хапае месца на SD-карце.</string>
     <string name="dialog_media_not_found">Не ўдаецца спампаваць. SD-карта недаступная.</string>
+    <string name="dialog_message_unfollow">Адпісацца ад гэтага чалавека?</string>
     <string name="dialog_my_playlist_online_changed_merge">Пакінуць</string>
     <string name="dialog_my_playlist_online_changed_message">Падобна на тое, гэты плэйліст змяніўся. Вы можаце замяніць яго новай версіяй ці пакінуць стары.</string>
     <string name="dialog_my_playlist_online_changed_replace">Замяніць</string>
@@ -235,6 +240,7 @@
     <string name="dialog_song_view_type_artist">Па выканаўцу</string>
     <string name="dialog_song_view_type_folder">Па папцы</string>
     <string name="dialog_song_view_type_song">Па песьні</string>
+    <string name="dialog_subtitle_make_playlist_public">Публічныя плэйлісты даступныя іншым людзям. Прыватныя плэйлісты бачныя толькі вам на ўсіх сінхранізаваных прыладах.</string>
     <string name="dialog_title_clearlist_tracks">Выдаленне з чаргі</string>
     <string name="dialog_title_delete_tracks">Выдаліць</string>
     <string name="dialog_title_name_playlist">Назва плэйліста</string>
@@ -390,11 +396,13 @@
     <string name="fail_to_play">Немагчыма прайграць трэк</string>
     <string name="failed_not_access_sd_card">Спачатку дазволіць доступ да карткі SD</string>
     <string name="failed_obtain_permissions">Не ўдалася атрымаць дазволы</string>
+    <string name="fans">Падпісчыкі</string>
     <string name="fav_login_msg">Увайдзіце ў Mi Акаўнт для спампоўкі песень</string>
     <string name="favorite_canceled">Выдалена з абранага</string>
     <string name="favorite_playlist">Абраныя</string>
     <string name="favorite_singer">Абраныя выканаўцы</string>
     <string name="favorite_succeed">Дададзена ў абранае</string>
+    <string name="favorite_to_playlist">Дадаць у плэйліст</string>
     <string name="favorite_tracks">Абраныя</string>
     <string name="favorites">Абранае</string>
     <string name="fcm_fallback_notification_channel_label">Рознае</string>
@@ -419,7 +427,7 @@
     <string name="floating_view_dialog_stay">Застацца</string>
     <string name="floating_view_dialog_title">Пакінуць гэтую старонку?</string>
     <string name="follow">Сачыць</string>
-    <string name="followed">Падпісаны(-а)</string>
+    <string name="followed">Падпіскі</string>
     <string name="format_not_support">Фармат не падтрымліваецца.</string>
     <string name="format_unsupported_or_corrupted">Гэты фармат не падтрымліваецца або файл пашкоджаны</string>
     <string name="fragment_title_artist_album">Альбомы</string>
@@ -615,8 +623,10 @@
     <string name="no_album_info">Няма інфармацыі пра альбом</string>
     <string name="no_artist_info">Няма інфармацыі пра выканаўцу</string>
     <string name="no_downloads">Няма спамповак</string>
+    <string name="no_fans_empty_title">У вас пакуль няма падпісчыкаў</string>
     <string name="no_favorites_songs">Пуста</string>
     <string name="no_file_picker_find">"File Manager isn't installed."</string>
+    <string name="no_follow_empty_title">Вы ні на каго не падпісаныя</string>
     <string name="no_local_songs">Пуста</string>
     <string name="no_local_songs_selected">Немагчыма адправіць трэкі, якія не спампаваны</string>
     <string name="no_local_source_find">Не атрымалася знайсці песню</string>
@@ -848,6 +858,7 @@
     <string name="share_end_note">З Mi Музыкі</string>
     <string name="share_failed">Не атрымалася падзяліцца</string>
     <string name="share_image_error">Не атрымалася падзяліцца выявай з-за памылкі спампоўкі</string>
+    <string name="share_song">Падзяліцца</string>
     <string name="share_text_list">"Плэйліст ад Mi Музыкі: "</string>
     <string name="share_text_song">"Песні ў Mi Музыцы: "</string>
     <string name="show_float_first_hint">Згарнуць плэер</string>
@@ -909,6 +920,7 @@
     <string name="talkback_back">Назад</string>
     <string name="talkback_batch_process">"Некалькі аб'ектаў"</string>
     <string name="talkback_clear">Ачысціць</string>
+    <string name="talkback_cut">Рэдактар мелодый</string>
     <string name="talkback_device">Прайграваць на іншых прыладах</string>
     <string name="talkback_download">Спампаваць</string>
     <string name="talkback_favorite">Падабаецца гэта песня</string>
@@ -933,11 +945,14 @@
     <string name="title_online_recommend">Папулярныя плэйлісты</string>
     <string name="title_search_history">Гісторыя пошуку</string>
     <string name="title_search_hot">Папулярныя</string>
+    <string name="toast_cant_collect_mine_playlist">Нельга дадаць свой плэйліст у абранае</string>
     <string name="toast_cant_commit_without_title">Увядзіце назву песні</string>
     <string name="toast_download_error_by_count_limit">Вы выдаткавалі квоту на спампоўку ў гэтым месяцы.</string>
     <string name="toast_download_error_by_not_login">Увайдзіце ў Mi акаўнт і паўтарыце спробу.</string>
     <string name="toast_download_error_by_vip_required">Набудзьце пакет Прэміум для спампоўкі гэтага трэка.</string>
     <string name="toast_download_in_process">Спампоўка ў працэсе</string>
+    <string name="toast_favorite_has_been_added">Дададзена ў плэйліст</string>
+    <string name="toast_follow_success">Падпісана паспяхова</string>
     <string name="toast_is_pro">У вас ужо ёсць падпіска PRO.</string>
     <string name="toast_my_playlist_illegal_name">Назва гэтага плэйліста несапраўднае. Пераназавіце гэты плэйліст.</string>
     <string name="toast_my_playlist_set_to_private">Гэты плэйліст цяпер прыватны. Іншыя людзі не могуць бачыць яго.</string>
@@ -948,6 +963,9 @@
     <string name="toast_normal_songs_for_download">Якасць спампоўкі: звычайная</string>
     <string name="toast_normal_songs_for_stream">Якасць праслухоўвання трэкаў: звычайная</string>
     <string name="toast_not_pro">Гэта функцыя даступна толькі ўладальнікам падпіскі PRO.</string>
+    <string name="toast_playlist_has_been_added">Дададзена ў чаргу</string>
+    <string name="toast_playlist_has_been_private">Гэта асабісты плэйліст</string>
+    <string name="toast_playlist_has_been_public">Гэта публічны плэйліст</string>
     <string name="toast_playmode_loop_playback">Паўтор бягучага плэйліста</string>
     <string name="toast_playmode_shuffle_play">Выпадковае прайграванне</string>
     <string name="toast_playmode_single_cycle">Паўтор бягучага трэка</string>
@@ -975,11 +993,15 @@
     <string name="upload_playlist_to_hungama_title">Сінхранізаваць анлайн-песні з Hungama, каб атрымліваць доступ да іх на іншых прыладах, дзе вы выкарыстоўваеце Mi Акаўнт.</string>
     <string name="upload_playlist_to_hungama_toast">Анлайн песні будуць сінхранізаваныя з Hungama</string>
     <string name="user_agreement">Карыстальніцкае пагадненне</string>
+    <string name="user_playlist_plaza">Плэйлісты</string>
     <string name="user_privacy_dialog_negative_text">Адмена</string>
     <string name="user_privacy_dialog_positive_count_down_text">Адклікаць (%s сек.)</string>
     <string name="user_privacy_dialog_positive_text">Адклікаць</string>
     <string name="user_privacy_setting_group_title">Адкліканне згоды</string>
     <string name="user_privacy_setting_title">Пераводзячы перамкач у становішча \"Адкл.\", вы адклікаецца сваю згоду з Палітыкай прыватнасці праграмы \"Mi Музыка\".</string>
+    <string name="user_profile_created_playlist_title">Карыстальніцкія плэйлісты</string>
+    <string name="user_profile_fans_count">Падпісчыкі: %s</string>
+    <string name="user_profile_follow_count">Падпіскі: %s</string>
     <string name="v7_preference_off">ВЫКЛ.</string>
     <string name="v7_preference_on">УКЛ.</string>
     <string name="version_info">Версія</string>

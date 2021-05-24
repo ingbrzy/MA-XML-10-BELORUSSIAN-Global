@@ -117,7 +117,7 @@
     <string name="clock_bg_button_setting_title">Колер фону</string>
     <string name="close">Зачыніць</string>
     <string name="close_alarm">Адключыць</string>
-    <string name="common_settings">Галерэя</string>
+    <string name="common_settings">Налады</string>
     <string name="common_timer_selector">Выбраць таймер</string>
     <string name="confirm">Пацвердзіць</string>
     <string name="confirm_abort">Адмяніць</string>
@@ -132,6 +132,7 @@
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Традыцыйны кітайскі каляндар</string>
+    <string name="date_time_picker_dialog_title">Усталяваць дату і час</string>
     <string name="day_concat">", "</string>
     <string name="default_alarm_alert">Мелодыя па змаўчанні</string>
     <string name="default_alarm_title">Мелодыя па ўзмаўчанні</string>
@@ -283,10 +284,13 @@
     <string name="miuix_appcompat_cancel_description">Скасаваць</string>
     <string name="miuix_appcompat_confirm_description">Пацвердзіць</string>
     <string name="miuix_appcompat_delete_description">Выдаліць</string>
+    <string name="miuix_appcompat_deselect_all">Зняць выбар</string>
     <string name="miuix_appcompat_deselect_all_description">Зняць выбар</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Скасаваць</string>
     <string name="miuix_appcompat_search_input_description">Пошук</string>
+    <string name="miuix_appcompat_select_all">Выбраць усё</string>
     <string name="miuix_appcompat_select_all_description">Выбраць усё</string>
+    <string name="miuix_appcompat_select_item">"Выберыце аб'екты"</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Пацягніце ўніз для абнаўлення</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Абноўлена</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Абнаўленне…</string>
@@ -379,7 +383,7 @@
     <string name="more">Яшчэ</string>
     <string name="more_alert_setting">Дадатковыя налады будзільніка</string>
     <string name="more_setting">Дадатковыя налады</string>
-    <string name="more_settings">Галерэя</string>
+    <string name="more_settings">Налады</string>
     <string name="morning">Раніца</string>
     <string name="net_permission_cancel">Не згадзіцца</string>
     <string name="net_permission_ok">Згадзіцца</string>
@@ -433,6 +437,7 @@
     <string name="search_stopwatch_keywords">Секундамер</string>
     <string name="search_timer_keywords">Таймер</string>
     <string name="search_worldclock_keywords">Час;Гадзіннік;Часавы пояс;Часавыя паясы</string>
+    <string name="send">Даслаць</string>
     <string name="set_alarm">Выберыце час</string>
     <string name="set_alarm_choose_ringtone">Выбраць мелодыю</string>
     <string name="set_alarm_done">Гатова</string>
@@ -505,7 +510,7 @@
     <string name="system_permission_agree_desc">Дазволіць гэтай праграме доступ да інтэрнэту для доступу да ўсіх яе функцый.</string>
     <string name="system_permission_main_purpose">Час прагляду, устаноўка будзільнікаў і таймераў, выкарыстанне секундамера</string>
     <string name="system_permission_purpose">Стварэнне будзільнікаў для будных дзён і налада карыстальніцкіх рынгтонаў</string>
-    <string name="system_time_setting">Галерэя</string>
+    <string name="system_time_setting">Налады</string>
     <string name="system_time_settings_category_title">Час</string>
     <string name="temperature_unit">℃</string>
     <string name="the_anniversary_of_lifting_martial_law">Гадавіна адмены ваеннага становішча</string>
@@ -617,8 +622,12 @@
     <string name="user_agreement">Карыстальніцкае пагадненне</string>
     <string name="v7_preference_off">ВЫКЛ.</string>
     <string name="v7_preference_on">УКЛ.</string>
+    <string name="version_update_dialog_negative_desc">Не зараз</string>
+    <string name="version_update_dialog_positive_desc">Абнавіць</string>
+    <string name="version_update_dialog_title">Даступна абнаўленне</string>
     <string name="vibrate_pref_summary">Вібраваць, калі гучыць будзільнік</string>
     <string name="vibrate_when_ringing">Вібраваць, калі гучыць выклік</string>
+    <string name="voice_add_alarm">Дадайце будзільнік пры дапамозе галасавой каманды</string>
     <string name="volume_button_setting_desc">Прысвоіць функцыі кнопкам сілкавання і гучнасці +/-</string>
     <string name="volume_button_setting_summary">Вызначыць функцыю клавіш гучнасці падчас званка будзільніка</string>
     <string name="volume_button_setting_title">Клавішы гучнасці</string>

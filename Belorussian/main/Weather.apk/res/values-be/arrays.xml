@@ -41,13 +41,6 @@
         <item>Небяспечна забруджаны</item>
         <item>Па-за індэксам</item>
     </string-array>
-    <string-array name="breeze">
-        <item>&lt;2 балы</item>
-        <item>&lt;6.0 км/гадз</item>
-        <item>&lt;1.7 м/с</item>
-        <item>&lt;3.7 міль/гадз</item>
-        <item>&lt;3&amp;2 вз</item>
-    </string-array>
     <string-array name="hot_city">
         <item>Beijing</item>
         <item>Shanghai</item>

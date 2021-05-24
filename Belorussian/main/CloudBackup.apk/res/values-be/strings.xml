@@ -37,18 +37,32 @@
     <string name="back_up_task_in_process">Стварэнне рэзервовай копіі…</string>
     <string name="back_up_task_unfinished">Немагчыма стварыць рэзервовую копію</string>
     <string name="backing_up_to_micloud">Стварэнне рэзервовай копіі…</string>
-    <string name="backup_failed_reason_cloud_space_not_enough">У Xiaomi Cloud недастаткова месца для захоўвання. Павысьце ўзровень свайго плана або вызваліце ​​месца ў сховішчы.</string>
+    <string name="backup_action_buy_cloud_space">Атрымаць больш месца</string>
+    <string name="backup_action_check_network">Праверыць налады сеткі</string>
+    <string name="backup_action_clean_disk_space">Вызваліць памяць</string>
+    <string name="backup_action_retry_now">Паспрабаваць зноў</string>
+    <string name="backup_failed_reason_cloud_space_not_enough">Засталося недастаткова месца ў воблачным сховішчы для захавання гэтай рэзервовай копіі. Павысьце ўзровень свайго плана або вызваліце месца ў воблачным сховішчы.</string>
     <string name="backup_failed_reason_disk_space_not_enough">Недастаткова вольнага месца ў сховішчы. Спачатку вызваліце ​​сховішча.</string>
-    <string name="backup_failed_reason_network_error">Памылка сеткі. Пачакайце хвіліну ці дзве і паўтарыце спробу.</string>
+    <string name="backup_failed_reason_network_error">Праверце налады сеткі і паспрабуйце зноў</string>
     <string name="backup_finished_notification_content">Стварэнне рэзервовай копіі завершана.</string>
     <string name="backup_now">Стварыць рэзервовую копію</string>
     <string name="backup_progress_percent_unit">%</string>
+    <string name="backup_remind_buy_cloud_space">Павысьце ўзровень свайго плана воблачного сховішча</string>
+    <string name="backup_remind_clean_disk_space">Вызваліць сховішча</string>
+    <string name="backup_remind_cloud_space_cost">Памер рэзервовай копіі: %s</string>
     <string name="backup_size">Памер: %s</string>
     <string name="backup_stopped_msg">Бягуча рэзервовая копія перазапіша папярэднюю. Націсніце для прагляду.</string>
     <string name="backup_stopped_title">Рэзерваванне прыпынена</string>
     <string name="backup_success">Стварэнне рэзервовай копіі завершана</string>
     <string name="backup_successfully">Стварэнне рэзервовай копіі завершана</string>
     <string name="backup_to_cloud">Стварыць рэзервовую копію праграмы</string>
+    <string name="backup_warning_reason_cloud_space_not_enough">Немагчыма стварыць рэзервовую копію</string>
+    <string name="backup_warning_reason_disk_space_not_enough">"Недастаткова месца ў сховішчы
+Немагчыма стварыць рэзервовую копію"</string>
+    <string name="backup_warning_reason_network_error">"Памылка сеткі
+Немагчыма стварыць рэзервовую копію"</string>
+    <string name="backup_warning_reason_no_server_response">"Падключэнне разарвана
+Паўтарыць спробу"</string>
     <string name="btn_back">Назад</string>
     <string name="btn_continue">Працягнуць</string>
     <string name="btn_restore_abort">Скасаваць</string>
@@ -61,6 +75,7 @@
     <string name="btn_retry">Праверце яшчэ раз</string>
     <string name="btn_skip">Прапусціць</string>
     <string name="button_cancel">Скасаваць</string>
+    <string name="button_confirm">Зразумела</string>
     <string name="button_delete">Выдаліць</string>
     <string name="button_next">Далей</string>
     <string name="can_not_backup_in_lite_mode">Немагчыма стварыць рэзервовую копію ў палегчаным рэжыме</string>
@@ -94,7 +109,7 @@
 *  MIUI and system settings 
 Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</string>
     <string name="cloud_back_up_frequence_choice_title">Стварэнне рэзервовых копій па раскладу</string>
-    <string name="cloud_back_up_frequence_long">Кожныя 7 дзён</string>
+    <string name="cloud_back_up_frequence_long">Кожныя %d дні (дзён)</string>
     <string name="cloud_back_up_frequence_short">Штодня</string>
     <string name="cloud_back_up_ok_btn">OК</string>
     <string name="cloud_back_up_opening">Хвілінку…</string>
@@ -105,6 +120,8 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="cloud_backup">Воблачныя рэзервовыя копіі</string>
     <string name="cloud_backup_derail_size_summary">Памер: %s</string>
     <string name="cloud_backup_detail_frequence">Стварэнне рэзервовых копій па раскладу</string>
+    <string name="cloud_backup_detail_frequence_every_7_day">Стварыць бэкап раз у %d дні (дзён)</string>
+    <string name="cloud_backup_detail_frequence_every_day">Ствараць рэзервовую копію кожны дзень</string>
     <string name="cloud_backup_detail_manage">Кіраванне рэзервовымі копіямі</string>
     <string name="cloud_backup_detail_state">Аўтарэзерваванне</string>
     <string name="cloud_backup_detail_state_summary">Ствараць рэзервовыя копіі ў Xiaomi Cloud аўтаматычна пры падлучэнні да Wi-Fi.</string>
@@ -161,8 +178,7 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="error_unknown">Нешта не так</string>
     <string name="expand_button_title">Пашыраныя налады</string>
     <string name="get_device_id_error">Немагчыма атрымаць ID прылады</string>
-    <string name="help_and_feedback">Дапамога і водгук</string>
-    <string name="hint_restore_cross_space">"Пры перамяшчэнні аб'ектаў паміж прасторамі раскладка Галоўнага экрана можа адлюстроўвацца няправільна."</string>
+    <string name="help_and_feedback">Дапамога і зваротная сувязь</string>
     <string name="home_hint_global_launcher">Працоўны стол POCO</string>
     <string name="home_hint_other_launcher">Іншы працоўны стол</string>
     <string name="home_restore_error">Не атрымалася аднавіць працоўны стол</string>
@@ -176,7 +192,7 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="menu_item_sort">Сартаванне</string>
     <string name="menu_item_sort_name">Назва</string>
     <string name="menu_item_sort_size">Памер</string>
-    <string name="msg_alert_cancel_restore">Ідзе аднаўленне. Спыніць яго?</string>
+    <string name="msg_alert_cancel_restore">"Аб'екты аднаўляюцца з Xiaomi Cloud. Адмяніць?"</string>
     <string name="msg_alert_restore_error">"Не атрымалася аднавіць аб'екты з Xiaomi Cloud. Паўтарыце спробу."</string>
     <string name="msg_restore_start_with_metered_network">"Ваш працоўны стол будзе адноўлены. Зарэзерваваныя праграмы будуць загружаныя аўтаматычна. &lt;br />&lt;b>&lt;font color='red'>Будзе загружана файлаў: %s&lt;/font>&lt;/b>"</string>
     <string name="msg_restore_with_metered_network_hint">"Пры пераходзе да аднаўлення аб'ектаў для іх загрузкі будзе выкарыстоўвацца мабільны інтэрнэт."</string>
@@ -190,12 +206,16 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="open_backup_switch">Уключыце рэзерваванне</string>
     <string name="other_device_main_space">Першая прастора</string>
     <string name="other_device_second_space">Другая прастора</string>
+    <string name="pc_mode_not_support_restore_warning">"Немагчыма аднавіць аб'екты ў рэжыме ПК. Выключыце рэжым ПК і паспрабуйце яшчэ раз."</string>
     <string name="preference_copied">\"%1$s\": скапіравана ў буфер абмену.</string>
     <string name="process_whole_recovery">Аднаўленне \"%s\"</string>
+    <string name="provision_back">Назад</string>
     <string name="provision_background_restore_more_data">"Аднавіць іншыя аб'екты ў фоне"</string>
     <string name="provision_error_connect_msg">Праверце сетку і паспрабуйце яшчэ раз. Рэзервовая копія недаступная, калі ваша прылада адлучаная ад сеткі.</string>
     <string name="provision_error_connect_title">Немагчыма падлучыцца</string>
+    <string name="provision_next">Далей</string>
     <string name="provision_restore_data">"Аднаўленне аб'ектаў"</string>
+    <string name="provision_skip_underline">Прапусціць</string>
     <string name="query_restore_description">Адновіце налады і праграмы працоўнага стала, выкарыстоўваючы гэтую рэзервовую копію. Гэта дзеянне перазапіша дадзеныя ўжо ўсталяваных дублюючых праграм. Праграмы, не ўключаныя ў рэзервовую копію, будуць перамешчаныя на апошні працоўны стол.</string>
     <string name="query_restore_summary">У Xiaomi Cloud знойдзена рэзервовая копія для гэтай прылады. Аднавіць праграмы і налады Галоўнага экрана або адзначыць прыладу як новую і выдаліць папярэднія рэзервовыя копіі з Xiaomi Cloud?</string>
     <string name="recover_home_settings">Аднаўленне налад працоўнага стала</string>
@@ -232,14 +252,14 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="restore_home_failed">Не атрымалася аднавіць працоўны стол.</string>
     <string name="restore_home_screen_apps">Аднавіць з воблачнай рэзервовай копіі</string>
     <string name="restore_init_description">Пачаць аднаўленне</string>
-    <string name="restore_network_pause">%s (Націсніце для працягу)</string>
+    <string name="restore_network_pause">Прыпынена для захавання мабільных дадзеных. Націсніце, каб працягнуць.</string>
     <string name="restore_network_unconnect">%s (чаканне падлучэння)</string>
     <string name="restore_task_cancelling">Скасаванне…</string>
     <string name="restore_task_in_process">Аднаўленне…</string>
     <string name="restore_task_unfinished">Не атрымалася аднавіць</string>
     <string name="restore_unfinished">Аднаўленне паўтарыць спробу пазней</string>
     <string name="restoring_data">Аднаўленне дадзеных…</string>
-    <string name="restoring_file_title_no_progress">Аднаўленне файлаў…</string>
+    <string name="restoring_file_title_no_progress">Аднаўленне праграм…</string>
     <string name="restoring_home_screen_apps">Аднаўленне з Xiaomi Cloud…</string>
     <string name="restoring_settings">Аднаўленне налад…</string>
     <string name="retry">Паўтор</string>

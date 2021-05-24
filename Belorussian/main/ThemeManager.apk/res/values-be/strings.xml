@@ -41,15 +41,18 @@
     <string name="account_unactivated">Акаўнт не актывіраваны</string>
     <string name="ad_app_download_start">Пачынаецца спампоўка…</string>
     <string name="ad_app_is_downloading">Спампоўка…</string>
+    <string name="ad_service">Паказаць рэкламу</string>
     <string name="add_resource_detail_fail">Не атрымалася дадаць рэсурс</string>
     <string name="agreement_desc">Карыстальніцкае пагадненне (абавязкова)</string>
     <string name="alarm_sound">Будзільнік</string>
     <string name="all_resources">Усе</string>
     <string name="all_wallpapers">Усе шпалеры</string>
+    <string name="app_description_content">«Тэмы» — гэта сістэмная праграма. Яна дае доступ да шпалер і шматлікіх варыянтаў персаналізацыі. Пасля выдалення ярлыка з Галоўнага экрана вы па-ранейшаму зможаце атрымаць доступ да праграмы «Тэмы» праз Налады.</string>
+    <string name="app_description_title">Выдаліць «Тэмы» з Галоўнага экрана?</string>
     <string name="app_name">Тэмы</string>
     <string name="app_permission_optional">Неабавязковыя дазволы</string>
-    <string name="app_permission_require">Абавязковыя дазволы</string>
-    <string name="app_permission_use_desc">Дазволы</string>
+    <string name="app_permission_require">Абавязковыя дазвалення</string>
+    <string name="app_permission_use_desc">Дазвалення</string>
     <string name="app_permission_use_group_account">Акаўнты</string>
     <string name="app_permission_use_group_account_desc">Для атрымання інфармацыі аб Mi Акаўнце</string>
     <string name="app_permission_use_group_phone">Тэлефон</string>
@@ -140,7 +143,7 @@
     <string name="dynamic_ringtone">Дынамічныя рынгтоны</string>
     <string name="dynamic_video_wallpaper">Шпалеры на 24 г</string>
     <string name="events">Падзеі</string>
-    <string name="exit">Выйсці</string>
+    <string name="exit">Выхад</string>
     <string name="exit_extreme_mode_dialog_agree">Згадзіцца</string>
     <string name="exit_extreme_mode_dialog_cancel">Скасаваць</string>
     <string name="exit_extreme_mode_dialog_title">Адключыць рэжым \"Экстрым\"</string>
@@ -181,6 +184,7 @@
     <string name="fail_to_add_account">Не атрымалася дадаць акаўнт</string>
     <string name="favorite_list">Абраныя</string>
     <string name="favorite_list_format">Абраныя %1$s</string>
+    <string name="fcm_fallback_notification_channel_label">Рознае</string>
     <string name="find_more">Знайсці яшчэ</string>
     <string name="find_more_theme">Іншыя тэмы</string>
     <string name="find_more_wallpapers">Іншыя шпалеры</string>
@@ -252,7 +256,8 @@
     <string name="lockscreen_magazine_title">Чаргаванне тэмаў</string>
     <string name="lockscreen_wallpaper">Экран блакіроўкі</string>
     <string name="lockstyle_personal_settings">Наладзіць</string>
-    <string name="login_invalid">Тэрмін сеансу скончыўся</string>
+    <string name="login_invalid">Сесія састарэла. Ўвайдзіце паўторна.</string>
+    <string name="match_theme">Падбор тэм</string>
     <string name="max_usable_themes">99+</string>
     <string name="message">Тэкставае паведамленне</string>
     <string name="message_sim_one">Паведамленне SIM 1</string>
@@ -274,7 +279,9 @@
     <string name="my_gifts">Падарункі</string>
     <string name="my_gifts_purchased">Набыта</string>
     <string name="my_gifts_received">Атрымана</string>
+    <string name="need_permission">Сардэчна запрашаем у Тэмы! Гэтая праграма дае наступныя паслугі па персаналізацыі:</string>
     <string name="no_data">Немагчыма злучыцца з сеткай</string>
+    <string name="no_network">Немагчыма злучыцца з сеткай</string>
     <string name="no_related_font">Нічога не знойдзена</string>
     <string name="no_related_ringtone">Нічога не знойдзена</string>
     <string name="no_related_theme">Нічога не знойдзена</string>
@@ -291,18 +298,24 @@
     <string name="online_precust_lifestyle">Стыль жыцця</string>
     <string name="online_precust_museum">Брытанскі музей</string>
     <string name="online_precust_plant">Расліна</string>
-    <string name="online_precust_scenery">Пейзажы</string>
+    <string name="online_precust_scenery">Пейзаж</string>
     <string name="online_ringtones">Мелодыі ў сетцы</string>
     <string name="online_search_hint">Пошук анлайн-рэсурсаў</string>
     <string name="online_themes">Тэмы ў сеткі</string>
     <string name="online_wallpapers">Анлайн-шпалеры</string>
+    <string name="ota_theme_default_push_content">Паспрабуйце нешта новае</string>
+    <string name="ota_theme_default_push_title">Надакучыла тэма па змаўчанні?</string>
+    <string name="ota_theme_new_push_content">Надайце сваёй прыладзе новае аблічча</string>
+    <string name="ota_theme_new_push_title">Паспрабуйце абсалютна новыя тэмы MIUI 12</string>
+    <string name="personal_recommend_desc">Атрымліваць рэкамендацыі, заснаваныя на вашых перавагах.</string>
+    <string name="personal_recommend_title">Асабістыя рэкамендацыі</string>
     <string name="phone_ringtone">Мелодыя</string>
     <string name="popular_themes">Папулярныя тэмы</string>
     <string name="popular_wallpapers">Папулярныя шпалеры</string>
     <string name="pref_animation_preview">Аніміраваныя прадпрагляды</string>
     <string name="pref_animation_preview_switch">Паказаць пераход з экрана блакавання на Галоўны экран на вокладках тэмы</string>
     <string name="pref_privacy_policy">Палітыка канфідэнцыяльнасці</string>
-    <string name="preference_authorization_summary">Дазвол можна даць або адклікаць шляхам націску на перамыкач</string>
+    <string name="preference_authorization_summary">Выключаючы перамыкач, вы адклікаецца сваю згоду з Палітыкай прыватнасці праграмы \"Тэмы\".</string>
     <string name="preference_authorization_title">Дазвол</string>
     <string name="premium">Прэміум</string>
     <string name="present_local_themes">Мае тэмы</string>
@@ -322,6 +335,7 @@
     <string name="rank_one">1.%s</string>
     <string name="rank_three">3.%s</string>
     <string name="rank_two">2.%s</string>
+    <string name="read_write_file">Доступ да файлаў і іх захаванне на гэтай прыладзе</string>
     <string name="recently_used">Нядаўнія</string>
     <string name="refresh_footer_all_loaded">Гэта ўсё на дадзены момант.</string>
     <string name="refresh_footer_failed">Не атрымалася запампаваць дадзеныя</string>
@@ -551,8 +565,9 @@
     <string name="revoke_dialog_agree">Адклікаць</string>
     <string name="revoke_dialog_agree_with_timestamp">Адклікаць (%1$ds)</string>
     <string name="revoke_dialog_disagree">Адмена</string>
-    <string name="revoke_dialog_message">Пасля таго як вы адклічаце дазвол, праграма «Тэмы» спыніць збор вашых дадзеных і выдаліць звязаныя дадзеныя з нашых сервераў. Гэта можа зрабіць праграму «Тэмы» практычна непрыдатнай для выкарыстання. Усё роўна адклікаць дазвол?</string>
-    <string name="revoke_dialog_title">Адкліканне дазволу</string>
+    <string name="revoke_dialog_message">Выключаючы перамыкач, вы адклікаецца сваю згоду з Палітыкай прыватнасці праграмы \"Тэмы\". Мы перастанем збіраць вашу асабістую інфармацыю, а ўжо сабраныя і захаваныя асабістыя дадзеныя будуць выдаленыя на працягу пэўнага перыяду ў адпаведнасці з патрабаваннямі заканадаўства, якое ўжываецца. Праграме \"Тэмы\" трэба збіраць неабходную асабістую інфармацыю для прадастаўлення вам асноўных паслуг. Адкліканне згоды з Палітыкай прыватнасці праграмы будзе разглядацца як адмова прыняць яе паслугі на аснове сабраных асабістых дадзеных.</string>
+    <string name="revoke_dialog_title">Адкліканне згоды</string>
+    <string name="revoke_fail_message">Ваша прылада павінна падключыцца да сеткі, каб вы змаглі адклікаць згоду. Праверце налады сеткі і паспрабуйце яшчэ раз.</string>
     <string name="revoke_progress_dialog_message">Адкліканне дазволу…</string>
     <string name="revoke_toast_message">Дазвол паспяхова адкліканы</string>
     <string name="rewarded_ad_load_failed">Не атрымалася загрузіць відэа. Паспрабуеце яшчэ раз.</string>
@@ -570,9 +585,10 @@
     <string name="s2">Дазволіць рэкламе захоўваць відарыс у Галерэі відарысаў?</string>
     <string name="s3">Прыняць</string>
     <string name="s4">Адхіліць</string>
-    <string name="s5">Стварыць падзею календара</string>
+    <string name="s5">Стварыць падзею ў календары</string>
     <string name="s6">Дазволіць рэкламе стварыць падзею календара?</string>
     <string name="s7">Тэставая рэклама</string>
+    <string name="scroll_switch">"Правядзіце для пераключэння паміж аб'ектамі"</string>
     <string name="sdcard_not_mounted_dialog_message">"Устаўце SD-карту.
 "</string>
     <string name="sdcard_not_mounted_dialog_title">SD-карта адсутнічае</string>
@@ -580,7 +596,7 @@
     <string name="search_hint_header_text">Папулярныя</string>
     <string name="search_menu_title">Пошук</string>
     <string name="search_sort">Сартаваць па</string>
-    <string name="select_all">Выбраць усё</string>
+    <string name="select_all">Выбраць усе</string>
     <string name="selected_resource_file_invalid">Выбраны файл не падтрымліваецца</string>
     <string name="set_color_ring_back_tone">Сігнал выкліку</string>
     <string name="settings">Налады</string>
@@ -594,6 +610,7 @@
     <string name="sim_one">SIM 1</string>
     <string name="sim_two">SIM 2</string>
     <string name="similar_theme">Падобныя тэмы</string>
+    <string name="storage_file">"Для захавання загружаных аб'ектаў"</string>
     <string name="swipe_find_more">Свайп уверх для прагляду падрабязнасьцяў</string>
     <string name="system_phone">Выклікі</string>
     <string name="system_precust">Перадусталяваныя</string>
@@ -604,6 +621,7 @@
     <string name="theme_apply_audio_dialog_item_notification">Апавяшчэнне</string>
     <string name="theme_apply_audio_dialog_item_ringtone">Мелодыя</string>
     <string name="theme_apply_failured">Не ўдалося прымяніць</string>
+    <string name="theme_apply_fully">Тэма ўсталяваная. Карусель шпалер адключаная.</string>
     <string name="theme_apply_success">Паспяхова ўжыта</string>
     <string name="theme_applying">Прымяненне…</string>
     <string name="theme_batch_update_all">Абнавіць усё</string>
@@ -636,6 +654,7 @@
     <string name="theme_component_title_statusbar">Панэль стану</string>
     <string name="theme_component_title_wallpaper">Галоўны экран</string>
     <string name="theme_current_using_has_update">Тэма была абнаўлена</string>
+    <string name="theme_desc">"Тэмы дазваляюць наладзіць некалькі аб'ектаў карыстацкага інтэрфейсу ў рамках ўсёй сістэмы."</string>
     <string name="theme_description_title_customized">Уласны</string>
     <string name="theme_description_title_default">Па змаўчанні</string>
     <string name="theme_detail">Падрабязнасці</string>
@@ -694,7 +713,7 @@
     <string name="uid_change_dialog_ok">Зразумела</string>
     <string name="uid_change_dialog_title">Перазагрузіце прыладу</string>
     <string name="unsupport_tip">Гэты фармат файла не падтрымліваецца. Паспрабуйце выбраць іншы файл.</string>
-    <string name="up_to_the_end">На гэты момант усё. Прыходзьце пазней.</string>
+    <string name="up_to_the_end">"Больш няма аб'ектаў"</string>
     <string name="update_btn">Абнавіць</string>
     <string name="update_check">Праверыць абнаўленні</string>
     <string name="update_checking">Праверка абнаўлення…</string>
@@ -709,14 +728,14 @@
     <string name="user_agree">Згадзіцца</string>
     <string name="user_authorization_dialog_agree">Згадзіцца</string>
     <string name="user_authorization_dialog_disagree">Выйсці</string>
-    <string name="user_authorization_dialog_message">Перад выкарыстаннем праграмы «Тэмы» азнаёмцеся і пагадзіцеся з нашым &lt;a href=\"%1$s\">Карыстальніцкім пагадненнем&lt;/a> і нашай &lt;a href=\"%2$s\">Палітыкай прыватнасці&lt;/a>.</string>
-    <string name="user_authorization_dialog_title">Прадастаўленне дазволу...</string>
+    <string name="user_authorization_dialog_message">"&lt;Data>Нам неабходна ажыццяўляць збор неабходнай асабістай інфармацыі, каб прадастаўляць вам базавыя паслугі. Вы можаце падрабязней даведацца пра тое, як мы апрацоўваем інфармацыю, якую збіраем, у нашай &lt;a href=\"%1$s\">Палітыцы прыватнасці&lt;/a>. Перад выкарыстаннем Тэм азнаёмцеся і пагадзіцеся з нашымі &lt;a href=\"%2$s\">Карыстальніцкім пагадненнем&lt;/a> і &lt;a href=\"%3$s\">Палітыкай прыватнасці&lt;/a>.
+Вы можаце ў любы час адклікаць сваю згоду з Палітыкай прыватнасці Тэм у Наладах.&lt;/Data>"</string>
+    <string name="user_authorization_dialog_title">Палажэння і ўмовы</string>
     <string name="user_know">Зразумела</string>
     <string name="using_theme_has_update_tips">Даступна абнаўленне для гэтай тэмы.</string>
     <string name="using_theme_next_automatic_update">Абнаўляць аўтаматычна</string>
     <string name="using_theme_next_automatic_update_summary">Аўтаматычна абнаўляць спампаваныя тэмы праз Wi-Fi</string>
     <string name="using_theme_show_ad">Рэкамендацыі</string>
-    <string name="using_wallpaper_personal">Выбар персаналізаваных шпалер</string>
     <string name="video_audio_apply_success">Відэа з гукам усталявана</string>
     <string name="video_data_tips_message">Выкарыстанне мабільнага інтэрнэту можа выклікаць дадатковыя выдаткі. Працягнуць?</string>
     <string name="video_data_tips_title">Папярэджанне пра трафік</string>
@@ -725,12 +744,9 @@
     <string name="wallpaper_apply">Ужыць</string>
     <string name="wallpaper_crop">Абрэзаць</string>
     <string name="wallpaper_decoded_error">Не атрымалася загрузіць шпалеры</string>
+    <string name="wallpaper_desc">Шпалеры надаюць вашаму Працоўнаму стала свежае аблічча.</string>
     <string name="wallpaper_detail_load_page_no_network">Злучыцеся з сеткай і паўтарыце спробу.</string>
     <string name="wallpaper_might_like">Шпалеры, якія могуць вам спадабацца</string>
-    <string name="wallpaper_personal_dialog_agree">Персаналізаваць</string>
-    <string name="wallpaper_personal_dialog_content">Выкарыстоўвайце гэтую функцыю, каб убачыць падборку шпалер, персаналізаваную ў адпаведнасці з вашымі інтарэсамі. Уключыць або адключыць гэтую функцыю можна ў наладах. Персаналізаваць шпалеры зараз?</string>
-    <string name="wallpaper_personal_dialog_disagree">Не, дзякуй</string>
-    <string name="wallpaper_personal_dialog_title">Пэрсаналізуйце вашы шпалеры</string>
     <string name="wallpaper_scroll_type_tips">Пракрутка шпалераў</string>
     <string name="wallpaper_set_as_both">Усталяваць абодва</string>
     <string name="wallpaper_set_as_desktop">Усталяваць на галоўны экран</string>

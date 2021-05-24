@@ -74,11 +74,8 @@
     <string name="input_method_category">Выберыце клавіятуру па змаўчанні, якую вы будзеце выкарыстоўваць для напісання паведамленняў, нататак і г. д. Звярніце ўвагу, што вы можаце ўсталяваць іншыя клавіятуры пазней.</string>
     <string name="input_method_setting">Выберыце клавіятуру</string>
     <string name="install_preinstall_app">Загрузка праграмы…</string>
-    <string name="item_contents_wwarning">Калі вы не уключыце блакаванне экрана і страціце прыладу, вы не зможаце перашкодзіць іншым людзям скарыстацца прыладай і атрымаць доступ да вашых асабістых дадзеных. Прапусціць настройку?</string>
     <string name="item_fingerprint">Адбітак пальца</string>
     <string name="item_lock_screen_password">Толькі блакаванне экрана</string>
-    <string name="item_return">Наладзіць</string>
-    <string name="item_skip">Прапусціць</string>
     <string name="ktlocation_U">(KT Service Agent)</string>
     <string name="ktposition_header">Перадача інфармацыі пра месцазнаходжанне аварыйна-выратавальным службам</string>
     <string name="language_picker_other_languages_title">Іншыя мовы</string>
@@ -109,9 +106,8 @@
     <string name="next_fingerprint">Далей</string>
     <string name="note_introduction">Гэтая праграма дазваляе ствараць, праглядаць і рэдагаваць нататкі.</string>
     <string name="other_settings">Дадатковыя налады</string>
-    <string name="other_settings_ad_dialog_agree">Уключыць</string>
-    <string name="other_settings_ad_dialog_content">"Калі персанальная рэкамендаваны рэклама выключана, вы будзеце бачыць такую ж колькасць рэкламных аб'яў, як і калі, калі гэтая функцыя ўключаная. Аднак рэклама больш не будзе рэлевантнай, бо яна не будзе заснавана на вашых асабістых перавагах."</string>
-    <string name="other_settings_ad_dialog_disagree">Адключыць</string>
+    <string name="other_settings_ad_dialog_content">"Пасля адключэння гэтай функцыі вы больш не будзеце атрымліваць персаналізаваную рэкламу. Аднак вы ўсё роўна ўбачыце рэкламу, якая не мае дачынення да вашых інтарэсаў. Вы можаце даведацца больш пра персаналізаванай рэкламе ў Палітыцы прыватнасці Xiaomi.
+Усё роўна адключыць персаналізаваную рэкламу?"</string>
     <string name="other_settings_ad_disable_summary">Уключыць персаналізаваную рэкламу</string>
     <string name="other_settings_ad_enable">Персаналізаваны рэклама</string>
     <string name="other_settings_ad_enable_summary">Пэрсаналізуйце рэкламу з улікам сваіх інтарэсаў</string>
@@ -129,7 +125,6 @@
     <string name="other_settings_user_experience">Праграма паляпшэння якасці</string>
     <string name="other_settings_user_experience_summary">Дапамажыце нам палепшыць прадукты і паслугі, дзелячыся сваёй статыстыкай іх выкарыстання. Падрабязней</string>
     <string name="other_settings_user_experience_summary_index">Падрабязней</string>
-    <string name="permission_MIUIDaemon_introduction">MIUI Daemon allows you to transfer data from your device when its screen is damaged.</string>
     <string name="permission_account">Доступ да акаўнтаў на вашай прыладзе:</string>
     <string name="permission_account_introduction">Для ўваходу з дапамогай Mi акаўнт</string>
     <string name="permission_application_package_introduction">Для доступу да памяці з мэтай праверкі і сканавання пакетаў усталявання</string>
@@ -162,10 +157,6 @@
     <string name="permission_picture_introduction">Для захавання, рэдагавання і сінхранізацыі фота і відэа</string>
     <string name="permission_read_call_records">Рэдагаванне Гісторыі вызаваў:</string>
     <string name="permission_read_call_records_introduction">"Для дадання аб'ектаў у Гісторыю вызаваў і выдалення заблакаваных вызаваў"</string>
-    <string name="permission_read_contacts">Accessing contacts</string>
-    <string name="permission_read_contacts_introduction">For verifying your identity</string>
-    <string name="permission_read_message">Accessing text messages</string>
-    <string name="permission_read_message_introduction">For verifying the ownership of your device</string>
     <string name="permission_read_note_introduction">Для доступу да нататак і прымацаванняў</string>
     <string name="permission_read_write_file">Доступ да файлаў і фота на прыладзе і іх захаванне:</string>
     <string name="permission_read_write_file_introduction">"Для атрымання доступу да аб'ектаў на прыладзе, іх захавання і кэшавання"</string>
@@ -186,7 +177,8 @@
     <string name="pref_title_voice_slot">Пераважная SIM для размоў</string>
     <string name="privacy_policy">Палітыка канфідэнцыяльнасці</string>
     <string name="protect_persoanl_info_statement">Мы абавязаны абараняць вашу асабістую інфармацыю ў адпаведнасці з дзеючымі законамі, правіламі і палітыкамі прыватнасці.</string>
-    <string name="provision_inputmethod_policy_description">&lt;Data>Азнаёмцеся з &lt;a href=%1$s>Палітыкай прыватнасці&lt;/a > абранай вамі клавіятуры.&lt;/Data></string>
+    <string name="provision_inputmethod_policy_description">"
+Праглядзець Палітыку канфідэнцыяльнасці выбраных клавіятур."</string>
     <string name="provision_inputmethod_policy_description1">Палітыка канфідэнцыяльнасці</string>
     <string name="recorder_introduction">Вы можаце выкарыстоўваць гэтую праграму для запісу аўдыё і рэзервовага капіявання запісаў у воблака.</string>
     <string name="require_authority_statement">Каб мы змаглі прадастаўляць вам асноўныя паслугі, вам неабходна прадаставіць нам наступныя дазволы на збор вашай асабістай інфармацыі:</string>
@@ -195,7 +187,6 @@
     <string name="security_introduction">Гэтая праграма дазваляе выдаляць непатрэбныя файлы з вашай прылады, выяўляць і выдаляць вірусы, аптымізаваць прадукцыйнасць для гульняў, эканоміць зарад батарэі, кіраваць праграмамі і дазволамі і рабіць шмат чаго яшчэ.</string>
     <string name="security_mobile_account_introduction">Для ўваходу ў сістэмныя акаўнты і кіравання імі</string>
     <string name="service_agreement">Я прачытаў(-ла) палажэнні і ўмовы і пагадзіўся(-лася) з імі.</string>
-    <string name="service_name_MIUIDaemon">MIUI Daemon</string>
     <string name="service_name_album">Галерэя</string>
     <string name="service_name_application_package">Усталёўнік пакетаў</string>
     <string name="service_name_backup">Рэзервовыя копіі</string>
@@ -268,7 +259,6 @@
     <string name="terms_privacy_policy_input_method_facemoji">Палітыка канфідэнцыяльнасці Facemoji</string>
     <string name="terms_privacy_policy_input_method_kika">Палітыка канфідэнцыяльнасці Kika</string>
     <string name="title_fingerprint">Задаць пароль</string>
-    <string name="title_set_fingerprint">Блакаванне экрана</string>
     <string name="user_agreement">Карыстальніцкае пагадненне</string>
     <string name="user_agreement_declare">Перад выкарыстаннем MIUI вы абавязаны прачытаць нашы Карыстальніцкае пагадненне і Палітыку прыватнасці і пагадзіцца з імі. Падчас актывацыі прылады Сэрвіс актывацыі Mi SIM, Xiaomi Cloud, Пошук прылады, Галоўны экран, Частыя фразы, Сэрвіс перакладу, MIUI Daemon, Прагляд HTML, MIUI SDK, Памочнік AI, Батарэя і прадукцыйнасць, Дэтэктар cілкавання, Joyose, Налады AI у АС, Кіраванне дазволамі і Абнаўленні будуць падлучацца да сеткі. Смарт-паслугі будуць падлучацца да сеткі і атрымліваць доступ да дадзеных аб вашым месцазнаходжанні.</string>
     <string name="voice_assist_advice">Mi AI дазваляе вам кіраваць прыладай з дапамогай голасу, але павышае спажыванне энергіі (+1% у гадзіну).</string>
@@ -277,15 +267,6 @@
 2. Калі слухаеце музыку з выключаным экранам."</string>
     <string name="voice_assist_desp">Скажыце \"Мі АІ\" вашай прыладзе. Мі АІ распазнае ваш голас і дапаможа кіраваць вашай прыладай.</string>
     <string name="voice_assist_title">Галасавы дапаможнік</string>
-    <string name="wc_dialog_agree">Згадзіцца</string>
-    <string name="wc_dialog_reject">Не згаджацца</string>
-    <string name="wc_dialog_summary">Карусель шпалераў — гэта цудоўныя выявы і захапляльныя гісторыі прама на экране блакавання кожны дзень.</string>
-    <string name="wc_dialog_title">Новы экран блакавання</string>
-    <string name="wc_double_check_agree">Паспрабаваць</string>
-    <string name="wc_double_check_reject">Не, дзякуй</string>
-    <string name="wc_double_check_summary">Вы можаце ўключыць карусель шпалер, каб азнаёміцца з гэтай функцыяй. Вы заўсёды можаце ўключыць або адключыць яго ў раздзеле Налады > Экран блакавання</string>
-    <string name="wc_double_check_title">Паспрабуйце карусель шпалер</string>
-    <string name="wc_notice_link_announcement_summary">Перад выкарыстаннем гэтай функцыі прачытайце і прыміце &lt;a href=\"%1$s\">Палітыку прыватнасці&lt;/a> і &lt;a href=\"%2$s\">Карыстальніцкае пагадненне&lt;/a> іншага пастаўшчыка кантэнту.</string>
     <string name="welcome">Прывітанне!</string>
     <string name="zone_picker_title">Выберыце часавы пояс</string>
 </resources>

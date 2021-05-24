@@ -138,11 +138,23 @@
         <item quantity="few">%s вынікі ў сінхранізаваных паведамленнях</item>
         <item quantity="many">%s вынікаў у сінхранізаваных паведамленнях</item>
     </plurals>
+    <plurals name="month">
+        <item quantity="other">%d месяца</item>
+        <item quantity="one">%d месяц</item>
+        <item quantity="few">%d месяцы</item>
+        <item quantity="many">%d месяцаў</item>
+    </plurals>
     <plurals name="more_atts_remaining">
         <item quantity="other">Засталося %1$d прымацавання</item>
         <item quantity="one">Засталося %1$d прымацаванне</item>
         <item quantity="few">Засталіся %1$d прымацаванні</item>
         <item quantity="many">Засталося %1$d прымацаванняў</item>
+    </plurals>
+    <plurals name="move_conversation">
+        <item quantity="other">Перамясціць %1$d гутарак</item>
+        <item quantity="one">Перамясціць гутарку</item>
+        <item quantity="few">Перамясціць %1$d гутаркі</item>
+        <item quantity="many">Перамясціць %1$d гутарак</item>
     </plurals>
     <plurals name="new_incoming_messages_many">
         <item quantity="other">Паказаць %1$d новага паведамлення.</item>
@@ -221,6 +233,12 @@
         <item quantity="one">за %1$d тыдзень</item>
         <item quantity="few">за %1$d тыдні</item>
         <item quantity="many">за %1$d тыдняў</item>
+    </plurals>
+    <plurals name="quick_reply_hint">
+        <item quantity="other">Адказаць %1$d кантакта</item>
+        <item quantity="one">Адказаць %1$d кантакту</item>
+        <item quantity="few">Адказаць %1$d кантактам</item>
+        <item quantity="many">Адказаць %1$d кантактам</item>
     </plurals>
     <plurals name="remote_search_result">
         <item quantity="other">%s выніку ва ўсіх акаўнтах</item>

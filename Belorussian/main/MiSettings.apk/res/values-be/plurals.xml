@@ -156,12 +156,6 @@
         <item quantity="few">%d разы</item>
         <item quantity="many">%d разоў</item>
     </plurals>
-    <plurals name="usage_state_unlock_count_new">
-        <item quantity="other">У сярэднім %.2f разоў</item>
-        <item quantity="one">У сярэднім %.2f раз</item>
-        <item quantity="few">У сярэднім %.2f разы</item>
-        <item quantity="many">У сярэднім %.2f разоў</item>
-    </plurals>
     <plurals name="usage_state_week_day_hour">
         <item quantity="other">Выхадныя: %d гадзін</item>
         <item quantity="one">Выхадныя: %d гадзіна</item>

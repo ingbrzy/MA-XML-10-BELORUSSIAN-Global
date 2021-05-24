@@ -69,8 +69,6 @@
     <string name="all_app_category_tools">Інструменты</string>
     <string name="all_app_category_work">Працоўны</string>
     <string name="all_apps">Усе праграмы</string>
-    <string name="all_apps_install_contentcenter_msg">Падобна на тое, inj Кантэнт-цэнтр быў выдалены. Усталяваць яшчэ раз?</string>
-    <string name="all_apps_install_contentcenter_title">Усталяваць Кантэнт-цэнтр</string>
     <string name="all_apps_no_search_results">Нічога не знойдзена</string>
     <string name="all_apps_search_app">Пошук праграм</string>
     <string name="all_apps_search_market_message">Пошук у Інтэрнэце</string>
@@ -182,7 +180,6 @@
     <string name="change_wallpaper">Змяніць</string>
     <string name="choose_wallpaper">Выберыце шпалеры</string>
     <string name="chooser_wallpaper">Выберыце новыя шпалеры</string>
-    <string name="clearable_edittext_clear_description">Ачысціць</string>
     <string name="cloud_app_restore_title">Чаканне</string>
     <string name="common_home_search_delete">Выдаленне панэлі пошуку</string>
     <string name="common_home_search_delete_cancle">Адмена</string>
@@ -324,18 +321,14 @@
     <string name="home_screen">Галоўны экран</string>
     <string name="home_slide_up_action">Правядзіце ўверх на галоўным экране</string>
     <string name="home_switch_personal_assistant">-1 экран</string>
-    <string name="icon_customize_summary">Выбраць стыль і памер</string>
-    <string name="icon_form">Значкі</string>
     <string name="icon_reorganize_channel">Спарадкаваць значкі</string>
     <string name="icon_size">Памер значкоў</string>
-    <string name="icon_style">Стыль</string>
     <string name="image_too_small_message">Зыходная выява недастаткова вялікая.</string>
     <string name="install">Усталяваць</string>
     <string name="invalid_contact_shortcut">Некарэктны кантакт</string>
     <string name="is_setting_wallpaper_message">Усталёўка шпалер…</string>
     <string name="is_system_wallpaper_message">Немагчыма выдаліць сістэмны файл</string>
     <string name="key_shortcut_settings_title">Цэтлікі кнопак</string>
-    <string name="launcher_icon_management">Кіраванне ярлыкамі на Галоўным экране</string>
     <string name="launcher_not_exist">Адбылася памылка. Вярніцеся на працоўны стол і паўтарыце спробу.</string>
     <string name="launcher_pull_down_title">Правядзіце ўніз на галоўным экране</string>
     <string name="launcher_search_bar_title">Панэль пошуку на працоўным стале</string>
@@ -423,7 +416,6 @@
     <string name="navigation_type_full_screen">Жэсты</string>
     <string name="navigation_type_title">Сістэмная навігацыя</string>
     <string name="navigation_type_virtual_key">Кнопкі</string>
-    <string name="network_error">Не атрымалася злучыцца з сеткай. Паспрабуйце яшчэ раз.</string>
     <string name="no_detail_page">Няма старонкі з інфармацыяй</string>
     <string name="no_space_toast">Недастаткова месца</string>
     <string name="no_space_toast_when_click_widget">"Недастаткова месца на гэтай старонцы. Паспрабуйце перацягнуць гэты аб'ект на іншую старонку."</string>
@@ -517,11 +509,7 @@
     <string name="recommend_loading">Загрузка</string>
     <string name="recommend_refresh">Абнавіць</string>
     <string name="recommend_xout">Не паказваць</string>
-    <string name="remove_dialog_message">Выбраныя праграмы ўтрымліваюць важныя сістэмныя функцыі. Вы можаце выдаліць толькі іх ярлыкі з працоўнага стала.</string>
-    <string name="remove_dialog_title_format">Выдаліць %s з Працоўнага стала?</string>
     <string name="remove_invalidate_gadget_tips">Адзін з выкарыстоўваных вамі віджэтаў больш не даступны. Вы можаце выбраць іншы віджэт.</string>
-    <string name="remove_sys_app_content">Вы зноў зможаце дадаць ярлык на галоўны экран у Наладах > Праграмы > Кіраванне ярлыкамі на Галоўным экране. Выдаліць зараз?</string>
-    <string name="remove_sys_app_title">Выдаліць ярлык з Галоўнага экрана?</string>
     <string name="reset_cate_tip_content">Будуць адноўлены групы праграм па змаўчанні. Усё роўна працягнуць?</string>
     <string name="reset_cate_tip_title">Аднавіць групы па змаўчанні</string>
     <string name="reset_description_first_time">Вы можаце аднавіць макет з %1$s на працягу 2 гадзін</string>
@@ -529,8 +517,6 @@
     <string name="reset_fail">Не атрымалася аднавіць</string>
     <string name="reset_scene_prompt">Размяшчэнне значкоў на галоўным экране будзе зменена на стандартнае.</string>
     <string name="reset_title">Аднавіць</string>
-    <string name="restore_icon_successful">Дададзена</string>
-    <string name="russia_preinstall_folder_name">Расія</string>
     <string name="screen_cells_config_title">Выгляд працоўнага стала</string>
     <string name="screen_locked_toast">Стан галоўнага экрана заблакаваны.</string>
     <string name="screen_number">%d экран</string>
@@ -540,7 +526,6 @@
     <string name="select_all">Выбраць усё</string>
     <string name="select_frame">Рамка</string>
     <string name="select_photo">Фота</string>
-    <string name="server_error">Здарылася памылка на серверы. Пачакайце хвілінку ці дзве і паспрабуйце зноў.</string>
     <string name="setting_wallpaper_tip">Перамяшчайце або мяняйце памер</string>
     <string name="settings">Налады</string>
     <string name="settings_shortcut">Налады</string>

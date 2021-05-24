@@ -120,23 +120,11 @@
         <item quantity="few">Не запускалася %d гады</item>
         <item quantity="many">Не запускалася %d гадоў</item>
     </plurals>
-    <plurals name="applock_app_suggest_lock">
-        <item quantity="other">Вы можаце выкарыстоўваць Абарону праграм у %1$s праграмах</item>
-        <item quantity="one">Вы можаце выкарыстоўваць Абарону праграм у %1$s праграме</item>
-        <item quantity="few">Вы можаце выкарыстоўваць Абарону праграм у %1$s праграмах</item>
-        <item quantity="many">Вы можаце выкарыстоўваць Абарону праграм у %1$s праграмах</item>
-    </plurals>
     <plurals name="applock_guide_app_count_tips">
         <item quantity="other">Вы можаце абараніць па меншай меры %s праграм</item>
         <item quantity="one">Вы можаце абараніць па меншай меры %s праграму</item>
         <item quantity="few">Вы можаце абараніць па меншай меры %s праграмы</item>
         <item quantity="many">Вы можаце абараніць па меншай меры %s праграм</item>
-    </plurals>
-    <plurals name="applock_one_key_lock">
-        <item quantity="other">%s праграм будуць абаронены Абаронай праграм</item>
-        <item quantity="one">%s праграма будзе абаронена Абаронай праграм</item>
-        <item quantity="few">%s праграмы будуць абаронены Абаронай праграм</item>
-        <item quantity="many">%s праграм будуць абаронены Абаронай праграм</item>
     </plurals>
     <plurals name="bg_network_allow_count">
         <item quantity="other">%d праграмы з падключэннем да сеткі ў фоне</item>
@@ -247,12 +235,6 @@
         <item quantity="one">Гуляе %1$d чалавек</item>
         <item quantity="few">Гуляе %1$d людзей</item>
         <item quantity="many">Гуляе %1$d людзей</item>
-    </plurals>
-    <plurals name="gb_dialog_game_uninstall_multi_tips_title">
-        <item quantity="other">Выдаліць %2$d гульняў (уключаючы %1$s)</item>
-        <item quantity="one">Выдаліць %2$d гульню (уключаючы %1$s)</item>
-        <item quantity="few">Выдаліць %2$d гульні (уключаючы %1$s)</item>
-        <item quantity="many">Выдаліць %2$d гульняў (уключаючы %1$s)</item>
     </plurals>
     <plurals name="gb_record_time_title">
         <item quantity="other">%d сек.</item>
@@ -452,18 +434,6 @@
         <item quantity="few">%2$d праграмы, уключаючы %1$s, разраджае батарэю</item>
         <item quantity="many">%2$d праграм, уключаючы %1$s, разраджае батарэю</item>
     </plurals>
-    <plurals name="notification_power_consume_issue">
-        <item quantity="other">%d праблем выкарыстання батарэі</item>
-        <item quantity="one">%d праблема выкарыстання батарэі</item>
-        <item quantity="few">%d праблемы выкарыстання батарэі</item>
-        <item quantity="many">%d праблем выкарыстання батарэі</item>
-    </plurals>
-    <plurals name="notification_power_consume_suggest">
-        <item quantity="other">"Аптымізуйце %d аб'ектаў для эканоміі зарада"</item>
-        <item quantity="one">"Аптымізуйце %d аб'ект для эканоміі зарада"</item>
-        <item quantity="few">"Аптымізуйце %d аб'екта для эканоміі зарада"</item>
-        <item quantity="many">"Аптымізуйце %d аб'ектаў для эканоміі зарада"</item>
-    </plurals>
     <plurals name="notification_title_cmcc_app_check">
         <item quantity="other">%d дня з часу апошняй праверкі</item>
         <item quantity="one">%d дзень з часу апошняй праверкі</item>
@@ -632,41 +602,11 @@
         <item quantity="few">Спамповак: %1$d</item>
         <item quantity="many">Спамповак: %1$d</item>
     </plurals>
-    <plurals name="power_center_battery_charge_number">
-        <item quantity="other">разоў</item>
-        <item quantity="one">раз</item>
-        <item quantity="few">разы</item>
-        <item quantity="many">разоў</item>
-    </plurals>
-    <plurals name="power_center_battery_consume_prolblem">
-        <item quantity="other">%d праблем выкарыстання батарэі</item>
-        <item quantity="one">%d праблема выкарыстання батарэі</item>
-        <item quantity="few">%d праблемы выкарыстання батарэі</item>
-        <item quantity="many">%d праблем выкарыстання батарэі</item>
-    </plurals>
     <plurals name="power_center_battery_day">
         <item quantity="other">"%d дня "</item>
         <item quantity="one">"%d дзень "</item>
         <item quantity="few">"%d дні "</item>
         <item quantity="many">"%d дзён "</item>
-    </plurals>
-    <plurals name="power_center_battery_duration_hour_time_format">
-        <item quantity="other">" г"</item>
-        <item quantity="one">" г"</item>
-        <item quantity="few">" г"</item>
-        <item quantity="many">" г"</item>
-    </plurals>
-    <plurals name="power_center_battery_duration_min_time_format">
-        <item quantity="other">" хв."</item>
-        <item quantity="one">" хв."</item>
-        <item quantity="few">" хв."</item>
-        <item quantity="many">" хв."</item>
-    </plurals>
-    <plurals name="power_center_battery_health_summary">
-        <item quantity="other">Цалкам зарадзіце прыладу мінімум %2$d разоў для атрымання дакладнага статусу</item>
-        <item quantity="one">Цалкам зарадзіце прыладу мінімум %2$d раз для атрымання дакладнага статусу</item>
-        <item quantity="few">Цалкам зарадзіце прыладу мінімум %2$d разы для атрымання дакладнага статусу</item>
-        <item quantity="many">Цалкам зарадзіце прыладу мінімум %2$d разоў для атрымання дакладнага статусу</item>
     </plurals>
     <plurals name="power_center_battery_hour">
         <item quantity="other">"%d гадз. "</item>
@@ -679,36 +619,6 @@
         <item quantity="one">"%d хв. "</item>
         <item quantity="few">"%d хв. "</item>
         <item quantity="many">"%d хв. "</item>
-    </plurals>
-    <plurals name="power_center_battery_problem">
-        <item quantity="other">Выпраўце %d праблем выкарыстання батарэі</item>
-        <item quantity="one">Выпраўце %d праблему выкарыстання батарэі</item>
-        <item quantity="few">Выпраўце %d праблемы выкарыстання батарэі</item>
-        <item quantity="many">Выпраўце %d праблем выкарыстання батарэі</item>
-    </plurals>
-    <plurals name="power_center_battery_problem_result">
-        <item quantity="other">Вы можаце выправіць %d праблем выкарыстання батарэі</item>
-        <item quantity="one">Вы можаце выправіць %d праблему выкарыстання батарэі</item>
-        <item quantity="few">Вы можаце выправіць %d праблемы выкарыстання батарэі</item>
-        <item quantity="many">Вы можаце выправіць %d праблем выкарыстання батарэі</item>
-    </plurals>
-    <plurals name="power_center_battery_save_suggest">
-        <item quantity="other">" Можна аптымізаваць %d аб'ектаў"</item>
-        <item quantity="one">" Можна аптымізаваць %d аб'ект"</item>
-        <item quantity="few">" Можна аптымізаваць %d аб'екта"</item>
-        <item quantity="many">" Можна аптымізаваць %d аб'ектаў"</item>
-    </plurals>
-    <plurals name="power_center_battery_suggest">
-        <item quantity="other">"Аптымізуйце %d аб'ектаў для эканоміі зарада"</item>
-        <item quantity="one">"Аптымізуйце %d аб'ект для эканоміі зарада"</item>
-        <item quantity="few">"Аптымізуйце %d аб'екта для эканоміі зарада"</item>
-        <item quantity="many">"Аптымізуйце %d аб'ектаў для эканоміі зарада"</item>
-    </plurals>
-    <plurals name="power_center_battery_suggest_result">
-        <item quantity="other">"Вы можаце аптымізаваць %d аб'ектаў для эканоміі зарада"</item>
-        <item quantity="one">"Вы можаце аптымізаваць %d аб'ект для эканоміі зарада"</item>
-        <item quantity="few">"Вы можаце аптымізаваць %d аб'екта для эканоміі зарада"</item>
-        <item quantity="many">"Вы можаце аптымізаваць %d аб'ектаў для эканоміі зарада"</item>
     </plurals>
     <plurals name="power_center_battery_temperature">
         <item quantity="other">%d℃</item>
@@ -763,18 +673,6 @@
         <item quantity="one">Ваша прылада выключыцца праз %d секунду. Падключыце зарадную прыладу.</item>
         <item quantity="few">Ваша прылада выключыцца праз %d секунды. Падключыце зарадную прыладу.</item>
         <item quantity="many">Ваша прылада выключыцца праз %d секунд. Падключыце зарадную прыладу.</item>
-    </plurals>
-    <plurals name="power_optimize_app_autostart_summary">
-        <item quantity="other">%d праграм часта запускаецца аўтаматычна</item>
-        <item quantity="one">%d праграма часта запускаецца аўтаматычна</item>
-        <item quantity="few">%d праграмы часта запускаецца аўтаматычна</item>
-        <item quantity="many">%d праграм часта запускаецца аўтаматычна</item>
-    </plurals>
-    <plurals name="power_optimize_close_app_summary">
-        <item quantity="other">%d праграм разраджаюць батарэю</item>
-        <item quantity="one">%d праграма разраджае батарэю</item>
-        <item quantity="few">%d праграмы разраджаюць батарэю</item>
-        <item quantity="many">%d праграм разраджаюць батарэю</item>
     </plurals>
     <plurals name="privacy_apps_disable_header_title">
         <item quantity="other">%d значкоў праграмы схаваныя</item>

@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="abc_action_bar_home_description">Перайсці на галоўную старонку</string>
-    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
-    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
     <string name="abc_action_bar_up_description">Перайсці ўверх</string>
     <string name="abc_action_menu_overflow_description">Дадатковыя параметры</string>
     <string name="abc_action_mode_done">Гатова</string>
@@ -33,13 +31,11 @@
     <string name="afternoon">Поўдзень</string>
     <string name="am">AM</string>
     <string name="clearable_edittext_clear_description">Ачысціць</string>
-    <string name="close">Закрыць</string>
     <string name="copy">Капіраваць</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Традыцыйны кітайскі каляндар</string>
-    <string name="date_time_picker_dialog_title">Усталяваць дату і час</string>
     <string name="early_morning">Раніца</string>
     <string name="empty" />
     <string name="eras_ad">н. э.</string>
@@ -86,20 +82,9 @@
     <string name="friday_short">Птн</string>
     <string name="friday_shortest">Птн</string>
     <string name="midnight">Ноч</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Зняць выбар</string>
-    <string name="miuix_appcompat_action_mode_select_all">Выбраць усё</string>
-    <string name="miuix_appcompat_action_mode_title_empty">"Выбраць аб'екты"</string>
-    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Больш</string>
-    <string name="miuix_appcompat_cancel_description">Скасаваць</string>
-    <string name="miuix_appcompat_confirm_description">Пацвердзіць</string>
-    <string name="miuix_appcompat_delete_description">Выдаліць</string>
-    <string name="miuix_appcompat_deselect_all">Зняць выбар</string>
-    <string name="miuix_appcompat_deselect_all_description">Зняць выбар</string>
-    <string name="miuix_appcompat_search_action_mode_cancel">Скасаваць</string>
-    <string name="miuix_appcompat_search_input_description">Пошук</string>
-    <string name="miuix_appcompat_select_all">Выбраць усё</string>
-    <string name="miuix_appcompat_select_all_description">Выбраць усё</string>
-    <string name="miuix_appcompat_select_item">"Выберыце аб'екты"</string>
+    <string name="miuix_appcompat_cloud_state_disabled">Сінхранізацыя з воблакам адключаная</string>
+    <string name="miuix_appcompat_cloud_state_finished">Сінхранізацыя з воблакам завершана</string>
+    <string name="miuix_appcompat_cloud_state_syncing">Сінхранізацыя з воблакам…</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Пацягніце ўніз для абнаўлення</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Абноўлена</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Абнаўленне…</string>
@@ -157,15 +142,12 @@
     <string name="night">Вечар</string>
     <string name="noon">Сярэдзіна дня</string>
     <string name="not_set">Не зададзена</string>
-    <string name="passport_oauth_actionbar_title">Mi Акаўнт</string>
-    <string name="passport_oauth_sucess_tip">Authorized success</string>
     <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\": скапіравана ў буфер абмену.</string>
     <string name="saturday">Субота</string>
     <string name="saturday_short">Суб</string>
     <string name="saturday_shortest">Суб</string>
     <string name="search_menu_title">Пошук</string>
-    <string name="send">Даслаць</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Нядзеля</string>
     <string name="sunday_short">Ндз</string>

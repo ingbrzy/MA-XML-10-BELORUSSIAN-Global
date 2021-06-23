@@ -128,16 +128,16 @@
         <item>map14</item>
     </string-array>
     <string-array name="bluetooth_map_versions">
-        <item>MAP 1.2 (Default)</item>
+        <item>MAP 1.2 (па змаўчанні)</item>
         <item>MAP 1.3</item>
         <item>MAP 1.4</item>
     </string-array>
     <string-array name="bt_hci_snoop_log_entries">
         <item>Адключана</item>
-        <item>Filtered</item>
+        <item>Адфільтравана</item>
         <item>Уключана</item>
-        <item>Headers filtered</item>
-        <item>Media packets filtered</item>
+        <item>Загалоўкі адфільтраваныя</item>
+        <item>Медыяпакеты адфільтраваныя</item>
     </string-array>
     <string-array name="color_mode_descriptions">
         <item>Палепшаныя колеры</item>

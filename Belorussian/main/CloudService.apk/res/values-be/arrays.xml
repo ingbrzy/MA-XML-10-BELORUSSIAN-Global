@@ -26,6 +26,18 @@
         <item>Back up important settings, including WLAN and display</item>
         <item>"Lock your device remotely if it's lost"</item>
     </string-array>
+    <string-array name="micloud_entrance_subtitleArray_china_v2">
+        <item>Сінхранізуйце кантакты, паведамленні, нататкі, каляндар і іншае</item>
+        <item>Рэзервуйце праграмы, знешні выгляд працоўнага стала і шпалеры</item>
+        <item>Back up important settings, including WLAN and display</item>
+        <item>Блакуйце прыладу аддалена ў выпадку яе страты</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_v2">
+        <item>Сінхранізуйце кантакты, паведамленні, нататкі, каляндар і іншае</item>
+        <item>Рэзервуйце праграмы, знешні выгляд працоўнага стала і шпалеры</item>
+        <item>Рэзервуйце важныя налады, у тым ліку Wi-Fi і экран</item>
+        <item>Блакуйце прыладу аддалена ў выпадку яе страты</item>
+    </string-array>
     <string-array name="micloud_entrance_titleArray">
         <item>Сінхранізацыя дадзеных</item>
         <item>Рэзерваванне працоўнага стала</item>
@@ -95,6 +107,11 @@
         <item>Музыка;Воблака;Сінхранізацыя;Воблачныя сэрвісы;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_notes">
+        <item>Сінхранізаваць нататкі з Xiaomi Cloud</item>
+        <item>Уключыць сінхранізацыю</item>
+        <item>Нататкі;Воблака;Сінхранізацыя;Воблачныя сэрвісы;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_notes_v2">
         <item>Сінхранізаваць нататкі з Xiaomi Cloud</item>
         <item>Уключыць сінхранізацыю</item>
         <item>Нататкі;Воблака;Сінхранізацыя;Воблачныя сэрвісы;Xiaomi Cloud</item>

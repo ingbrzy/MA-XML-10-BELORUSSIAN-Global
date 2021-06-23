@@ -1,5 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">Гадзіну таму</item>
+        <item quantity="one">Гадзіну таму</item>
+        <item quantity="few">Гадзіну таму</item>
+        <item quantity="many">Гадзіну таму</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">Гадзіну таму</item>
+        <item quantity="one">Гадзіну таму</item>
+        <item quantity="few">Гадзіну таму</item>
+        <item quantity="many">Гадзіну таму</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Паўгадзіны таму</item>
+        <item quantity="one">Паўгадзіны таму</item>
+        <item quantity="few">Паўгадзіны таму</item>
+        <item quantity="many">Паўгадзіны таму</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Праз гадзіну</item>
+        <item quantity="one">Праз гадзіну</item>
+        <item quantity="few">Праз гадзіну</item>
+        <item quantity="many">Праз гадзіну</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Праз паўгадзіны</item>
+        <item quantity="one">Праз паўгадзіны</item>
+        <item quantity="few">Праз паўгадзіны</item>
+        <item quantity="many">Праз паўгадзіны</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Неадкладна</item>
+        <item quantity="one">Неадкладна</item>
+        <item quantity="few">Неадкладна</item>
+        <item quantity="many">Неадкладна</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">праз %d хв</item>
+        <item quantity="one">праз 1 хв</item>
+        <item quantity="few">праз %d хв</item>
+        <item quantity="many">праз %d хв</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Толькі што</item>
+        <item quantity="one">Толькі што</item>
+        <item quantity="few">Толькі што</item>
+        <item quantity="many">Толькі што</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d хв таму</item>
+        <item quantity="one">1 хв таму</item>
+        <item quantity="few">%d хв таму</item>
+        <item quantity="many">%d хв таму</item>
+    </plurals>
     <plurals name="actionbar_large_unread_count">
         <item quantity="other">%1$d+ непрачытанага</item>
         <item quantity="one">%1$d+ непрачытанае</item>
@@ -126,11 +180,47 @@
         <item quantity="few">%1$d паведамленні будуць выдалены незваротна.</item>
         <item quantity="many">%1$d паведамленняў будуць выдалены незваротна.</item>
     </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Паўгадзіны таму</item>
+        <item quantity="one">Паўгадзіны таму</item>
+        <item quantity="few">Паўгадзіны таму</item>
+        <item quantity="many">Паўгадзіны таму</item>
+    </plurals>
     <plurals name="hide_atts_remaining">
         <item quantity="other">Схаваць %1$d прымацавання</item>
         <item quantity="one">Схаваць %1$d прымацаванне</item>
         <item quantity="few">Схаваць %1$d прымацаванні</item>
         <item quantity="many">Схаваць %1$d прымацаванняў</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Праз гадзіну</item>
+        <item quantity="one">Праз гадзіну</item>
+        <item quantity="few">Праз гадзіну</item>
+        <item quantity="many">Праз гадзіну</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Праз паўгадзіны</item>
+        <item quantity="one">Праз паўгадзіны</item>
+        <item quantity="few">Праз паўгадзіны</item>
+        <item quantity="many">Праз паўгадзіны</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Неадкладна</item>
+        <item quantity="one">Неадкладна</item>
+        <item quantity="few">Неадкладна</item>
+        <item quantity="many">Неадкладна</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">праз %d хвілін</item>
+        <item quantity="one">праз 1 хвіліну</item>
+        <item quantity="few">праз %d хвіліны</item>
+        <item quantity="many">праз %d хвілін</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Толькі што</item>
+        <item quantity="one">Толькі што</item>
+        <item quantity="few">Толькі што</item>
+        <item quantity="many">Толькі што</item>
     </plurals>
     <plurals name="local_search_result">
         <item quantity="other">%s выніку ў сінхранізаваных паведамленнях</item>
@@ -138,23 +228,17 @@
         <item quantity="few">%s вынікі ў сінхранізаваных паведамленнях</item>
         <item quantity="many">%s вынікаў у сінхранізаваных паведамленнях</item>
     </plurals>
-    <plurals name="month">
-        <item quantity="other">%d месяца</item>
-        <item quantity="one">%d месяц</item>
-        <item quantity="few">%d месяцы</item>
-        <item quantity="many">%d месяцаў</item>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">"%d аб'екта выдзеленая"</item>
+        <item quantity="one">"%d аб'ект выдзелены"</item>
+        <item quantity="few">"%d аб'екты выдзелены"</item>
+        <item quantity="many">"%d аб'ектаў выдзелена"</item>
     </plurals>
     <plurals name="more_atts_remaining">
         <item quantity="other">Засталося %1$d прымацавання</item>
         <item quantity="one">Засталося %1$d прымацаванне</item>
         <item quantity="few">Засталіся %1$d прымацаванні</item>
         <item quantity="many">Засталося %1$d прымацаванняў</item>
-    </plurals>
-    <plurals name="move_conversation">
-        <item quantity="other">Перамясціць %1$d гутарак</item>
-        <item quantity="one">Перамясціць гутарку</item>
-        <item quantity="few">Перамясціць %1$d гутаркі</item>
-        <item quantity="many">Перамясціць %1$d гутарак</item>
     </plurals>
     <plurals name="new_incoming_messages_many">
         <item quantity="other">Паказаць %1$d новага паведамлення.</item>
@@ -167,6 +251,12 @@
         <item quantity="one">%1$d новае паведамленне</item>
         <item quantity="few">%1$d новых паведамленні</item>
         <item quantity="many">%1$d новых паведамленняў</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d хвілін таму</item>
+        <item quantity="one">1 хвіліну таму</item>
+        <item quantity="few">%d хвіліны таму</item>
+        <item quantity="many">%d хвілін таму</item>
     </plurals>
     <plurals name="num_selected">
         <item quantity="other">Выбрана:%d</item>
@@ -233,12 +323,6 @@
         <item quantity="one">за %1$d тыдзень</item>
         <item quantity="few">за %1$d тыдні</item>
         <item quantity="many">за %1$d тыдняў</item>
-    </plurals>
-    <plurals name="quick_reply_hint">
-        <item quantity="other">Адказаць %1$d кантакта</item>
-        <item quantity="one">Адказаць %1$d кантакту</item>
-        <item quantity="few">Адказаць %1$d кантактам</item>
-        <item quantity="many">Адказаць %1$d кантактам</item>
     </plurals>
     <plurals name="remote_search_result">
         <item quantity="other">%s выніку ва ўсіх акаўнтах</item>

@@ -114,6 +114,18 @@
         <item quantity="few">%d папкі</item>
         <item quantity="many">%d папак</item>
     </plurals>
+    <plurals name="long_video_minute">
+        <item quantity="other">%d хв.</item>
+        <item quantity="one">%d хв.</item>
+        <item quantity="few">%d хв.</item>
+        <item quantity="many">%d хв.</item>
+    </plurals>
+    <plurals name="long_video_season">
+        <item quantity="other">%d сезона</item>
+        <item quantity="one">%d сезон</item>
+        <item quantity="few">%d сезона</item>
+        <item quantity="many">%d сезонаў</item>
+    </plurals>
     <plurals name="lv_subtitle_offset_advance_times">
         <item quantity="other">Субцітры будуць паказаны на %.1f секунд пазней</item>
         <item quantity="one">Субцітры будуць паказаны на %.1f секунду пазней</item>

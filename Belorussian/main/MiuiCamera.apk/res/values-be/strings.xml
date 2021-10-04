@@ -79,6 +79,7 @@
     <string name="accessibility_document_blackwhite_button">Сканаванне дакументаў. Чорнае і белае.</string>
     <string name="accessibility_document_origin_button">Сканаванне дакументаў. Арыгінал.</string>
     <string name="accessibility_document_strengthen_button">Сканаванне дакументаў. Палепшанае.</string>
+    <string name="accessibility_double_click_to_exit">Двойчы націсніце, каб выйсці</string>
     <string name="accessibility_dual_preview_change">Паказаць змены</string>
     <string name="accessibility_dual_preview_change_finish">Змены былі прагледжаныя</string>
     <string name="accessibility_dual_video_merged">"Аб'яднанае відэа"</string>
@@ -118,6 +119,7 @@
     <string name="accessibility_live_preview_button">"Паказаць папярэдні аб'ект"</string>
     <string name="accessibility_live_reverse_button">Выдаліць папярэдні кліп</string>
     <string name="accessibility_live_speed_panel_on">Панэль хуткасці</string>
+    <string name="accessibility_lock_focus_success">Фокус паспяхова зафіксаваны</string>
     <string name="accessibility_manually_custom_panel_on">Панэль індывідуальнай налады</string>
     <string name="accessibility_mimoji_background_panel_on">Панэль фонаў</string>
     <string name="accessibility_mimoji_gif_off">Рэжым GIF адключаны</string>
@@ -128,6 +130,7 @@
     <string name="accessibility_mimovie_on">Выкарыстоўваецца кадр фільма</string>
     <string name="accessibility_module_picker_finish">Пераключана на %s</string>
     <string name="accessibility_more">Больш</string>
+    <string name="accessibility_multi_cam_reselect_button">Выбраць камеры яшчэ раз</string>
     <string name="accessibility_open">Укл</string>
     <string name="accessibility_pano_moving_left">Перамесціце прыладу налева</string>
     <string name="accessibility_pano_moving_right">Перамесціце прыладу направа</string>
@@ -146,11 +149,14 @@
     <string name="accessibility_preview_selected">Выбрана</string>
     <string name="accessibility_preview_shrink">Паменшыць</string>
     <string name="accessibility_preview_zoom_tip">Перадпаказ павелічэння %1$.1fX</string>
+    <string name="accessibility_pro_parameters_panel_on">Адкрыйце меню з параметрамі PRO</string>
     <string name="accessibility_pro_video_simple_mode">Палегчаны рэжым</string>
     <string name="accessibility_protrait">Партрэт</string>
     <string name="accessibility_pull_down_to_open_camera">Правядзіце ўніз, каб адкрыць камеру</string>
     <string name="accessibility_record_button">Кнопка запісу</string>
     <string name="accessibility_reduce">Паменшыць</string>
+    <string name="accessibility_reference_line_image_off">Не адлюстроўваюцца лініі сеткі</string>
+    <string name="accessibility_reference_line_image_on">Адлюстровываюцца лініі сеткі</string>
     <string name="accessibility_reference_line_text">Адкрыйце панэль з опцыямі даведачнага радка</string>
     <string name="accessibility_review_thumbnail">Апошнія фота</string>
     <string name="accessibility_select_all">Выбраць усё</string>
@@ -179,6 +185,8 @@
     <string name="accessibility_timer_burst_image_off">Серыя зададзенай працягласці выключана</string>
     <string name="accessibility_timer_burst_image_on">Серыя зададзенай працягласці ўключаная</string>
     <string name="accessibility_timer_burst_text">Панэль карэкціроўкі серыі зададзенай працягласці</string>
+    <string name="accessibility_touch_focus_fail">Не атрымалася сфакусавацца</string>
+    <string name="accessibility_touch_focus_success">Паспяхова атрымалася сфакусавацца</string>
     <string name="accessibility_ultra_pixel_photography_off">%s Ultra HD адключаны</string>
     <string name="accessibility_ultra_pixel_photography_on">%s Ultra HD уключаны</string>
     <string name="accessibility_ultra_wide_off">Рэжым «Звышшырокі вугал» выключаны</string>
@@ -513,6 +521,7 @@
     <string name="custom_watermark_words">Карыстальніцкі вадзяны знак</string>
     <string name="custom_watermark_words_input_hint">Увядзіце тэкст</string>
     <string name="custom_watermark_words_save_success">Захавана паспяхова</string>
+    <string name="dd_frn_f_t">Складзеце прыладу для выкарыстання пярэдняй камеры</string>
     <string name="dialog_button_accept">Прыняць</string>
     <string name="dialog_button_back">Назад</string>
     <string name="dialog_button_cancel">Адмена</string>
@@ -565,11 +574,15 @@
     <string name="dual_video_record_remote">Падвойны запіс</string>
     <string name="dual_video_record_standalone">Падзелена</string>
     <string name="dual_video_user_guide_main_content">"Каб стварыць відэа з некалькіх камер, абярыце дзве камеры прылады і здымайце адначасова. Запісы могуць быць захаваны асобна або аб'яднаны ў падзеленым прадстаўленні або як відэа \"карцінка ў карцінке\"."</string>
+    <string name="dual_video_user_guide_main_content_new">"Відэа з некалькіх камер адначасова здымаюцца некалькімі камерамі.
+Двайны запіс на тэлефоне таксама дазваляе падлучацца да іншай прылады і ствараць відэа з некалькіх камер, выбраўшы \"Аб'яднанае\"."</string>
     <string name="dual_video_user_guide_main_title">Відэа з некалькіх камер</string>
     <string name="dual_video_user_guide_merge_content">"Здымайце двума камерамі адначасова і аб'ядноўвайце запісы ў рэжыме падзеленага прадстаўлення або як відэа \"карцінка ў карцінке\"."</string>
-    <string name="dual_video_user_guide_remote_content">Функцыя «Падвойны запіс» дазваляе камбінаваць відэасігналы з двух прылад для запісу аднаго відэа. Вы можаце праглядаць абодва відэасігнала і канчатковае відэа на гэтай прыладзе. Звярніце ўвагу, што гук будзе запісаны толькі з гэтай прылады.</string>
+    <string name="dual_video_user_guide_merge_content_new">"Два запісы можна з'яднаць у падзеленым выглядзе ці ў відэа «малюнак у малюнку»."</string>
+    <string name="dual_video_user_guide_remote_content">Яднайце стужкі з дзвюх розных прылад у адно відэа. На гэтай прыладзе вы зможаце прагледзець як стужкі, так і канчатковае відэа. Звярніце ўвагу, што гук будзе запісвацца толькі гэтай прыладай.</string>
     <string name="dual_video_user_guide_remote_p">Тэлефон %d</string>
     <string name="dual_video_user_guide_standalone_content">Здымайце двума камерамі адначасова і захоўвайце абедзве запісы як асобныя відэа.</string>
+    <string name="dual_video_user_guide_standalone_content_new">Адначасна запісаныя відэа таксама можна падзяліць і захаваць у выглядзе двух файлаў.</string>
     <string name="edit_blusher">Румяна</string>
     <string name="edit_chin">Падбародак</string>
     <string name="edit_color_skin">Адценне скуры</string>
@@ -592,6 +605,7 @@
     <string name="edit_solid">Контур</string>
     <string name="emoticon">Пакет стыкераў</string>
     <string name="error_fail_to_start_audio_capture">Не атрымалася запісаць гук</string>
+    <string name="esp_tip">Прадпрагляд пярэдняга экрана</string>
     <string name="expand_button_title">Пашыраныя налады</string>
     <string name="eye_light">Бляск вачэй</string>
     <string name="eye_light_angel">Анёл</string>
@@ -735,7 +749,7 @@
     <string name="live_sticker_updating">Абнаўленне…</string>
     <string name="live_workspace_title">Чарнавікі</string>
     <string name="live_workspace_title_edit">"Выберыце аб'екты для выдалення"</string>
-    <string name="location_access_allow">Дазволіць</string>
+    <string name="location_access_allow">Agree</string>
     <string name="location_permission_des">Запамінаць месцы, дзе былі знятыя фота і відэа</string>
     <string name="location_permission_not_ask_again">Дазвольце Камере доступ да вашага месцазнаходжання ў Наладах.</string>
     <string name="location_permission_not_ask_again_go_to_settings">Дазволіць</string>
@@ -897,6 +911,7 @@
     <string name="module_name_panorama">Панарама</string>
     <string name="module_name_portrait">Партрэт</string>
     <string name="module_name_professional">Pro</string>
+    <string name="module_name_scanner">Сканер</string>
     <string name="module_name_square">Квадрат</string>
     <string name="module_name_super_moon">Супермесяц</string>
     <string name="module_name_video">Відэа</string>
@@ -914,8 +929,8 @@
     <string name="network_access_user_notice_title">Падключэнне да інтэрнэту...</string>
     <string name="network_connection_failed">Не атрымалася падлучыцца</string>
     <string name="network_connection_ongoing">Падлучэнне…</string>
-    <string name="network_connection_prerequisites">Уключыце Bluetooth і Wi-Fi для запуску «Падвойнага запісу».</string>
-    <string name="network_connection_prerequisites_china">Turn on Bluetooth and WLAN to be able to use Dual phone recording.</string>
+    <string name="network_connection_prerequisites">Уключыце Bluetooth і Wi-Fi у Цэнтры кіравання, каб скарыстаць запіс з двух тэлефонаў.</string>
+    <string name="network_connection_prerequisites_china">Turn on Bluetooth and WLAN in Control center to be able to use Dual phone recording.</string>
     <string name="network_connection_rejected">Адхілена</string>
     <string name="network_connection_timed_out">Час чакання скончыўся</string>
     <string name="no_storage">Устаўце SD-карту перад выкарыстаннем камеры</string>
@@ -1052,6 +1067,7 @@
     <string name="pref_camera_auxiliary_close">Адкл</string>
     <string name="pref_camera_auxiliary_exposure_feedback">Праверка экспазіцыі</string>
     <string name="pref_camera_auxiliary_focus_peak">Вызначэнне вобласці факусіравання</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="pref_camera_beautify_entry_high">Высокі</string>
     <string name="pref_camera_beautify_entry_low">Нізкі</string>
     <string name="pref_camera_beautify_entry_normal">Сярэдні</string>
@@ -1084,11 +1100,12 @@
     <string name="pref_camera_delay_capture_entry_audio">Голас</string>
     <string name="pref_camera_delay_capture_title">Таймер</string>
     <string name="pref_camera_device_watermark_title">Вадзяны знак прылады</string>
-    <string name="pref_camera_dynamic_frame_rate_summary">Для паляпшэння якасці відэа ва ўмовах нізкай асветленасці частата кадраў будзе аўтаматычна зніжана.</string>
+    <string name="pref_camera_dynamic_frame_rate_summary">Для паляпшэння якасці відэа ва ўмовах нізкай асветленасці ці высокай тэмпературы частата кадраў будзе аўтаматычна зніжана</string>
     <string name="pref_camera_dynamic_frame_rate_title">Адкарэктаваць частату кадраў для ўмоў слабой асветленасці</string>
     <string name="pref_camera_eis_entry_normal">Стабільнае відэа</string>
     <string name="pref_camera_eis_entry_off">Адкл.</string>
     <string name="pref_camera_eis_entry_pro">Стабільнае відэа PRO</string>
+    <string name="pref_camera_esp">Прадпрагляд задняга экрана</string>
     <string name="pref_camera_face_info_watermark_title">Дадаваць узрост на фота</string>
     <string name="pref_camera_fastmotion_duration">Працягласць</string>
     <string name="pref_camera_fastmotion_duration_description">Працягласць сеансу здымкі па змаўчанні не абмежаваная. Вы таксама можаце ўсталяваць таймер, які спыніць сеанс у пэўны момант.</string>
@@ -1238,6 +1255,8 @@
     <string name="pref_camera_tip_id_card">Сканер пасведчанняў</string>
     <string name="pref_camera_touchafaec_entry_off">Выкл</string>
     <string name="pref_camera_touchafaec_entry_on">Укл</string>
+    <string name="pref_camera_track_focus_preferred_description">"Уключыце, каб аўтаматычна адсочваць чалавека ці жывёлу ў кадры і захоўваць на ім (ёй) фокус. Вы таксама можаце выбраць аб'ект адсочвання ўручную."</string>
+    <string name="pref_camera_track_focus_preferred_title">Адсочванне</string>
     <string name="pref_camera_ubifocus_title">Змена фокуса</string>
     <string name="pref_camera_ultra_wide_ldc_description">"Аўтаматычна выпраўляць скажоныя аб'екты"</string>
     <string name="pref_camera_ultra_wide_ldc_title">Выпраўляць скажэнні ў звышшырокавугольных здымках</string>
@@ -1402,11 +1421,15 @@
     <string name="prek_b_j_o">"Аднаўленне эфекту аб'ёмнага гучання"</string>
     <string name="prek_b_j_p">Паменшыць уплыў ветру на гукапіс</string>
     <string name="prep_video_ai_audio_new_desc_tip">"Гукі ад аб'екта ў фокусе узмацняюцца"</string>
+    <string name="prep_video_ai_audio_new_desc_tip_alone">"Гукі ад аб'екта ў фокусе узмацняюцца ў рэжыме альбомнай арыентацыі"</string>
     <string name="prep_video_ai_audio_single_desc_tip">Гукі з-за экрана фільтруюцца</string>
+    <string name="prep_video_ai_audio_single_desc_tip_alone">Гукі з-за экрана фільтруюцца ў рэжыме альбомнай арыентацыі</string>
     <string name="prep_video_ai_audio_unsupported_headset_desc_tips">Аўдыёзум не працуе з унутрыканальным маніторам і вонкавым мікрафонам</string>
     <string name="preparing_sd">Праверка SD-карты…</string>
     <string name="preview_back_pressed_hint">Націсніце яшчэ раз, каб вярнуцца да прадпрагляду</string>
     <string name="pro_color_mode">Прафесійны колер</string>
+    <string name="process_tips_1">Не складайце прыладу, пакуль відэа не будзе захавана</string>
+    <string name="process_tips_2">Не раскладвайце прыладу, пакуль відэа не будзе захавана</string>
     <string name="professional_shortcut_short">Про</string>
     <string name="recommend_macro_mode">Паспрабуйце рэжым макраздымкі</string>
     <string name="recommend_portrait">Паспрабуйце партрэтны рэжым</string>
@@ -1431,6 +1454,9 @@
     <string name="reset_manual_picture_style_toast">Параметры паспяхова скінутыя</string>
     <string name="reset_manually_parameter_confirmed">OK</string>
     <string name="reset_manually_parameter_hint">Скід</string>
+    <string name="scan_install_prompt_header">Усталяваць «Сканер»</string>
+    <string name="scan_install_prompt_loading">Усталяванне «Сканер»…</string>
+    <string name="scan_install_prompt_message">Усталяйце «Сканер» і паспрабуйце ізноў.</string>
     <string name="screen_on_proximity_sensor_hint">Каб адключыць гэтую функцыю, націсніце разам кнопкі \"Назад\" і \"Гучнасць +\".</string>
     <string name="screen_on_proximity_sensor_summary">Не закрывайце дынамік</string>
     <string name="search_menu_title">Пошук</string>
@@ -1497,6 +1523,7 @@
     <string name="super_moon_under">Месячнае святло</string>
     <string name="super_moon_window">Акно</string>
     <string name="super_night_hint">Выконваецца аптымізацыя выявы… Трымайце прыладу нерухома.</string>
+    <string name="super_night_owl_toast">Трымайце тэлефон нерухома</string>
     <string name="super_night_se_tip">Начны рэжым</string>
     <string name="super_night_toast">Трымайце тэлефон нерухома падчас здымкі</string>
     <string name="tap_to_exposure">Націсніце, каб наставіць экспазіцыю ўручную</string>
@@ -1532,9 +1559,11 @@
     <string name="ubifocus_capture_warning_message">"Выкарыстоўвайце 2 аб'екты для факусіравання: першы размясціце на адлегласці менш за 1 метр ад аб'ектыва, другі - удалечыні"</string>
     <string name="ultra_ai_pixel_photography_close_tip">AI %sUltra HD выключан</string>
     <string name="ultra_ai_pixel_photography_open_tip">AI %s Ultra HD</string>
+    <string name="ultra_pixel_100mp">100 МП</string>
     <string name="ultra_pixel_108mp">108 МП</string>
     <string name="ultra_pixel_32mp">32 МП</string>
     <string name="ultra_pixel_48mp">48 МП</string>
+    <string name="ultra_pixel_50mp">50 МП</string>
     <string name="ultra_pixel_64mp">64 МП</string>
     <string name="ultra_pixel_photography_close_tip">%s Ultra HD адключаны</string>
     <string name="ultra_pixel_photography_open_tip">%s Ultra HD уключаны</string>

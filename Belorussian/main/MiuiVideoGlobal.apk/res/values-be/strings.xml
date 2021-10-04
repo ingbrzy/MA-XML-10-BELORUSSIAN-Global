@@ -31,7 +31,6 @@
     <string name="abc_shareactionprovider_share_with">Абагуліць праз</string>
     <string name="abc_shareactionprovider_share_with_application">Абагуліць праз праграму \"%s\"</string>
     <string name="abc_toolbar_collapse_description">Згарнуць</string>
-    <string name="access_denied_info">Занадта шмат спробаў. Пачакайце хвіліну ці дзве і паспрабуйце зноў.</string>
     <string name="account_bind_secure_email_title">Дадаць эл. пошту для аднаўлення</string>
     <string name="account_bind_secure_phone_title">Дадаць нумар тэлефона для аднаўлення</string>
     <string name="account_crop_user_avatar">Абрэзаць фота</string>
@@ -74,6 +73,8 @@
     <string name="ad_download">Спампаваць</string>
     <string name="ad_join">Уступіць у супольнасць</string>
     <string name="ad_more">Яшчэ</string>
+    <string name="add_local_shortcut_add">Дадаць</string>
+    <string name="add_local_shortcut_des">Дадайце ярлык «Мае відэа» на галоўны экран для хуткага доступу да лакальных відэафайлаў.</string>
     <string name="add_search_channel_link">URL</string>
     <string name="add_search_channel_name">Назва</string>
     <string name="add_search_channel_tip">Пашукайце \"%s\" на мэтавым вэб-сайце, затым скапіруйце і ўстаўце сюды URL.</string>
@@ -108,6 +109,7 @@
     <string name="auto_play_next_off">Аўтапрайграванне адключана</string>
     <string name="auto_play_next_on">Аўтапрайграванне ўключана</string>
     <string name="back_to_mainpage">Пошук</string>
+    <string name="background_playback_enabled">Фонавае прайграванне ўкл.</string>
     <string name="before_yestoday">2 дні таму</string>
     <string name="bind_sign_in_title">Дадаць Mi Акаўнт</string>
     <string name="cancel">Скасаваць</string>
@@ -131,6 +133,7 @@
     <string name="cast_forward">Наперад</string>
     <string name="cast_forward_10">Дзесяць секунд наперад</string>
     <string name="cast_forward_30">Трыццаць секунд наперад</string>
+    <string name="cast_intro_overlay_button_text">\@android:string/ok</string>
     <string name="cast_live_label">У ЖЫВЫМ ЭФІРЫ</string>
     <string name="cast_mute">Адключыць гук</string>
     <string name="cast_notification_connected_message">Падключэнне да %1$s выканана</string>
@@ -162,6 +165,7 @@
     <string name="choose_to_signin">Так</string>
     <string name="choose_to_signup">Не, стварыць новы</string>
     <string name="clearable_edittext_clear_description">Ачысціць</string>
+    <string name="click_to_open_pip">Націсніце, каб пераключыцца ў рэжым «карцінка ў карцінке»</string>
     <string name="click_to_reload_more">Націсніце, каб загрузіць больш</string>
     <string name="click_to_retry">Паўтарыце спробу</string>
     <string name="close">Закрыць</string>
@@ -171,6 +175,8 @@
     <string name="cloud_online_switch_close_time">Вы можаце ўключыць персаналізаваныя рэкамендацыі па кантэнце ў %s</string>
     <string name="cloud_online_switch_open_time">Паказваць персаналізаваныя рэкамендацыі па кантэнце</string>
     <string name="collect_diagnosis_log">Збіраць журналы</string>
+    <string name="columbus_ad_flag_text">Рэклама</string>
+    <string name="columbus_skip_ad">Прапусціць</string>
     <string name="com_permission_desc">Mi Відэа не можа атрымаць доступ да відэа на гэтай прыладзе. Дазвольце доступ у Наладах.</string>
     <string name="com_permission_title">Патрабуюцца дазволы</string>
     <string name="comment_model_add_comment">Дадаць каментарый</string>
@@ -237,6 +243,12 @@ Mi Відэа гатова да абнаўлення.
     <string name="diagnosis_log_sent_format">"Журналы паспяхова адпраўленыя.
 ID:%s
 Адпраўце гэты код тэхперсаналу."</string>
+    <string name="dialog_app_comment_cancel">Адмена</string>
+    <string name="dialog_app_comment_default_content">Як вы ставіцеся да Mi Video?</string>
+    <string name="dialog_app_comment_ok">OК</string>
+    <string name="dialog_app_comment_select_feedback">Не маглі б вы накіраваць нам свой водгук?</string>
+    <string name="dialog_app_comment_select_praise">Добра! Ацэніце Mi Відэа у Play Store?</string>
+    <string name="dialog_app_comment_title">Ацаніце нашу праграму</string>
     <string name="dialog_disagree_privacychange_info">Вы не зможаце выкарыстоўваць анлайн-сэрвісы струменевай перадачы Mi Відэа, калі не згодныя з нашай Палітыкай прыватнасці. Націсніце «Адмена», каб вярнуцца, або «Не згаджацца», каб працягнуць і выкарыстоўваць Mi Відэа толькі як лакальны плэер.</string>
     <string name="dialog_disagree_privacychange_title">Не згодны?</string>
     <string name="dialog_privacy_change_info">Мы абнавілі Палітыку прыватнасці Mi Відэа ў сувязі з унясеннем змяненняў у прапанаваныя намі паслугі. Каб цалкам зразумець вашыя правы як карыстальніка, а таксама спосабы выкарыстання вашых дадзеных, прачытайце нашы &lt;a href=%1$s>Карыстальніцкае пагадненне&lt;/a> і &lt;a href=%2$s>Палітыку прыватнасці&lt;/a> і пагадзіцеся з імі перад выкарыстаннем праграмы.</string>
@@ -262,6 +274,8 @@ ID:%s
     <string name="download_complete">Спампавана</string>
     <string name="download_delete_tip">"Выдаліць выбраныя аб'екты?"</string>
     <string name="download_delete_title">Выдаліць</string>
+    <string name="download_guide_click_icon_to_website_or_enter_url">Увядзіце URL або націсніце на ярлык, каб адкрыць вэб-сайт</string>
+    <string name="download_guide_known">Зразумела</string>
     <string name="download_paused">Паўза</string>
     <string name="download_pending">Чаканне…</string>
     <string name="download_power_off_tips">Гэтая функцыя зараз не даступная</string>
@@ -318,6 +332,7 @@ ID:%s
     <string name="failed_dup_secure_phone_number">Гэты нумар тэлефона ўжо звязаны з іншым Mi Акаўнтам</string>
     <string name="failed_to_fetch_data">Не атрымалася загрузіць інфармацыю.</string>
     <string name="failure">Не атрымліваецца спампаваць</string>
+    <string name="favor_movie">Фільмы</string>
     <string name="favor_online_video">Відэа</string>
     <string name="favor_playlist">Плэйлісты</string>
     <string name="favorite">Абраныя</string>
@@ -441,6 +456,12 @@ ID:%s
     <string name="galleryplus_network_connect_confirm">Падключыцеся да Wi-Fi або уключыце мабільны інтэрнэт у наладах сеткі.</string>
     <string name="galleryplus_network_error">Не атрымалася падлучыцца да сеткі</string>
     <string name="galleryplus_network_not_wifi">Выкарыстанне мабільнага інтэрнэту для трансляцыі відэа можа прывесці да спагнання дадатковых збораў аператарам</string>
+    <string name="galleryplus_notification_linkvideo_subtitle1" formatted="false">Кіруйце файламі на прыладзе %$s Дадавайце субтытры %$s Трансьлюйце відэа %$s</string>
+    <string name="galleryplus_notification_linkvideo_subtitle2">Усталюйце пароль, каб абараніць свае канфідэнцыйныя відэа %$s</string>
+    <string name="galleryplus_notification_linkvideo_subtitle3">Спампоўвайце відэа з TikTok, Instagram і Twitter %$s</string>
+    <string name="galleryplus_notification_linkvideo_title1">%$s, пазнаёмцеся з усімі захапляльнымі магчымасцямі праграмы Mi Відэа!</string>
+    <string name="galleryplus_notification_linkvideo_title2">%$s, націсніце тут, каб пачаць кіраваць сваімі відэа</string>
+    <string name="galleryplus_notification_linkvideo_title3">%1$s Спампоўвайце відэа бясплатна %2$s Кіруйце сваімі файламі</string>
     <string name="galleryplus_online_cta">Mi Відэа трэба падлучыцца да Інтэрнэту, каб працаваць звычайна. Дазволіць?</string>
     <string name="galleryplus_online_cta_agree">Згадзіцца</string>
     <string name="galleryplus_online_cta_disagree">Не згаджацца</string>
@@ -449,13 +470,14 @@ ID:%s
     <string name="galleryplus_orientation_lock">Арыентацыя заблакаваная</string>
     <string name="galleryplus_orientation_unlock">Арыентацыя экрана адмыкнутая</string>
     <string name="galleryplus_permission_content">Прадастаўце Mi Відэа неабходныя дазволы, каб атрымаць магчымасць выкарыстоўваць гэтую функцыю.</string>
-    <string name="galleryplus_permission_content2">"Каб мець магчымасць выкарыстоўваць гэтую функцыю, перайдзіце ў раздзел «Налады > Праграмы > Mi Відэа > Дазволы праграм» і дазвольце Mi Відэа наступнае:
-
-1. Доступ да памяці
-2. Доступ да ідэнтыфікатару прылады"</string>
+    <string name="galleryplus_permission_content_opt">Для правільнай працы праграме Mi Відэа патрабуюцца дазволы. Ачысціце дадзеныя праграмы ў Наладах і запусціце яе яшчэ раз.</string>
+    <string name="galleryplus_permission_content_xms">Для правільнай працы праграме Mi Відэа патрабуюцца дазволы. Перайдзіце ў Налады і прадастаўце неабходныя дазволы.</string>
     <string name="galleryplus_permission_open_settings">Налады</string>
-    <string name="galleryplus_permission_refuse">Не, дзякуй</string>
-    <string name="galleryplus_permission_retry">Дазволы</string>
+    <string name="galleryplus_permission_refuse">Адмена</string>
+    <string name="galleryplus_permission_retry">Налады</string>
+    <string name="galleryplus_permission_storage_content_reshowable_video_player">Каб выкарыстоўваць лакальны відэаплэер, спачатку падайце гэтай праграме доступ да сховішча.</string>
+    <string name="galleryplus_permission_storage_content_unreshowable_video_player">Каб выкарыстоўваць лакальны відэаплэер, спачатку падайце гэтай праграме доступ да сховішча ў раздзеле «Дазволы» у Наладах.</string>
+    <string name="galleryplus_permission_storage_title">Патрабуецца доступ да сховішча</string>
     <string name="galleryplus_permission_title">Увага</string>
     <string name="galleryplus_restore_play_speed">Прайграванне на звычайнай хуткасці</string>
     <string name="galleryplus_save_cancel_toast">Націсніце «Назад» яшчэ раз для скасавання захавання відэа</string>
@@ -501,7 +523,6 @@ ID:%s
     <string name="history_local_video">Лакальныя</string>
     <string name="history_online_video">Анлайн</string>
     <string name="hot">Папулярнае</string>
-    <string name="i_know">Зразумела</string>
     <string name="identity">Ідэнтыфікацыя</string>
     <string name="inconsistent_pwd">Паролі не супадаюць</string>
     <string name="init_channels">Усталяваць налады па змаўчанні</string>
@@ -527,11 +548,14 @@ ID:%s
     <string name="live_title">У прамым эфіры</string>
     <string name="live_tv_title">Live TV</string>
     <string name="loading">Хвілінку…</string>
+    <string name="local_empty_guide">The videos you film will appear here</string>
     <string name="local_play_tip">Прайграванне лакальнага відэа</string>
+    <string name="local_push_setting_power_tag">Апавяшчэння аб лакальных відэа</string>
     <string name="local_push_title">Папулярныя сёння</string>
     <string name="local_video_create_a_new_playlist">Новы плэйліст</string>
     <string name="local_video_date">Дата</string>
     <string name="local_video_dialog_default">Па змаўчанні</string>
+    <string name="local_video_edit_playlist">Змяніць плэйліст</string>
     <string name="local_video_from_a_to_z">Ад А да Я</string>
     <string name="local_video_from_big_to_small">Ад большага да меншага</string>
     <string name="local_video_from_long_to_short">Ад доўгіх да кароткіх</string>
@@ -544,6 +568,7 @@ ID:%s
     <string name="local_video_notification_btn">Глядзець у Mi Video</string>
     <string name="local_video_notification_title">Знойдзена новае лакальнае відэа</string>
     <string name="local_video_number_of_selected">Выбрана: %1$d/%2$d</string>
+    <string name="local_video_shortcut_name">Мае відэа</string>
     <string name="local_video_size">Памер</string>
     <string name="local_video_space">Занята: %s</string>
     <string name="local_video_time">Працягласць</string>
@@ -553,6 +578,9 @@ ID:%s
     <string name="logo_neverthink">Curated by Neverthink.tv</string>
     <string name="logout">Выйсці з акаўнта</string>
     <string name="logout_account">Выйсці</string>
+    <string name="long_video_no_more_content">Пакуль што гэта ўсё</string>
+    <string name="long_video_watch_on">Глядзець на</string>
+    <string name="long_video_you_may_also_like">Вам таксама можа спадабацца</string>
     <string name="lp_base_folder">SD-карта</string>
     <string name="lp_play_mode_list_loop">Паўтараць усё</string>
     <string name="lp_play_mode_pause">Прайграць адну</string>
@@ -782,9 +810,7 @@ ID:%s
     <string name="my_feedback_title">Мае адчуванні</string>
     <string name="need_update_app">Абнавіце Mi Відэа, каб карыстацца ўсімі функцыямі</string>
     <string name="network_connect_info">Не атрымалася злучыцца з сеткай.</string>
-    <string name="network_error_info">Адбылася памылка сеткі. Праверце налады сеткі і паспрабуйце зноў.</string>
     <string name="network_failed">Не атрымалася падлучыцца да сеткі</string>
-    <string name="network_timeout_info">Не атрымалася злучыцца з сеткай. Паспрабуйце яшчэ раз.</string>
     <string name="new_channel_tip">Зірніце на новыя каналы!</string>
     <string name="next">Наступны</string>
     <string name="next_step">Далей</string>
@@ -822,9 +848,10 @@ ID:%s
     <string name="off_tip_firework_recommend">Вы не будзеце атрымліваць персанальныя рэкамендацыі па кантэнце ад Firework.</string>
     <string name="ok">OК</string>
     <string name="on_tip_firework_recommend">Вы будзеце атрымліваць персанальныя рэкамендацыі па кантэнце ад Firework.</string>
-    <string name="open_settings">Налады</string>
+    <string name="order_alphabet">А-Я</string>
     <string name="order_recently_subscribe">Новыя падпіскі</string>
     <string name="order_recently_updated">Нядаўна абноўлена</string>
+    <string name="out_of_memory_background_playback_is_suspended">Прыпынена прайграванне ў фоне з-за недахопу памяці</string>
     <string name="ovp_alert_dialog_download_install_task">Спампоўка HD-убудовы…</string>
     <string name="ovp_buffering_video_netplay_label_v5">Буферызацыя…</string>
     <string name="ovp_category">Катэгорыі</string>
@@ -859,6 +886,8 @@ ID:%s
     <string name="ovp_favor">Абраныя</string>
     <string name="ovp_favor_null">"Тут няма аб'ектаў."</string>
     <string name="ovp_feedback_title">Водгук пра Mi Відэа</string>
+    <string name="ovp_hint_new">Новы</string>
+    <string name="ovp_hint_the_latest_version">Абноўлена</string>
     <string name="ovp_home_folder_is_null_jump_upfolder_tip">Не атрымалася знайсці файл мультымедыя. Перайдзіце ў папку верхняга ўзроўню.</string>
     <string name="ovp_home_item_camera">Галерэя</string>
     <string name="ovp_home_item_download">Спампаваць</string>
@@ -874,6 +903,7 @@ ID:%s
     <string name="ovp_local_videos_title">Відэа на прыладзе</string>
     <string name="ovp_navigation_category">Катэгорыя</string>
     <string name="ovp_navigation_content">Супрацоўніцтва ў сферы кантэнту</string>
+    <string name="ovp_navigation_darkmode">Цёмны рэжым</string>
     <string name="ovp_navigation_favorites">Абраныя</string>
     <string name="ovp_navigation_feedback">Водгук</string>
     <string name="ovp_navigation_history">Гісторыя</string>
@@ -881,8 +911,10 @@ ID:%s
     <string name="ovp_navigation_language">Мова</string>
     <string name="ovp_navigation_localvideo">Лакальна</string>
     <string name="ovp_navigation_notice">Апавяшчэння</string>
+    <string name="ovp_navigation_score">Ацаніце нашу праграму</string>
     <string name="ovp_navigation_setting">Налады</string>
     <string name="ovp_navigation_subscribe">Падпіска</string>
+    <string name="ovp_navigation_version_update">Праверыць абнаўленні</string>
     <string name="ovp_player_cached_error_btn">Анлайн-відэа</string>
     <string name="ovp_player_cached_error_hint_info">Немагчыма прайграць лакальныя відэа</string>
     <string name="ovp_player_plugin_dlg_neg_btn">Закрыць</string>
@@ -923,7 +955,6 @@ ID:%s
     <string name="passport_area_code_title">Тэлефонны код вобласці</string>
     <string name="passport_bad_authentication">Няправільнае імя карыстальніка ці пароль</string>
     <string name="passport_barcode_add_account_prompt">Для дадання акаўнта адскануйце QR-код зноў пасля ўвахода.</string>
-    <string name="passport_can_not_receive_verification_code">Не атрымалі код пацвярджэння?</string>
     <string name="passport_captcha_title">Ахоўны код</string>
     <string name="passport_checking_account">Праверка пароля…</string>
     <string name="passport_close">Закрыць</string>
@@ -1041,7 +1072,7 @@ ID:%s
     <string name="plus_add_shortcut">Стварыць ярлык на Галоўным экране</string>
     <string name="plus_change_poster">Змяніць вокладку альбома</string>
     <string name="plus_continue_watching">Працягнуць прагляд</string>
-    <string name="plus_deleting_wait">Выдаленне...</string>
+    <string name="plus_deleting_wait">Выдаленне</string>
     <string name="plus_fallback">Водгук</string>
     <string name="plus_gallery_allvideos">Усе відэа</string>
     <string name="plus_gallery_folder_switch_guid">Націсніце, каб пераключыцца на прадстаўленне спісу</string>
@@ -1160,9 +1191,9 @@ ID:%s
     <string name="plus_tab_gallery">Тэчкі</string>
     <string name="plus_tab_time">Храналогія</string>
     <string name="pm">PM</string>
+    <string name="popup_click_for_download_video">Спампаваць відэа</string>
     <string name="privacy_revoke_setting">Пераводзячы перамкач у становішча «Адкл.», вы адклікаецца сваю згоду з Палітыкай прыватнасці праграмы Mi Відэа.</string>
     <string name="privacy_revoke_title">Адкліканне згоды</string>
-    <string name="progressbar_title">Праверка на наяўнасць праблем з бяспекай…</string>
     <string name="psw_hint">Пароль</string>
     <string name="psw_sign_in">Увайсці з дапамогай пароля</string>
     <string name="pull_to_refresh_from_bottom_pull_label">Пацягніце ўверх для абнаўлення…</string>
@@ -1174,6 +1205,14 @@ ID:%s
     <string name="push_message_switch">Push-паведамлення</string>
     <string name="push_message_tips">Уключыце для атрымання push-паведамленняў</string>
     <string name="pw_channels">Каналы</string>
+    <string name="question_click_bottom_tab">Вы таксама можаце націснуць на ярлык, каб адкрыць вэб-сайт.</string>
+    <string name="question_click_with_light">Націсніце на кнопку загрузкі, калі яна загарыцца.</string>
+    <string name="question_edit_url_here">Знайдзіце або ўвядзіце URL тут.</string>
+    <string name="question_how_to_download_video">Як спампаваць відэа?</string>
+    <string name="question_known">Зразумела</string>
+    <string name="question_look_video_here">Спампаваныя відэа будуць захаваны тут.</string>
+    <string name="question_next">Далей</string>
+    <string name="question_step">Прапусціць</string>
     <string name="read_and_agree">Згадзіцца</string>
     <string name="recommend_channels">Рэкамендаваныя каналы</string>
     <string name="recommend_online_switch">Анлайн-рэкамендацыі</string>
@@ -1188,6 +1227,7 @@ ID:%s
     <string name="remaining_space_not_enough">Немагчыма спампаваць з-за недахопу вольнага месца ў памяці</string>
     <string name="reminder">Увага</string>
     <string name="rename">Перайменаваць</string>
+    <string name="rename_word_out">This filename is too long</string>
     <string name="report">Справаздача</string>
     <string name="report_content_dislike">Гвалт або непрыстойныя паводзіны</string>
     <string name="report_content_fakement">Спам або махлярства</string>
@@ -1200,7 +1240,6 @@ ID:%s
     <string name="report_content_violence">Агрэсіўная гаворка</string>
     <string name="report_fail">Не атрымалася паскардзіцца. Паспрабуйце яшчэ раз.</string>
     <string name="report_success">Скарга паспяхова даслана</string>
-    <string name="request_camera_permission_message">Мы будзем абараняць вашу асабістую інфармацыю ў адпаведнасці з дзеючым заканадаўствам і нормамі. Для правільнай працы з праграмай патрабуюцца наступныя дазволы:&lt;br>&lt;br>&lt;b> Доступ да камеры (для налады фота профілю)&lt;/b>&lt;br>&lt;br>Калі вы не згодныя прадастаўляць дадзеныя дазволы, вы не зможаце скарыстацца некаторымі функцыямі гэтай праграмы. Тым не менш яе асноўныя функцыі застануцца даступныя. Вы ў любы момант можаце адклікаць дазвол у Наладах.</string>
     <string name="resend_active_email">Адправіць зноў</string>
     <string name="resend_email_reach_limit_message">Вы запыталі занадта шмат лістоў для пацвярджэння. Пераканайцеся, што ліст не трапіў у папку для спаму вашай паштовай скрыні.</string>
     <string name="resend_email_reach_limit_title">Занадта шмат спробаў</string>
@@ -1263,6 +1302,7 @@ ID:%s
     <string name="sns_sign_in">Іншыя спосабы ўваходу</string>
     <string name="source">"Крыніца: "</string>
     <string name="start_download_tip">Дададзена ў чаргу. Праглядайце ход выканання ў «Профіль > Спампоўкі».</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_external_sdcard">SD-карта</string>
     <string name="storage_internal_sdcard">Унутраная памяць</string>
     <string name="submit">Адправіць</string>
@@ -1283,7 +1323,6 @@ ID:%s
     <string name="sync_favorites_limit">У абраных ёсць больш за 500 відэа. Нам прыйдзецца выдаліць некаторыя з папярэдніх відэа, каб працягнуць сінхранізацыю.</string>
     <string name="sync_favorites_message">"Сінхранізаваць абраныя з гэтай прылады ў свой акаўнт? Аб'екты, якія больш не даступныя, будуць выдаленыя."</string>
     <string name="sync_favorites_title">Сінхранізаваць абраныя</string>
-    <string name="system_error_info">Сістэма занятая. Пачакайце хвіліну ці дзве і паспрабуйце зноў.</string>
     <string name="t_check_hide_file">"Выберыце аб'екты для ўтойвання"</string>
     <string name="t_check_unhide_file">"Выберыце аб'екты для адлюстравання"</string>
     <string name="t_downloading">Спампаванне:</string>
@@ -1304,6 +1343,7 @@ ID:%s
     <string name="t_password_null">Пароль не можа быць пустым</string>
     <string name="t_password_wrong">Уведзены няправільны пароль. Паўтарыце спробу.</string>
     <string name="t_start_download">Пачынаецца спампоўка:</string>
+    <string name="tab_name_download">Спампоўкі</string>
     <string name="tab_name_local">Лакальна</string>
     <string name="tab_name_me">Профіль</string>
     <string name="tab_name_moment">Моманты</string>
@@ -1327,6 +1367,7 @@ ID:%s
     <string name="the_forth_day">Чацвёрты дзень кітайскага Новага года</string>
     <string name="the_hksar_establishment_day">Дзень утварэння САР Ганконг</string>
     <string name="the_international_womens_day">Жаночы дзень</string>
+    <string name="the_item_choosed_tint">%s абрана</string>
     <string name="the_laba_festival">Свята Лаба</string>
     <string name="the_labour_day">Дзень працы</string>
     <string name="the_lantern_festival">Свята ліхтароў</string>
@@ -1375,6 +1416,7 @@ ID:%s
     <string name="tool_bar_notification_setting_title">Інструменты панэлі апавяшчэнняў</string>
     <string name="top_bar_game_desc">Даведайцеся пра мноства свежых гульняў тут</string>
     <string name="top_bar_game_title">Гульнявой канал</string>
+    <string name="trending_scroll_load_more">Правядзіце уверх для прагляду іншых відэа</string>
     <string name="tuesday">Аўторак</string>
     <string name="tuesday_short">Аўт</string>
     <string name="tuesday_shortest">Аўт</string>
@@ -1382,9 +1424,9 @@ ID:%s
     <string name="type_issue">Праблема</string>
     <string name="type_suggestion">Прапанова</string>
     <string name="ugc_no_net">Не атрымалася злучыцца з сеткай. Праверце налады сеткі і паспрабуйце зноў.</string>
+    <string name="ui_common_title_back">Назад</string>
     <string name="ui_log_tip">Націсніце на гэтую вобласць, каб схаваць, націсніце і ўтрымлівайце, каб ачысціць старыя запісы журнала. Перацягвайце журналы ўручную.</string>
     <string name="unknow">Невядома</string>
-    <string name="unknown_error_info">Невядомая памылка</string>
     <string name="update">Абнавіць</string>
     <string name="update_email_address_dialog_message">Перад змяненнем вашай эл. пошты для аднаўлення вам неабходна пацвердзіць асобу.</string>
     <string name="update_email_address_dialog_title">Змяніць эл. пошту для аднаўлення</string>
@@ -1426,14 +1468,20 @@ ID:%s
     <string name="video_download_fail">Не атрымалася спампаваць відэа</string>
     <string name="video_download_fail_hint">Не атрымалася спампаваць</string>
     <string name="video_download_floating_guide">Спампоўвайце відэа бясплатна</string>
+    <string name="video_download_folder_title">Спампоўкі Mi Відэа</string>
     <string name="video_download_forbidden">Немагчыма спампаваць з гэтага сайта</string>
+    <string name="video_download_login_guide">Увайдзіце ў %s, каб спампаваць відэа</string>
     <string name="video_download_network_error">Памылка сеткі</string>
     <string name="video_download_play_video_guide">Спачатку пачніце прайграванне відэа.</string>
     <string name="video_download_play_video_guide2">Націсніце на кнопку пасля таго, як яна загарыцца, каб пачаць спампоўку.</string>
+    <string name="video_download_play_video_step1">Крок %1$d</string>
+    <string name="video_download_play_video_step2">Крок %2$d</string>
     <string name="video_download_site_search">URL</string>
     <string name="video_download_source">Загрузка з Інтэрнэту</string>
     <string name="video_download_start">Спампоўка…</string>
     <string name="video_download_storage_error">Недастаткова месца ў сховішчы</string>
+    <string name="video_download_title">Спампаваць відэа</string>
+    <string name="video_download_youtube_copyright_forbidden">Немагчыма спампаваць гэтыя відэа YouTube з-за абмежаваньняў аўтарскага права</string>
     <string name="video_downloading">Спампоўка…</string>
     <string name="video_live_over">Сеанс завершаны</string>
     <string name="video_noyet_download_tip">Гэта відэа ўсё яшчэ загружаецца</string>

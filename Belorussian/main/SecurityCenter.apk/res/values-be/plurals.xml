@@ -266,6 +266,12 @@
         <item quantity="few">Пошук сярод %d праграм</item>
         <item quantity="many">Пошук сярод %d праграм</item>
     </plurals>
+    <plurals name="find_leak_risk">
+        <item quantity="other">%d пагрозы прыватнасці</item>
+        <item quantity="one">%d пагроза прыватнасці</item>
+        <item quantity="few">%d пагрозы прыватнасці</item>
+        <item quantity="many">%d пагроз прыватнасці</item>
+    </plurals>
     <plurals name="first_aid_result_summary_exception">
         <item quantity="other">%1$d праблем патрабуюць аптымізацыі</item>
         <item quantity="one">%1$d праблема патрабуе аптымізацыі</item>
@@ -349,6 +355,12 @@
         <item quantity="one">Адзначана %d раз</item>
         <item quantity="few">Адзначана %d разы запар</item>
         <item quantity="many">Адзначана %d разоў запар</item>
+    </plurals>
+    <plurals name="gb_toolbox_guide_known">
+        <item quantity="other">Зразумела (%d сек.)</item>
+        <item quantity="one">Зразумела (%d сек.)</item>
+        <item quantity="few">Зразумела (%d сек.)</item>
+        <item quantity="many">Зразумела (%d сек.)</item>
     </plurals>
     <plurals name="gb_voice_changer_toast_tips_window_bubble">
         <item quantity="other">"Паспрабуйце функцыю \"Змена голаса\" бясплатна

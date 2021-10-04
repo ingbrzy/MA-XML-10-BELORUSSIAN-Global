@@ -223,7 +223,6 @@
     <string name="card_game_title_1">Штодзённыя рэкамендацыі</string>
     <string name="card_game_title_2">Папулярна на гэтым тыдні</string>
     <string name="card_game_title_3">Выбар Mint</string>
-    <string name="cast_video">Трансляваць відэа</string>
     <string name="category">Катэгорыі</string>
     <string name="category_album">Альбомы</string>
     <string name="category_all">Усе файлы</string>
@@ -263,7 +262,6 @@
     <string name="clear_history">Ачысціць гісторыю</string>
     <string name="clear_most_visited">Апошняя гісторыя</string>
     <string name="clear_search_history">Ачысціць гісторыю</string>
-    <string name="clear_video_download">Выдаліць відэа</string>
     <string name="clearable_edittext_clear_description">Ачысціць</string>
     <string name="click_always">Націсніце «Заўсёды»</string>
     <string name="click_to_refresh">Спыніўся(-лася) тут у мінулы раз, націсніце для абнаўлення</string>
@@ -285,7 +283,6 @@
     <string name="cloud_time_tips">Апошняя сінхранізацыя</string>
     <string name="cloud_up_to_loading_tips">Адпусціце для сінхранізацыі</string>
     <string name="collect_diagnosis_log">Збіраць журналы</string>
-    <string name="collect_video">Забраць відэа</string>
     <string name="collection_articles">Артыкулы</string>
     <string name="collection_videos">Відэа</string>
     <string name="comment_app_menu">Каментарый</string>
@@ -364,15 +361,6 @@
     <string name="dark_mode">Цёмны рэжым</string>
     <string name="data_error">Памылка дадзеных</string>
     <string name="data_format_ymd">dd.MM.yyyy</string>
-    <string name="data_traffic_continue">Прайграць усё роўна</string>
-    <string name="data_traffic_download_cancel">Скасаваць</string>
-    <string name="data_traffic_download_prompt">Вы можаце запампаваць гэта відэа толькі пры падключэнні прылады да Wi-Fi.</string>
-    <string name="data_traffic_download_setting">Налады</string>
-    <string name="data_traffic_goto">Пакет трафіка</string>
-    <string name="data_traffic_prompt_free_data">Выкарыстанне мабільнага інтэрнэту для прайгравання відэа можа выклікаць дадатковыя выдаткі. Паспрабуйце выкарыстоўваць пакет мэтавага трафіку.</string>
-    <string name="data_traffic_prompt_message">Выкарыстанне мабільнага інтэрнэту для прагляду відэа павялічыць расход трафіка. Калі вы перавысіце ліміт трафіка, усталяваны вашым тарыфам, аператар сувязі можа браць дадатковую аплату.</string>
-    <string name="data_traffic_prompt_title">Выкарыстоўваецца мабільны інтэрнэт</string>
-    <string name="data_traffic_stop">Стоп</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -511,7 +499,6 @@ ID:%s
     <string name="download_title">Спампоўкі</string>
     <string name="download_unknown_title">Невядома</string>
     <string name="download_update_background">Загрузка абнаўленняў у фонавым рэжыме</string>
-    <string name="download_video">Спампаваць відэа</string>
     <string name="download_video_from_social_site">Спампаваць відэа з сацыяльнай сеткі</string>
     <string name="download_videos_from_here">Вы можаце спампоўваць відэа з гэтых сэрвісаў</string>
     <string name="download_wait_connect">Чаканне падлучэння</string>
@@ -555,7 +542,6 @@ ID:%s
     <string name="exit_clear_dialog_btn_cancel">Выйсці</string>
     <string name="exit_clear_dialog_btn_ok">Ачысціць і выйсці</string>
     <string name="exit_clear_dialog_msg">Ачысціць гісторыю перад выхадам?</string>
-    <string name="exit_fullscreen">Выйсці з поўнаэкраннага рэжыму</string>
     <string name="exit_game">Зачыніць</string>
     <string name="exo_controls_fastforward_description">Пераматаць уперад</string>
     <string name="exo_controls_fullscreen_description">Поўнаэкранны рэжым</string>
@@ -809,15 +795,6 @@ ID:%s
     <string name="make_private_msg_2">Схаваць гэтыя файлы?</string>
     <string name="max_tabs_warning">Вы не можаце адкрыць больш укладак</string>
     <string name="maximum_input_alert">Можна ўвесці не болей за 2048 сымбалаў</string>
-    <string name="media_error_action_refresh">Абнавіць</string>
-    <string name="media_error_action_replace_video_source">Не атрымалася змяніць крыніцу</string>
-    <string name="media_error_failure">Не ўдаецца прайграць відэа</string>
-    <string name="media_error_format">Фармат відэа не падтрымліваецца</string>
-    <string name="media_error_network_unreachable">Не атрымалася злучыцца з сеткай</string>
-    <string name="media_error_nomemory">Надастаткова памяці</string>
-    <string name="media_error_source">Не атрымалася знайсці крыніцу</string>
-    <string name="media_error_timeout">Перавышаны час чакання</string>
-    <string name="media_error_video_not_exist">Відэа не існуе</string>
     <string name="menu_addtodesk">Дадаць на працоўны стол</string>
     <string name="menu_exit_nightmode">Выйсці</string>
     <string name="menu_hv_swap">Паварот экрана</string>
@@ -913,6 +890,8 @@ ID:%s
     <string name="more_option">Дадаткова</string>
     <string name="more_recommend">Больш рэкамендацый</string>
     <string name="morning">Раніца</string>
+    <string name="most_visited_sites">Найбольш наведвальныя</string>
+    <string name="most_visited_sites_switch">Паказваць часта наведвальныя вэб-сайты на галоўнай старонцы</string>
     <string name="move_bookmark">Перамясціць</string>
     <string name="msn_ad_identification">Рэклама</string>
     <string name="msn_privacy">Заява аб прыватнасці Microsoft</string>
@@ -932,6 +911,7 @@ ID:%s
     <string name="mw_actionbar_textselection_title">Выберыце тэкст</string>
     <string name="mw_actionbar_web_search">Вэб-пошук</string>
     <string name="mw_autofill_popup_content_description">Адлюстраванне ўсплываючага акна аўтазапаўнення</string>
+    <string name="mw_chip_remove_icon_content_description">Remove \"%1$s\"</string>
     <string name="mw_color_picker_button_black">Чорны</string>
     <string name="mw_color_picker_button_blue">Сіні</string>
     <string name="mw_color_picker_button_cancel">Скасаваць</string>
@@ -947,7 +927,7 @@ ID:%s
     <string name="mw_color_picker_hue">Тон</string>
     <string name="mw_color_picker_saturation">Насычанасць</string>
     <string name="mw_color_picker_value">Значэнне</string>
-    <string name="mw_common_google_play_services_install_text">%1$s не будзе працаваць без сэрвісаў Google Play, якія адсутнічаюць на вашай прыладзе.</string>
+    <string name="mw_common_google_play_services_install_text">"%1$s won't run without Google Play services, which are missing from your device."</string>
     <string name="mw_config_webSettingsDefaultTextEncoding">UTF-8</string>
     <string name="mw_copy_to_clipboard_failure_message">Немагчыма скапіяваць у буфер абмену</string>
     <string name="mw_data_traffic_prompt_change">Выкарыстанне мабільнага інтэрнэту для струменевага прайгравання відэа павялічыць расход трафіка. Калі вы перавысіце ліміт трафіка, усталяваны вашым тарыфам, аператар сувязі будзе спаганяць з вас дадатковую аплату.</string>
@@ -971,6 +951,7 @@ ID:%s
     <string name="mw_js_dialog_title_default">JavaScript</string>
     <string name="mw_last_month">Мінулы месяц</string>
     <string name="mw_license_activity_title">Ліцэнзіі сістэмы WebView</string>
+    <string name="mw_link_copied">Copied URL successfully</string>
     <string name="mw_low_memory_error">Немагчыма выканаць папярэднюю аперацыю з-за недахопу памяці</string>
     <string name="mw_miui_content_copy">Капіяваць</string>
     <string name="mw_miui_content_cut">Выразаць</string>
@@ -1075,6 +1056,7 @@ ID:%s
     <string name="mw_save_password_never">Ніколі</string>
     <string name="mw_save_password_notnow">Не зараз</string>
     <string name="mw_save_password_remember">Запомніць</string>
+    <string name="mw_speech_recognition_service_not_found">"Couldn't find Google speech engine"</string>
     <string name="mw_status_bar_notification_info_overflow">999+</string>
     <string name="mw_time_picker_dialog_am">Да паўдня</string>
     <string name="mw_time_picker_dialog_hour_minute_separator">:</string>
@@ -1082,7 +1064,6 @@ ID:%s
     <string name="mw_time_picker_dialog_pm">Пасля паўдня</string>
     <string name="mw_time_picker_dialog_second_subsecond_separator">.</string>
     <string name="mw_time_picker_dialog_title">Усталяваць час</string>
-    <string name="mw_url_copied">URL паспяхова скапіяваны</string>
     <string name="mw_video_buffering_percent">Буферызацыя...</string>
     <string name="mw_video_download_no_permission">"Для спампоўкі аб'ектаў неабходныя дазволы"</string>
     <string name="mw_video_float_drag_scale_msg">Перацягніце, каб змяніць маштаб</string>
@@ -1281,7 +1262,6 @@ ID:%s
     <string name="password">Пароль</string>
     <string name="per_month">У месяц</string>
     <string name="permission_agree_service">Я прачытаў(-ла) усе прыведзеныя ніжэй ўмовы і палажэнні і згодны(-а) з імі.</string>
-    <string name="permission_alert_window">Для выкарыстання гэтай функцыі дазволіце ў Наладах адлюстраванне вокнаў, якія ўсплываюць.</string>
     <string name="permission_contacts">Кантакты</string>
     <string name="permission_dialog_msg_camera">%s запытвае доступ для выкарыстання вашай камеры</string>
     <string name="permission_dialog_msg_camera_mic">%s запытвае доступ для выкарыстання вашых камеры і мікрафона</string>
@@ -1305,7 +1285,6 @@ ID:%s
     <string name="permission_open_storage">Спачатку падайце Mi Браўзэру доступ да вашага ўнутранага сховішча ў Наладах</string>
     <string name="permission_service">Умовы і палажэнні</string>
     <string name="permission_storage">Сховішча</string>
-    <string name="permission_unknown">Невядомая памылка</string>
     <string name="permission_use">Дазволы</string>
     <string name="personalized_content_services">Персаналізаваныя кантэнт-паслугі</string>
     <string name="personalized_services">Персаналізацыя паслуг</string>
@@ -1331,12 +1310,9 @@ ID:%s
     <string name="photoPickerNotFoundText">Няма даступных фота.</string>
     <string name="pick_file">Абраць файлы</string>
     <string name="ping_test_title">Затрымка сеткі</string>
-    <string name="play_pause_video">Прайграць або прыпыніць відэа</string>
-    <string name="play_video">Прайграць відэа</string>
     <string name="players_still_play">Таксама спадабалася &lt;font color=\"#ff2458\">%s&lt;/font> гульцам</string>
     <string name="pm">PM</string>
     <string name="popular_game_video">Popular Game Video</string>
-    <string name="popup_video">Усплывальнае відэа</string>
     <string name="popup_window_attempt">Адчыніць вокны гэтага сайта, што ўсплываюць?</string>
     <string name="positive_confirm_message">Усё роўна выключыць</string>
     <string name="pref_accessibility">Спецыяльныя магчымасці</string>
@@ -1515,8 +1491,8 @@ ID:%s
     <string name="privacy_authorize_summary">Аўтарызацыю можна даць або адклікаць шляхам націску на перамыкач</string>
     <string name="privacy_authorize_title">Аўтарызацыя</string>
     <string name="privacy_btn_more">Больш</string>
-    <string name="privacy_improve_performance">Дапамагаць у паляпшэнні прадукцыйнасці Mi Браўзэра</string>
-    <string name="privacy_improve_performance_desc">Аўтаматычна адпраўляць агрэгаваныя дадзеныя і справаздачы пра памылкі ў Mi Браўзэр.</string>
+    <string name="privacy_improve_performance">Праграма паляпшэння якасці</string>
+    <string name="privacy_improve_performance_desc">Дазволіць Xiaomi збіраць і аналізаваць карыстацкія дадзеныя для паляпшэння нашых прадуктаў і паслуг</string>
     <string name="privacy_message">Перад выкарыстаннем Браўзэра вы павінны прыняць наша &lt;font color=\"#4086f5\">&lt;a href=\"%1$s\" style=\"color:#4086f5;\">Карыстальніцкае пагадненне&lt;/a>&lt;/font> і &lt;font color=\"#4086f5\">&lt;a href=\"%2$s\" style=\"color:#4086f5;\">Палітыку прыватнасці&lt;/a>&lt;/font>.</string>
     <string name="privacy_message_main_tips_first">Mi Браўзеру трэба збіраць неабходную асабістую інфармацыю, каб прадастаўляць вам асноўныя паслугі. Вы можаце даведацца, як мы апрацоўваем інфармацыю, якую збіраем, у нашай &lt;font color=\"#4086f5\">&lt;a href=\"%1$s\" style=\"color:#4086f5;\">Палітыцы прыватнасці&lt;/a>&lt;/font>. Вы можаце ў любы момант адклікаць сваю згоду з Палітыкай прыватнасці Mi Браўзера ў «Наладах > Прыватнасць і бяспека». Прачытайце нашы &lt;font color=\"#4086f5\">&lt;a href=\"%2$s\" style=\"color:#4086f5;\">Карыстальніцкае пагадненне&lt;/a>&lt;/font> і &lt;font color=\"#4086f5\">&lt;a href=\"%1$s\" style=\"color:#4086f5;\">Палітыку прыватнасці&lt;/a>&lt;/font> перад выкарыстаннем Mi Браўзера.</string>
     <string name="privacy_message_main_tips_second">Каб шукаць праграмы на гэтай прыладзе і ведаць, якія праграмы ўстаноўлены, Mi Браўзэру неабходна атрымаць доступ да інфармацыі аб усталяванні праграм, якая не будзе захавана лакальна або загружана ў сістэму ў любой форме.</string>
@@ -1524,6 +1500,7 @@ ID:%s
     <string name="privacy_message_welcome_tip_first">- Хуткі і бяспечны прагляд вэб-старонак</string>
     <string name="privacy_message_welcome_tip_second">- Запампоўка выяў і відэа з сацыяльных сетак</string>
     <string name="privacy_policy">Палітыка канфідэнцыяльнасці</string>
+    <string name="privacy_reset_fail">Не атрымалася скінуць. Паспрабуйце яшчэ раз.</string>
     <string name="privacy_sub_title">Палажэння і ўмовы</string>
     <string name="privacy_title">Сардэчна запрашаем у Mi Browser</string>
     <string name="private_title">Схаваныя файлы</string>
@@ -1703,10 +1680,10 @@ ID:%s
     <string name="setting_app_language">Мова браўзэра</string>
     <string name="setting_feed_language">Мова Стужкі кантэнту</string>
     <string name="setting_privacy_password">Усталяваць графічны ключ</string>
+    <string name="setting_swipe_up">Правядзіце ўверх па Галоўным экране</string>
     <string name="share_image_text">Зірніце, чым я падзяліўся(-лася)! @MIUI</string>
     <string name="share_page_text">Зірніце, чым я падзяліўся(-лася): %1$s @MIUI| %2$s</string>
     <string name="share_slide_video_text">Зірніце, чым я падзяліўся(-лася): %1$s</string>
-    <string name="share_video">Падзяліцца відэа</string>
     <string name="sign_in">Уваход...</string>
     <string name="sign_in_by_others">Іншыя спосабы ўваходу</string>
     <string name="sign_in_by_xiaommi">Увайдзіце з дапамогай Mi Акаўнта</string>
@@ -1856,8 +1833,6 @@ ID:%s
     <string name="traffic_fail_free_no_left">Trafikorik gabe geratu zara. Harpidetu jarraitzeko.</string>
     <string name="traffic_fail_no_left">VPN-трафік скончыўся</string>
     <string name="traffic_fail_upload">Адбылася памылка. Зноў уключыце VPN.</string>
-    <string name="transfer_prompt_0">Прайграць відэа</string>
-    <string name="transfer_restart">Перазапуск</string>
     <string name="translate">Перакласьці</string>
     <string name="translate_cur_page">Перакласьці гэтую старонку?</string>
     <string name="translate_into">Перакласьці на</string>
@@ -1911,9 +1886,7 @@ ID:%s
     <string name="user_guide_read_info_tips">Для дадання ў пошукавую выдачу праграм Mi браўзэру неабходны доступ да спісу праграм на прыладзе.</string>
     <string name="user_id_hint">Email/Нумар тэлефона/Mi акаўнт</string>
     <string name="username">Імя</string>
-    <string name="v5_deselect_all">Зняць выбар</string>
-    <string name="v5_edit_mode_title_empty">Нічога не выбрана</string>
-    <string name="v5_select_all">Выбраць усё</string>
+    <string name="v5_edit_mode_title_empty">"Выберыце аб'екты"</string>
     <string name="v7_preference_off">ВЫКЛ.</string>
     <string name="v7_preference_on">УКЛ.</string>
     <string name="v_code_title">Увядзіце праверачны код</string>
@@ -1933,59 +1906,18 @@ ID:%s
     <string name="version_dialog_buttion_update">Абнавіць</string>
     <string name="version_update_file_download_toast">Спампоўка</string>
     <string name="version_update_file_not_found">Абнаўленні не знойдзеныя</string>
-    <string name="video_activity_name">Абраныя</string>
-    <string name="video_buffering_percent_string">"Буферызацыя "</string>
-    <string name="video_collect_cancel">Прыбраць з абраных</string>
-    <string name="video_collect_success">Дададзена ў абранае</string>
     <string name="video_collection_click_view">Відэа, якія вы дадалі ў выбранае, знаходзяцца тут</string>
     <string name="video_collection_empty">Тут пакуль няма відэа</string>
     <string name="video_collection_known">Зразумела</string>
     <string name="video_collection_view">Праглядзець</string>
-    <string name="video_download_complete">Спампавана паспяхова</string>
-    <string name="video_download_empty">Няма відэа</string>
-    <string name="video_download_error">Памылка</string>
-    <string name="video_download_error_http_gone">Файл не знойдзены</string>
-    <string name="video_download_exists">Гэтая спампоўка ўжо існуе.</string>
-    <string name="video_download_fail">Не атрымалася спампаваць</string>
-    <string name="video_download_failed">Не атрымліваецца спампаваць</string>
-    <string name="video_download_finding_address">Атрыманне спасылкі URL</string>
-    <string name="video_download_pause">Прыпынена</string>
-    <string name="video_download_start">Спампоўка…</string>
-    <string name="video_download_success">Спампавана паспяхова</string>
-    <string name="video_download_unknown_name">Невядомае відэа</string>
-    <string name="video_download_unknown_size">Невядомы памер</string>
-    <string name="video_download_unsupport">Не падтрымліваецца</string>
-    <string name="video_download_wait_for_wifi">Чаканне сеткі Wi-Fi</string>
-    <string name="video_downloaded_group">Спампавана</string>
+    <string name="video_download_complete">Відэа паспяхова спампавана</string>
     <string name="video_downloader_edit_hint">"Устаўце спасылку для загрузкі відэа. Напрыклад:
 https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="video_downloader_fail">"Не атрымалася спампаваць гэты аб'ект"</string>
     <string name="video_downloader_retry">Паспрабаваць зноў</string>
-    <string name="video_downloading_group">Спампоўка</string>
-    <string name="video_edit">Змяніць</string>
-    <string name="video_float_window_text">Відэа, што ўсплываюць</string>
-    <string name="video_fragment_name_collections">Абраныя</string>
-    <string name="video_fragment_name_download">Лакальнае відэа</string>
-    <string name="video_fragment_name_historys">Гісторыя</string>
-    <string name="video_fragment_name_offine">На прыладзе</string>
-    <string name="video_group_noupdates_list">Абнаўленні не знойдзены</string>
-    <string name="video_group_updates_list">Абнаўленні</string>
-    <string name="video_history_empty">Гісторыя пустая</string>
-    <string name="video_manager_action_bar_end_view">Анлайн-відэа</string>
     <string name="video_play_next">Далей</string>
-    <string name="video_project_button">Спыніць</string>
-    <string name="video_project_msg">Трансляцыя відэа на %s</string>
-    <string name="video_project_title">Трансляцыя відэа</string>
-    <string name="video_push_multi_title">Даступна новая версія</string>
-    <string name="video_push_single_message">Націсніце для абнаўлення да %1$d.</string>
     <string name="video_replay_btn">Паўтарыць</string>
     <string name="video_retry_btn">Паспрабаваць зноў</string>
-    <string name="video_service_notification_title">Прайграванне відэа, што ўсплывае…</string>
-    <string name="video_subtitle_last_message1">Засталося менш за хвіліну</string>
-    <string name="video_subtitle_prefix1">Прагледжана</string>
-    <string name="video_subtitle_prefix2">"Прагледжана "</string>
-    <string name="video_title_prefix_message">"На прыладзе: "</string>
-    <string name="video_unknown_duration">Невядомая працягласць</string>
     <string name="view_certificate">Праглядзець сертыфікат</string>
     <string name="view_document_downloaded_files">Праглядзець файлы ў Спампоўках</string>
     <string name="voice_check_network">Праверце налады сеткі і паспрабуйце зноў.</string>
@@ -2032,7 +1964,6 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="wednesday">Серада</string>
     <string name="wednesday_short">Сер</string>
     <string name="wednesday_shortest">Сер</string>
-    <string name="welcome_to_mi_browser">Сардэчна запрашаем у Mi Browser!</string>
     <string name="what_is_new">Абнавіце праграму для доступу да новых функцый</string>
     <string name="whatsapp_downloadpage_tips">Захаванне статусаў WhatsApp</string>
     <string name="whatsapp_file_saved_success">Паспяхова захавана</string>

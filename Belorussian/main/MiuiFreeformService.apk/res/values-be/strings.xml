@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">свободная форма</string>
+    <string name="app_name">Плаваючыя вокны</string>
+    <string name="bottom_bar_smallwindow_text">Адпусціце для замацавання</string>
     <string name="contentDescription">Перасоўванне акна</string>
     <string name="freeform_demo_back">Назад</string>
     <string name="freeform_demo_final_over">Гатова</string>
@@ -9,6 +10,10 @@
     <string name="freeform_demo_go_on">Далей</string>
     <string name="freeform_demo_title_finish">Цудоўна!</string>
     <string name="freeform_demo_title_skip">Прапусціць</string>
+    <string name="freeform_slide_to_small_freeform">Згарнуць акно, якое плавае</string>
+    <string name="freeform_slide_to_small_freeform_summary">Націсніце і ўтрымлівайце панэль дзеянняў і перацягнуць яе ў кут</string>
+    <string name="fullscreen_slide_to_small_freeform">Згарнуць праграму</string>
+    <string name="fullscreen_slide_to_small_freeform_summary">Правядзіце ад ніжняй частцы да верхняга правага кута экрана</string>
     <string name="how_to_close_or_fullscreen_freeform">Закрыццё вокнаў, якія плаваюць, і пераключэнне ў поўнаэкранны рэжым</string>
     <string name="how_to_drop_down_to_fullscreen">Пераключэнне ў поўнаэкранны рэжым</string>
     <string name="how_to_drop_down_to_fullscreen_summary">Націсніце і ўтрымлівайце, а затым пацягніце ўніз панэль дзеянняў акна, якое плавае</string>

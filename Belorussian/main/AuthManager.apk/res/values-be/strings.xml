@@ -165,6 +165,7 @@
     <string name="clipboard_read_ai_deny_once">Доступ %1$s да буфера абмену забаронены</string>
     <string name="clipboard_read_allow_once">"Праграма %1$s атрымала доступ да аб'ектаў у буферы абмену"</string>
     <string name="clipboard_read_deny_dialog_title">Доступ %1$s да буфера абмену забаронены</string>
+    <string name="close">Закрыць</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -357,6 +358,14 @@
     <string name="screen_overlay_message">Каб змяніць гэты дазвол, вы павінны адключыць накладанне экранаў у наладах > праграмы.</string>
     <string name="screen_overlay_title">Выяўлена накладанне экранаў</string>
     <string name="search_menu_title">Пошук</string>
+    <string name="send">Даслаць</string>
+    <string name="size_byte">Б</string>
+    <string name="size_giga_byte">ГБ</string>
+    <string name="size_kilo_byte">КБ</string>
+    <string name="size_mega_byte">МБ</string>
+    <string name="size_peta_byte">ПБ</string>
+    <string name="size_suffix">%1$s%2$s</string>
+    <string name="size_tera_byte">ТБ</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stop_blur_location">Turn off</string>
     <string name="storage_policy_notify_both_title">Праграме %1$s не дазволены доступ да Галерэі і паведамленняў у праграмах сацыяльных сетак</string>

@@ -131,6 +131,7 @@
     <string name="accessibility_keyguard_face_unlock_view">Разблакіроўка па твары</string>
     <string name="accessibility_left_control_center_button">Ярлык</string>
     <string name="accessibility_left_lock_screen_magazine_button">Карусель шпалер</string>
+    <string name="accessibility_left_xmyzl_button">Xiaomi Magic Control</string>
     <string name="accessibility_location_active">Ёсць актыўныя запыты пра месцазнаходжанне</string>
     <string name="accessibility_long_click_tile">Адкрыць налады</string>
     <string name="accessibility_manage_notification">Кіраваць апавяшчэннямі</string>
@@ -522,7 +523,7 @@
     <string name="broadcast_tile">Плітка трансляцыі</string>
     <string name="bt_hci_snoop_log">Уключыць журнал Bluetooth HCI</string>
     <string name="bt_hci_snoop_log_summary">Захапіць усе пакеты Bluetooth (уключыць Bluetooth пасля змены гэтай налады).</string>
-    <string name="bt_is_off">Bluetooth выключаны</string>
+    <string name="bt_is_off">Bluetooth уключаны</string>
     <string name="bubble_accessibility_action_add_back">Зноў дадаць у стос</string>
     <string name="bubble_accessibility_action_move">Перамясціць</string>
     <string name="bubble_accessibility_action_move_bottom_left">Перамясціць лявей і ніжэй</string>
@@ -559,6 +560,7 @@
     <string name="cell_data_off">Выключана</string>
     <string name="cell_data_off_content_description">Мабільная перадача даных выключана</string>
     <string name="charge_length_format">%1$s таму</string>
+    <string name="choose_clock_dual_clock_hint_text">Немагчыма змяніць фармат, калі ўключаны падвойны гадзіннік</string>
     <string name="choose_clock_panel_title">Знешні выгляд экрана блакавання</string>
     <string name="choose_clock_third_theme_hint_text">Экран блакавання з бягучай тэмы</string>
     <string name="choose_clock_title_left_top">У левага краю</string>
@@ -702,6 +704,9 @@
     <string name="development_settings_not_available">Налады для распрацоўшчыка недаступныя гэтаму карыстальніку</string>
     <string name="development_settings_summary">Задаць налады для праграмнага асяроддзя</string>
     <string name="development_settings_title">Рэжым распрацоўшчыка</string>
+    <string name="device_locked_without_biometric">Нельга разблакаваць прыладу пры дапамозе адбітка пальца або даных твару, калі выкарыстоўваецца блакаванне экрана трэцяга боку.</string>
+    <string name="device_locked_without_biometric_face">Нельга разблакаваць прыладу пры дапамозе даных твару, калі выкарыстоўваецца блакаванне экрана трэцяга боку.</string>
+    <string name="device_locked_without_biometric_finger">Нельга разблакаваць прыладу пры дапамозе адбітка пальца, калі выкарыстоўваецца блакаванне экрана трэцяга боку.</string>
     <string name="device_services">Сэрвісы прылады</string>
     <string name="digital_clock_dot">:</string>
     <string name="direct_boot_unaware_dialog_message">Заўвага: каб запусціць гэту праграму пасля перазапуску прылады, разблакуйце тэлефон.</string>
@@ -777,6 +782,7 @@
     <string name="face_unlock_pin_and_fingerprint">Увядзіце лічбавы код або скарыстайцеся адбіткам пальца для разблакоўкі</string>
     <string name="face_unlock_reveal_eye">Вашы вочы павінны быць бачнымі</string>
     <string name="face_unlock_reveal_mouth">Вашы вусны мусяць быць бачнымі</string>
+    <string name="face_unlock_success">Паспяхова разблакавана</string>
     <string name="failed_to_open_app_settings_toast">Не атрымалася адкрыць налады праграмы %1$s</string>
     <string name="fingerprint_add_text">Інтэрфейс праграмы адбіткаў пальцаў быў абноўлены. Дадайце адбіткі пальцаў зноў.</string>
     <string name="fingerprint_add_title">Дадаць адбітак пальца</string>
@@ -805,6 +811,7 @@
     <string name="fs_gesture_back_ready_title">Назад</string>
     <string name="fs_gesture_final_over">Гатова</string>
     <string name="fs_gesture_final_restart">Яшчэ раз</string>
+    <string name="fs_gesture_final_see_more">Глядзіце больш дэманстрацый у «Наладах» > «Галоўны экран» > «Сістэмная навігацыя»</string>
     <string name="fs_gesture_final_summary">Вы можаце вярнуцца да выкарыстання кнопак праз Налады > Поўнаэкранны рэжым</string>
     <string name="fs_gesture_final_title">Усё гатова!</string>
     <string name="fs_gesture_finish">Цудоўна!</string>
@@ -925,13 +932,15 @@
     <string name="input_lockscreen_password_hint_text">Увядзіце пароль</string>
     <string name="input_lockscreen_pattern_hint_text">Намалюйце графічны ключ</string>
     <string name="input_lockscreen_pin_hint_text">Увядзіце PIN-код</string>
-    <string name="input_password_after_boot_msg">Для разблакавання прылады ўвядзіце пароль</string>
+    <string name="input_password_after_boot_msg">Пры перазагрузцы прылады патрабуецца ўвод пароля</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_calling">Немагчыма пераключацца паміж прасторамі падчас выкліку</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">Нельга пераходзіць паміж прасторамі пры ўключаным бацькоўскім кантролі</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_superpower_active">Нельга мяняць прастору пры ўключанай Ультра-эканоміі</string>
     <string name="input_password_after_boot_msg_must_enter_owner_space">Пасля перазагрузкі прылады вам неабходна ўвайсці ў першую прастору</string>
     <string name="input_password_hint_text">Увядзіце пароль</string>
+    <string name="input_pattern_after_boot_msg">Пры перазагрузцы прылады патрабуецца ўвод графічнага ключа</string>
     <string name="input_pattern_hint_text">Намалюйце ваш графічны ключ</string>
+    <string name="input_pin_after_boot_msg">Пры перазагрузцы прылады патрабуецца ўвод пін-кода</string>
     <string name="input_pin_code">Увядзіце PIN-код</string>
     <string name="input_puk_code">Увядзіце PUK-код</string>
     <string name="install_other_apps">Усталяванне незнаёмых праграм</string>
@@ -1010,6 +1019,7 @@
     <string name="keyguard_charged">Зараджаны</string>
     <string name="keyguard_charging_back_to_lockscreen">Вярнуцца на экран блакавання</string>
     <string name="keyguard_charging_battery_level">%s%%</string>
+    <string name="keyguard_charging_double_fast_and_level_tip">Павелічэнне хуткасці зарадкі %s</string>
     <string name="keyguard_charging_info_last_charge_time">d.M H:mm</string>
     <string name="keyguard_charging_info_last_charge_today_time">Сёння %s</string>
     <string name="keyguard_charging_info_last_charge_yesterday_time">Учора %s</string>
@@ -1036,6 +1046,7 @@
     <string name="keyguard_missing_sim_instructions_long">SIM-карта адсутнічае ці не чытаецца. Устаўце SIM-карту.</string>
     <string name="keyguard_missing_sim_message">У тэлефоне няма SIM-карты.</string>
     <string name="keyguard_missing_sim_message_short">Няма SIM-карты</string>
+    <string name="keyguard_more_overflow_text">+%d</string>
     <string name="keyguard_network_locked_message">Сетка заблакіравана</string>
     <string name="keyguard_password_enter_password_code">Увядзіце пароль для разблакіравання</string>
     <string name="keyguard_password_enter_pin_code">Увядзіце PIN-код</string>
@@ -1077,7 +1088,7 @@
     <string name="kg_invalid_confirm_pin_hint">PIN-коды не супадаюць</string>
     <string name="kg_invalid_puk">Паўторна ўвядзіце правільны PUK-код. Паўторныя спробы прывядуць да адключэння SIM-карты назаўсёды.</string>
     <string name="kg_invalid_sim_pin_hint">Увядзіце PIN-код, які змяшчае ад 4 да 8 лічбаў.</string>
-    <string name="kg_invalid_sim_puk_hint">PUK-код павінен утрымліваць 8 лічбаў ці больш.</string>
+    <string name="kg_invalid_sim_puk_hint">PUK-код павінен змяшчаць 8 лічбаў.</string>
     <string name="kg_login_too_many_attempts">Занадта шмат спроб уводу ўзору</string>
     <string name="kg_password_instructions">Увядзіце пароль</string>
     <string name="kg_password_pin_failed">Разблакіраваць SIM-карту PIN-кодам не атрымалася!</string>
@@ -1232,6 +1243,7 @@ d MMMM"</string>
     <string name="miui_notification_menu_setting_success">Гатова</string>
     <string name="miui_notification_menu_snooze">Адкласці</string>
     <string name="miui_notification_menu_title_not_allow">Забараніць</string>
+    <string name="miui_screen_rotation_freeze_message">Арыентацыя заблакаванага экрана ў пейзажным рэжыме</string>
     <string name="miui_snooze_always_float">Не хаваць</string>
     <string name="miui_snooze_cancel">Скасаваць</string>
     <string name="miui_snooze_default_time">На %d хвіліну</string>
@@ -1270,12 +1282,14 @@ d MMMM"</string>
 
 Для атрымання дадатковай інфармацыі звярніцеся да адміністратара."</string>
     <string name="monitoring_description_ca_cert_settings">Адкрыць давераныя ўліковыя даныя</string>
+    <string name="monitoring_description_ca_cert_settings_separator">" "</string>
     <string name="monitoring_description_ca_certificate">На гэтай прыладзе ўсталяваны цэнтр сертыфікацыі. Ваш абаронены сеткавы трафік могуць праглядваць ці змяняць.</string>
     <string name="monitoring_description_do_body">Адміністратар кантралюе налады, праграмы, карпаратыўны доступ, звязаныя з прыладай даныя і перадачу геаданых.</string>
     <string name="monitoring_description_do_body_vpn">Вы падключаны да праграмы %1$s, якая можа сачыць за вашай сеткавай дзейнасцю, уключаючы электронную пошту, праграмы і вэб-сайты.</string>
     <string name="monitoring_description_do_header_generic">Ваша прылада знаходзіцца пад кіраваннем %1$s.</string>
     <string name="monitoring_description_do_header_with_name">%1$s выкарыстоўвае %2$s для кіравання вашай прыладай.</string>
     <string name="monitoring_description_do_learn_more">Даведацца больш</string>
+    <string name="monitoring_description_do_learn_more_separator">" "</string>
     <string name="monitoring_description_managed_profile_ca_certificate">Ваша арганізацыя ўсталявала ў вашым працоўным профілі цэнтр сертыфікацыі. Ваш абаронены сеткавы трафік могуць праглядваць ці змяняць.</string>
     <string name="monitoring_description_managed_profile_named_vpn">Ваш працоўны профіль падключаны да праграмы %1$s, якая можа сачыць за вашай сеткавай актыўнасцю, уключаючы электронную пошту, праграмы і вэб-сайты.</string>
     <string name="monitoring_description_management">"Гэта прылада належыць вашай арганізацыі.
@@ -1307,6 +1321,7 @@ d MMMM"</string>
 
 Вы таксама падключаны да сеткі VPN, якая можа сачыць за вашай сеткавай дзейнасцю."</string>
     <string name="monitoring_description_vpn_settings">Адкрыйце налады VPN</string>
+    <string name="monitoring_description_vpn_settings_separator">" ,"</string>
     <string name="monitoring_subtitle_ca_certificate">Сертыфікаты ЦС</string>
     <string name="monitoring_subtitle_network_logging">Журнал сеткі</string>
     <string name="monitoring_subtitle_vpn">VPN</string>
@@ -1337,10 +1352,12 @@ d MMMM"</string>
     <string name="mr_dialog_transferable_header">Прайграць на групе прылад</string>
     <string name="mr_system_route_name">Сістэма</string>
     <string name="mr_user_route_category_name">Прылады</string>
+    <string name="msim_set_sub_not_supported_phone_in_call">Немагчыма задаць падчас выкліку</string>
     <string name="music_controls_no_title">Без назвы</string>
     <string name="nav_bar">Панэль навігацыі</string>
     <string name="nav_bar_default">(стандартная)</string>
     <string name="nav_bar_layout">Раскладка</string>
+    <string name="network_speed_suffix">%1$s%2$s</string>
     <string name="no_application">Адсутнічае</string>
     <string name="no_auto_saver_action">Не, дзякуй</string>
     <string name="no_shortcut">%1$s не падтрымлівае функцыі размовы</string>
@@ -1412,6 +1429,7 @@ d MMMM"</string>
     <string name="open_lock_screen_magazine_hint_text">Правядзіце ўправа, каб убачыць больш опцый</string>
     <string name="open_remote_center_hint_text">Правядзіце направа для запуску Кантролю</string>
     <string name="open_saver_setting_action">Налады</string>
+    <string name="open_xmyzl_hint_text">Правядзіце направа, каб адкрыць Xiaomi Magic Control.</string>
     <string name="orb_search_action">Пошук</string>
     <string name="osu_completing_sign_up">Завяршэнне рэгістрацыі…</string>
     <string name="osu_connect_failed">Немагчыма падлучыцца</string>
@@ -1437,7 +1455,7 @@ d MMMM"</string>
     <string name="phone_locked_foget_password_method_content">&lt;Data>Вам трэба &lt;font color=#a5220e>сцерці ўсе дадзеныя&lt;/font> з вашай прылады, уключаючы фота і кантакты, а потым усталяваць новы пароль блакавання экрана.&lt;/Data></string>
     <string name="phone_locked_foget_password_method_next">Далей</string>
     <string name="phone_locked_foget_password_ok">Зразумела</string>
-    <string name="phone_locked_forget_password_suggesstion_one_content">&lt;Data>Выключыце прыладу, адначасова націсніце і ўтрымлівайце &lt;font color=#a5220e>Кнопку ўключэння&lt;/font> і &lt;font color=#a5220e>Кнопку павелічэння гучнасці&lt;/font>, пакуль не ўбачыце лагатып Mi.&lt;/Data></string>
+    <string name="phone_locked_forget_password_suggesstion_one_content"><Data>Выключыце прыладу, затым націсніце і ўтрымлівайце кнопкі &lt;font color=#e6e6e6>[Power]&lt;/font> і &lt;font color=#e6e6e6>[Гучнасць+]&lt;/font>, пакуль не ўбачыце &lt;img src=\"\">.</Data></string>
     <string name="phone_locked_forget_password_suggesstion_two_content">&lt;Data>Выберыце&lt;font color=#a5220e>\"Сцерці дадзеныя і скінуць налады\"&lt;/font>і чакайце пакуль прылада перазапусціцца.&lt;/Data></string>
     <string name="phone_locked_forget_password_suggesstions_title">Як сцерці дадзеныя?</string>
     <string name="phone_locked_string">Прылада заблакавана</string>
@@ -1523,6 +1541,7 @@ d MMMM"</string>
     <string name="private_dns_mode_provider">Імя хаста правайдара DNS</string>
     <string name="private_dns_mode_provider_failure">Немагчыма падлучыцца</string>
     <string name="private_dns_mode_provider_hostname_hint">Увядзіце імя хаста правайдара DNS</string>
+    <string name="process_kernel_label">АС Android</string>
     <string name="profile_connect_timeout_subtext">Праблема падлучэння. Выключыце і ўключыце прыладу.</string>
     <string name="profile_info_settings_title">Дадзеныя профілю</string>
     <string name="profile_owned_footer">За профілем могуць назіраць</string>
@@ -1560,7 +1579,7 @@ d MMMM"</string>
     <string name="quick_settings">Хуткія налады</string>
     <string name="quick_settings_autobrightness_label">Аўтаяркасць</string>
     <string name="quick_settings_batterysaver_label">Эканомія зараду батарэі</string>
-    <string name="quick_settings_bluetooth_detail_empty_text">Няма даступных спалучаных прылад</string>
+    <string name="quick_settings_bluetooth_detail_empty_text">Няма падлучаных прылад</string>
     <string name="quick_settings_bluetooth_label">Bluetooth</string>
     <string name="quick_settings_bluetooth_multiple_devices_label">Bluetooth (прылады: %d)</string>
     <string name="quick_settings_bluetooth_off_label">Bluetooth выключаны</string>
@@ -1590,7 +1609,7 @@ d MMMM"</string>
     <string name="quick_settings_cellular_detail_dialog_positive_button_turnoff">Адключыць</string>
     <string name="quick_settings_cellular_detail_over_limit">Ліміт перавышаны</string>
     <string name="quick_settings_cellular_detail_remaining_data">Засталося трафіку</string>
-    <string name="quick_settings_cellular_detail_title">Мабільная перадача даных</string>
+    <string name="quick_settings_cellular_detail_title">Мабільны інтэрнэт</string>
     <string name="quick_settings_cellular_detail_unable_change">Немагчыма задаць падчас выкліку</string>
     <string name="quick_settings_color_space_label">Рэжым карэкцыі колеру</string>
     <string name="quick_settings_connected">Падлучана</string>
@@ -1627,7 +1646,7 @@ d MMMM"</string>
     <string name="quick_settings_flashlight_camera_in_use">Камера выкарыстоўваецца</string>
     <string name="quick_settings_flashlight_label">Ліхтарык</string>
     <string name="quick_settings_header_onboarding_text">Каб адкрыць іншыя параметры, націсніце на значок і ўтрымлівайце яго</string>
-    <string name="quick_settings_hotspot_label">Хот-спот</string>
+    <string name="quick_settings_hotspot_label">Пункт доступу</string>
     <string name="quick_settings_hotspot_secondary_label_data_saver_enabled">Эканомія трафіка ўкл</string>
     <string name="quick_settings_hotspot_secondary_label_transient">Уключэнне…</string>
     <string name="quick_settings_ime_label">Метад уводу</string>
@@ -1635,7 +1654,7 @@ d MMMM"</string>
     <string name="quick_settings_location_label">Месцазнаходжанне</string>
     <string name="quick_settings_location_off_label">Вызначэнне месцазнаходжання адключана</string>
     <string name="quick_settings_media_device_label">Мультымедыйная прылада</string>
-    <string name="quick_settings_more_settings">Дадатковыя налады</string>
+    <string name="quick_settings_more_settings">Больш наладаў</string>
     <string name="quick_settings_mute_label">Адключыць гук</string>
     <string name="quick_settings_nfc_label">NFC</string>
     <string name="quick_settings_nfc_off">NFC адключаны</string>
@@ -1656,7 +1675,7 @@ d MMMM"</string>
     <string name="quick_settings_rotation_locked_landscape_label">Альбомная арыентацыя</string>
     <string name="quick_settings_rotation_locked_portrait_label">Кніжная арыентацыя</string>
     <string name="quick_settings_rotation_unlocked_label">Аўтапаварот</string>
-    <string name="quick_settings_rotationlock_label">Паварот</string>
+    <string name="quick_settings_rotationlock_label">Арыентацыя блакавання</string>
     <string name="quick_settings_rssi_emergency_only">Толькі экстранныя выклікі</string>
     <string name="quick_settings_rssi_label">RSSI</string>
     <string name="quick_settings_screen_record_label">Запіс экрана</string>
@@ -1683,7 +1702,7 @@ d MMMM"</string>
     <string name="quick_settings_wifi_detail_dual_wifi_switching_not_remind">Не паказваць зноў</string>
     <string name="quick_settings_wifi_detail_dual_wifi_switching_prompt">Пераключэнне паміж сеткамі</string>
     <string name="quick_settings_wifi_detail_dual_wifi_switching_summary">Двухдыяпазоннае паскарэнне Wi-Fi выкарыстоўвае два розных дыяпазону Wi-Fi. Калі вы падключыцеся да іншай асноўнай сеткі, злучэнне са дапаможнымі сеткамі будзе страчана.</string>
-    <string name="quick_settings_wifi_detail_empty_text">Няма даступнай сеткі Wi-Fi</string>
+    <string name="quick_settings_wifi_detail_empty_text">Няма даступных сетак Wi-Fi</string>
     <string name="quick_settings_wifi_label">Wi-Fi</string>
     <string name="quick_settings_wifi_no_network">Няма сеткi</string>
     <string name="quick_settings_wifi_not_connected">Няма падключэння</string>
@@ -1814,6 +1833,8 @@ d MMMM"</string>
     <string name="show_silently">Паказваць апавяшчэнні бязгучна</string>
     <string name="show_touches">Адлюстроўваць дотыкі</string>
     <string name="show_touches_summary">Візуальна адлюстроўваць дотыкі</string>
+    <string name="shut_down_password_forget_password_suggesstion_one_content"><Data>Націсніце і ўтрымлівайце &lt;font color=#e6e6e6>[Power]&lt;/font> і кнопкі &lt;font color=#e6e6e6>[Гучнасць +]&lt;/font>, пакуль вы не ўбачыце &lt;img src=\"\">.</Data></string>
+    <string name="shut_down_password_forget_password_suggesstion_two_content"><Data>Выберыце &lt;font color=#e6e6e6>[Выдаліць дадзеныя]&lt;/font> і пасля гэтага націсніце на &lt;font color=#e6e6e6>[Reboot]&lt;/font>.</Data></string>
     <string name="sim_state_locked_dialog_title">Несапраўдная SIM-карта</string>
     <string name="sim_state_locked_puk_dialog_message">Вы ўвялі няправільны PUK-код больш %d раз. Ваша SIM-карта была заблакаваная. Скарыстайцеся іншай SIM-картай.</string>
     <string name="simulate_color_space">Сімуляваць каляровую прастору</string>

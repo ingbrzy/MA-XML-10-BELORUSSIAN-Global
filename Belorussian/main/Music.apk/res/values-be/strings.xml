@@ -51,7 +51,7 @@
     <string name="action_item_download">Спампаваць</string>
     <string name="action_item_favorite">Абраныя</string>
     <string name="action_item_hide">Схаваць</string>
-    <string name="action_item_hifi">Навушнікі і гукавыя эфекты</string>
+    <string name="action_item_hifi">Навушнікі</string>
     <string name="action_item_play_all">Перамяшаць усе</string>
     <string name="action_item_play_next">Прайграць пазней</string>
     <string name="action_item_play_video">Прайграць музычны відэакліп</string>
@@ -63,6 +63,7 @@
     <string name="ad_data_exception">Памылка дадзеных рэкламы</string>
     <string name="ad_recommend">Паказаць рэкламу</string>
     <string name="ad_setting">Пашыраныя налады</string>
+    <string name="add">Дадаць</string>
     <string name="add_music">Дадаць песні</string>
     <string name="add_to_last_of_playlist">Дадаць у канец плэйліста</string>
     <string name="add_to_playlist">Дадаць у чаргу</string>
@@ -206,6 +207,7 @@
     <string name="dialog_cannot_resume">Спампоўка перарвана і не можа быць адноўленая.</string>
     <string name="dialog_clear_history">Ачысціць спіс нядаўна прайграваных песень?</string>
     <string name="dialog_confirm_delete_checkbox_message">Выдаліць таксама лакальныя файлы</string>
+    <string name="dialog_continue">OК</string>
     <string name="dialog_failed_body">Паспрабаваць спампаваць пазней ці выдаліць файл з чаргі?</string>
     <string name="dialog_file_already_exists">Не ўдаецца спампаваць. Гэты файл ужо існуе.</string>
     <string name="dialog_file_missing_body">Не атрымалася знайсці спампаваны файл.</string>
@@ -241,6 +243,7 @@
     <string name="dialog_song_view_type_artist">Па выканаўцу</string>
     <string name="dialog_song_view_type_folder">Па папцы</string>
     <string name="dialog_song_view_type_song">Па песьні</string>
+    <string name="dialog_stop_audio_in">Таймер прайгравання</string>
     <string name="dialog_subtitle_make_playlist_public">Публічныя плэйлісты даступныя іншым людзям. Прыватныя плэйлісты бачныя толькі вам на ўсіх сінхранізаваных прыладах.</string>
     <string name="dialog_title_clearlist_tracks">Выдаленне з чаргі</string>
     <string name="dialog_title_delete_tracks">Выдаліць</string>
@@ -287,7 +290,9 @@
     <string name="download_method">Спампоўка</string>
     <string name="download_no_application_title">Не ўдаецца адкрыць файл</string>
     <string name="download_paused_in_power_save_mode">Downloads are paused when Battery saver is on</string>
+    <string name="download_percent">%d%%</string>
     <string name="download_processing">Спампоўка…</string>
+    <string name="download_progress">%d%%</string>
     <string name="download_quality">Якасць спампоўкі</string>
     <string name="download_quality_summary">Дадатковыя налады для спампоўкі песень</string>
     <string name="download_queued">У чарзе</string>
@@ -375,7 +380,9 @@
     <string name="exo_media_action_repeat_all_description">Паўтарыць усе</string>
     <string name="exo_media_action_repeat_off_description">Не паўтараць нічога</string>
     <string name="exo_media_action_repeat_one_description">Паўтарыць адзін элемент</string>
+    <string name="exo_track_bitrate">%1$.2f Мбіт/с</string>
     <string name="exo_track_mono">Мона</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">Альтэрнатыўны запіс</string>
     <string name="exo_track_role_closed_captions">Цітры</string>
     <string name="exo_track_role_commentary">Каментарыі</string>
@@ -606,6 +613,7 @@
     <string name="mulit_choice_management">"Кіраваць некалькімі аб'ектамі"</string>
     <string name="music_browser_label">Музыка</string>
     <string name="music_filter">Фільтр аўдыяфайлаў</string>
+    <string name="music_quality">Якасць гуку</string>
     <string name="music_recommendation">Рэкамендацыі па песнях</string>
     <string name="music_service">Сервіс музыкі</string>
     <string name="music_settings">Музыка</string>
@@ -638,6 +646,7 @@
     <string name="no_local_songs_selected">Немагчыма адправіць трэкі, якія не спампаваны</string>
     <string name="no_local_source_find">Не атрымалася знайсці песню</string>
     <string name="no_longer_prompt">Больш не паказваць</string>
+    <string name="no_lyrics">Няма тэкста песні</string>
     <string name="no_results_return">Нічога не знойдзена</string>
     <string name="no_scanned_songs">Няма трэкаў</string>
     <string name="no_song_downloaded">Не атрымалася знайсці песні для загрузкі</string>
@@ -757,12 +766,14 @@
     <string name="privacy_authorize_revoking">Адкліканне аўтарызацыі…</string>
     <string name="privacy_desc">Палітыка прыватнасці (абавязкова)</string>
     <string name="privacy_policy">Палітыка канфідэнцыяльнасці</string>
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=be_BY</string>
     <string name="privacy_request_desc">"&lt;Data>Праграме Mi Музыка трэба ажыццяўляць збор неабходнай асабістай інфармацыі, каб прадастаўляць вам анлайнавыя струменевыя сэрвісы. Вы можаце падрабязней даведацца пра тое, як мы апрацоўваем інфармацыю ў &lt;a href=\"%1$s\">Палітыцы прыватнасці&lt;/a>. Вы можаце ў любы час адклікаць сваю згоду з Палітыкай прыватнасці праграмы Мі Музыка ў Наладах.
 Перад пачаткам выкарыстання праграмы Мі Музыка, азнаёмцеся і пагадзіцеся з нашымі &lt;a href=\"%2$s\">Карыстальніцкім пагадненнем&lt;/a> і &lt;a href=\"%1$s\">Палітыкай прыватнасці&lt;/a>.
 Калі вы не згодныя з вышэйазначанымі дакументамі, вы не зможаце выкарыстоўваць некаторыя функцыі гэтай праграмы, аднак яе асноўныя функцыі застануцца даступнымі.&lt;/Data>"</string>
     <string name="privacy_request_subtitle">"Сардэчна запрашаем у Mi Музыка! Гэтая праграма прадастаўляе наступныя паслугі:
 - Лакальны аўдыяплэер
 - Анлайнавыя струменевыя сэрвісы"</string>
+    <string name="privacy_request_subtitle_offline">Сардэчна запрашаем у Mi Музыка! Гэтая праграма прадастаўляе лакальны плэер для аўдыёфайлаў.</string>
     <string name="privacy_request_title">Умовы і палажэнні</string>
     <string name="pro_member">Член PRO</string>
     <string name="project_device">Mi Тэлефон</string>
@@ -901,6 +912,7 @@
     <string name="start_to_download">Запампоўка…</string>
     <string name="start_to_play">Прайграць</string>
     <string name="start_update">Устаноўка новай версіі…</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_cloned_app">Памяць для клонаў праграм</string>
     <string name="storage_internal">Унутранае сховішча</string>
     <string name="storage_sd_card">SD-карта</string>
@@ -958,6 +970,7 @@
     <string name="toast_download_in_process">Спампоўка ў працэсе</string>
     <string name="toast_favorite_has_been_added">Дададзена ў плэйліст</string>
     <string name="toast_follow_success">Падпісана паспяхова</string>
+    <string name="toast_hungama_vip_song">Гэтая песня даступная толькі для членаў PRO. Набудзьце падпіску, каб спампаваць гэтую песню.</string>
     <string name="toast_is_pro">У вас ужо ёсць падпіска PRO.</string>
     <string name="toast_my_playlist_illegal_name">Назва гэтага плэйліста несапраўднае. Пераназавіце гэты плэйліст.</string>
     <string name="toast_my_playlist_set_to_private">Гэты плэйліст цяпер прыватны. Іншыя людзі не могуць бачыць яго.</string>
@@ -998,6 +1011,7 @@
     <string name="upload_playlist_to_hungama_title">Сінхранізаваць анлайн-песні з Hungama, каб атрымліваць доступ да іх на іншых прыладах, дзе вы выкарыстоўваеце Mi Акаўнт.</string>
     <string name="upload_playlist_to_hungama_toast">Анлайн песні будуць сінхранізаваныя з Hungama</string>
     <string name="user_agreement">Карыстальніцкае пагадненне</string>
+    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=be_BY</string>
     <string name="user_playlist_plaza">Плэйлісты</string>
     <string name="user_privacy_dialog_negative_text">Адмена</string>
     <string name="user_privacy_dialog_positive_count_down_text">Адклікаць (%s сек.)</string>

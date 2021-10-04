@@ -85,27 +85,30 @@
     <string name="bugreport_tool_log_dumping_title">Стварэнне справаздачы пра памылку</string>
     <string name="catch_full_log_action_cancel">Скасаваць</string>
     <string name="catch_full_log_action_complete">Завяршыць і адправіць</string>
-    <string name="catch_full_log_action_start">Стварыць журнал</string>
+    <string name="catch_full_log_action_start">Старт</string>
     <string name="catch_full_log_add_original_photo">Дадаць арыгінальную або кароткае відэа</string>
     <string name="catch_full_log_add_photo">Дадаць фота</string>
     <string name="catch_full_log_add_photo_dialog_content">Калі праблема, пра якую вы паведамляеце, звязана з якасцю выявы камеры, дадайце ўзор фота (без абрэзкі), каб дапамагчы нам знайсці яе. Дадаць фота?</string>
+    <string name="catch_full_log_category">Тыпы журнала</string>
     <string name="catch_full_log_dialog_confirm_text">На працоўны стол</string>
-    <string name="catch_full_log_dialog_content">MIUI стварае журнал. Гэта можа паўплываць на агульную прадукцыйнасць вашай прылады. Калі вы не можаце ўзнавіць праблему, на якую хочаце паскардзіцца, вярніцеся да журналаў і націсніце \"Адмена\".</string>
+    <string name="catch_full_log_dialog_content">Гэта можа паўплываць на агульную прадукцыйнасць вашай прылады. Калі вы не можаце ўзнавіць праблему, на якую хочаце паскардзіцца, вярніцеся да журналаў і націсніце «Адмена».</string>
+    <string name="catch_full_log_dialog_title">Стварэнне журналаў…</string>
     <string name="catch_full_log_dump_hprof_failed">Не атрымалася стварыць журнал затрымак</string>
     <string name="catch_full_log_item_content_catch_direct">"1. Вярніцеся да функцыі, пра якую вы хочаце паведаміць, і ўзнавіце праблему.
 2. Вярніцеся на гэту старонку і націсніце \"Завяршыць і адправіць\"."</string>
-    <string name="catch_full_log_item_content_need_open">"Націсніце \"Стварыць журнал\".
-2. Вярніцеся да функцыі, пра якую вы хочаце паведаміць, і ўзнавіце праблему.
-3. Вярніцеся на гэту старонку і націсніце \"Завяршыць і адправіць\"."</string>
-    <string name="catch_full_log_item_content_title">Крокі</string>
-    <string name="catch_full_log_item_title_audio">Аўдыя, запіс гуку і выклікі</string>
+    <string name="catch_full_log_item_content_catching">Стварэнне часопісаў…</string>
+    <string name="catch_full_log_item_content_need_open">"%1$d. Націсніце «Старт», каб пачаць стварэнне журналаў.
+%2$d. Узнавіце праблему, з якой вы сутыкнуліся.
+%3$d. Вярніцеся на гэтую старонку і націсніце «Гатова і загрузіць»."</string>
+    <string name="catch_full_log_item_content_title">Як ствараць часопісы</string>
+    <string name="catch_full_log_item_title_audio">Аўдыё, гук выкліку і аўдыёзапіс</string>
     <string name="catch_full_log_item_title_bt">Bluetooth</string>
     <string name="catch_full_log_item_title_dump_heap">Затрымкі</string>
     <string name="catch_full_log_item_title_gps">Службы месцазнаходжання</string>
     <string name="catch_full_log_item_title_sensor">Датчыкі</string>
     <string name="catch_full_log_item_title_signal">Тэлефон, сігнал і мабільныя сеткі</string>
-    <string name="catch_full_log_item_title_wifi">Wi-Fi і ShareMe</string>
-    <string name="catch_full_log_item_title_wifi_china">WLAN and ShareMe</string>
+    <string name="catch_full_log_item_title_wifi">Wi-Fi</string>
+    <string name="catch_full_log_item_title_wifi_china">WLAN</string>
     <string name="catch_full_log_notification_content">Націсніце, каб вярнуцца</string>
     <string name="catch_full_log_notification_title">Стварэнне журнала…</string>
     <string name="catch_full_log_privacy_content_audio">Вы ствараеце журналы і захоўваеце іх на сваёй прыладзе. Журналы могуць утрымліваць інфармацыю аб аўдыёдадзеных на вашай прыладзе, уключаючы гісторыю прайгравання і запісы. Будзьце асцярожныя і не раскрывайце гэтыя журналы староннім асобам. Націснуўшы «Згадзіцца» ніжэй, вы згаджаецеся з тым, што мы будзем збіраць вышэйпаказаныя дадзеныя пры стварэнні журналаў, а затым загружаць журналы на нашы серверы для пошуку і вырашэння праблем, пра якія вы паведамляеце.</string>

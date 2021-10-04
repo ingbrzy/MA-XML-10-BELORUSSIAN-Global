@@ -163,6 +163,7 @@
     <string name="open_close_tip_content">Каб закрыць ўсплывальнае акно, націсніце і ўтрымлівайце панэль дзеянняў, а затым правядзіце уверх</string>
     <string name="oppo">OPPO</string>
     <string name="oppo_phone">OPPO</string>
+    <string name="other_ime">Іншыя клавіятуры</string>
     <string name="package_delete_confirm_step_1">Выдаліць%s?</string>
     <string name="package_delete_confirm_step_2">Выдаленне гэтай праграмы можа прывесці да нестабільнасці сістэмы.</string>
     <string name="package_delete_confirm_step_3">Вы не зможаце адчыняць праграму пасля яе выдалення.</string>

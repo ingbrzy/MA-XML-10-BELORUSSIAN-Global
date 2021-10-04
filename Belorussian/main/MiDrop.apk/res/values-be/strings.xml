@@ -189,14 +189,14 @@
     <string name="er">Папка прызначэння</string>
     <string name="es">Выбраныя</string>
     <string name="et">Выбрана файлаў: %1$d | Усяго: %2$s</string>
-    <string name="eu">4-16 сімвалаў, уключаючы літары і лічбы, адчувальныя да рэгістра</string>
+    <string name="eu">Імя карыстальніка і пароль адчувальныя да рэгістра і павінны ўтрымліваць ад %1$d да %2$d знакаў. Вы можаце камбінаваць ангельскія літары, спецыяльныя сімвалы і лічбы.</string>
     <string name="ev">Ананімны Ўваход</string>
     <string name="ew">Няправільнае імя карыстальніка або пароль</string>
     <string name="ex">Не атрымалася адкрыць порт. Праверце падключэнне да сеткі або скіньце нумар порта.</string>
     <string name="ey">Пароль</string>
     <string name="ez">Нумар порта</string>
     <string name="f0">Бяспека</string>
-    <string name="f1">Уваход</string>
+    <string name="f1">Задайце імя карыстальніка і пароль</string>
     <string name="f2">Імя карыстальніка</string>
     <string name="f3">Спрошчаная кітайская кадыроўка па змаўчанні для Windows</string>
     <string name="f4">GBK</string>

@@ -36,9 +36,11 @@
     <string name="app_ver_name">1.0</string>
     <string name="casting_tips">Трансляцыя…</string>
     <string name="clearable_edittext_clear_description">Ачысціць</string>
+    <string name="close">Закрыць</string>
     <string name="close_hotspot_hint">Выключыце партатыўны хот-спот перад трансляцыяй</string>
     <string name="close_slave_wifi_hint">Адключыць ад дапаможных сетак Wi-Fi перад трансляцыяй</string>
     <string name="close_slave_wifi_hint_china">Disconnect from auxiliary WLAN networks before casting</string>
+    <string name="common_google_play_services_unknown_issue">У праграмы %1$s узніклі праблемы са службамі Google Play. Паўтарыце спробу.</string>
     <string name="console_guide_btn_got_it">Зразумела</string>
     <string name="console_guide_subtitle_hang_up">Вы можаце працягваць трансляцыю, калі экран вашай прылады адключаны. Гэтая функцыя дапаможа знізіць энергаспажыванне.</string>
     <string name="console_guide_subtitle_private">"Не паказваць усплывальныя паведамлення, уваходныя выклікі і іншыя прыватныя аб'екты на знешніх маніторах"</string>
@@ -48,6 +50,7 @@
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Традыцыйны кітайскі каляндар</string>
+    <string name="date_time_picker_dialog_title">Усталяваць дату і час</string>
     <string name="device_desc_trust">Давераныя прылады</string>
     <string name="dialog_can_not_find_device">Не атрымалася знайсці прылады паблізу</string>
     <string name="dialog_cancle">Скасаваць</string>
@@ -57,6 +60,8 @@
     <string name="dialog_connect_verify_perssion_fail">Не ўдалося дазволіць трансляцыю на вашым тэлевізары. Пачакайце адну–дзве хвіліны і паспрабуйце ізноў.</string>
     <string name="dialog_connected">Падлучана</string>
     <string name="dialog_connecting">Падлучэнне…</string>
+    <string name="dialog_location_permission_message">Праграме патрабуецца доступ да дадзеных аб вашым месцазнаходжанні для пошуку зьнешніх манітораў паблізу. Абярыце «Заўсёды дазваляць», падаючы гэты дазвол, каб пазбегнуць магчымых памылак.</string>
+    <string name="dialog_location_permission_title">Патрабуюцца дазволы</string>
     <string name="dialog_miplay_permission_message">Дазвольце трансляцыю для запісу аўдыё, доступу да файлаў ва ўнутраным сховішчы і вашага месцазнаходжання, каб выкарыстоўваць гэтую функцыю ў звычайным рэжыме. Націсніце «Налады» і выберыце «Дазволы праграм», каб працягнуць.</string>
     <string name="dialog_miplay_permission_positive">Налады</string>
     <string name="dialog_miplay_permission_title">Патрабуюцца дазволы</string>
@@ -78,6 +83,8 @@
 2. On some TV models, this feature is only available when screen mirroring is on. View \"Help\" to learn more."</string>
     <string name="dialog_scanning_device">Пошук прылад паблізу…</string>
     <string name="dialog_scanning_precondition">Уключыце Wi-Fi і Bluetooth на тэлефоне, каб выкарыстоўваць Бесправадной дысплей.</string>
+    <string name="dialog_scanning_precondition_new_china">Turn on WLAN, Bluetooth, and location services to be able to use casting. Turn on now?</string>
+    <string name="dialog_scanning_precondition_new_global">Уключыце Wi-Fi, Bluetooth і паслугі вызначэння месцазнаходжання, каб мець магчымасць выкарыстоўваць функцыю трансляцыі на знешні манітор. Уключыць зараз?</string>
     <string name="dialog_select_tv">Выбраць прыладу (%d)</string>
     <string name="dialog_show_help">Даведка</string>
     <string name="disconnect">Спыніць трансляцыю</string>
@@ -127,6 +134,14 @@
     <string name="friday">Пятніца</string>
     <string name="friday_short">Птн</string>
     <string name="friday_shortest">Птн</string>
+    <string name="global_privacy">Умовы і палажэнні</string>
+    <string name="global_privacy_detail">&lt;Data>Перад выкарыстаннем праграмы «Трансляцыя» азнаёмцеся і пагадзіцеся з нашымі &lt;a href=%1$s>Карыстальніцкім пагадненнем&lt;/a> і &lt;a href=%2$s>Палітыкай прыватнасці&lt;/a>.&lt;br> Калі вы не згодныя з вышэйазначанымі дакументамі, вы не зможаце выкарыстоўваць некаторыя функцыі гэтай праграмы, аднак яе асноўныя функцыі застануцца даступнымі вам.&lt;/Data></string>
+    <string name="global_privacy_explain">Сардэчна запрашаем у «Трансляцыю»! Гэтая праграма прадастаўляе наступныя паслугі:</string>
+    <string name="global_privacy_feature">Выкарыстанне згорнутых вокнаў, трансляцыя з выключаным экранам і ўтойванне асабістых файлаў.</string>
+    <string name="global_privacy_main">"Трансляцыя аб'ектаў з экрана тэлефона на вялікі знешні манітор."</string>
+    <string name="global_privacy_negative">Не згаджацца</string>
+    <string name="global_privacy_positive">Згадзіцца</string>
+    <string name="global_privacy_tip">&lt;Data>Нам трэба ажыццяўляць збор неабходнай асабістай інфармацыі, каб прадастаўляць вам асноўныя паслугі і аптымізаваць працэс трансляцыі. Вы можаце даведацца пра тое, як мы апрацоўваем інфармацыю, якую збіраем, у нашай&lt;a href=%1$s>Палітыцы прыватнасці&lt;/a>. Вы можаце ў любы час адклікаць сваю згоду з Палітыкай прыватнасці ў Наладах.&lt;/Data></string>
     <string name="hang_up">Трансляваць пры выключаным экране</string>
     <string name="hang_up_alert_dialog_content">Працягвайце трансляваць пасля выключэння экрана прылады. Гэтая функцыя зніжае энергаспажыванне. Націсніце на кнопку «Сілкаванне», каб зноў уключыць экран.</string>
     <string name="hang_up_alert_dialog_neg">Скасаваць</string>
@@ -184,7 +199,7 @@
     <string name="help_page_text_34">Па-першае, пераканайцеся, што функцыя Miracast падтрымліваецца на вашай прыладзе. На некаторых мадэлях вы можаце выбраць «Праграмы > Трансляцыя > Прылада Android > Miracast».</string>
     <string name="help_page_text_35">Служба падтрымкі кліентаў Skyworth: 95105555</string>
     <string name="help_page_text_36">Sony</string>
-    <string name="help_page_text_37">Па-першае, пераканайцеся, што функцыя Miracast падтрымліваецца на вашай прыладзе. На некаторых мадэлях вы можаце націснуць кнопку [SOURCE] на пульце дыстанцыйнага кіравання, а затым выбраць «Люстраное адлюстраванне экрана. На некаторых мадэлях гэтую функцыю можна ўключыць у раздзеле «Сетка > Налады WIFIDirect. Гэта функцыя ўключана па змаўчанні на розных мадэлях.</string>
+    <string name="help_page_text_37">Па-першае, пераканайцеся, што функцыя Miracast падтрымліваецца на вашай прыладзе. На некаторых мадэлях вы можаце націснуць кнопку [SOURCE] на пульце дыстанцыйнага кіравання, а затым выбраць «Люстраное адлюстраванне экрана. На некаторых мадэлях гэтую функцыю можна ўключыць у раздзеле «Сетка > Налады Wi-Fi Direct. Гэта функцыя ўключана па змаўчанні на розных мадэлях.</string>
     <string name="help_page_text_38">Служба падтрымкі кліентаў Sony: 400-810-9000</string>
     <string name="help_page_text_39">Panasonic</string>
     <string name="help_page_text_40">Па-першае, пераканайцеся, што функцыя Miracast падтрымліваецца на вашай прыладзе. На некаторых мадэлях вы можаце выбраць «Праграмы > Люстраное адлюстраванне экрана».</string>
@@ -208,9 +223,28 @@
     <string name="help_page_text_end">Калі маркі вашай прылады няма ў спісе, звярніцеся да вытворцы, каб даведацца больш пра функцыю трансляцыі.</string>
     <string name="keyguard_security_setting_privacy_policy">Палітыка прыватнасці</string>
     <string name="midnight">Ноч</string>
-    <string name="miuix_appcompat_cloud_state_disabled">Сінхранізацыя з воблакам адключаная</string>
-    <string name="miuix_appcompat_cloud_state_finished">Сінхранізацыя з воблакам завершана</string>
-    <string name="miuix_appcompat_cloud_state_syncing">Сінхранізацыя з воблакам…</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Зняць выбар</string>
+    <string name="miuix_appcompat_action_mode_select_all">Выбраць усё</string>
+    <string name="miuix_appcompat_action_mode_title_empty">"Выбраць аб'екты"</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Больш</string>
+    <string name="miuix_appcompat_cancel_description">Скасаваць</string>
+    <string name="miuix_appcompat_confirm_description">Пацвердзіць</string>
+    <string name="miuix_appcompat_delete_description">Выдаліць</string>
+    <string name="miuix_appcompat_deselect_all">Зняць выбар</string>
+    <string name="miuix_appcompat_deselect_all_description">Зняць выбар</string>
+    <string name="miuix_appcompat_search_action_mode_cancel">Скасаваць</string>
+    <string name="miuix_appcompat_search_input_description">Пошук</string>
+    <string name="miuix_appcompat_select_all">Выбраць усё</string>
+    <string name="miuix_appcompat_select_all_description">Выбраць усё</string>
+    <string name="miuix_appcompat_select_item">"Выберыце аб'екты"</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Пацягніце ўніз для абнаўлення</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Абноўлена</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Абнаўленне…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Адпусціце для абнаўлення</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">Пакуль што гэта ўсё</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">Пакуль што гэта ўсё</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Хвілінку…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Не атрымалася загрузіць аб'екты"</string>
     <string name="monday">Панядзелак</string>
     <string name="monday_short">Пан</string>
     <string name="monday_shortest">Пан</string>
@@ -331,6 +365,7 @@
     <string name="screen_projection_sample_title">Дэманстрацыі</string>
     <string name="screen_projection_title">Трансляцыя</string>
     <string name="search_menu_title">Пошук</string>
+    <string name="send">Даслаць</string>
     <string name="small_window">Згарнуць акно</string>
     <string name="small_window_not_supported">Нельга згарнуць гэтую праграму падчас трансляцыі</string>
     <string name="status_bar_in_casting">Трансляцыя…</string>

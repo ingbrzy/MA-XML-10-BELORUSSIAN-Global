@@ -1192,7 +1192,6 @@
     <string name="keyguard_missing_sim_instructions_long">SIM-карта адсутнічае ці не чытаецца. Устаўце SIM-карту.</string>
     <string name="keyguard_missing_sim_message">У тэлефоне няма SIM-карты.</string>
     <string name="keyguard_missing_sim_message_short">Няма SIM-карты</string>
-    <string name="keyguard_more_overflow_text">+%d</string>
     <string name="keyguard_network_locked_message">Сетка заблакіравана</string>
     <string name="keyguard_password_enter_password_code">Увядзіце пароль для разблакіравання</string>
     <string name="keyguard_password_enter_pin_code">Увядзіце PIN-код</string>
@@ -1501,14 +1500,12 @@ mm"</string>
 
 Для атрымання дадатковай інфармацыі звярніцеся да адміністратара."</string>
     <string name="monitoring_description_ca_cert_settings">Адкрыць давераныя ўліковыя даныя</string>
-    <string name="monitoring_description_ca_cert_settings_separator">" "</string>
     <string name="monitoring_description_ca_certificate">На гэтай прыладзе ўсталяваны цэнтр сертыфікацыі. Ваш абаронены сеткавы трафік могуць праглядваць ці змяняць.</string>
     <string name="monitoring_description_do_body">Адміністратар кантралюе налады, праграмы, карпаратыўны доступ, звязаныя з прыладай даныя і перадачу геаданых.</string>
     <string name="monitoring_description_do_body_vpn">Вы падключаны да праграмы %1$s, якая можа сачыць за вашай сеткавай дзейнасцю, уключаючы электронную пошту, праграмы і вэб-сайты.</string>
     <string name="monitoring_description_do_header_generic">Ваша прылада знаходзіцца пад кіраваннем %1$s.</string>
     <string name="monitoring_description_do_header_with_name">%1$s выкарыстоўвае %2$s для кіравання вашай прыладай.</string>
     <string name="monitoring_description_do_learn_more">Даведацца больш</string>
-    <string name="monitoring_description_do_learn_more_separator">" "</string>
     <string name="monitoring_description_managed_profile_ca_certificate">Ваша арганізацыя ўсталявала ў вашым працоўным профілі цэнтр сертыфікацыі. Ваш абаронены сеткавы трафік могуць праглядваць ці змяняць.</string>
     <string name="monitoring_description_managed_profile_named_vpn">Ваш працоўны профіль падключаны да праграмы %1$s, якая можа сачыць за вашай сеткавай актыўнасцю, уключаючы электронную пошту, праграмы і вэб-сайты.</string>
     <string name="monitoring_description_managed_profile_network_logging">Ваш адміністратар уключыў вядзенне журнала сеткі, з дапамогай якога адсочваецца трафік у вашым працоўным профілі. Трафік вашага асабістага профілю застаецца недаступным.</string>
@@ -1542,7 +1539,6 @@ mm"</string>
 
 Вы таксама падключаны да сеткі VPN, якая можа сачыць за вашай сеткавай дзейнасцю."</string>
     <string name="monitoring_description_vpn_settings">Адкрыйце налады VPN</string>
-    <string name="monitoring_description_vpn_settings_separator">" ,"</string>
     <string name="monitoring_financed_description_named_management">"%1$s зможа кіраваць праграмамі, мець доступ да даных, звязаных з гэтай прыладай, і змяняць яе налады.
 
 Калі ў вас ёсць пытанні, звярніцеся ў арганізацыю \"%2$s\"."</string>
@@ -1623,7 +1619,6 @@ mm"</string>
     <string name="mtrl_picker_a11y_next_month">Перайсці да наступнага месяца</string>
     <string name="mtrl_picker_a11y_prev_month">Перайсці да папярэдняга месяца</string>
     <string name="mtrl_picker_announce_current_selection">Бягучае вылучэнне: %1$s</string>
-    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Выберыце дату</string>
     <string name="mtrl_picker_date_header_unselected">Выбраная дата</string>
@@ -1654,7 +1649,6 @@ mm"</string>
     <string name="nav_bar">Панэль навігацыі</string>
     <string name="nav_bar_default">(стандартная)</string>
     <string name="nav_bar_layout">Раскладка</string>
-    <string name="network_speed_suffix">%1$s%2$s</string>
     <string name="new_notification_image_content_description">Карыстальнік %1$s адправіў відарыс</string>
     <string name="new_notification_text_content_description">Карыстальнік %1$s прыслаў паведамленне: %2$s</string>
     <string name="new_status_content_description">Карыстальнік %1$s абнавіў стан: %2$s</string>
@@ -1872,7 +1866,6 @@ mm"</string>
     <string name="private_dns_mode_provider">Імя вузла аператара прыватнай DNS</string>
     <string name="private_dns_mode_provider_failure">Не атрымалася падключыцца</string>
     <string name="private_dns_mode_provider_hostname_hint">Увядзіце імя вузла аператара DNS</string>
-    <string name="process_kernel_label">АС Android</string>
     <string name="profile_connect_timeout_subtext">Праблема з падключэннем. Выключыце і зноў уключыце прыладу</string>
     <string name="profile_info_settings_title">Звесткi профiлю</string>
     <string name="profile_owned_footer">За профілем могуць назіраць</string>

@@ -30,6 +30,7 @@
     <string name="actionbar_button_up_description">Назад</string>
     <string name="afternoon">Поўдзень</string>
     <string name="allow">Дазволіць</string>
+    <string name="allowed">Прадастаўлены</string>
     <string name="altitude">%.1f</string>
     <string name="altitude_longitude_Degree_format" formatted="false">"%d°%d'%d\""</string>
     <string name="altitude_title">Вышыня</string>
@@ -142,6 +143,7 @@
     <string name="friday">Пятніца</string>
     <string name="friday_short">Птн</string>
     <string name="friday_shortest">Птн</string>
+    <string name="get_location">Доступ да месцазнаходжання</string>
     <string name="gradienter_title">Узровень</string>
     <string name="guide_toast">Для каліброўкі перамяшчайце тэлефон так, як паказана ніжэй.</string>
     <string name="latitude">Шырыня</string>
@@ -161,6 +163,7 @@
 даўгата"</string>
     <string name="longitude">Даўжыня</string>
     <string name="midnight">Ноч</string>
+    <string name="miuix_access_state_desc">Выбрана</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Зняць выбар</string>
     <string name="miuix_appcompat_action_mode_select_all">Выбраць усё</string>
     <string name="miuix_appcompat_action_mode_title_empty">"Выбраць аб'екты"</string>
@@ -226,17 +229,25 @@
     <string name="month_september_shortest">Вер</string>
     <string name="more">Яшчэ</string>
     <string name="morning">Раніца</string>
+    <string name="new_cta_v2_app_purpose">Паказ маршрутных указанняў, каардынат, атмасфернага ціска і бягучай вышыні над узроўнем мора</string>
+    <string name="new_permission_camera_desc">Для каліброўкі</string>
+    <string name="new_permission_location_desc">Для адлюстравання каардынатаў</string>
     <string name="night">Вечар</string>
     <string name="noon">Сярэдзіна дня</string>
+    <string name="not_allowed">Не прадастаўлены</string>
     <string name="not_set">Не зададзена</string>
+    <string name="open_camera">Выкарыстанне камеры</string>
     <string name="open_perm_msg">Компасу патрабуецца доступ да месцазнаходжання і камеры. Гэта неабходна для вызначэння каардынатаў і прагляду ў рэжыме рэальнага часу. Дазволіць?</string>
     <string name="open_perm_msg_no_camera">Компасе трэба атрымаць доступ да інфармацыі пра месцазнаходжанне, каб вызначыць каардынаты. Дазволіць?</string>
     <string name="open_perm_title">Патрабуюцца дазволы</string>
     <string name="permission_camera_desc">Для адлюстравання азімута ў прадпраглядзе ў рэжыме рэальнага часу</string>
+    <string name="permission_description">Інфармацыя пра дазволы</string>
     <string name="permission_location_desc">Для адлюстравання каардынатаў</string>
     <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\": скапіравана ў буфер абмену.</string>
     <string name="preference_other">Іншае</string>
+    <string name="preference_privacy_policy">Прагледзець Палітыку прыватнасці</string>
+    <string name="preference_privacy_setting">Прыватнасць</string>
     <string name="preference_privacy_title">Палітыка канфідэнцыяльнасці</string>
     <string name="pressure">%.1f</string>
     <string name="pressure_title">Ціск</string>

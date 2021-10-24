@@ -60,6 +60,18 @@
         <item quantity="few">Дададзена %d гульні</item>
         <item quantity="many">Дададзена %d гульняў</item>
     </plurals>
+    <plurals name="app_behavior_dashboard_title_desc">
+        <item quantity="other">%d праграмы</item>
+        <item quantity="one">%d праграма</item>
+        <item quantity="few">%d праграмы</item>
+        <item quantity="many">%d праграм</item>
+    </plurals>
+    <plurals name="app_behavior_dashboard_total_usage_item">
+        <item quantity="other">%d праграмы</item>
+        <item quantity="one">%d праграма</item>
+        <item quantity="few">%d праграмы</item>
+        <item quantity="many">%d праграм</item>
+    </plurals>
     <plurals name="app_behavior_desc_allow">
         <item quantity="other">Дазволена %3$d разоў у прамежку паміж %1$s і %2$s</item>
         <item quantity="one">Дазволена %3$d раз у прамежку паміж %1$s і %2$s</item>
@@ -83,6 +95,24 @@
         <item quantity="one">Забаронена %2$d раз у %1$s</item>
         <item quantity="few">Забаронена %2$d разы ў %1$s</item>
         <item quantity="many">Забаронена %2$d разоў у %1$s</item>
+    </plurals>
+    <plurals name="app_behavior_desc_duration_usage">
+        <item quantity="other">Дазволена %3$d разы ў прамежку паміж %1$s і %2$s</item>
+        <item quantity="one">Дазволена %3$d раз у прамежку паміж %1$s і %2$s</item>
+        <item quantity="few">Дазволена %3$d разы ў прамежку паміж %1$s і %2$s</item>
+        <item quantity="many">Дазволена %3$d разоў у прамежку паміж %1$s і %2$s</item>
+    </plurals>
+    <plurals name="app_behavior_desc_duration_usage_time">
+        <item quantity="other">Выкарыстоўвалася %1$d хвіліны</item>
+        <item quantity="one">Выкарыстоўвалася %1$d хвіліну</item>
+        <item quantity="few">Выкарыстоўвалася %1$d хвіліны</item>
+        <item quantity="many">Выкарыстоўвалася %1$d хвілін</item>
+    </plurals>
+    <plurals name="app_behavior_desc_duration_usage_time_end">
+        <item quantity="other">Выкарыстоўвалася %1$d хвіліны да %2$s</item>
+        <item quantity="one">Выкарыстоўвалася %1$d хвіліну да %2$s</item>
+        <item quantity="few">Выкарыстоўвалася %1$d хвіліны да %2$s</item>
+        <item quantity="many">Выкарыстоўвалася %1$d хвілін да %2$s</item>
     </plurals>
     <plurals name="app_behavior_desc_virtual">
         <item quantity="other">Вярнула %3$d пустых паведамленняў з %1$s да%2$s</item>
@@ -198,6 +228,18 @@
         <item quantity="few">%s праграмы будуць абаронены Абаронай праграм</item>
         <item quantity="many">%s праграм будуць абаронены Абаронай праграм</item>
     </plurals>
+    <plurals name="behavior_widget_app_text">
+        <item quantity="other">%2$d праграмы, у тым ліку %1$s</item>
+        <item quantity="one">%2$d праграма, у тым ліку %1$s</item>
+        <item quantity="few">%2$d праграмы, у тым ліку %1$s</item>
+        <item quantity="many">%2$d праграм, у тым ліку %1$s</item>
+    </plurals>
+    <plurals name="behavior_widget_perm_counts">
+        <item quantity="other">%d раза</item>
+        <item quantity="one">%d раз</item>
+        <item quantity="few">%d разы</item>
+        <item quantity="many">%d разоў</item>
+    </plurals>
     <plurals name="bg_network_allow_count">
         <item quantity="other">%d праграмы з падключэннем да сеткі ў фоне</item>
         <item quantity="one">%d праграма з падключэннем да сеткі ў фоне</item>
@@ -247,6 +289,12 @@
         <item quantity="one">Праз %1$d хвіліну</item>
         <item quantity="few">Праз %1$d хвіліны</item>
         <item quantity="many">Праз %1$d хвілін</item>
+    </plurals>
+    <plurals name="exit_dialog_scan_message_new">
+        <item quantity="other">Індэкс прадукцыйнасці вашай прылады ніжэй %d бала. Аптымізаваць зараз?</item>
+        <item quantity="one">Індэкс прадукцыйнасці вашай прылады ніжэй %d бала. Аптымізаваць зараз?</item>
+        <item quantity="few">Індэкс прадукцыйнасці вашай прылады ніжэй %d балаў. Аптымізаваць зараз?</item>
+        <item quantity="many">Індэкс прадукцыйнасці вашай прылады ніжэй %d балаў. Аптымізаваць зараз?</item>
     </plurals>
     <plurals name="exo_controls_fastforward_by_amount_description">
         <item quantity="other">Пераматаць уперад на %d секунды</item>
@@ -406,6 +454,24 @@
         <item quantity="few">Паспрабуйце %d дні бясплатна</item>
         <item quantity="many">Паспрабуйце %d дзён бясплатна</item>
     </plurals>
+    <plurals name="gtb_brightness_dialog_message">
+        <item quantity="other">Гэтая функцыя аўтаматычна зніжае яркасць экрана пасля %d хвіліны бяздзейнасці для эканоміі энергіі. Пакінуць гэтую функцыю ўключанай?</item>
+        <item quantity="one">Гэтая функцыя аўтаматычна зніжае яркасць экрана пасля %d хвіліны бяздзейнасці для эканоміі энергіі. Пакінуць гэтую функцыю ўключанай?</item>
+        <item quantity="few">Гэтая функцыя аўтаматычна зніжае яркасць экрана пасля %d хвілін бяздзейнасці для эканоміі энергіі. Пакінуць гэтую функцыю ўключанай?</item>
+        <item quantity="many">Гэтая функцыя аўтаматычна зніжае яркасць экрана пасля %d хвілін бяздзейнасці для эканоміі энергіі. Пакінуць гэтую функцыю ўключанай?</item>
+    </plurals>
+    <plurals name="gtb_setting_item_summary_brightness">
+        <item quantity="other">Памяншаць яркасць экрана аўтаматычна для эканоміі энергіі пасля %d хвіліны бяздзейнасці</item>
+        <item quantity="one">Памяншаць яркасць экрана аўтаматычна для эканоміі энергіі пасля %d хвіліны бяздзейнасці</item>
+        <item quantity="few">Памяншаць яркасць экрана аўтаматычна для эканоміі энергіі пасля %d хвілін бяздзейнасці</item>
+        <item quantity="many">Памяншаць яркасць экрана аўтаматычна для эканоміі энергіі пасля %d хвілін бяздзейнасці</item>
+    </plurals>
+    <plurals name="gtb_spring_festival_colored_egg">
+        <item quantity="other">"Congrats! You've unlocked %s Easter eggs."</item>
+        <item quantity="one">"Congrats! You've unlocked %s Easter egg."</item>
+        <item quantity="few">"Congrats! You've unlocked %s Easter eggs."</item>
+        <item quantity="many">"Congrats! You've unlocked %s Easter eggs."</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Паўгадзіны таму</item>
         <item quantity="one">Паўгадзіны таму</item>
@@ -485,10 +551,10 @@
         <item quantity="many">%d праграм знойдзена</item>
     </plurals>
     <plurals name="hints_scan_danger_result_with_number">
-        <item quantity="other">Знойдзена %d пагроз, выпраўце іх</item>
-        <item quantity="one">Знойдзена %d пагроза, выпраўце яе</item>
-        <item quantity="few">Знойдзена %d пагрозы, выпраўце іх</item>
-        <item quantity="many">Знойдзена %d пагроз, выпраўце іх</item>
+        <item quantity="other">Знойдзена %d пагрозы</item>
+        <item quantity="one">Знойдзена %d пагроза</item>
+        <item quantity="few">Знойдзены %d пагрозы</item>
+        <item quantity="many">Знойдзены %d пагроз</item>
     </plurals>
     <plurals name="hints_traffic_disable_title">
         <item quantity="other">Улічваецца трафік %d праграмы</item>
@@ -952,6 +1018,12 @@
         <item quantity="few">"аб'екты"</item>
         <item quantity="many">"аб'ектаў"</item>
     </plurals>
+    <plurals name="power_center_unoffical_battery_dialog_negative">
+        <item quantity="other">Скасаванні (%ds)</item>
+        <item quantity="one">Скасаваць (%ds)</item>
+        <item quantity="few">Скасаванняў (%ds)</item>
+        <item quantity="many">Скасаванняў (%ds)</item>
+    </plurals>
     <plurals name="power_main_battery_last_day">
         <item quantity="other">Засталося %s дзён</item>
         <item quantity="one">Застаўся %s дзень</item>
@@ -1121,10 +1193,10 @@
         <item quantity="many">Знойдзена %d неафіцыйных праграм</item>
     </plurals>
     <plurals name="result_virus_header">
-        <item quantity="other">Знойдзена %d небяспечнай праграмы</item>
-        <item quantity="one">Знойдзена %d небяспечная праграма</item>
-        <item quantity="few">Знойдзена %d небяспечныя праграмы</item>
-        <item quantity="many">Знойдзена %d небяспечных праграм</item>
+        <item quantity="other">Знойдзены %d шкоднасныя праграм</item>
+        <item quantity="one">Знойдзена %d шкоднасная праграма</item>
+        <item quantity="few">Знойдзены %d шкоднасныя праграмы</item>
+        <item quantity="many">Знойдзены %d шкоднасныя праграм</item>
     </plurals>
     <plurals name="search_app_count_txt_na">
         <item quantity="other">Пошук праграм %d</item>
@@ -1240,11 +1312,27 @@
         <item quantity="few">%d праграмы</item>
         <item quantity="many">%d праграм</item>
     </plurals>
+    <plurals name="videobox_settings_timing_bubble">
+        <item quantity="other">"Вы глядзіце відэа ўжо %d гадзін.
+Зрабіце перапынак!"</item>
+        <item quantity="one">"Вы глядзіце відэа ўжо %d гадзіну.
+Зрабіце перапынак!"</item>
+        <item quantity="few">"Вы глядзіце відэа ўжо %d гадзіны.
+Зрабіце перапынак!"</item>
+        <item quantity="many">"Вы глядзіце відэа ўжо %d гадзін.
+Зрабіце перапынак!"</item>
+    </plurals>
     <plurals name="view_num">
         <item quantity="other">%1$d прагляду</item>
         <item quantity="one">%1$d прагляд</item>
         <item quantity="few">%1$d прагляды</item>
         <item quantity="many">%1$d праглядаў</item>
+    </plurals>
+    <plurals name="virus_clear_dialog_content">
+        <item quantity="other">Выдаліць %d выбраных праграмы?</item>
+        <item quantity="one">Выдаліць %d выбраную праграму?</item>
+        <item quantity="few">Выдаліць %d выбраных праграмы?</item>
+        <item quantity="many">Выдаліць %d выбраных праграм?</item>
     </plurals>
     <plurals name="white_list_risk_app_header">
         <item quantity="other">Небяспечных праграм: %d</item>

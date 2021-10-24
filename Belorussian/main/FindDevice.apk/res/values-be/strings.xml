@@ -36,6 +36,7 @@
     <string name="captcha">Ахоўны код</string>
     <string name="change_find_device_status_failed">Не атрымалася разблакаваць. %s.</string>
     <string name="clearable_edittext_clear_description">Ачысціць</string>
+    <string name="close">Закрыць</string>
     <string name="copy">Капіраваць</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
@@ -45,22 +46,26 @@
     <string name="default_debt_msg_words">"Гэта прылада заблакавана за нясвоечасовую аплату растэрміноўкі.
 Звяжыцеся з вашым гандлёвым агентам, каб атрымаць больш інфармацыі."</string>
     <string name="default_lock_msg_words">Гэта прылада звязана з існуючым Mi Акаўнтам. З меркаванняў бяспекі неабходна ўвесці пароль, каб праверыць прыладу.</string>
-    <string name="default_lock_msg_words_with_phone">Гэта прылада згублена. Не маглі б вы звязацца са мной? Дзякуй!</string>
+    <string name="default_lock_msg_words_with_phone">Добры дзень! Гэта прылада была згублена. Ці не маглі б Вы звязацца са мной? Дзякуй!</string>
     <string name="device_locked">Прылада заблакавана</string>
     <string name="device_lost">Прылада страчана</string>
-    <string name="disable_find_device_error">Не атрымалася адключыць пошук прылады. %1$s</string>
+    <string name="disable_find_device_error">Не атрымалася адключыць Пошук прылады. %1$s</string>
     <string name="disable_find_device_success">Пошук прылады адключаны</string>
     <string name="doing_extra_login_steps">Праверка ўваходу…</string>
     <string name="early_morning">Раніца</string>
     <string name="emergency_call">Экстранны выклік</string>
     <string name="empty" />
-    <string name="enable_find_device_error">Не атрымалася ўключыць пошук прылады. %1$s</string>
+    <string name="enable_find_device_error">Не атрымалася ўключыць Пошук прылады. %1$s</string>
     <string name="enable_find_device_success">Пошук прылады ўключаны</string>
     <string name="eras_ad">н. э.</string>
     <string name="eras_bc">до н. э.</string>
     <string name="evening">Поўдзень</string>
     <string name="expand_button_title">Пашыраныя налады</string>
     <string name="find_device">Пошук прылады</string>
+    <string name="find_device_capture_done_notification_content">View the photo on i.mi.com</string>
+    <string name="find_device_capture_done_notification_title">Find device took a photo remotely</string>
+    <string name="find_device_capture_notification_content">A request to take a photo remotely with this device was submitted by your account</string>
+    <string name="find_device_capture_notification_title">Find device is about to take a photo</string>
     <string name="find_device_crash">Пошук прылады нечакана закрыты.</string>
     <string name="find_device_error_access_denied">Доступ забаронены.</string>
     <string name="find_device_error_account_sys_timeout">"Не атрымалася падлучыцца да Mi Акаўнта. "</string>
@@ -71,14 +76,16 @@
     <string name="find_device_error_server">Памылка сервера (%s).</string>
     <string name="find_device_error_unknown">Невядомая памылка (%s).</string>
     <string name="find_device_noise_title">Сігнал пошуку прылады</string>
-    <string name="find_device_notice">Перайдзіце на &lt;b>&lt;font color=#0099FF>i.mi.com&lt;/font>&lt;/b>, каб знайсці, заблакаваць або аднавіць прыладу.</string>
+    <string name="find_device_notice">Перайдзіце на &lt;b>&lt;font color=#0099FF>i.mi.com&lt;/font>&lt;/b>, каб знайсці і заблакаваць сваю прыладу, адзначыць яе як страчаную, сцерці дадзеныя або выдалена зрабіць фота.</string>
     <string name="find_device_notice_sms_alert_with_common_charge_hint">Калі вы зменіце SIM-карту, для абнаўлення інфармацыі аб яе стане і праверкі правільнай працы ўсіх службаў будзе адпраўлена адно &lt;font color=#0097FF>&lt;b>платнае SMS&lt;/b>&lt;/font>. Ваш аператар будзе спаганяць плату за гэта паведамленне.</string>
     <string name="find_device_notice_sms_alert_with_domestic_charge_hint">Калі вы зменіце SIM-карту, для абнаўлення інфармацыі аб яе стане і праверкі правільнай працы ўсіх службаў будзе адпраўлена адно &lt;font color=#0097FF>&lt;b>платнае ўнутранае SMS&lt;/b>&lt;/font>. Ваш аператар будзе спаганяць плату за гэта паведамленне.</string>
     <string name="find_device_notice_sms_alert_with_internal_charge_hint">Калі вы зменіце SIM-карту, для абнаўлення інфармацыі аб яе стане і праверкі правільнай працы ўсіх службаў будзе адпраўлена адно &lt;font color=#0097FF>&lt;b>платнае міжнароднае SMS&lt;/b>&lt;/font>. Ваш аператар будзе спаганяць плату за гэта паведамленне.</string>
     <string name="find_device_stop_noise">Націсніце ОК, каб адключыць гук</string>
     <string name="find_device_storage_corrupted">Сховішча пашкоджана. Ваша прылада пад пагрозай.</string>
-    <string name="find_device_success_title">Пошук прылады</string>
+    <string name="find_device_success_title">Пошук прылады ўключаны</string>
     <string name="find_device_telephony_fault">Пошук прылады: Памылка тэлефаніі (%s).</string>
+    <string name="fmt_chinese_date">N月e</string>
+    <string name="fmt_date">D</string>
     <string name="fmt_date_day">dd</string>
     <string name="fmt_date_long_month">MMMM</string>
     <string name="fmt_date_long_month_day">dd MMMM</string>
@@ -94,7 +101,11 @@
     <string name="fmt_date_short_month_day">dd.MM</string>
     <string name="fmt_date_short_year_month">MMM yyyy</string>
     <string name="fmt_date_short_year_month_day">dd.MM.yyyy</string>
+    <string name="fmt_date_time">D T</string>
+    <string name="fmt_date_time_timezone">D T z</string>
+    <string name="fmt_date_timezone">D z</string>
     <string name="fmt_date_year">yyyy</string>
+    <string name="fmt_time">T</string>
     <string name="fmt_time_12hour">hh</string>
     <string name="fmt_time_12hour_minute">hh:mm</string>
     <string name="fmt_time_12hour_minute_pm">hh:mm aa</string>
@@ -113,8 +124,18 @@
     <string name="fmt_time_minute_second_millis">m:s.S</string>
     <string name="fmt_time_second">s</string>
     <string name="fmt_time_second_millis">s.S</string>
+    <string name="fmt_time_timezone">T z</string>
+    <string name="fmt_timezone">z</string>
+    <string name="fmt_weekday">W</string>
+    <string name="fmt_weekday_date">W, D</string>
+    <string name="fmt_weekday_date_time">W, D T</string>
+    <string name="fmt_weekday_date_time_timezone">W, D T z</string>
+    <string name="fmt_weekday_date_timezone">W, D z</string>
     <string name="fmt_weekday_long">EEEE</string>
     <string name="fmt_weekday_short">E</string>
+    <string name="fmt_weekday_time">W T</string>
+    <string name="fmt_weekday_time_timezone">W T z</string>
+    <string name="fmt_weekday_timezone">W z</string>
     <string name="friday">Пятніца</string>
     <string name="friday_short">Птн</string>
     <string name="friday_shortest">Птн</string>
@@ -208,6 +229,7 @@
     <string name="saturday_short">Суб</string>
     <string name="saturday_shortest">Суб</string>
     <string name="search_menu_title">Пошук</string>
+    <string name="send">Даслаць</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stop_on_empty_captcha">Ахоўны код не можа быць пустым</string>
     <string name="stop_on_empty_password">Пароль не можа быць пустым</string>
@@ -282,7 +304,7 @@
     <string name="unlock_error_passport_sdk_timeout">SDK для Mi Акаўнт не адказвае</string>
     <string name="unlock_error_rpc">Памылка RPC</string>
     <string name="unlock_error_server">Памылка сервера</string>
-    <string name="unlock_error_ssl_hand_shake">Не атрымалася далучыцца да сервера, паспрабуйце ўсталяваць дату і час уручную.</string>
+    <string name="unlock_error_ssl_hand_shake">Не атрымалася далучыцца да сервера. Паспрабуйце ўсталяваць дату і час уручную.</string>
     <string name="unlock_error_unknown">Не атрымалася ўвасці</string>
     <string name="unlock_error_user_name">Няправільнае імя карыстальніка</string>
     <string name="unlock_error_wrong_vcode">Уведзены няправільны код</string>

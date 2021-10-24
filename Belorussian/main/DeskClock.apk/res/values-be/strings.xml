@@ -423,12 +423,20 @@
     <string name="other_settings">Дадатковыя налады</string>
     <string name="pause">Прыпыніць</string>
     <string name="percentage_sign">%</string>
+    <string name="permission_desc">Інфармацыя пра дазволы</string>
+    <string name="permission_granted">Прадастаўлены</string>
+    <string name="permission_rejected">Не прадастаўлены</string>
+    <string name="permission_related">Дазволы</string>
     <string name="personal_recommend">Персанальныя рэкамендацыі па кантэнце</string>
     <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\": скапіравана ў буфер абмену.</string>
     <string name="privacy_policy">Палітыка прыватнасці</string>
     <string name="privacy_policy_title">Палітыка прыватнасці</string>
+    <string name="privacy_settings_title">Прыватнасць</string>
+    <string name="query_privacy_policy">Прагледзець Палітыку прыватнасці</string>
     <string name="reach_upper_limit">Немагчыма дадаць больш таймераў</string>
+    <string name="read_external_storage_permission_desc">Для ўстаноўкі ўласных мелодый</string>
+    <string name="read_internal_storage">Доступ да памяці</string>
     <string name="remind_ringtone">Рынгтон</string>
     <string name="repeat_count">Разы</string>
     <string name="repeat_count_value_five">5</string>
@@ -478,6 +486,7 @@
     <string name="shutdown_alarm_enable_summary">Будзільнік будзе званіць, калі час званка не менш чым на 10 хвілін пазней моманту выключэння вашай прылады</string>
     <string name="shutdown_alarm_title">Выключыць</string>
     <string name="silent_alarm_summary">Без гука</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">Адключыць адзін раз %s</string>
     <string name="sleep_analysis">Статыстыка</string>
     <string name="sleep_analysis_chart_date_format">dd.MM</string>
@@ -521,6 +530,7 @@
     <string name="status_bar_clock_date_time_format">H:mm:ss</string>
     <string name="status_bar_clock_date_time_format_12">h:mm:ss aa</string>
     <string name="status_bar_clock_date_time_format_seconds_12">h:mm:ss</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stopwatch_lap_empty_text">Няма кругоў</string>
     <string name="stopwatch_reset_notification">Секундамер скінуты</string>
     <string name="stopwatch_running_notification">Секундамер</string>
@@ -529,6 +539,7 @@
     <string name="sunday">Нядзеля</string>
     <string name="sunday_short">Ндз</string>
     <string name="sunday_shortest">Ндз</string>
+    <string name="symbol_colon">:</string>
     <string name="system_permission_agree_desc">Дазволіць гэтай праграме доступ да інтэрнэту для доступу да ўсіх яе функцый.</string>
     <string name="system_permission_main_purpose">Час прагляду, устаноўка будзільнікаў і таймераў, выкарыстанне секундамера</string>
     <string name="system_permission_purpose">Стварэнне будзільнікаў для будных дзён і налада карыстальніцкіх рынгтонаў</string>

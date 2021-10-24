@@ -133,6 +133,7 @@
     <string name="cast_forward">Наперад</string>
     <string name="cast_forward_10">Дзесяць секунд наперад</string>
     <string name="cast_forward_30">Трыццаць секунд наперад</string>
+    <string name="cast_intro_overlay_button_text">\@android:string/ok</string>
     <string name="cast_live_label">У ЖЫВЫМ ЭФІРЫ</string>
     <string name="cast_mute">Адключыць гук</string>
     <string name="cast_notification_connected_message">Падключэнне да %1$s выканана</string>
@@ -847,6 +848,7 @@ ID:%s
     <string name="off_tip_firework_recommend">Вы не будзеце атрымліваць персанальныя рэкамендацыі па кантэнце ад Firework.</string>
     <string name="ok">OК</string>
     <string name="on_tip_firework_recommend">Вы будзеце атрымліваць персанальныя рэкамендацыі па кантэнце ад Firework.</string>
+    <string name="order_alphabet">А-Я</string>
     <string name="order_recently_subscribe">Новыя падпіскі</string>
     <string name="order_recently_updated">Нядаўна абноўлена</string>
     <string name="out_of_memory_background_playback_is_suspended">Прыпынена прайграванне ў фоне з-за недахопу памяці</string>
@@ -1300,6 +1302,7 @@ ID:%s
     <string name="sns_sign_in">Іншыя спосабы ўваходу</string>
     <string name="source">"Крыніца: "</string>
     <string name="start_download_tip">Дададзена ў чаргу. Праглядайце ход выканання ў «Профіль > Спампоўкі».</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_external_sdcard">SD-карта</string>
     <string name="storage_internal_sdcard">Унутраная памяць</string>
     <string name="submit">Адправіць</string>

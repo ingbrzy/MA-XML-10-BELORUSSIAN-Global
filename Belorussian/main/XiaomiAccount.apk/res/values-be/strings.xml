@@ -31,6 +31,7 @@
     <string name="access_token_expired_warning">Тэрмін дзеяння акаўнта Weibo мінуў</string>
     <string name="access_token_invalid_warning">Некарэктны акаўнт Weibo</string>
     <string name="account">Акаўнт</string>
+    <string name="account_and_password">Пароль</string>
     <string name="account_bind_devices">Прылады</string>
     <string name="account_bind_secure_email_title">Дадайце адрас электроннай пошты</string>
     <string name="account_bind_secure_phone_title">Дадайце нумар тэлефона</string>
@@ -62,7 +63,7 @@
 ID вашага акаўнта:%s"</string>
     <string name="account_token_expired_title">Памылка аўтэнтыфікацыі</string>
     <string name="account_user_avatar">Фота профілю</string>
-    <string name="account_user_avatar_from_album">Select photo</string>
+    <string name="account_user_avatar_from_album">Выбраць фота</string>
     <string name="account_user_avatar_from_camera">Зрабіць фота</string>
     <string name="account_user_base_info">Асабістыя дадзеныя</string>
     <string name="account_user_birthday">Дзень нараджэння</string>
@@ -75,7 +76,11 @@ ID вашага акаўнта:%s"</string>
     <string name="account_user_name_dialog_title">Увядзіце імя карыстальніка</string>
     <string name="account_user_other_info">Больш крыніц</string>
     <string name="account_user_phone">Тэлефон для аднаўлення</string>
+    <string name="account_user_phone_show">Тэлефон: %s</string>
     <string name="account_user_region">Рэгіён</string>
+    <string name="account_verify_guide_bind_mail_desc">Дадаць email для аднаўлення</string>
+    <string name="account_verify_guide_bind_phone_desc">Дадаць тэлефон для аднаўлення</string>
+    <string name="account_verify_guide_set_password_desc">Задаць пароль</string>
     <string name="account_xiaomi_service">Службы</string>
     <string name="action_add_phone">Дадаць нумар тэлефона</string>
     <string name="action_retry">Паспрабаваць зноў</string>
@@ -178,16 +183,17 @@ ID:%s
     <string name="facebook_app_id">2263965750590514</string>
     <string name="facebook_login">Увайсці праз Facebook</string>
     <string name="failed_dup_secure_phone_number">Гэты нумар тэлефона ўжо звязаны з іншым Mi Акаўнтам</string>
+    <string name="family_share">"Сумеснае выкарыстанне сям'ёй"</string>
     <string name="fb_login_protocol_scheme">fb2263965750590514</string>
     <string name="find_device">Пошук прылады</string>
     <string name="find_device_access_denied">Не атрымалася атрымалася статус, доступ забаронены</string>
     <string name="find_device_account_error">Немагчыма атрымаць статус з-за памылкі акаўнта</string>
     <string name="find_device_activate_account">Актывуйце акаўнт</string>
-    <string name="find_device_bad_response_error">A server error occurred. Wait a minute or two and try again.</string>
+    <string name="find_device_bad_response_error">Здарылася памылка на серверы. Пачакайце хвілінку ці дзве і паспрабуйце зноў.</string>
     <string name="find_device_clear_data">Ачысціць дадзеныя</string>
     <string name="find_device_close">Выкл</string>
     <string name="find_device_error_password_not_confirmed">Немагчыма адключыць пошук прылады. Увядзіце ваш пароль ад Mi Акаўнта зноў.</string>
-    <string name="find_device_error_password_recently_changed">"You've changed your password within last %d days. Can't turn off Find device now due to security reasons."</string>
+    <string name="find_device_error_password_recently_changed">Вы змянілі свой пароль на працягу апошніх %d дзён. Зараз нельга адключыць Пошук прылады па меркаваннях бяспекі.</string>
     <string name="find_device_interrupted">Дзеянне перарвалася, пачакайце хвіліну ці дзве і паспрабуйце зноў</string>
     <string name="find_device_io_error">Немагчыма злучыцца з сеткай</string>
     <string name="find_device_location">Знайсці</string>
@@ -206,7 +212,8 @@ ID:%s
     <string name="find_device_request_prepare_error">Немагчыма атрымаць статус, паспрабуйце пазней зноў</string>
     <string name="find_device_set_lost_model">Рэжым згубленай прылады</string>
     <string name="find_device_title">Пошук прылады</string>
-    <string name="find_device_unknown_error">"Can't get device status. Wait a minute or two and try again."</string>
+    <string name="find_device_unknown_error">Немагчыма атрымаць статус прылады. Пачакайце хвіліну ці дзве і паўтарыце спробу.</string>
+    <string name="find_equipment">Пошук прылады</string>
     <string name="fmt_chinese_date">N月e</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">d</string>
@@ -263,6 +270,7 @@ ID:%s
     <string name="friday">Пятніца</string>
     <string name="friday_short">Птн</string>
     <string name="friday_shortest">Птн</string>
+    <string name="get_back_password">Скід пароля</string>
     <string name="get_back_pwd">Скідванне пароля</string>
     <string name="get_device_list_failed">Немагчыма атрымаць спіс прылад</string>
     <string name="get_identity_auth_url_failed">Не атрымалася праверыць пасведчанне асобы</string>
@@ -296,13 +304,14 @@ ID:%s
     <string name="loading_micloud_sync_data">Хвілінку…</string>
     <string name="login_check_find_device">Атрымаць інфармацыю аб бяспецы прылады…</string>
     <string name="login_check_find_device_failed_title">Не атрымалася праверыць інфармацыю аб бяспецы прылады</string>
-    <string name="login_find_device_bind">This device is associated with an existing Mi Account ID (%s).</string>
+    <string name="login_find_device_bind">Гэтая прылада прывязаная да існуючага ідэнтыфікатара Mi Акаўнта (%s).</string>
     <string name="logout_account">Выйсці з акаўнта</string>
     <string name="logout_failed">Не атрымалася выйсці з акаўнта</string>
     <string name="mi_account_identity_title">Пацвердзіце вашу асобу</string>
     <string name="mi_finance">Мае фінансы</string>
     <string name="mi_finance_info">Бонусы для новых карыстальнікаў</string>
     <string name="mi_health">Xiaomi Health</string>
+    <string name="mi_member">Mi Супольнасць</string>
     <string name="mi_vip_info">Налады прывілеяў</string>
     <string name="midnight">Ноч</string>
     <string name="mipay">Аплата</string>
@@ -313,6 +322,7 @@ ID:%s
     <string name="mipay_indentity_done">Праверка пройдзена</string>
     <string name="mipay_others">Іншае</string>
     <string name="mipay_transit_card">Транспартная карта</string>
+    <string name="miuix_access_state_desc">Выбрана</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Зняць выбар</string>
     <string name="miuix_appcompat_action_mode_select_all">Выбраць усё</string>
     <string name="miuix_appcompat_action_mode_title_empty">"Выбраць аб'екты"</string>
@@ -382,14 +392,18 @@ ID:%s
     <string name="my_device_title">Бягучая прылада</string>
     <string name="need_install_wechat">Спачатку ўсталюйце WeChat</string>
     <string name="night">Вечар</string>
+    <string name="no_install">Не ўсталявана</string>
     <string name="no_network_btn">Абнавіць</string>
     <string name="no_network_title">Не атрымліваецца злучыцца з сеткай.</string>
+    <string name="no_password_set">Не наладжана</string>
     <string name="no_phone">Няма нумара тэлефона</string>
     <string name="no_response_retry">Няма адказу, паўтарыце спробу.</string>
     <string name="no_sim_card_or_unactivated">SIM-карта не ўсталявана або не актывавана</string>
     <string name="nobind">Не падлучана</string>
     <string name="noon">Сярэдзіна дня</string>
     <string name="not_set">Не зададзена</string>
+    <string name="notify_bind_security_phone">Дадаць тэлефон для аднаўлення</string>
+    <string name="notify_complete_security_info">Дадаць інфармацыю для аднаўлення</string>
     <string name="notify_network_restricted_content_bg_network">Доступ Mi Акаўнта да інтэрнэту абмежаваны. Націсніце, каб дазволіць.</string>
     <string name="notify_network_restricted_content_hidden_state">Фонавая актыўнасць Mi Акаўнта абмежавана. Націсніце, каб дазволіць.</string>
     <string name="notify_network_restricted_content_mobile_network">Доступ Mi Акаўнта да інтэрнэту абмежаваны. Націсніце, каб дазволіць.</string>
@@ -422,6 +436,7 @@ ID:%s
     <string name="passport_activing_account">Актывацыя…</string>
     <string name="passport_adding_account">Дадаванне акаўнта…</string>
     <string name="passport_area_code_hot">ЧАСТА КАРЫСТАЕМЫЯ</string>
+    <string name="passport_area_code_others">Выкарыстаць іншы прэфікс</string>
     <string name="passport_area_code_title">Код краіны</string>
     <string name="passport_auto_generate_pwd">Стварыць надзейны пароль</string>
     <string name="passport_back">Назад</string>
@@ -614,6 +629,7 @@ ID:%s
     <string name="passport_title_reg">Стварыць акаўнт</string>
     <string name="passport_trust_device">Дадаць гэтую прыладу да правераных</string>
     <string name="passport_trying_read_verify_code_sms">Атрыманне кода пацвярджэння…</string>
+    <string name="passport_tz_invalid">Знойдзеныя пагрозы бяспекі. Магчыма, на гэтай прыладзе атрыманы доступ да сістэмнага каталогу або яно было скінута. Паспрабуйце іншыя варыянты ўваходу ў сістэму.</string>
     <string name="passport_uplink_reg">Выкарыстаць нумар тэлефону</string>
     <string name="passport_uplink_send_sms_hint">Націсніце \"Адправіць\" пасля таго, як вы будзеце перанакіраваны на старонку з складзеным паведамленнем.</string>
     <string name="passport_uplink_slot1_reg">Выкарыстаць SIM 1</string>
@@ -651,6 +667,7 @@ ID:%s
     <string name="permission_group_phone">Тэлефон</string>
     <string name="permission_group_sms">SMS</string>
     <string name="permission_group_storage">Сховішча</string>
+    <string name="personal_info_desc">Фота, нік і многае іншае</string>
     <string name="phone_num_use_for">Функцыі нумара тэлефона:</string>
     <string name="photoPickerNotFoundText">Няма даступных фотаздымкаў.</string>
     <string name="pm">PM</string>
@@ -697,6 +714,7 @@ ID:%s
     <string name="search_user_detail_path">Налады/Mi Акаўнт/Асабістая інфармацыя</string>
     <string name="search_user_detail_top_key_words">Асабістыя дадзеныя,Змяніць фота профілю,Змяніць імя карыстальніка,Змяніць нік,Змяніць дату нараджэння,Змяніць пол</string>
     <string name="select_all">Выбраць усе</string>
+    <string name="self_account_info">Персанальная інфармацыя</string>
     <string name="send">Даслаць</string>
     <string name="send_diagnosis_log">Адправіць журнал дыягностыкі</string>
     <string name="send_email_activate_message">Email для праверкі быў высланы</string>
@@ -766,6 +784,7 @@ ID:%s
     <string name="the_united_nations_day">"Дзень Арганізацыі Аб'яднаных Нацый"</string>
     <string name="the_valentines_day">Дзень святого Валянціна</string>
     <string name="the_water_lantern_festival">Свята водных ліхтароў</string>
+    <string name="third_party_login">Акаўнты трэціх бакоў</string>
     <string name="thursday">Чацвер</string>
     <string name="thursday_short">Чац</string>
     <string name="thursday_shortest">Чац</string>

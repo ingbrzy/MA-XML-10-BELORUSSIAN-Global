@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <plurals name="toast_channel_searched">
-        <item quantity="other">Прасканаваны %1$d станцый</item>
-        <item quantity="one">Прасканавана %1$d станцыя</item>
-        <item quantity="few">Прасканаваны %1$d станцыі</item>
-        <item quantity="many">Прасканаваны %1$d станцый</item>
-    </plurals>
-</resources>

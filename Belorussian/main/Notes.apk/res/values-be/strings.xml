@@ -437,6 +437,7 @@
     <string name="mtrl_picker_a11y_next_month">Перайсці да наступнага месяца</string>
     <string name="mtrl_picker_a11y_prev_month">Перайсці да папярэдняга месяца</string>
     <string name="mtrl_picker_announce_current_selection">Бягучае вылучэнне: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Выберыце дату</string>
     <string name="mtrl_picker_date_header_unselected">Выбраная дата</string>
@@ -483,6 +484,7 @@
     <string name="note_gesture_guide_step3">Перацягніце нататку на значок папкі, каб перамясціць нататку ў папку</string>
     <string name="note_header_first_enter_guide">Пацягніце ўніз для загрузкі паведамленняў</string>
     <string name="note_invalid_mindnote_hint">Асацыятыўныя карты недаступныя ў гэтай версіі. Абнавіце праграму для выкарыстання гэтай функцыі.</string>
+    <string name="note_item_default_title">Пустая нататка</string>
     <string name="note_link_email">Напісаць пісьмо</string>
     <string name="note_link_other">Адкрыць з дапамогай карт</string>
     <string name="note_link_select">Выбраць тэкст</string>
@@ -496,6 +498,7 @@
     <string name="note_sort_way">Сартаваць</string>
     <string name="notealert_enter">Адкрыць нататку</string>
     <string name="notealert_ok">Зачыніць</string>
+    <string name="notelist_string_info">…</string>
     <string name="notes_description_content">Нататкі — гэта сістэмная праграма. Вы не зможаце выкарыстоўваць яе пасля выдалення.</string>
     <string name="notes_description_title">Выдаліць Нататкі?</string>
     <string name="notification_content_add_todo_from_other_app">Вы дадалі новую задачу. Націсніце для прагляду.</string>
@@ -554,6 +557,12 @@
     <string name="pref_desc_skip_confirm_for_quick_delete">Правядзіце ўверх двума пальцамі для выдалення нататак без пацверджання</string>
     <string name="pref_desc_todo_float_mode">Правядзіце ад верхняга краю экрана для адкрыцця панэлі інструментаў задач</string>
     <string name="pref_excerpt_link_float">Атрымліваць напамінкі аб стварэнні вытрымкі пры капіяванні URL-адраса</string>
+    <string name="pref_permission_allowed">Прадастаўлены</string>
+    <string name="pref_permission_manage">Інфармацыя пра дазволы</string>
+    <string name="pref_permission_manage_key_contact">Доступ да кантактаў</string>
+    <string name="pref_permission_manage_key_recording">Запіс аўдыя</string>
+    <string name="pref_permission_manage_key_storage">Доступ да памяці</string>
+    <string name="pref_permission_not_allowed">Не прадастаўлены</string>
     <string name="pref_quick_note_desc">Выкарыстоўвайце ярлыкі, якія знаходзяцца ў краю экрана, каб ствараць нататкі або задачы, а таксама захоўваць скапіраваныя URL-адрасы, тэкст і выявы ў Нататках.</string>
     <string name="pref_remind_type_summary">Прайграць гук напаміну ў бязгучнам рэжыме</string>
     <string name="pref_remind_type_summary_new">Ігнараваць рэжым «Без гуку» і прайграваць гук да адключэння будзільніка</string>
@@ -870,6 +879,9 @@
     <string name="widget_size_item_2x2">%1$d×%2$d</string>
     <string name="widget_size_item_4x2">%1$d×%2$d</string>
     <string name="widget_size_item_4x4">%1$d×%2$d</string>
+    <string name="widget_size_item_big">Вялікі</string>
+    <string name="widget_size_item_medium">Сярэдні</string>
+    <string name="widget_size_item_small">Малы</string>
     <string name="widget_take_notes_title">Нататкі</string>
     <string name="yesterday">Учора</string>
 </resources>

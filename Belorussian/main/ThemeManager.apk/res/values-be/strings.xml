@@ -186,7 +186,9 @@
     <string name="exo_download_notification_channel_name">Спампоўкі</string>
     <string name="exo_download_removing">Выдаленне спамповак</string>
     <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Мбіт/с</string>
     <string name="exo_track_mono">Мона</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">Аўтаматычна</string>
     <string name="exo_track_selection_none">Няма</string>
     <string name="exo_track_selection_title_audio">Аўдыя</string>
@@ -310,6 +312,7 @@
     <string name="incompatible_dialog_ok">Зразумела</string>
     <string name="incompatible_dialog_title">Праблемы сумяшчальнасці</string>
     <string name="is_setting_wallpaper_message">Усталёўка шпалер…</string>
+    <string name="item_resource_audio_divider">│</string>
     <string name="item_resource_audio_optional_alarm_ring">Будзільнікі</string>
     <string name="item_resource_audio_optional_color_ring">Мелодыя выкліку</string>
     <string name="item_resource_audio_optional_notification_ring">Апавяшчэнні</string>
@@ -469,6 +472,9 @@
     <string name="payment_coins_balance">(Баланс: %1s)</string>
     <string name="payment_coins_insufficient_balance">(Недастатковы баланс)</string>
     <string name="payment_method">Спосаб аплаты</string>
+    <string name="permission_desc">"Для захоўвання захаваных тым і іншых аб'ектаў"</string>
+    <string name="permission_summary">Абавязковыя дазволу (для базавых паслуг і функцый праграмы)</string>
+    <string name="permission_title">Доступ да фота і файлаў на прыладзе</string>
     <string name="personal_recommend_desc">Атрымліваць рэкамендацыі, заснаваныя на вашых перавагах.</string>
     <string name="personal_recommend_title">Асабістыя рэкамендацыі</string>
     <string name="peyment_pay_now_btn">Аплаціць</string>
@@ -527,6 +533,7 @@
     <string name="related_theme">Тэмы</string>
     <string name="related_wallpaper">Шпалеры</string>
     <string name="reload">Паўтарыць</string>
+    <string name="res_migrate_tip">"Каб зрабіць праграму «Тэмы» сумяшчальнай з будучымі версіямі Android, мы перамясцілі загружаныя аб'екты ў новае месца. Перазапусціце праграму, каб прымяніць змены і праглядзець загружаны кантэнт."</string>
     <string name="resource_account_abnormal_state">Адбылася памылка. Пачакайце крыху, і паспрабуйце ізноў.</string>
     <string name="resource_account_fail_to_add">Не атрымалася дадаць акаўнт</string>
     <string name="resource_account_login">Увайсці</string>
@@ -665,6 +672,7 @@
     <string name="resource_pack_price_info">Арыгінальны кошт: %1$s</string>
     <string name="resource_pack_warning">Вы ўжо купілі %1$d кампанентаў гэтай тэмы. Будзе танней дакупіць астатнія кампаненты асобна.</string>
     <string name="resource_present">Падарунак</string>
+    <string name="resource_price_format">(%1$s)</string>
     <string name="resource_price_free">Бясплатна</string>
     <string name="resource_price_unit"> Mi Credits</string>
     <string name="resource_purchase_common_error">Здарылася памылка, паспрабуйце зноў</string>
@@ -676,6 +684,7 @@
     <string name="resource_ranking">Папулярныя</string>
     <string name="resource_ranking_free">Бясплатныя</string>
     <string name="resource_ranking_purchase">Платныя</string>
+    <string name="resource_right_ack_check_error">Тэрмін дзеяння кода скончыўся</string>
     <string name="resource_ringtone_default">Мелодыі</string>
     <string name="resource_ringtone_playing_error">Памылка</string>
     <string name="resource_ringtone_volume_mute">Гук адключаны</string>
@@ -793,6 +802,7 @@
     <string name="sim_one">SIM 1</string>
     <string name="sim_two">SIM 2</string>
     <string name="similar_theme">Падобныя тэмы</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_file">"Для захавання загружаных аб'ектаў"</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Нядзеля</string>
@@ -903,6 +913,7 @@
     <string name="theme_is_external_priority_storage">Захаваць на SD-карту</string>
     <string name="theme_is_external_priority_storage_summary">Праграма Тэмы перазапусціцца для ўжывання змяненняў.</string>
     <string name="theme_multiple_button_title_customize">Персаналізуй</string>
+    <string name="theme_name">%1$s</string>
     <string name="theme_no">Не</string>
     <string name="theme_on_the_phone_alert">Немагчыма прайграць падчас выклікаў</string>
     <string name="theme_select_others">Агляд</string>

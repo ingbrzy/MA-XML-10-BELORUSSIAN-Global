@@ -31,7 +31,6 @@
     <string name="actionbar_button_up_description">Назад</string>
     <string name="afternoon">Поўдзень</string>
     <string name="am">AM</string>
-    <string name="app_name">Трансляцыя</string>
     <string name="app_pkg_name">com.milink.service</string>
     <string name="app_ver_code">1</string>
     <string name="app_ver_name">1.0</string>
@@ -66,9 +65,9 @@
     <string name="dialog_miplay_permission_message">Дазвольце трансляцыю для запісу аўдыё, доступу да файлаў ва ўнутраным сховішчы і вашага месцазнаходжання, каб выкарыстоўваць гэтую функцыю ў звычайным рэжыме. Націсніце «Налады» і выберыце «Дазволы праграм», каб працягнуць.</string>
     <string name="dialog_miplay_permission_positive">Налады</string>
     <string name="dialog_miplay_permission_title">Патрабуюцца дазволы</string>
-    <string name="dialog_nfc_cast_wifi_off">Turn on WLAN to be able to cast using NFC. Turn on now?</string>
-    <string name="dialog_no_device_message">&lt;Data>&lt;xliff:g id=count refersto=1>%1$d&lt;/xliff:g>. Падключыце сваю мабільную прыладу і тэлевізар да адной сеткі Wi-Fi.&lt;br>&lt;br>&lt;xliff:g id=count refersto=2>%2$d&lt;/xliff:g>. На некаторых мадэлях тэлевізараў гэтая функцыя можа быць даступная, толькі калі ўключаны рэжым «Люстраное адлюстраванне экрана». Звярніцеся да &lt;a href=milink://com.milink.service/specification>«Даведцы»&lt;/a> для атрымання дадатковай інфармацыі.&lt;/Data></string>
-    <string name="dialog_no_device_message_china">&lt;Data>&lt;xliff:g id=count refersto=1>%1$d&lt;/xliff:g>. Connect both your mobile device and TV to the same WLAN network.&lt;br>&lt;br>&lt;xliff:g id=count refersto=2>%2$d&lt;/xliff:g>. On some TV models, this feature is only available when screen mirroring is on. View &lt;a href=milink://com.milink.service/specification>\"Help\"&lt;/a> to learn more.&lt;/Data></string>
+    <string name="dialog_nfc_cast_wifi_off">Уключыце Wi-Fi, каб трансляваць праз NFC. Уключыць зараз?</string>
+    <string name="dialog_no_device_message">&lt;Data>1. Падключыце тэлефон і тэлевізар да адной сеткі Wi-Fi.&lt;br>&lt;br>2. На некаторых мадэлях тэлевізараў гэтая функцыя можа быць даступная, толькі калі ўключаны рэжым Дубляванне экрана. Звярніцеся да &lt;a href=milink://com.milink.service/specification>\"Даведцы\"&lt;/a> для атрымання дадатковай інфармацыі.&lt;/Data></string>
+    <string name="dialog_no_device_message_china">&lt;Data>1. Connect both your phone and TV to the same WLAN network.&lt;br>&lt;br>2. On some TV models, this feature is only available when screen mirroring is on. View &lt;a href=milink://com.milink.service/specification>\"Help\"&lt;/a> to learn more.&lt;/Data></string>
     <string name="dialog_ok">OК</string>
     <string name="dialog_only_suport_content">Транслюйце фота, відэа і музыку</string>
     <string name="dialog_open_wifi_bt">Уключыць</string>
@@ -76,17 +75,17 @@
 Звярніцеся да Даведцы, калі вы сутыкнуліся з праблемамі пры падключэнні."</string>
     <string name="dialog_recent_connected">Апошнія</string>
     <string name="dialog_retry">Паўтарыць спробу</string>
-    <string name="dialog_scan_message">"%1$d. Падключыце сваю мабільную прыладу і тэлевізар да адной сеткі Wi-Fi.
+    <string name="dialog_scan_message">"1. Падлучыце тэлефон і тэлевізар да адной сеткі Wi-Fi.
 
-%2$d. Звярніцеся да «Даведцы» для атрымання дадатковай інфармацыі."</string>
-    <string name="dialog_scan_message_china">"%1$d. Connect both your mobile device and TV to the same WLAN network.
+2. На некаторых мадэлях тэлевізараў гэтая функцыя можа быць даступная, толькі калі ўключана \"Дубляванне экрана\". Звярніцеся да \"Даведцы\" для атрымання дадатковай інфармацыі."</string>
+    <string name="dialog_scan_message_china">"1. Connect both your phone and TV to the same WLAN network.
 
-%2$d. View \"Help\" to learn more."</string>
+2. On some TV models, this feature is only available when screen mirroring is on. View \"Help\" to learn more."</string>
     <string name="dialog_scanning_device">Пошук прылад паблізу…</string>
     <string name="dialog_scanning_precondition">Уключыце Wi-Fi і Bluetooth на тэлефоне, каб выкарыстоўваць Бесправадной дысплей.</string>
     <string name="dialog_scanning_precondition_new_china">Turn on WLAN, Bluetooth, and location services to be able to use casting. Turn on now?</string>
     <string name="dialog_scanning_precondition_new_global">Уключыце Wi-Fi, Bluetooth і паслугі вызначэння месцазнаходжання, каб мець магчымасць выкарыстоўваць функцыю трансляцыі на знешні манітор. Уключыць зараз?</string>
-    <string name="dialog_select_tv">Выбраць прыладу (%1$d)</string>
+    <string name="dialog_select_tv">Выбраць прыладу (%d)</string>
     <string name="dialog_show_help">Даведка</string>
     <string name="disconnect">Спыніць трансляцыю</string>
     <string name="early_morning">Раніца</string>
@@ -96,58 +95,42 @@
     <string name="eras_bc">до н. э.</string>
     <string name="evening">Поўдзень</string>
     <string name="expand_button_title">Пашыраныя налады</string>
-    <string name="fmt_chinese_date">N月e</string>
-    <string name="fmt_date">D</string>
-    <string name="fmt_date_day">d</string>
+    <string name="fmt_date_day">dd</string>
     <string name="fmt_date_long_month">MMMM</string>
-    <string name="fmt_date_long_month_day">d MMMM</string>
+    <string name="fmt_date_long_month_day">dd MMMM</string>
     <string name="fmt_date_long_year_month">MMMM yyyy</string>
-    <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
-    <string name="fmt_date_numeric_day">d</string>
-    <string name="fmt_date_numeric_month">M</string>
-    <string name="fmt_date_numeric_month_day">d-M</string>
+    <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
+    <string name="fmt_date_numeric_day">dd</string>
+    <string name="fmt_date_numeric_month">MM</string>
+    <string name="fmt_date_numeric_month_day">dd.MM</string>
     <string name="fmt_date_numeric_year">yyyy</string>
-    <string name="fmt_date_numeric_year_month">M.yyyy</string>
-    <string name="fmt_date_numeric_year_month_day">d.M.yyyy</string>
-    <string name="fmt_date_short_month">MMM</string>
-    <string name="fmt_date_short_month_day">d MMM</string>
+    <string name="fmt_date_numeric_year_month">MM.yyyy</string>
+    <string name="fmt_date_numeric_year_month_day">dd.MM.yyyy</string>
+    <string name="fmt_date_short_month">MM</string>
+    <string name="fmt_date_short_month_day">dd.MM</string>
     <string name="fmt_date_short_year_month">MMM yyyy</string>
-    <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
-    <string name="fmt_date_time">D T</string>
-    <string name="fmt_date_time_timezone">D T z</string>
-    <string name="fmt_date_timezone">D z</string>
+    <string name="fmt_date_short_year_month_day">dd.MM.yyyy</string>
     <string name="fmt_date_year">yyyy</string>
-    <string name="fmt_time">T</string>
-    <string name="fmt_time_12hour">"h 'o''clock'"</string>
-    <string name="fmt_time_12hour_minute">h:mm</string>
-    <string name="fmt_time_12hour_minute_pm">h:mm a</string>
-    <string name="fmt_time_12hour_minute_second">h:mm:ms</string>
-    <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
-    <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
-    <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
-    <string name="fmt_time_12hour_pm">ha</string>
-    <string name="fmt_time_24hour">"H 'o''clock'"</string>
-    <string name="fmt_time_24hour_minute">H:mm</string>
-    <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
-    <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
-    <string name="fmt_time_millis">"S'мс'"</string>
-    <string name="fmt_time_minute">"m'хв'"</string>
-    <string name="fmt_time_minute_second">"m'хв' s'с'"</string>
-    <string name="fmt_time_minute_second_millis">"m'хв' s.S'с'"</string>
-    <string name="fmt_time_second">"s'с'"</string>
-    <string name="fmt_time_second_millis">"s.S'с'"</string>
-    <string name="fmt_time_timezone">T z</string>
-    <string name="fmt_timezone">z</string>
-    <string name="fmt_weekday">W</string>
-    <string name="fmt_weekday_date">W, D</string>
-    <string name="fmt_weekday_date_time">W, D T</string>
-    <string name="fmt_weekday_date_time_timezone">W, D T z</string>
-    <string name="fmt_weekday_date_timezone">W, D z</string>
+    <string name="fmt_time_12hour">hh</string>
+    <string name="fmt_time_12hour_minute">hh:mm</string>
+    <string name="fmt_time_12hour_minute_pm">hh:mm aa</string>
+    <string name="fmt_time_12hour_minute_second">hh:mm:ss</string>
+    <string name="fmt_time_12hour_minute_second_millis">hh:mm:ss.S</string>
+    <string name="fmt_time_12hour_minute_second_millis_pm">hh:mm:ss.S aa</string>
+    <string name="fmt_time_12hour_minute_second_pm">hh:mm:ss aa</string>
+    <string name="fmt_time_12hour_pm">hh aa</string>
+    <string name="fmt_time_24hour">H</string>
+    <string name="fmt_time_24hour_minute">HH:mm</string>
+    <string name="fmt_time_24hour_minute_second">HH:mm:s</string>
+    <string name="fmt_time_24hour_minute_second_millis">HH:mm:ss.S</string>
+    <string name="fmt_time_millis">S</string>
+    <string name="fmt_time_minute">m</string>
+    <string name="fmt_time_minute_second">m:s</string>
+    <string name="fmt_time_minute_second_millis">m:s.S</string>
+    <string name="fmt_time_second">s</string>
+    <string name="fmt_time_second_millis">s.S</string>
     <string name="fmt_weekday_long">EEEE</string>
     <string name="fmt_weekday_short">E</string>
-    <string name="fmt_weekday_time">W T</string>
-    <string name="fmt_weekday_time_timezone">W T z</string>
-    <string name="fmt_weekday_timezone">W z</string>
     <string name="friday">Пятніца</string>
     <string name="friday_short">Птн</string>
     <string name="friday_shortest">Птн</string>
@@ -168,34 +151,30 @@
     <string name="help_page_text_02">Што такое трансляцыя экрана?</string>
     <string name="help_page_text_03">"Трансляцыя экрана — гэта праецыяванне аб'ектаў з экрана тэлефона на вялікі знешні манітор. Яна дазваляе дзяліцца выявамі і відэа з сябрам і членамі сям'і без выкарыстання мабільных дадзеных."</string>
     <string name="help_page_text_04">"Як трансляваць аб'екты на вялікі экран?"</string>
-    <string name="help_page_text_05">Крок %1$d: праверце свае прылады і сеткавае асяроддзе</string>
-    <string name="help_page_text_06">"%1$d. Xiaomi TVs, set-top boxes, projectors:
-Connect both your mobile device and external monitor to the same WLAN network for best effect. If they are connected to different networks, it might take more time to find the external monitor and connect.
-Note: Older TV models might not support casting across different networks.
-%2$d. If you're using TVs, set-top boxes, or projectors of other brands, connect both your mobile device and external monitor to the same WLAN network.
-If the two devices can't be connected to the same network, turn on Miracast on your external monitor. The naming of Miracast functionality might vary."</string>
-    <string name="help_page_text_06_global">"%1$d. Тэлевізары Xiaomi, тэлевізійныя прыстаўкі і праектары:
-Падключыце сваю мабільную прыладу і знешні манітор да адной і той жа сеткі Wi-Fi для лепшага эфекту. Калі яны падлучаныя да розных сетках, пошук знешняга манітора і яго падключэнне можа заняць больш часу.
-Заўвага: старыя мадэлі тэлевізараў могуць не падтрымліваць трансляцыю паміж рознымі сеткамі.
-%2$d. Калі вы выкарыстоўваеце тэлевізар, тэлепрыстаўкі, або праектары іншых брэндаў, падключыце сваю мабільную прыладу і знешні манітор да адной і той жа сеткі Wi-Fi.
+    <string name="help_page_text_05">Крок 1: праверце прылады і сеткавае асяроддзе</string>
+    <string name="help_page_text_06">"1. Вам не трэба падлучацца да Інтэрнэту, калі вы хочаце трансляваць нешта з тэлефона Mi на тэлевізар Mi.
+2. Калі вы не можаце ўсталяваць злучэнне паміж двума прыладамі, паспрабуйце падключыць іх да адной і той жа сеткі Wi-Fi."</string>
+    <string name="help_page_text_06_global">"1. Прылады Mi TV, Mi Box і Mi Projector:
+Падключыце свой тэлефон і знешні манітор да адной і той жа сеткі Wi-Fi для лепшага эфекту. Калі яны падлучаныя да розных сетках, пошук знешняга манітора і яго падключэнне можа заняць больш часу.
+Заўвага: старыя прылады Mi TV могуць не падтрымліваць трансляцыю паміж рознымі сеткамі.
+2. Калі вы выкарыстоўваеце тэлевізар, тэлепрыстаўкі, або праектары іншых брэндаў, падключыце тэлефон і знешні манітор да адной і той жа сеткі Wi-Fi.
 Калі дзве прылады немагчыма падключыць да адной і той жа сеткі, уключыце Miracast на знешнім маніторы. Назва функцыі Miracast можа быць рознай."</string>
-    <string name="help_page_text_08">Крок %1$d: уключыце трансляцыю</string>
-    <string name="help_page_text_09">"Tap the \"Cast\" toggle on your phone's Notification shade. Turn on both WLAN and Bluetooth for a more stable connection."</string>
-    <string name="help_page_text_09_global">Націсніце на перамыкач «Трансляцыя» у панэлі апавяшчэнняў сваёй прылады. Уключыце адначасова Wi-Fi і Bluetooth для больш стабільнага злучэння.</string>
-    <string name="help_page_text_10">Калі вы хочаце трансляваць фота, відэа, гульні або прэзентацыі, вы можаце выкарыстоўваць убудаваныя функцыі трансляцыі ў адпаведных праграмах.</string>
-    <string name="help_page_text_11">Крок %1$d: выберыце прыладу</string>
+    <string name="help_page_text_08">Крок 2: уключыце трансляцыю</string>
+    <string name="help_page_text_09">Націсніце на перамыкач «Трансляцыя» у панэлі апавяшчэнняў тэлефона. Уключыце адначасова Wi-Fi і Bluetooth для больш стабільнага злучэння.</string>
+    <string name="help_page_text_10">"Калі вы хочаце трансляваць аб'екты з Галерэі або Mi Відэа, вы можаце выкарыстоўваць убудаваныя функцыі трансляцыі гэтых праграм."</string>
+    <string name="help_page_text_11">Крок 3: выберыце прыладу</string>
     <string name="help_page_text_12">Выберыце знешнюю прыладу з спісу даступных прылад, каб пачаць трансляцыю.</string>
     <string name="help_page_text_13">Не ўдаецца падключыцца да знешняй прылады?</string>
-    <string name="help_page_text_14">"%1$d. If you want to use a Xiaomi device, but can't find it in the list of available devices, try the following:
-Connect both your mobile device and the external monitor (e.g. your TV) to the same network, or connect the external monitor to your mobile device's hotspot. If there aren't any networks available or you can't connect both devices to the same network, check whether the casting features on your external monitor are up to date, turn on Bluetooth both on your mobile device and the external monitor, and turn on Miracast on your TV.
-%2$d. If you're casting on a Xiaomi device for the first time, you need to complete verification.
-%3$d. If you want to use a non-Xiaomi device, but can't find it in the list of available devices, try the following:
-Connect both your mobile device and the external monitor (e.g. your TV) to the same network, or connect the external monitor to your mobile device's hotspot. If this doesn't help, install the HappyCast app on your TV and follow the instructions."</string>
-    <string name="help_page_text_14_global">"%1$d. Калі вы хочаце выкарыстоўваць прыладу Xiaomi, але не можаце знайсці яе ў спісе даступных прылад, паспрабуйце наступнае: 
-Падключыце мабільную прыладу і знешні манітор (напрыклад, тэлевізар) да адной і той жа сеткі або падключыце знешні манітор да кропкі доступу мабільнай прылады. Калі сеткі адсутнічаюць ці вы не можаце падключыць абедзве прылады да адной і той жа сеткі, праверце, ці актуальныя функцыі трансляцыі на знешнім маніторы, уключыце Bluetooth на мабільнай прыладзе і знешнім маніторы, а затым уключыце Miracast на тэлевізары.
-%2$d. Калі вы ўпершыню выконваеце трансляцыю на прыладу Xiaomi, вам неабходна выканаць працэдуру праверкі.
-%3$d. Калі вы хочаце выкарыстоўваць іншую прыладу, акрамя прылады Xiaomi, але вы не можаце знайсці яе ў спісе даступных прылад, паспрабуйце наступнае:
-Падключыце мабільную прыладу і знешні манітор (напрыклад, тэлевізар) да адной і той жа сеткі або падключыце знешні манітор да кропкі доступу мабільнай прылады."</string>
+    <string name="help_page_text_14">"1. Калі вы хочаце выкарыстоўваць прыладу Xiaomi, але не можаце знайсці яе ў спісе даступных прылад, паспрабуйце наступнае: 
+Падключыце і тэлефон, і знешні манітор (напрыклад, тэлевізар) да адной і той жа сеткі Wi-Fi або падключыце знешні манітор да кропкі доступу тэлефона. Калі сеткі Wi-Fi адсутнічаюць ці вы не можаце падключыць абедзве прылады да адной і той жа сеткі, праверце, ці актуальныя функцыі трансляцыі на вашым знешнім маніторы, уключыце Bluetooth на тэлефоне і знешнім маніторы, а затым уключыце Miracast на сваім тэлевізары. 
+2. Калі вы ўпершыню выконваеце трансляцыю на прыладу Xiaomi, вам неабходна выканаць працэдуру праверкі. 
+3. Калі вы хочаце выкарыстоўваць іншую прылада, акрамя прылады Xiaomi, але вы не можаце знайсці яе ў спісе даступных прылад, паспрабуйце наступнае:
+Падключыце і тэлефон, і знешні манітор (напрыклад, тэлевізар) да адной і той жа сеткі Wi-Fi або падключыце знешні манітор да кропкі доступу тэлефона. Калі гэта не дапаможа, усталюйце праграму трансляцыі LeEco на тэлевізар і выконвайце інструкцыі."</string>
+    <string name="help_page_text_14_global">"1. Калі вы хочаце выкарыстоўваць прыладу Xiaomi, але не можаце знайсці яе ў спісе даступных прылад, паспрабуйце наступнае: 
+Падключыце і тэлефон, і знешні манітор (напрыклад, тэлевізар) да адной і той жа сеткі Wi-Fi або падключыце знешні манітор да кропкі доступу тэлефона. Калі сеткі Wi-Fi адсутнічаюць ці вы не можаце падключыць абедзве прылады да адной і той жа сеткі, праверце, ці актуальныя функцыі трансляцыі на вашым знешнім маніторы, уключыце Bluetooth на тэлефоне і знешнім маніторы, а затым уключыце Miracast на сваім тэлевізары.
+2. Калі вы ўпершыню выконваеце трансляцыю на прыладу Xiaomi, вам неабходна выканаць працэдуру праверкі.
+3. Калі вы хочаце выкарыстоўваць іншую прыладу, акрамя прылады Xiaomi, але вы не можаце знайсці яе ў спісе даступных прылад, паспрабуйце наступнае:
+Падключыце і тэлефон, і знешні манітор (напрыклад, тэлевізар) да адной і той жа сеткі Wi-Fi або падключыце знешні манітор да кропкі доступу тэлефона."</string>
     <string name="help_page_text_15">Функцыя Miracast на розных прыладах</string>
     <string name="help_page_text_16">Тэлевізар Mi/праектар Mi</string>
     <string name="help_page_text_17">"Вы можаце праецыраваць элементы з тэлефона Mi на большасць мадэляў тэлевізараў Mi з дапамогай Bluetooth і без уключэння Miracast ўручную.
@@ -220,7 +199,7 @@ Connect both your mobile device and the external monitor (e.g. your TV) to the s
     <string name="help_page_text_34">Па-першае, пераканайцеся, што функцыя Miracast падтрымліваецца на вашай прыладзе. На некаторых мадэлях вы можаце выбраць «Праграмы > Трансляцыя > Прылада Android > Miracast».</string>
     <string name="help_page_text_35">Служба падтрымкі кліентаў Skyworth: 95105555</string>
     <string name="help_page_text_36">Sony</string>
-    <string name="help_page_text_37">First, make sure that Miracast functionality is supported on your device. On some of the models, you can press the [SOURCE] button on the remote control and then select \"Screen Mirroring\". On some other models, you can turn this feature on in Networks > WLAN Direct. This feature is turned on by default on various models.</string>
+    <string name="help_page_text_37">Па-першае, пераканайцеся, што функцыя Miracast падтрымліваецца на вашай прыладзе. На некаторых мадэлях вы можаце націснуць кнопку [SOURCE] на пульце дыстанцыйнага кіравання, а затым выбраць «Люстраное адлюстраванне экрана. На некаторых мадэлях гэтую функцыю можна ўключыць у раздзеле «Сетка > Налады Wi-Fi Direct. Гэта функцыя ўключана па змаўчанні на розных мадэлях.</string>
     <string name="help_page_text_38">Служба падтрымкі кліентаў Sony: 400-810-9000</string>
     <string name="help_page_text_39">Panasonic</string>
     <string name="help_page_text_40">Па-першае, пераканайцеся, што функцыя Miracast падтрымліваецца на вашай прыладзе. На некаторых мадэлях вы можаце выбраць «Праграмы > Люстраное адлюстраванне экрана».</string>
@@ -238,9 +217,9 @@ Connect both your mobile device and the external monitor (e.g. your TV) to the s
     <string name="help_page_text_52">Па-першае, пераканайцеся, што функцыя Miracast падтрымліваецца на вашай прыладзе. На некаторых мадэлях вы можаце ўключыць гэтую функцыю ў раздзеле «Налады > Сеткі > Некалькі экранаў > Бесправадной дысплей».</string>
     <string name="help_page_text_53">Служба падтрымкі кліентаў LeEco: 10109000</string>
     <string name="help_page_text_55">"Калі вы не можаце падлучыцца да сеткі, пераканайцеся, што знешні манітор падтрымлівае функцыю Miracast і ўключаны. На некаторых мадэлях гэтая функцыя называецца «Бесправадной дысплей», «Люстраное адлюстраванне экрана» або «Некалькі экранаў». Азнаёмцеся з інфармацыяй ніжэй, каб даведацца, як уключыць Miracast.
-%1$d. Калі вы сутыкнецеся з праблемамі, вы можаце паведаміць пра іх у нашай праграме «Сэрвісы і зваротная сувязь»."</string>
+4. Калі вы сутыкнецеся з праблемамі, вы можаце паведаміць пра іх у нашай праграме «Сэрвісы і зваротная сувязь»."</string>
     <string name="help_page_text_55_global">"Калі вы не можаце падлучыцца да сеткі, пераканайцеся, што знешні манітор падтрымлівае функцыю Miracast і ўключаны. На некаторых мадэлях гэтая функцыя называецца «Бесправадной дысплей», «Люстраное адлюстраванне экрана» або «Некалькі экранаў».
-%1$d. Калі вы сутыкнецеся з праблемамі, вы можаце паведаміць пра іх у нашай праграме «Сэрвісы і зваротная сувязь»."</string>
+4. Калі вы сутыкнецеся з праблемамі, вы можаце паведаміць пра іх у нашай праграме «Сэрвісы і зваротная сувязь»."</string>
     <string name="help_page_text_end">Калі маркі вашай прылады няма ў спісе, звярніцеся да вытворцы, каб даведацца больш пра функцыю трансляцыі.</string>
     <string name="keyguard_security_setting_privacy_policy">Палітыка прыватнасці</string>
     <string name="midnight">Ноч</string>
@@ -360,7 +339,6 @@ Connect both your mobile device and the external monitor (e.g. your TV) to the s
 　　•Доступ да вашага месцазнаходжання, каб знайсці прылады паблізу"</string>
     <string name="privacy_title">Увага</string>
     <string name="private_protect">"Схаваць прыватныя аб'екты"</string>
-    <string name="required_permissions">android.permission.ACCESS_FINE_LOCATION;android.permission.ACCESS_COARSE_LOCATION;android.permission.ACCESS_BACKGROUND_LOCATION;android.permission.READ_PHONE_STATE;android.permission.READ_EXTERNAL_STORAGE;android.permission.RECORD_AUDIO;</string>
     <string name="san_wait_msg_1">Уключыце бесправадную трансляцыю на мэтавай прыладзе</string>
     <string name="san_wait_msg_2">Пошук прылад можа заняць некаторы час…</string>
     <string name="san_wait_msg_3">Знешнія прылады лягчэй знайсці, калі яны падлучаныя да той жа сеткі, што і тэлефон</string>
@@ -445,10 +423,8 @@ Connect both your mobile device and the external monitor (e.g. your TV) to the s
     <string name="time_picker_dialog_title">Выставіць час</string>
     <string name="time_picker_label_hour">Г</string>
     <string name="time_picker_label_minute">Х</string>
-    <string name="title_activity_permission">PermissionActivity</string>
     <string name="toast_guide_show_more">Падрабязней</string>
     <string name="toast_guide_title">Пазнаёмцеся з нашымі новымі функцыямі тут</string>
-    <string name="toast_invisible_mode">"You're incognito. Can't use casting now."</string>
     <string name="toast_msg_for_multi_window">Гэту функцыю нельга выкарыстоўваць з падзяленнем экрана</string>
     <string name="toast_msg_for_small_window">Вы можаце згарнуць акно, якое транслюецца, каб выкарыстоўваць іншыя функцыі тэлефона без перапынення трансляцыі.</string>
     <string name="toast_nfc_dont_move">Ня перамяшчайце тэлефон далека</string>

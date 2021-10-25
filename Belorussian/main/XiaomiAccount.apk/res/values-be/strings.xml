@@ -28,6 +28,7 @@
     <string name="abc_shareactionprovider_share_with_application">Абагуліць праз праграму \"%s\"</string>
     <string name="abc_toolbar_collapse_description">Згарнуць</string>
     <string name="about_device_info">Прыглядзець падрабязнасці аб прыладзе</string>
+    <string name="accept">Дазволіць</string>
     <string name="access_token_expired_warning">Тэрмін дзеяння акаўнта Weibo мінуў</string>
     <string name="access_token_invalid_warning">Некарэктны акаўнт Weibo</string>
     <string name="account">Акаўнт</string>
@@ -107,6 +108,7 @@ ID вашага акаўнта:%s"</string>
     <string name="binded_description" formatted="false">"%s падлучаны да вашага Mi акаўнта.
 Цяпер вы можаце ўваходзіць у Mi акаўнт з дапамогай %s."</string>
     <string name="button_unbind">Адключыць</string>
+    <string name="cancel">Адмена</string>
     <string name="change_activate_email">Змяніце адрас email</string>
     <string name="change_email_address">Змяніць адрас электроннай пошты</string>
     <string name="change_password">Змяніць пароль</string>
@@ -157,6 +159,7 @@ ID вашага акаўнта:%s"</string>
     <string name="delete_device_btn">Выдаліць</string>
     <string name="delete_device_failed">Немагчыма выдаліць прыладу</string>
     <string name="delete_device_notice">Пасля выдалення прылады будзе ажыццяўлёны выхад з Mi Акаўнта аўтаматычна. Вы не зможаце выкарыстоўваць гэтую прыладу для доступу да фота, паведамленняў ці іншага змесціва, якое захоўваецца ў вашам акаўнце.</string>
+    <string name="deny">Забараніць</string>
     <string name="device_delete_success_message">Калі вы не заходзілі ў акаўнт на гэтай прыладзе, неадкладна змяніце пароль.</string>
     <string name="device_delete_success_title">Выхад з акаўнта адбыўся</string>
     <string name="device_list__header">Мае прылады</string>
@@ -170,6 +173,7 @@ ID:%s
     <string name="early_morning">Раніца</string>
     <string name="empty" />
     <string name="empty_device_list_notice">Няма прылад</string>
+    <string name="enable">Налады</string>
     <string name="ep_unsupported">Не атрымалася выканаць уваход у Mi акаўнт на вашай прыладзе</string>
     <string name="eras_ad">н. э.</string>
     <string name="eras_bc">до н. э.</string>
@@ -278,6 +282,7 @@ ID:%s
     <string name="get_phone_verifycode_exceed_limit">На гэты нумар адпраўлена зашмат кодаў пацвярджэння. Пачакайце 24 гадзіны і паўтарыце спробу.</string>
     <string name="google">Google</string>
     <string name="google_login">Увайсці праз Google</string>
+    <string name="goto_accept">OK</string>
     <string name="guest_account_label">Mi гасцявы акаўнт</string>
     <string name="health_action_activate">Актываваць</string>
     <string name="health_action_install">Усталяваць</string>
@@ -302,9 +307,11 @@ ID:%s
     <string name="kr_permission_sms_desc">Аўтазапаўненне кодаў пацверджання</string>
     <string name="kr_permission_storage_desc">Захаванне дадзеных дыягностыкі</string>
     <string name="loading_micloud_sync_data">Хвілінку…</string>
+    <string name="login_3rd_app_with_system_account">Увайсці ў %s</string>
     <string name="login_check_find_device">Атрымаць інфармацыю аб бяспецы прылады…</string>
     <string name="login_check_find_device_failed_title">Не атрымалася праверыць інфармацыю аб бяспецы прылады</string>
     <string name="login_find_device_bind">Гэтая прылада прывязаная да існуючага ідэнтыфікатара Mi Акаўнта (%s).</string>
+    <string name="login_with_other">Дадатковыя параметры</string>
     <string name="logout_account">Выйсці з акаўнта</string>
     <string name="logout_failed">Не атрымалася выйсці з акаўнта</string>
     <string name="mi_account_identity_title">Пацвердзіце вашу асобу</string>
@@ -436,7 +443,6 @@ ID:%s
     <string name="passport_activing_account">Актывацыя…</string>
     <string name="passport_adding_account">Дадаванне акаўнта…</string>
     <string name="passport_area_code_hot">ЧАСТА КАРЫСТАЕМЫЯ</string>
-    <string name="passport_area_code_others">Выкарыстаць іншы прэфікс</string>
     <string name="passport_area_code_title">Код краіны</string>
     <string name="passport_auto_generate_pwd">Стварыць надзейны пароль</string>
     <string name="passport_back">Назад</string>
@@ -663,10 +669,14 @@ ID:%s
     <string name="passport_yes">Так</string>
     <string name="password_view_hide_password">Схаваць пароль</string>
     <string name="password_view_show_password">Паказаць пароль</string>
+    <string name="permission_desc_read_sms">Для аўтаматычнага запаўнення праверачных кодаў</string>
+    <string name="permission_desc_write_external_storage">Для загрузкі журналаў зваротнай сувязі</string>
     <string name="permission_group_contacts">Кантакты</string>
     <string name="permission_group_phone">Тэлефон</string>
     <string name="permission_group_sms">SMS</string>
     <string name="permission_group_storage">Сховішча</string>
+    <string name="permission_read_sms">Доступ да паведамленняў</string>
+    <string name="permission_write_external_storage">"Доступ да сховішча і захаванне аб'ектаў"</string>
     <string name="personal_info_desc">Фота, нік і многае іншае</string>
     <string name="phone_num_use_for">Функцыі нумара тэлефона:</string>
     <string name="photoPickerNotFoundText">Няма даступных фотаздымкаў.</string>
@@ -685,6 +695,12 @@ ID:%s
     <string name="recycle_phone_notification_title">Пагроза бяспекі</string>
     <string name="removing_account">Выдаленне акаўнта…</string>
     <string name="replace_binded_phone">Замяніць тэлефон</string>
+    <string name="request_open_permission">Патрабуюцца дазволы</string>
+    <string name="request_use_camera_message">Дазволіць Mi Акаўнту доступ да камеры вашага тэлефона?</string>
+    <string name="request_use_camera_title">Доступ да камеры</string>
+    <string name="request_use_gallery_message">Дазволіць Mi Акаўнту доступ да Галерэі?</string>
+    <string name="request_use_gallery_title">Доступ да Галерэі</string>
+    <string name="request_use_writing_clipboard_message">"Каб скапіяваць ідэнтыфікатар Mi Акаўнта, дазвольце Mi Акаўнту захоўваць аб'екты ў буфер абмену."</string>
     <string name="resend_active_email">Адправіць зноў</string>
     <string name="resend_email_reach_limit_message">Вы запыталі занадта шмат лістоў для пацвярджэння. Пераканайцеся, што ліст не трапіў у папку для спаму вашай паштовай скрыні.</string>
     <string name="resend_email_reach_limit_title">Не атрымалася адправіць email</string>
@@ -817,6 +833,10 @@ ID:%s
     <string name="used_cloud_storage_info">Выкарыстана %s</string>
     <string name="user_avatar_update_title">Змяніць фота профілю</string>
     <string name="user_avatar_uploading">Хвілінку…</string>
+    <string name="user_instruction_all_purpose">Сардэчна запрашаем у Mi Акаўнт! Вы можаце выкарыстоўваць свой акаўнт, каб атрымаць доступ да паслуг, якія прадстаўляюцца Xiaomi і яе даччынымі кампаніямі, такім як Mi.Com, Xiaomi Cloud і GetApps. Вы можаце атрымліваць Mi манеты, купляць віртуальныя тавары і карыстацца дадатковымі сэрвісамі, уключаючы гульні, тэмы і электронныя кнігі.</string>
+    <string name="user_instruction_tip">Для ўваходу прачытайце палажэнні і ўмовы і пагадзіцеся з імі.</string>
+    <string name="user_license_with_3rd_app">&lt;Data>D[Уваходзячы ў мой Mi Акаўнт, я пацвярджаю, што прачытаў(-ла) &lt;a href=%1$s>Карыстальніцкае пагадненне&lt;/a> і &lt;a href=%2$s>Палітыку прыватнасці&lt;/a> і &lt;a href=%3$s>Карыстальніцкае пагадненне&lt;/a> і &lt;a href=%4$s>Палітыку прыватнасці&lt;/a> і пагадзіўся(-лась) з імі.&lt;/Data></string>
+    <string name="user_license_without_3rd_app">&lt;Data>Я прачытаў(-ла) &lt;a href=%1$s>Карыстальніцкае пагадненне&lt;/a> і &lt;a href=%2$s>Палітыку прыватнасці&lt;/a> Mi Акаўнта і згодны(-ая) з імі.&lt;/Data></string>
     <string name="v7_preference_off">ВЫКЛ.</string>
     <string name="v7_preference_on">УКЛ.</string>
     <string name="vip_account_settings">Налады VIP</string>

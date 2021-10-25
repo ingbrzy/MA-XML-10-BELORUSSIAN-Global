@@ -37,7 +37,7 @@
     <string name="autoconnect">Падлучацца аўтаматычна</string>
     <string name="clearable_edittext_clear_description">Ачысціць</string>
     <string name="close">Закрыць</string>
-    <string name="copyright">Copyright</string>
+    <string name="copyright">Аўтарскія правы</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -104,7 +104,7 @@
     <string name="friday_short">Птн</string>
     <string name="friday_shortest">Птн</string>
     <string name="ime_privacy_policy">Выберыце клавіятуру</string>
-    <string name="instruction">Important safety information</string>
+    <string name="instruction">Важная інфармацыя аб бяспецы</string>
     <string name="license_host_unreachable">"Не атрымалася злучыцца з сеткай. Для прагляду гэтай інфармацыі
 перайдзіце на %s з любой прылады, злучанай з сеткай."</string>
     <string name="loading">Хвілінку…</string>
@@ -185,9 +185,9 @@
     <string name="poco_privacy_policy">"Палітыка прыватнасці і Карыстальніцкае пагадненне POCO Launcher "</string>
     <string name="policy_name">Пратакол: %s</string>
     <string name="pre_installed_apps">Перадусталяваныя праграмы</string>
-    <string name="privacy_policy">Privacy Policy</string>
+    <string name="privacy_policy">Палітыка канфідэнцыяльнасці</string>
     <string name="privacy_station_title">Канфідэнцыяльнасць у Xiaomi</string>
-    <string name="sar">RF Exposure Information</string>
+    <string name="sar">Звесткі аб узроўне радыёчастотнага выпраменьвання</string>
     <string name="saturday">Субота</string>
     <string name="saturday_short">Суб</string>
     <string name="saturday_shortest">Суб</string>
@@ -264,9 +264,9 @@
     <string name="tuesday">Аўторак</string>
     <string name="tuesday_short">Аўт</string>
     <string name="tuesday_shortest">Аўт</string>
-    <string name="user_agreement">Terms of Service</string>
-    <string name="user_experience_program">User Experience Program</string>
-    <string name="user_manual">User guide</string>
+    <string name="user_agreement">Умовы выкарыстання</string>
+    <string name="user_experience_program">Праграма паляпшэння якасці</string>
+    <string name="user_manual">Даведнік карыстальніка</string>
     <string name="wednesday">Серада</string>
     <string name="wednesday_short">Сер</string>
     <string name="wednesday_shortest">Сер</string>

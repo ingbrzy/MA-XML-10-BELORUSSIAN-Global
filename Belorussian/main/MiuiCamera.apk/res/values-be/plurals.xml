@@ -84,18 +84,6 @@
         <item quantity="few">Вы можаце стварыць не больш %d клонаў за раз.</item>
         <item quantity="many">Вы можаце стварыць не больш %d клонаў за раз.</item>
     </plurals>
-    <plurals name="exit_camera_hint">
-        <item quantity="other">&lt;Data>Збой падлучэння да камеры.&lt;br>Гэтая праграма будзе зачынена праз &lt;font color=#FFCE16>&lt;b>%1$d секунды&lt;/b>&lt;/font>. Пасля гэтага пачакайце крыху і паспрабуйце ізноў.&lt;/Data></item>
-        <item quantity="one">&lt;Data>Збой падлучэння да камеры.&lt;br>Гэтая праграма будзе зачынена праз &lt;font color=#FFCE16>&lt;b>%1$d секунду&lt;/b>&lt;/font>. Пасля гэтага пачакайце крыху і паспрабуйце ізноў.&lt;/Data></item>
-        <item quantity="few">&lt;Data>Збой падлучэння да камеры.&lt;br>Гэтая праграма будзе зачынена праз &lt;font color=#FFCE16>&lt;b>%1$d секунды&lt;/b>&lt;/font>. Пасля гэтага пачакайце крыху і паспрабуйце ізноў.&lt;/Data></item>
-        <item quantity="many">&lt;Data>Збой падлучэння да камеры.&lt;br>Гэтая праграма будзе зачынена праз &lt;font color=#FFCE16>&lt;b>%1$d секунд&lt;/b>&lt;/font>. Пасля гэтага пачакайце крыху і паспрабуйце ізноў.&lt;/Data></item>
-    </plurals>
-    <plurals name="exit_thermal_hint">
-        <item quantity="other">&lt;Data>Перагрэў прылады.&lt;br>Гэтая праграма будзе зачынена праз &lt;font color=#FFCE16>&lt;b>%1$d секунды&lt;/b>&lt;/font>. Бягучы прагрэс быў захаваны аўтаматычна.&lt;/Data></item>
-        <item quantity="one">&lt;Data>Перагрэў прылады.&lt;br>Гэтая праграма будзе зачынена праз &lt;font color=#FFCE16>&lt;b>%1$d секунду&lt;/b>&lt;/font>. Бягучы прагрэс быў захаваны аўтаматычна.&lt;/Data></item>
-        <item quantity="few">&lt;Data>Перагрэў прылады.&lt;br>Гэтая праграма будзе зачынена праз &lt;font color=#FFCE16>&lt;b>%1$d секунды&lt;/b>&lt;/font>. Бягучы прагрэс быў захаваны аўтаматычна.&lt;/Data></item>
-        <item quantity="many">&lt;Data>Перагрэў прылады.&lt;br>Гэтая праграма будзе зачынена праз &lt;font color=#FFCE16>&lt;b>%1$d секунд&lt;/b>&lt;/font>. Бягучы прагрэс быў захаваны аўтаматычна.&lt;/Data></item>
-    </plurals>
     <plurals name="fastmotion_pro_min_unit">
         <item quantity="other">%1$d хв.</item>
         <item quantity="one">%1$d хв.</item>

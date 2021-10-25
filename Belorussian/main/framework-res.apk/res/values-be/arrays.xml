@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="emailAddressTypes">
-        <item>Асабістая</item>
-        <item>Працоўная</item>
-        <item>Іншая</item>
-        <item>Карыстальніцкая</item>
+        <item>Хатні</item>
+        <item>Працоўны</item>
+        <item>Іншы</item>
+        <item>Карыстальніцкі</item>
     </string-array>
     <string-array name="imProtocols">
         <item>AIM</item>

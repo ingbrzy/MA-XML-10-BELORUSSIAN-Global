@@ -58,6 +58,7 @@
     <string name="dual_app_title">Кланаванне праграм</string>
     <string name="dual_app_words">Кожнаму акаўнту патрэбна ўласная праграма</string>
     <string name="early_morning">Раніца</string>
+    <string name="empty">" "</string>
     <string name="eras_ad">н. э.</string>
     <string name="eras_bc">до н. э.</string>
     <string name="evening">Поўдзень</string>
@@ -236,7 +237,6 @@
     <string name="gb_pannel_control_mode_power_saving">Эканоміць энергію</string>
     <string name="gb_weixinpay_can_not_complete">Не атрымалася завяршыць аплату. Усталюйце для працягу.</string>
     <string name="gdpr_msg">&lt;Data>Для таго каб выкарыстоўваць асноўныя функцыі Бяспекі, вы павінны пагадзіцца, што Xiaomi будзе збіраць, апрацоўваць і выкарыстоўваць вашы асабістыя дадзеныя, уключаючы інфармацыю пра спосабы выкарыстання функцый Бяспекі (напрыклад, статыстыка мабільнага трафіку, інфармацыя аб шкоднасных праграмах, а таксама асноўная інфармацыя пра прыладу) і іншыя тыпы інфармацыі, якія вызначае наша &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Палітыка прыватнасці&lt;/a>.&lt;/Data></string>
-    <string name="hybrid_provider">Прадастаўлена %1$s</string>
     <string name="install_success">%s Install Success</string>
     <string name="lucky_result_title">Чырвоныя канверты</string>
     <string name="main_toolbar_purchase">Папоўніць</string>
@@ -313,7 +313,6 @@
     <string name="net_booster_overdue_notification_tip">Сеанс паскарэння сеткі хутка скончыцца. Падоўжыць сеанс?</string>
     <string name="network_not_available">Немагчыма злучыцца з сеткай</string>
     <string name="night">Вечар</string>
-    <string name="no_network">Немагчыма злучыцца з сеткай</string>
     <string name="no_network_btn">Паспрабаваць зноў</string>
     <string name="noon">Сярэдзіна дня</string>
     <string name="not_set">Не зададзена</string>
@@ -339,6 +338,7 @@
     <string name="size_peta_byte">ПБ</string>
     <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">ТБ</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Нядзеля</string>
     <string name="sunday_short">Ндз</string>
@@ -427,9 +427,6 @@
     <string name="usage_sorted_loading_text">Хвілінку…</string>
     <string name="v7_preference_off">ВЫКЛ.</string>
     <string name="v7_preference_on">УКЛ.</string>
-    <string name="web_sso_login_fail">Неабходна ўвайсці яшчэ раз</string>
-    <string name="web_sso_login_message">Уваход…</string>
-    <string name="webview_reload">Паспрабаваць зноў</string>
     <string name="wednesday">Серада</string>
     <string name="wednesday_short">Сер</string>
     <string name="wednesday_shortest">Сер</string>

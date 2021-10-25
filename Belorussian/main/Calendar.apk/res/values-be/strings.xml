@@ -175,6 +175,7 @@
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Традыцыйны кітайскі каляндар</string>
+    <string name="date_time_fmt" formatted="false">%s, %s</string>
     <string name="date_time_picker_dialog_title">Усталяваць дату і час</string>
     <string name="date_today">" (сёння)"</string>
     <string name="day">Дзень</string>

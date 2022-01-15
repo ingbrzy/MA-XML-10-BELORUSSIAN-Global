@@ -389,7 +389,6 @@ ID:%s
     <string name="sns_access_token_expired_warning">Сеанс састарэл. Увайдзіце зноў, каб паўторна падлучыць гэты аккаўнт.</string>
     <string name="sns_bind_limit">Занадта шмат спробаў. Паспрабуйце іншыя спосабы ўваходу.</string>
     <string name="sns_sign_in">Іншыя спосабы ўваходу</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Нядзеля</string>
     <string name="sunday_short">Ндз</string>

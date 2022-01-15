@@ -256,7 +256,6 @@
     <string name="back">Назад</string>
     <string name="bank_card_detail">Дадзеныя крэдытнай карткі</string>
     <string name="bcc">Утоеная копія</string>
-    <string name="bcc_heading">"Утоеная копія: "</string>
     <string name="bill_center_setting">Налады рахункаў</string>
     <string name="bill_center_setting_head">Імпарт інфармацыі з гэтых акаўнтаў</string>
     <string name="bill_cycle_text">Плацёжны цыкл</string>
@@ -278,7 +277,6 @@
     <string name="cancel_pop3_attchemt_downloading">Не ўдаецца адмяніць бягучыя загрузкі для прымацаванняў у акаўнтах POP3</string>
     <string name="cant_move_or_change_labels">"Немагчыма перамясціць аб'екты з некалькіх акаўнтаў."</string>
     <string name="cc">Копія</string>
-    <string name="cc_attribution">Копія: %1$s&lt;br></string>
     <string name="cc_bcc">Копія/Утоеная копія</string>
     <string name="cc_heading">"Копія: "</string>
     <string name="certificate_add_failed">Не атрымалася дадаць сертыфікат \"%s\"</string>
@@ -308,7 +306,6 @@
     <string name="click_to_reload">Даткніцеся экрана, каб абнавіць</string>
     <string name="close">Закрыць</string>
     <string name="collapse_recipient_details">Схаваць звесткі аб атрымальніку</string>
-    <string name="colon">:</string>
     <string name="compose">Стварыць</string>
     <string name="compose_event">Запрашэнне</string>
     <string name="compose_paste_address_oob">Занадта шмат сімвалаў</string>
@@ -628,7 +625,6 @@
     <string name="go_to_mail_content">Паказаць ліст</string>
     <string name="have_auth_code">Я маю код</string>
     <string name="header_category_account">Акаўнты</string>
-    <string name="header_category_general">@string/header_label_general_preferences</string>
     <string name="header_label_general_preferences">Агульныя</string>
     <string name="help_and_info">Дапамога</string>
     <string name="help_me_get_qq_auth">Атрымаць код</string>
@@ -651,7 +647,6 @@
     <string name="invalid_recipient">Адрас %s несапраўдны.</string>
     <string name="invalid_recipient_title">Памылка атрымальніка</string>
     <string name="kilobytes">%s КБ</string>
-    <string name="label_notification_ticker">%1$s: %2$s</string>
     <string name="list_empty_to_fresh">Пакуль няма паведамленняў электроннай пошты.</string>
     <string name="load_from_remote">Пошук паштовай скрыні на серверы</string>
     <string name="load_more">Загрузіць больш</string>
@@ -1176,7 +1171,6 @@
 %s"</string>
     <string name="single_new_message_notification_big_text">"%1$s
 %2$s"</string>
-    <string name="single_new_message_notification_title">%1$s: %2$s</string>
     <string name="size_byte">Б</string>
     <string name="size_giga_byte">ГБ</string>
     <string name="size_kilo_byte">КБ</string>
@@ -1186,7 +1180,6 @@
     <string name="size_tera_byte">ТБ</string>
     <string name="smtp_password_error">Няправільны пароль для сервера выходнай пошты</string>
     <string name="sort_attachment">Сартаваць па</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="str_select_all">Выбраць усё</string>
     <string name="str_select_none">Зняць выбар з усіх</string>
     <string name="subject_and_snippet">%1$s - %2$s</string>

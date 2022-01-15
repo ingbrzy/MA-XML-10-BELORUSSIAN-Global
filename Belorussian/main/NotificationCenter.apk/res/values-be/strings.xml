@@ -256,7 +256,6 @@
     <string name="settings_guide_title">Патрэбныя іншыя налады?</string>
     <string name="show_badge_notifications">Значкі апавяшчэнняў</string>
     <string name="show_badge_notifications_short">Значкі</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_setting">Радок стану</string>
     <string name="summary_aggregate_default">Рэкламныя і звязаныя з матэрыяламі push-апавяшчэнні буду згрупаваныя</string>
     <string name="summary_aggregate_home">Push-апавяшчэнні не будуць згрупаваны</string>

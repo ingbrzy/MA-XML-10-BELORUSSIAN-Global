@@ -731,7 +731,6 @@
     <string name="sort_by_not_defined">Па парадку</string>
     <string name="start_activity_failed">Не атрымалася запусціць рабочы стол</string>
     <string name="starting_preset_app">Запуск…</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_recent_memory_giga">%1$s ГБ</string>
     <string name="status_bar_recent_memory_info1">%1$s з %2$s даступна</string>
     <string name="status_bar_recent_memory_info2" />

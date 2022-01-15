@@ -206,6 +206,13 @@
     <string name="copy">Капіраваць</string>
     <string name="current_preview">Прагляд</string>
     <string name="current_wallpaper">Абраныя</string>
+    <string name="custom_define_permission_desc_android.permission.CALL_PHONE">Для выклікаў экстраных кантактаў у Палегчаным рэжыме</string>
+    <string name="custom_define_permission_desc_android.permission.READ_CONTACTS">Для адлюстравання экстраных кантактаў у Палегчаным рэжыме</string>
+    <string name="custom_define_permission_desc_android.permission.READ_PHONE_STATE">Для адлюстравання стану прылады</string>
+    <string name="custom_define_permission_desc_android.permission_group.CALENDAR">Для адлюстравання віджэтаў Каляндара</string>
+    <string name="custom_define_permission_desc_android.permission_group.CAMERA">Для адлюстравання віджэтаў Галерэі</string>
+    <string name="custom_define_permission_desc_android.permission_group.LOCATION">Для доступу да назвы віджэта WLAN у Android Q</string>
+    <string name="custom_define_permission_desc_android.permission_group.STORAGE">Для доступу да дадзеных Галоўнага экрана і іх захавання</string>
     <string name="custom_wallpaper_picker">Прагледзець</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
@@ -428,13 +435,13 @@
     <string name="lock_screen_success_message">Зменена для экрана блакіроўкі</string>
     <string name="lock_screen_wallpaper">Шпалеры экрана блакіроўкі</string>
     <string name="maml_download_dialog_cancel_text">Чаканне Wi-Fi</string>
-    <string name="maml_download_dialog_cancel_text_china">Wait for WLAN</string>
-    <string name="maml_download_dialog_checkbox_text">Больш не паказваць</string>
+    <string name="maml_download_dialog_cancel_text_china">Чаканне WLAN</string>
+    <string name="maml_download_dialog_checkbox_text">Не паказваць зноў %d хвілін(-ы)</string>
     <string name="maml_download_dialog_confirm_text">Спампаваць</string>
     <string name="maml_download_dialog_message">"%s МБ мабільных дадзеных будзе выкарыстана для спампоўкі гэтага аб'екта. Усё роўна спампаваць?"</string>
     <string name="maml_download_dialog_title">Папярэджанне аб выкарыстанні дадзеных</string>
     <string name="maml_download_tip_wait_wifi">"Гэты аб'ект будзе загружаны пры падключэнні да Wi-Fi"</string>
-    <string name="maml_download_tip_wait_wifi_china">This item will be downloaded when you connect to WLAN</string>
+    <string name="maml_download_tip_wait_wifi_china">"Гэты аб'ект будзе загружаны пры падключэнні да WLAN"</string>
     <string name="manager_group_settings">Кіраваць катэгорыямі праграм</string>
     <string name="memory_clear_nothing_result">Ачыстка не патрабуецца</string>
     <string name="memory_clear_result">%1$sБ вызвалена</string>
@@ -581,7 +588,7 @@
     <string name="online_wallpaper">Анлайн</string>
     <string name="open_personal_assistant_dialog_btn_cancel">Скасаваць</string>
     <string name="open_personal_assistant_dialog_btn_confirm">Адключыць</string>
-    <string name="open_personal_assistant_dialog_desc">Вы не зможаце выкарыстоўваць стужку віджэтаў і атрымліваць яе абнаўленні. Адключыць зараз?</string>
+    <string name="open_personal_assistant_dialog_desc">Пасля выключэння Стужкі віджэтаў вы не зможаце ўбачыць віджэты або выкарыстоўваць іх. Абноўленыя версіі віджэтаў таксама не будуць даступныя для вас. Усё роўна выключыць?</string>
     <string name="open_personal_assistant_dialog_desc_international">Пасля адключэння гэтай функцыі вы не зможаце выкарыстоўваць карткі Стужкі віджэтаў (Акцыі, Цэтлікі і г. д.) і атрымліваць абнаўлення.</string>
     <string name="open_personal_assistant_dialog_title">Адключыць стужку віджэтаў</string>
     <string name="open_personal_assistant_settings">Налады Стужкі віджэтаў</string>
@@ -656,7 +663,7 @@
     <string name="recents_title_garbage_deepclean">Глыбокая ачыстка</string>
     <string name="recents_title_market">Знайсці праграмы</string>
     <string name="recents_title_security_scan">Антывірус</string>
-    <string name="recents_tv_small_window_text">Вокны, што плаваюць</string>
+    <string name="recents_tv_small_window_text">Плывучыя вокны</string>
     <string name="recommend_apk_size_and_desc">%1$dМБ | %2$s</string>
     <string name="recommend_app">Прапановы праграм</string>
     <string name="recommend_apps_default_title">Пуста</string>
@@ -724,6 +731,7 @@
     <string name="sort_by_not_defined">Па парадку</string>
     <string name="start_activity_failed">Не атрымалася запусціць рабочы стол</string>
     <string name="starting_preset_app">Запуск…</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_recent_memory_giga">%1$s ГБ</string>
     <string name="status_bar_recent_memory_info1">%1$s з %2$s даступна</string>
     <string name="status_bar_recent_memory_info2" />

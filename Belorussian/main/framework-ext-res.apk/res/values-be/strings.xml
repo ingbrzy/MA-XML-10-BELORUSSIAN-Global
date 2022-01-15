@@ -79,10 +79,14 @@
     <string name="device_status_success">Адпраўлена</string>
     <string name="device_status_waiting">Чаканне…</string>
     <string name="device_type_pc">Кампутар</string>
+    <string name="disable_nfc">NFC-модуль быў адключаны для бесправадной зарадкі</string>
+    <string name="disable_nfc_reverse">NFC-модуль быў адключаны для реверсівной бесправадной зарадкі</string>
     <string name="eighthours">8 гадзін</string>
     <string name="enable_livetalk_summary">Зберажыце да 70% ад кошту выклікаў</string>
     <string name="enable_livetalk_title">Уключыць пакет папаўнення балансу</string>
     <string name="enable_midrop">Уключыць</string>
+    <string name="enable_nfc">Не зараджаецца. NFC быў зноў уключаны.</string>
+    <string name="enable_nfc_reverse">Не зараджаецца. NFC зноў уключаны.</string>
     <string name="fc_dialog_body">Даслаць справаздачу аб памылцы? Яна можа змяшчаць некаторыя асабістыя звесткі. Справаздача будзе выкарыстана толькі для выпраўлення памылкі і ніколі не перадаецца для выкарыстання ў рэкламе.</string>
     <string name="fc_dialog_jump_to_preview">Праглядзець справаздачу</string>
     <string name="file_cannot_print">"Не атрымоўваецца надрукаваць гэты аб'ект."</string>
@@ -159,7 +163,6 @@
     <string name="open_close_tip_content">Каб закрыць ўсплывальнае акно, націсніце і ўтрымлівайце панэль дзеянняў, а затым правядзіце уверх</string>
     <string name="oppo">OPPO</string>
     <string name="oppo_phone">OPPO</string>
-    <string name="other_ime">Іншыя клавіятуры</string>
     <string name="package_delete_confirm_step_1">Выдаліць%s?</string>
     <string name="package_delete_confirm_step_2">Выдаленне гэтай праграмы можа прывесці да нестабільнасці сістэмы.</string>
     <string name="package_delete_confirm_step_3">Вы не зможаце адчыняць праграму пасля яе выдалення.</string>

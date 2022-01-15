@@ -192,6 +192,12 @@
         <item quantity="few">Знойдзеныя %d запісы</item>
         <item quantity="many">Знойдзеныя %d запісаў</item>
     </plurals>
+    <plurals name="text_btn_list_with_message">
+        <item quantity="other">%d новых запісаў</item>
+        <item quantity="one">%d новы запіс</item>
+        <item quantity="few">%d новых запісу</item>
+        <item quantity="many">%d новых запісаў</item>
+    </plurals>
     <plurals name="time_left_for_clear_file">
         <item quantity="other">засталося %d дзён</item>
         <item quantity="one">застаўся %d дзень</item>

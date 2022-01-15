@@ -72,24 +72,6 @@
     <string name="close">Закрыць</string>
     <string name="combine_loan">Камбінаваны крэдыт</string>
     <string name="commercial_loan">Камерцыйны крэдыт</string>
-    <string name="common_google_play_services_enable_button">Уключыць</string>
-    <string name="common_google_play_services_enable_text">%1$s не будзе працаваць, пакуль вы не ўключыце службы Google Play.</string>
-    <string name="common_google_play_services_enable_title">Уключыць службы Google Play</string>
-    <string name="common_google_play_services_install_button">Усталяваць</string>
-    <string name="common_google_play_services_install_text">%1$s не будзе працаваць без службаў Google Play, якія адсутнічаюць на вашай прыладзе.</string>
-    <string name="common_google_play_services_install_title">Атрымаць службы Google Play</string>
-    <string name="common_google_play_services_notification_channel_name">Даступнасць сэрвісаў Google Play</string>
-    <string name="common_google_play_services_notification_ticker">Памылка службаў Google Play</string>
-    <string name="common_google_play_services_unknown_issue">У праграмы %1$s узніклі праблемы са службамі Google Play. Паўтарыце спробу.</string>
-    <string name="common_google_play_services_unsupported_text">%1$s не будзе працаваць без службаў Google Play, якія не падтрымліваюцца вашай прыладай.</string>
-    <string name="common_google_play_services_update_button">Абнавіць</string>
-    <string name="common_google_play_services_update_text">%1$s не будзе працаваць, пакуль вы не абновіце службы Google Play.</string>
-    <string name="common_google_play_services_update_title">Абнаўленне службаў Google Play</string>
-    <string name="common_google_play_services_updating_text">%1$s не будзе працаваць без службаў Google Play, якія ў цяперашні час абнаўляюцца.</string>
-    <string name="common_google_play_services_wear_update_text">Патрабуецца новая версія служб Google Play. Яна абновіцца аўтаматычна ў бліжэйшы час.</string>
-    <string name="common_open_on_phone">Адкрыць на тэлефоне</string>
-    <string name="common_signin_button_text">Увайсцi</string>
-    <string name="common_signin_button_text_long">Увайсці праз Google</string>
     <string name="convert_currency">Канвертар валют</string>
     <string name="convertion_unit">Канвэртар адзінак вымярэння</string>
     <string name="convertion_unit_area">Канвертар плошчы</string>
@@ -476,7 +458,7 @@
     <string name="name_split">Падзяліць суму</string>
     <string name="negDesc">Пераключэнне паміж тэмпературамі ніжэй і вышэй за нуль</string>
     <string name="network_confirm_content">Для звычайнай працы канвертара валют, падаткавага і крэдытнага калькулятараў патрэбна падлучэнне да інтэрнэту і доступ да месцазнаходжання.</string>
-    <string name="network_confirm_title">Запыт доступу</string>
+    <string name="network_confirm_title">Патрабуюцца дазволы</string>
     <string name="network_purpose">Сардэчна запрашаем у Калькулятар! Пры дапамозе Калькулятара вы можаце канвертаваць валюты, разлічваць выплаты па іпатэцы і рабіць многае іншае.</string>
     <string name="new_privacy_string">&lt;Data>Сардэчна запрашаем у праграму Калькулятар!&lt;br/>Гэтая праграма выконвае наступныя функцыі:&lt;br/>• Базавы калькулятар&lt;br/>• Інжынерны калькулятар&lt;br/>• Універсальны канвэртар (канвертар валют, адзінак вымярэння і інш.)&lt;br/>• Шаблоны разлікаў для пазык, інвестыцый, штомесячных плацяжоў і шмат чаго іншага&lt;br/>Праграме Калькулятар трэба збіраць неабходную асабістую інфармацыю, каб прадастаўляць вам асноўныя паслугі. Вы можаце даведацца, як мы апрацоўваем інфармацыю, якую збіраем, у нашай &lt;a href= \"%1$s\">Палітыцы прыватнасці&lt;/a>. Прачытайце нашы &lt;a href=\"%2$s\">Карыстальніцкае пагадненне&lt;/a> і &lt;a href=\"%3$s\">Палітыку прыватнасці&lt;/a> перад выкарыстаннем праграмы Калькулятар. Вы можаце ў любы момант адклікаць сваю згоду з Палітыкай прыватнасці праграмы Калькулятар у Наладах. Калі вы не згодныя з нашай Палітыкай прыватнасці, вы не зможаце выкарыстоўваць некаторыя функцыі гэтай праграмы, аднак яе базавая функцыянальнасць па-ранейшаму будзе вам даступная.&lt;/Data></string>
     <string name="night">Вечар</string>
@@ -507,7 +489,7 @@
     <string name="preference_follow_weibo_title">Sina Weibo</string>
     <string name="preference_help">Даведка і водгукі</string>
     <string name="preference_other">Іншае</string>
-    <string name="preference_privacy_title">Палітыка канфідэнцыяльнасці</string>
+    <string name="preference_privacy_title">Палітыка прыватнасці</string>
     <string name="preference_rating_title">Ацаніце нашу праграму</string>
     <string name="preference_settings">Налады</string>
     <string name="preference_use_degress_summary">Замена радыянаў на трыганаметрычную функцыю</string>
@@ -710,6 +692,7 @@
     <string name="unit_data_display_currency_btn">Бутанскі нгултрум</string>
     <string name="unit_data_display_currency_bwp">Батсванская пула</string>
     <string name="unit_data_display_currency_byn">Беларускі рубель</string>
+    <string name="unit_data_display_currency_byr">@string/unit_data_display_currency_byn</string>
     <string name="unit_data_display_currency_cad">Канадскі долар</string>
     <string name="unit_data_display_currency_cdf">Кангалезскі франк</string>
     <string name="unit_data_display_currency_chf">Швейцарскі франк</string>
@@ -1052,12 +1035,15 @@
     <string name="word_figure_unit_shi">拾</string>
     <string name="word_figure_yuan">元</string>
     <string name="word_figure_zheng">整</string>
+    <string name="xiaomi_bytes_unit">%1$sБ</string>
     <string name="xiaomi_calculator_delete_description">«Калькулятар» — гэта сістэмная праграма. Вы не зможаце выкарыстоўваць мноства канвертараў і дадатковых функцый пасля выдалення гэтай праграмы.</string>
     <string name="xiaomi_calculator_delete_title">Выдаліць «Калькулятар»?</string>
     <string name="xiaomi_calculator_remove_icon_description">«Калькулятар» — гэта сістэмная праграма. Вы не зможаце выкарыстоўваць мноства канвертараў і дадатковых функцый пасля выдалення ярлыка з галоўнага экрана.</string>
     <string name="xiaomi_calculator_remove_icon_title">Выдаліць «Калькулятар» з Галоўнага экрана?</string>
     <string name="xiaomi_connect_download_manager_fail">Не атрымалася падлучыцца да Запамповак. Пераканайцеся ў тым, што праграма мае ўсе неабходныя дазволы ў «Налады > Усталяваныя праграмы».</string>
     <string name="xiaomi_external_storage_unavailable">Памяць недаступная. Праверце SD-карту.</string>
+    <string name="xiaomi_kilobytes_unit">%1$sКБ</string>
+    <string name="xiaomi_megabytes_unit">%1$sМБ</string>
     <string name="xiaomi_update_dialog_message">"Даступная версія %1$s
 Памер: %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"Даступная версія %1$s

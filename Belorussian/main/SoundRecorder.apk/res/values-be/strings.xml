@@ -37,6 +37,7 @@
     <string name="alert_message_delete_record">Выдаленне запісу з прылады таксама выдаліць яго і з Xiaomi Cloud. Выдаліць зараз?</string>
     <string name="alert_message_delete_record_title">Выдаліць абраны запіс?</string>
     <string name="all_record">Усе запісы</string>
+    <string name="allowed">Прадастаўлены</string>
     <string name="am">AM</string>
     <string name="app_name">Дыктафон</string>
     <string name="app_record">Запісы праграмы</string>
@@ -184,6 +185,7 @@
     <string name="head_set_tip_dialog_title">Выкарыстоўвайце ўбудаваны мікрафон</string>
     <string name="icon_content_description">Значок дыялогавага акна</string>
     <string name="invalid_argument">Недапушчальны аргумент</string>
+    <string name="invisible_mode_error_tip">Адключыце рэжым Інкогніта ў Наладах, каб скарыстацца мікрафонам</string>
     <string name="item_view_role_description">Укладка</string>
     <string name="keywords_search_call_record">Запісаць выклікі;Запісаць выклік;Запіс выкліку;Запіс выклікаў</string>
     <string name="keywords_search_record">Новы запіс;Дадаць запіс;Запіс;Запісы;Расшыфроўка;Расшыфраваць;Дыктафон;Запіс гутаркі;Запіс гука;Дыктафон;Праграма для запісу;Як запісаць;Як запісаць гук;Як адшукаць Дыктафон;Дыктофон MIUI</string>
@@ -221,6 +223,7 @@
     <string name="mi_account_ok">Уваход</string>
     <string name="mi_account_title">Ўвайдзіце з дапамогай Mi Акаўнт</string>
     <string name="midnight">Ноч</string>
+    <string name="miuix_access_state_desc">Выбрана</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Зняць выбар</string>
     <string name="miuix_appcompat_action_mode_select_all">Выбраць усё</string>
     <string name="miuix_appcompat_action_mode_title_empty">"Выбраць аб'екты"</string>
@@ -293,6 +296,7 @@
     <string name="mtrl_picker_a11y_next_month">Перайсці да наступнага месяца</string>
     <string name="mtrl_picker_a11y_prev_month">Перайсці да папярэдняга месяца</string>
     <string name="mtrl_picker_announce_current_selection">Бягучае вылучэнне: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Выберыце дату</string>
     <string name="mtrl_picker_date_header_unselected">Выбраная дата</string>
@@ -333,6 +337,7 @@
     <string name="no_records">Тут пакуль няма запісаў</string>
     <string name="noon">Сярэдзіна дня</string>
     <string name="normal_settings_pref_title">Агульныя налады</string>
+    <string name="not_allowed">Не прадастаўлены</string>
     <string name="not_set">Не зададзена</string>
     <string name="notification_message_all_paused">Чаканне сеткі Wi-Fi.</string>
     <string name="notification_playback">Прайграванне…</string>
@@ -378,6 +383,15 @@
     <string name="pay_error_cancel">Плацёж адменены</string>
     <string name="pay_error_null">Не атрымалася завяршыць плацёж. Праверце свой рахунак.</string>
     <string name="pay_error_unknown">Невядомая памылка</string>
+    <string name="permission_desc">Інфармацыя пра дазволы</string>
+    <string name="permission_dialog_cancel">Адмена</string>
+    <string name="permission_dialog_ok">Налады</string>
+    <string name="permission_record">Запіс гуку</string>
+    <string name="permission_record_description">Для прадастаўлення паслуг гуказапісу</string>
+    <string name="permission_storage">Доступ да сховішча</string>
+    <string name="permission_storage_description">Для кіравання запісамі і загрузка іх з воблака</string>
+    <string name="permission_storage_description_for_download">Для спампоўкі запісаў з воблака</string>
+    <string name="permission_storage_description_for_manage_files">Для кіравання запісамі</string>
     <string name="play_speed">%1$.1fX хуткасць</string>
     <string name="playback_delete_records">Выдаліць абраны запіс</string>
     <string name="playback_share_records">Падзяліцца запісам</string>
@@ -398,7 +412,9 @@
     <string name="preference_silent_mode">Адключыць гук выкліку пры запісу</string>
     <string name="preference_status_bar_indicator_prompt">Паказаць сіні індыкатар на экране блакавання падчас запісу</string>
     <string name="preference_tip_rename">Даваць імёны запісам уручную</string>
-    <string name="privacy_policy_title">Палітыка канфідэнцыяльнасці</string>
+    <string name="privacy_policy_title">Палітыка прыватнасці</string>
+    <string name="privacy_settings">Прыватнасць</string>
+    <string name="progress">Шкала прайгравання</string>
     <string name="recognition_button_add_to_queue">Дадаць у чаргу</string>
     <string name="recognition_button_cancel">Не зараз</string>
     <string name="recognition_button_start">Расшыфраваць</string>
@@ -466,6 +482,7 @@
     <string name="record_mark_point">Пазнака %s</string>
     <string name="record_name_hour">.</string>
     <string name="record_name_minute">​</string>
+    <string name="record_permission_dialog_title">Патрабуюцца дазволы на доступ да мікрафону</string>
     <string name="record_quliaty_preference_title">Якасць запісу</string>
     <string name="record_resotre">Аднавіць запісы</string>
     <string name="recorder_record">Аўдыё</string>
@@ -498,6 +515,11 @@
     <string name="rename_no_more_tip">Больш не паказваць</string>
     <string name="retry">Паўтарыць</string>
     <string name="runtime_permission_ungranted">Немагчыма карыстацца Дыктафонам без адпаведных дазволаў</string>
+    <string name="saf_permission_dialog_content">З-за абмежаванняў Android Дыктафону патрэбен дазвол на доступ да запісаў, зробленых у іншай праграме. Падайце Дыктафону доступ да гэтых запісаў, каб праглядзець іх.</string>
+    <string name="saf_permission_dialog_grant_permission_immediately">Налады</string>
+    <string name="saf_permission_dialog_later">Не, дзякуй</string>
+    <string name="saf_permission_dialog_no_more_tip">Не паказваць зноў</string>
+    <string name="saf_permission_dialog_title">Патрабуюцца дазволы</string>
     <string name="saturday">Субота</string>
     <string name="saturday_short">Суб</string>
     <string name="saturday_shortest">Суб</string>
@@ -516,6 +538,7 @@
     <string name="search_tip_rename">Даваць імёны запісам уручную</string>
     <string name="send">Даслаць</string>
     <string name="service_instructions">Аб iflyrec.com</string>
+    <string name="settings_saf_permission">Дазволы на кіраванне файламі</string>
     <string name="share">Падзяліцца</string>
     <string name="share_dialog_title">Падзяліцца з дапамогаю</string>
     <string name="shortcut_records">Запісы</string>
@@ -536,6 +559,7 @@
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_recording">Запіс…</string>
     <string name="status_bar_recording_pause">Запіс спынены</string>
+    <string name="storage_permission_dialog_title">Патрабуюцца дазволы на доступ да сховішча</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Нядзеля</string>
     <string name="sunday_short">Ндз</string>
@@ -625,6 +649,7 @@
     <string name="user_feedback">Водгук</string>
     <string name="v7_preference_off">ВЫКЛ.</string>
     <string name="v7_preference_on">УКЛ.</string>
+    <string name="view_privacy">Прагледзець Палітыку прыватнасці</string>
     <string name="webview_check_network">Налады сеткі</string>
     <string name="webview_data_error">Адбылася памылка</string>
     <string name="webview_locating_fail">Не атрымалася вызначыць ваша месцазнаходжанне</string>

@@ -175,6 +175,7 @@
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Традыцыйны кітайскі каляндар</string>
+    <string name="date_time_fmt" formatted="false">%s, %s</string>
     <string name="date_time_picker_dialog_title">Усталяваць дату і час</string>
     <string name="date_today">" (сёння)"</string>
     <string name="day">Дзень</string>
@@ -433,6 +434,7 @@
     <string name="midnight">Ноч</string>
     <string name="missing_name">(Без імя)</string>
     <string name="missing_required_permission">Вы не маеце неабходных дазволаў.</string>
+    <string name="miuix_access_state_desc">Выбрана</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Зняць выбар</string>
     <string name="miuix_appcompat_action_mode_select_all">Выбраць усё</string>
     <string name="miuix_appcompat_action_mode_title_empty">"Выбраць аб'екты"</string>
@@ -762,6 +764,7 @@
     <string name="talk_back_read_date">%1$s (%2$s па месяцовым календары).</string>
     <string name="talk_back_setting">Налады</string>
     <string name="talk_back_tab_switch">Пераключэнне паміж відамі</string>
+    <string name="talk_back_tab_switch_language">Выберыце мову Календара</string>
     <string name="talkback_bengali">Бенгальская</string>
     <string name="talkback_english">Англійская</string>
     <string name="talkback_gujarati">Гуджараці</string>

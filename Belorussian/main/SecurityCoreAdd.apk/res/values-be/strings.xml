@@ -69,6 +69,7 @@
     <string name="close_second_space">Другая прастора выдаленая</string>
     <string name="close_second_space_success">Другая прастора выдаленая</string>
     <string name="closed">Выкл</string>
+    <string name="common_google_play_services_unknown_issue">У праграмы %1$s узніклі праблемы са службамі Google Play. Паўтарыце спробу.</string>
     <string name="complete_setting">Завяршыць</string>
     <string name="complete_setting_sub_title">Вы можаце вярнуцца пазней для змянення наладаў.</string>
     <string name="complete_setting_title">Наладжванне скончанае!</string>

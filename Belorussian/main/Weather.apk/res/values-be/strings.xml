@@ -150,6 +150,7 @@
     <string name="dynamic_weather">"Надвор'е"</string>
     <string name="early_morning">Раніца</string>
     <string name="edit_city">Кіраванне гарадамі</string>
+    <string name="empty">" "</string>
     <string name="empty_view_net_loading">Абнаўленне…</string>
     <string name="empty_view_net_unavailable">Не атрымалася падлучыцца да сеткі</string>
     <string name="empty_view_refresh">Паспрабаваць зноў</string>
@@ -259,13 +260,17 @@
     <string name="friday_short">Птн</string>
     <string name="friday_shortest">Птн</string>
     <string name="hourly_forcast_now">Зараз</string>
+    <string name="hourly_forecast_bottom_aqi_else">%1$s</string>
     <string name="hourly_forecast_date">d.M</string>
     <string name="index_item_experience_now">Усталяваць</string>
     <string name="indices_title_chance_of_rain">Верагоднасць дажджу</string>
     <string name="indices_title_feel">Адчуваецца</string>
     <string name="indices_title_pressure">Ціск</string>
     <string name="indices_title_wind_speed">Хуткасць ветру</string>
+    <string name="install_progress">%1$s%%</string>
     <string name="international_details_uv_index_title">Індэкс УФ</string>
+    <string name="item_city_list_region_no_data">-- / --</string>
+    <string name="item_city_list_temperature_no_data">--</string>
     <string name="location_provider_btn_text">Уключыць службы месцазнаходжання</string>
     <string name="location_tag">Вызначыць</string>
     <string name="manager_city_option_add_home">Дадаць на пачатковую старонку</string>
@@ -374,11 +379,11 @@
     <string name="preference_copied">\"%1$s\": скапіравана ў буфер абмену.</string>
     <string name="privacy_grant_or_revoke_settings">Адкліканне згоды</string>
     <string name="privacy_grant_success">Дазвол прадастаўлены</string>
-    <string name="privacy_policy">Палітыка канфідэнцыяльнасці</string>
+    <string name="privacy_policy">Палітыка прыватнасці</string>
     <string name="privacy_policy_msg">"&lt;Data>Гэтая праграма мае наступныя функцыі:&lt;br/>• Інфармацыя пра надвор'е для вашага месцазнаходжання&lt;br/>• Прагнозы надвор'я&lt;br/>• Папярэджання аб надвор'і&lt;br/>&lt;br/>Праграме Надвор'е патрабуецца ажыццяўляць збор неабходнай асабістай інфармацыі, каб прадастаўляць вам базавыя паслугі. Вы можаце падрабязней даведацца пра тое, як мы апрацоўваем інфармацыю, якую збіраем, у нашай &lt;a href=\"%1$s\">Палітыцы прыватнасці&lt;/a>. Перад выкарыстаннем праграмы Надвор'е азнаёмцеся і пагадзіцеся з нашымі нашымі &lt;a href=\"%2$s\">Карыстальніцкім пагадненнем&lt;/a> і &lt;a href=\"%3$s\">Палітыкай прыватнасці&lt;/a>. Вы можаце ў любы час адклікаць сваю згоду з Палітыкай прыватнасці праграмы Надвор'е у Наладах.&lt;/Data>"</string>
     <string name="privacy_policy_msg_for_gp">"&lt;Data>Гэтая праграма мае наступныя функцыі:&lt;br/>• Інфармацыя пра надвор'е для вашага месцазнаходжання&lt;br/>• Прагнозы надвор'я&lt;br/>• Папярэджання аб надвор'е&lt;br/>&lt;br/>Праграме Надвор'е патрабуецца ажыццяўляць збор неабходнай асабістай інфармацыі, уключаючы дадзеныя пра месцазнаходжанне, каб прадастаўляць вам гэтыя функцыі, нават калі праграма закрыта ці не выкарыстоўваецца. Вы можаце падрабязней даведацца пра тое, як мы апрацоўваем інфармацыю, якую збіраем, у нашай &lt;a href=\"%1$s\">Палітыцы прыватнасці&lt;/a>. Перад выкарыстаннем праграмы Надвор'е азнаёмцеся і пагадзіцеся з нашымі нашымі &lt;a href=\"%2$s\">Карыстальніцкім пагадненнем&lt;/a> і &lt;a href=\"%3$s\">Палітыкай прыватнасці&lt;/a>. Вы можаце ў любы час адклікаць сваю згоду з Палітыкай прыватнасці праграмы Надвор'е у Наладах.&lt;/Data>"</string>
     <string name="privacy_revoke_success">Аўтарызацыя паспяхова скасавана</string>
-    <string name="privacy_settings">Палітыка канфідэнцыяльнасці</string>
+    <string name="privacy_settings">Палітыка прыватнасці</string>
     <string name="pull_fresh_updated">Паспяхова абноўлена</string>
     <string name="pull_fresh_updating">Абнаўляецца…</string>
     <string name="radar_cloud_image_title">Карта</string>
@@ -408,6 +413,7 @@
     <string name="save_to_gallery_icon_name">Захаваць у Галерэі</string>
     <string name="save_to_gallery_success_message">Паспяхова захавана ў Галерэі</string>
     <string name="search_menu_title">Пошук</string>
+    <string name="select_show_city">Выберыце месцазнаходжанне</string>
     <string name="send">Даслаць</string>
     <string name="set_degree_centigrade">°C</string>
     <string name="set_fahrenheit">°F</string>
@@ -422,6 +428,7 @@
     <string name="share_menu_title">Падзяліцца</string>
     <string name="share_subject">Падзяліцца</string>
     <string name="share_weather_desc">"\#Надвор'е MIUI#Сёння %1$s %2$s"</string>
+    <string name="share_weather_desc_alert">%1$s%2$s</string>
     <string name="share_weather_desc_split">,</string>
     <string name="share_weather_save_pic_fail">Немагчыма зрабіць здымак экрана</string>
     <string name="shortcut_short_label_24_hour_forecast">Прагноз на 24 гадзіны</string>

@@ -264,4 +264,16 @@
         <item quantity="few">Затрымка субцітраў на %.1f секунд</item>
         <item quantity="many">Затрымка субцітраў на %.1f секунд</item>
     </plurals>
+    <plurals name="toast_bookmark_max_size">
+        <item quantity="other">Дадайце да %d закладак</item>
+        <item quantity="one">Дадайце %d закладку</item>
+        <item quantity="few">Дадайце да %d закладак</item>
+        <item quantity="many">Дадайце да %d закладак</item>
+    </plurals>
+    <plurals name="video_view_count">
+        <item quantity="other">%d праглядаў</item>
+        <item quantity="one">%d прагляд</item>
+        <item quantity="few">%d прагляда</item>
+        <item quantity="many">%d праглядаў</item>
+    </plurals>
 </resources>

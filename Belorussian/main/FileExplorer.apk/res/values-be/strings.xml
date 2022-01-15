@@ -30,7 +30,6 @@
     <string name="actionbar_button_up_description">Назад</string>
     <string name="afternoon">Поўдзень</string>
     <string name="am">AM</string>
-    <string name="app_all_purpose_pad">Сардэчна запрашаем у Менеджар файлаў! Выкарыстоўвайце гэтую праграму для кіравання файламі, захаванымі на вашай прыладзе.</string>
     <string name="clearable_edittext_clear_description">Ачысціць</string>
     <string name="close">Закрыць</string>
     <string name="copy">Капіраваць</string>
@@ -101,6 +100,7 @@
     <string name="friday_short">Птн</string>
     <string name="friday_shortest">Птн</string>
     <string name="midnight">Ноч</string>
+    <string name="miuix_access_state_desc">Выбрана</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Зняць выбар</string>
     <string name="miuix_appcompat_action_mode_select_all">Выбраць усё</string>
     <string name="miuix_appcompat_action_mode_title_empty">"Выбраць аб'екты"</string>
@@ -174,7 +174,6 @@
     <string name="saturday_shortest">Суб</string>
     <string name="search_menu_title">Пошук</string>
     <string name="send">Даслаць</string>
-    <string name="start_all">Праглядзець усе</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Нядзеля</string>

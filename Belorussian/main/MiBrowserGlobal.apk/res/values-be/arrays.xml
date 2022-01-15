@@ -12,12 +12,20 @@
         <item>Зялёны</item>
         <item>Сіні</item>
     </string-array>
+    <string-array name="nf_ad_feedback_reason">
+        <item>Не цікава</item>
+        <item>Паўтор</item>
+        <item>Нізкая якасць</item>
+        <item>Недапушчальнае фота</item>
+        <item>Ашуканская інфармацыя</item>
+    </string-array>
     <string-array name="nf_feedback_reason">
         <item>Нецэнзурнае змесціва</item>
         <item>Ілжывыя звесткі</item>
         <item>Старыя навіны</item>
         <item>Экстрэмізм</item>
         <item>Падсвядомая рэклама</item>
+        <item>Мне гэта не падабаецца</item>
     </string-array>
     <string-array name="pref_fling_on_border_gesture_entries">
         <item>Назад/наперад</item>

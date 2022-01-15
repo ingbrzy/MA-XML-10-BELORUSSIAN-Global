@@ -351,7 +351,6 @@
     <string name="headset_device_error_multconnect">Немагчыма абнавіць, калі падлучаныя некалькі прылад</string>
     <string name="headset_device_error_no_device">У зараднам футарале адсутнічае мінімум адзін навушнік</string>
     <string name="headset_device_error_single_device">Не ўдаецца абнавіць адзін навушнік. Падключыце зноў.</string>
-    <string name="headset_device_sync">Сінхранізацыя…</string>
     <string name="headset_device_sync_donot_move_device">Сінхранізацыя… Дачакайцеся завяршэння сінхранізацыі, перш чым выкарыстоўваць навушнікі.</string>
     <string name="headset_device_sync_wait_connect">Сінхранізацыя… Перад выкарыстаннем навушнікаў пачакайце, пакуль злучэнне не ўсталюецца аўтаматычна.</string>
     <string name="headset_download_failed">Не атрымалася спампаваць</string>
@@ -365,7 +364,6 @@
     <string name="headset_fw_file_position_failed">Не ўдалося атрымаць доступ да файла</string>
     <string name="headset_fw_file_readfailed">Памылка атрымання інфармацыі пра абнаўленне</string>
     <string name="headset_loss_notify_summary">Падобна на тое, што па меншай меры аднаго з вашых навушнікаў няма ў зараднам футарале. Паглядзіце вакол!</string>
-    <string name="headset_loss_notify_summary1">Змесціце навушнікі ў футляр, каб зарадзіць іх.</string>
     <string name="headset_loss_notify_title">Папярэджанне пра адсутнасць навушнікаў</string>
     <string name="headset_read_fw_state">Памылка атрымання інфармацыі аб абнаўленнях</string>
     <string name="headset_update_failed">Не атрымалася абнавіць</string>

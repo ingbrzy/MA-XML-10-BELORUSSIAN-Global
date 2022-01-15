@@ -54,6 +54,12 @@
         <item quantity="few">%d хв таму</item>
         <item quantity="many">%d хв таму</item>
     </plurals>
+    <plurals name="current_page_number">
+        <item quantity="other">Прагляд старонкі %d</item>
+        <item quantity="one">Прагляд старонкі %d</item>
+        <item quantity="few">Прагляд старонкі %d</item>
+        <item quantity="many">Прагляд старонкі %d</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Паўгадзіны таму</item>
         <item quantity="one">Паўгадзіны таму</item>
@@ -101,5 +107,11 @@
         <item quantity="one">1 хвіліну таму</item>
         <item quantity="few">%d хвіліны таму</item>
         <item quantity="many">%d хвілін таму</item>
+    </plurals>
+    <plurals name="total_pages">
+        <item quantity="other">Усяго %d старонак</item>
+        <item quantity="one">Усяго %d старонка</item>
+        <item quantity="few">Усяго %d старонкі</item>
+        <item quantity="many">Усяго %d старонак</item>
     </plurals>
 </resources>

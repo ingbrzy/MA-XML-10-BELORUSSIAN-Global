@@ -236,8 +236,8 @@ dd/MM"</string>
     <string name="night">Вечар</string>
     <string name="noon">Сярэдзіна дня</string>
     <string name="not_set">Не зададзена</string>
-    <string name="notification_anim_pulse">Пульс</string>
-    <string name="notification_anim_rhythm">Рытм</string>
+    <string name="notification_anim_pulse">Біццё (чырвонае)</string>
+    <string name="notification_anim_rhythm">Біццё (сіняе)</string>
     <string name="notification_anim_star">Зоркі</string>
     <string name="notification_nothing">Адсутнічае</string>
     <string name="notification_screen_on">Уключыць экран</string>
@@ -283,6 +283,7 @@ dd/MM"</string>
 что адбудзецца нешта цудоўнае"</string>
     <string name="standard_clock_panel">Стандартны</string>
     <string name="standard_style">Стандартны</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="step_component_info_active_tip">Падлік крокаў выконваецца Xiaomi Health. Прыміце палажэнні і ўмовыXiaomi Health, каб працягнуць.</string>
     <string name="step_component_info_desc">Колькасць крокаў ператворыцца ў прыз, калі ваша мэта будзе дасягнутая. Колькасць крокаў прадастаўляецца Xiaomi Health.</string>
     <string name="step_component_info_tip">Падлік крокаў выконваецца Xiaomi Health. Усталюйце ці абновіце праграму Xiaomi Health і прыміце яе ўмовы, каб працягнуць.</string>
@@ -293,6 +294,7 @@ dd/MM"</string>
     <string name="sunday_short">Ндз</string>
     <string name="sunday_shortest">Ндз</string>
     <string name="temporary_style">На працягу 10 секунд пасля дотыку</string>
+    <string name="temporary_style_5">На працягу 5 секунд пасля дотыку</string>
     <string name="temporary_style_summary">Рэкамендавана</string>
     <string name="text_color">Колер тэксту</string>
     <string name="text_length_exceed_limit_alert">* Вы ўвялі занадта доўгі тэкст</string>

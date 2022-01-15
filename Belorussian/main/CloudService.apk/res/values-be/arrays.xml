@@ -56,6 +56,11 @@
         <item>Для ідэнтыфікацыі вашай прылады</item>
         <item>Для вызначэння месцазнаходжання прылады і пераходу ў рэжым згубленай прылады</item>
     </string-array>
+    <string-array name="privacy_dialog_finddevice_runtime_perm_desc_new">
+        <item>Для вызначэння месцазнаходжання прылады і пераходу ў рэжым згубленай прылады</item>
+        <item>Для вызначэння месцазнаходжання прылады, калі яна не падключана да інтэрнэту</item>
+        <item>Для доступу да нумара тэлефона для вызначэння месцазнаходжання прылады, калі яна не падключана да інтэрнэту</item>
+    </string-array>
     <string-array name="privacy_dialog_sync_runtime_perm_desc">
         <item>Для сінхранізацыі расклада</item>
         <item>Для сінхранізацыі паведамленняў</item>
@@ -63,6 +68,14 @@
         <item>Для сінхранізацыі кантактаў</item>
         <item>Для сінхранізацыі кантактаў</item>
         <item>"Для захавання аб'ектаў на вашай прыладзе (напрыклад, выявы, відэа, песні)"</item>
+    </string-array>
+    <string-array name="privacy_dialog_sync_runtime_perm_title">
+        <item>Доступ да падзей календара</item>
+        <item>Адпраўка SMS</item>
+        <item>Чытанне MMS</item>
+        <item>Доступ да кантактаў</item>
+        <item>Змяняць і выдаляць кантакты</item>
+        <item>Доступ да фота і файлаў на прыладзе</item>
     </string-array>
     <string-array name="settings_search_backup_manage">
         <item>Рэзервовыя копіі</item>

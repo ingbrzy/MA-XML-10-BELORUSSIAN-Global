@@ -138,12 +138,6 @@
         <item quantity="few">%d даступных прылады</item>
         <item quantity="many">%d даступных прылад</item>
     </plurals>
-    <plurals name="color_game_led_freq_entries">
-        <item quantity="other">Кожныя %d секунды</item>
-        <item quantity="one">Кожную %d секунду</item>
-        <item quantity="few">Кожныя %d секунды</item>
-        <item quantity="many">Кожныя %d секунд</item>
-    </plurals>
     <plurals name="connected_devices_number">
         <item quantity="other">%d прылады</item>
         <item quantity="one">%d прылада</item>

@@ -235,7 +235,7 @@
     <string name="category_folder">Папкі</string>
     <string name="category_installed_app">Усталяваныя праграмы</string>
     <string name="category_midrive">Mi Drive</string>
-    <string name="category_move_limit_notice">"Вы можаце перамясціць у верхнюю частку экрана ад 3 да 7 аб'ектаў"</string>
+    <string name="category_move_limit_notice">"Вы можаце перамясціць ад %1$d да %2$d аб'екта(-ў) ў верхнюю частку экрана"</string>
     <string name="category_music">Музыка</string>
     <string name="category_other">Іншыя</string>
     <string name="category_photo">Фота</string>
@@ -351,6 +351,9 @@
     <string name="copy">Капіраваць</string>
     <string name="copy_url">Капіяваць URL</string>
     <string name="could_not_load_data">Не атрымалася загрузіць дадзеныя, абновіце і паспрабуйце ізноў</string>
+    <string name="crash_page_button">Паспрабаваць ізноў</string>
+    <string name="crash_page_description">Пры адлюстраванні гэтай старонкі нешта пайшло не так.</string>
+    <string name="crash_page_title">Вось незадача!</string>
     <string name="create_qr_code">QR-код</string>
     <string name="current_version_pad">Планшэт</string>
     <string name="current_version_pc">"Камп'ютар"</string>
@@ -409,7 +412,7 @@ ID:%s
     <string name="download_btn_select_none">Зняць выбар з усіх</string>
     <string name="download_business_app_new_version">Апошняя версія праграмы ўжо ўсталявана</string>
     <string name="download_business_app_update_install">Абнаўленне гатова да ўсталёўкі.</string>
-    <string name="download_business_v5_edit_mode_title_empty">Абрана: 0</string>
+    <string name="download_business_v5_edit_mode_title_empty">Выберыце кантакт</string>
     <string name="download_change_dir">Змяніць папку</string>
     <string name="download_complete">Спампавана паспяхова</string>
     <string name="download_completed">Спампавана</string>
@@ -430,7 +433,7 @@ ID:%s
     <string name="download_dialog_failed_body">Паспрабаваць пазней ці выдаліць спампоўку з чаргі?</string>
     <string name="download_dialog_file_already_exists">Гэты файл ужо спампаваны</string>
     <string name="download_dialog_file_length_hint_txt">"Памер файла: "</string>
-    <string name="download_dialog_file_length_lessthan1kb">Менш за 1 КБ</string>
+    <string name="download_dialog_file_length_lessthan1kb">Менш за %1$d КБ</string>
     <string name="download_dialog_file_length_nolength_error_txt">Не атрымліваецца спампаваць</string>
     <string name="download_dialog_file_length_nolength_txt">Хвілінку…</string>
     <string name="download_dialog_file_missing_body">Не атрымалася адкрыць файл. Вы выдалілі ці перанеслі яго?</string>
@@ -671,6 +674,8 @@ ID:%s
     <string name="friday">Пятніца</string>
     <string name="friday_short">Птн</string>
     <string name="friday_shortest">Птн</string>
+    <string name="game_center_recommend_play">Прайграць</string>
+    <string name="game_center_recommend_title">Рэкамендуецца вам</string>
     <string name="game_played">Нядаўнія</string>
     <string name="gcm_fallback_notification_channel_label">Рознае</string>
     <string name="geolocation_permissions_prompt_dont_share">Адмовіць</string>
@@ -783,9 +788,9 @@ ID:%s
     <string name="lockpattern_need_to_unlock_wrong">Паўтарыце спробу</string>
     <string name="lockpattern_pattern_confirmed_header">Вось ваш графічны ключ:</string>
     <string name="lockpattern_pattern_entered_header">Гатова!</string>
-    <string name="lockpattern_recording_incorrect_too_short">Паспрабуйце яшчэ раз. Злучыце не менш за 4 кропак.</string>
+    <string name="lockpattern_recording_incorrect_too_short">Паспрабуйце яшчэ раз. Злучыце як мінімум %1$d кропкі(-ак).</string>
     <string name="lockpattern_recording_inprogress">Падніміце палец, калі завершыце ўвод графічнага ключа</string>
-    <string name="lockpattern_recording_intro_header">Злучыце не менш за 4 кропкі</string>
+    <string name="lockpattern_recording_intro_header">Злучыце як мінімум %1$d кропкі(-ак)</string>
     <string name="lockpattern_retry_button_text">Скід</string>
     <string name="login_failed_toast">Не атрымалася ўвайсці, абнавіце і паспрабуйце яшчэ раз</string>
     <string name="login_or_register">або</string>
@@ -796,7 +801,7 @@ ID:%s
     <string name="make_private_msg_1">Схаваць гэты файл?</string>
     <string name="make_private_msg_2">Схаваць гэтыя файлы?</string>
     <string name="max_tabs_warning">Вы не можаце адкрыць больш укладак</string>
-    <string name="maximum_input_alert">Можна ўвесці не болей за 2048 сымбалаў</string>
+    <string name="maximum_input_alert">Немагчыма ўвесці больш за %1$d сімвала(-ў)</string>
     <string name="menu_addtodesk">Дадаць на працоўны стол</string>
     <string name="menu_exit_nightmode">Выйсці</string>
     <string name="menu_hv_swap">Паварот экрана</string>
@@ -1308,7 +1313,7 @@ ID:%s
     <string name="pf_guide_msg_if_has_downloading">Бягучыя спампоўкі нельга дадаць у асабістую папку</string>
     <string name="pf_move_out">Выдаліць з асабістай папкі</string>
     <string name="pf_move_out_dialog_btn_confirm">Выдаліць</string>
-    <string name="pf_move_out_dialog_content">"Выдаленыя аб'екты будуць перамешчаныя ў зыходную папку."</string>
+    <string name="pf_move_out_dialog_content">"Выдаленыя аб'екты будуць адлюстраваныя ў нядаўніх файлах."</string>
     <string name="pf_move_out_dialog_title">Выдаленне з асабістай папкі...</string>
     <string name="pf_toast_add_success">Перанесена ў асабістую папку</string>
     <string name="phone">Сховішча</string>
@@ -1599,7 +1604,7 @@ ID:%s
     <string name="rlv_pull_to_refresh">Пацягніце ўніз для абнаўлення</string>
     <string name="rlv_refreshing">Абнаўленне…</string>
     <string name="rlv_release_to_refresh">Адпусціце для абнаўленняАдпусціце для абнаўлення</string>
-    <string name="rlz_access_point">Y1</string>
+    <string name="rlz_access_point">Y%1$d</string>
     <string name="root_folder_lable">Няма</string>
     <string name="router_download_exist">Гэты файл ужо існуе</string>
     <string name="router_download_failed">Не атрымалася спампаваць</string>
@@ -1657,7 +1662,7 @@ ID:%s
     <string name="search_google">Google</string>
     <string name="search_hint">Пошук</string>
     <string name="search_menu_title">Пошук</string>
-    <string name="search_s139">139</string>
+    <string name="search_s139">%1$d</string>
     <string name="search_settings_description">Закладкі і гісторыя</string>
     <string name="search_shipin">Відэа</string>
     <string name="search_sm">SM</string>
@@ -1956,8 +1961,8 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="vpn_data_used_info">Выкарыстана %2$s з %1$s</string>
     <string name="vpn_detail_guide1">Разблакуйце ўсе серверы для павелічэння хуткасці злучэння</string>
     <string name="vpn_detail_guide2">Аформіце падпіску на VPN-сэрвісы для доступу да вэб-сайтаў</string>
-    <string name="vpn_detail_guide3">Трафік хутка скончыцца. Паспрабуйце 12-месячную падпіску! Націсніце для прагляду даступных варыянтаў.</string>
-    <string name="vpn_detail_guide4">Трафік скончыўся. Паспрабуйце 12-месячную падпіску! Націсніце для прагляду даступных варыянтаў.</string>
+    <string name="vpn_detail_guide3">У вас амаль скончыўся трафік. Паспрабуйце наш %1$d-месячны план! Націсніце, каб даведацца аб вашых варыянтах.</string>
+    <string name="vpn_detail_guide4">У вас скончыўся трафік. Паспрабуйце наш %1$d-месячны план! Націсніце, каб даведацца аб вашых варыянтах.</string>
     <string name="vpn_detail_guide5">Трафік хутка скончыцца</string>
     <string name="vpn_detail_guide6">Трафік скончыўся</string>
     <string name="vpn_detail_subscribe">Падпісацца</string>
@@ -1988,7 +1993,7 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="whatsapp_how_it_works">Як гэта працуе</string>
     <string name="whatsapp_intro_dialog_title">Новая функцыя</string>
     <string name="whatsapp_no_status_tips">Тут пакуль няма выяў або відэа. Праглядзіце свае абнаўленняў статусу WhatsApp і зноў вяртайцеся сюды.</string>
-    <string name="whatsapp_principle_page_message">"WhatsApp захоўвае ў схаванай тэчцы фота і відэа, якія вы адкрывалі. Гэтыя аб'екты знікаюць праз 24 гадзіны. Цяпер вы можаце выкарыстоўваць Mi Browser, каб захоўваць іх."</string>
+    <string name="whatsapp_principle_page_message">"WhatsApp захоўвае ў схаванай папке фота і відэа, якія вы адкрывалі. Гэтыя аб'екты знікаюць праз %1$d гадзін(-ы). Цяпер вы можаце выкарыстоўваць Mi Browser, каб захоўваць іх."</string>
     <string name="whatsapp_principle_page_title">Вы можаце захоўваць выявы і відэа з статусаў WhatsApp з дапамогай Mi Browser</string>
     <string name="whatsapp_principle_step_1">Праглядайце выявы і відэа з укладкі «Статус» у WhatsApp.</string>
     <string name="whatsapp_principle_step_2">Вярніцеся сюды, каб захаваць іх.</string>

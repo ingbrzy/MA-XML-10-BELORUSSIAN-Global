@@ -51,6 +51,7 @@
     <string name="calibrate_success">Адкалібравана</string>
     <string name="calibrate_tip">Нахіляйце прыладу так, каб шар каціўся па крузе</string>
     <string name="calibrate_title">Каліброўка компаса</string>
+    <string name="calibrating">Каліброўка компаса</string>
     <string name="cancel">Скасаваць</string>
     <string name="cannot_get_location">--</string>
     <string name="clearable_edittext_clear_description">Ачысціць</string>
@@ -229,6 +230,7 @@
     <string name="month_september_shortest">Вер</string>
     <string name="more">Яшчэ</string>
     <string name="morning">Раніца</string>
+    <string name="new_cta_app_purpose">прагляд маршруту і каардынат</string>
     <string name="new_cta_v2_app_purpose">Паказ маршрутных указанняў, каардынат, атмасфернага ціска і бягучай вышыні над узроўнем мора</string>
     <string name="new_permission_camera_desc">Для каліброўкі</string>
     <string name="new_permission_location_desc">Для адлюстравання каардынатаў</string>
@@ -240,6 +242,7 @@
     <string name="open_perm_msg">Компасу патрабуецца доступ да месцазнаходжання і камеры. Гэта неабходна для вызначэння каардынатаў і прагляду ў рэжыме рэальнага часу. Дазволіць?</string>
     <string name="open_perm_msg_no_camera">Компасе трэба атрымаць доступ да інфармацыі пра месцазнаходжанне, каб вызначыць каардынаты. Дазволіць?</string>
     <string name="open_perm_title">Патрабуюцца дазволы</string>
+    <string name="pageIndicator">%1$s. %2$s.</string>
     <string name="permission_camera_desc">Для адлюстравання азімута ў прадпраглядзе ў рэжыме рэальнага часу</string>
     <string name="permission_description">Інфармацыя пра дазволы</string>
     <string name="permission_location_desc">Для адлюстравання каардынатаў</string>
@@ -248,7 +251,7 @@
     <string name="preference_other">Іншае</string>
     <string name="preference_privacy_policy">Прагледзець Палітыку прыватнасці</string>
     <string name="preference_privacy_setting">Прыватнасць</string>
-    <string name="preference_privacy_title">Палітыка канфідэнцыяльнасці</string>
+    <string name="preference_privacy_title">Палітыка прыватнасці</string>
     <string name="pressure">%.1f</string>
     <string name="pressure_title">Ціск</string>
     <string name="pressure_unit">hPa</string>

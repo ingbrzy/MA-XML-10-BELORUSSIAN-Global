@@ -37,6 +37,9 @@
     <string name="change_find_device_status_failed">Не атрымалася разблакаваць. %s.</string>
     <string name="clearable_edittext_clear_description">Ачысціць</string>
     <string name="copy">Капіраваць</string>
+    <string name="custom_define_permission_desc_android.permission.READ_PHONE_STATE">Для доступу да нумара тэлефона для вызначэння месцазнаходжання прылады, калі яна не падключана да інтэрнэту</string>
+    <string name="custom_define_permission_desc_android.permission.SEND_SMS">Для вызначэння месцазнаходжання прылады, калі яна не падключана да інтэрнэту</string>
+    <string name="custom_define_permission_desc_android.permission_group.LOCATION">Для вызначэння месцазнаходжання прылады і пераходу ў рэжым згубленай прылады</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />

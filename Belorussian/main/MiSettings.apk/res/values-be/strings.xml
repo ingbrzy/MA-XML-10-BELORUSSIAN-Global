@@ -141,6 +141,8 @@
     <string name="created_successfully">Паспяхова створаны</string>
     <string name="crowned_hornbill">Crowned hornbill</string>
     <string name="cu_confirm">Усталяваць</string>
+    <string name="customize_radio_btn_summary">Выберыце частату абнаўлення ўручную</string>
+    <string name="customize_radio_btn_title">Карыстальніцкая</string>
     <string name="dall_sheep">Dall sheep</string>
     <string name="dart_frog_info">Its bright blue skin and poisonous glands are defense mechanisms to potential predators.</string>
     <string name="date_picker_label_day" />
@@ -150,13 +152,17 @@
     <string name="date_time_picker_dialog_title">Усталяваць дату і час</string>
     <string name="dc_light_hint_enable_title">Увага</string>
     <string name="dc_light_hint_normal">"Зацямненне DC можа паўплываць на адлюстраванне некаторых аб'ектаў."</string>
+    <string name="dc_light_hint_normal_anit">"Функцыя ўстаранення мігацення можа паўплываць на адлюстраванне некаторых аб'ектаў."</string>
+    <string name="dc_light_hint_normal_other">"Функцыя ўстаранення мігацення можа паўплываць на частату абнаўлення экрана і адлюстраванне некаторых аб'ектаў."</string>
     <string name="dc_light_hint_other">"Зацямненне DC можа паўплываць на частату абнаўлення і адлюстраванне некаторых аб'ектаў."</string>
+    <string name="dc_light_hint_unnormal_low">"Функцыя ўстаранення мігацення пры слабым асвятленні можа паўплываць на адлюстраванне некаторых аб'ектаў."</string>
+    <string name="dc_light_hint_unnormal_other">"Функцыя ўстаранення мігацення пры слабым асвятленні можа паўплываць на частату абнаўлення экрана і адлюстраванне некаторых аб'ектаў."</string>
     <string name="dc_lignt_enable_hint">Рэжым анты-мігацення ўсталюе частату абнаўлення экрана на 60 Гц. Пераключыцца ў рэжым анты-мігацення?</string>
     <string name="delete_first_to_add_animal">To add a new item, delete one first.</string>
-    <string name="desktop_widget_authorization">Tap to grant permissions to be able to view stats</string>
-    <string name="desktop_widget_not_support">"Screen time stats
-aren't generated in Second space"</string>
-    <string name="desktop_widget_screen_use_time">Screen time</string>
+    <string name="desktop_widget_authorization">Націсніце, каб падаць дазвол і атрымаць доступ да прагляду статыстыкі</string>
+    <string name="desktop_widget_not_support">"Няма статыстыкі экраннага часу
+ў другой прасторы"</string>
+    <string name="desktop_widget_screen_use_time">Экранны час</string>
     <string name="display_description">Буйнейшыя значкі і тэкст, менш візуальнага халусця</string>
     <string name="display_title">"Павелічэнне аб'ектаў"</string>
     <string name="dynamic_ringtone_desc">"We've explored different ecosystems and recreated their distinct sounds. Start exploring the sounds of nature with us!"</string>
@@ -288,13 +294,19 @@ aren't generated in Second space"</string>
     <string name="focus_mode_timer_pick_dialog_title">Увядзіце працягласць</string>
     <string name="focus_time_exception_tip">Здаецца, сістэмны час был зменены. Рэжым факусіроўкі адключаны.</string>
     <string name="follow_sim1">Прымяніць налады SIM 1</string>
+    <string name="fps_high">Высокая</string>
     <string name="fps_nature_summary">Максімальная частата абнаўлення захоўвае ўсе выразным і ясным</string>
     <string name="fps_nature_title">Максімальная</string>
+    <string name="fps_normal">Стандартная</string>
+    <string name="fps_radio_btn_title">Частата абнаўлення</string>
+    <string name="fps_save_battery_tips">Уключаная эканомія зарада. Устаноўлена фіксаваная частата абнаўлення %d Гц.</string>
     <string name="fps_smooth_summary">Высокая частата абнаўлення робіць выразней дэталі</string>
     <string name="fps_smooth_title">Высокая</string>
     <string name="fps_standard_summary">Стандартная частата абнаўлення эканоміць зарад батарэі</string>
     <string name="fps_standard_title">Стандартная</string>
     <string name="fps_user_tip">- Гэтыя дэма-анімацыі прайграваецца на нізкай хуткасці для вашай даведкі. Фактычная прадукцыйнасць можа выглядаць па-іншаму ў залежнасці ад розных фактараў.</string>
+    <string name="fps_user_tip_footer">"%1$d. Для нагляднай дэманстрацыі розніцы паміж высокім і нізкім значэннем частоты абнаўлення экрана відэа прайграваюцца павольней. Пры звычайным выкарыстанні заўважыць розніцу можа быць цяжэй.
+%2$d. У некаторых выпадках частата абнаўлення мяняецца дынамічна ў залежнасці ад паказу аб'ектаў."</string>
     <string name="friday">Пятніца</string>
     <string name="friday_short">Птн</string>
     <string name="friday_shortest">Птн</string>
@@ -320,11 +332,14 @@ aren't generated in Second space"</string>
     <string name="healthy_use_phone">Кіраванне экранным часам</string>
     <string name="helmeted_guineafowl">Guineafowl</string>
     <string name="high_fps_description">Высокая частата абнаўлення экрана. Высокае энергаспажыванне.</string>
+    <string name="high_fps_tip_footer">Выкарыстанне больш высокай частоты абнаўлення робіць прагляд больш плыўным, але патрабуе больш энергіі.</string>
     <string name="hippopotamus">Hippo</string>
     <string name="hsv_space_color">Каляровая прастора HSV</string>
     <string name="hsv_space_color_hue">Адценне</string>
     <string name="hsv_space_color_saturation">Насычанасць</string>
     <string name="hsv_space_color_value">Значэнне</string>
+    <string name="intelligent_radio_btn_summary">Рэгуляваць частату абнаўлення дынамічна на аснове сцэнарыяў для балансу прадукцыйнасці і энергаспажывання</string>
+    <string name="intelligent_radio_btn_title">Аўта (рэкамендуецца)</string>
     <string name="intelligent_recognition_item_summary">Выкарыстоўваць пэўную мелодыю для выклікаў ад службаў дастаўкі і таксі. Гэтая функцыя працуе, калі па змаўчанні ўсталяваная мелодыя %s.</string>
     <string name="intelligent_recognition_item_title">Вызначыць паслугі</string>
     <string name="item_anura">Anura</string>
@@ -365,6 +380,8 @@ aren't generated in Second space"</string>
     <string name="lion_info">Lions are fierce and powerful predators. They live in groups and have a strong sense of territory.</string>
     <string name="lock_summary">Абараніце вашы асабістыя дадзеныя</string>
     <string name="long_tai1ed_iaeger">Long-tailed jaeger</string>
+    <string name="low_flicker_mode">Слабое асвятленне</string>
+    <string name="low_flicker_mode_summary">Устараняць мігаценне ва ўмовах слабой асветленасці, каб знізіць нагрузку на вочы.</string>
     <string name="low_fps_description">Нізкая частата абнаўлення экрана. Нізкае энергаспажыванне.</string>
     <string name="low_light_preview">Предппросмотр ва ўмовах нізкай асветленасці</string>
     <string name="lynx">Lynx</string>
@@ -374,6 +391,7 @@ aren't generated in Second space"</string>
     <string name="masked_palm_civet">Masked palm civet</string>
     <string name="medium_tree_finch">Medium tree finch</string>
     <string name="midnight">Ноч</string>
+    <string name="miuix_access_state_desc">Выбрана</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Зняць выбар</string>
     <string name="miuix_appcompat_action_mode_select_all">Выбраць усё</string>
     <string name="miuix_appcompat_action_mode_title_empty">"Выбраць аб'екты"</string>
@@ -466,6 +484,7 @@ aren't generated in Second space"</string>
     <string name="noon">Сярэдзіна дня</string>
     <string name="normal_mode">Звычайнае</string>
     <string name="normal_mode_summary">Ня паменшаць мігаценне ва ўмовах нізкай асветленасці</string>
+    <string name="normal_mode_summary_new">Дазволіць мігаценне пры слабым асвятленні</string>
     <string name="north_white_rhinoceros">White rhinoceros</string>
     <string name="norway_lemmings">Norway lemmings</string>
     <string name="norway_lemmings_info">The Norway lemming dwells in tundra and fells, and prefers to live near water.</string>
@@ -481,7 +500,7 @@ aren't generated in Second space"</string>
     <string name="p3_color_region_summary">Паказаць усе змесціва экрана ў каляровай гаме P3</string>
     <string name="pallas_s_cat">"Pallas's cat"</string>
     <string name="parasitic_jaeger">Parasitic jaeger</string>
-    <string name="personality_hint_ringtone">Personalized sounds</string>
+    <string name="personality_hint_ringtone">Персаналізацыя гуку</string>
     <string name="petaurus_breviceps">Sugar glider</string>
     <string name="phoebastria_irrorata">Waved albatross</string>
     <string name="pied_butcherbird">Pied butcherbird</string>
@@ -545,7 +564,7 @@ aren't generated in Second space"</string>
     <string name="several_days_use_time">Экранны час: %2$s</string>
     <string name="short_eared_owl">Short-eared owl</string>
     <string name="shortcut_created">Ярлык ўжо існуе</string>
-    <string name="silent_ringtone_hint">Гук адключаны. Павялічце гучнасць і паспрабуйце ізноў.</string>
+    <string name="silent_ringtone_hint">Спачатку выключыце Бязгучны рэжым</string>
     <string name="silver_pheasant">Silver pheasant</string>
     <string name="sim_slot_1">" (SIM 1)"</string>
     <string name="sim_slot_2">" (SIM 2)"</string>
@@ -557,6 +576,8 @@ aren't generated in Second space"</string>
     <string name="snowy_owl">Snowy owl</string>
     <string name="southern_elephant_seal">Southern elephant seal</string>
     <string name="southern_ground_hornbill">Ground hornbill</string>
+    <string name="split_page_authorization">Сардэчна запрашаем у Час працы экрана! Тут вы можаце ўсталяваць абмежаванні выкарыстання экрана і праглядзець статыстыку. Націсніце «Запуск», каб уключыць гэтую функцыю.</string>
+    <string name="split_page_start">Запуск</string>
     <string name="spotted_hyaena">Spotted hyena</string>
     <string name="spotted_hyaena_info">Hyenas are nocturnal predators with the most complex social behaviours.</string>
     <string name="spur_winged_plover">Spur-winged lapwing</string>
@@ -657,7 +678,7 @@ aren't generated in Second space"</string>
     <string name="unlock_times_per_day">"У сярэднім у дзень: "</string>
     <string name="unlock_times_per_hour">"Разблакіровак у гадзіну: "</string>
     <string name="usage_agree">Згадзіцца</string>
-    <string name="usage_app_desktop_widget_limit">%s remaining</string>
+    <string name="usage_app_desktop_widget_limit">Засталося %s</string>
     <string name="usage_app_get_it">Зразумела</string>
     <string name="usage_app_holiday_limit">Выхадныя дні</string>
     <string name="usage_app_limit_alter_summary">Указаны вамі ліміт менш сённяшняга часу выкарыстання гэтай праграмы. Задаць ліміт?</string>
@@ -673,12 +694,15 @@ aren't generated in Second space"</string>
     <string name="usage_app_over_content">Вы ўжо выкарысталі гэтую праграму %s сёння.</string>
     <string name="usage_app_over_summary">Вы дасягнулі ліміту. Час выйшаў!</string>
     <string name="usage_app_set_limit_time">Задаць ліміт</string>
+    <string name="usage_app_stop_desc">All Screen time data and permissions, including individual settings, as well as the related items stored locally, will be deleted after you turn this feature off.​</string>
     <string name="usage_app_system_app_summary">Нельга абмежаваць экранны час сістэмных праграм</string>
     <string name="usage_app_weekday_limit">Па буднях</string>
     <string name="usage_app_weekend_limit">У выхадныя</string>
     <string name="usage_beat_fans">Лепш за %s Mi фаната(-аў)</string>
     <string name="usage_continuous_days">Перыяд</string>
     <string name="usage_creating_weekly_report">Стварэнне тыднёвай справаздачы…</string>
+    <string name="usage_cta_desc">"Welcome to Settings! To provide Screen time and Focus mode stats to you, this app needs to collect the following data: the number of times you unlock the device, the list of your apps along with the corresponding usage duration, the number of times your screen lights up, and Focus mode settings. The collected data will only be stored locally on this device.
+"</string>
     <string name="usage_current_week_usage">%s у сярэднім за апошнія 7 дзён</string>
     <string name="usage_device_limit_app_prolong">Дадаць час</string>
     <string name="usage_device_limit_app_prolong_time1">Дадаць 20 хвілін</string>

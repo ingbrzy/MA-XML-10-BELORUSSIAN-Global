@@ -406,7 +406,7 @@
     <plurals name="widget_custom_unit_day">
         <item quantity="other">%d дзён</item>
         <item quantity="one">%d дзень</item>
-        <item quantity="ауц">%d днi</item>
+        <item quantity="few">%d днi</item>
     </plurals>
     <plurals name="Ndays_after">
         <item quantity="other">Праз %1$d дзён</item>

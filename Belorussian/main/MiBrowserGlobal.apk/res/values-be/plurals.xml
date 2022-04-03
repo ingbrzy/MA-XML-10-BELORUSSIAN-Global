@@ -289,11 +289,9 @@
         <item quantity="many">%1$d праглядаў</item>
     </plurals>
     <plurals name="views">
-        <item quantity="other">%dk views</item>
-        <item quantity="one">%dk view</item>
-        <item quantity="few">%dk views</item>
-        <item quantity="many">%dk views</item>
-    </plurals>
+    <item quantity="other">%d тыс. праглядаў</item>
+    <item quantity="one">%d тыс. праглядаў</item>
+  </plurals>
     <plurals name="vote_all_people">
         <item quantity="other">Усяго %d галасоў</item>
         <item quantity="one">Усяго %d голас</item>

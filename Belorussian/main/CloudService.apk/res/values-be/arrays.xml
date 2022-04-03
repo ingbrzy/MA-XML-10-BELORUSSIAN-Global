@@ -80,67 +80,67 @@
     <string-array name="settings_search_backup_manage">
         <item>Рэзервовыя копіі</item>
         <item>"Аб'екты са створанымі рэзервовымі копіямі"</item>
-        <item>Воблака;Стварыць рэзервовую копію;Рэзервовая копія;Воблачныя сэрвісы;Xiaomi Cloud;Галоўны экран;Знешні выгляд;Праграмы;Кіраванне рэзервовымі копіямі;Аднаўленне</item>
+        <item>Воблака;Стварыць рэзервовую копію;Рэзервовая копія;Воблачныя сэрвісы;Воблака Xiaomi;Галоўны экран;Знешні выгляд;Праграмы;Кіраванне рэзервовымі копіямі;Аднаўленне</item>
     </string-array>
     <string-array name="settings_search_backup_setting">
-        <item>Зрабіць бэкап Галоўнага экрана ў Xiaomi Cloud</item>
+        <item>Зрабіць бэкап Галоўнага экрана ў Воблака Xiaomi</item>
         <item>Стварыце бэкап знешняга выгляда працоўнага стала, устаноўленых праграм і налад сістэмы</item>
-        <item>Воблака;Стварыць рэзервовую копію;Рэзервовая копія;Воблачныя сэрвісы;Xiaomi Cloud;Галоўны экран;Знешні выгляд;Праграмы;Налады;Частата рэзервовага капіявання;Кіраванне рэзервовымі копіямі;Аднаўленне</item>
+        <item>Воблака;Стварыць рэзервовую копію;Рэзервовая копія;Воблачныя сэрвісы;Воблака Xiaomi;Галоўны экран;Знешні выгляд;Праграмы;Налады;Частата рэзервовага капіявання;Кіраванне рэзервовымі копіямі;Аднаўленне</item>
     </string-array>
     <string-array name="settings_search_browser">
-        <item>Сінхранізаваць браўзэр з Xiaomi Cloud</item>
+        <item>Сінхранізаваць браўзэр з Воблакам Xiaomi</item>
         <item>Уключыць сінхранізацыю</item>
-        <item>Браўзер;Воблака;Сінхранізацыя;Воблачныя сэрвісы;Xiaomi Cloud</item>
+        <item>Браўзер;Воблака;Сінхранізацыя;Воблачныя сэрвісы;Воблака Xiaomi</item>
     </string-array>
     <string-array name="settings_search_calendar">
-        <item>Сінхранізаваць Каляндар з Xiaomi Cloud</item>
+        <item>Сінхранізаваць Каляндар з Воблакам Xiaomi</item>
         <item>Уключыць сінхранізацыю</item>
-        <item>Каляндар;Воблака;Сінхранізацыя;Воблачныя сэрвісы;Xiaomi Cloud</item>
+        <item>Каляндар;Воблака;Сінхранізацыя;Воблачныя сэрвісы;Воблака Xiaomi</item>
     </string-array>
     <string-array name="settings_search_contacts">
-        <item>Сінхранізаваць кантакты з Xiaomi Cloud</item>
+        <item>Сінхранізаваць кантакты з Воблакам Xiaomi</item>
         <item>Уключыць/наладзіць сінхранізацыю</item>
-        <item>Кантакты;Гісторыя выклікаў;Воблака;Сінхранізацыя;Воблачныя сэрвісы;Xiaomi Cloud</item>
+        <item>Кантакты;Гісторыя выклікаў;Воблака;Сінхранізацыя;Воблачныя сэрвісы;Воблака Xiaomi</item>
     </string-array>
     <string-array name="settings_search_dial">
-        <item>Сінхранізаваць гісторыю вызаваў з Xiaomi Cloud</item>
+        <item>Сінхранізаваць гісторыю вызаваў з Воблакам Xiaomi</item>
         <item>Уключыць/наладзіць сінхранізацыю</item>
-        <item>Гісторыя вызаваў;Воблака;Сінхранізацыя;Воблачныя сэрвісы;Xiaomi Cloud</item>
+        <item>Гісторыя вызаваў;Воблака;Сінхранізацыя;Воблачныя сэрвісы;Воблака Xiaomi</item>
     </string-array>
     <string-array name="settings_search_find_pad">
         <item>Пошук прылады</item>
         <item>Сатрыце дадзеныя і заблакуйце прыладу пры яе страце</item>
-        <item>Пошук прылады;Страта;Воблака;Сінхранізацыя;Воблачныя сэрвісы;Xiaomi Cloud</item>
+        <item>Пошук прылады;Страта;Воблака;Сінхранізацыя;Воблачныя сэрвісы;Воблака Xiaomi</item>
     </string-array>
     <string-array name="settings_search_find_phone">
         <item>Пошук прылады</item>
         <item>Сатрыце дадзеныя і заблакуйце прыладу пры яе страце</item>
-        <item>Пошук прылады;Страта;Воблака;Сінхранізацыя;Воблачныя сэрвісы;Xiaomi Cloud</item>
+        <item>Пошук прылады;Страта;Воблака;Сінхранізацыя;Воблачныя сэрвісы;Воблака Xiaomi</item>
     </string-array>
     <string-array name="settings_search_gallery">
-        <item>Сінхранізаваць Галерэю з Xiaomi Cloud</item>
+        <item>Сінхранізаваць Галерэю з Воблакам Xiaomi</item>
         <item>Уключыць/наладзіць сінхранізацыю</item>
-        <item>Галерэя;Фатаграфіі;Воблака;Сінхранізацыя;Воблачныя сэрвісы;Xiaomi Cloud</item>
+        <item>Галерэя;Фатаграфіі;Воблака;Сінхранізацыя;Воблачныя сэрвісы;Воблака Xiaomi</item>
     </string-array>
     <string-array name="settings_search_music">
-        <item>Сінхранізаваць музыку з Xiaomi Cloud</item>
+        <item>Сінхранізаваць музыку з Воблакам Xiaomi</item>
         <item>Уключыць сінхранізацыю</item>
-        <item>Музыка;Воблака;Сінхранізацыя;Воблачныя сэрвісы;Xiaomi Cloud</item>
+        <item>Музыка;Воблака;Сінхранізацыя;Воблачныя сэрвісы;Воблака Xiaomi</item>
     </string-array>
     <string-array name="settings_search_notes">
-        <item>Сінхранізаваць нататкі з Xiaomi Cloud</item>
+        <item>Сінхранізаваць нататкі з Воблакам Xiaomi</item>
         <item>Уключыць сінхранізацыю</item>
-        <item>Нататкі;Воблака;Сінхранізацыя;Воблачныя сэрвісы;Xiaomi Cloud</item>
+        <item>Нататкі;Воблака;Сінхранізацыя;Воблачныя сэрвісы;Воблака Xiaomi</item>
     </string-array>
     <string-array name="settings_search_notes_v2">
-        <item>Сінхранізаваць нататкі з Xiaomi Cloud</item>
+        <item>Сінхранізаваць нататкі з Воблакам Xiaomi</item>
         <item>Уключыць сінхранізацыю</item>
-        <item>Нататкі;Воблака;Сінхранізацыя;Воблачныя сэрвісы;Xiaomi Cloud</item>
+        <item>Нататкі;Воблака;Сінхранізацыя;Воблачныя сэрвісы;Воблака Xiaomi</item>
     </string-array>
     <string-array name="settings_search_personal_assistant">
-        <item>Сінхранізаваць Праграмнае сховішча з Xiaomi Cloud</item>
+        <item>Сінхранізаваць Праграмнае сховішча з Воблакам Xiaomi</item>
         <item>Уключыць сінхранізацыю</item>
-        <item>Праграмнае сховішча;Карткі;Воблака;Сінхранізацыя;Воблачныя сэрвісы;Xiaomi Cloud</item>
+        <item>Праграмнае сховішча;Карткі;Воблака;Сінхранізацыя;Воблачныя сэрвісы;Воблака Xiaomi</item>
     </string-array>
     <string-array name="settings_search_phrase">
         <item>Сінхранізаваць хуткія адказы</item>
@@ -148,64 +148,64 @@
         <item>Хуткія адказы;Буфер абмену;Рэдактар;Воблака;Сінхранізацыя;Хмарныя сэрвісы</item>
     </string-array>
     <string-array name="settings_search_recorder">
-        <item>Сінхранізаваць запісы з Xiaomi Cloud</item>
+        <item>Сінхранізаваць запісы з Воблакам Xiaomi</item>
         <item>Уключыць/наладзіць сінхранізацыю</item>
-        <item>Дыктафон;Воблака;Сінхранізацыя;Воблачныя сэрвісы;Xiaomi Cloud</item>
+        <item>Дыктафон;Воблака;Сінхранізацыя;Воблачныя сэрвісы;Воблака Xiaomi</item>
     </string-array>
     <string-array name="settings_search_recycle_bin">
-        <item>"Выдаленыя аб'екты ў Xiaomi Cloud"</item>
+        <item>"Выдаленыя аб'екты ў Воблаке Xiaomi"</item>
         <item>Аднавіць кантакты, фатаграфіі, паведамленні і іншае</item>
-        <item>"Смецце;Выдаленыя аб'екты;Сметніца;Аднавіць;Воблачныя сэрвісы;Xiaomi Cloud"</item>
+        <item>"Смецце;Выдаленыя аб'екты;Сметніца;Аднавіць;Воблачныя сэрвісы;Воблака Xiaomi"</item>
     </string-array>
     <string-array name="settings_search_recycle_bin_pad">
-        <item>"Выдаленыя аб'екты ў Xiaomi Cloud"</item>
+        <item>"Выдаленыя аб'екты ў Воблака Xiaomi"</item>
         <item>Аднавіць фота, нататкі і многае іншае</item>
-        <item>"Смецце;Выдаленыя аб'екты;Сметніца;Аднавіць;Воблачныя сэрвісы;Xiaomi Cloud"</item>
+        <item>"Смецце;Выдаленыя аб'екты;Сметніца;Аднавіць;Воблачныя сэрвісы;Воблака Xiaomi"</item>
     </string-array>
     <string-array name="settings_search_restore_device">
-        <item>"Аднавіць аб'екты з Xiaomi Cloud"</item>
+        <item>"Аднавіць аб'екты з Воблака Xiaomi"</item>
         <item>"Загрузіць рэзервовыя копіі аб'ектаў на прыладу"</item>
-        <item>Воблака;Рэзервовая копія;Стварыць рэзервовую копію;Аднаўленне;Воблачныя сервісы;Xiaomi Cloud</item>
+        <item>Воблака;Рэзервовая копія;Стварыць рэзервовую копію;Аднаўленне;Воблачныя сервісы;Воблака Xiaomi</item>
     </string-array>
     <string-array name="settings_search_security">
         <item>Воблачнае сінхранізацыя Бяспекі</item>
         <item>Уключыць сінхранізацыю</item>
-        <item>Бяспека;Воблака;Xiaomi Cloud;Сінхранізаваць;Воблачныя сэрвісы</item>
+        <item>Бяспека;Воблака;Воблака Xiaomi;Сінхранізаваць;Воблачныя сэрвісы</item>
     </string-array>
     <string-array name="settings_search_security_pad">
         <item>Воблачнае сінхранізацыя Бяспекі</item>
         <item>Уключыць сінхранізацыю</item>
-        <item>Бяспека;Воблака;Xiaomi Cloud;Сінхранізаваць;Воблачныя сэрвісы</item>
+        <item>Бяспека;Воблака;Воблака Xiaomi;Сінхранізаваць;Воблачныя сэрвісы</item>
     </string-array>
     <string-array name="settings_search_sms">
-        <item>Сінхранізаваць паведамленні з Xiaomi Cloud</item>
+        <item>Сінхранізаваць паведамленні з Воблакам Xiaomi</item>
         <item>Уключыць/наладзіць сінхранізацыю</item>
-        <item>Паведамленні;SMS;MMS;Воблака;Сінхранізацыя;Воблачныя сэрвісы;Xiaomi Cloud</item>
+        <item>Паведамленні;SMS;MMS;Воблака;Сінхранізацыя;Воблачныя сэрвісы;Воблака Xiaomi</item>
     </string-array>
     <string-array name="settings_search_subscribe_vip">
-        <item>Сяброўства ў Xiaomi Cloud</item>
+        <item>Сяброўства ў Воблаке Xiaomi</item>
         <item>Павысьце ўзровень падпіскі, атрымайце больш месца ў сховішче і абараніце свае дадзеныя</item>
-        <item>"Недастаткова месца;Сяброўства;Сховішча;Месца ў сховішче;Воблака;Сінхранізацыя;Воблачныя сэрвісы;Xiaomi Cloud;Мега;Ультра;VIP;Стварыць рэзервовую копію;Рэзервовая копія;Аднаўленне;Смецце;Выдаленыя аб'екты;Сметніца"</item>
+        <item>"Недастаткова месца;Сяброўства;Сховішча;Месца ў сховішче;Воблака;Сінхранізацыя;Воблачныя сэрвісы;Воблака Xiaomi;Мега;Ультра;VIP;Стварыць рэзервовую копію;Рэзервовая копія;Аднаўленне;Смецце;Выдаленыя аб'екты;Сметніца"</item>
     </string-array>
     <string-array name="settings_search_sync_manage">
-        <item>Xiaomi Cloud. Усе сэрвісы Mi у адным месцы.</item>
+        <item>Воблака Xiaomi. Усе Mi сэрвісы ў адным месцы.</item>
         <item>Доступ да вашых фатаграфій, кантактаў, паведамленняў і прылад адкуль заўгодна</item>
-        <item>"Недастаткова месца;Сяброўства;Сховішча;Месца ў сховішче;Воблака;Сінхранізацыя;Воблачныя сэрвісы;Xiaomi Cloud;Сметніца;Выдаленыя аб'екты;Бяспека"</item>
+        <item>"Недастаткова месца;Сяброўства;Сховішча;Месца ў сховішче;Воблака;Сінхранізацыя;Воблачныя сэрвісы;Воблака Xiaomi;Сметніца;Выдаленыя аб'екты;Бяспека"</item>
     </string-array>
     <string-array name="settings_search_sync_manage_pad">
-        <item>Xiaomi Cloud. Усе сэрвісы Mi у адным месцы.</item>
+        <item>Воблака Xiaomi.  Усе Mi сэрвісы ў адным месцы.</item>
         <item>Доступ да вашых фота, нататак і прылад адкуль заўгодна</item>
-        <item>"Недастаткова месца;Сяброўства;Сховішча;Месца ў сховішче;Воблака;Сінхранізацыя;Воблачныя сэрвісы;Xiaomi Cloud;Сметніца;Выдаленыя аб'екты;Бяспека"</item>
+        <item>"Недастаткова месца;Сяброўства;Сховішча;Месца ў сховішче;Воблака;Сінхранізацыя;Воблачныя сэрвісы;Воблака Xiaomi;Сметніца;Выдаленыя аб'екты;Бяспека"</item>
     </string-array>
     <string-array name="settings_search_wlan">
-        <item>Сінхранізацыя налады Wi-Fi з Xiaomi Cloud</item>
+        <item>Сінхранізацыя налады Wi-Fi з Воблакам Xiaomi</item>
         <item>Уключыць сінхранізацыю</item>
-        <item>WLAN;wifi;Wi-Fi;Воблака;Сінхранізацыя;Воблачныя сэрвісы;Xiaomi Cloud</item>
+        <item>WLAN;wifi;Wi-Fi;Воблака;Сінхранізацыя;Воблачныя сэрвісы;Воблака Xiaomi</item>
     </string-array>
     <string-array name="settings_search_wlan_china">
-        <item>Sync WLAN settings with Xiaomi Cloud</item>
-        <item>Turn on sync</item>
-        <item>WLAN;wifi;Wi-Fi;Cloud;Sync;Cloud services;Xiaomi Cloud</item>
+        <item>Сінхранізацыя налады Wi-Fi з Воблакам Xiaomi</item>
+        <item>Уключыць сінхранізацыю</item>
+        <item>WLAN;wifi;Wi-Fi;Воблака;Сінхранізацыя;Воблачныя сэрвісы;Воблака Xiaomi</item>
     </string-array>
     <string-array name="user_detail_fixed_items">
         <item>"Прагляд сінхранізаваных аб'ектаў"</item>

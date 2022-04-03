@@ -669,24 +669,6 @@
         <item>25 хвілін</item>
         <item>30 хвілін</item>
     </string-array>
-    <string-array name="snooze_duration_values">
-        <item>1</item>
-        <item>5</item>
-        <item>10</item>
-        <item>15</item>
-        <item>20</item>
-        <item>25</item>
-        <item>30</item>
-    </string-array>
-    <string-array name="time">
-        <item>%1$s</item>
-        <item>%2$s</item>
-        <item>%1$s%2$s</item>
-        <item>%3$s</item>
-        <item>%1$s%3$s</item>
-        <item>%2$s%3$s</item>
-        <item>%1$s%2$s%3$s</item>
-    </string-array>
     <string-array name="timer_duration">
         <item>Усяго %1$s</item>
         <item>Усяго %2$s</item>
@@ -701,9 +683,9 @@
         <item>Адкласці</item>
         <item>Адключыць</item>
     </string-array>
-    <string-array name="volume_button_setting_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
+    <string-array name="stat_volume_button_behaviors">
+        <item>Нічога не рабіць</item>
+        <item>Адкласці</item>
+        <item>Адключыць</item>
     </string-array>
 </resources>

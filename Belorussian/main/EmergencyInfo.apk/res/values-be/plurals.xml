@@ -6,4 +6,9 @@
         <item quantity="few">%1$d прылады падключаны</item>
         <item quantity="many">%1$d прылад падключана</item>
     </plurals>
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="other">%d новых апавяшчэнняў</item>
+    <item quantity="few">%d новых апавяшчэння</item>
+    <item quantity="one">%d новае апавяшчэнне</item>
+  </plurals>
 </resources>

@@ -270,4 +270,21 @@
         <item quantity="few">%1$s хв.</item>
         <item quantity="many">%1$s хв.</item>
     </plurals>
+    <plurals name="error_retry_hour">
+        <item quantity="other">%s г.</item>
+        <item quantity="one">%s г.</item>
+    </plurals>
+    <plurals name="error_retry_minute">
+        <item quantity="other">%s хв.</item>
+        <item quantity="one">%s хв.</item>
+    </plurals>
+    <plurals name="error_retry_second">
+        <item quantity="other">%s сек.</item>
+        <item quantity="one">%s сек.</item>
+    </plurals>
+    <plurals name="gallery_auto_sync_fail_noti_title">
+        <item quantity="other">Не атрымалася сінхранізаваць %s элементаў</item>
+        <item quantity="one">Не атрымалася сінхранізаваць %s элемент</item>
+        <item quantity="few">Не атрымалася сінхранізаваць %s элемента</item>
+    </plurals>
 </resources>

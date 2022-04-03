@@ -108,24 +108,6 @@
         <item quantity="few">Толькі што</item>
         <item quantity="many">Толькі што</item>
     </plurals>
-    <plurals name="local_video_floder">
-        <item quantity="other">%d папкі</item>
-        <item quantity="one">%d папка</item>
-        <item quantity="few">%d папкі</item>
-        <item quantity="many">%d папак</item>
-    </plurals>
-    <plurals name="long_video_minute">
-        <item quantity="other">%d хв.</item>
-        <item quantity="one">%d хв.</item>
-        <item quantity="few">%d хв.</item>
-        <item quantity="many">%d хв.</item>
-    </plurals>
-    <plurals name="long_video_season">
-        <item quantity="other">%d сезона</item>
-        <item quantity="one">%d сезон</item>
-        <item quantity="few">%d сезона</item>
-        <item quantity="many">%d сезонаў</item>
-    </plurals>
     <plurals name="lv_subtitle_offset_advance_times">
         <item quantity="other">Субцітры будуць паказаны на %.1f секунд пазней</item>
         <item quantity="one">Субцітры будуць паказаны на %.1f секунду пазней</item>
@@ -264,16 +246,55 @@
         <item quantity="few">Затрымка субцітраў на %.1f секунд</item>
         <item quantity="many">Затрымка субцітраў на %.1f секунд</item>
     </plurals>
+	<plurals name="local_video_floder">
+        <item quantity="other">%d тэчак</item>
+        <item quantity="one">%d тэчка</item>
+        <item quantity="few">%d тэчкі</item>
+        <item quantity="many">%d тэчак</item>
+    </plurals>
+	<plurals name="long_video_minute">
+        <item quantity="other">%d хв.</item>
+        <item quantity="one">%d хв.</item>
+        <item quantity="few">%d хв.</item>
+    </plurals>
+    <plurals name="long_video_season">
+        <item quantity="other">%d сезонаў</item>
+        <item quantity="one">%d сезон</item>
+        <item quantity="few">%d сезона</item>
+    </plurals>
     <plurals name="toast_bookmark_max_size">
-        <item quantity="other">Дадайце да %d закладак</item>
-        <item quantity="one">Дадайце %d закладку</item>
-        <item quantity="few">Дадайце да %d закладак</item>
-        <item quantity="many">Дадайце да %d закладак</item>
-    </plurals>
-    <plurals name="video_view_count">
-        <item quantity="other">%d праглядаў</item>
-        <item quantity="one">%d прагляд</item>
-        <item quantity="few">%d прагляда</item>
-        <item quantity="many">%d праглядаў</item>
-    </plurals>
+    <item quantity="other">Дадайце да %d закладак</item>
+    <item quantity="one">Дадайце %d закладку</item>
+    <item quantity="few">Дадайце да %d закладак</item>
+    <item quantity="many">Дадайце да %d закладак</item>
+  </plurals>
+  <plurals name="video_view_count">
+    <item quantity="other">%d праглядаў</item>
+    <item quantity="one">%d прагляд</item>
+    <item quantity="few">%d прагляда</item>
+    <item quantity="many">%d праглядаў</item>
+  </plurals>
+  <plurals name="mangotv_feature_list_title_all">
+    <item quantity="other">Усяго %d эпізодаў</item>
+    <item quantity="one">Усяго %d эпізод</item>
+    <item quantity="few">Усяго %d эпізоду</item>
+    <item quantity="many">Усяго %d эпізодаў</item>
+  </plurals>
+  <plurals name="mangotv_feature_list_title1">
+    <item quantity="other">Даступна %1$1d эпізодаў з %2$2d</item>
+    <item quantity="one">Даступны %1$1d эпізод з %2$2d</item>
+    <item quantity="few">Даступна %1$1d эпізоду з %2$2d</item>
+    <item quantity="many">Даступна %1$1d эпізодаў з %2$2d</item>
+  </plurals>
+  <plurals name="mangotv_feature_list_title2">
+    <item quantity="other">Даступна %1$1d эпізодаў з %2$2d</item>
+    <item quantity="one">Даступны %1$1d эпізод з %2$2d</item>
+    <item quantity="few">Даступна %1$1d эпізоду з %2$2d</item>
+    <item quantity="many">Даступна %1$1d эпізодаў з %2$2d</item>
+  </plurals>
+  <plurals name="mtrl_badge_content_description">
+    <item quantity="other">%d новых апавяшчэнняў</item>
+    <item quantity="few">%d новых апавяшчэння</item>
+    <item quantity="one">%d новае апавяшчэнне</item>
+  </plurals>
 </resources>

@@ -4,4 +4,21 @@
         <item>Мужчынскі</item>
         <item>Жаночы</item>
     </string-array>
+    <string-array name="feature_desc">
+         <item>Аптымізаваны для міжнародных карыстальнікаў Xiaomi.eu</item>
+    </string-array>
+    <string-array name="month12">
+         <item>Студзень</item>
+         <item>Люты</item>
+         <item>Сакавік</item>
+         <item>Красавік</item>
+         <item>Май</item>
+         <item>Чэрвень</item>
+         <item>Ліпень</item>
+         <item>Аўгуст</item>
+         <item>Верасень</item>
+         <item>Кастрычнік</item>
+         <item>Лістапад</item>
+         <item>Снежань</item>
+    </string-array>
 </resources>

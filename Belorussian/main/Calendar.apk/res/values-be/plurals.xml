@@ -253,10 +253,8 @@
         <item quantity="many">+%d</item>
     </plurals>
     <plurals name="n_attendees">
-        <item quantity="other">%1$d个邀请对象</item>
-        <item quantity="one">1个邀请对象</item>
-        <item quantity="few">%1$d个邀请对象</item>
-        <item quantity="many">%1$d个邀请对象</item>
+    <item quantity="other">%1$d запрашэнняў</item>
+    <item quantity="one">1 запрашэнне</item>
     </plurals>
     <plurals name="notes_custom_repeat_days">
         <item quantity="other">дзён</item>
@@ -371,5 +369,57 @@
         <item quantity="one">%d працоўны дзень</item>
         <item quantity="few">%d працоўных дні</item>
         <item quantity="many">%d працоўных дзён</item>
+    </plurals>
+    <plurals name="other_num_events">
+        <item quantity="other">Яшчэ %d падзей</item>
+        <item quantity="one">Яшчэ %d падзея</item>
+        <item quantity="few">Яшчэ %d падзеі</item>
+    </plurals>
+    <plurals name="today_has_num_event">
+        <item quantity="other">%d падзей сёння</item>
+        <item quantity="one">%d падзея сёння</item>
+        <item quantity="few">%d падзеі сёння</item>
+    </plurals>
+    <plurals name="widget_countdown_day">
+        <item quantity="other">%1$s дзён</item>
+        <item quantity="one">%1$s дзень</item>
+        <item quantity="few">%1$s днi</item>
+    </plurals>
+    <plurals name="widget_normal_agenda_going_counts">
+        <item quantity="other">%d бягучых падзей</item>
+        <item quantity="one">%d бягучая падзея</item>
+        <item quantity="few">%d бягучых падзеі</item>
+    </plurals>
+    <plurals name="widget_normal_agenda_next_minutes">
+        <item quantity="other">Наступная падзея праз %d хв.</item>
+        <item quantity="one">Наступная падзея праз %d хв.</item>
+    </plurals>
+    <plurals name="widget_normal_agenda_tomorrow_total">
+        <item quantity="other">%d падзей заўтра</item>
+        <item quantity="one">%d падзея заўтра</item>
+        <item quantity="few">%d падзеі заўтра</item>
+    </plurals>
+    <plurals name="widget_weekN">
+        <item quantity="other">%d тыдзень</item>
+        <item quantity="one">%d тыдзень</item>
+    </plurals>
+    <plurals name="widget_custom_unit_day">
+        <item quantity="other">%d дзён</item>
+        <item quantity="one">%d дзень</item>
+        <item quantity="ауц">%d днi</item>
+    </plurals>
+    <plurals name="Ndays_after">
+        <item quantity="other">Праз %1$d дзён</item>
+        <item quantity="one">Праз %1$d дзень</item>
+        <item quantity="few">Праз %1$d днi</item>
+    </plurals>
+    <plurals name="Ndays_ago">
+        <item quantity="other">За %1$d дзён</item>
+        <item quantity="one">За %1$d дзень</item>
+        <item quantity="few">За %1$d днi</item>
+    </plurals>
+    <plurals name="after_num_minutes">
+        <item quantity="other">Праз %d хв.</item>
+        <item quantity="one">Праз %d хв.</item>
     </plurals>
 </resources>

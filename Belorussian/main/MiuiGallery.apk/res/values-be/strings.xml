@@ -681,7 +681,6 @@
   <string name="face_name_edit">Змяніць</string>
   <string name="face_name_input">Увядзіце імя</string>
   <string name="face_recommend">Парады</string>
-  <string name="face_recommend_group_number">%1$d/%2$d</string>
   <string name="fail_hint">Не атрымалася завяршыць аперацыю</string>
   <string name="fail_to_pick_email">Няправільны Email</string>
   <string name="fail_to_sync_album">Не атрымалася сінхранізаваць альбом. Праверце параметры сеткі.</string>
@@ -694,7 +693,6 @@
   <string name="file_cannot_print">Нельга надрукаваць гэты элемент.</string>
   <string name="file_cannot_screen_throw">Нельга трансляваць гэты элемент.</string>
   <string name="file_sending">Перадача файлаў…</string>
-  <string name="fileSizeSuffix">%1$s%2$s</string>
   <string name="filter_category_classic">Класічны</string>
   <string name="filter_category_general">Агульныя</string>
   <string name="filter_category_master">Галоўны</string>
@@ -886,7 +884,6 @@
   <string name="gif_tip">GIF</string>
   <string name="gigabyteShort">Гб</string>
   <string name="grant_permission_go_and_set">Усталяваць</string>
-  <string name="grant_permission_item">%s</string>
   <string name="grant_permission_text">Для звычайнай працы Галерэі патрэбны доступ да \n%s\n, націсніце \"Наладзіць\", каб перайсці да дазволаў.</string>
   <string name="grant_permission_title">Дазволіць доступ</string>
   <string name="grant_permission_unlock_and_set">Разблакаваць</string>
@@ -1290,7 +1287,6 @@
   <string name="people_mark_mode_title_no_mark_name">Выберыце чалавека</string>
   <string name="people_page_label">Людзі</string>
   <string name="people_page_unname">Без імені</string>
-  <string name="percent_sign">%</string>
   <string name="permission_contacts_desc">Для прысваення кантактаў людзям на фотаздымках</string>
   <string name="permission_contacts_name">Кантакты</string>
   <string name="permission_optional_category">Неабавязковыя дазволы</string>

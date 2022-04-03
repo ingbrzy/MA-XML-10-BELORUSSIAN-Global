@@ -17,12 +17,4 @@
     <item>Не можаце заблакаваць мабільнаю прыладу?</item>
     <item>Сумяшчальнасць</item>
   </string-array>
-    <array name="buffer_size_values">
-        <item>@null</item>
-        <item>64 Кб</item>
-        <item>128 Кб</item>
-        <item>256 Кб</item>
-        <item>512 Кб</item>
-        <item>1 Мб</item>
-    </array>
 </resources>

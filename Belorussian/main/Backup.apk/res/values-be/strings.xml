@@ -158,7 +158,6 @@
   <string name="dialog_backup_password_change_machine_tips">Вы не зможаце перадаваць рэзервовыя копіі, абароненыя паролем. Перад выкарыстаннем Mi Трансфер адключыце абарону рэзервовых копій.</string>
   <string name="dialog_backup_password_restore_tips">Нельга аднавіць аб\'екты пры ўключанам паролі рэзервовых копій. Спачатку адключыце гэты пароль.</string>
   <string name="dialog_backup_password_to_settings">Налады</string>
-  <string name="digit_percent">%</string>
   <string name="disable_encrypt_description">Не шыфраваць</string>
   <string name="disable_encrypt_title">Адключыць шыфраванне</string>
   <string name="enable_encrypt">Уключыць шыфраванне</string>
@@ -713,11 +712,8 @@
   <string name="wait_link">Адчыніце Mi Трансфер на старой прыладзе,\n націсніце «Я адпраўнік» і абярыце хот-спот для падлучэння.\nНе зачыняйце старонку да ўстаноўкі падключэння.</string>
   <string name="waiting">Хвілінку…</string>
   <string name="wifi_title">Налады Wi-Fi</string>
-  <string name="xiaomi_bytes_unit">%1$s Б</string>
   <string name="xiaomi_connect_download_manager_fail">Не атрымалася пачаць спампоўку. Пераканайцеся, што дыспетчар спамповак працуе нармальна.</string>
   <string name="xiaomi_external_storage_unavailable">Сховішча недаступна, праверце SD-карту.</string>
-  <string name="xiaomi_kilobytes_unit">%1$s Кб</string>
-  <string name="xiaomi_megabytes_unit">%1$s Мб</string>
   <string name="xiaomi_router">Mi Роўтар</string>
   <string name="xiaomi_router_location">Mi Роўтар %s</string>
   <string name="xiaomi_update_dialog_message">Даступная версія %1$s\nПамер: %2$s</string>

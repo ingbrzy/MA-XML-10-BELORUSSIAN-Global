@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="account_add_title">Выберыце паштовы сэрвіс</string>
-  <string name="account_cache_provider">Сховішча кэшу акаўнта</string>
   <string name="account_duplicate_dlg_message_fmt">Вы ўжо выкарыстоўваеце гэтае імя для акаўнта \"%s\".</string>
   <string name="account_duplicate_dlg_title">Дублікат акаўнта</string>
   <string name="account_failure">Час сеанса скончыўся</string>
@@ -242,7 +241,6 @@
   <string name="battery_saver">Энергазберажэнне</string>
   <string name="battery_saver_keywords">энергазберажэнне;батарэя пошты</string>
   <string name="bcc">Утоеная копія</string>
-  <string name="bcc_heading">"Утоеная копія: "</string>
   <string name="bill_center_setting">Налады рахункаў</string>
   <string name="bill_center_setting_head">Імпарт інфармацыі з гэтых акаўнтаў</string>
   <string name="bill_cycle_text">Плацёжны цыкл</string>
@@ -263,7 +261,6 @@
   <string name="cancel_pop3_attchemt_downloading">Не ўдаецца адмяніць бягучыя загрузкі для прымацаванняў у акаўнтах POP3</string>
   <string name="cant_move_or_change_labels">Немагчыма перамясціць аб\'екты з некалькіх акаўнтаў.</string>
   <string name="cc">Копія</string>
-  <string name="cc_attribution">Копія: %1$s</string>
   <string name="cc_bcc">Копія/Утоеная копія</string>
   <string name="cc_heading">"Копія: "</string>
   <string name="certificate_add_failed">Не атрымалася дадаць сертыфікат \"%s\"</string>
@@ -292,7 +289,6 @@
   <string name="click_download_all_content">[ Націсніце, каб спампаваць ]</string>
   <string name="click_to_reload">Даткніцеся экрана, каб абнавіць</string>
   <string name="collapse_recipient_details">Схаваць звесткі аб атрымальніку</string>
-  <string name="colon">:</string>
   <string name="compose">Стварыць</string>
   <string name="compose_attachment_number_limit">Немагчыма дадаць больш за 10 прымацаванняў</string>
   <string name="compose_event">Запрашэнне</string>
@@ -359,7 +355,6 @@
   <string name="conversation_cert_info_tips">Гэты email быў падпісаны правераным сертыфікатам</string>
   <string name="conversation_cert_info_title">Падпісаны</string>
   <string name="conversation_cert_trust">Давяраць</string>
-  <string name="conversation_content_provider">Сховішча дыялогаў</string>
   <string name="conversation_detail_hide">Схаваць</string>
   <string name="conversation_detail_show">Падрабязнасці</string>
   <string name="conversation_folder_moved">Перамешчана ў тэчку %1$s</string>
@@ -1004,7 +999,6 @@
   <string name="remind_attachment_size_limit">Вашыя лісты павінны быць меншымі за %s МБ</string>
   <string name="reminder">Нагадванне</string>
   <string name="reminder_picker_title">Нагадванне</string>
-  <string name="remote_no_mail">На сэрвэры больш няма лістоў.</string>
   <string name="remote_search_body_too_large_prompt">Гэты ліст занадта доўгі.\nДачакайцеся поўнай сінхранізацыі або праглядзіце паведамленне на сваім кампутары.</string>
   <string name="remove_account">Выдаліць акаўнт</string>
   <string name="remove_folder">Выдаліць з тэчкі %1$s</string>
@@ -1097,14 +1091,12 @@
   <string name="signature">\n\n\n\n%s</string>
   <string name="silent_ringtone">Без гуку</string>
   <string name="single_new_message_notification_big_text">%1$s\n%2$s</string>
-  <string name="single_new_message_notification_title">%1$s: %2$s</string>
   <string name="sms_tip">Памылка аўтарызацыі. Пераканайцеся, што староннія праграмы не перахопліваюць SMS.</string>
   <string name="SMTP_independent_verification_text">Незалежная праверка SMTP</string>
   <string name="smtp_password_error">Няправільны пароль для сервера выходнай пошты</string>
   <string name="SMTP_password_text">Пароль</string>
   <string name="SMTP_username_text">Імя карыстальніка</string>
   <string name="sort_attachment">Сартаваць па</string>
-  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="storage">Сховішча</string>
   <string name="str_select_all">Выбраць усё</string>
   <string name="str_select_none">Зняць выбар з усіх</string>

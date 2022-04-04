@@ -1026,15 +1026,12 @@
   <string name="wife">Жонка</string>
   <string name="withdraw_network_error">Ваша прылада павінна падключыцца да сеткі, каб вы змаглі адклікаць згоду. Праверце налады сеткі і паспрабуйце яшчэ раз.</string>
   <string name="word_figure_guide_text">Націсніце і ўтрымлівайце для змены рэгістра.</string>
-  <string name="xiaomi_bytes_unit">%1$s Б</string>
   <string name="xiaomi_calculator_delete_description">«Калькулятар» — гэта сістэмная праграма. Вы не зможаце выкарыстоўваць мноства канвертараў і дадатковых функцый пасля выдалення гэтай праграмы.</string>
   <string name="xiaomi_calculator_delete_title">Выдаліць «Калькулятар»?</string>
   <string name="xiaomi_calculator_remove_icon_description">«Калькулятар» - гэта сістэмная праграма. Вы не зможаце выкарыстоўваць мноства канвертараў і дадатковых функцый пасля выдалення цэтлiк з працоўнага стала.</string>
   <string name="xiaomi_calculator_remove_icon_title">Выдаліць «Калькулятар» з працоўнага стала?</string>
   <string name="xiaomi_connect_download_manager_fail">Не атрымалася падлучыцца да Запамповак. Пераканайцеся ў тым, што праграма мае ўсе неабходныя дазволы ў «Налады &gt; Усталяваныя праграмы».</string>
   <string name="xiaomi_external_storage_unavailable">Памяць недаступная. Праверце SD-карту.</string>
-  <string name="xiaomi_kilobytes_unit">%1$s Кб</string>
-  <string name="xiaomi_megabytes_unit">%1$s Мб</string>
   <string name="xiaomi_update_dialog_message">Даступная версія %1$s\nПамер: %2$s</string>
   <string name="xiaomi_update_dialog_message_diff">Даступная версія %1$s\nПамер дэльта-абнаўлення: %2$s</string>
   <string name="xiaomi_update_dialog_title">%1$s абнаўленне!</string>

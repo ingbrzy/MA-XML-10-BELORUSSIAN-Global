@@ -1173,7 +1173,6 @@
   <string name="call_recording_notification_title">Апавяшчэнне аб запісаных выкліках</string>
   <string name="call_recording_notification_title_error">Не атрымалася запісаць выклік</string>
   <string name="call_recording_setting">Запісы выклікаў</string>
-  <string name="cancel">Адмена</string>
   <string name="confirm">OK</string>
   <string name="confirming_pay_result">Пацвярджэнне плацяжу ...</string>
   <string name="cta_content_seg1"><Data>"&lt;strong>Важная заўвага
@@ -1299,7 +1298,6 @@
   <string name="permission_retry_dialog_msg">Каб мець магчымасць выкарыстоўваць сваю SIM-карту з гэтай праграмай, здзяйсняць выклікі з дапамогай цэтлікаў на працоўным стале, кіраваць сваімі кантактамі і падтрымліваць гісторыю выклікаў у актуальным стане, дазвольце гэтай праграме доступ і рэдагаванне вашых кантактаў і гісторыі выклікаў, здзяйсненне выклікаў і доступ да інфармацыі аб прыладзе.</string>
   <string name="permission_retry_setting">Налады</string>
   <string name="permission_retry_dialog_msg_pad">Каб мець магчымасць выкарыстоўваць SIM-карту з гэтай праграмай і кіраваць сваімі кантактамі, дазволіце гэтай праграме доступ і рэдагаванне вашых кантактаў, а таксама доступ да інфармацыі пра прыладу.</string>
-  <string name="permission_retry_setting">Налады</string>
   <string name="preference_privacy_settings">Прыватнасць</string>
   <string name="preference_privacy_settings_title">Прыватнасць</string>
   <string name="privacy_settings_call_phone">Здзяйсняць выклікі</string>

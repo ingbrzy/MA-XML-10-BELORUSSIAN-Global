@@ -32,15 +32,40 @@
         <item>Асаблівы</item>
     </string-array>
     <string-array name="postalAddressTypes">
-        <item>На Галоўную старонку</item>
+        <item>Хатні</item>
         <item>Працоўны</item>
         <item>Іншы</item>
         <item>Карыстальніцкі</item>
     </string-array>
-    <array name="face_acquired_vendor" />
-    <array name="face_error_vendor" />
-    <array name="fingerprint_acquired_vendor" />
-    <array name="fingerprint_error_vendor" />
+    <string-array name="fingerprint_acquired_vendor">
+    <item>Паспрабуйце яшчэ раз</item>
+    <item>" "</item>
+    <item>" "</item>
+    <item>Цалкам накрыйце сканер адбітка і прыцісніце палец</item>
+    <item>" "</item>
+    <item>Цалкам накрыйце сканер адбітка і прыцісніце палец</item>
+    <item>Цалкам накрыйце сканер адбітка і прыцісніце палец</item>
+    <item>" "</item>
+    <item>" "</item>
+    <item>" "</item>
+    <item>" "</item>
+    <item>Цалкам накрыйце сканер адбітка і прыцісніце палец</item>
+    <item>Цалкам накрыйце сканер адбітка і прыцісніце палец</item>
+    <item>Занадта хутка! Не атрымалася распазнаць адбітак</item>
+    <item>Трохі перамесціце свой палец і паспрабуйце ізноў</item>
+    <item>Падніміце палец і зноў вярніце яго на сканер</item>
+    <item>Трымайце палец на сканары трохі даўжэй</item>
+    <item>" "</item>
+    <item>" "</item>
+    <item>" "</item>
+    <item>" "</item>
+    <item>" "</item>
+    <item>" "</item>
+    <item>" "</item>
+    <item>" "</item>
+    <item>Трохі паварушыце пальцам</item>
+    <item>Гэты адбітак быў дададзены, выкарыстоўвайце іншы палец</item>
+   </string-array>
     <string-array name="imAddressTypes">
         <item>Хатні</item>
         <item>Працоўны</item>
@@ -48,7 +73,7 @@
         <item>Карыстальніцкі</item>
     </string-array>
     <string-array name="network_switch_type_name">
-        <item>мабільная перадача даных</item>
+        <item>Мабільная перадача дадзеных</item>
         <item>Wi-Fi</item>
         <item>Bluetooth</item>
         <item>Ethernet</item>

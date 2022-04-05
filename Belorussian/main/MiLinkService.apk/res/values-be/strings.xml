@@ -663,12 +663,11 @@
   <string name="miplay_mini_card_no_song_pad_title">Музыка на планшэце</string>
   <string name="miplay_mini_card_no_song_subtitle">Няма трэкаў</string>
   <string name="miplay_mini_card_no_song_title">Музыка</string>
-  <string name="miplay_service_timeout_toast">Скончыўся час чакання падключэння. Паспрабуйце яшчэ раз.</string>
   <string name="miplay_song_title_empty">Няма песень</string>
   <string name="no_permission">Часова няма дазволаў для тэсціравання</string>
   <string name="test_package_upgrade">Неабходна абнаўленне тэставага пакета</string>
   <string name="upgrade_now">Абнавіць</string>
-  <string name="upgrade_test_package">Тэставы пакет не быў абноўлены.\nКалі ласка, абновіце ўнутраны тэставы пакет.</string>
+  <string name="upgrade_test_package">Тэставы пакет не быў абноўлены.\nКалі ласка, абнавіце тэставы пакет.</string>
   <string name="debug_mode_idm_version">Версія IDM</string>
   <string name="debug_mode_list_desc">Па змаўчанні адлюстроўваць толькі імя прылады</string>
   <string name="debug_mode_list_title">Спіс прылад адлюстроўвае падрабязныя дадзеныя</string>
@@ -686,8 +685,8 @@
   <string name="debug_mode_system">Уласцівасці сістэмы</string>
   <string name="debug_mode_title">Рэжым адладкі</string>
   <string name="debug_mode_vendor">Тып чыпа</string>
-  <string name="debug_mode_wait_remove_desc">Па змаўчанні падчас сканавання з\'яўляецца ўсплывальнае акно, якое доўжыцца не менш за 1 сек.</string>
-  <string name="debug_mode_wait_remove_title">Выдаліць ўсплывальнае акно сканавання прылад</string>
+  <string name="debug_mode_wait_remove_desc">Па змаўчанні падчас сканавання з\'яўляецца ўсплывальнае вакно, якое доўжыцца не менш за 1 сек.</string>
+  <string name="debug_mode_wait_remove_title">Выдаліць ўсплывальнае вакно сканавання прылад</string>
   <string name="guide_confirm_button_text">Пачаць</string>
   <string name="guide_exit_button_content_description">Выхад</string>
   <string name="guide_next_button_text">Больш падрабязна</string>
@@ -696,7 +695,7 @@
   <string name="character_counter_content_description">Перавышаны ліміт сімвалаў: %1$d з %2$d</string>
   <string name="circulate_card_mirror_help"><u>Больш падрабязна аб падтрымцы прылад</u></string>
   <string name="circulate_card_mirror_pad_subtitle">Перацягнеце карту \"Планшэт\" на тэлевізар,\nлёгка адлюстраваць вялікі экран</string>
-  <string name="circulate_cta_desc_pad">Сардэчна запрашаем у цэнтр трансляцыі. Вы можаце выкарыстоўваць гэту праграму для кіравання трансляцыяй, а таксама для перадачы аўдыё-і відэакантэнту на іншыя прылады. У працэсе выкарыстання гэтага прыкладання мы падключымся да Інтэрнэту і запытаем у вас наступныя дазволы:</string>
+  <string name="circulate_cta_desc_pad">Сардэчна запрашаем у цэнтр трансляцыі. Вы можаце выкарыстоўваць гэту праграму для кіравання трансляцыяй, а таксама для перадачы аўдыё- і відэакантэнту на іншыя прылады. У працэсе выкарыстання гэтага прыкладання мы падключымся да Інтэрнэту і запытаем у вас наступныя дазволы:</string>
   <string name="circulate_cta_desc_phone">Сардэчна запрашаем у цэнтр трансляцыі. Вы можаце выкарыстоўваць гэту праграму для кіравання трансляцыяй, функцыямі MIUI+ і рэтрансляцыі відэа і кантэнту праграм на іншыя прылады. У працэсе выкарыстання гэтага прыкладання мы падключымся да Інтэрнэту і запытаем у вас наступныя дазволы:</string>
   <string name="circulate_cta_premission_wlan_subtitle_global">Выкарыстоўваць Wi-Fi для сканавання прылад і струменевай перадачы кантэнту</string>
   <string name="circulate_cta_premission_wlan_subtitle_miui_plus_global">Выкарыстоўваць Wi-Fi для струменевай перадачы кантэнту</string>

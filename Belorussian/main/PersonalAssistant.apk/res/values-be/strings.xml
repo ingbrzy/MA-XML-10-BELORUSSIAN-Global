@@ -795,7 +795,6 @@
   <string name="pa_ski_foreground_service_noitification_name">Доступ да месцазнаходжання</string>
   <string name="pa_ski_foreground_service_title">Стужка віджэтаў спрабуе атрымаць доступ да вашага месцазнаходжання</string>
   <string name="pa_picker_toast_count_limit_forbidden_for_type">Немагчыма дадаць дадатковыя віджэты гэтага тыпу</string>
-  <string name="pa_recommend_add_btn">Пачаць</string>
   <string name="pa_stock_change_cp_code_alert">Гэтая аперацыя можа прывесці да няправільнага адлюстравання дадзеных</string>
   <string name="pa_stock_change_cp_code_error">Немагчыма пераключыць крыніцу дадзеных</string>
   <string name="pa_stock_change_cp_code_progress_msg">Сінхранізацыя дадзеных…</string>

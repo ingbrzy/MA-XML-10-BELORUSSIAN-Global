@@ -7,18 +7,6 @@
         <item>Высокая</item>
         <item>Найвышэйшая</item>
     </string-array>
-    <string-array name="gb_gpu_custom_anisotropic">
-        <item>1X</item>
-        <item>2X</item>
-        <item>4X</item>
-        <item>8X</item>
-        <item>16X</item>
-    </string-array>
-    <string-array name="gb_gpu_custom_anti">
-        <item>1X</item>
-        <item>2X</item>
-        <item>4X</item>
-    </string-array>
     <string-array name="gb_gpu_custom_texture">
         <item>Высокая хуткасць</item>
         <item>Збалансавана</item>

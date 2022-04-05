@@ -16,20 +16,15 @@
         <item>MP3</item>
         <item>WAV</item>
     </string-array>
-    <string-array name="record_locale_language">
-        <item>fa</item>
-        <item>ar</item>
-        <item>bn</item>
-    </string-array>
     <string-array name="record_quality_entries">
         <item>Высокая</item>
         <item>Стандартная</item>
         <item>Нізкая</item>
     </string-array>
     <string-array name="record_quality_summaries">
-        <item>MP3, ~192kbit/s, ~90MB/h</item>
-        <item>MP3, ~100kbit/s, ~45MB/h</item>
-        <item>MP3, ~75kbit/s, ~32MB/h</item>
+        <item>MP3, 192 Кбит/с, 90 Мб/г</item>
+        <item>MP3, 100 Кбит/с, 45 Мб/г</item>
+        <item>MP3, 75 Кбит/с, 32 Мб/г</item>
     </string-array>
     <string-array name="record_scenes_entries">
         <item>Музыка</item>

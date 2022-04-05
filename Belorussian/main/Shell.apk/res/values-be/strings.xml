@@ -13,7 +13,7 @@
     <string name="bugreport_info_dialog_title">Падрабязныя звесткі аб справаздачы #%d пра памылку</string>
     <string name="bugreport_info_name">Назва файла</string>
     <string name="bugreport_info_title">Назва справаздачы пра памылкі</string>
-    <string name="bugreport_intent_chooser_title">Абагул. справазд. пра памылку</string>
+    <string name="bugreport_intent_chooser_title">Абагулiць справаздачу пра памылку</string>
     <string name="bugreport_notification_channel">Справаздачы пра памылкі</string>
     <string name="bugreport_screenshot_action">Здымак экрана</string>
     <string name="bugreport_screenshot_failed">Немагчыма зрабіць здымак экрана.</string>
@@ -24,5 +24,4 @@
     <string name="bugreport_updating_title">Дадаванне падрабязнасцей да справаздачы пра памылкі</string>
     <string name="bugreport_updating_wait">Калі ласка, пачакайце...</string>
     <string name="save">Захаваць</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
 </resources>

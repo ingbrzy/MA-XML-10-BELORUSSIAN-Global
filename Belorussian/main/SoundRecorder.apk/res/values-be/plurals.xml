@@ -55,7 +55,7 @@
         <item quantity="many">%d хв таму</item>
     </plurals>
     <plurals name="btn_clear_records">
-        <item quantity="other">Выдаліць %d запісу</item>
+        <item quantity="other">Выдаліць %d запісаў</item>
         <item quantity="one">Выдаліць %d запіс</item>
         <item quantity="few">Выдаліць %d запісы</item>
         <item quantity="many">Выдаліць %d запісаў</item>
@@ -126,12 +126,6 @@
         <item quantity="few">"%d аб'екты выдзелены"</item>
         <item quantity="many">"%d аб'ектаў выдзелена"</item>
     </plurals>
-    <plurals name="mtrl_badge_content_description">
-        <item quantity="other">%d новага апавяшчэння</item>
-        <item quantity="one">%d новае апавяшчэнне</item>
-        <item quantity="few">%d новыя апавяшчэнні</item>
-        <item quantity="many">%d новых апавяшчэнняў</item>
-    </plurals>
     <plurals name="notification_warning">
         <item quantity="other">Мала памяці (менш за %d хвіліны)</item>
         <item quantity="one">Мала памяці (менш за %d хвіліну)</item>
@@ -145,7 +139,7 @@
         <item quantity="many">%d хвілін таму</item>
     </plurals>
     <plurals name="record_downloading_complete_count">
-        <item quantity="other">%d запісу спампавана</item>
+        <item quantity="other">%d запісаў спампавана</item>
         <item quantity="one">%d запіс спампаваны</item>
         <item quantity="few">%d запісы спампавана</item>
         <item quantity="many">%d запісаў спампавана</item>
@@ -157,46 +151,28 @@
         <item quantity="many">"Не атрымалася аднавіць %d аб'ектаў з-за невядомай памылкі."</item>
     </plurals>
     <plurals name="search_alll_records_hint">
-        <item quantity="other">%d запіса</item>
+        <item quantity="other">%d запісаў</item>
         <item quantity="one">%d запіс</item>
-        <item quantity="few">%d запіса</item>
+        <item quantity="few">%d запісы</item>
         <item quantity="many">%d запісаў</item>
     </plurals>
     <plurals name="search_app_records_hint">
-        <item quantity="other">%d запіса</item>
+        <item quantity="other">%d запісаў</item>
         <item quantity="one">%d запіс</item>
-        <item quantity="few">%d запіса</item>
+        <item quantity="few">%d запісы</item>
         <item quantity="many">%d запісаў</item>
     </plurals>
     <plurals name="search_call_records_hint">
-        <item quantity="other">%d запіса выклікаў</item>
+        <item quantity="other">%d запісаў выкліку</item>
         <item quantity="one">%d запіс выкліку</item>
-        <item quantity="few">%d запіса выклікаў</item>
-        <item quantity="many">%d запісаў выклікаў</item>
-    </plurals>
-    <plurals name="search_fm_records_hint">
-        <item quantity="other">%d запіса радыё</item>
-        <item quantity="one">%d запіс радыё</item>
-        <item quantity="few">%d запіса радыё</item>
-        <item quantity="many">%d запісаў радыё</item>
-    </plurals>
-    <plurals name="search_recorder_records_hint">
-        <item quantity="other">%d аўдыёзапіса</item>
-        <item quantity="one">%d аўдыёзапіс</item>
-        <item quantity="few">%d аўдыёзапіса</item>
-        <item quantity="many">%d аўдыёзапісаў</item>
+        <item quantity="few">%d запісы выкліку</item>
+        <item quantity="many">%d запісаў выкліку</item>
     </plurals>
     <plurals name="search_result">
-        <item quantity="other">Знойдзена %d запісу</item>
+        <item quantity="other">Знойдзена %d запісаў</item>
         <item quantity="one">Знойдзен %d запіс</item>
         <item quantity="few">Знойдзеныя %d запісы</item>
         <item quantity="many">Знойдзеныя %d запісаў</item>
-    </plurals>
-    <plurals name="text_btn_list_with_message">
-        <item quantity="other">%d новых запісаў</item>
-        <item quantity="one">%d новы запіс</item>
-        <item quantity="few">%d новых запісу</item>
-        <item quantity="many">%d новых запісаў</item>
     </plurals>
     <plurals name="time_left_for_clear_file">
         <item quantity="other">засталося %d дзён</item>
@@ -207,7 +183,7 @@
     <plurals name="trash_box_delete_items">
         <item quantity="other">Выдаліць %d выбраных запісаў назаўсёды?</item>
         <item quantity="one">Выдаліць %d выбраны запіс назаўсёды?</item>
-        <item quantity="few">Выдаліць %d выбраных запісу назаўсёды?</item>
+        <item quantity="few">Выдаліць %d выбраных запісы назаўсёды?</item>
         <item quantity="many">Выдаліць %d выбраных запісаў назаўсёды?</item>
     </plurals>
     <plurals name="trash_box_tip">
@@ -217,9 +193,30 @@
         <item quantity="many">"Выдаленыя аб'екты могуць захоўвацца ў сметніцы %d дзён"</item>
     </plurals>
     <plurals name="unsynced_records_count">
-        <item quantity="other">%d запісу не сінхранізавана</item>
+        <item quantity="other">%d запісаў не сінхранізавана</item>
         <item quantity="one">%d запіс не сінхранізаваны</item>
         <item quantity="few">%d запісы не сінхранізавана</item>
         <item quantity="many">%d запісаў не сінхранізавана</item>
     </plurals>
+	<plurals name="search_fm_records_hint">
+    <item quantity="other">%d радыёзапісаў</item>
+    <item quantity="one">%d радыёзапіс</item>
+    <item quantity="few">%d радыёзапісы</item>
+  </plurals>
+  <plurals name="search_recorder_records_hint">
+    <item quantity="other">%d аўдыёзапісаў</item>
+    <item quantity="one">%d аўдыёзапіс</item>
+    <item quantity="few">%d аўдыёзапісы</item>
+  </plurals>
+  <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d новага апавяшчэння</item>
+        <item quantity="one">%d новае апавяшчэнне</item>
+        <item quantity="few">%d новыя апавяшчэнні</item>
+        <item quantity="many">%d новых апавяшчэнняў</item>
+    </plurals>
+    <plurals name="text_btn_list_with_message">
+    <item quantity="other">%d новых запісаў</item>
+    <item quantity="one">%d новы запіс</item>
+    <item quantity="few">%d новых запісы</item>
+  </plurals>
 </resources>

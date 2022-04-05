@@ -4,10 +4,6 @@
         <item>4х4</item>
         <item>4x5</item>
     </string-array>
-    <string-array name="cell_layout_size_values">
-        <item>4x4</item>
-        <item>4x5</item>
-    </string-array>
     <string-array name="editing_mode_entries">
         <item>Шпалеры</item>
         <item>Віджэты</item>
@@ -55,8 +51,34 @@
     </string-array>
     <string-array name="wallpaper_scroll_entries">
         <item>Тэма па змаўчанні</item>
-        <item>Па цэнтры</item>
+        <item>Па цэнтру</item>
         <item>Злева</item>
         <item>Справа</item>
+    </string-array>
+     <string-array name="widget_component_default_source">
+          <item>Па змаўчанні</item>
+          <item>Працоўны стол</item>
+          <item>Стужка вiджэтаў</item>
+      </string-array>
+      <string-array name="widget_component_delete_way">
+          <item>Выдаленне цэтліка</item>
+          <item>Перацягнуць</item>
+          <item>Выдаліць</item>
+      </string-array>
+      <string-array name="widget_package_install_status">
+          <item>Ня усталяваны</item>
+          <item>Усталяваны</item>
+          <item>Абнаўленне</item>
+      </string-array>
+      <string-array name="widget_drag_type_name">
+         <item>На працоўны стол</item>
+         <item>У cтужкe вiджэтаў</item>
+         <item>З працоўнага стала ў стужку</item>
+         <item>З стужкi на працоўны стол</item>
+    </string-array>
+         <string-array name="widget_host_module_name">
+         <item>Працоўны стол</item>
+         <item>Цэнтр віджэтаў</item>
+         <item>Стужка вiджэтаў</item>
     </string-array>
 </resources>

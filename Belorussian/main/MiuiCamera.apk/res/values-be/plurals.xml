@@ -6,88 +6,67 @@
         <item quantity="few">Сфакусавана. Выяўлена %d асобы</item>
         <item quantity="many">Сфакусавана. Выяўлена %d асобаў</item>
     </plurals>
-    <plurals name="accessibility_timer_burst_count">
-        <item quantity="other">%d фота ў серыйнай здымцы</item>
-        <item quantity="one">%d фота ў серыйнай здымцы</item>
-        <item quantity="few">%d фота ў серыйнай здымцы</item>
-        <item quantity="many">%d фота ў серыйнай здымцы</item>
-    </plurals>
-    <plurals name="accessibility_timer_burst_interval">
-        <item quantity="other">Інтэрвал: %d секунд</item>
-        <item quantity="one">Інтэрвал: %d секунда</item>
-        <item quantity="few">Інтэрвал: %d секунды</item>
-        <item quantity="many">Інтэрвал: %d секунд</item>
-    </plurals>
-    <plurals name="accessibility_vv_duartion">
-        <item quantity="other">Працягласць: %d секунд</item>
-        <item quantity="one">Працягласць: %d секунда</item>
-        <item quantity="few">Працягласць: %d секунды</item>
-        <item quantity="many">Працягласць: %d секунд</item>
-    </plurals>
-    <plurals name="clone_guide_tip2">
-        <item quantity="other">Вы можаце стварыць не больш %d клонаў за раз.</item>
-        <item quantity="one">Вы можаце стварыць не больш %d клона за раз.</item>
-        <item quantity="few">Вы можаце стварыць не больш %d клонаў за раз.</item>
-        <item quantity="many">Вы можаце стварыць не больш %d клонаў за раз.</item>
-    </plurals>
-    <plurals name="exit_camera_hint">
-        <item quantity="other">&lt;Data>Збой падлучэння да камеры.&lt;br>Гэтая праграма будзе зачынена праз &lt;font color=#FFCE16>&lt;b>%1$d секунды&lt;/b>&lt;/font>. Пасля гэтага пачакайце крыху і паспрабуйце ізноў.&lt;/Data></item>
-        <item quantity="one">&lt;Data>Збой падлучэння да камеры.&lt;br>Гэтая праграма будзе зачынена праз &lt;font color=#FFCE16>&lt;b>%1$d секунду&lt;/b>&lt;/font>. Пасля гэтага пачакайце крыху і паспрабуйце ізноў.&lt;/Data></item>
-        <item quantity="few">&lt;Data>Збой падлучэння да камеры.&lt;br>Гэтая праграма будзе зачынена праз &lt;font color=#FFCE16>&lt;b>%1$d секунды&lt;/b>&lt;/font>. Пасля гэтага пачакайце крыху і паспрабуйце ізноў.&lt;/Data></item>
-        <item quantity="many">&lt;Data>Збой падлучэння да камеры.&lt;br>Гэтая праграма будзе зачынена праз &lt;font color=#FFCE16>&lt;b>%1$d секунд&lt;/b>&lt;/font>. Пасля гэтага пачакайце крыху і паспрабуйце ізноў.&lt;/Data></item>
-    </plurals>
-    <plurals name="exit_thermal_hint">
-        <item quantity="other">&lt;Data>Перагрэў прылады.&lt;br>Гэтая праграма будзе зачынена праз &lt;font color=#FFCE16>&lt;b>%1$d секунды&lt;/b>&lt;/font>. Бягучы прагрэс быў захаваны аўтаматычна.&lt;/Data></item>
-        <item quantity="one">&lt;Data>Перагрэў прылады.&lt;br>Гэтая праграма будзе зачынена праз &lt;font color=#FFCE16>&lt;b>%1$d секунду&lt;/b>&lt;/font>. Бягучы прагрэс быў захаваны аўтаматычна.&lt;/Data></item>
-        <item quantity="few">&lt;Data>Перагрэў прылады.&lt;br>Гэтая праграма будзе зачынена праз &lt;font color=#FFCE16>&lt;b>%1$d секунды&lt;/b>&lt;/font>. Бягучы прагрэс быў захаваны аўтаматычна.&lt;/Data></item>
-        <item quantity="many">&lt;Data>Перагрэў прылады.&lt;br>Гэтая праграма будзе зачынена праз &lt;font color=#FFCE16>&lt;b>%1$d секунд&lt;/b>&lt;/font>. Бягучы прагрэс быў захаваны аўтаматычна.&lt;/Data></item>
-    </plurals>
-    <plurals name="fastmotion_pro_min_unit">
-        <item quantity="other">%1$d хв.</item>
-        <item quantity="one">%1$d хв.</item>
-        <item quantity="few">%1$d хв.</item>
-        <item quantity="many">%1$d хв.</item>
-    </plurals>
-    <plurals name="fastmotion_pro_sec_unit">
-        <item quantity="other">%1$d сек.</item>
-        <item quantity="one">%1$d сек.</item>
-        <item quantity="few">%1$d сек.</item>
-        <item quantity="many">%1$d сек.</item>
-    </plurals>
-    <plurals name="live_workspace_delete_dialog_title">
-        <item quantity="other">Выдаліць %1$d чарнавікоў?</item>
-        <item quantity="one">Выдаліць %1$d чарнавік?</item>
-        <item quantity="few">Выдаліць %1$d чарнавіка?</item>
-        <item quantity="many">Выдаліць %1$d чарнавікоў?</item>
-    </plurals>
-    <plurals name="pref_camera_fastmotion_duration_unit">
-        <item quantity="other">%1$s хв.</item>
-        <item quantity="one">%1$s хв.</item>
-        <item quantity="few">%1$s хв.</item>
-        <item quantity="many">%1$s хв.</item>
-    </plurals>
-    <plurals name="pref_live_duration_prompt">
-        <item quantity="other">Запішыце %d секунд</item>
-        <item quantity="one">Запішыце %d секунду</item>
-        <item quantity="few">Запішыце %d секунды</item>
-        <item quantity="many">Запішыце %d секунд</item>
-    </plurals>
-    <plurals name="timefreeze_guide_tip1">
-        <item quantity="other">"Вы можаце здымаць відэа з прыпынкам па часе толькі з %d суб'ектамі."</item>
-        <item quantity="one">"Вы можаце здымаць відэа з прыпынкам па часе толькі з %d суб'ектам."</item>
-        <item quantity="few">"Вы можаце здымаць відэа з прыпынкам па часе толькі з %d суб'ектамі."</item>
-        <item quantity="many">"Вы можаце здымаць відэа з прыпынкам па часе толькі з %d суб'ектамі."</item>
-    </plurals>
-    <plurals name="timer_burst_setting_total_count">
-        <item quantity="other">%1$s фота</item>
-        <item quantity="one">%1$s фота</item>
-        <item quantity="few">%1$s фота</item>
-        <item quantity="many">%1$s фота</item>
-    </plurals>
     <plurals name="toast_burst_snap_finished_summary">
         <item quantity="other">Серыйная здымка скончана, зроблена %1$s фота</item>
         <item quantity="one">Серыйная здымка скончана, зроблена %1$s фота</item>
         <item quantity="few">Серыйная здымка скончана, зроблена %1$s фота</item>
         <item quantity="many">Серыйная здымка скончана, зроблена %1$s фота</item>
     </plurals>
+  <plurals name="clone_guide_tip2">
+    <item quantity="other">Вы можаце стварыць да %d клонаў за адзін раз.</item>
+    <item quantity="one">Вы можаце стварыць да %d клона за адзін раз.</item>
+  </plurals>
+  <plurals name="accessibility_timer_burst_count">
+    <item quantity="other">%d фота ў серыйнай здымцы</item>
+    <item quantity="one">%d фота ў серыйнай здымцы</item>
+  </plurals>
+  <plurals name="accessibility_timer_burst_interval">
+    <item quantity="other">Інтэрвал: %d сек.</item>
+    <item quantity="one">Інтэрвал: %d сек.</item>
+  </plurals>
+  <plurals name="accessibility_vv_duartion">
+    <item quantity="other">Працягласць: %d сек.</item>
+    <item quantity="one">Працягласць: %d сек.</item>
+  </plurals>
+  <plurals name="pref_camera_fastmotion_duration_unit">
+    <item quantity="other">%1$s хв.</item>
+    <item quantity="one">%1$s хв.</item>
+  </plurals>
+  <plurals name="timer_burst_setting_total_count">
+    <item quantity="other">"%1$s фота "</item>
+    <item quantity="one">"%1$s фота "</item>
+  </plurals>
+  <plurals name="fastmotion_pro_min_unit">
+        <item quantity="other">%1$d хв.</item>
+    </plurals>
+    <plurals name="fastmotion_pro_sec_unit">
+        <item quantity="other">%1$d сек.</item>
+    </plurals>
+	<plurals name="live_workspace_delete_dialog_title">
+        <item quantity="other">Выдаліць %1$d чарнавікоў?</item>
+        <item quantity="one">Выдаліць %1$d чарнавік?</item>
+        <item quantity="few">Выдаліць %1$d чарнавіка?</item>
+    </plurals>
+	<plurals name="timefreeze_guide_tip1">
+        <item quantity="one">Вы можаце здымаць відэа з прыпынкам па часе толькі з %d суб\'ектам.</item>
+        <item quantity="few">Вы можаце здымаць відэа з прыпынкам па часе толькі з %d суб\'ектамі.</item>
+        <item quantity="many">Вы можаце здымаць відэа з прыпынкам па часе толькі з %d суб\'ектамі.</item>
+        <item quantity="other">Вы можаце здымаць відэа з прыпынкам па часе толькі з %d суб\'ектамі.</item>
+    </plurals>
+	<plurals name="pref_live_duration_prompt">
+        <item quantity="other">Запіс %d сек.</item>
+        <item quantity="one">Запіс %d сек.</item>
+    </plurals>
+	<plurals name="exit_camera_hint">
+        <item quantity="other">&lt;Data>"Не ўдаецца падклуыцца да камеры.&lt;br>Гэта праграма будзе закрыта праз &lt;font color=#FFCE16>&lt;b>%1$d сек.&lt;/b>&lt;/font> Пасля гэтага пачакайце пару хвілін і паспрабуйце зноў."&lt;/Data></item>
+        <item quantity="one">&lt;Data>"Не ўдаецца падклуыцца да камеры.&lt;br>Гэта праграма будзе закрыта праз &lt;font color=#FFCE16>&lt;b>%1$d сек.&lt;/b>&lt;/font> Пасля гэтага пачакайце пару хвілін і паспрабуйце зноў."&lt;/Data></item>
+    </plurals>
+    <plurals name="exit_thermal_hint">
+        <item quantity="other">&lt;Data>Гэта прылада цяпер занадта гарачая.&lt;br>Праграма будзе закрыта праз &lt;font color=#FFCE16>&lt;b>%1$d сек.&lt;/b>&lt;/font> Бягучы прагрэс быў захаваны аўтаматычна.&lt;/Data></item>
+        <item quantity="one">&lt;Data>Гэта прылада цяпер занадта гарачая.&lt;br>Праграма будзе закрыта праз &lt;font color=#FFCE16>&lt;b>%1$d сек.&lt;/b>&lt;/font> Бягучы прагрэс быў захаваны аўтаматычна.&lt;/Data></item>
+    </plurals>
+    <plurals name="pad_ccc_temperature_warning_msg">
+     <item quantity="other">Ваша прылада перагрэтая. Камера зачыніцца праз %d сек. Вашы фота ці відэа будуць захаваны аўтаматычна.</item>
+     <item quantity="one">Ваша прылада перагрэтая. Камера зачыніцца праз %d сек. Вашы фота ці відэа будуць захаваны аўтаматычна.</item>
+  </plurals>
 </resources>

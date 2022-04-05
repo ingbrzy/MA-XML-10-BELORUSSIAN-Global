@@ -4,11 +4,6 @@
         <item>Камера</item>
         <item>Галерэя</item>
     </string-array>
-    <string-array name="common_folder_operations">
-        <item>新建</item>
-        <item>重命名</item>
-        <item>删除</item>
-    </string-array>
     <string-array name="contact_entries">
         <item>Імя</item>
         <item>Мянушка</item>
@@ -54,7 +49,12 @@
         <item>Галасавыя нататкі</item>
         <item>Цяпер вы можаце ствараць галасавыя нататкі. Націсніце на значок, запішыце свой голас і захавайце аўдыёфайл ўнутры нататкі.</item>
     </string-array>
-    <string-array name="system_folder_operations">
-        <item>新建</item>
-    </string-array>
+	<string-array name="common_folder_operations">
+    <item>Новая</item>
+    <item>Перайменаваць</item>
+    <item>Выдаліць</item>
+   </string-array>
+   <string-array name="system_folder_operations">
+    <item>Новая</item>
+   </string-array>
 </resources>

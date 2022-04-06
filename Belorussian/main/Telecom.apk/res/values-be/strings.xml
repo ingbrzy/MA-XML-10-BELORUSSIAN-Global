@@ -638,7 +638,6 @@
   <string name="pm">ПП</string>
   <string name="pointer_location">Пазіцыя паказальніка</string>
   <string name="pointer_location_summary">Паказваць на экране націсканні і жэсты</string>
-  <string name="power_charging">%1$d - %2$s</string>
   <string name="power_charging_duration">%1$d - %2$s да поўнай зарадкі</string>
   <string name="power_charging_limited">%1$s – Зарадка часова абмежавана</string>
   <string name="power_discharge_by">Зараду (%2$s) хопіць прыблізна да %1$s</string>
@@ -667,7 +666,6 @@
   <string name="private_dns_mode_provider">Імя вузла аператара прыватнай DNS</string>
   <string name="private_dns_mode_provider_failure">Не атрымалася падключыцца</string>
   <string name="private_dns_mode_provider_hostname_hint">Увядзіце імя вузла аператара DNS</string>
-  <string name="process_kernel_label">АС Android</string>
   <string name="profile_connect_timeout_subtext">Праблема з падключэннем. Выключыце і зноў уключыце прыладу</string>
   <string name="profile_info_settings_title">Звесткi профiлю</string>
   <string name="remaining_length_format">Засталося %1$s</string>

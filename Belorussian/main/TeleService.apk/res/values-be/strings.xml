@@ -106,7 +106,6 @@
   <string name="advanced_mobile_settings">Пашыраныя налады</string>
   <string name="advanced_options_title">Пашыраныя налады</string>
   <string name="advanced_settings">Дадатковыя налады</string>
-  <string name="advanced_settings_container">Дадатковыя параметра кантэйнеру</string>
   <string name="advanced_settings_hide">▽ Націсніце, каб схаваць усё</string>
   <string name="advanced_settings_show">▷ Націсніце, каб паказаць усё</string>
   <string name="advertisements_disable">Рэклама выключана</string>
@@ -721,7 +720,6 @@
   <string name="debug_view_attributes">Уключыць прагляд атрыбутаў</string>
   <string name="default_carrier_mmi_msg_title">Паведамленне аператара</string>
   <string name="default_notification_description">Стандартны гук (%1$s)</string>
-  <string name="default_port">5060</string>
   <string name="default_preference_summary_domain_address">&lt;Не наладжана&gt;</string>
   <string name="default_preference_summary_password">&lt;Не наладжана&gt;</string>
   <string name="default_preference_summary_username">&lt;Не наладжана&gt;</string>
@@ -1669,7 +1667,6 @@
   <string name="overlay_display_devices_title">Мадэляванне другасных дысплеяў</string>
   <string name="overseas_roaming_setting">Мабільны інтэрнэт у роўмінгу</string>
   <string name="pane_title_emergency_dialpad">Панэль набору нумара экстраннай службы</string>
-  <string name="password">Пароль</string>
   <string name="password_changed">Пароль зменены</string>
   <string name="password_title">Пароль</string>
   <string name="password_toggle_content_description">Паказаць пароль</string>
@@ -1762,9 +1759,7 @@
   <string name="pointer_location">Пазіцыя паказальніка</string>
   <string name="pointer_location_summary">Паказваць на экране націсканні і жэсты</string>
   <string name="police_type_description">Паліцыя</string>
-  <string name="port">Порт</string>
   <string name="port_title">Порт</string>
-  <string name="power_charging">%1$s – %2$s</string>
   <string name="power_charging_duration">%1$s – %2$s да поўнай зарадкі</string>
   <string name="power_charging_limited">%1$s – Зарадка часова абмежавана</string>
   <string name="power_discharge_by">Зараду (%2$s) хопіць прыблізна да %1$s</string>
@@ -1888,7 +1883,6 @@
   <string name="private_dns_mode_provider_hostname_hint">Увядзіце імя вузла аператара DNS</string>
   <string name="private_num">Схаваны нумар</string>
   <string name="private_num_kr">Вызначэнне нумара абмежавана</string>
-  <string name="process_kernel_label">АС Android</string>
   <string name="profile_connect_timeout_subtext">Праблема з падлучэннем. Выключыце і зноў уключыце прыладу</string>
   <string name="profile_info_settings_title">Звесткi профiлю</string>
   <string name="progress_dialog_exiting_ecm">Выхад з рэжыму экстранных зваротных выклікаў</string>
@@ -2453,7 +2447,6 @@
   <string name="transcode_settings_title">Налады перакадзіравання мультымедыя</string>
   <string name="transcode_user_control">Перавызначыць стандартныя налады перакадзіравання</string>
   <string name="transition_animation_scale_title">Маштаб перадачы анімацыі</string>
-  <string name="transport">Пратакол</string>
   <string name="transport_title">Тып пратакола</string>
   <string name="trigger_carrier_provisioning">Запусціць сінхранізацыю з аператарам</string>
   <string name="tts_default_lang_summary">Задае голас прамаўлення тэкту на канкрэтнай мове</string>

@@ -1852,4 +1852,17 @@
   <string name="settings_manager_hidden_folder">Кіраваць схаванымі відэа</string>
   <string name="tab_name_movies">Фільмы</string>
   <string name="toast_play_error_tip">Немагчыма прайграць гэты файл</string>
+  <string name="btn_playlist_play_all">Прайграць</string>
+  <string name="dialog_title_delete_folder">Калі вы выдаліце ​​гэтую тэчку, усе файлы ў ёй таксама будуць беззваротна выдалены. Выдаліць тэчку?</string>
+  <string name="dialog_title_hidden_folder">Калі вы схаваеце гэтую тэчку, усе файлы ў ёй перастануць адлюстроўвацца сярод вашых відэа. Схаваць тэчку?</string>
+  <string name="ovp_navigation_playlist">Плэйлісты</string>
+  <string name="small_video_cancel_button">Скасаваць</string>
+  <string name="small_video_download_button">Спампаваць</string>
+  <string name="small_video_snack_download_description">Спампуйце SnackVideo, каб паглядзець апошнія відэа ад вашых любімых аўтараў.</string>
+  <string name="small_video_snack_download_title">SnackVideo</string>
+  <string name="tab_playlist_local">На прыладзе</string>
+  <string name="tab_playlist_online">Анлайн</string>
+  <string name="tip_login_for_your_online_playlist">Увайдзіце, каб прагледзець свае плэйлісты.</string>
+  <string name="toast_fail_to_delete">Не атрымалася выдаліць. Паспрабуйце зноў.</string>
+  <string name="toast_fail_to_rename">Не атрымалася перайменаваць. Паспрабуйце яшчэ раз.</string>
 </resources>

@@ -60,12 +60,6 @@
         <item quantity="few">Паўгадзіны таму</item>
         <item quantity="many">Паўгадзіны таму</item>
     </plurals>
-    <plurals name="health_description_title_suffix">
-        <item quantity="other">" крокаў"</item>
-        <item quantity="one">" крок"</item>
-        <item quantity="few">" крока"</item>
-        <item quantity="many">" крокаў"</item>
-    </plurals>
     <plurals name="in_a_hour">
         <item quantity="other">Праз гадзіну</item>
         <item quantity="one">Праз гадзіну</item>
@@ -107,10 +101,5 @@
         <item quantity="one">1 хвіліну таму</item>
         <item quantity="few">%d хвіліны таму</item>
         <item quantity="many">%d хвілін таму</item>
-    </plurals>
-    <plurals name="area_code_search_result_size">
-       <item quantity="other">Знойдзена %d вынікаў</item>
-       <item quantity="one">Знойдзены %d вынік</item>
-       <item quantity="few">Знойдзена %d выніка</item>
     </plurals>
 </resources>

@@ -1428,7 +1428,6 @@
   <string name="call_example_name">Імя</string>
   <string name="call_manager_enable_summary">Дазволіць гэтай службе кіраваць тым, як робяцца выклікі.</string>
   <string name="call_manager_enable_title">Уключыць Call Manager (Менеджар выклікаў)</string>
-  <string name="call_manager_summary">%1$s</string>
   <string name="call_manager_title">Менеджар выклікаў</string>
   <string name="call_records_name_1">Даша Сашына</string>
   <string name="call_records_name_2">Артур Вольскi</string>
@@ -2345,7 +2344,6 @@
   <string name="dndm_auto_button_title">Паўтараць рэжым \"Не турбаваць\"</string>
   <string name="dndm_auto_setting_group">Расклад</string>
   <string name="dndm_auto_time_setting">Усталяваць час</string>
-  <string name="dndm_auto_time_setting_summary">З %1$s да %2$s</string>
   <string name="dndm_auto_time_turn_off">Да</string>
   <string name="dndm_auto_time_turn_off_title">Аўтаматычнае адключэнне рэжыму \"Не турбаваць\"</string>
   <string name="dndm_auto_time_turn_on">З</string>
@@ -3563,7 +3561,6 @@
   <string name="lights_title">Святлодыёдны індыкатар</string>
   <string name="line_breaking_summary">Выправіць разрывы радкоў абзаца</string>
   <string name="line_breaking_title">Аптымізацыя тэксту</string>
-  <string name="link_speed">%1$d Мбіт/с</string>
   <string name="link_turbo_prompt">Статыстыка на гэтай старонцы паказвае толькі аб\'ём дадзеных, якія выкарыстоўваюцца для павышэння хуткасці злучэння Wi-Fi. Гэтыя статыстычныя дадзеныя не адлюстроўваюць фактычнага выкарыстання мабільных дадзеных.</string>
   <string name="link_turbo_settings_all_app_display_loading">Хвілінку...</string>
   <string name="link_turbo_settings_all_app_reach_max">Вы можаце выбраць да 15 праграм</string>
@@ -4022,7 +4019,6 @@
   <string name="memory_title">Даступна: %1$s\u0009\u0009Усяго: %2$s</string>
   <string name="memory_usage">Выкарыстанне памяці</string>
   <string name="memory_usage_apps">Выкарыстанне памяці праграмамі</string>
-  <string name="memory_use_running_format">%1$s / %2$s</string>
   <string name="memory_use_summary">%1$s – сярэдняе значэнне памяці, выкарыстанай за апошнія 3 гадзіны</string>
   <string name="menu_cancel">Адхіліць</string>
   <string name="menu_check">Досвед</string>
@@ -4498,7 +4494,6 @@
   <string name="nfc_how_it_works_got_it">Зразумела</string>
   <string name="nfc_how_it_works_title">Аплата ў тэрмінале</string>
   <string name="nfc_more_title">Больш...</string>
-  <string name="nfc_payment_app_and_desc">%1$s - %2$s</string>
   <string name="nfc_payment_btn_text_set_deault">Задаць у якасці стандартнай</string>
   <string name="nfc_payment_btn_text_update">Абнавіць</string>
   <string name="nfc_payment_default">Аплата па змаўчанні</string>
@@ -4843,7 +4838,6 @@
   <string name="overlay_settings_title">Накладанне па-над Наладамi</string>
   <string name="overlay_toast_failed_to_apply">Не ўдалося ўжыць накладанне на экран</string>
   <string name="owner_info_settings_edit_text_hint">Напрыклад, Android Лявона</string>
-  <string name="owner_info_settings_status">%1$d з %2$d</string>
   <string name="owner_info_settings_summary">Няма</string>
   <string name="owner_info_settings_title">Подпіс на экране блакавання</string>
   <string name="owner_space">Першая прастора</string>
@@ -5024,7 +5018,6 @@
   <string name="power_cell">Сетка мабільнай сувязі ў рэжыме чакання</string>
   <string name="power_center">Батарэя</string>
   <string name="power_charge_remaining">Да поўнай зарадкі засталося %1$s</string>
-  <string name="power_charging">%1$d - %2$s</string>
   <string name="power_charging_duration">%1$d - %2$s да поўнай зарадкі</string>
   <string name="power_checker">Праверка батарэі</string>
   <string name="power_discharge_by">Засталося прыблізна %1$s (%2$s)</string>
@@ -5315,8 +5308,6 @@
   <string name="private_sms_recording_intro_header">Намаляваць графічны ключ для разблакавання:</string>
   <string name="private_sms_reset_by_account">Каб скінуць ваш пароль, увайдзіце ў Mi акаўнт</string>
   <string name="process_dex2oat_label">Аптымізацыя праграм</string>
-  <string name="process_format">%1$s (%2$d)</string>
-  <string name="process_kernel_label">АС Android</string>
   <string name="process_mediaserver_label">Сервер медыя</string>
   <string name="process_provider_in_use_description">Выкарыстоўваецца пастаўшчык паслуг %1$s.</string>
   <string name="process_service_in_use_description">Служба %1$s выкарыстоўваецца.</string>
@@ -6141,11 +6132,9 @@
   <string name="select_webview_provider_toast_text">Выбар несапраўдны. Паспрабуйце зноў.</string>
   <string name="sensors_off_quick_settings_title">Адключэнне датчыкаў</string>
   <string name="service_background_processes">Свабодна: %1$s</string>
-  <string name="service_client_name">%1$s</string>
   <string name="service_foreground_processes">Выкар.: %1$s</string>
   <string name="service_manage">Налады</string>
   <string name="service_manage_description">Сэрвіс %1$s: зараз выкарыстоўваецца. Каб кіраваць ім, краніце Налады.</string>
-  <string name="service_process_name">%1$s</string>
   <string name="service_restarting">Перазагрузка</string>
   <string name="service_started_by_app">Пачата праграмай.</string>
   <string name="service_stop">Спыніць</string>
@@ -6338,7 +6327,6 @@
   <string name="sim_select_card">Выбар SIM-карты</string>
   <string name="sim_selection_channel_title">Выбар SIM-карты</string>
   <string name="sim_selection_required_pref">Трэба выбраць</string>
-  <string name="sim_settings_summary">SIM-картка %1$s: %2$s</string>
   <string name="sim_settings_title">SIM-карты</string>
   <string name="sim_setup_wizard_title">SIM-карты</string>
   <string name="sim_signal_strength">%1$d дБмВт | asu: %2$d</string>
@@ -6353,7 +6341,6 @@
   <string name="size_kilo_byte">" Кб"</string>
   <string name="size_mega_byte">" Мб"</string>
   <string name="size_peta_byte">" Пб"</string>
-  <string name="size_suffix">%1$s%2$s</string>
   <string name="size_tera_byte">" Тб"</string>
   <string name="skip_anyway_button_label">Усё роўна прапусціць</string>
   <string name="skip_label">Прапусціць</string>
@@ -6490,7 +6477,6 @@
   <string name="status_bar_carrier_settings_no_sim_card">Няма SIM-карты</string>
   <string name="status_bar_settings">Апавяшчэння і панэль стану</string>
   <string name="status_bar_settings_all_app_display_loading">Хвілінку…</string>
-  <string name="status_bar_settings_carrier_sim">SIM %1$s:</string>
   <string name="status_bar_settings_manage_notification">Апавяшчэння праграм</string>
   <string name="status_bar_settings_notification_bar">Панэль апавяшчэнняў</string>
   <string name="status_bar_settings_status_bar">Радок стану</string>
@@ -6726,7 +6712,6 @@
   <string name="suggestions_title">Прапановы</string>
   <string name="suggestions_title_v2">Прапанаванае вам</string>
   <string name="sum_carrier_select">Выбраць аператара сеткі</string>
-  <string name="summary_range_symbol_combination">%1$s - %2$s</string>
   <string name="summary_range_verbal_combination">%1$s – %2$s</string>
   <string name="sunlight_mode">Рэжым сонечнага святла</string>
   <string name="sunlight_mode_summary">Адрэгулюйце яркасць пры моцным вонкавым асвятленні, каб экран не стаў занадта цёмным</string>

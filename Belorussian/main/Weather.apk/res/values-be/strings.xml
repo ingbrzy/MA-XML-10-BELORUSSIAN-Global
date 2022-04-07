@@ -153,7 +153,6 @@
   <string name="dynamic_weather">Надвор\'е</string>
   <string name="early_morning">Раніца</string>
   <string name="edit_city">Кіраванне гарадамі</string>
-  <string name="empty">" "</string>
   <string name="empty_view_net_loading">Абнаўленне…</string>
   <string name="empty_view_net_unavailable">Не атрымалася падлучыцца да сеткі</string>
   <string name="empty_view_refresh">Паспрабаваць зноў</string>
@@ -247,7 +246,6 @@
   <string name="friday_short">Птн</string>
   <string name="friday_shortest">Птн</string>
   <string name="hourly_forcast_now">Зараз</string>
-  <string name="hourly_forecast_bottom_aqi_else">%1$s</string>
   <string name="hourly_forecast_date">dd.MM</string>
   <string name="index_item_download_pause">Працягнуць спампоўку</string>
   <string name="index_item_downloading">Спампаванне...</string>
@@ -258,7 +256,6 @@
   <string name="indices_title_pressure">Ціск</string>
   <string name="indices_title_wind_speed">Хуткасць ветру</string>
   <string name="information_settings_title">Інфармацыя пра надвор\'е</string>
-  <string name="install_progress">%1$s%%</string>
   <string name="international_details_uv_index_title">Індэкс УФ</string>
   <string name="location_provider_btn_text">Службы месцазнаходжання</string>
   <string name="location_tag">Вызначыць</string>
@@ -429,7 +426,6 @@
   <string name="share_menu_title">Падзяліцца</string>
   <string name="share_subject">Падзяліцца</string>
   <string name="share_weather_desc">\#Надвор\'е MIUI#Сёння %1$s %2$s</string>
-  <string name="share_weather_desc_alert">%1$s%2$s</string>
   <string name="share_weather_desc_split">,</string>
   <string name="share_weather_save_pic_fail">Немагчыма зрабіць здымак экрана</string>
   <string name="shortcut_short_label_24_hour_forecast">Прагноз на 24 гадзіны</string>

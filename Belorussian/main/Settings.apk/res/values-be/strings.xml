@@ -9286,7 +9286,7 @@
   <string name="speed_mode">Хуткасны рэжым</string>
   <string name="speed_mode_summary">Зрабіць прадукцыйнасць важней энергаспажывання і кантролю тэмпературы</string>
   <string name="freeform_guide_multi_window">Шматзадачнасць</string>
-  <string name="freeform_vedio_description_pad">Перацягвайце элементы з панэлі, каб адчыняць плаваючыя вокны</string>
+  <string name="freeform_vedio_description_pad">Перацягнеце элемент з панэлі для адкрыцця ў плаваючым вакне</string>
   <string name="security_check_progress_dialog_message">Праверка на наяўнасць праблем бяспекі…</string>
   <string name="freeform_guide_slide_to_small_freeform_summary_pad">Пацягніце за вугал, каб згарнуць праграму</string>
   <string name="multi_window_cvw_summary">Пацягніце за вугал, каб пераключыцца на плаваючае вакно і адрэгуляваць яго памер</string>
@@ -10465,8 +10465,8 @@
   <string name="wifi_region_summary">Патрабуецца перазапуск Wi-Fi, каб прымяніць змены</string>
   <string name="wifi_region_title">Рэгіён Wi-Fi</string>
   <string name="freeform_guide_to_sidehide_summary">Хутка перацягнiце праграму да краю экрана, каб схаваць яе</string>
-  <string name="freeform_guide_to_sidehide_title">Утойванне плаваючых вокнаў</string>
-  <string name="freeform_vedio_description_open_freeform_and_splitscreen">"· Краніце праграму на бакавой панэлі, каб адкрыць яе ў плаваючым вакне.
-· Перацягнiце праграму ў цэнтр экрана, каб адкрыць яе ў плаваючым акне, або да краю экрана, каб выкарыстоўваць падзелены экран."</string>
+  <string name="freeform_guide_to_sidehide_title">Утойванне плаваючага вакна</string>
+  <string name="freeform_vedio_description_open_freeform_and_splitscreen">"· Націсніце на праграму на бакавой панэлі, каб адкрыць яе ў плаваючым вакне.
+· Перацягнiце праграму ў цэнтр экрана, каб адкрыць яе ў плаваючым вакне, або да краю для падзелу экрана."</string>
   <string name="sidebar_setting">Налады бакавой панэлі</string>
 </resources>

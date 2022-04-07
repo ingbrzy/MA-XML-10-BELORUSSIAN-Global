@@ -503,7 +503,7 @@
   <string name="xspace_head">Кланаваная праграма</string>
   <string name="xspace_resolver_activity_title">Выберыце праграму</string>
   <string name="dark_mode_enable">Уключыць</string>
-  <string name="dark_mode_suggest_message">Вы можаце аўтаматычна пераключацца ў цёмны рэжым на заходзе для больш камфортнага прагляду</string>
-  <string name="dark_mode_suggest_title">Змяркае</string>
-  <string name="dark_mode_suggest_toast">З гэтага моманту цёмны рэжым будзе аўтаматычна ўключацца на заходзе і выключацца на досвітку</string>
+  <string name="dark_mode_suggest_message">Цёмны рэжым можа аўтаматычна ўключацца на заходзе і выключацца на досвітку. Уключыць гэтую функцыю?</string>
+  <string name="dark_mode_suggest_title">Аўтаўключэнне рэжыму</string>
+  <string name="dark_mode_suggest_toast">Цёмны рэжым будзе аўтаматычна ўключацца на заходзе і выключацца на досвітку</string>
 </resources>

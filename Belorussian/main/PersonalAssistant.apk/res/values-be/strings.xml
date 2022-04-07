@@ -809,4 +809,5 @@
   <string name="pa_accessibility_picker_app_group_list_item">%1$s з %2$d элементаў.</string>
   <string name="pa_accessibility_picker_search_clear">Ачысціць</string>
   <string name="pa_rtk_recommend_card_title">Рэкамендаваная картка</string>
+  <string name="pa_picker_detail_vp2_indicator">Абрана старонка %1$d з %2$d</string>
 </resources>

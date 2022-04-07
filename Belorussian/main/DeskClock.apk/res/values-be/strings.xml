@@ -720,4 +720,11 @@
   <string name="read_phone_state_desc">Доступ да статусу выкліку пры званку будзільніка</string>
   <string name="read_phone_state_desc_when_request">Для доступу да статусу выкліку для аўтаматычнага прыпынення будзільніка пры атрыманні выкліку</string>
   <string name="remark_hint">Увядзіце пазнаку</string>
+  <string name="add_timer_dialog_title">Дадаць таймер</string>
+  <string name="timer_alert_type_no">Адсутнічае</string>
+  <string name="timer_desc_use_brush_teeth">Пачысціць зубы</string>
+  <string name="timer_desc_use_facial_mask">Маска для твару</string>
+  <string name="timer_desc_use_sleep">Задрамаць</string>
+  <string name="timer_item_edit">Змяніць</string>
+  <string name="white_noise_guide_desc">Дадайце фонавы гук, каб заставацца засяроджанымі</string>
 </resources>

@@ -1233,7 +1233,7 @@
   <string name="bh_business_style_new">Новы</string>
   <string name="bh_business_style_old">Стары</string>
   <string name="bh_system_recommend">Сістэмныя рэкамендацыі</string>
-  <string name="bh_system_recommend_des">Дазвольце нам аналізаваць ваш трафік і рэкамендаваць лічбавыя прадукты на аснове вынікаў</string>
+  <string name="bh_system_recommend_des">Калі персаналізаваныя рэкамендацыі адключаныя, вы па-ранейшаму будзеце бачыць тую ж колькасць аб\'яваў, што і пры ўключанай функцыі, але яны не будуць так важныя для вас.</string>
   <string name="cancel">Адмена</string>
   <string name="contacts_trash_activity_hint">Абярыце кантакты для аднаўлення</string>
   <string name="contacts_trash_activity_title">Нядаўна выдаленыя кантакты</string>
@@ -1392,4 +1392,7 @@
   <string name="preference_yellowpage_function_setting">Налады даведніка</string>
   <string name="privacy_settings_blue_scan_connect">Падключэнне да прылад паблізу</string>
   <string name="toast_not_show_blue_scan_connect_perm_req">Дазвольце гэтай функцыі падлучацца да прылад паблізу праз Bluetooth, каб мець магчымасць імпартаваць кантакты з іншых прылад.</string>
+  <string name="bh_open_carrier_services_short">Сэрвісы Mi Carrier</string>
+  <string name="bh_open_carrier_services_short_reason">Уключыце сэрвісы Mi Carrier, каб выкарыстоўваць гэтую функцыю.</string>
+  <string name="bh_qualification_and_certificate">Ліцэнзіі і сертыфікацыя</string>
 </resources>

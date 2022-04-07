@@ -457,7 +457,7 @@
   <string name="dialog_scanning_precondition_new_china">Уключыце Wi-Fi, Bluetooth і службы вызначэння месцазнаходжання, каб выкарыстоўваць трансляцыю. Уключыць зараз?</string>
   <string name="dialog_scanning_precondition_new_global">Уключыце Wi-Fi, Bluetooth і службы вызначэння месцазнаходжання, каб выкарыстоўваць трансляцыю. Уключыць зараз?</string>
   <string name="audio_record_des">Для перадачы гуку з прылады на знешнія маніторы</string>
-  <string name="dialog_location_permission_message">Гэтай праграме патрабуецца доступ да вашага месцазнаходжанню, каб мець магчымасць знаходзіць знешнія маніторы паблізу. Выберыце \"Заўсёды дазваляць\", даючы гэты дазвол, каб пазбегнуць магчымых памылак.</string>
+  <string name="dialog_location_permission_message">Гэтай праграме патрабуецца доступ да вашага месцазнаходжання, каб мець магчымасць знаходзіць знешнія маніторы паблізу. Абярыце \"Дазволіць на ўвесь час\", даючы гэты дазвол, каб пазбегнуць магчымых памылак.</string>
   <string name="dialog_location_permission_title">Патрабуюцца дазволы</string>
   <string name="file_read_des">Для адлюстравання фатаграфій і іншых файлаў на знешніх маніторах</string>
   <string name="notify">Трансляцыя працуе ў фонавым рэжыме</string>

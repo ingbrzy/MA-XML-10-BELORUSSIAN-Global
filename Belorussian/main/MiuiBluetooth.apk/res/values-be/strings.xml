@@ -33,7 +33,7 @@
   <string name="audio_relay_default_device_name">Дынамік Mi ШI</string>
   <string name="ble_device_address">MAC-адрас прылады Bluetooth Smart</string>
   <string name="ble_device_profile">Профілі прылады Bluetooth</string>
-  <string name="ble_device_profile_header_title">Налады</string>
+  <string name="ble_device_profile_header_title">Яшчэ</string>
   <string name="ble_device_profile_title">Падлучаная прылада Bluetooth Smart</string>
   <string name="ble_device_rename">Перайменаваць</string>
   <string name="bluetooth_a2dp_profile_summary_connected">Падлучана да мультымедыйнай аўдыяпрылады</string>
@@ -485,4 +485,5 @@
   <string name="wednesday_shortest">С</string>
   <string name="xiaomi_account_bt_sync_name">Спалучаныя прылады</string>
   <string name="yesterday">Учора</string>
+  <string name="ble_device_profile_summary">Кіраванне гэтай прыладай</string>
 </resources>

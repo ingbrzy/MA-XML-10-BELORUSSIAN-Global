@@ -21,7 +21,7 @@
     <string name="app_scanner">Сканар</string>
     <string name="app_security">Бяспека</string>
     <string name="app_settings">Налады</string>
-    <string name="app_weather">Надвор\'е</string>
+    <string name="app_weather">Надвор'е</string>
     <string name="app_whatsapp">WhatsApp</string>
     <!-- Shortcut groups -->
     <string name="shortcuts_external">Знешнія цэтлікі</string>
@@ -62,8 +62,8 @@
     <string name="widget_clock_local_desc">Час бягучага месцазнаходжання</string>
     <string name="widget_clock_simple">Час і дата</string>
     <string name="widget_clock_simple_desc">Час і дата бягучага месцазнаходжання</string>
-    <string name="widget_clock_weather">Надвор\'е</string>
-    <string name="widget_clock_weather_desc">Час, дата і надвор\'е для бягучага месцазнаходжання</string>
+    <string name="widget_clock_weather">Надвор'е</string>
+    <string name="widget_clock_weather_desc">Час, дата і надвор'е для бягучага месцазнаходжання</string>
     <string name="widget_clock_world">Сусветны гадзіннік</string>
     <string name="widget_clock_world_desc">Час у іншых гарадах</string>
     <string name="widget_gallery_custom">Выбраныя фота</string>
@@ -95,11 +95,11 @@
     <string name="widget_smarthome_control">Цэтлікі прылад</string>
     <string name="widget_smarthome_control_desc">Кіраванне прыладамі Разумнай хаты</string>
     <string name="widget_weather_forecast">Прагноз</string>
-    <string name="widget_weather_forecast_desc">Прагноз надвор\'я</string>
+    <string name="widget_weather_forecast_desc">Прагноз надвор'я</string>
     <string name="widget_weather_forecast_detail">Прагноз</string>
-    <string name="widget_weather_forecast_detail_desc">Падрабязны прагноз надвор\'я</string>
-    <string name="widget_weather_realtime">Надвор\'е</string>
-    <string name="widget_weather_realtime_desc">Бягучая інфармацыя аб надвор\'і</string>
-    <string name="widget_weather_today">Надвор\'е</string>
-    <string name="widget_weather_today_desc">Падрабязная інфармацыя аб надвор\'і</string>
+    <string name="widget_weather_forecast_detail_desc">Падрабязны прагноз надвор'я</string>
+    <string name="widget_weather_realtime">Надвор'е</string>
+    <string name="widget_weather_realtime_desc">Бягучая інфармацыя аб надвор'і</string>
+    <string name="widget_weather_today">Надвор'е</string>
+    <string name="widget_weather_today_desc">Падрабязная інфармацыя аб надвор'і</string>
 </resources>

@@ -878,4 +878,10 @@
   <string name="work_profile_title">Працоўны профіль</string>
   <string name="work_profile_toggle_label">Працоўны профіль</string>
   <string name="yesterday">Учора</string>
+  <string name="exit_overview_because_task_stack_changed">Нядаўнія зачыненыя з-за змен, якія адбыліся ў фонавым рэжыме</string>
+  <string name="navigation_position_center">Па цэнтры</string>
+  <string name="navigation_position_left">Злева</string>
+  <string name="navigation_position_right">Справа</string>
+  <string name="navigation_position_summary">Карыстальніцкае становішча кнопак навігацыі можна ўжываць толькі да працоўнага стала</string>
+  <string name="navigation_position_title">Палажэнне кнопак навігацыі</string>
 </resources>

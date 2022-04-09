@@ -211,8 +211,8 @@
   </string-array>
   <string-array name="battery_indicator_style_entries">
     <item>Графічны</item>
-    <item>Адсотак (на значку)</item>
-    <item>Адсотак (побач са значком)</item>
+    <item>Адсотак (на абразку)</item>
+    <item>Адсотак (побач з абразком)</item>
     <item>Паласа ў радку стану</item>
   </string-array>
   <string-array name="battery_labels">
@@ -763,8 +763,8 @@
   </string-array>
   <string-array name="drip_battery_indicator_style_entries">
     <item>Графічны</item>
-    <item>Адсотак (на значку)</item>
-    <item>Адсотак (побач са значком)</item>
+    <item>Адсотак (на абразку)</item>
+    <item>Адсотак (побач з абразком)</item>
   </string-array>
   <string-array name="eap_method_without_sim_auth">
     <item>PEAP</item>
@@ -948,8 +948,8 @@
   </string-array>
   <string-array name="notch_battery_indicator_style_entries">
     <item>Графічны</item>
-    <item>Адсотак (на значку)</item>
-    <item>Адсотак (побач са значком)</item>
+    <item>Адсотак (на абразку)</item>
+    <item>Адсотак (побач з абразком)</item>
   </string-array>
   <string-array name="notification_shade_shortcut_entries">
     <item>Пошук</item>
@@ -1378,8 +1378,8 @@
   </string-array>
   <string-array name="wide_notch_battery_indicator_style_entries">
         <item>Графічны</item>
-        <item>Адсотак (на значку)</item>
-        <item>Адсотак (побач са значком у панэлі апавяшчэнняў)</item>
+        <item>Адсотак (на абразку)</item>
+        <item>Адсотак (побач з абразком у панэлі апавяшчэнняў)</item>
     </string-array>
 	<string-array name="bluetooth_a2dp_codec_lhdc_latency_summaries">
         <item>Кароткая затрымка</item>
@@ -1618,5 +1618,13 @@
         <item>Узровень 3</item>
         <item>Узровень 4</item>
         <item>Узровень 5</item>
+    </string-array>
+    <string-array name="status_bar_settings_qs_layout_entries">
+        <item>Па змаўчанні</item>
+        <item>Кампактны</item>
+    </string-array>
+    <string-array name="default_vol_stream_entries">
+        <item>Выклiкi</item>
+        <item>Мультымедыя</item>
     </string-array>
 </resources>

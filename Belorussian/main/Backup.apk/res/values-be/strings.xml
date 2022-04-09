@@ -207,7 +207,7 @@
   <string name="flash_drive_restore_btn">Аднавіць з USB</string>
   <string name="flash_drive_search_backup_files">Пошук рэзервовых копій на USB…\nНе змяняйце файлы рэзервовых копій.</string>
   <string name="gallery_summary">Налады Галерэі (без фота)</string>
-  <string name="guarded_mode_dialog_backup_message">Забаронена рэзервовае капіяаванне ў рэжыме госця.</string>
+  <string name="guarded_mode_dialog_backup_message">Забаронена рэзервовае капіяванне ў рэжыме госця.</string>
   <string name="guarded_mode_dialog_title">Рэжым госця ўключаны</string>
   <string name="guarded_mode_dialog_transfer_message">Нельга выкарыстоўваць Mi Трансфер у рэжыме госця.</string>
   <string name="hide_password_description">Схаваць пароль</string>
@@ -250,15 +250,15 @@
   <string name="local_back_up_detail_description">Заўвага:\n1. Каб пазбегнуць страты дадзеных, захавайце рэзервовую копію на кампутар.\n2. Заўсёды захоўвайце рэзервовую копію на кампутар, перш чым выконваць скід налад; у адваротным выпадку вынікі рэзервовага капіявання будуць страчаныя.\n3. Дзе захоўваюцца рэзервовыя копіі? %1$s</string>
   <string name="local_backup_select_activity">Стварыць рэзервовую копію</string>
   <string name="local_backup_window_title">Лакальная рэзервовая копія</string>
-  <string name="local_button_backup_data">Рэзервовае капіяаванне</string>
-  <string name="local_button_backup_now">Рэзервовае капіяаванне</string>
+  <string name="local_button_backup_data">Рэзервовае капіяванне</string>
+  <string name="local_button_backup_now">Рэзервовае капіяванне</string>
   <string name="local_button_restore_data">Аднавіць на гэтай прыладзе</string>
   <string name="local_button_restore_now">Аднаўленне</string>
   <string name="local_click_to_jump">Націсніце для прагляду</string>
   <string name="local_config_off">Выключана</string>
   <string name="local_config_on">Уключана</string>
   <string name="local_home_title">Лакальныя рэзервовыя копіі</string>
-  <string name="local_main_auto_backup_title">Аўтаматычнае рэзервовае капіяаванне</string>
+  <string name="local_main_auto_backup_title">Аўтаматычнае рэзервовае капіяванне</string>
   <string name="local_main_backup">Лакальныя рэзервовыя копіі</string>
   <string name="local_main_backup_and_restore">На гэтай прыладзе</string>
   <string name="local_main_backup_detail_title">Налады сістэмы, уліковыя запісы, і дадзеныя праграм</string>
@@ -299,7 +299,7 @@
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Памылка абнаўлення</string>
   <string name="mms_title">Паведамлення MMS</string>
   <string name="multi_select_title">Выбрана:%1$s</string>
-  <string name="multi_user_mode_backup_message">Немагчыма выкарыстоўваць рэзервовае капіяаванне ў шматкарыстальніцкім рэжыме. Выключыце шматкарыстальніцкі рэжым для працягу.</string>
+  <string name="multi_user_mode_backup_message">Немагчыма выкарыстоўваць рэзервовае капіяванне ў шматкарыстальніцкім рэжыме. Выключыце шматкарыстальніцкі рэжым для працягу.</string>
   <string name="multi_user_mode_dialog_message">Немагчыма выкарыстоўваць Mi Трансфер ў шматкарыстальніцкім рэжыме. Выключыце рэжым шматкарыстальніка для працягу.</string>
   <string name="multi_user_mode_dialog_title">Вы ў шматкарыстальніцкім рэжыме</string>
   <string name="name_password_not_consistent">Няправільнае імя карыстальніка або пароль</string>
@@ -312,7 +312,7 @@
   <string name="new_britem_video">Відэа</string>
   <string name="new_confirm_enable_encrypt_content">MIUI звязвае зашыфраваныя рэзервовыя копіі з вашым Mi акаўнтам. Вы павінны ўвайсці ў свой акаўнт, каб аднавіць элементы з такіх рэзервовых копій.</string>
   <string name="new_confirm_enable_encrypt_title">Шыфраваць</string>
-  <string name="new_local_button_backup">Рэзервовае капіяаванне</string>
+  <string name="new_local_button_backup">Рэзервовае капіяванне</string>
   <string name="new_local_button_restore">Аднаўленне</string>
   <string name="new_local_click_to_jump">Націсніце, каб прагледзець падрабязныя інструкцыі</string>
   <string name="new_local_detail_description">Заўвага:\n%1$d. Скапіруйце рэзервовыя копіі на свой кампутар, каб пазбегнуць страты дадзеных. %2$s.\n%3$d. Рэзервовыя копіі будуць захаваны ў MIUI-Backup-AllBackup.</string>
@@ -325,7 +325,7 @@
   <string name="new_pc_backup_content3">%d. Знайдзіце рэзервовую копію ў MIUI-Backup-AllBackup.</string>
   <string name="new_pc_backup_content4">%d. Скапіруйце файл на свой кампутар.</string>
   <string name="new_pc_backup_restore_link">Мабільная прылада</string>
-  <string name="new_pc_backup_summary1">Выберыце элементы і націсніце «Рэзервовае капіяаванне».</string>
+  <string name="new_pc_backup_summary1">Выберыце элементы і націсніце «Рэзервовае капіяванне».</string>
   <string name="new_pc_backup_summary2">Падключыце мабільную прыладу да кампутара з дапамогай USB-кабеля.</string>
   <string name="new_pc_backup_summary4">Заўвага: вы таксама можаце капіяваць фатаграфіі і відэа з DCIM.</string>
   <string name="new_pc_restore_content1">%d. Падключыце мабільную прыладу да кампутара з дапамогай USB-кабеля.</string>
@@ -347,7 +347,7 @@
   <string name="new_usb_disconnect_dialog_message">Спачатку падключыце USB-назапашвальнік.</string>
   <string name="new_usb_disconnect_dialog_title">Не атрымалася знайсці USB-назапашвальнік</string>
   <string name="new_usb_select_data_no_space">Толькі %s сховішчы даступна на вашым USB-назапашвальніку. Вызваліце ​​месца для захоўвання.</string>
-  <string name="new_usb_tab_backup">Рэзервовае капіяаванне</string>
+  <string name="new_usb_tab_backup">Рэзервовае капіяванне</string>
   <string name="new_usb_tab_restore">Аднаўленне</string>
   <string name="no_encrypt_password">Няма пароля шыфравання</string>
   <string name="no_network">Немагчыма злучыцца з сеткай</string>

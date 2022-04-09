@@ -6232,7 +6232,7 @@
   <string name="show_non_rect_clip">Адладжванне непрамавугольных аперацый адсячэння</string>
   <string name="show_notification_channel_warnings">Паказваць папярэджанні каналу перадачы апавяшчэнняў</string>
   <string name="show_notification_channel_warnings_summary">Адлюстроўваць на экране папярэджанне, калі праграма адпраўляе апавяшчэнне па-за сапраўдным каналам</string>
-  <string name="show_notification_icon_title">Паказаць абразкі апавяшчэнняў</string>
+  <string name="show_notification_icon_title">Паказваць абразкі апавяшчэнняў</string>
   <string name="show_operator_name_summary">Паказваць імя сеткі на радку стану</string>
   <string name="show_operator_name_title">Імя сеткі</string>
   <string name="show_owner_info_on_lockscreen_label">Паказваць подпіс на экране блакавання</string>

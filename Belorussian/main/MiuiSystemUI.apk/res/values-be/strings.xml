@@ -1137,8 +1137,8 @@
   <string name="lock_screen_magazine_preview_fullscreen_bottom_button_text">Увайсці</string>
   <string name="lock_screen_no_sim_card_emergency_only">Толькі экстранныя выклікі</string>
   <string name="lock_screen_no_sim_card_no_service">Няма сеткі</string>
-  <string name="lock_screen_signature_msg">Паказаць подпіс на экране блакавання</string>
-  <string name="lock_screen_signature_title">Інфармацыя аб уладальніку на экране блакавання</string>
+  <string name="lock_screen_signature_msg">Паказваць iнфармацыю на экране блакавання</string>
+  <string name="lock_screen_signature_title">Інфармацыя аб уладальніку</string>
   <string name="lockscreen_access_pattern_area">Вобласць уводу ключа.</string>
   <string name="lockscreen_access_pattern_cell_added">Ячэйка дададзена</string>
   <string name="lockscreen_access_pattern_cell_added_verbose">Ячэйка %1$s дададзена</string>
@@ -1354,7 +1354,7 @@
   <string name="output_title">Вывад мультымедыя</string>
   <string name="overlay_display_devices_title">Эмуляцыя другасных дысплэяў</string>
   <string name="overview">Агляд</string>
-  <string name="owner_info_settings_edit_text_hint">Напрыклад, MiuiPro.</string>
+  <string name="owner_info_settings_edit_text_hint">Напрыклад, ваша iмя.</string>
   <string name="password_toggle_content_description">Паказаць пароль</string>
   <string name="phone_hint">Правядзіце ад значка, каб адкрыць тэлефон</string>
   <string name="phone_label">Адкрыць тэлефон</string>

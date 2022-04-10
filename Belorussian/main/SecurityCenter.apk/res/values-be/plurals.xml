@@ -759,10 +759,10 @@
     <item quantity="few">Каб атрымаць дакладную статыстыку, цалкам зарадзіце прыладу не менш за %2$d разы</item>
   </plurals>
   <plurals name="power_center_battery_hour">
-    <item quantity="other">"%d гадз. "</item>
-    <item quantity="one">"%d гадз. "</item>
-    <item quantity="few">"%d гадз. "</item>
-    <item quantity="many">"%d гадз. "</item>
+    <item quantity="other">"%d г. "</item>
+    <item quantity="one">"%d г. "</item>
+    <item quantity="few">"%d г. "</item>
+    <item quantity="many">"%d г. "</item>
   </plurals>
   <plurals name="power_center_battery_minute">
     <item quantity="other">"%d хв. "</item>

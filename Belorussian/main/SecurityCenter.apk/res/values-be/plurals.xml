@@ -1136,7 +1136,7 @@
     </plurals>
 	<plurals name="gb_voice_changer_toast_tips_window_bubble">
         <item quantity="other">"Паспрабуйце Змену голаса прама цяпер
-каб атрымаць% d-дзённую бясплатную пробную версію!"</item>
+каб атрымаць %d-дзённую бясплатную пробную версію!"</item>
     </plurals>
     <plurals name="gb_voice_changer_trial_gain_fail">
         <item quantity="other">Не атрымалася атрымаць %d-дзённую бясплатную пробную версію</item>

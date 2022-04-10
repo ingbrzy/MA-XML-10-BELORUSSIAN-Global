@@ -1252,7 +1252,7 @@
   <string name="miuix_appcompat_select_item">Выбраць элементы</string>
   <string name="send">Адправiць</string>
   <string name="no_contact_selected">Выберыце кантакт для прагляду падрабязнасьцяў</string>
-  <string name="residual_time_description">%1$s дз. %2$ г.</string>
+  <string name="residual_time_description">%1$s дз. %2$s г.</string>
   <string name="wifi_pad_disable_phone">Немагчыма здзяйсняць выклікі на гэтай прыладзе</string>
   <string name="bh_bills_info_label">Падрабязнасці</string>
   <string name="bh_cannot_action">Не атрымалася выкарыстоўваць %1$s. Спачатку ўсталюйце адпаведную праграму.</string>

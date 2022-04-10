@@ -185,12 +185,12 @@
         <item quantity="many">Створаны бэкап для %1$d відэа WeChat</item>
     </plurals>
     <plurals name="remote_video_update">
-        <item quantity="other">Знойдзена %1$d новых відэа</item>
-        <item quantity="zero">Знойдзена %1$d новых відэа</item>
-        <item quantity="one">Знойдзена %1$d новае відэа</item>
-        <item quantity="two">Знойдзена %1$d новых відэа</item>
-        <item quantity="few">Знойдзена %1$d новых відэа</item>
-        <item quantity="many">Знойдзена %1$d новых відэа</item>
+        <item quantity="other">Знойдзена %1$s новых відэа</item>
+        <item quantity="zero">Знойдзена %1$s новых відэа</item>
+        <item quantity="one">Знойдзена %1$s новае відэа</item>
+        <item quantity="two">Знойдзена %1$s новых відэа</item>
+        <item quantity="few">Знойдзена %1$s новых відэа</item>
+        <item quantity="many">Знойдзена %1$s новых відэа</item>
     </plurals>
     <plurals name="video_ad_download_tip">
         <item quantity="other"> загрузак</item>

@@ -1082,33 +1082,6 @@
     <item>10 хвілін</item>
     <item>Ніколі</item>
   </string-array>
-  <string-array name="security_settings_premium_sms_values">
-    <item>Запытацца</item>
-    <item>Нiколi не дазваляць</item>
-    <item>Заўсёды дазваляць</item>
-  </string-array>
-  <string-array name="select_logd_size_lowram_titles">
-    <item>Выкл</item>
-    <item>64 КБ</item>
-    <item>256 КБ</item>
-    <item>1 МБ</item>
-  </string-array>
-  <string-array name="select_logd_size_summaries">
-    <item>Выкл</item>
-    <item>64 КБ на памер буфера</item>
-    <item>256 КБ на памер буфера</item>
-    <item>1 МБ на памер буфера</item>
-    <item>4 МБ на памер буфера</item>
-    <item>16 МБ на памер буфера</item>
-  </string-array>
-  <string-array name="select_logd_size_titles">
-    <item>Выкл</item>
-    <item>64 КБ</item>
-    <item>256 КБ</item>
-    <item>1 МБ</item>
-    <item>4 МБ</item>
-    <item>16 МБ</item>
-  </string-array>
   <string-array name="select_logd_system_levels">
     <item>Выкл.</item>
     <item>Памылка</item>
@@ -1263,15 +1236,6 @@
     <item>Нізкі</item>
     <item>Сярэдні</item>
     <item>Высокі</item>
-  </string-array>
-  <string-array name="wifi_calling_mode_choices">
-    <item>Пажадана Wi-Fi</item>
-    <item>Прыярытэт мабільнай сеткі</item>
-    <item>Толькі Wi-Fi</item>
-  </string-array>
-  <string-array name="wifi_calling_mode_choices_without_wifi_only">
-    <item>Прыярытэт Wi-Fi</item>
-    <item>Прыярытэт мабільнай сеткі</item>
   </string-array>
   <string-array name="wifi_connect_type_entries">
     <item>Падлучацца аўтаматычна</item>

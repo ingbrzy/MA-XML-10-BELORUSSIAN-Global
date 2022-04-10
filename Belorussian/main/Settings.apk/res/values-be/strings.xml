@@ -1705,7 +1705,6 @@
   <string name="condition_zen_summary_phone_muted">Тэлефон у рэжыме без гуку</string>
   <string name="condition_zen_summary_with_exceptions">З выключэннямі з правілаў</string>
   <string name="condition_zen_title">Рэжым \"Не турбаваць\" уключаны</string>
-  <string name="config_charging_function_name">Зарадка</string>
   <string name="config_list_label">Наладжаныя сеткі</string>
   <string name="configure">Наладзіць</string>
   <string name="configure_apps">Канфігурацыя праграм</string>
@@ -5018,7 +5017,7 @@
   <string name="power_cell">Сетка мабільнай сувязі ў рэжыме чакання</string>
   <string name="power_center">Батарэя</string>
   <string name="power_charge_remaining">Да поўнай зарадкі засталося %1$s</string>
-  <string name="power_charging_duration">%1$d - %2$s да поўнай зарадкі</string>
+  <string name="power_charging_duration">%1$s - %2$s да поўнай зарадкі</string>
   <string name="power_checker">Праверка батарэі</string>
   <string name="power_discharge_by">Засталося прыблізна %1$s (%2$s)</string>
   <string name="power_discharge_by_enhanced">Засталося прыблізна %1$s пры бягучым узроўні выкарыстання (%2$s)</string>
@@ -5026,7 +5025,7 @@
   <string name="power_discharge_by_only_enhanced">Засталося прыблізна %1$s пры бягучым узроўні выкарыстання</string>
   <string name="power_discharge_by_only_short">Да %1$s</string>
   <string name="power_discharge_remaining">Батарэя будзе разраджана праз %1$s</string>
-  <string name="power_discharging_duration">%1$d – засталося каля %2$s</string>
+  <string name="power_discharging_duration">%1$s – засталося каля %2$s</string>
   <string name="power_discharging_duration_enhanced">Зараду (%2$s) пры такім выкарыстанні хопіць прыблізна на %1$s</string>
   <string name="power_flashlight">Ліхтарык</string>
   <string name="power_hide_mode_summary">Эканомце зарад батарэі, абмяжоўваючы фонавыя працэсы праграм, Wi-Fi, мабільныя падключэнні і GPS</string>
@@ -9163,9 +9162,7 @@
   <string name="safe_install_mode_settings">Бяспечны рэжым</string>
   <string name="softbank_apn_lock_toast">APN заблакавана. Немагчыма рэдагаваць.</string>
   <string name="connect_help">Даведка па падлучэнню</string>
-  <string name="left_shoulder_key">Левая</string>
   <string name="privacy_lab_settings">Лабараторыя абароны канфідэнцыйнасці</string>
-  <string name="right_shoulder_key">Правая</string>
   <string name="set_shoulder_key_shortcut_checkbox_message">Больш не паказваць</string>
   <string name="set_shoulder_key_shortcut_message">Вы яшчэ не прызначылі цэтлікі для бакавых кнопак. Прызначыць зараз?</string>
   <string name="set_shoulder_key_shortcut_negative_button">Не</string>
@@ -9602,7 +9599,6 @@
   <string name="graphics_driver_main_switch_title">Выкарыстоўваць налады драйвера графічнай сістэмы</string>
   <string name="item_view_role_description">Укладка</string>
   <string name="keywords_accessibility">Лёгкасць выкарыстання, прастата доступу, дапамога, дапаможны</string>
-  <string name="keywords_accessibility_menu">маторыка, хуткае меню, дапаможнае меню, дотык, спрыт</string>
   <string name="keywords_airplane_safe_networks">самалёт, бяспека ў самалёце</string>
   <string name="keywords_alarms_and_reminders">расклад, будзільнік, напамін, гадзіннік</string>
   <string name="keywords_auto_click">маторыка, мыш</string>
@@ -9620,21 +9616,14 @@
   <string name="keywords_hearing_aids">слабы слых, страта слыху</string>
   <string name="keywords_internet">падключэнне да сеткі, інтэрнэт, бесправадны, даныя, wifi, wi-fi, wi fi, сотавая сетка, мабільны, аператар сотавай сувязі, 4g, 3g, 2g, lte</string>
   <string name="keywords_live_caption">Субцітры, субцітры, цітры, Імгненная транскрыпцыя, слабы слых, страта слыху, транскрыпцыя ў рэальным часе, пераўтварэнне маўлення ў тэкст, субцітр</string>
-  <string name="keywords_live_transcribe">Субцітры, субцітры, цітры, Імгненныя субцітры, слабы слых, страта слыху, транскрыпцыя ў рэальным часе, пераўтварэнне маўлення ў тэкст, субцітр</string>
   <string name="keywords_magnification">Лупа для акна, маштаб, павелічэнне, слабы зрок, павялічыць, зрабіць большым</string>
   <string name="keywords_media_controls">мультымедыя</string>
   <string name="keywords_media_management_apps">Мультымедыя, файл, кіраванне, менеджар, кіраваць, змяніць, рэдактар, праграма, прыкладная праграма</string>
   <string name="keywords_one_handed">дасягальнасць</string>
   <string name="keywords_reduce_bright_colors">адчувальнасць да святла, фотафобія, цёмная тэма, мігрэнь, галаўны боль, рэжым чытання, начны рэжым, паменшыць яркасць, кропка белага</string>
   <string name="keywords_rtt">слабы слых, страта слыху, субцітры, тэлетайп, TTY</string>
-  <string name="keywords_select_to_speak">Слухаць тэкст, чытаць услых, экран маўлення, праграма чытання з экрана</string>
-  <string name="keywords_sound_amplifier">Персанальныя прадукты для ўзмацнення гучнасці, узмацніць, узмацненне гуку, слабы слых, страта слыху, узмацненне</string>
-  <string name="keywords_sound_notifications">Апавяшчэнні, слабы слых, страта слыху, апавясціць</string>
   <string name="keywords_storage_menu_free">ачысціць, сховішча</string>
-  <string name="keywords_switch_access">маторыка, пераключальнік, рука, спецыяльныя магчымасці, дапаможная тэхналогія, параліч, бакавы аміатрафічны скляроз, сканіраванне, пакрокавае сканіраванне</string>
-  <string name="keywords_talkback">Праграма чытання з экрана, голас за кадрам, VoiceOver, Галасавая дапамога, слепата, слабы зрок, TTS, сінтэз маўлення, агучванне</string>
   <string name="keywords_virtual_keyboard">Gboard</string>
-  <string name="keywords_voice_access">голас, галасавое кіраванне, маторыка, рука, мікрафон, мікрафон, дыктаванне, маўленне, кіраванне</string>
   <string name="keywords_wallet">кашалёк</string>
   <string name="keywords_wifi_display_settings">адлюстраванне</string>
   <string name="location_category">Месцазнаходжанне</string>

@@ -1478,8 +1478,6 @@
   <string name="pref_camera_snap_entry_take_picture">Хуткія здымкі (фота)</string>
   <string name="pref_camera_snap_label_take_movie">Відэа</string>
   <string name="pref_camera_snap_label_take_picture">Фота</string>
-  <string name="pref_camera_snap_value_take_movie">Фільм</string>
-  <string name="pref_camera_snap_value_take_picture">Карцінка</string>
   <string name="pref_camera_sound_title">Гук затвора</string>
   <string name="pref_camera_square_mode_title">Квадрат</string>
   <string name="pref_camera_sr_enable_title">Суперразрозненне</string>
@@ -1549,7 +1547,6 @@
   <string name="pref_camera_zoom_mode_entry_wide_abbr">Шырокі</string>
   <string name="pref_camera_zoom_mode_title">ЛІНЗЫ</string>
   <string name="pref_camera_zoom_mode_title_abbr">Аб\'ектыў</string>
-  <string name="pref_camera_zoom_value_title">Прыбліжэнне</string>
   <string name="pref_camera_zsl_entry_off">Выкл</string>
   <string name="pref_camera_zsl_entry_on">Укл</string>
   <string name="pref_capture_settings">Камера</string>
@@ -1655,7 +1652,6 @@
   <string name="pref_video_denoise_off">Выкл</string>
   <string name="pref_video_denoise_on">Укл</string>
   <string name="pref_video_denoise_title">Фільтр шуму</string>
-  <string name="pref_video_encoder_default">h264</string>
   <string name="pref_video_encoder_entry_h264">H.264 (сумяшчальнасць)</string>
   <string name="pref_video_encoder_entry_h265">H.265 (прадукцыйнасць)</string>
   <string name="pref_video_encoder_title">Відэакодэр</string>
@@ -1876,7 +1872,7 @@
   <string name="unknow_error">Невядомая памылка</string>
   <string name="unsupported_microphones_3d_record_tips">Функцыя \"3D-гук\" не падтрымлівае знешнія мікрафоны</string>
   <string name="unsupported_microphones_audio_zoom_tips">Функцыя \"Аўдыёзум\" не падтрымлівае знешнія мікрафоны</string>
-  <string name="update_loading">Запампавана %1$d %%</string>
+  <string name="update_loading">Запампавана %1$s</string>
   <string name="update_start">Абнавіць %1$s</string>
   <string name="user_agree">Згадзіцца</string>
   <string name="user_define_watermark_cancel">Скасаваць</string>

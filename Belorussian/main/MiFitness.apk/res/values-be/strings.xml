@@ -505,7 +505,6 @@
   <string name="date_range">%1$s-%2$s</string>
   <string name="date_time_picker_dialog_title">Усталяваць дату і час</string>
   <string name="date_to_now">Пачата %1$s</string>
-  <string name="day">" д."</string>
   <string name="decive_settings_hint_most_count">Дадаць да 20</string>
   <string name="delete_record">Выдаліць запіс</string>
   <string name="device_add">Дадаць</string>
@@ -2429,7 +2428,7 @@
   <string name="login_privacy_add_experience_tips"><Data>Удзельнічайце ў &lt;a href=\"%1$s\">Праграме паляпшэння якасці&lt;/a> і дзяліцеся статыстычнымі дадзенымі, каб дапамагчы нам палепшыць прадукты і паслугі.</Data></string>
   <string name="login_privacy_add_experience_tips_korea"><Data>Удзельнічайце ў &lt;a href=\"%1$s\">Праграме паляпшэння якасці&lt;/a> і дзяліцеся статыстычнымі дадзенымі, каб дапамагчы нам палепшыць прадукты і паслугі (неабавязкова).</Data></string>
   <string name="login_privacy_agree_all">Я згаджаюся з усім</string>
-  <string name="login_privacy_agree_protocol_and_policy"><Data>Перад пачаткам карыстання нашымі службамі, азнаёмцеся і пагадзіцеся з &lt;a href=\"%1$s\">Умовамі выкарыстання&lt;/a> і &lt;a href=\"%2$ s\">Палітыкай прыватнасці&lt;/a>.</Data></string>
+  <string name="login_privacy_agree_protocol_and_policy"><Data>Перад пачаткам карыстання нашымі службамі, азнаёмцеся і пагадзіцеся з &lt;a href=\"%1$s\">Умовамі выкарыстання&lt;/a> і &lt;a href=\"%2$s\">Палітыкай прыватнасці&lt;/a>.</Data></string>
   <string name="login_privacy_agree_tips">Падайце дазволы, пералічаныя вышэй.</string>
   <string name="login_privacy_agree_to_terms_kr">Умовы выкарыстання</string>
   <string name="login_privacy_common_agree">Згодзен</string>
@@ -2582,7 +2581,6 @@
   <string name="monday">Панядзелак</string>
   <string name="monday_short">Пан</string>
   <string name="monday_shortest">Пан</string>
-  <string name="month">" м."</string>
   <string name="month_april">Красавік</string>
   <string name="month_april_short">Крс</string>
   <string name="month_april_shortest">Крс</string>
@@ -3623,7 +3621,6 @@
   <string name="trail_data_activity_calorie">Актыўныя калорыі</string>
   <string name="trail_data_last_update_time">Абноўлена: %s</string>
   <string name="trail_data_my_status">Мой стан</string>
-  <string name="trail_data_rate_distribute0">У спакоі</string>
   <string name="trail_data_rate_distribute1">Размінка</string>
   <string name="trail_data_rate_distribute2">Спальванне тлушчу</string>
   <string name="trail_data_rate_distribute3">Аэробная зона</string>
@@ -3969,8 +3966,6 @@
   <string name="ui_back">Назад</string>
   <string name="ui_cancel">Адмена</string>
   <string name="ui_save">Захаваць</string>
-  <string name="unit_hour">" г"</string>
-  <string name="unit_min">хв</string>
   <string name="unit_seconds">" сек"</string>
   <string name="unknown_error_info">Невядомая памылка</string>
   <string name="update_discover_new_version">Даступнае абнаўленне</string>
@@ -4195,7 +4190,6 @@
   <string name="xms_thirdapp_permission_notify_name">Адпраўляць апавяшчэння</string>
   <string name="xms_thirdapp_permission_request_info">Праграма %s можа:</string>
   <string name="xms_thirdapp_revoke_auth">Кіраванне дазволамі даступна ў раздзеле \"Профіль\" > \"Пашыраныя налады\" > \"Дазволы\".</string>
-  <string name="year">" г."</string>
   <string name="yesterday">Учора</string>
   <string name="yuan">юань</string>
   <string name="device_settings_low_hr_warning_title">Папярэджанне аб нізкім пульсе</string>
@@ -4203,7 +4197,6 @@
   <string name="health_audio_permission_dialog_title">Уключыце дазвол на запіс</string>
   <string name="health_body_weight_grade">Рэйтынг</string>
   <string name="health_enable_go_now">Уключыць</string>
-  <string name="health_sleep_awake_times_unit">" раз"</string>
   <string name="health_weight_data_title_day">Апошняе</string>
   <string name="health_weight_indicator_change">Змяненне паказчыкаў</string>
   <string name="health_weight_please_choose">Абярыце</string>
@@ -4383,7 +4376,6 @@
   <string name="health_recovery_app_toast">Калі ласка, націсніце на старонку прылады, каб аднавіць злучэнне</string>
   <string name="health_sleep_menu_snore_delete">Выдаліць</string>
   <string name="health_sleep_menu_snore_share">Падзяліцца</string>
-  <string name="health_stress_highlight">Стрэс</string>
   <string name="health_training_load">Трэніровачная нагрузка</string>
   <string name="health_training_load_last_seven_days">Апошнія сем дзён трэніровачнай нагрузкі</string>
   <string name="main_cancel">Адмена</string>

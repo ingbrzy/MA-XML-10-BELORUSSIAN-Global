@@ -638,14 +638,14 @@
   <string name="pm">ПП</string>
   <string name="pointer_location">Пазіцыя паказальніка</string>
   <string name="pointer_location_summary">Паказваць на экране націсканні і жэсты</string>
-  <string name="power_charging_duration">%1$d - %2$s да поўнай зарадкі</string>
+  <string name="power_charging_duration">%1$s - %2$s да поўнай зарадкі</string>
   <string name="power_charging_limited">%1$s – Зарадка часова абмежавана</string>
   <string name="power_discharge_by">Зараду (%2$s) хопіць прыблізна да %1$s</string>
   <string name="power_discharge_by_enhanced">Зараду (%2$s) хопіць прыблізна да %1$s пры цяперашнім узроўні выкарыстання</string>
   <string name="power_discharge_by_only">Зараду хопіць прыблізна да %1$s</string>
   <string name="power_discharge_by_only_enhanced">Зараду хопіць прыблізна да %1$s пры цяперашнім узроўні выкарыстання</string>
   <string name="power_discharge_by_only_short">Да %1$s</string>
-  <string name="power_discharging_duration">%1$d – засталося каля %2$s</string>
+  <string name="power_discharging_duration">%1$s – засталося каля %2$s</string>
   <string name="power_discharging_duration_enhanced">Зараду (%2$s) пры такім выкарыстанні хопіць прыблізна на %1$s</string>
   <string name="power_remaining_charging_duration_only">Засталося %1$s да поўнай зарадкі</string>
   <string name="power_remaining_duration_only">Зараду хопіць прыблізна на %1$s</string>

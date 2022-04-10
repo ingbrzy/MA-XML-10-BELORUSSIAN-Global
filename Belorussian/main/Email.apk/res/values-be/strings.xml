@@ -244,7 +244,6 @@
   <string name="bill_center_setting">Налады рахункаў</string>
   <string name="bill_center_setting_head">Імпарт інфармацыі з гэтых акаўнтаў</string>
   <string name="bill_cycle_text">Плацёжны цыкл</string>
-  <string name="bill_list_card_name_fmt">%1$s | %2$s</string>
   <string name="bill_remind">Напамін пра пагашэнне</string>
   <string name="bill_remind_due">Пагашэнне ажыццяўляецца ў тэрмін па %s, націсніце для прагляду</string>
   <string name="blank_feedback_toast">Вы павінны напісаць водгук</string>
@@ -849,7 +848,6 @@
   <string name="personal_data_collection_title">Дазволіць збор асабістых дадзеных</string>
   <string name="phone">тэлефонам</string>
   <string name="photo_load_failed">Не атрымалася загрузіць выяву</string>
-  <string name="photo_view_count">%1$d/%2$d</string>
   <string name="pl_select_age">Пазначце ўзрост</string>
   <string name="please_fill_in_your_mailbox_information2">Увядзіце дадзеныя вашай паштовай скрыні</string>
   <string name="pls_parse_bill_discribe">Аналізуйце рахункі і інфармацыю пра падарожжы ў вашай электроннай пошце,\nкаб атрымліваць напамінкі пра плацяжы і паездкі</string>
@@ -1100,7 +1098,6 @@
   <string name="storage">Сховішча</string>
   <string name="str_select_all">Выбраць усё</string>
   <string name="str_select_none">Зняць выбар з усіх</string>
-  <string name="subject_and_snippet">%1$s - %2$s</string>
   <string name="subject_hint">Тэма</string>
   <string name="sync_calendra_fail_per_content">Націсніце, каб дазволіць</string>
   <string name="sync_calendra_fail_per_title">Не атрымалася сінхранізаваць падзеі календара</string>

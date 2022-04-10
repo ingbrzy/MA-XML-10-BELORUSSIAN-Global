@@ -818,7 +818,6 @@
   <string name="gxzw_quick_open_qr_code">QR код</string>
   <string name="gxzw_quick_open_qr_code_sub">Сканар</string>
   <string name="gxzw_quick_open_search">Пошук</string>
-  <string name="gxzw_quick_open_search_sub">Браўзер</string>
   <string name="gxzw_quick_open_skip_teach">Прапусціць навучанне</string>
   <string name="gxzw_quick_open_title">Адкрытае кантэкстнае меню</string>
   <string name="gxzw_quick_open_wechat_pay">Код аплаты</string>
@@ -1332,7 +1331,6 @@
   <string name="notification_unblockable_desc">Гэтыя апавяшчэнні нельга змяніць.</string>
   <string name="oem_unlock_enable">OEM-разблакаванне</string>
   <string name="oem_unlock_enable_summary">Дазволіць разблакаванне загрузчыка</string>
-  <string name="ok">ОК</string>
   <string name="okay">OK</string>
   <string name="open_camera_hint_text">Перацягнiце абразок для запуску камеры</string>
   <string name="open_lock_screen_magazine_hint_text">Правядзіце па экране направа для дадатковых параметраў</string>
@@ -1388,13 +1386,13 @@
   <string name="plugins">Убудовы</string>
   <string name="pointer_location">Месцазнаходжанне ўказальніка</string>
   <string name="pointer_location_summary">Адлюстроўваць накладанне ў цяперашняй вобласці дадзеных сэнсара</string>
-  <string name="power_charging_duration">%1$d - %2$s да поўнай зарадкі</string>
+  <string name="power_charging_duration">%1$s - %2$s да поўнай зарадкі</string>
   <string name="power_discharge_by">Засталося прыблізна %1$s (%2$s)</string>
   <string name="power_discharge_by_enhanced">Засталося прыблізна %1$s пры бягучым узроўні выкарыстання (%2$s)</string>
   <string name="power_discharge_by_only">Засталося прыблізна %1$s</string>
   <string name="power_discharge_by_only_enhanced">Засталося прыблізна %1$s пры бягучым узроўні выкарыстання</string>
   <string name="power_discharge_by_only_short">Да %1$s</string>
-  <string name="power_discharging_duration">%1$d – засталося каля %2$s</string>
+  <string name="power_discharging_duration">%1$s – засталося каля %2$s</string>
   <string name="power_discharging_duration_enhanced">Зараду (%2$s) пры такім выкарыстанні хопіць прыблізна на %1$s</string>
   <string name="power_notification_controls_description">"З кантролем апавяшчэння магутнасці, вы можаце ўсталяваць ўзровень важнасці ад 0 да 5 для апавяшчэнняў праграмы. \n\n\"&lt;b>Узровень 5&lt;/b>\" \n- Паказаць у верхняй частцы спісу апавяшчэнняў \n- Дазволіць высвятленне на ўвесь экран \n- заўсёды паказваць \n\n\"&lt;b>Узровень 4&lt;/b>\" \n- Прадухіліць высвятленне на ўвесь экран \n- Заўсёды паказваць \n\n\"&lt;b>Узровень 3&lt;/b>\" \n- Прадухіліць высвятленне на ўвесь экран \n- Ніколі не паказваць \n\n\"&lt;b>Узровень 2&lt;/b>\" \n- Прадухіліць высвятленне на ўвесь экран \n- Ніколі не паказваць \n- Зрабіць бязгучным і без вібрацыі \n\n\"&lt;b>Узровень 1&lt;/b>\" \n- Прадухіліць высвятленне на ўвесь экран \n- Ніколі не паказваць \n- Зрабіць бязгучным і без вібрацыі \n- Схаваць з экрана блакавання і панэлі стану \n- Паказаць у ніжняй частцы спісу апавяшчэнняў \n\n\"&lt;b>Узровень 0&lt;/b>\" \n- Блакаваць усе апавяшчэння праграмы "</string>
   <string name="power_remaining_charging_duration_only">%1$s засталося да поўнай зарадкі</string>
@@ -2010,7 +2008,6 @@
   <string name="wifi_is_off">Wi-Fi выключаны</string>
   <string name="wifi_limited_connection">Абмежаваныя магчымасці падключэння</string>
   <string name="wifi_metered_label">Лімітаваная</string>
-  <string name="wifi_network_prefix_length_hint">24</string>
   <string name="wifi_no_internet">Не можа злучыцца з інтэрнэтам</string>
   <string name="wifi_no_internet_no_reconnect">Не можа злучыцца з інтэрнэтам</string>
   <string name="wifi_not_in_range">Недаступна</string>

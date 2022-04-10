@@ -61,10 +61,10 @@
     <item quantity="many">Выдаліць %d задач?</item>
   </plurals>
   <plurals name="download_info_count_deleted_tasks">
-    <item quantity="other">Выдалена %1$d спамповак</item>
-    <item quantity="one">Выдалена %1$d спампоўка</item>
-    <item quantity="few">Выдалена %1$d спампоўкі</item>
-    <item quantity="many">Выдалена %1$d спамповак</item>
+    <item quantity="other">Выдалена %s спамповак</item>
+    <item quantity="one">Выдалена %s спампоўка</item>
+    <item quantity="few">Выдалена %s спампоўкі</item>
+    <item quantity="many">Выдалена %s спамповак</item>
   </plurals>
   <plurals name="durationDays">
     <item quantity="other">%1$d дзён</item>

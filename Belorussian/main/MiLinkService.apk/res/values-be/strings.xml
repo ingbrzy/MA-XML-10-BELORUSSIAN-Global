@@ -489,8 +489,6 @@
   <string name="privacy_update_dialog_negative_btn">Адмена</string>
   <string name="privacy_update_dialog_positive_btn">Згодзен</string>
   <string name="privacy_update_dialog_quit">Выхад</string>
-  <string name="config_wifi_label_china">Наладзіць Tapcast Wi-Fi</string>
-  <string name="config_wifi_label_global">Наладзіць Tapcast Wi-Fi</string>
   <string name="connect_device_fail">Немагчыма падлучыцца да прылады</string>
   <string name="dual_wifi_warning_china">Выключыце падвойны Wi-Fi і паспрабуйце яшчэ раз</string>
   <string name="dual_wifi_warning_global">Выключыце падвойны Wi-Fi і паспрабуйце яшчэ раз</string>

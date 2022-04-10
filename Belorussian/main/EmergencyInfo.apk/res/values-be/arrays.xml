@@ -77,8 +77,6 @@
         <item>Аўдыя Qualcomm® aptX™</item>
         <item>Аўдыя Qualcomm® aptX™ HD</item>
         <item>LDAC</item>
-        <item>Уключыць дадатковыя кодэкі</item>
-        <item>Адключыць дадатковыя кодэкі</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
         <item>Выбар сістэмы (стандартны)</item>
@@ -87,20 +85,12 @@
         <item>Аўдыя Qualcomm® aptX™</item>
         <item>Аўдыя Qualcomm® aptX™ HD</item>
         <item>LDAC</item>
-        <item>Уключыць дадатковыя кодэкі</item>
-        <item>Адключыць дадатковыя кодэкі</item>
     </string-array>
     <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>
         <item>, уключана</item>
         <item>, уключана (мультымедыя)</item>
         <item>, уключана (тэлефон)</item>
-    </string-array>
-    <string-array name="bluetooth_avrcp_version_values">
-        <item>avrcp14</item>
-        <item>avrcp13</item>
-        <item>avrcp15</item>
-        <item>avrcp16</item>
     </string-array>
     <string-array name="bluetooth_avrcp_versions">
         <item>AVRCP 1.4 (стандартная)</item>

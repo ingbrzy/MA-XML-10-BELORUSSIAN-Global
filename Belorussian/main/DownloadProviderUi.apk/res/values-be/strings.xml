@@ -764,8 +764,6 @@
   <string name="pref_download_storage_path_2">Месцазнаходжанне для загружаных элементаў</string>
   <string name="category">Катэгорыя</string>
   <string name="downloadCount">Спампоўкі</string>
-  <string name="hundredmillions">мiль.</string>
   <string name="nowInstall">Усталяваць</string>
   <string name="size">Памер</string>
-  <string name="tenthousands">тыс.</string>
 </resources>

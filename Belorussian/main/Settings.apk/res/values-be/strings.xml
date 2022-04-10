@@ -2670,7 +2670,7 @@
   <string name="face_data_manage_unlock_title">Разблакоўка па твару</string>
   <string name="face_data_siggesstion_next">Далей</string>
   <string name="face_data_siggesstion_next_time">Далей (%d сек.)</string>
-  <string name="face_data_suggesstion_first">Разблакіроўка па твару больш небясьпечная, чым PIN-код, пароль або шаблон. Ваша прылада можа быць разблакаваная вашай фатаграфіяй, а таксама  людзьмі з падобнай знешнасцю.</string>
+  <string name="face_data_suggesstion_first">Разблакіроўка па твару менш бяспечная, чым PIN-код, пароль або шаблон. Ваша прылада можа быць разблакаваная вашай фатаграфіяй, а таксама  людзьмі з падобнай знешнасцю.</string>
   <string name="face_data_suggesstion_second">Пераканайцеся, што ўсе часткі вашага твару добра бачныя. Не насiце ніякіх аксесуараў, якія могуць закрываць твар. Ваш твар павінен быць добра асветлены.</string>
   <string name="face_intro_error_max">Вы дадалі максімальную колькасць твараў</string>
   <string name="face_intro_error_unknown">Не ўдалося дадаць больш твараў</string>
@@ -9126,7 +9126,7 @@
   <string name="face_data_siggesstion_next_cn">ОК</string>
   <string name="face_data_siggesstion_next_time_cn">ОК (%d сек.)</string>
   <string name="face_data_suggesstion_first_cn">"Каб вы маглі выкарыстоўваць гэтую функцыю, нам неабходна сабраць дадзеныя аб вашым твары. Гэтыя дадзеныя будуць захоўвацца лакальна на гэтай прыладзе.
-Разблакіроўка тварам больш небясьпечная, чым PIN-код, пароль або шаблон. Ваша прылада можа быць разблакавалі вашай фатаграфіяй, а таксама з людзьмі з падобнай знешнасцю."</string>
+Разблакіроўка па твару менш бяспечная, чым PIN-код, пароль або шаблон. Ваша прылада можа быць разблакавана вашай фатаграфіяй, а таксама з людзьмі з падобнай знешнасцю."</string>
   <string name="finger_add_user_info_dialog_cancel">Адмена</string>
   <string name="finger_add_user_info_dialog_message">Каб вы маглі выкарыстоўваць разблакоўку і здзяйсняць плацяжы па адбітку пальца, нам неабходна захаваць ваш адбітак пальца. Адбітак пальца будзе захоўвацца лакальна на гэтай прыладзе. Вы не зможаце выкарыстоўваць гэтую функцыю, калі не згодныя.</string>
   <string name="finger_add_user_info_dialog_next">Згодзен</string>

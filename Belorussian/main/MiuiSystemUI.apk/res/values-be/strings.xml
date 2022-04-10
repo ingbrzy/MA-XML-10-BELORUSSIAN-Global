@@ -2640,4 +2640,17 @@
   <string name="using_camera">Гэта праграма выкарыстоўвае камеру</string>
   <string name="using_camera_and_microphone">Гэта праграма запісвае гук і выкарыстоўвае камеру</string>
   <string name="using_microphone">Гэта праграма запісвае гук</string>
+  <string name="gxzw_quick_open_add_note">Дадаць нататку</string>
+  <string name="gxzw_quick_open_add_note_sub">Нататкі</string>
+  <string name="gxzw_quick_open_dialer">Набор нумара</string>
+  <string name="gxzw_quick_open_dialer_sub">Тэлефон</string>
+  <string name="material_hour_suffix">%1$s г.</string>
+  <string name="material_slider_range_end">Канец дыяпазону,</string>
+  <string name="material_slider_range_start">Пачатак дыяпазону,</string>
+  <string name="material_timepicker_am">ДП</string>
+  <string name="material_timepicker_pm">ПП</string>
+  <string name="traffic_unit_byte">" Б"</string>
+  <string name="traffic_unit_gigabyte">" ГБ"</string>
+  <string name="traffic_unit_kilobyte">" КБ"</string>
+  <string name="traffic_unit_megabyte">" МБ"</string>
 </resources>

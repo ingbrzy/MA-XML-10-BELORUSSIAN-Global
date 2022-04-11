@@ -273,7 +273,7 @@
   <string name="settings_pc_history_title">Гісторыя падлучэнняў</string>
   <string name="settings_pc_trusted_title">Аўтаматычнае падлучэнне</string>
   <string name="settings_pc_use_tile">Аб гэтай функцыі</string>
-  <string name="settings_scanner_summary">Падлучыцеся да MIUI+ з дапамогай QR-коду</string>
+  <string name="settings_scanner_summary">Падлучэнне з дапамогай QR-коду</string>
   <string name="settings_trusted_tips_china">Аўтаматычнае падлучэнне да абраных прылад паблізу пры ўключэнні Bluetooth і Wi-Fi</string>
   <string name="softap_notification_action">Падлучыцца</string>
   <string name="softap_notification_message">Няма даступных сетак Wi-Fi. Падлучыцца да гэтага пункту доступу?</string>
@@ -349,7 +349,7 @@
   <string name="pad_settings_pc_use_tile">Аб гэтай функцыі</string>
   <string name="pad_settings_phone_handoff_summary">Выкарыстоўвайце перадачу абслугоўвання з праграмамі, буферам абмену, відэа і іншымі элементамі на іншай прыладзе, звязанай з вашым Mi акаўнтам.</string>
   <string name="pad_settings_phone_handoff_title">Перадача абслугоўвання</string>
-  <string name="pad_settings_scanner_summary">Падлучыцеся да MIUI+ з дапамогай QR-кода</string>
+  <string name="pad_settings_scanner_summary">Падлучэнне з дапамогай QR-коду</string>
   <string name="pad_settings_trusted_delete_dialog_msg">Вы не зможаце падлучыцца да гэтай прылады аўтаматычна пасля выдалення яе са спісу.</string>
   <string name="pad_settings_trusted_tips">Аўтаматычнае падлучэнне да абраных бліжэйшых прылад пры ўключэнні Bluetooth і Wi-Fi</string>
   <string name="pad_settings_trusted_tips_china">Аўтаматычнае падлучэнне да абраных бліжэйшых прылад пры ўключэнні Bluetooth і Wi-Fi</string>

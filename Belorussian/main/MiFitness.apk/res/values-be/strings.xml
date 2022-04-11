@@ -4690,4 +4690,6 @@
   <string name="userinfo_select_avatar">Выберыце аватар</string>
   <string name="userinfo_target_dynamic_indicators_stand_desc_first">Доўгае сядзенне і рух нанясуць шкоду здароўю, рэкамендуецца хадзіць кожную гадзіну.</string>
   <string name="userinfo_target_dynamic_indicators_stand_desc_second">Ваша носная прылада падтрымлівае выяўленне індыкатара \"Размiнка\", рэкамендуецца ўсталяваць яго ў якасці індыкатара жыццяздольнасці.</string>
+  <string name="body_movement_information">Дазвол на інфармацыю аб руху цела</string>
+  <string name="body_movement_information_desc">Для запісу колькасцi крокаў і пройдзенай адлегласці</string>
 </resources>

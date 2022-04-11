@@ -35,8 +35,8 @@
   <string name="clearable_edittext_clear_description">Ачысціць</string>
   <string name="console_guide_btn_got_it">Зразумела</string>
   <string name="console_guide_subtitle_hang_up">Не перапыняйце трансляцыю, калі экран тэлефона выключаны. Гэтая функцыя можа павялічыць энергаспажыванне.</string>
-  <string name="console_guide_subtitle_private">Ня перадавайце усплывальныя паведамлення, паведамлення аб ўваходзяць выклікі і іншыя элементы, якія могуць утрымліваць асабістую інфармацыю.</string>
-  <string name="console_guide_subtitle_small_window">Мінімізуйце праецыююцца акно, каб мець магчымасць выкарыстоўваць іншыя функцыі вашага тэлефона падчас трансляцыі</string>
+  <string name="console_guide_subtitle_private">Ня перадавайце усплывальныя паведамлення, паведамлення аб ўваходзячых выкліках і іншыя элементы, якія могуць утрымліваць асабістую інфармацыю.</string>
+  <string name="console_guide_subtitle_small_window">Мінімізуйце праецыюемае акно, каб мець магчымасць выкарыстоўваць іншыя функцыі вашага тэлефона падчас трансляцыі</string>
   <string name="date_picker_lunar">Традыцыйны кітайскі каляндар</string>
   <string name="dialog_can_not_find_device">Не атрымалася знайсці прылады паблізу</string>
   <string name="dialog_cancle">Адмена</string>
@@ -46,13 +46,13 @@
   <string name="dialog_connect_verify_perssion_fail">Не ўдалося вырашыць трансляцыю на вашым тэлевізары. Пачакайце хвіліну ці дзве і паспрабуйце ізноў.</string>
   <string name="dialog_connected">Падлучаны</string>
   <string name="dialog_connecting">Падключэнне…</string>
-  <string name="dialog_nfc_cast_wifi_off">Уключыце Wi-Fi, каб мець магчымасць трансляваць з выкарыстаннем NFC. Ўключыць цяпер?</string>
+  <string name="dialog_nfc_cast_wifi_off">Уключыце Wi-Fi, каб мець магчымасць трансляваць з выкарыстаннем NFC. Уключыць?</string>
   <string name="dialog_no_device_message">1. Падключыце тэлефон і тэлевізар да адной сеткі Wi-Fi.\n\n2. На некаторых мадэлях тэлевізараў гэтая функцыя даступная толькі пры уключанай трансляцыі экрана.</string>
   <string name="dialog_no_device_message_china">1. Падключыце тэлефон і тэлевізар да адной сеткі Wi-Fi.\n\n2. На некаторых мадэлях тэлевізараў гэтая функцыя даступная толькі пры уключанай трансляцыі экрана.</string>
   <string name="dialog_ok">ОК</string>
   <string name="dialog_only_suport_content">Паток фатаграфій, відэа ці музыкі</string>
   <string name="dialog_open_wifi_bt">Уключыць</string>
-  <string name="dialog_please_make_sure_tv_ok_or_help">Пераканайцеся, што на мэтавым прыладзе ўключана функцыя бесправадной трансляцыі экрана.\nДля атрымання дадатковай інфармацыі глядзіце даведку.</string>
+  <string name="dialog_please_make_sure_tv_ok_or_help">Пераканайцеся, што на мэтавай прыладзе ўключана функцыя бесправадной трансляцыі экрана.\nДля атрымання дадатковай інфармацыі глядзіце даведку.</string>
   <string name="dialog_recent_connected">Апошнія</string>
   <string name="dialog_retry">Паспрабаваць яшчэ раз</string>
   <string name="dialog_scan_message">1. Падключыце тэлефон і тэлевізар да адной сеткі Wi-Fi.\n\n2. На некаторых мадэлях тэлевізараў гэтая функцыя даступная толькі пры уключанай трансляцыі экрана.</string>
@@ -106,7 +106,7 @@
   <string name="friday_short">Птн</string>
   <string name="friday_shortest">Птн</string>
   <string name="hang_up">Пры выключаным</string>
-  <string name="hang_up_alert_dialog_content">Трансляцыя не будзе перарвана, калі экран вашага тэлефона выключыцца. Націсніце кнопку харчавання на тэлефоне, каб зноў ўключыць экран.</string>
+  <string name="hang_up_alert_dialog_content">Трансляцыя не будзе перарвана, калі экран вашага тэлефона выключыцца. Націсніце кнопку сiлкавання на тэлефоне, каб зноў ўключыць экран.</string>
   <string name="hang_up_alert_dialog_neg">Адмена</string>
   <string name="hang_up_alert_dialog_pos">ОК</string>
   <string name="hang_up_alert_dialog_title">Аб трансляцыі з выключаным экранам</string>
@@ -124,6 +124,7 @@
 Калі дзве прылады немагчыма падключыць да адной і той жа сеткі, уключыце Miracast на знешнім маніторы. Назва функцыі Miracast можа быць рознай."</string>
   <string name="help_page_text_08">Крок 2: уключыце трансляцыю</string>
   <string name="help_page_text_09">Націсніце на перамыкач «Трансляцыя» у панэлі апавяшчэнняў тэлефона. Уключыце адначасова Wi-Fi і Bluetooth для больш стабільнага злучэння.</string>
+  <string name="help_page_text_09_global">Націсніце на перамыкач «Трансляцыя» у панэлі апавяшчэнняў тэлефона. Уключыце адначасова Wi-Fi і Bluetooth для больш стабільнага злучэння.</string>
   <string name="help_page_text_10">"Калі вы хочаце трансляваць аб'екты з Галерэі або Mi Відэа, вы можаце выкарыстоўваць убудаваныя функцыі трансляцыі гэтых праграм."</string>
   <string name="help_page_text_11">Крок 3: выберыце прыладу</string>
   <string name="help_page_text_12">Выберыце знешнюю прыладу з спісу даступных прылад, каб пачаць трансляцыю.</string>
@@ -246,20 +247,20 @@
   <string name="privacy_agree">Згодны</string>
   <string name="privacy_detail">Дазвольце гэтай праграме падлучацца да Інтэрнэту і дайце неабходныя дазволы, перш чым працягнуць.</string>
   <string name="privacy_detail_extra">Прыміце наша Карыстальніцкае пагадненне</string>
-  <string name="privacy_explain">Вы можаце выкарыстоўваць гэту праграму для сінхранізацыі экрана мабільнага тэлефона з іншымі прыладамі з вялікім экранам у рэжыме рэальнага часу. У працэсе выкарыстання гэтай праграмы мы падключымся да інтэрнэту і звернемся да вас за наступнымі дазволамі:</string>
+  <string name="privacy_explain">Вы можаце выкарыстоўваць гэту праграму для сінхранізацыі экрана мабільнага тэлефона з іншымі прыладамі з вялікім экранам у рэжыме рэальнага часу. У працэсе выкарыстання гэтай праграмы мы падлучымся да інтэрнэту і звернемся да вас за наступнымі дазволамі:</string>
   <string name="privacy_negative">Выхад</string>
   <string name="privacy_permission_ble">Уключаць/выключаць Bluetooth</string>
-  <string name="privacy_permission_ble_desc">Выкарыстоўвайце Bluetooth для сканавання суседніх прылад з падтрымкай экрана</string>
+  <string name="privacy_permission_ble_desc">Выкарыстоўваць Bluetooth для сканавання суседніх прылад з падтрымкай экрана</string>
   <string name="privacy_permission_location">Атрымліваць інфармацыю пра месцазнаходжанне</string>
-  <string name="privacy_permission_location_desc">Атрымаць інфармацыю пра бліжэйшыя прыладах з вялікімі экранамі</string>
+  <string name="privacy_permission_location_desc">Атрымліваць інфармацыю пра бліжэйшыя прылады з вялікімі экранамі</string>
   <string name="privacy_permission_necessary">Неабходныя дазволы</string>
   <string name="privacy_permission_necessary_desc">Асноўныя сэрвісы і функцыі для праграмы</string>
   <string name="privacy_permission_nfc">NFC</string>
-  <string name="privacy_permission_nfc_desc">Выкарыстоўвайце NFC для падлучэння прылады, на якое вы хочаце трансляваць</string>
-  <string name="privacy_permission_optional">Неабавязковыя дазволу</string>
+  <string name="privacy_permission_nfc_desc">Выкарыстоўваць NFC для падлучэння прылады, на якую вы хочаце трансляваць</string>
+  <string name="privacy_permission_optional">Неабавязковыя дазволы</string>
   <string name="privacy_permission_optional_desc">Выкарыстоўваюцца для дадатковых функцый</string>
   <string name="privacy_permission_wlan">Уключаць/выключаць Wi-Fi</string>
-  <string name="privacy_permission_wlan_desc">Выкарыстоўвайце Wi-Fi для сканавання суседніх прылад з падтрымкай вялікіх экранаў</string>
+  <string name="privacy_permission_wlan_desc">Выкарыстоўваць Wi-Fi для сканавання суседніх прылад з падтрымкай вялікіх экранаў</string>
   <string name="privacy_positive">Згодны</string>
   <string name="privacy_text_1">Сардэчна запрашаем у Трансляцыю! Трансляцыя дазваляе праецыраваць элементы з экрана вашага тэлефона на большы знешні манітор.\nМы будзем абараняць вашу асабістую інфармацыю ў адпаведнасці з дзеючым заканадаўствам, правіламі і палітыкай прыватнасці. Некаторыя функцыі прадастаўляюцца іншым пастаўшчыком паслуг HappyCast.\nДля нармальнай працы гэта праграма павінна падлучацца да Інтэрнэту і патрабаваць наступныя дазволы для збору вашай асабістай інфармацыі:</string>
   <string name="privacy_text_2">Калі вы не згодныя даць такія дазволы або прадаставіць сваю асабістую інфармацыю, вы не зможаце выкарыстоўваць гэту праграму. У гэтым выпадку вы можаце выдаліць гэту праграму, выйсці з сістэмы або абмежаваць дазволы ў наладах.\nПрачытайце і прыміце нашы Пагадненне карыстальніка і Палітыку прыватнасці, перш чым выкарыстоўваць гэту праграму.</string>
@@ -302,7 +303,6 @@
   <string name="solar_term_winter_solstice">Зімовае сонцастаянне</string>
   <string name="status_bar_in_casting">Трансляцыя</string>
   <string name="status_bar_in_casting_long">Націсніце, каб пашырыць магчымасці</string>
-  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="sunday">Нядзеля</string>
   <string name="sunday_short">Ндз</string>
   <string name="sunday_shortest">Ндз</string>
@@ -359,7 +359,7 @@
   <string name="toast_msg_for_small_window">Пасля адкрыцця праграмы, якую вы хочаце трансляваць, выкарыстоўвайце функцыю трансляцыі невялікага вакна, гэта не прывядзе да спынення праграмы, а мабільны тэлефон можа працаваць з іншымі праграмамі.</string>
   <string name="toast_nfc_dont_move">Не адсоўвайце свой тэлефон</string>
   <string name="toast_title_for_small_window">Калі ласка, выкарыстоўвайце невялікае акно для трансляцыі ў праграме.</string>
-  <string name="toast_turn_off_hotspot_before_cast">Выключыце партатыўную кропку доступу перад трансляцыяй</string>
+  <string name="toast_turn_off_hotspot_before_cast">Адключыце прункт доступу перад трансляцыяй</string>
   <string name="today">Сёння</string>
   <string name="tomorrow">Заўтра</string>
   <string name="tuesday">Аўторак</string>
@@ -372,7 +372,7 @@
   <string name="privacy_permission_wlan_china">Уключаць/выключаць Wi-Fi</string>
   <string name="privacy_permission_wlan_desc_china">Для пошуку даступных прылад паблізу</string>
   <string name="account_other">Іншыя</string>
-  <string name="close_hotspot_hint">Адключыце партатыўную кропку доступу перад трансляцыяй</string>
+  <string name="close_hotspot_hint">Адключыце прункт доступу перад трансляцыяй</string>
   <string name="close_slave_wifi_hint">Адключыцеся ад дапаможных сетак Wi-Fi перад трансляцыяй</string>
   <string name="close_slave_wifi_hint_china">Адключыцеся ад дапаможных сетак Wi-Fi перад трансляцыяй</string>
   <string name="enable_screen_projection_summary">Вывесці змесціва экрана на знешні манітор</string>
@@ -454,8 +454,8 @@
   <string name="send">Адправіць</string>
   <string name="debug_mode_merge_support">Ці падтрымліваць аб\'яднанне праграм</string>
   <string name="debug_mode_milink_version">Версія праграмы</string>
-  <string name="dialog_scanning_precondition_new_china">Уключыце Wi-Fi, Bluetooth і службы вызначэння месцазнаходжання, каб выкарыстоўваць трансляцыю. Уключыць зараз?</string>
-  <string name="dialog_scanning_precondition_new_global">Уключыце Wi-Fi, Bluetooth і службы вызначэння месцазнаходжання, каб выкарыстоўваць трансляцыю. Уключыць зараз?</string>
+  <string name="dialog_scanning_precondition_new_china">Уключыце Wi-Fi, Bluetooth і службы вызначэння месцазнаходжання, каб выкарыстоўваць трансляцыю. Уключыць?</string>
+  <string name="dialog_scanning_precondition_new_global">Уключыце Wi-Fi, Bluetooth і службы вызначэння месцазнаходжання, каб выкарыстоўваць трансляцыю. Уключыць?</string>
   <string name="audio_record_des">Для перадачы гуку з прылады на знешнія маніторы</string>
   <string name="dialog_location_permission_message">Гэтай праграме патрабуецца доступ да вашага месцазнаходжання, каб мець магчымасць знаходзіць знешнія маніторы паблізу. Абярыце \"Дазволіць на ўвесь час\", даючы гэты дазвол, каб пазбегнуць магчымых памылак.</string>
   <string name="dialog_location_permission_title">Патрабуюцца дазволы</string>
@@ -494,7 +494,7 @@
   <string name="dual_wifi_warning_global">Выключыце падвойны Wi-Fi і паспрабуйце яшчэ раз</string>
   <string name="msg_send_fail">Немагчыма перадаць дадзеныя</string>
   <string name="paipai_connect_btn_text">Гатова</string>
-  <string name="paipai_connect_tv1_text">Падключана да прылады</string>
+  <string name="paipai_connect_tv1_text">Падлучана да прылады</string>
   <string name="paipai_connect_tv2_text">Перададзеныя дадзеныя</string>
   <string name="paipai_error_dialog_msg">Праверце настройкі сеткі і паспрабуйце яшчэ раз.</string>
   <string name="paipai_error_dialog_negative">Зразумела</string>
@@ -587,7 +587,7 @@
   <string name="circulate_card_sticker_remote_control_home">Дадому</string>
   <string name="circulate_card_sticker_remote_control_left">Левая</string>
   <string name="circulate_card_sticker_remote_control_menu">Меню</string>
-  <string name="circulate_card_sticker_remote_control_power">Харчаванне</string>
+  <string name="circulate_card_sticker_remote_control_power">Сiлкаванне</string>
   <string name="circulate_card_sticker_remote_control_return">Назад</string>
   <string name="circulate_card_sticker_remote_control_right">Правая</string>
   <string name="circulate_card_sticker_remote_control_top">Уверх</string>

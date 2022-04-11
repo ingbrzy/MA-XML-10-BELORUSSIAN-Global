@@ -486,4 +486,8 @@
   <string name="xiaomi_account_bt_sync_name">Спалучаныя прылады</string>
   <string name="yesterday">Учора</string>
   <string name="ble_device_profile_summary">Кіраванне гэтай прыладай</string>
+  <string name="headset_incall_answer">Адказаць</string>
+  <string name="headset_incall_reject">Адмена</string>
+  <string name="headset_incall_summary">Адказаць на выклік %1$s праз навушнікі? Навушнікі застануцца падлучанымі да гэтай прылады пасля завяршэння выкліку.</string>
+  <string name="headset_incall_title">Адказаць на выклік у навушніках</string>
 </resources>

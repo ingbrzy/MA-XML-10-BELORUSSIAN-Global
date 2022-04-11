@@ -506,4 +506,8 @@
   <string name="dark_mode_suggest_message">Цёмны рэжым можа аўтаматычна ўключацца на заходзе і выключацца на досвітку. Уключыць гэтую функцыю?</string>
   <string name="dark_mode_suggest_title">Аўтаўключэнне рэжыму</string>
   <string name="dark_mode_suggest_toast">Цёмны рэжым будзе аўтаматычна ўключацца на заходзе і выключацца на досвітку</string>
+  <string name="sc_notification_warning_title">Пераключыць рэжым паказу</string>
+  <string name="wallpaper_group_concerto_title">Канцэрт</string>
+  <string name="wallpaper_group_molten_glass_title">Расплаўленае шкло</string>
+  <string name="wallpaper_group_red_mars_title">Марс</string>
 </resources>

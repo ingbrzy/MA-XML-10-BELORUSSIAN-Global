@@ -981,4 +981,12 @@
   <string name="apps_cannot_be_transfered_summary">Гэтыя 64-разрадныя праграмы нельга перанесці на 32-разрадную прыладу. Пасля пераносу іх можна загрузіць непасрэдна з GetApps.</string>
   <string name="apps_cannot_be_transfered_title">Немагчыма перанесці гэтыя праграмы</string>
   <string name="refuse_accept">Не згодзен</string>
+  <string name="apple_install_background_downloading">Загрузка праграм у фонавым рэжыме…</string>
+  <string name="apple_install_get_data_faild">Адбылася памылка</string>
+  <string name="apple_install_install_immediately_default">Усталяваць</string>
+  <string name="apple_install_skip">Прапусціць</string>
+  <string name="apple_install_sub_title">Вылучаныя праграмы будуць загружаныя з GetApps</string>
+  <string name="apple_install_title">Праграмы са старой прылады</string>
+  <string name="deselect_all">Адмяніць выбар</string>
+  <string name="select_all">Абраць усе</string>
 </resources>

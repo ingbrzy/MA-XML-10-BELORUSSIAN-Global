@@ -961,7 +961,7 @@
   <string name="block_list_dialog_title">Адключыць зараз?</string>
   <string name="block_list_no_device">Няма падлучаных прылад у чорным спісе</string>
   <string name="block_list_remove_dialog_content">Прылада \"%s\" зможа падключацца да гэтага пункту доступу</string>
-  <string name="block_list_remove_dialog_title">Выдаленне \"%s\" з чорнага спісу</string>
+  <string name="block_list_remove_dialog_title">Увага</string>
   <string name="block_list_summary">Прагляд прылад, якім забаронены доступ да гэтага пункту доступу</string>
   <string name="block_list_title">Чорны спіс</string>
   <string name="block_title">Паказваць апавяшчэння</string>

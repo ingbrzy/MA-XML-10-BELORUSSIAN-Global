@@ -190,4 +190,9 @@
     <item quantity="other">Даступныя 64-разрадныя версіі для %1$d праграм</item>
     <item quantity="one">Даступна 64-разрадная версія для %1$d праграмы</item>
   </plurals>
+  <plurals name="apple_install_install_immediately">
+    <item quantity="other">Усталяваць %d праграм</item>
+    <item quantity="one">Усталяваць %d праграму</item>
+    <item quantity="few">Усталяваць %d праграмы</item>
+  </plurals>
 </resources>

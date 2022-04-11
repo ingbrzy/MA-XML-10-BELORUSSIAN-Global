@@ -104,10 +104,10 @@
   <string name="app_self_upgrade_dlg_negative_btn">Пазней</string>
   <string name="app_self_upgrade_dlg_postive_btn">Абнавіць</string>
   <string name="app_self_upgrade_dlg_title">Даступна абнаўленне</string>
-  <string name="app_self_upgrade_toast_downloading_install">Абнаўленне …</string>
+  <string name="app_self_upgrade_toast_downloading_install">Абнаўленне…</string>
   <string name="apply">Прымяніць</string>
   <string name="apply_to_above_all">Устанавіць усюды</string>
-  <string name="apply_to_screenlock">Устанавіць на экран блакіроўкі</string>
+  <string name="apply_to_screenlock">Устанавіць на экран блакавання</string>
   <string name="apply_to_wallpaper">Устанавіць на працоўны стол</string>
   <string name="article_item_hot">Паглядзіце новыя папулярныя артыкулы : %s+</string>
   <string name="at_least_one">Абярыце хоць б адну катэгорыю</string>
@@ -122,18 +122,18 @@
   <string name="cancel_mfashiongallery_service">Адмова ад выкарыстання праграмы Карусель шпалер</string>
   <string name="cancel_network">Выхад</string>
   <string name="cancel_service">Адмова ад выкарыстання</string>
-  <string name="cancel_service_running">Адмова ад выкарыстання …</string>
+  <string name="cancel_service_running">Адмова ад выкарыстання…</string>
   <string name="cancel_service_summary">Калі вы працягнеце, гэта будзе азначаць адмову ад выкарыстання праграмы Карусель шпалер. Ужо сабраная і захаваная асабістая інфармацыя будзе выдалена на працягу вызначанага тэрміну, у адпаведнасці з дзейнымі законамі і правіламі, калі не патрабуецца іншае. Працягнуць?</string>
   <string name="carousel_declaration_btn_text">Уключыць Карусель шпалер</string>
   <string name="carousel_declaration_cta">" Праграме Карусель шпалер для нармальнай працы патрабуецца інтэрнэт. Каб атрымаць доступ да анлайн кантэнту, вы павінны прыняць нашу &lt;a href=\"%s\">Палітыку канфідэнцыйнасці&lt;/a>. Прыняць?"</string>
   <string name="carousel_declaration_cta_btn_text">Прыняць і уключыць</string>
   <string name="carousel_declaration_des">Атрымлівайце прыгожыя выявы і захапляльныя пейзажы у Каруселі шпалер</string>
-  <string name="carousel_declaration_des_new">Рэгулярна абнаўляюцца шпалеры і гісторыі для экрана блакіроўкі і працоўнага стала</string>
+  <string name="carousel_declaration_des_new">Рэгулярна абнаўляюцца шпалеры і гісторыі для экрана блакавання і працоўнага стала</string>
   <string name="carousel_declaration_des2">Дадайце свае выявы у Карусель шпалер</string>
   <string name="carousel_declaration_title">Падпіска</string>
   <string name="carousel_declaration_title_new">Новыя шпалеры штодня</string>
   <string name="carousel_suggest">Увага</string>
-  <string name="carousel_suggest1">Атрымлівайце штодня новыя шпалеры на экран блакіроўкі.</string>
+  <string name="carousel_suggest1">Атрымлівайце штодня новыя шпалеры на экран блакавання.</string>
   <string name="carousel_suggest2">Карусель шпалер уключана?</string>
   <string name="category_subscribe_failed">Ня атрымалася дадаць у падпіскі</string>
   <string name="change_activate_email">Змяніць адрас электроннай пошты</string>
@@ -152,7 +152,7 @@
   <string name="close_gallery">Адключыць</string>
   <string name="collect_diagnosis_log">Збіраць журналы</string>
   <string name="comment_pop_cancel">Ня зараз</string>
-  <string name="comment_pop_content">Пакіньце водгук , калі вам падабаецца Карусель шпалер</string>
+  <string name="comment_pop_content">Пакіньце водгук, калі вам падабаецца Карусель шпалер</string>
   <string name="comment_pop_ok">Ацаніць</string>
   <string name="comment_pop_title">Ацаніць Карусель шпалер</string>
   <string name="confirm">Уключыць</string>
@@ -164,12 +164,12 @@
   <string name="create_shortcut">Стварыць цэтлiк на працоўным стале</string>
   <string name="create_shortcut_btn">Стварыць</string>
   <string name="create_shortcut_title">Цэтлік на працоўным стале</string>
-  <string name="current_connection_invalid">Пачакайце , пакуль прылада падключыцца да сеткі</string>
+  <string name="current_connection_invalid">Пачакайце, пакуль прылада падключыцца да сеткі</string>
   <string name="current_data_invalid">Адбылася памылка</string>
   <string name="current_network_invalid">Спачатку падключыцеся да сеткі</string>
   <string name="current_no_more_pictures">Больш нічога не</string>
   <string name="current_permission_network_denied">Дазвольце Каруселі шпалер доступ да сеткі</string>
-  <string name="custom_wallpaper_des">Уключыце Карусель шпалер , дадайце свае фатаграфіі і онлайн - выявы у слайд - шоў.</string>
+  <string name="custom_wallpaper_des">Уключыце Карусель шпалер, дадайце свае фатаграфіі і анлайн-выявы у слайд-шоў.</string>
   <string name="cw_add">Дадаць</string>
   <string name="cw_add_fail">Немагчыма дадаць у слайд-шоў</string>
   <string name="cw_add_num_tip">Не атрымалася дадаць выявы ў слайд-шоў</string>
@@ -199,7 +199,7 @@
   <string name="cw_my_fav">Абраныя</string>
   <string name="cw_permission_tip">Дазвольце Каруселі шпалер доступ да сховішча ў Дазволах праграм.</string>
   <string name="cw_wallpaper_empty_dlg_btn">ОК</string>
-  <string name="cw_wallpaper_empty_dlg_content">Выявы адсутнічаюць у слайд - шоў. Будуць уключаны Гісторыі.</string>
+  <string name="cw_wallpaper_empty_dlg_content">Выявы адсутнічаюць у слайд-шоў. Будуць уключаны Гісторыі.</string>
   <string name="cw_wallpaper_empty_dlg_title">Пераключэнне рэжыму</string>
   <string name="cw_wallpaper_manager">Выбар катэгорый</string>
   <string name="date_picker_lunar">Традыцыйны кітайскі каляндар</string>
@@ -231,7 +231,7 @@
   <string name="detail_no_net">Ня атрымалася падключыцца да сеткі</string>
   <string name="detail_outer_menu_icon">Меню</string>
   <string name="detail_recomm_fail">Ня атрымалася загрузіць гісторыі</string>
-  <string name="detail_recomm_load_tip">Загрузка гісторый …</string>
+  <string name="detail_recomm_load_tip">Загрузка гісторый…</string>
   <string name="detail_share_moment">Моманты</string>
   <string name="detail_share_qq">QQ</string>
   <string name="detail_share_qzone">Qzone</string>
@@ -256,13 +256,13 @@
   <string name="dot_and_space">•</string>
   <string name="double_click_to_exit_activity">Націсніце яшчэ раз для выхаду</string>
   <string name="early_morning">Раніца</string>
-  <string name="edit_wallpaper">Упраўленне шпалерамі</string>
+  <string name="edit_wallpaper">Кiраванне шпалерамі</string>
   <string name="enable_toast_ar">Пераключэнне на Гісторыі</string>
   <string name="enable_toast_cw">Пераключэнне на слайд - шоу</string>
   <string name="enable_toast_cwo">Уключэнне Каруселі шпалер і запуск слайд - шоу</string>
   <string name="enable_toast_subscribe">Уключэнне Каруселі шпалер і актывацыя катэгорый.</string>
   <string name="eras_ad">н. э.</string>
-  <string name="eras_bc">до н. э.</string>
+  <string name="eras_bc">да н. э.</string>
   <string name="error_dup_binded_email">Гэты адрас электроннай пошты звязаны з іншым Mi Акаўнтам.</string>
   <string name="error_icon_content_description">Памылка</string>
   <string name="error_invalid_bind_address">Няправільны адрас эл. пошты.</string>
@@ -275,8 +275,8 @@
   <string name="external_storage_permission_summary">Для выбару шпалер і захавання загружаных выяў</string>
   <string name="failed_dup_secure_phone_number">Гэты нумар тэлефона ўжо звязаны з іншым Mi Акаўнтам</string>
   <string name="favor_list_no_data">Нічога не</string>
-  <string name="favor_list_title">Выбраныя</string>
-  <string name="favor_success">Паведамленні у абраныя</string>
+  <string name="favor_list_title">Абранае</string>
+  <string name="favor_success">Паспяхова дададзена ў абранае</string>
   <string name="feed_article_entrance_about">Аб \"%s\"</string>
   <string name="find_psw">Забылі пароль?</string>
   <string name="fmt_chinese_date">N月e</string>
@@ -345,17 +345,17 @@
   <string name="goto_confirm">Налады</string>
   <string name="goto_sign_up">Стварыць акаўнт</string>
   <string name="header_help">Дапамога</string>
-  <string name="history_list_no_data">Нічога не</string>
+  <string name="history_list_no_data">Нічога няма</string>
   <string name="hour_1">Кожную гадзіну</string>
   <string name="hour_3">Кожныя 3 гадзіны</string>
   <string name="i_know">Зразумела</string>
   <string name="icon_content_description">Абразок дыялогу</string>
   <string name="idbct_desc">Выбар якасці загружаных шпалер</string>
   <string name="idbct_opt_auto_select_desc_text">Загружаць у стандартнай якасці па мабільным\nінтэрнэту і ў HD якасці па Wi-Fi</string>
-  <string name="idbct_opt_auto_select_main_text">Аўто</string>
+  <string name="idbct_opt_auto_select_main_text">Аўта</string>
   <string name="idbct_opt_high_def_desc_text">Загружаць заўсёды у HD якасці</string>
   <string name="idbct_opt_high_def_main_text">HD</string>
-  <string name="idbct_opt_low_dev_desc_text">Загружаць заўсёды у стандартным якасці</string>
+  <string name="idbct_opt_low_dev_desc_text">Загружаць заўсёды у стандартнай якасці</string>
   <string name="idbct_opt_low_dev_main_text">Стандартны</string>
   <string name="idbct_title">Якасць шпалер</string>
   <string name="identity">Ідэнтыфікацыя</string>
@@ -405,7 +405,7 @@
   <string name="lks_please_reload">Абнавіць</string>
   <string name="lks_related_article">Артыкул</string>
   <string name="lks_retry">Паўтор</string>
-  <string name="lks_set_as_lks_wallpaper">Усталяваць на экран блакіроўкі</string>
+  <string name="lks_set_as_lks_wallpaper">Усталяваць на экран блакавання</string>
   <string name="lks_subscription_toast">Шпалеры зменены</string>
   <string name="lks_to_history">Гісторыя</string>
   <string name="lks_to_setting">Налады Каруселі шпалер</string>
@@ -417,7 +417,7 @@
   <string name="llks_pop_btm_des">Пачніце дзень з усмешкі</string>
   <string name="llks_pop_btm_des_backup">Добрага пачатку дня</string>
   <string name="llks_pop_btm_title">Добрай раніцы</string>
-  <string name="llks_pop_btm_title_backup">Ранішнія прывітанні</string>
+  <string name="llks_pop_btm_title_backup">Ранішнія прывітання</string>
   <string name="llks_pop_i_know">Зразумела</string>
   <string name="llks_pop_top_des">Атрымліваць рэгулярна абнаўляемыя шпалеры і ранішнія прывітання</string>
   <string name="llks_pop_top_des_backup">Атрымліваць штодня</string>
@@ -431,11 +431,11 @@
   <string name="llks_subscribe">Падпісацца</string>
   <string name="llks_subscribe_sucess">У падпісках</string>
   <string name="llks_tools_gallery_name">Карусель шпалер</string>
-  <string name="llks_tools_mipay_wallet_name">Mi Wallet</string>
+  <string name="llks_tools_mipay_wallet_name">Mi паперник</string>
   <string name="llks_tools_nfc_data">%s CNY</string>
   <string name="llks_tools_nfc_name">NFC</string>
-  <string name="llks_tools_remote_control_name">Mi Remote</string>
-  <string name="llks_tools_smart_devices_name">Mi Home</string>
+  <string name="llks_tools_remote_control_name">Mi пульт</string>
+  <string name="llks_tools_smart_devices_name">Mi разумны дом</string>
   <string name="llks_try_it">Паспрабаваць</string>
   <string name="llks_whole_cate">Усе катэгорыі</string>
   <string name="load_hdpicture_complete">Зыходная выява загружана</string>
@@ -471,7 +471,7 @@
   <string name="main_fragment_title_home">Рэкамендуемыя</string>
   <string name="main_fragment_title_search">Папулярныя</string>
   <string name="main_fragment_title_user">Налады</string>
-  <string name="manage">Упраўленне</string>
+  <string name="manage">Кiраванне</string>
   <string name="midnight">Ноч</string>
   <string name="minutes_5">Кожныя 5 хвілін</string>
   <string name="minutes_15">Кожныя 15 хвілін</string>
@@ -836,7 +836,7 @@
   <string name="set_success">Зменена паспяхова</string>
   <string name="setting_about_item_des">Версія</string>
   <string name="setting_about_item_title">Аб Каруселі шпалер</string>
-  <string name="setting_des">Вы можаце наладзіць слайд-шоў у Налады > Блакаванне і абарона > Карусель шпалер</string>
+  <string name="setting_des">Вы можаце наладзіць слайд-шоў у Налады > Экран блакавання > Карусель шпалер</string>
   <string name="setting_head">Налады</string>
   <string name="setting_ok">Налады</string>
   <string name="setting_tip">Больш не паказваць</string>
@@ -863,7 +863,7 @@
   <string name="sign_in_progress">Уваход…</string>
   <string name="sign_in_title">Увайсці ў Mi Акаўнт</string>
   <string name="skip_query_account">Прапусціць</string>
-  <string name="sliding_on_unlock">Свайп уверх для разблакіроўкі</string>
+  <string name="sliding_on_unlock">Свайп уверх для разблакавання</string>
   <string name="sms_send_success">Адпраўлен паспяхова</string>
   <string name="sns_access_token_expired_warning">Сеанс састарэл. Увайдзіце зноў, каб паўторна падлучыць гэты аккаўнт.</string>
   <string name="sns_bind_limit">Занадта шмат спробаў. Паспрабуйце іншыя спосабы ўваходу.</string>
@@ -896,8 +896,8 @@
   <string name="sst_auto_recommand_title">Гісторыі</string>
   <string name="sst_change_wallpaper_desc">Выбар экранаў</string>
   <string name="sst_change_wallpaper_desk">Працоўны стол</string>
-  <string name="sst_change_wallpaper_lock">Экран блакіроўкі</string>
-  <string name="sst_change_wallpaper_lock_desk">Экран блакіроўкі і працоўны стол</string>
+  <string name="sst_change_wallpaper_lock">Экран блакавання</string>
+  <string name="sst_change_wallpaper_lock_desk">Экран блакавання і працоўны стол</string>
   <string name="sst_change_wallpaper_title">Ужыванне шпалер</string>
   <string name="sst_close_wallpaper">Выключыць Карусель шпалер</string>
   <string name="sst_common_question">FAQ</string>
@@ -914,7 +914,7 @@
   <string name="sst_grid_view_select_all">Выбраць усе</string>
   <string name="sst_grid_view_unselect_all">Зняць вылучэнне</string>
   <string name="sst_lockscreen_show_headline_desc">Паказваць назву шпалер пад гадзінамі на экране блакавання</string>
-  <string name="sst_lockscreen_show_headline_title">Назва на экране блакіроўкі</string>
+  <string name="sst_lockscreen_show_headline_title">Назва на экране блакавання</string>
   <string name="sst_logo_desc">Штодня абнаўляемыя шпалеры</string>
   <string name="sst_mode_selection">Выбар рэжыму</string>
   <string name="sst_more_subscription">Выбар катэгорый</string>
@@ -932,7 +932,7 @@
   <string name="sst_recomm">Гісторыі</string>
   <string name="sst_require_one_category_hint">Абярыце хаця б адну катэгорыю</string>
   <string name="sst_selected_tip">Актыўна</string>
-  <string name="sst_shield_tag_desc">Упраўленне заблакаванымі катэгорыямі</string>
+  <string name="sst_shield_tag_desc">Кiраванне заблакаванымі катэгорыямі</string>
   <string name="sst_shield_tag_title">Заблакаваныя</string>
   <string name="sst_show_lockscreen_entry_desc">Паказваць цэтлiк на экране блакавання</string>
   <string name="sst_show_lockscreen_entry_title">Цэтлiк на экране блакавання</string>
@@ -957,7 +957,7 @@
   <string name="sst_wifi_only_title">Абнаўленне па Wi-Fi</string>
   <string name="status_wallpaper_loop_not_start">Адкл.</string>
   <string name="status_wallpaper_loop_start">Укл.</string>
-  <string name="subscribe_apply_wp">Шпалеры для экрана блакіроўкі паспяхова ўжыты</string>
+  <string name="subscribe_apply_wp">Шпалеры для экрана блакавання паспяхова ўжыты</string>
   <string name="subscribe_dlg_btn">Пачаць</string>
   <string name="subscribe_dlg_btn_txt">Уключыць</string>
   <string name="subscribe_dlg_content">Уключыце, каб штодня атрымліваць абнаўляемыя шпалеры на экран блакавання і ранішнія прывітання.</string>
@@ -972,7 +972,7 @@
   <string name="subscribe_success_content_per_hour">Абнаўляць кожную гадзіну</string>
   <string name="subscribe_success_content_per_quarter">Абнаўляць кожныя 15 хвілін</string>
   <string name="subscribe_success_content_per_three_hour">Абнаўляць кожныя 3 гадзіны</string>
-  <string name="subscribe_success_content_per_unlock">Абнаўляць пры разблакіроўцы</string>
+  <string name="subscribe_success_content_per_unlock">Абнаўляць пры разблакаваннi</string>
   <string name="subscribe_update_time_setting">Усталяваць іншы інтэрвал</string>
   <string name="summary">Згадзіцеся з нашай &lt;a href=\'%s\'>Палітыкай прыватнасці&lt;/a>, каб праглядаць змесціва ў Інтэрнэце. Калі вы не згодныя, лакальныя шпалеры па-ранейшаму будуць даступныя.</string>
   <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
@@ -1039,8 +1039,8 @@
   <string name="theme_applying">Ужыванне…</string>
   <string name="theme_close_maml">Карусель шпалер заменіць шпалеры экрана блакавання.</string>
   <string name="theme_des">Ужывяце тэму па змаўчанні і зноў уключыце Карусель шпалер.</string>
-  <string name="theme_des_lock_style">Ужывяце экран блакавання па змаўчанні і зноў уключыце Карусель шпалер.</string>
-  <string name="theme_des_maml">Гэта можа заняць некаторы час. Іншыя кампаненты бягучай тэмы не будуць закрануты. Тэма будзе абноўлена для ўнясення змен.</string>
+  <string name="theme_des_lock_style">Ужывiце экран блакавання па змаўчанні і зноў уключыце Карусель шпалер.</string>
+  <string name="theme_des_maml">Гэта можа заняць некаторы час. Іншыя кампаненты бягучай тэмы не будуць закранутыя. Тэма будзе абноўлена для ўнясення змен.</string>
   <string name="theme_ok">Налады</string>
   <string name="theme_title">Пераключыцца на тэму па змаўчанні</string>
   <string name="theme_title_lock_style">Пераключыцца на экран блакавання па змаўчанні</string>
@@ -1052,7 +1052,7 @@
   <string name="ticket_invalid">Уведзены няправільны код</string>
   <string name="ticket_sign_in">Увайсці з дапамогай SMS</string>
   <string name="time_current">Прама зараз</string>
-  <string name="time_interval_dialog_content1">Новая выява кожны раз пры разблакіроўцы прылады.</string>
+  <string name="time_interval_dialog_content1">Новая выява кожны раз пры разблакаваннi прылады.</string>
   <string name="time_interval_dialog_content2">Частату абнаўлення можна змяніць у \"Налады слайд-шоў\".</string>
   <string name="time_picker_dialog_title">Выставіць час</string>
   <string name="time_picker_label_hour">Г</string>
@@ -1119,6 +1119,6 @@
   <string name="wp_lockscreen_enable_title">Слайд-шоў экрана блакавання</string>
   <string name="xiaomi_market_sdk_update_dialog_cancel">Адмена</string>
   <string name="xiaomi_market_sdk_update_dialog_ok">Абнавіць</string>
-  <string name="xiaomi_market_sdk_update_dialog_title">Даступнае абнаўленне</string>
+  <string name="xiaomi_market_sdk_update_dialog_title">Даступна абнаўленне</string>
   <string name="yesterday">Учора</string>
 </resources>

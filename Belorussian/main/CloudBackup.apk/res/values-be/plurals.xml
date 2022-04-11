@@ -126,4 +126,8 @@
         <item quantity="few">Высокі прыярытэт: %d праграмы</item>
         <item quantity="many">Высокі прыярытэт: %d праграм</item>
     </plurals>
+    <plurals name="session_time_remain">
+        <item quantity="other">Засталося каля %s хв.</item>
+        <item quantity="one">Засталося каля %s хв.</item>
+  </plurals>
 </resources>

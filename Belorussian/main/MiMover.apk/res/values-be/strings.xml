@@ -987,6 +987,4 @@
   <string name="apple_install_skip">Прапусціць</string>
   <string name="apple_install_sub_title">Вылучаныя праграмы будуць загружаныя з GetApps</string>
   <string name="apple_install_title">Праграмы са старой прылады</string>
-  <string name="deselect_all">Адмяніць выбар</string>
-  <string name="select_all">Абраць усе</string>
 </resources>

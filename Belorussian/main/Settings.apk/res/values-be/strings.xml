@@ -1596,7 +1596,7 @@
   <string name="cloud_backup_section_title">Стварэнне рэзервовых копій у Воблака Xiaomi</string>
   <string name="cloud_backup_settings_section_title">Налады стварэння рэзервовых копій</string>
   <string name="cloud_category_text">Воблака</string>
-  <string name="cloud_restore_section_summary">Аднаўленне сістэмных налад, знешняга выгляду галоўнага экрана і праграм</string>
+  <string name="cloud_restore_section_summary">Аднаўленне сістэмных налад, знешняга выгляду працоўнага стала і праграм</string>
   <string name="cloud_restore_section_summary_new">Рэзервовае капіяванне макета працоўнага стала, праграм, налад сістэмы і шмат чаго іншага</string>
   <string name="cloud_restore_section_title">Аднавіць з Воблака Xiaomi</string>
   <string name="cloud_restore_section_title_new">У воблака Xiaomi</string>
@@ -2095,7 +2095,7 @@
   <string name="debug_view_attributes">Уключыць прагляд атрыбутаў</string>
   <string name="decline_remote_bugreport_action">Адхіліць</string>
   <string name="decryption_settings_summary">Тэлефон не зашыфраваны</string>
-  <string name="defalut_launcher_title">Галоўны экран па змаўчанні</string>
+  <string name="defalut_launcher_title">Працоўны стол па змаўчанні</string>
   <string name="default_admin_support_msg">Калі ў вас ёсць пытанні, звярніцеся да IT-адміністратара</string>
   <string name="default_app">(Стандартная)</string>
   <string name="default_apps_title">Стандартныя</string>
@@ -2872,7 +2872,7 @@
   <string name="font_size_preview_text_title">Чараўнік краіны Оз</string>
   <string name="font_size_save">ОК</string>
   <string name="font_size_small">Менш маленькі</string>
-  <string name="font_size_summary">Змяніць памер тэксту галоўнага экрана, панэлі апавяшчэнняў, акна набору нумара і сістэмных меню.\n</string>
+  <string name="font_size_summary">Змяніць памер тэксту працоўнага стала, панэлі апавяшчэнняў, вакна набору нумара і сістэмных меню.\n</string>
   <string name="font_size_summary1">"Калі сістэмны шрыфт усё яшчэ занадта маленькі, паспрабуйце "</string>
   <string name="font_size_summary2">Палегчаны рэжым.</string>
   <string name="forbidden_network">(забаронена)</string>
@@ -2980,8 +2980,8 @@
   <string name="gentle_notifications_title">Апавяшчэння ў ціхім рэжыме</string>
   <string name="gesture_function_dialog_message">%1$s выкарыстоўваецца для \"%2$s\". Замяніць на \"%3$s\"?</string>
   <string name="gesture_not_supported_dialog_message">Не падтрымліваецца вашай стандартнай галоўнай праграмай \"%s\"</string>
-  <string name="gesture_not_supported_positive_button">Змяніць стандартную галоўную праграму</string>
-  <string name="gesture_preference_summary">Хуткія жэсты для кіравання вашым тэлефонам</string>
+  <string name="gesture_not_supported_positive_button">Змяніць</string>
+  <string name="gesture_preference_summary">Хуткія жэсты для кіравання прыладай</string>
   <string name="gesture_preference_title">Жэсты</string>
   <string name="gesture_prevent_ringing_screen_title">Адключыць гук</string>
   <string name="gesture_prevent_ringing_sound_title">Цэтлiк для адключэння званкоў</string>
@@ -3579,8 +3579,8 @@
   <string name="local_auto_backup_on">Укл.</string>
   <string name="local_auto_backup_section_title">Аўтаматычнае стварэнне рэзервовых копій</string>
   <string name="local_backup_password_summary_change">Націсніце, каб змяніць ці выдаліць пароль</string>
-  <string name="local_backup_password_summary_none">Поўныя рэзервовыя копіі галоўнага экрана не абаронены</string>
-  <string name="local_backup_password_title">Пароль для рэзервовых копій пачатковага экрана</string>
+  <string name="local_backup_password_summary_none">Поўныя рэзервовыя копіі не абаронены</string>
+  <string name="local_backup_password_title">Пароль для рэзервовых копій</string>
   <string name="local_backup_password_toast_confirmation_mismatch">Паролі не супадаюць</string>
   <string name="local_backup_password_toast_success">Новы пароль ад рэзервовых копій усталяваны</string>
   <string name="local_backup_password_toast_validation_failure">Не атрымалася ўсталяваць пароль для рэзервовай копіі</string>
@@ -6744,7 +6744,7 @@
   <string name="sync_disabled">Сінхранізацыя адкл.</string>
   <string name="sync_enable">Сінхранізацыя</string>
   <string name="sync_enabled">Сінхранізацыя ўкл.</string>
-  <string name="sync_error">Памылка сінхр.</string>
+  <string name="sync_error">Памылка сінхранізацыі</string>
   <string name="sync_failed">Збой сінхранізацыі</string>
   <string name="sync_gmail">Gmail</string>
   <string name="sync_in_progress">Сінхранiзаваць зараз</string>
@@ -10458,4 +10458,5 @@
   <string name="freeform_vedio_description_open_freeform_and_splitscreen">"· Націсніце на праграму на бакавой панэлі, каб адкрыць яе ў плаваючым вакне.
 · Перацягнiце праграму ў цэнтр экрана, каб адкрыць яе ў плаваючым вакне, або да краю для падзелу экрана."</string>
   <string name="sidebar_setting">Налады бакавой панэлі</string>
+  <string name="var_font_switch_title">Рэгулюемы шрыфт</string>
 </resources>

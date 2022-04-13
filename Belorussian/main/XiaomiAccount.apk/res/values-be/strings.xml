@@ -683,7 +683,7 @@ ID:%s
   <string name="permission_read_sms">Доступ да паведамленняў</string>
   <string name="permission_withdraw">Адклікаць</string>
   <string name="permission_write_external_storage">"Доступ да сховішча і захаванне аб'ектаў"</string>
-  <string name="personal_info_desc">Фота, нік і многае іншае</string>
+  <string name="personal_info_desc">Фота, нік і іншае</string>
   <string name="phone_num_use_for">Функцыі нумара тэлефона:</string>
   <string name="photoPickerNotFoundText">Няма даступных фотаздымкаў.</string>
   <string name="pm">ПП</string>

@@ -546,4 +546,25 @@
   <string name="session_success_title_backup">Рэзервовае капіяванне выканана паспяхова</string>
   <string name="session_success_title_restore">Паспяхова адноўлена</string>
   <string name="session_waiting_network">Чаканне падлучэння да сеткі…</string>
+  <string name="access_denied_info">Занадта шмат спроб. Пачакайце хвіліну ці дзве і паспрабуйце яшчэ раз.</string>
+  <string name="cloud_backup_permission_allow">Прадастаўлены</string>
+  <string name="cloud_backup_permission_not_allow">Не прадастаўлены</string>
+  <string name="cloud_backup_phone_state_summary">Доступ да нумара тэлефона і статусу прылады</string>
+  <string name="cloud_backup_phone_state_title">Доступ да інфармацыі аб прыладзе</string>
+  <string name="cloud_backup_rw_storage_summary">Для воблачнага рэзервовага капіявання макета працоўнага стала, дадзеных праграмы і налад праграмы</string>
+  <string name="cloud_backup_rw_storage_title">Доступ да сховішча</string>
+  <string name="collect_diagnosis_log">Сабраць часопіс дыягностыкі</string>
+  <string name="diagnosis_log_send_failed">Памылка адпраўкі часопіса дыягностыкі.</string>
+  <string name="diagnosis_log_sent_format">Часопіс дыягностыкі адпраўлены.\nID: %s\nКалі ласка, адпраўце гэты код тэхнічнаму спецыялісту.</string>
+  <string name="for_diagnosis_usage_only">Выкарыстоўвайце гэтую інфармацыю толькі для дыягностыкі.</string>
+  <string name="network_error_info">Адбылася сеткавая памылка. Праверце налады сеткі і паспрабуйце яшчэ раз.</string>
+  <string name="network_timeout_info">Немагчыма падключыцца да сеткі. Паспрабуйце яшчэ раз.</string>
+  <string name="ok">ОК</string>
+  <string name="permission_to_use">Звесткі аб дазволах</string>
+  <string name="progressbar_title">Праверка на наяўнасць праблем з бяспекай…</string>
+  <string name="send_diagnosis_log">Адправіць часопіс дыягностыкі</string>
+  <string name="sending">Адпраўка…</string>
+  <string name="system_error_info">Сістэма занятая. Пачакайце хвіліну ці дзве і паспрабуйце яшчэ раз.</string>
+  <string name="temporary_not_available">часова недаступны</string>
+  <string name="unknown_error_info">Невядомая памылка</string>
 </resources>

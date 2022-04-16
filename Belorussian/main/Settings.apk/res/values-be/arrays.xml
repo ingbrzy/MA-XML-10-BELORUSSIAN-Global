@@ -1591,4 +1591,20 @@
         <item>Выклiкi</item>
         <item>Мультымедыя</item>
     </string-array>
+    <string-array name="select_logd_size_summaries">
+        <item>Выкл.</item>
+        <item>64 Кб на буфер часопіса</item>
+        <item>256 Кб на буфер часопіса</item>
+        <item>1 Мб на буфер часопіса</item>
+        <item>4 Мб на буфер часопіса</item>
+        <item>8 Мб на буфер часопіса</item>
+    </string-array>
+    <string-array name="select_logd_size_titles">
+        <item>Выкл.</item>
+        <item>64 Кб</item>
+        <item>256 Кб</item>
+        <item>1 Мб</item>
+        <item>4 Мб</item>
+        <item>8 Мб</item>
+    </string-array>
 </resources>

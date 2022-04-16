@@ -1003,4 +1003,5 @@
   <string name="menu_edit">Змяніць</string>
   <string name="note_module_name">Нататкі</string>
   <string name="setting_cloud_service">Воблачны сэрвіс</string>
+  <string name="warn_cannot_add_new_content">Немагчыма дадаць новы кантэнт, бо нататка занадта доўгая</string>
 </resources>

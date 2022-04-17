@@ -1382,7 +1382,7 @@
   <string name="menu_report">Справаздача аб памылцы</string>
   <string name="menu_setting_traffic">Уручную</string>
   <string name="menu_sms">Адправіць паведамленне</string>
-  <string name="menu_summary_antispam">Блакаваць выклiкі і паведамлення</string>
+  <string name="menu_summary_antispam">Блакаванне выклiкаў і SMS</string>
   <string name="menu_summary_antispam_2">Ёсць заблакаваныя аб\'екты</string>
   <string name="menu_summary_antivirus">Пошук вірусаў</string>
   <string name="menu_summary_antivirus_2">Знойдзены магчымыя пагрозы</string>
@@ -1727,7 +1727,7 @@
   <string name="power_center_ontime_boot">Уключэнне па раскладзе</string>
   <string name="power_center_ontime_shutdown">Выключэнне па раскладзе</string>
   <string name="power_center_power_save_summary_text">Падоўжыць астатні час працы ад батарэі на %1$d г %2$d хв</string>
-  <string name="power_center_power_save_title_text">Энэргазберагальны рэжым</string>
+  <string name="power_center_power_save_title_text">Энэргазберажэнне</string>
   <string name="power_center_repeat">Паўтор</string>
   <string name="power_center_scan_item_title_abnormal">Праблемы з батарэяй</string>
   <string name="power_center_scan_item_title_abnormal_apps">Праграмы, якія разражаюць батарэю</string>
@@ -2423,7 +2423,7 @@
   <string name="tips_message">Каб даведацца больш пра свой тарыфны план, набярыце нумар %2$s (%1$s).</string>
   <string name="tips_of_app_manage">Выдаляйце рэдка выкарыстаныя праграмы для эканоміі памяці</string>
   <string name="tips_of_auto_launch_manage">Забараніць аўтазапуск рэдка выкарыстоўваных праграм</string>
-  <string name="title_app_lock_disable">Замацаваныя праграмы</string>
+  <string name="title_app_lock_disable">Абарона праграм</string>
   <string name="title_app_update">Даступнае абнаўленне</string>
   <string name="title_auto_update">Аўтаматычнае абнаўленне</string>
   <string name="title_background_connection">Не можаце карыстаць %s у фоне?</string>
@@ -2729,7 +2729,7 @@
   <string name="power_setting_warm_performance_tip">Сцэнары, якія патрабуюць высокага энергаспажывання, падымуць тэмпературу вашай прылады вышэй за ўзровень рэжыму кантролю тэмпературы па змаўчанні.</string>
   <string name="power_setting_wireless_reverse_charging_summary">Зарадка сумяшчальных прылад без правадоў</string>
   <string name="power_setting_wireless_reverse_charging_title">Зваротная бесправадная зарадка</string>
-  <string name="title_cloud_service">Xiaomi Cloud</string>
+  <string name="title_cloud_service">Воблака Xiaomi</string>
   <string name="ew_alert_arrive_location">Сейсмічная хваля прыбыла ў %s</string>
   <string name="ew_alert_dial_text">Экстраны выклік\nкантакт</string>
   <string name="ew_alert_earthquake_center_title">Эпіцэнтр</string>
@@ -4179,7 +4179,7 @@
   <string name="pp_app_del_img_intercept_detail">Атрымліваць апавяшчэння, калі праграмы выдаляюць элементы з галерэі без вашага дазволу</string>
   <string name="pp_app_gets_dangerous_permission_reminder">Атрымліваць апавяшчэння, калі праграмы выкарыстоўваюць дазволы з высокай рызыкай</string>
   <string name="pp_app_gets_dangerous_permission_reminder_detail">Атрымліваць апавяшчэння кожны раз, калі праграма выкарыстоўвае дазволы з высокай рызыкай, і ўлічваць вашыя варыянты</string>
-  <string name="pp_app_lock_introduction">Дадатковае блакаванне экрана</string>
+  <string name="pp_app_lock_introduction">Дадатковая абарона</string>
   <string name="pp_app_permission_settings">Дазволы праграм</string>
   <string name="pp_app_permission_settings_detail">Дазволіць праграмам выкарыстоўваць дазволы, звязаныя з прыватнасцю</string>
   <string name="pp_app_reads_clipboard_smart_reminder">Абарона буфера абмену</string>
@@ -4198,16 +4198,16 @@
   <string name="pp_fuzzy_positioning_detail">Больш нізкая дакладнасць пазіцыянавання дазваляе праграмам атрымліваць менш дакладную інфармацыю пра месцазнаходжанне</string>
   <string name="pp_grant_permission_only_during_app_use">Дазволіць праграмам выкарыстоўваць дазволы толькі ў той час, калі вы карыстаецеся праграмай</string>
   <string name="pp_grant_permission_only_during_app_use_detail">Каб забараніць праграмам выкарыстоўваць дазволы ў фонавым рэжыме, вы можаце дазволіць выкарыстанне дазволаў, звязаных з месцазнаходжаннем, запісам гуку і кантактамі, толькі пакуль вы выкарыстоўваеце праграму</string>
-  <string name="pp_hide_app">Схаваць праграмы</string>
-  <string name="pp_hide_app_form_desktop">Выдаліць абразкi праграм з працоўнага стала</string>
+  <string name="pp_hide_app">Утойванне праграм</string>
+  <string name="pp_hide_app_form_desktop">Утойванне цэтлiкаў на працоўнам стале</string>
   <string name="pp_icon_layout_status_bg_content_enable">Абаронена</string>
   <string name="pp_icon_layout_status_bg_content_unable">Выключана</string>
   <string name="pp_interception_net_visit_content_manager">Абараніць Галерэю і праграмы для сацыяльных сетак</string>
   <string name="pp_interception_net_visit_content_manager_detail">Вылучыце, якiм праграмам дазволены доступ да Галерэі і файлам вашых праграм сацыяльных сетак</string>
   <string name="pp_local_msg">Інфармацыя пра месцазнаходжанне</string>
   <string name="pp_manage_apps_location_information">Дазволіць праграмам атрымліваць доступ да вашага месцазнаходжання</string>
-  <string name="pp_one_app_two_use">Выкарыстоўвайце дзве уліковыя запісы без выхаду</string>
-  <string name="pp_one_phone_two_space">Выкарыстоўвайце адну прыладу як дзве</string>
+  <string name="pp_one_app_two_use">Некалькі акаўнтаў</string>
+  <string name="pp_one_phone_two_space">Адна прылада як дзве</string>
   <string name="pp_only_allow_permission_during_this_run">Дазволіць праграмам выкарыстоўваць дазволы адзін раз</string>
   <string name="pp_only_allow_permission_during_this_run_detail">Вы можаце дазволіць выкарыстанне дазволаў, звязаных з месцазнаходжаннем, запісам гуку і кантактамі, толькі адзін раз. Гэтыя дазволы будуць зноў абмежаваныя неўзабаве пасля закрыцця праграмы.</string>
   <string name="pp_optional_protection_function">Дадатковыя меры абароны</string>
@@ -4230,7 +4230,7 @@
   <string name="pp_safe_box_summary">Абарона прыватнасці</string>
   <string name="pp_safe_input_pwd">Абараніць свае паролі</string>
   <string name="pp_safe_keyboard">Бяспечная клавіятура</string>
-  <string name="pp_safe_save_pwd_and_account">Захоўвайце паролі ў бяспечным асяроддзі</string>
+  <string name="pp_safe_save_pwd_and_account">Кіраванне паролямі</string>
   <string name="pp_safe_share_img_detail">Дзяліцеся фатаграфіямі без інфармацыі пра месцазнаходжанне і метададзеных</string>
   <string name="pp_smart_manager_pwd">Паролі</string>
   <string name="pp_special_permission_settings">Спецыяльныя дазволы</string>
@@ -4836,8 +4836,8 @@
   <string name="vb_ve_settings_ai_stronger">ШІ</string>
   <string name="vtb_func_display_style_desc0">ШІ можа распазнаваць людзей, жывёл, расліны, неба, будынкі і іншыя аб\'екты, адлюстраваныя на відэа, і дынамічна паляпшаць іх.</string>
   <string name="cetus_invisible_mode">Інкогніта</string>
-  <string name="cetus_invisible_mode_description_card">Прыпыніць дазволы</string>
-  <string name="cetus_invisible_mode_description_switch">Уключыце, каб прыпыніць дазволы, звязаныя з мікрафонам, камерай і месцазнаходжаннем, для ўсіх праграм</string>
+  <string name="cetus_invisible_mode_description_card">Прыпыненне дазволаў</string>
+  <string name="cetus_invisible_mode_description_switch">Уключыце для прыпынення дазволаў, звязаных з мікрафонам, камерай і месцазнаходжаннем, для ўсіх праграм</string>
   <string name="cetus_invisible_mode_warn_all">Вы інкогніта. Дазволы на выкарыстанне мікрафона, камеры і вызначэння месцазнаходжання прыпыненыя.</string>
   <string name="cetus_invisible_mode_warn_camera">Вы інкогніта. Дазволы камеры прыпыненыя.</string>
   <string name="cetus_invisible_mode_warn_location">Вы інкогніта. Дазволы на вызначэнне месцазнаходжання прыпыненыя.</string>

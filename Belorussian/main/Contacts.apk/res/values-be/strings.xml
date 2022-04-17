@@ -162,7 +162,7 @@
   <string name="close_dial_pad_description">Зачыніць клавіатуру</string>
   <string name="cloud_antispam_mark">Пазнака</string>
   <string name="cloud_antispam_marked">Пазначана</string>
-  <string name="cloud_state_disabled">Сінхранізацыя з Xiaomi Cloud адключана</string>
+  <string name="cloud_state_disabled">Сінхранізацыя з Воблакам Xiaomi адключана</string>
   <string name="cloud_state_loading">Хвілінку…</string>
   <string name="cloud_upgrade_recommend">Немагчыма сінхранізаваць кантакты з-за недахопу месца ў воблачным сховішчы. Абнавіце свой план воблачнага сховішча.</string>
   <string name="combined_title_and_miprofile_swaped">%1$s, %2$s</string>
@@ -198,7 +198,7 @@
   <string name="contact_edit_title_insert">Захаваць у %s</string>
   <string name="contact_edit_title_readonly">Кантакт толькі для чытання</string>
   <string name="contact_editor_prompt_multiple_accounts">Захаваць кантакт у</string>
-  <string name="contact_editor_prompt_zero_accounts">Рэзервовая копія новага кантакту не будзе захаваная. Дадаць акаўнт для захавання кантактаў у Xiaomi Cloud?</string>
+  <string name="contact_editor_prompt_zero_accounts">Рэзервовая копія новага кантакту не будзе захаваная. Дадаць акаўнт для захавання кантактаў у Воблака Xiaomi?</string>
   <string name="contact_import_methods_dialog_bluetooth">Bluetooth</string>
   <string name="contact_import_methods_dialog_mi_mover">Імпарт з выкарыстаннем Mi Трансфер</string>
   <string name="contact_import_methods_dialog_title">Выберыце спосаб імпарту</string>
@@ -307,7 +307,7 @@
   <string name="dialerIconLabel">Выклікі</string>
   <string name="dialog_delete_contact_button_delete">Выдаліць</string>
   <string name="dialog_delete_contact_button_keep">Захаваць</string>
-  <string name="dialog_delete_contact_content">Xiaomi Cloud хоча выдаліць некаторыя з вашых кантактаў. Выдаліць зараз?</string>
+  <string name="dialog_delete_contact_content">Воблака Xiaomi хоча выдаліць некаторыя з вашых кантактаў. Выдаліць зараз?</string>
   <string name="dialog_delete_contact_title">Выдаленне кантактаў</string>
   <string name="dialog_new_contact_account">Стварыць кантакты у акаўнце</string>
   <string name="dialog_new_group_account">Стварыць групу ў акаўнце</string>
@@ -653,7 +653,7 @@
   <string name="not_applied">Не падтрымліваецца</string>
   <string name="not_set">Не зададзена</string>
   <string name="notification_click_detail">Націсніце, каб праглядзець падрабязнасці</string>
-  <string name="notification_micloudsync_delete_contact">Xiaomi Cloud хоча выдаліць некаторыя з вашых кантактаў</string>
+  <string name="notification_micloudsync_delete_contact">Воблака Xiaomi хоча выдаліць некаторыя з вашых кантактаў</string>
   <string name="open_contact">Адчыніць кантакт</string>
   <string name="open_dial_pad_description">Адкрыць клавіятуру</string>
   <string name="option_delete_contact">Выдаліць</string>

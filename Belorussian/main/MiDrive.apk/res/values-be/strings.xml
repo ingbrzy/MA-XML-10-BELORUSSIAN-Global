@@ -353,8 +353,8 @@
   <string name="waiting_download">У чаканні</string>
   <string name="waiting_network">Чаканне злучэння</string>
   <string name="waiting_upload">У чаканні</string>
-  <string name="warning_bar_title_cloud_space_already_full">У Xiaomi Cloud недастаткова месцы для захоўвання. Вашы фатаграфіі могуць не сінхранізавацца.</string>
-  <string name="warning_bar_title_cloud_space_full">Сховішча Xiaomi Cloud запоўнена. Не ўдаецца сінхранізаваць фота, гісторыю выклікаў і іншыя элементы.</string>
+  <string name="warning_bar_title_cloud_space_already_full">У Воблаке Xiaomi недастаткова месцы для захоўвання. Вашы фатаграфіі могуць не сінхранізавацца.</string>
+  <string name="warning_bar_title_cloud_space_full">Воблака Xiaomi запоўнена. Не ўдаецца сінхранізаваць фота, гісторыю выклікаў і іншыя элементы.</string>
   <string name="xiaomi_market_sdk_update_dialog_cancel">Не цяпер</string>
   <string name="xiaomi_market_sdk_update_dialog_ok">Абнавіць</string>
   <string name="xiaomi_market_sdk_update_dialog_title">Даступна абнаўленне</string>

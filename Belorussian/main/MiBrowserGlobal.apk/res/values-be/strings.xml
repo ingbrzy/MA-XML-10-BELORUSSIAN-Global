@@ -64,7 +64,7 @@
   <string name="action">Увайсці</string>
   <string name="action_add_phone">Дадаць нумар тэлефона</string>
   <string name="action_menu_account_not_login">Уваход не выкананы</string>
-  <string name="action_menu_account_not_login_hint">Увайдзіце для сінхранізацыі з Xiaomi Cloud</string>
+  <string name="action_menu_account_not_login_hint">Увайдзіце для сінхранізацыі з Воблакам Xiaomi</string>
   <string name="action_menu_bookshelf">Кніжная палічка</string>
   <string name="action_menu_current_version">Бягучая версія</string>
   <string name="action_menu_text_add_bookmark">Дадаць закладку</string>

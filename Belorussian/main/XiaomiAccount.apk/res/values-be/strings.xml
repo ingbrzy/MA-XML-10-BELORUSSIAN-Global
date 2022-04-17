@@ -737,7 +737,7 @@ ID:%s
   <string name="search_menu_title">Пошук</string>
   <string name="search_mi_account">Mi Акаўнт</string>
   <string name="search_mi_account_desc">Mi Акаўнт</string>
-  <string name="search_mi_account_key_words">Xiaomi Cloud,Налады акаўнта,дадзеныя Mi Pay,Выйсці</string>
+  <string name="search_mi_account_key_words">Воблака Xiaomi,Налады акаўнта,дадзеныя Mi Pay,Выйсці</string>
   <string name="search_mi_account_path">Налады/Mi Акаўнт</string>
   <string name="search_user_detail">Асабістыя дадзеныя</string>
   <string name="search_user_detail_bottom_key_words">Змяніць прыбытак,Змяніць адукацыю,Змяніць месцазнаходжанне,Змяніць рэгіён</string>

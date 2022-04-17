@@ -1783,7 +1783,7 @@
   <string name="prefered_network_type_3g_promp">Вы павінны адключыць VoLTE перад тым, як выбераце 3G у якасці пераважнага тыпу сеткі. Адключыць цяпер?</string>
   <string name="preference_auto_ip_summary_disable">Выключаны</string>
   <string name="preference_category_ringtone">Мелодыя і вібрацыя</string>
-  <string name="preference_check_privacy">Прагледзець Палітыку прыватнасцi</string>
+  <string name="preference_check_privacy">Прагледзець палітыку прыватнасцi</string>
   <string name="preference_copied">\"%1$s\": скапіявана ў буфер абмену.</string>
   <string name="preference_countrycode_title">Код краіны</string>
   <string name="preference_dial_pad_touch_tone_default">Па змаўчанні</string>
@@ -1873,8 +1873,8 @@
   <string name="preferred_network_type_title">Пераважны тып сеткі</string>
   <string name="preferred_phone_account">Пераважны акаўнт</string>
   <string name="preferred_wificall_title">Рэжым сеткі</string>
-  <string name="privacy_policy_title">Палітыка канфідэнцыяльнасці</string>
-  <string name="privacy_setting">Налады прыватнасцi</string>
+  <string name="privacy_policy_title">Палітыка прыватнасцi</string>
+  <string name="privacy_setting">Прыватнасць</string>
   <string name="private_dns_broken">Не ўдалося атрымаць доступ да прыватнага DNS-сервера</string>
   <string name="private_dns_mode_off">Выключана</string>
   <string name="private_dns_mode_opportunistic">Аўтаматычна</string>
@@ -2559,8 +2559,8 @@
   <string name="vm_change_pin_progress_message">Хвілінку…</string>
   <string name="vm_changed">Нумар галасавой пошты зменены.</string>
   <string name="voice_number_setting_primary_user_only">Налады галасавой пошты можа змяніць толькі асноўны карыстальнік.</string>
-  <string name="voice_privacy">Канфідэцыйнасць размоў</string>
-  <string name="voice_privacy_summary">Уключыць палепшаны рэжым канфідэнцыяльнасці</string>
+  <string name="voice_privacy">Прыватнасць размоў</string>
+  <string name="voice_privacy_summary">Уключыць палепшаны рэжым прыватнасцi</string>
   <string name="voice_report_incoming_call">Выклік</string>
   <string name="voice_report_unknown_num">Невядомы нумар</string>
   <string name="voice_service_cannot_call_notification_content">Вы можаце сутыкнуцца з праблемамі злучэння падчас выканання выкліку.</string>

@@ -31,8 +31,8 @@
     <item quantity="one">Дадаць гэты элемент у асабісты альбом?</item>
   </plurals>
   <plurals name="add_to_album_cloud_photo_count_tip">
-    <item quantity="other">Дададзена %d фота ў Xiaomi Cloud. Адключыце функцыю \"Толькі лакальныя альбомы\" для прагляду.</item>
-    <item quantity="one">Дададзена %d фота ў Xiaomi Cloud. Адключыце функцыю \"Толькі лакальныя альбомы\" для прагляду.</item>
+    <item quantity="other">Дададзена %d фота ў Воблака Xiaomi. Адключыце функцыю \"Толькі лакальныя альбомы\" для прагляду.</item>
+    <item quantity="one">Дададзена %d фота ў Воблака Xiaomi. Адключыце функцыю \"Толькі лакальныя альбомы\" для прагляду.</item>
   </plurals>
   <plurals name="add_to_album_failed_with_reason_and_count">
     <item quantity="other">" %2$d элементаў не могуць быць дададзеныя ў альбом. %1$s."</item>
@@ -146,16 +146,16 @@
     <item quantity="one">Абрана: %d</item>
   </plurals>
   <plurals name="delete_burst_photo_from_all_devices_and_cloud_msg">
-    <item quantity="other">Выдаліць %d серыйных здымкаў з Xiaomi Cloud і ўсіх сінхранізаваных прылад?</item>
-    <item quantity="one">Выдаліць %d серыйны здымак з Xiaomi Cloud і ўсіх сінхранізаваных прылад?</item>
+    <item quantity="other">Выдаліць %d серыйных здымкаў з Воблака Xiaomi і ўсіх сінхранізаваных прылад?</item>
+    <item quantity="one">Выдаліць %d серыйны здымак з Воблака Xiaomi і ўсіх сінхранізаваных прылад?</item>
   </plurals>
   <plurals name="delete_burst_photo_from_local">
     <item quantity="other">Выдаліць %d серыйных здымкаў?</item>
     <item quantity="one">Выдаліць %d серыйны здымак?</item>
   </plurals>
   <plurals name="delete_burst_photo_from_this_album_and_cloud_msg">
-    <item quantity="other">Выдаліць %d серыйных здымкаў з Xiaomi Cloud і гэтай прылады?</item>
-    <item quantity="one">Выдаліць %d серыйны здымак з Xiaomi Cloud і гэтай прылады?</item>
+    <item quantity="other">Выдаліць %d серыйных здымкаў з Воблака Xiaomi і гэтай прылады?</item>
+    <item quantity="one">Выдаліць %d серыйны здымак з Воблака Xiaomi і гэтай прылады?</item>
   </plurals>
   <plurals name="delete_finish_format">
     <item quantity="other">%d элементаў выдалена</item>
@@ -163,9 +163,9 @@
     <item quantity="one">%d элемент выдалены</item>
   </plurals>
   <plurals name="delete_media_from_all_devices_and_cloud_msg">
-    <item quantity="other">Выдаліць %d элементаў з усіх прылад і Xiaomi Cloud?</item>
-    <item quantity="one">Выдаліць %d элемент з усіх прылад і Xiaomi Cloud?</item>
-    <item quantity="few">Выдаліць %d элемента з усіх прылад і Xiaomi Cloud?</item>
+    <item quantity="other">Выдаліць %d элементаў з усіх прылад і Воблака Xiaomi?</item>
+    <item quantity="one">Выдаліць %d элемент з усіх прылад і Воблака Xiaomi?</item>
+    <item quantity="few">Выдаліць %d элемента з усіх прылад і Воблака Xiaomi?</item>
   </plurals>
   <plurals name="delete_media_from_local">
     <item quantity="other">Выдаліць %d элементаў?</item>
@@ -173,37 +173,37 @@
     <item quantity="few">Выдаліць %d элемента?</item>
   </plurals>
   <plurals name="delete_media_from_this_album_and_cloud_msg">
-    <item quantity="other">Выдаліць %d элементаў з гэтага альбома і Xiaomi Cloud?</item>
-    <item quantity="one">Выдаліць %d элемент з гэтага альбома і Xiaomi Cloud?</item>
-    <item quantity="few">Выдаліць %d элемента з гэтага альбома і Xiaomi Cloud?</item>
+    <item quantity="other">Выдаліць %d элементаў з гэтага альбома і Воблака Xiaomi?</item>
+    <item quantity="one">Выдаліць %d элемент з гэтага альбома і Воблака Xiaomi?</item>
+    <item quantity="few">Выдаліць %d элемента з гэтага альбома і Воблака Xiaomi?</item>
   </plurals>
   <plurals name="delete_photo_from_all_devices_and_cloud_msg">
-    <item quantity="other">Выдаліць %d фота з усіх прылад і Xiaomi Cloud?</item>
-    <item quantity="one">Выдаліць гэтае фота з усіх прылад і Xiaomi Cloud?</item>
+    <item quantity="other">Выдаліць %d фота з усіх прылад і Воблака Xiaomi?</item>
+    <item quantity="one">Выдаліць гэтае фота з усіх прылад і Воблака Xiaomi?</item>
   </plurals>
   <plurals name="delete_photo_from_local">
     <item quantity="other">Выдаліць %d фота?</item>
     <item quantity="one">Выдаліць гэтае фота?</item>
   </plurals>
   <plurals name="delete_photo_from_this_album_and_cloud_msg">
-    <item quantity="other">Выдаліць %d фота з гэтага альбома і Xiaomi Cloud?</item>
-    <item quantity="one">Выдаліць гэтае фота з гэтага альбома і Xiaomi Cloud?</item>
+    <item quantity="other">Выдаліць %d фота з гэтага альбома і Воблака Xiaomi?</item>
+    <item quantity="one">Выдаліць гэтае фота з гэтага альбома і Воблака Xiaomi?</item>
   </plurals>
   <plurals name="delete_third_party_burst_photo">
     <item quantity="other">Выдаліць %d серыйных здымкаў з вашай прылады?</item>
     <item quantity="one">Выдаліць %d серыйны здымак з вашай прылады?</item>
   </plurals>
   <plurals name="delete_video_from_all_devices_and_cloud_msg">
-    <item quantity="other">Выдаліць %d відэа з усіх прылад і Xiaomi Cloud?</item>
-    <item quantity="one">Выдаліць гэта відэа з усіх прылад і Xiaomi Cloud?</item>
+    <item quantity="other">Выдаліць %d відэа з усіх прылад і Воблака Xiaomi?</item>
+    <item quantity="one">Выдаліць гэта відэа з усіх прылад і Воблака Xiaomi?</item>
   </plurals>
   <plurals name="delete_video_from_local">
     <item quantity="other">Выдаліць %d відэа?</item>
     <item quantity="one">Выдаліць гэта відэа?</item>
   </plurals>
   <plurals name="delete_video_from_this_album_and_cloud_msg">
-    <item quantity="other">Выдаліць %d відэа з гэтага альбома і Xiaomi Cloud?</item>
-    <item quantity="one">Выдаліць гэта відэа з гэтага альбома і Xiaomi Cloud?</item>
+    <item quantity="other">Выдаліць %d відэа з гэтага альбома і Воблака Xiaomi?</item>
+    <item quantity="one">Выдаліць гэта відэа з гэтага альбома і Воблака Xiaomi?</item>
   </plurals>
   <plurals name="download_error">
     <item quantity="other">Памылка спампоўкi %1$d файлаў</item>

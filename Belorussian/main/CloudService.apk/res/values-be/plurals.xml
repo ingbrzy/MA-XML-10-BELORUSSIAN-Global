@@ -235,10 +235,10 @@
         <item quantity="many">%d хвілін таму</item>
     </plurals>
     <plurals name="provision_sync_items_status_title">
-        <item quantity="other">%s сэрвісаў будуць сінхранізаваныя з Xiaomi Cloud</item>
-        <item quantity="one">%s сэрвіс будзе сінхранізаваны з Xiaomi Cloud</item>
-        <item quantity="few">%s сэрвіса будуць сінхранізаваныя з Xiaomi Cloud</item>
-        <item quantity="many">%s сэрвісаў будуць сінхранізаваныя з Xiaomi Cloud</item>
+        <item quantity="other">%s сэрвісаў будуць сінхранізаваныя з Воблакам Xiaomi</item>
+        <item quantity="one">%s сэрвіс будзе сінхранізаваны з Воблакам Xiaomi</item>
+        <item quantity="few">%s сэрвіса будуць сінхранізаваныя з Воблакам Xiaomi</item>
+        <item quantity="many">%s сэрвісаў будуць сінхранізаваныя з Воблакам Xiaomi</item>
     </plurals>
     <plurals name="select_no_more_than">
         <item quantity="other">"Немагчыма выбраць больш за %d аб'ектаў"</item>

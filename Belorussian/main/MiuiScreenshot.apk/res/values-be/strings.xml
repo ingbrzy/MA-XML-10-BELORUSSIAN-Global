@@ -393,4 +393,6 @@
   <string name="wednesday_short">Сер</string>
   <string name="wednesday_shortest">Сер</string>
   <string name="yesterday">Учора</string>
+  <string name="mi_drop">Абмен файламі</string>
+  <string name="tips_prompt_enable_midrop">Абмен файламі</string>
 </resources>

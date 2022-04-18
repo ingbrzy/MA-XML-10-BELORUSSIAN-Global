@@ -441,7 +441,7 @@
   <string name="maml_download_dialog_cancel_text_china">Чаканне Wi-Fi</string>
   <string name="maml_download_dialog_checkbox_text">Не паказваць ізноў %d хв.</string>
   <string name="maml_download_dialog_confirm_text">Спампаваць</string>
-  <string name="maml_download_dialog_message">%s МБ мабільных дадзеных будзе выкарыстана для спампоўкі гэтага аб\'екта. Усё роўна спампаваць?</string>
+  <string name="maml_download_dialog_message">%s Мб мабільных дадзеных будзе выкарыстана для спампоўкі гэтага аб\'екта. Усё роўна спампаваць?</string>
   <string name="maml_download_dialog_title">Папярэджанне аб выкарыстанні дадзеных</string>
   <string name="maml_download_tip_wait_wifi">Гэты элемент будзе загружаны пры падключэнні да Wi-Fi</string>
   <string name="maml_download_tip_wait_wifi_china">Гэты элемент будзе загружаны пры падключэнні да Wi-Fi</string>
@@ -678,13 +678,13 @@
   <string name="recents_title_garbage_deepclean">Глыбокая ачыстка</string>
   <string name="recents_title_market">Знайсці праграмы</string>
   <string name="recents_title_security_scan">Антывірус</string>
-  <string name="recents_tv_small_window_text">Плывучыя вокны</string>
+  <string name="recents_tv_small_window_text">Плаваючыя вокны</string>
   <string name="recents_worldcirculate_text">Адпусціце для выбару</string>
   <string name="recnets_worldcirculate_button_text">Трансляцыя</string>
   <string name="recnets_worldcirculate_display_computer_info">Праграма працуе на %s.</string>
   <string name="recnets_worldcirculate_display_default_info">Націсніце, каб вярнуць яе сюды.</string>
   <string name="recnets_worldcirculate_display_pad_info">Праграма працуе на %s.</string>
-  <string name="recommend_apk_size_and_desc">%1$dМБ | %2$s</string>
+  <string name="recommend_apk_size_and_desc">%1$d Мб | %2$s</string>
   <string name="recommend_app">Прапановы праграм</string>
   <string name="recommend_apps_default_title">Пуста</string>
   <string name="recommend_apps_no_data">Няма дадзеных</string>
@@ -751,9 +751,9 @@
   <string name="sort_by_not_defined">Па парадку</string>
   <string name="start_activity_failed">Не атрымалася запусціць працоўны стол</string>
   <string name="starting_preset_app">Запуск…</string>
-  <string name="status_bar_recent_memory_giga">%1$s ГБ</string>
+  <string name="status_bar_recent_memory_giga">%1$s Гб</string>
   <string name="status_bar_recent_memory_info1">%1$s з %2$s даступна</string>
-  <string name="status_bar_recent_memory_mega">%1$s МБ</string>
+  <string name="status_bar_recent_memory_mega">%1$s Мб</string>
   <string name="status_downloaded">Спампавана</string>
   <string name="status_downloading">Спампоўка</string>
   <string name="status_installing">Усталёўка</string>

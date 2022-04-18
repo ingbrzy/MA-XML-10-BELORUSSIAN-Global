@@ -1550,4 +1550,5 @@
   <string name="exo_download_paused_for_network">Спампоўкі ў чаканні сеткі</string>
   <string name="exo_download_paused_for_wifi">Спампоўкі ў чаканні Wi-Fi</string>
   <string name="theme_detail_widget_title">Віджэты</string>
+  <string name="guide_to_widget">Дадаць краму віджэтаў. Націсніце для прагляду.</string>
 </resources>

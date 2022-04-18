@@ -90,11 +90,11 @@
   <string name="dlg_appstore_notice">Мы не можам праверыць сапраўднасць або бяспеку праграм, устаноўленых не з App Store.</string>
   <string name="dlg_game_center_intercept_game_center_install">Усталяваць з Mi Гульняў</string>
   <string name="dlg_game_center_intercept_install">Працягнуць ўстаноўку</string>
-  <string name="dlg_game_center_intercept_msg">Устаноўка іншых гульняў можа прадстаўляць пагрозу бяспецы. Спампуйце і ўсталюйце Mi Гульні для доступу да бяспечных версій праграм.</string>
+  <string name="dlg_game_center_intercept_msg">Усталёўка пабочных гульняў можа прадстаўляць пагрозу бяспецы. Спампуйце і ўсталюйце Mi Гульні для доступу да бяспечных версій праграм.</string>
   <string name="dlg_game_center_intercept_title">Увага</string>
   <string name="dlg_mimarket_intercept_mimarket_install">Усталяваць з Mi Apps</string>
-  <string name="dlg_mimarket_intercept_msg">Устаноўка іншых праграм можа прадстаўляць пагрозу бяспецы. Спампуйце і ўсталюйце Mi Apps для доступу да бяспечных версій праграм.</string>
-  <string name="dlg_msg_unoffical">Устаноўка сістэмных праграм з неафіцыйных крыніц не падтрымліваецца</string>
+  <string name="dlg_mimarket_intercept_msg">Усталёўка пабочных праграм можа прадстаўляць пагрозу бяспецы. Спампуйце і ўсталюйце Mi Apps для доступу да бяспечных версій праграм.</string>
+  <string name="dlg_msg_unoffical">Усталёўка сістэмных праграм з неафіцыйных крыніц не падтрымліваецца</string>
   <string name="dlg_msg_unoffical_ok">ОК</string>
   <string name="dlg_ok">ОК</string>
   <string name="dlg_sys_app_replacement_statement">Праграма, якую вы ўсталёўваеце, з\'яўляецца сістэмнай.\n\nУсе карыстацкія дадзеныя будуць захаваны.</string>
@@ -179,7 +179,7 @@
   <string name="install_confirm_question_update_no_perms">Усталяваць абнаўленне? Дадзеныя праграмы будуць захаваны. Праграма не патрабуе ніякіх спецыяльных дазволаў.</string>
   <string name="install_confirm_question_update_system">Усталяваць абнаўленне сістэмнай праграмы? Дадзеныя праграмы будуць захаваны. Абноўленая праграма  атрымае доступ да:</string>
   <string name="install_confirm_question_update_system_no_perms">Усталяваць абнаўленне сістэмнай праграмы? Дадзеныя праграмы будуць захаваны. Праграма не патрабуе ніякіх спецыяльных дазволаў.</string>
-  <string name="install_confirm_text_gms">Гэта праграма створана Google. Перад устаноўкай гэтай праграмы ўсталюеце сэрвісы Google Play. Без гэтага праграма можа працаваць некарэктна.</string>
+  <string name="install_confirm_text_gms">Гэта праграма створана Google. Перад усталёўкай гэтай праграмы ўсталюеце сэрвісы Google Play. Без гэтага праграма можа працаваць некарэктна.</string>
   <string name="install_continue">Усталяваць</string>
   <string name="install_control_cancel_install">Не ўсталёўваць</string>
   <string name="install_control_cancel_vip_account_install">Выхад</string>
@@ -201,7 +201,7 @@
   <string name="install_finished_notification_summary">Націсніце для вызвалення месца</string>
   <string name="install_finished_notification_title">Усталёўка %1$s завершана. Можна вызваліць %2$s</string>
   <string name="install_from_appstore_hint">Рэкамендуецца ўсталяваць праграму з Mi Маркета</string>
-  <string name="install_vip_account_mode_explain_des">Гэта бэта-версія праграмы. Падайце заяўку на атрыманне дазволў на бэта-тэставанне перад яго устаноўкай.</string>
+  <string name="install_vip_account_mode_explain_des">Гэта бэта-версія праграмы. Падайце заяўку на атрыманне дазволў на бэта-тэставанне перад яго усталёўкай.</string>
   <string name="install_vip_account_mode_solution_des">Падаць заяўку на ўдзел у бэта-тэставанні</string>
   <string name="installing">Усталёўка…</string>
   <string name="intercept_confirm_dialog_message">%1$s спрабуе ўсталяваць %2$s. Каб працягнуць, пацвердзіце сваю асобу.</string>
@@ -329,7 +329,7 @@
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Пачакайце…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Памылка абнаўлення</string>
   <string name="mobil_net_work_warning_cancel">Адмена</string>
-  <string name="mobil_net_work_warning_msg">Вы карыстаецеся мабільным інтэрнэтам. Устаноўка гэтай праграмы запатрабуе %1$s мабільнага трафіку. Працягнуць ўстаноўку?</string>
+  <string name="mobil_net_work_warning_msg">Вы карыстаецеся мабільным інтэрнэтам. Усталёўка гэтай праграмы запатрабуе %1$s мабільнага трафіку. Працягнуць ўстаноўку?</string>
   <string name="mobil_net_work_warning_ok">Працягнуць ўстаноўку</string>
   <string name="mobil_net_work_warning_title">Папярэджанне аб трафіку</string>
   <string name="monday">Панядзелак</string>
@@ -423,8 +423,8 @@
   <string name="pref_ads">Рэкамендацыі</string>
   <string name="pref_key_about_privacy_title">Палітыка прыватнасці</string>
   <string name="pref_key_antivirus">Праверка бяспекі</string>
-  <string name="pref_key_antivirus_summary">Праверыць праграму на наяўнасць вірусаў перад устаноўкай</string>
-  <string name="pref_key_app_store_summary">Прапаноўваць спампаваць праграмы з бяспечных крыніц перад устаноўкай</string>
+  <string name="pref_key_antivirus_summary">Праверыць праграму на наяўнасць вірусаў перад усталёўкай</string>
+  <string name="pref_key_app_store_summary">Прапаноўваць спампаваць праграмы з бяспечных крыніц перад усталёўкай</string>
   <string name="pref_key_app_store_title">Рэкамендаваць бяспечныя версіі</string>
   <string name="preference_copied">\"%1$s\": скапіявана ў буфер абмену.</string>
   <string name="privacy_relative">Канфідэнцыяльнасць</string>
@@ -561,7 +561,7 @@
   <string name="uninstall_update_title">Выдаленне абнаўлення</string>
   <string name="uninstalling">Выдаленне…</string>
   <string name="unknown">Невядома</string>
-  <string name="unknown_apps_admin_dlg_text">Устаноўка праграм з невядомых крыніц заблакаваная адміністратарам.</string>
+  <string name="unknown_apps_admin_dlg_text">Усталёўка праграм з невядомых крыніц заблакаваная адміністратарам.</string>
   <string name="unknown_installer">Невядомы ўсталёўшчык</string>
   <string name="unlike">Не, дзякуй</string>
   <string name="untrusted_external_source_always_click">Заўсёды дазваляць</string>

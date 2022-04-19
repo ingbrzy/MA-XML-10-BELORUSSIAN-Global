@@ -1,4 +1,4 @@
- <?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="abc_action_bar_home_description">Перайсці на галоўную старонку</string>
   <string name="abc_action_bar_up_description">Перайсці ўверх</string>
@@ -1466,9 +1466,9 @@
   <string name="video_noyet_download_tip">Гэта відэа ўсё яшчэ загружаецца</string>
   <string name="video_offline">Гэты аб\'ект больш не даступны</string>
   <string name="video_resolution_b_size_suffix">%.2f Б</string>
-  <string name="video_resolution_gb_size_suffix">%.2f ГБ</string>
-  <string name="video_resolution_kb_size_suffix">%.2f КБ</string>
-  <string name="video_resolution_mb_size_suffix">%.2f МБ</string>
+  <string name="video_resolution_gb_size_suffix">%.2f Гб</string>
+  <string name="video_resolution_kb_size_suffix">%.2f Кб</string>
+  <string name="video_resolution_mb_size_suffix">%.2f Мб</string>
   <string name="video_resolution_tag_suffix">%dP</string>
   <string name="view">Прагледзець</string>
   <string name="vp_app_name">Відэаплэер</string>
@@ -1555,7 +1555,7 @@
   <string name="download_guide_click_icon_to_website_or_enter_url">Увядзіце URL або націсніце на ярлык, каб адкрыць вэб-сайт</string>
   <string name="download_guide_known">Зразумела</string>
   <string name="galleryplus_permission_storage_content_reshowable">%s павінен запытаць дазвол на чытанне і запіс у памяць мабільнага тэлефона. Аўтарызуйцеся, калі вам трэба выкарыстоўваць гэтую функцыю.</string>
-  <string name="galleryplus_permission_storage_content_unreshowable">"%s павінен запытаць дазвол на чытанне і запіс у памяць мабільнага тэлефона. Калі вам трэба выкарыстоўваць гэтую функцыю, націсніце \"Налады\", каб перайсці на старонку звестак аб праграме, і ў «Дазволах» уключыце патрэбны дазвол. "</string>
+  <string name="galleryplus_permission_storage_content_unreshowable">"%s павінен запытаць дазвол на чытанне і запіс у памяць мабільнага тэлефона. Калі вам трэба выкарыстоўваць гэтую функцыю, націсніце \"Налады\", каб перайсці на старонку звестак аб праграме, і ў «Дазволах» уключыце патрэбны дазвол."</string>
   <string name="galleryplus_permission_storage_title">Чытанне і запіс файлаў на прыладзе</string>
   <string name="galleryplus_permission_video_player">Функцыя прайгравання відэа</string>
   <string name="local_video_shortcut_name">Маё відэа</string>
@@ -1763,7 +1763,7 @@
   <string name="subscribe_author_recommend_title">Падпішыцеся, каб убачыць найноўшыя відэа ад гэтых аўтараў</string>
   <string name="subscribe_dialog_import_agree">Імпарт</string>
   <string name="subscribe_dialog_import_cancel">Скасаваць</string>
-  <string name="subscribe_dialog_import_content">Імпартуйце свае падпіскі Mi Відэа у свой акаўнт Google, каб усе вашыя падпіскі былі ў адным месцы. Вы зможаце паглядзець іх усе на Mi Відэа. Імпартаваць зараз?</string>
+  <string name="subscribe_dialog_import_content">Імпартуйце свае падпіскі Mi Відэа у свой акаўнт Google, каб усе вашыя падпіскі былі ў адным месцы. Вы зможаце паглядзець іх усе ў Mi Відэа. Імпартаваць зараз?</string>
   <string name="subscribe_dialog_import_title">Імпарт у акаўнт Google</string>
   <string name="subscribe_error_toast">Не атрымалася падпісацца</string>
   <string name="subscribe_import_hint_btn">Імпарт</string>

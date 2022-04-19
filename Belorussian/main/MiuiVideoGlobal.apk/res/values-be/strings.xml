@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+ <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="abc_action_bar_home_description">Перайсці на галоўную старонку</string>
   <string name="abc_action_bar_up_description">Перайсці ўверх</string>
@@ -556,7 +556,7 @@
   <string name="live_tv_title">Прамы эфір</string>
   <string name="loading">Хвілінку…</string>
   <string name="local_play_tip">Прайграванне лакальнага відэа</string>
-  <string name="local_push_title">Папулярныя сёння</string>
+  <string name="local_push_title">Папулярнае сёння</string>
   <string name="local_video_notification_btn">Глядзець у Mi Video</string>
   <string name="local_video_notification_title">Знойдзена новае лакальнае відэа</string>
   <string name="local_video_space">Занята: %s</string>
@@ -821,8 +821,8 @@
   <string name="notice_message_title">Апавяшчэнні</string>
   <string name="notice_title">Паведамленні</string>
   <string name="notification_bar">Панэль апавяшчэнняў</string>
-  <string name="notification_bar_player_subtitle">Паказаць згорнуты плэер у панэлi апавяшчэнняў</string>
-  <string name="notification_bar_player_title">Згарнуць плэер</string>
+  <string name="notification_bar_player_subtitle">Паказваць згорнуты плэер у панэлi апавяшчэнняў</string>
+  <string name="notification_bar_player_title">Згортванне плэера</string>
   <string name="notification_open_tip">Уключыце, каб атрымліваць апавяшчэнні</string>
   <string name="notification_recall_action">Уключыць</string>
   <string name="notification_recall_desc">Mi Відэа можа паведаміць вам аб папулярных відэа і вашых падпісках.</string>
@@ -908,7 +908,7 @@
   <string name="ovp_select_ci">Выберыце эпізод</string>
   <string name="ovp_select_related_video">Падобныя відэа</string>
   <string name="ovp_setting_clear_cache_success">Ачыстка кэша скончана</string>
-  <string name="ovp_setting_clear_cache_text">Ачысціце файлы кэша, захаваныя на прыладзе</string>
+  <string name="ovp_setting_clear_cache_text">Ачысціць файлы кэша на прыладзе</string>
   <string name="ovp_setting_clear_cache_title">Ачысціць кэш</string>
   <string name="ovp_setting_privacy_policy_title">Палітыка прыватнасці</string>
   <string name="ovp_setting_privacy_switch_tips">Пасля адклікання аўтарызацыі некаторыя функцыі не будуць даступныя</string>
@@ -1399,7 +1399,7 @@
   <string name="today">Сёння</string>
   <string name="tomorrow">Заўтра</string>
   <string name="tool_bar_notification_setting_sub_title">Адлюстроўваць інструменты ў панэлі апавяшчэнняў</string>
-  <string name="tool_bar_notification_setting_title">Інструменты панэлі апавяшчэнняў</string>
+  <string name="tool_bar_notification_setting_title">Панэль інструментаў</string>
   <string name="top_bar_game_desc">Даведайцеся пра мноства свежых гульняў тут</string>
   <string name="top_bar_game_title">Гульнявой канал</string>
   <string name="tuesday">Аўторак</string>
@@ -1696,7 +1696,7 @@
   <string name="item_download_only_wify">Спампоўваць толькі праз Wi-Fi</string>
   <string name="item_download_path">Месцазнаходжанне спамповак</string>
   <string name="item_download_path_setting">Налады месцазнаходжання спамповак</string>
-  <string name="local_push_video_title">Шукаць новыя лакальныя відэа</string>
+  <string name="local_push_video_title">Пошук новых лакальных відэа</string>
   <string name="newyearfestival_go_to_draw_prizes">Перайсці да латарэі</string>
   <string name="newyearfestival_watch_the_video_to_draw_prizes">Паглядзіце відэа, каб удзельнічаць у латарэі</string>
   <string name="online_play_hint">Напрыклад: http://www.example.com/video.mp4</string>
@@ -1849,7 +1849,7 @@
   <string name="play_list_sign_in_dialog_message">Увайдзіце з дапамогай свайго акаўнта Google, каб прагледзець усе свае плэйлісты.</string>
   <string name="play_list_user_local">На прыладзе</string>
   <string name="play_list_user_online">Анлайн</string>
-  <string name="settings_manager_hidden_folder">Кіраваць схаванымі відэа</string>
+  <string name="settings_manager_hidden_folder">Кіраванне схаванымі відэа</string>
   <string name="tab_name_movies">Фільмы</string>
   <string name="toast_play_error_tip">Немагчыма прайграць гэты файл</string>
   <string name="btn_playlist_play_all">Прайграць</string>

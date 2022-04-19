@@ -9154,7 +9154,7 @@
   <string name="external_ram_remind_toast">Недастаткова месца для захоўвання. На дадзены момант пашырэнне памяці адключана.</string>
   <string name="miheadset_hd_audio_summary">Падтрымка прайгравання %1$d-бiт/%2$d кГц HD-аўдыё</string>
   <string name="miheadset_hd_audio_title">HD-аўдыё</string>
-  <string name="gd_setting_title">Баковая панэль</string>
+  <string name="gd_setting_title">Бакавая панэль</string>
   <string name="bluetooth_ble_audio_source_remove_fail">Памылка выдалення трансляцыі</string>
   <string name="bluetooth_ble_audio_stop_synchronize_confirmed">ОК</string>
   <string name="bluetooth_ble_audio_stop_synchronize_message">Пасля прыпынку гарнітура не зможа слухаць аўдыё радыё Bluetooth</string>
@@ -10240,7 +10240,7 @@
   <string name="Sound_Settings">Гукавыя эфекты</string>
   <string name="search_gmscore_settings_title">Google;Асноўныя сэрвісы Google;GMS;Gmail</string>
   <string name="virtual_surround_sound_switch_summary">Павялічыць глыбіню гуку для прайгравання аўдыё і відэа ў навушніках (гэтая функцыя не будзе працаваць пры прайграванні гуку %.1f)</string>
-  <string name="virtual_surround_sound_switch_title">Віртуальны імерсіўны гук</string>
+  <string name="virtual_surround_sound_switch_title">Імерсіўны гук</string>
   <string name="miheadset_audio_quality">Якасць гуку</string>
   <string name="miheadset_audio_quality_summary">Абярыце аўдыёкодэк Bluetooth</string>
   <string name="miheadset_auto_answer_call">Аўтаматычна адказваць на выклікі</string>
@@ -10459,4 +10459,8 @@
 · Перацягнiце праграму ў цэнтр экрана, каб адкрыць яе ў плаваючым вакне, або да краю для падзелу экрана."</string>
   <string name="sidebar_setting">Налады бакавой панэлі</string>
   <string name="var_font_switch_title">Рэгулюемы шрыфт</string>
+  <string name="keep_screen_on_after_folding_off_summary">Пакідаць знешні экран уключаным пасля складання падчас размовы або пры выкарыстанні камеры</string>
+  <string name="keep_screen_on_after_folding_on_summary">Пакідаць знешні экран уключаным пасля складання, каб працягнуць выкананне бягучых задач</string>
+  <string name="keep_screen_on_after_folding_text">Пакідаць знешні экран уключаным пасля складання, каб працягнуць выкананне бягучых задач</string>
+  <string name="keep_screen_on_after_folding_title">Пакідаць экран уключаным пасля складання</string>
 </resources>

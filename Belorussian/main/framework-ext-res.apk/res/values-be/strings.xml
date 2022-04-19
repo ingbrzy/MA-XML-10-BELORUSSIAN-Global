@@ -315,9 +315,9 @@
   <string name="relaunch_dialog_button_confirm">ОК</string>
   <string name="relaunch_dialog_message">Немагчыма наладзіць памер вакна пры выкарыстанні праграмы. Вы можаце перазапусціць праграму, каб наладзіць памер вакна, але дадзеныя праграмы, створаныя падчас гэтай сэсіі, будуць страчаныя. Усё роўна перазапусціць?</string>
   <string name="relaunch_dialog_title">Перазапусціць \"%s\"?</string>
-  <string name="relaunch_fold_notification_content">\"%s\" праграма можа адлюстроўвацца няправільна пасля таго, як тэлефон складзены, і яе неабходна перазапусціць, каб вярнуцца ў нармальны стан.</string>
+  <string name="relaunch_fold_notification_content">Гэта праграма можа адлюстроўвацца некарэктна пасля таго, як тэлефон складзены, і яе неабходна перазапусціць, каб вярнуцца ў нармальны стан.</string>
   <string name="relaunch_notification_title">Перазапусціць праграму \"%s\"</string>
-  <string name="relaunch_unfold_notification_content">\"%s\" праграма можа адлюстроўвацца некарэктна пасля раскладвання тэлефона, і яе неабходна перазапусціць, каб вярнуцца ў нармальны стан.</string>
+  <string name="relaunch_unfold_notification_content">Гэта праграма можа адлюстроўвацца некарэктна пасля раскладвання тэлефона, і яе неабходна перазапусціць, каб вярнуцца ў нармальны стан.</string>
   <string name="remain">Засталося: %s</string>
   <string name="replace">Замяніць</string>
   <string name="resolver_app_recommend_flag">Рэкамендаваць</string>

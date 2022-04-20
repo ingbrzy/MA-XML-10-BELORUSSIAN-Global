@@ -171,7 +171,7 @@
   <string name="composer_has_no_exportable_contact">Кантакты для экспарту не знойдзены. Магчыма, экспарт кантактаў з прылады не падтрымліваецца пастаўшчыком паслуг перадачы дадзеных.</string>
   <string name="composer_not_initialized">Рэдактар vCard запушчаны некаррэктна.</string>
   <string name="conference_call_disable_tip">Немагчыма ажыццяўляць выклікі. Ваша прылада пваінна далучыцца да сеткі 4G з падтрымкай VoLTE.</string>
-  <string name="confirm_call_log_dial_summary">Запытаць пацвярджэнне перад наборам нумара з часопіса выклікаў, каб прадухіліць выпадковыя выклікі</string>
+  <string name="confirm_call_log_dial_summary">Запытаць пацверджанне перад наборам нумара з часопіса выклікаў, каб прадухіліць выпадковыя выклікі</string>
   <string name="confirm_call_log_dial_title">Пацверджанне набору нумара з часопісаў выклікаў</string>
   <string name="confirm_delete_contact_all_call_logs">Выдаліць усе запісы для кантакта %s?</string>
   <string name="confirm_delete_selected_all_call_logs">Ачысціць гісторыю выклікаў?</string>
@@ -769,7 +769,7 @@
   <string name="remove_blacklist">Разблакаваць</string>
   <string name="remove_blacklist_dialog_message">Прымаць выклікі і паведамленні ад гэтага нумара?</string>
   <string name="remove_blacklist_dialog_title">Разблакаваць гэты нумар?</string>
-  <string name="remove_duplicate">MIUI дапаможа знайсці дублікаты кантактаў і аб\'яднаць іх.\n\n Націсніце кнопку \"Аб\'яднаць\", каб працягнуць.</string>
+  <string name="remove_duplicate">MIUI дапаможа знайсці дублікаты кантактаў і аб\'яднаць іх.\n\nНацісніце кнопку \"Аб\'яднаць\", каб працягнуць.</string>
   <string name="removePhoto">Выдаліць фота</string>
   <string name="restore_nickname">Аднавіць</string>
   <string name="return_call">Націсніце для вяртання да выкліку</string>
@@ -784,7 +784,7 @@
   <string name="savingDisplayGroups">Захаванне параметраў паказу…</string>
   <string name="scan_business_card">Сканаваць візітоўку</string>
   <string name="scan_bussiness_card_merge_tip">Супярэчлівыя дадзеныя былі заменены</string>
-  <string name="scan_merge">Пошук магчымых дублікатаў кантактаў…\"</string>
+  <string name="scan_merge">Пошук магчымых дублікатаў кантактаў…</string>
   <string name="scan_not_installed">Спачатку ўсталюйце сканар</string>
   <string name="scan_qrcode_card_hint1">Скануйце QR-код вышэй</string>
   <string name="scanning_sdcard_failed_message">Прычына: \"%s\".</string>
@@ -802,7 +802,7 @@
   <string name="send_contact_shortcut_todesktop_duplicate">Гэты цэтлiк ўжо існуе</string>
   <string name="send_contact_shortcut_todesktop_failed">Не атрымалася размясціць цэтлiк на працоўным стале</string>
   <string name="send_contact_shortcut_todesktop_overflow">Не ўдаецца размясціць больш цэтлікаў на працоўным стале</string>
-  <string name="send_contact_shortcut_todesktop_success">Дададзена на галоўны экран</string>
+  <string name="send_contact_shortcut_todesktop_success">Дададзена на працоўны стол</string>
   <string name="separatorJoinAggregateAll">Усе кантакты</string>
   <string name="separatorJoinAggregateSuggestions">Прапанаваныя кантакты</string>
   <string name="service_provider">Сэрвісныя кантакты</string>

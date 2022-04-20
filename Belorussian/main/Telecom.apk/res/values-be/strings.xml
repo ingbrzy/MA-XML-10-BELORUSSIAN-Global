@@ -672,7 +672,7 @@
   <string name="respond_via_sms_canned_response_1">Не магу зараз размаўляць. Што здарылася?</string>
   <string name="respond_via_sms_canned_response_2">Я ператэлефаную.</string>
   <string name="respond_via_sms_canned_response_3">Я ператэлефаную пазней.</string>
-  <string name="respond_via_sms_canned_response_4">Не магу гутарыць. Ператэлефануеце пазней?</string>
+  <string name="respond_via_sms_canned_response_4">Не магу зараз размаўляць. Ператэлефануйце пазней.</string>
   <string name="respond_via_sms_confirmation_format">Паведамленне адпраўлена на нумар %s.</string>
   <string name="respond_via_sms_edittext_dialog_title">Хуткі адказ</string>
   <string name="respond_via_sms_failure_format">Не ўдалося адправіць паведамленне на %s.</string>

@@ -2020,10 +2020,10 @@
   <string name="reset_roaming_not_support">Гэтая SIM-карта не можа ініцыялізаваць роўмінг.</string>
   <string name="reset_roaming_tip">Скід роўмінгу…</string>
   <string name="reset_roaming_title">Скід роўмінгу</string>
-  <string name="respond_via_sms_canned_response_1">Не магу гутарыць. Патэлефануеце пазней?</string>
+  <string name="respond_via_sms_canned_response_1">Не магу зараз размаўляць. Што здарылася?</string>
   <string name="respond_via_sms_canned_response_2">Я ператэлефаную.</string>
-  <string name="respond_via_sms_canned_response_3">Я патэлефаную пазней.</string>
-  <string name="respond_via_sms_canned_response_4">Не магу зараз размаўляць. Што здарылася?</string>
+  <string name="respond_via_sms_canned_response_3">Я ператэлефаную пазней.</string>
+  <string name="respond_via_sms_canned_response_4">Не магу зараз размаўляць. Ператэлефануйце пазней.</string>
   <string name="respond_via_sms_cannot_empty">Паведамленне не можа быць пустым</string>
   <string name="respond_via_sms_confirmation_format">Паведамленне адпраўлена на нумар %s.</string>
   <string name="respond_via_sms_edittext_dialog_title">Хуткі адказ</string>
@@ -2291,7 +2291,7 @@
   <string name="sum_cw_enabled">Абвесткі аб уваходным выкліку падчас размовы</string>
   <string name="sum_default_caller_id">Выкарыстоўваць налады аператара сеткі для адлюстравання вашага нумара ў выходных выкліках</string>
   <string name="sum_fdn">Кіраванне фіксаванымі нумарамі</string>
-  <string name="sum_fdn_change_pin">Змяніць PIN для доступу да спісу нумароў фіксаванага набору</string>
+  <string name="sum_fdn_change_pin">Змяніць код для доступу да спісу нумароў фіксаванага набору</string>
   <string name="sum_fdn_manage_list">Кіраванне спісам нумароў фіксаванага набору</string>
   <string name="sum_gsm_call_settings">Дадатковыя налады (толькі GSM выклікі)</string>
   <string name="sum_hide_caller_id">Хаваць нумар пры выходных выкліках</string>

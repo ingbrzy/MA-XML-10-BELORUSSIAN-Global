@@ -619,7 +619,7 @@
   <string name="getUp_time">Абуджэнне</string>
   <string name="getUp_time_description">Абуджэнне - гэта момант, калі вы ўстаеце з ложка і пачынаеце рухацца. Яно разлічваецца на аснове вашага графіка сну і выкарыстання прылады.</string>
   <string name="getUp_time_early_description">Вы ўсталі рана. Было б лепш больш спаць.</string>
-  <string name="getUp_time_late_description">Вы ўсталі позна. Пересыпание не прыносіць якіх-небудзь істотных пераваг для вашага здароўя.</string>
+  <string name="getUp_time_late_description">Вы ўсталі позна. Перасыпанне не прыносіць якіх-небудзь істотных пераваг для вашага здароўя.</string>
   <string name="getUp_time_normal_description">Вы ўсталі своечасова. Так трымаць!</string>
   <string name="go_back_to_today">Назад да сённяшняга дня</string>
   <string name="go_on">Працягнуць</string>
@@ -808,7 +808,7 @@
   <string name="load_failed">Памылка загрузкі, паўторыце спробу пазней</string>
   <string name="loading">Секунду…</string>
   <string name="location_perm_description">Для адсочвання трэніровак на адкрытым паветры і запісу маршрутаў</string>
-  <string name="location_permission_dialog_content">Праграма не мае рзрешения на выкарыстанне GPS. Дазвольце, каб мець магчымасць адсочваць вашы трэніроўкі на адкрытым паветры.</string>
+  <string name="location_permission_dialog_content">Праграма не мае дазволу на выкарыстанне GPS. Дазвольце, каб мець магчымасць адсочваць вашы трэніроўкі на адкрытым паветры.</string>
   <string name="location_permission_dialog_negative">Не цяпер</string>
   <string name="location_permission_dialog_positive">Дазволіць</string>
   <string name="location_permission_dialog_title">Дазвол на выкарыстанне GPS</string>
@@ -896,8 +896,8 @@
   <string name="mens_cancel_mark">Зьняць адзнаку</string>
   <string name="mens_day_in_guess_menstrual_period">Мяркуецца, што гэта %1$d дзень менструацыі</string>
   <string name="mens_day_in_guess_ovu_period">Мяркуецца, што гэта %1$d дзень авуляцыі</string>
-  <string name="mens_day_in_ovu_period">Фізіялагічны цикл（%1$s-%2$s） Дзень %3$d, верагоднасць авуляцыі вельмі высокая</string>
-  <string name="mens_day_in_phy_period">Фізіялагічны цикл（%1$s-%2$s） Дзень %3$d</string>
+  <string name="mens_day_in_ovu_period">Фізіялагічны цыкл（%1$s-%2$s） Дзень %3$d, верагоднасць авуляцыі вельмі высокая</string>
+  <string name="mens_day_in_phy_period">Фізіялагічны цыкл（%1$s-%2$s） Дзень %3$d</string>
   <string name="mens_day_in_predict_menstrual_period">Разліковы %1$d дзень цыклу</string>
   <string name="mens_day_in_predict_ovu_period">Разліковы %1$d дзень авуляцыі</string>
   <string name="mens_day_in_predict_period">Разліковы дзень %3$d цыкла (%1$s-%2$s)</string>
@@ -1636,7 +1636,7 @@
   <string name="tb_exercise_consume_no_data">Няма інфармацыі аб калорыях</string>
   <string name="tb_exercise_consume_normal">Спаленых калорый: %1$d. %2$s. Націсніце, каб праглядзець дэталі.</string>
   <string name="tb_exercise_detail_consume_daily_enough">Спаленых калорый: %1$d. Трэніроўкі было дастаткова.</string>
-  <string name="tb_exercise_detail_consume_daily_not_enough">Спаленых калорый: %1$d. Трэніроўка не дастаткова продуктивна.</string>
+  <string name="tb_exercise_detail_consume_daily_not_enough">Спаленых калорый: %1$d. Трэніроўка не дастаткова прадуктыўная.</string>
   <string name="tb_exercise_detail_consume_no_data">Няма інфармацыі аб спаленых калорыях</string>
   <string name="tb_exercise_detail_consume_w_m_normal">Сярэдняя колькасць спаленых калорый: %1$d. Усяго спаленых калорый: %2$d.</string>
   <string name="tb_exercise_detail_data">Прагляд статыстыкі за %1$s</string>

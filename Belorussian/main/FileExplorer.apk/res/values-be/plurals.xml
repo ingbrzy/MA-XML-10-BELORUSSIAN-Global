@@ -170,7 +170,7 @@
     </plurals>
     <plurals name="file_notify_title_wechat_sticker">
         <item quantity="other">%1$d новых стыкераў WeChat сёння</item>
-        <item quantity="zero">%1$d новых стикеров WeChat сёння</item>
+        <item quantity="zero">%1$d новых стыкераў WeChat сёння</item>
         <item quantity="one">%1$d новы стыкер WeChat сёння</item>
         <item quantity="two">%1$d новых стыкера WeChat сёння</item>
         <item quantity="few">%1$d новых стыкера WeChat сёння</item>

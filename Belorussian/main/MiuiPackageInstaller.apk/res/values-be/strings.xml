@@ -190,7 +190,7 @@
   <string name="install_control_vip_account_install">Падаць заяўку на ўдзел у бэта-тэставанні</string>
   <string name="install_done">Праграма усталявана</string>
   <string name="install_failed">Не атрымалася ўсталяваць праграму</string>
-  <string name="install_failed_blocked">Пакет заблакаваны ад устанавновки</string>
+  <string name="install_failed_blocked">Пакет заблакаваны ад усталеўкi</string>
   <string name="install_failed_conflict">Пакет канфліктуе з існуючым пакетам з тым жа імем</string>
   <string name="install_failed_incompatible">Гэта праграма не сумяшчальна з прыладай.</string>
   <string name="install_failed_incompatible_tablet">Гэта праграма несумяшчальна з вашай прыладай.</string>
@@ -220,8 +220,8 @@
   <string name="manage_users">Кіраванне карыстальнікамі</string>
   <string name="menu_hide_system">Схаваць сістэмныя</string>
   <string name="menu_show_system">Паказаць сістэмныя</string>
-  <string name="message_appstore_verify_has_new_version">Новая версия гэтай праграмы даступна ў Mi Маркеце. Усталяваць?</string>
-  <string name="message_appstore_verify_inconsistent">Подписы праграм адрозниваюцца. Вы можаце ўсталяваць гэту праграму прама з Mi Маркета.</string>
+  <string name="message_appstore_verify_has_new_version">Новая версiя гэтай праграмы даступна ў Mi Маркеце. Усталяваць?</string>
+  <string name="message_appstore_verify_inconsistent">Подпiсы праграм адрозніваюцца. Вы можаце ўсталяваць гэту праграму прама з Mi Маркета.</string>
   <string name="message_appstore_verify_ok">Гэта праграма прайшла поўную праверку бяспечнасці ў Mi Маркеце. Рэкамендуецца ўсталяваць праграму з яго.</string>
   <string name="message_full_scanning">Поўнае сканаванне…</string>
   <string name="message_install_in_market">Рэкамендуецца ўсталяваць праграму з Mi маркета</string>

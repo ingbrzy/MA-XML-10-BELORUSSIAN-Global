@@ -22,9 +22,9 @@
         <item>Нізкая</item>
     </string-array>
     <string-array name="record_quality_summaries">
-        <item>MP3, 192 Кбит/с, 90 Мб/г</item>
-        <item>MP3, 100 Кбит/с, 45 Мб/г</item>
-        <item>MP3, 75 Кбит/с, 32 Мб/г</item>
+        <item>MP3, 192 Кбiт/с, 90 Мб/г</item>
+        <item>MP3, 100 Кбiт/с, 45 Мб/г</item>
+        <item>MP3, 75 Кбiт/с, 32 Мб/г</item>
     </string-array>
     <string-array name="record_scenes_entries">
         <item>Музыка</item>

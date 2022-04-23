@@ -107,7 +107,7 @@
   <string name="cloud_app_restore_wifi_prompt">Аднавіць з Воблака Xiaomi.</string>
   <string name="cloud_back_up_date_format">HH:mm d.MM.yyyy</string>
   <string name="cloud_back_up_detail_discription">Пры злучэнні праз Wi-Fi у Воблаке Xiaomi будзе створана рэзервовае копія для наступных аб\'ектаў: \n*  Праграмы, знешні выгляд працоўнага стала і шпалеры; \n*  Будзільнік, гадзіннік і налады часу \n*  Налады апавяшчэнняў \n*  Налады Miui і сістэмы \n\"Увага: дадзеныя ўсталяваных праграм не будуць захоўвацца ў Воблака Xiaomi.\"</string>
-  <string name="cloud_back_up_detail_discription_china">Гэтыя элементы будуць скапіяваныя ў Воблака Xiaomi, калі ваша прылада падлучана да Wi-Fi:\n* Праграмы і размяшчэнне працоўнага стала\n* Рынгтоны, шпалеры і шрыфты\n* Будзільнік і налады часу\n* Налады апавяшчэнняў\n* Налады MIUI і сістэмы\nЗаўвага: Дадзеныя ўсталяваных праграм не будуць захоўвацца ў Воблака Xiaomi.</string>
+  <string name="cloud_back_up_detail_discription_china">Гэтыя элементы будуць скапіяваныя ў Воблака Xiaomi, калі ваша прылада падлучана да Wi-Fi:\n* Праграмы і размяшчэнне працоўнага стала\n* Мелодыi, шпалеры і шрыфты\n* Будзільнік і налады часу\n* Налады апавяшчэнняў\n* Налады MIUI і сістэмы\nЗаўвага: Дадзеныя ўсталяваных праграм не будуць захоўвацца ў Воблака Xiaomi.</string>
   <string name="cloud_back_up_frequence_choice_title">Стварэнне рэзервовых копій па раскладу</string>
   <string name="cloud_back_up_frequence_long">Кожныя %d дзён</string>
   <string name="cloud_back_up_frequence_short">Штодня</string>

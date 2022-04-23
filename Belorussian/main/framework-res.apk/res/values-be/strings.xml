@@ -1593,9 +1593,9 @@
   <string name="restr_pin_incorrect">Няправільны</string>
   <string name="restr_pin_try_later">Паўтарыце спробу пазней</string>
   <string name="revoke">Ануляваць</string>
-  <string name="ringtone_default">Стандартны рынгтон</string>
-  <string name="ringtone_default_with_actual">Стандартны (%1$s)</string>
-  <string name="ringtone_picker_title">Рынгтоны</string>
+  <string name="ringtone_default">Стандартная мелодыя</string>
+  <string name="ringtone_default_with_actual">Стандартная (%1$s)</string>
+  <string name="ringtone_picker_title">Мелодыi</string>
   <string name="ringtone_picker_title_alarm">Гукі будзільніка</string>
   <string name="ringtone_picker_title_notification">Гукі апавяшчэнняў</string>
   <string name="ringtone_silent">Няма</string>
@@ -1779,7 +1779,7 @@
   <string name="unpin_target">Адмацаваць</string>
   <string name="unread_convo_overflow">%1$d+</string>
   <string name="unsupported_compile_sdk_check_update">Праверыць на наяўнасць абнаўленняў</string>
-  <string name="unsupported_compile_sdk_message">Праграма %1$s была створана для несумяшчальнай версии АС Android і можа паводзіць сябе неспадзявана. Можа быць даступна абноўленая версія праграмы.</string>
+  <string name="unsupported_compile_sdk_message">Праграма %1$s была створана для несумяшчальнай версii АС Android і можа паводзіць сябе неспадзявана. Можа быць даступна абноўленая версія праграмы.</string>
   <string name="unsupported_compile_sdk_show">Заўсёды паказваць</string>
   <string name="unsupported_display_size_message">%1$s не падтрымлівае бягучую наладу Памеру дысплэя і можа паводзіць сябе непрадказальным чынам.</string>
   <string name="unsupported_display_size_show">Заўсёды паказваць</string>

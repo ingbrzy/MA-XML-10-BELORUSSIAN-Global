@@ -524,7 +524,7 @@
   <string name="passport_activate_token_expired">Код пацверджання скончыўся. Паспрабуйце яшчэ раз.</string>
   <string name="passport_area_code_title">Код краіны</string>
   <string name="passport_bad_authentication">Няправільнае імя карыстальніка або пароль</string>
-  <string name="passport_barcode_add_account_prompt">Каб падключыць уліковы запіс, зноў отсканируйте QR-код пасля ўваходу ў сістэму.</string>
+  <string name="passport_barcode_add_account_prompt">Каб падключыць уліковы запіс, зноў адскануйце QR-код пасля ўваходу ў сістэму.</string>
   <string name="passport_can_not_receive_verification_code">Не ўдаецца атрымаць код пацверджання?</string>
   <string name="passport_captcha_title">Ахоўны код</string>
   <string name="passport_checking_account">Праверка пароля...</string>

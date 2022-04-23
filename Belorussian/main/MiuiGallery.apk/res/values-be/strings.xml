@@ -3053,7 +3053,7 @@
   <string name="permission_location">Месцазнаходжанне</string>
   <string name="permission_location_desc">Для адлюстравання фота і відэа на карце</string>
   <string name="photo_editor_privacy_watermark">Ахоўны вадзяны знак</string>
-  <string name="photo_editor_watermark_default">Не капияваць!</string>
+  <string name="photo_editor_watermark_default">Не капiяваць!</string>
   <string name="scope_storage_dialog_cancel_btn">Адмена</string>
   <string name="scope_storage_dialog_confirm_btn">Далей</string>
   <string name="scope_storage_dialog_description">Дазволы галерэі былі абноўлены. Дазвольце галерэі доступ да гэтай тэчцы, каб мець магчымасць праглядаць яе змесціва.</string>

@@ -53,7 +53,7 @@
   <string name="alarm_volume_title">Гучнасць будзільніка</string>
   <string name="alarmclock_empty_text">Няма будзільнікаў</string>
   <string name="alarmclock_silent_hint">Гук будзільніка адключаны</string>
-  <string name="alert">Рынгтон</string>
+  <string name="alert">Мелодыя</string>
   <string name="analog_gadget">Аналагавы гадзіннік</string>
   <string name="app_label">Гадзіннік</string>
   <string name="auto_silence_never">Ніколі</string>
@@ -86,7 +86,7 @@
   <string name="bedtime_welcome">Кіруйце сваім сном</string>
   <string name="bedtime_welcome_desc">Падтрыманне рэгулярнага і паслядоўнага графіка сну прыносіць карысць вашаму здароўю. Усталюйце нагадванні, якія дапамогуць вам класціся спаць і ўставаць своечасова кожны дзень.</string>
   <string name="birthday_alarm">Песня да дня народзінаў</string>
-  <string name="birthday_alarm_summary">Прайграць \"Happy Birthday\" замест рынгтона ў ваш дзень народзінаў</string>
+  <string name="birthday_alarm_summary">Прайграць \"Happy Birthday\" замест мелодыi ў ваш дзень народзінаў</string>
   <string name="cancel">Скасаваць</string>
   <string name="channel_name_alarm">Будзільнік</string>
   <string name="channel_name_sleep">Сон</string>
@@ -260,7 +260,7 @@
   <string name="personal_recommend">Персанальныя рэкамендацыі па кантэнце</string>
   <string name="privacy_policy">Палітыка прыватнасці</string>
   <string name="privacy_policy_title">Палітыка прыватнасці</string>
-  <string name="remind_ringtone">Рынгтон</string>
+  <string name="remind_ringtone">Мелодыя</string>
   <string name="repeat_count">Разы</string>
   <string name="reset">Скід</string>
   <string name="revert">Назад</string>
@@ -335,7 +335,7 @@
   <string name="status_bar_clock_date_time_format_seconds_12">h:mm:ss</string>
   <string name="stopwatch_lap_empty_text">Няма кругоў</string>
   <string name="stopwatch_title">Секундамер</string>
-  <string name="system_permission_purpose">Стварэнне будзільнікаў для будных дзён і налада карыстальніцкіх рынгтонаў</string>
+  <string name="system_permission_purpose">Стварэнне будзільнікаў для будных дзён і налады карыстальніцкіх мелодый</string>
   <string name="system_time_setting">Налады</string>
   <string name="system_time_settings_category_title">Налады часу</string>
   <string name="temperature_unit">℃</string>
@@ -708,7 +708,7 @@
   <string name="select_all">Абраць усе</string>
   <string name="selected">Выбрана</string>
   <string name="unselect_all">Адмяніць выбар усіх</string>
-  <string name="xiaoai_ringtone_title">Рынгтоны Mi ШІ</string>
+  <string name="xiaoai_ringtone_title">Мелодыi Mi ШІ</string>
   <string name="cities_show_limit_desc">Немагчыма адлюстраваць больш гадзіннiкаў</string>
   <string name="show_life_post_desc">Ранішняя зводка не будзе адлюстроўвацца, калі вы адключыце гэтую функцыю</string>
   <string name="show_life_post_lable">Паказаць ранішнюю зводку</string>

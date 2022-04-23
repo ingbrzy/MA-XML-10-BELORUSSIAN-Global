@@ -1648,7 +1648,7 @@
   <string name="screenrecord_delete_label">Выдаліць</string>
   <string name="screenrecord_description">Падчас запісу сістэма Android можа збіраць канфідэнцыяльную інфармацыю, якая адлюстроўваецца на экране вашай прылады ці прайграецца на ёй. Гэта могуць быць паролі, плацежная інфармацыя, фота, паведамленні і аўдыяданыя.</string>
   <string name="screenrecord_device_audio_and_mic_label">Аўдыя з прылады і мікрафон</string>
-  <string name="screenrecord_device_audio_description">Гук на вашай прыладзе, напрыклад музыка, выклікі і рынгтоны</string>
+  <string name="screenrecord_device_audio_description">Гук на вашай прыладзе, напрыклад музыка, выклікі і апавяшчэннi</string>
   <string name="screenrecord_device_audio_label">Аўдыя з прылады</string>
   <string name="screenrecord_mic_label">Мікрафон</string>
   <string name="screenrecord_name">Запіс экрана</string>

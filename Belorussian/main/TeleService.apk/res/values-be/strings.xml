@@ -1559,7 +1559,7 @@
   <string name="network_type_4g_preferred_cmcc">4G/3G/2G</string>
   <string name="network_unlock">Разблакаваць</string>
   <string name="networks_title">Мабільныя сеткі</string>
-  <string name="new_password_label">Новы пароль (%d симв.)</string>
+  <string name="new_password_label">Новы пароль (%d сiмв.)</string>
   <string name="new_pin_label">Новы PIN</string>
   <string name="new_pin2_label">Новы PIN2</string>
   <string name="newPin2Label">Новы PIN2</string>
@@ -1611,7 +1611,7 @@
   <string name="oem_unlock_enable_summary">Дазволіць разблакіроўку загрузчыка</string>
   <string name="ok">ОК</string>
   <string name="okay">ОК</string>
-  <string name="old_password_label">Сучасны пароль (%d симв.)</string>
+  <string name="old_password_label">Сучасны пароль (%d сiмв.)</string>
   <string name="old_pin_label">Стары PIN</string>
   <string name="old_pin2_label">PIN2</string>
   <string name="oldPin2Label">Стары PIN2</string>
@@ -2044,7 +2044,7 @@
   <string name="retry_btn">Паўтарыць</string>
   <string name="reverting_settings">Зварот да папярэдніх налад…</string>
   <string name="ringtone_silent">Няма</string>
-  <string name="ringtone_unknown">Невядомы рынгтон</string>
+  <string name="ringtone_unknown">Невядомая мелодыя</string>
   <string name="roaming">Мабільны інтэрнэт адключаны</string>
   <string name="roaming_alert_title">Дазволіць перадачу дадзеных у роўмінгу?</string>
   <string name="roaming_check_price_warning">Праверце цану ў свайго інтэрнэт-правайдара.</string>

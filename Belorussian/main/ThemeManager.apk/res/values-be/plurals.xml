@@ -85,9 +85,9 @@
     <item quantity="few">Дададзена %1$d рэсурса ў акаўнт. Паглядзець дададзеныя рэсурсы можна ў замовах.</item>
   </plurals>
   <plurals name="anonymous_resource_login_message">
-    <item quantity="few">Вы можете загрузить только %1$d бесплатных ресурса (кроме обоев и рингтонов). Выполните вход для загрузки ресурсов без ограничений.</item>
-    <item quantity="one">Вы можаце загрузіць толькі %1$d бясплатны рэсурс (акрамя шпалер і рынгтонаў). Выканайце ўваход для загрузкі рэсурсаў без абмежаванняў.</item>
-    <item quantity="other">Вы можаце загрузіць толькі %1$d бясплатных рэсурсаў (акрамя шпалер і рынгтонаў). Выканайце ўваход для загрузкі рэсурсаў без абмежаванняў.</item>
+    <item quantity="few">ВВы можаце загрузіць толькі %1$d бясплатных рэсурса (акрамя шпалер і мелодый). Выканайце ўваход для загрузкі рэсурсаў без абмежаванняў.</item>
+    <item quantity="one">Вы можаце загрузіць толькі %1$d бясплатны рэсурс (акрамя шпалер і мелодый). Выканайце ўваход для загрузкі рэсурсаў без абмежаванняў.</item>
+    <item quantity="other">Вы можаце загрузіць толькі %1$d бясплатных рэсурсаў (акрамя шпалер і мелодый). Выканайце ўваход для загрузкі рэсурсаў без абмежаванняў.</item>
   </plurals>
   <plurals name="anonymous_resource_view">
     <item quantity="other">%1$d рэсурсаў не былі дададзены ў акаўнт</item>
@@ -232,9 +232,9 @@
     <item quantity="few">%1$.1f пункта</item>
   </plurals>
   <plurals name="ringtone_nums">
-    <item quantity="other">%1$s рынгтонаў</item>
-    <item quantity="one">%1$s рынгтон</item>
-    <item quantity="few">%1$s рынгтона</item>
+    <item quantity="other">%1$s мелодый</item>
+    <item quantity="one">%1$s мелодыя</item>
+    <item quantity="few">%1$s мелодыi</item>
   </plurals>
   <plurals name="theme_batch_has_update_text">
     <item quantity="other">Даступныя абнаўленні для %1$d тэм.</item>

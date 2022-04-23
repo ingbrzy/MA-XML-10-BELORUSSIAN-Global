@@ -32,7 +32,7 @@
     <string name="callFailed_video_call_tty_enabled">Калі рэжым TTY уключаны, немагчыма рабіць відэавыклікі.</string>
     <string name="callEnded_pulled">Выклік пераведзены на іншую прыладу.</string>
     <string name="ringtone_silent">Няма</string>
-    <string name="ringtone_unknown">Невядомы рынгтон</string>
+    <string name="ringtone_unknown">Невядомая мелодыя</string>
     <string name="callFailed_maximum_reached">Усе даступныя лініі выкарыстоўваюцца. Каб зрабіць выклік, адключыце адзін выклік на гэтай прыладзе ці на адной з вашых іншых прылад.</string>
     <string name="callFailed_data_disabled">Выклік скончаны, паколькі сотавая перадача даных была адключана.</string>
     <string name="callFailed_data_limit_reached_description">Выклік скончаны, паколькі дасягнуты ліміт на мабільную перадачу даных.</string>

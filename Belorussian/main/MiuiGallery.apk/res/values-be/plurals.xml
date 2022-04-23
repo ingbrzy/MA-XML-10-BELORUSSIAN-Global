@@ -595,7 +595,7 @@
     <item quantity="many">%d відэа</item>
   </plurals>
   <plurals name="synced_immerse_title">
-    <item quantity="other">Сінхранізавана %1$d фота и %2$d відэа</item>
+    <item quantity="other">Сінхранізавана %1$d фота i %2$d відэа</item>
   </plurals>
   <plurals name="photo_editor_talkback_crop_scale_value">
         <item quantity="other">Павярнуць на %d градусаў</item>

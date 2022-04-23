@@ -1540,7 +1540,7 @@
   <string name="om_ill_proc_handle_unstaill_title">Выдаліць %s?</string>
   <string name="om_ill_proc_type_alarm_detail">Выправіць праблемы фонавай актыўнасці</string>
   <string name="om_ill_proc_type_alarm_title">Праграма часта абуджае прыладу і разраджае акумулятар</string>
-  <string name="om_ill_proc_type_cpu_detail">Выправіць праблемы з рабочай нагрузкай працэсара</string>
+  <string name="om_ill_proc_type_cpu_detail">Выправіць праблемы з працоўнай нагрузкай працэсара</string>
   <string name="om_ill_proc_type_cpu_title">Праграма нагружае працэсар і разраджае акумулятар</string>
   <string name="om_ill_proc_type_gps_detail">Выправіць праблемы выкарыстання GPS</string>
   <string name="om_ill_proc_type_gps_title">Праграма часта выкарыстоўвае GPS і разраджае акумулятар</string>

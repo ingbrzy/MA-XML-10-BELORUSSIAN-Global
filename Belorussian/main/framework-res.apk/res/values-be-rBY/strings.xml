@@ -1527,7 +1527,7 @@
   <string name="print_service_installed_title">Усталявана служба %s</string>
   <string name="printing_disabled_by">Друк адключаны ўладальнікам праграмы %s.</string>
   <string name="private_dns_broken_detailed">Не ўдалося атрымаць доступ да прыватнага DNS-сервера</string>
-  <string name="profile_encrypted_detail">Рабочы профіль заблакіраваны</string>
+  <string name="profile_encrypted_detail">Рабочы профіль заблакаваны</string>
   <string name="profile_encrypted_message">Кран., каб разбл. раб. профіль</string>
   <string name="profile_encrypted_title">Функцыі могуць быць абмежаваныя</string>
   <string name="progress_erasing">Сціраюцца даныя абагуленага сховішча…</string>

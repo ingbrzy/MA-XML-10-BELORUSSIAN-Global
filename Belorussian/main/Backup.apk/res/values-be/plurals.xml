@@ -19,16 +19,16 @@
         <item quantity="many">%d элементаў</item>
     </plurals>
     <plurals name="total_num">
-        <item quantity="other">%d рэчываў,</item>
-        <item quantity="one">%d рэч,</item>
-        <item quantity="few">%d рэчы,</item>
-        <item quantity="many">%d рэчаў,</item>
+        <item quantity="other">%d элементаў,</item>
+        <item quantity="one">%d элемент,</item>
+        <item quantity="few">%d элементы,</item>
+        <item quantity="many">%d элементаў,</item>
     </plurals>
     <plurals name="custom_progress">
-        <item quantity="other">%d рэчываў</item>
-        <item quantity="one">%d рэч</item>
-        <item quantity="few">%d рэчы</item>
-        <item quantity="many">%d рэчаў</item>
+        <item quantity="other">%d элементаў</item>
+        <item quantity="one">%d элемент</item>
+        <item quantity="few">%d элементы</item>
+        <item quantity="many">%d элементаў</item>
     </plurals>
     <plurals name="trans_failed_summary">
         <item quantity="other">"Не атрымалася перадаць %d аб'ектаў. Націсніце для прагляду."</item>

@@ -1245,7 +1245,7 @@
   <string name="boot_audio_dialog_content">Мелодыя загрузкі адключаная. Уключыць і прымяніць яе зноў?</string>
   <string name="boot_audio_dialog_title">Увага</string>
   <string name="add">Дадаць</string>
-  <string name="create_home_icon">Цэтлік на рабочым стале</string>
+  <string name="create_home_icon">Цэтлік на працоўным стале</string>
   <string name="exo_controls_cc_disabled_description">Уключыць субтытры</string>
   <string name="exo_controls_cc_enabled_description">Адключыць субтытры</string>
   <string name="exo_controls_fullscreen_enter_description">Перайсці ў поўнаэкранны рэжым</string>

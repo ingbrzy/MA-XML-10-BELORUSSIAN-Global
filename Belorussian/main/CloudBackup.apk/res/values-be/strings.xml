@@ -511,7 +511,7 @@
   <string name="restore_home_screen_apps_options">"Параметры рэзервовага капіявання
 %s"</string>
   <string name="self_device_disable">%s (не падтрымліваецца на гэтай прыладзе)</string>
-  <string name="session_action_btn_text_return_home">Галоўны экран</string>
+  <string name="session_action_btn_text_return_home">Згарнуць</string>
   <string name="session_backup_apk_data_text">Рэзервовае капіяванне дадзеных WeChat…</string>
   <string name="session_backup_apk_text">Рэзервовае капіяванне макета працоўнага стала і сістэмных налад…</string>
   <string name="session_ending_backup_text">Амаль гатова…</string>

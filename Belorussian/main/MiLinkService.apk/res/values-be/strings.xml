@@ -496,7 +496,7 @@
   <string name="paipai_connect_btn_text">Гатова</string>
   <string name="paipai_connect_tv1_text">Падлучана да прылады</string>
   <string name="paipai_connect_tv2_text">Перададзеныя дадзеныя</string>
-  <string name="paipai_error_dialog_msg">Праверце настройкі сеткі і паспрабуйце яшчэ раз.</string>
+  <string name="paipai_error_dialog_msg">Праверце налады сеткі і паспрабуйце яшчэ раз.</string>
   <string name="paipai_error_dialog_negative">Зразумела</string>
   <string name="scan_wifi_label_china">Падлучыцца да Wi-Fi</string>
   <string name="scan_wifi_label_global">Падлучыцца да Wi-Fi</string>

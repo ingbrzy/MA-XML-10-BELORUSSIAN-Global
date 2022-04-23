@@ -45,7 +45,7 @@
   <string name="early_morning">Раніца</string>
   <string name="edge_distance_pref_summary">Краніце вобласці абуджэння побач з краем экрана, каб з\'явіўся памочнік націскаў</string>
   <string name="edge_distance_pref_title">Вобласць абуджэння</string>
-  <string name="edge_mode_custom_summary">Настройка памеру вобласці абуджэння побач з краем экрана</string>
+  <string name="edge_mode_custom_summary">Налады памеру вобласці абуджэння побач з краем экрана</string>
   <string name="edge_mode_custom_title">Карыстацкі</string>
   <string name="edge_mode_default_title">Па змаўчанні</string>
   <string name="enable_touch_assistant">Уключыць асістэнт дотыку</string>

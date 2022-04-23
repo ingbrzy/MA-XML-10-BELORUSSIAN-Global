@@ -907,7 +907,7 @@ ID:%s
   <string name="miuix_indexer_collect">Калекцыі</string>
   <string name="miuix_indexer_selected">Абрана: %s</string>
   <string name="mtrl_chip_close_icon_content_description">Выдаліць %1$s</string>
-  <string name="network_error_info">Адбылася сеткавая памылка. Праверце настройкі сеткі і паспрабуйце яшчэ раз.</string>
+  <string name="network_error_info">Адбылася сеткавая памылка. Праверце налады сеткі і паспрабуйце яшчэ раз.</string>
   <string name="network_timeout_info">Немагчыма падключыцца да сеткі. Паўтарыце спробу.</string>
   <string name="no_account_or_forget_password">Стварыць акаўнт ці забыліся пароль?</string>
   <string name="notify_verify_again_security_phone">Пацвердзіць</string>

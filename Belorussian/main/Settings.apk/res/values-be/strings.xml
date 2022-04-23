@@ -2244,7 +2244,7 @@
   <string name="dialog_restrict_negative">Абмежаваць</string>
   <string name="dialog_restrict_positive">Скасаваць</string>
   <string name="dialog_speaker_auto_clean_button">Зразумела</string>
-  <string name="dialog_speaker_auto_clean_content">Ачыстка займае 30 секунд. Ня пакідайце гэтую старонку. Павялічце гучнасць гуку для лепшага эфекту.</string>
+  <string name="dialog_speaker_auto_clean_content">Ачыстка займае 30 секунд. Ня пакідайце гэты экран. Павялічце гучнасць гуку для лепшага эфекту.</string>
   <string name="dialog_speaker_auto_clean_title">Увага</string>
   <string name="dialog_stop_message">Ваш тэлефон не можа нармальна кіраваць зарадам акумулятара, бо %1$s трымае тэлефон у актыўным рэжыме.\n\nВырашыць гэту праблему можна, прымусова спыніўшы праграму.\n\nКалі гэта не дапамагло, трэба выдаліць праграму, каб павысіць прадукцыйнасць акумулятара.</string>
   <string name="dialog_stop_message_wakeup_alarm">Ваш тэлефон не можа нармальна кіраваць зарадам акумулятара, бо %1$s пастаянна выводзіць яго з рэжыму сну.\n\nКаб вырашыць гэту праблему, вы можаце паспрабаваць адключыць праграму %1$s.\n\nКалі гэта не дапамагло, трэба выдаліць праграму, каб павысіць прадукцыйнасць акумулятара.</string>
@@ -2321,7 +2321,7 @@
   <string name="display_vr_pref_off">Памяншэнне мігцення</string>
   <string name="display_vr_pref_title">Калі прылада ў VR-рэжыме</string>
   <string name="display_white_balance_title">Паказваць баланс белага</string>
-  <string name="diy_suppression_summary">Настройка памеру вобласці каля краёў экрана для ігнаравання выпадковых дотыкаў</string>
+  <string name="diy_suppression_summary">Налады памеру вобласці каля краёў экрана для ігнаравання выпадковых дотыкаў</string>
   <string name="diy_suppression_title">Карыстацкія налады</string>
   <string name="dlg_cancel">Скасаваць</string>
   <string name="dlg_confirm_unmount_text">Калі адключыць SD-карту, некаторыя праграмы, якія вы выкарыстоўваеце, спыняцца і могуць быць недаступныя, пакуль не будзе падключана SD-карта.</string>
@@ -4520,7 +4520,7 @@
   <string name="nfc_repair_confirm_desc" formatted="false">Вы адчувалі якія-небудзь з гэтых праблем?\n%d. Вы не можаце дадаць або папоўніць карту NFC.\n%d. Ваша карта NFC не працуе.\n%d. Іншыя функцыі NFC не загружаюцца.</string>
   <string name="nfc_repair_fail_desc">Адбылася памылка, якая перашкаджае аднаўленню функцыянальнасці NFC. Паспрабуйце яшчэ раз.</string>
   <string name="nfc_repair_fail_title">Не атрымалася аднавіць</string>
-  <string name="nfc_repair_ongoing">Аднаўленне… Не пакідайце гэтую старонку.</string>
+  <string name="nfc_repair_ongoing">Аднаўленне… Не пакідайце гэты экран.</string>
   <string name="nfc_repair_pass_desc">Перазагрузіце прыладу, каб прымяніць змены.</string>
   <string name="nfc_repair_pass_title">Паспяхова адноўлена</string>
   <string name="nfc_repair_summary">Выпраўце праблемы, якія перашкаджаюць вам выкарыстоўваць функцыі NFC</string>
@@ -7041,7 +7041,7 @@
   <string name="unlock_mode_title">Блакаванне экрана</string>
   <string name="unlock_set_do_later_title">Не зараз</string>
   <string name="unlock_set_enter_system">Прапускаць блакаванне экрана</string>
-  <string name="unlock_set_enter_system_summary">Пасля абуджэння адразу пераходзіць да галоўнага экрана</string>
+  <string name="unlock_set_enter_system_summary">Пасля абуджэння адразу пераходзіць на працоўны стол</string>
   <string name="unlock_set_unlock_biometric_weak_summary">Эксперыментальная функцыя з нізкім узроўнем бяспекі</string>
   <string name="unlock_set_unlock_biometric_weak_title">Твар</string>
   <string name="unlock_set_unlock_disabled_summary">Адключана адміністратарам, палітыкай шыфравання ці сховішчам уліковых дадзеных</string>
@@ -7446,7 +7446,7 @@
   <string name="voice_helper_title">Галасавы памочнік</string>
   <string name="voice_input_output_settings">Галасавы ўвод і вывад</string>
   <string name="voice_input_output_settings_title">Налады галасавога ўводу і вываду</string>
-  <string name="voice_input_settings">Настройкі галасавога ўводу</string>
+  <string name="voice_input_settings">Налады галасавога ўводу</string>
   <string name="voice_input_settings_title">Галасавы ўвод</string>
   <string name="voice_interaction_security_warning">Гэта служба галасавога ўводу зможа ажыццяўляць пастаянны маніторынг голасу і кантраляваць праграмы з падтрымкай галасавых каманд ад вашага імя. Гэта служба праграмы %s. Уключыць гэту службу?</string>
   <string name="voice_interactor_preference_summary">Поўная падтрымка рэжыму «гарачага слова» і ўзаемадзеянне</string>
@@ -8892,7 +8892,7 @@
   <string name="bt_audio_repair_property">Выпраўленне праблем з гукам</string>
   <string name="bt_audiorepair_dialog_open_success">Выпраўлена паспяхова. Пачакайце, пакуль прылада паўторна падлучыцца.</string>
   <string name="bt_audiorepair_dialog_openok">Выправіць</string>
-  <string name="bt_audiorepair_open_dialog_summary">MIUI выявіць і ліквідуе праблемы, якія выклікаюць заіканне гуку Bluetooth. Bluetooth будзе адноўлена падчас гэтага працэсу. Не пакідайце гэтую старонку, пакуль не ўбачыце вынікі.</string>
+  <string name="bt_audiorepair_open_dialog_summary">MIUI выявіць і ліквідуе праблемы, якія выклікаюць заіканне гуку Bluetooth. Bluetooth будзе адноўлена падчас гэтага працэсу. Не пакідайце гэты экран, пакуль не ўбачыце вынікі.</string>
   <string name="bt_audiorepair_open_dialog_title">Выправіць заіканне гуку</string>
   <string name="bt_audiorepair_pre_title">Выправіць заіканне гуку</string>
   <string name="bt_audiorepair_summary">Выправіць заіканне гуку на падлучаных прыладах Bluetooth</string>
@@ -9253,7 +9253,7 @@
   <string name="bluetooth_broadcast_audio_switch_summary">Адключыць трансляцыю па Bluetooth</string>
   <string name="bluetooth_broadcast_audio_switch_title">Сумесная трансляцыя</string>
   <string name="bluetooth_broadcast_pin_configure">Трансляцыя: код прыватнасці Bluetooth</string>
-  <string name="bluetooth_broadcast_pin_configure_dialog">Трансляцыя: настройка кода канфідэнцыйнасці Bluetooth</string>
+  <string name="bluetooth_broadcast_pin_configure_dialog">Трансляцыя: налады кода канфідэнцыйнасці Bluetooth</string>
   <string name="bluetooth_col_grp_source_selection_options_detail">Крыніца трансляцыі %1$s дадаецца да членаў падключанай групы.</string>
   <string name="bluetooth_col_source_selection_options_detail">Крыніца трансляцыі %1$s дадаецца да атрымальніка</string>
   <string name="bluetooth_share_audio">Агульны гук па Bluetooth</string>
@@ -9305,7 +9305,7 @@
   <string name="abc_menu_space_shortcut_label">Прабел</string>
   <string name="abc_menu_sym_shortcut_label">Sym +</string>
   <string name="abc_prepend_shortcut_label">Меню +</string>
-  <string name="accessibility_audio_adjustment_title">Настройка аўдыя</string>
+  <string name="accessibility_audio_adjustment_title">Налады аўдыя</string>
   <string name="accessibility_banner_message_dismiss">Адхіліць</string>
   <string name="accessibility_button_description">Хуткі доступ да спецыяльных магчымасцей з любога экрана. \n\nКаб пачаць, адкрыйце налады спецыяльных магчымасцей і абярыце патрэбную функцыю. Націсніце цэлiк і абярыце кнопку спецыяльных магчымасцей.</string>
   <string name="accessibility_button_fade_summary">Знікае праз некалькі секунд, каб не засланяць экран</string>
@@ -9682,10 +9682,10 @@
   <string name="lockpassword_reenter_your_profile_password_header">Яшчэ раз увядзіце пароль для працы</string>
   <string name="lockpassword_reenter_your_profile_pin_header">Яшчэ раз увядзіце PIN-код для працы</string>
   <string name="lockscreen_privacy_controls_setting_toggle">Паказ элементаў кіравання прыладай</string>
-  <string name="lockscreen_privacy_controls_summary">Доступ да элементаў кіравання пры заблакіраваным экране</string>
+  <string name="lockscreen_privacy_controls_summary">Доступ да элементаў кіравання пры заблакаваным экране</string>
   <string name="lockscreen_privacy_not_secure">Спачатку трэба наладзіць блакіроўку экрана</string>
   <string name="lockscreen_privacy_wallet_setting_toggle">Паказ кашалька</string>
-  <string name="lockscreen_privacy_wallet_summary">Дазволіць доступ да кашалька з заблакіраванага экрана і хуткіх налад</string>
+  <string name="lockscreen_privacy_wallet_summary">Дазволіць доступ да кашалька з заблакаванага экрана і хуткіх налад</string>
   <string name="low_battery_summary">Нізкі зарад акумулятара</string>
   <string name="main_clear_accounts">\n\nУ дадзены момант вы зайшлі ў наступныя ўліковыя запісы\n</string>
   <string name="main_clear_button_text">Сцерці ўсе дадзеныя</string>
@@ -10341,7 +10341,7 @@
   <string name="bt_plugin_preference_msg">Бягучая: %1$s | Новая: %2$s</string>
   <string name="bt_plugin_preference_title">Новая версія</string>
   <string name="bt_plugin_set_net_dialog_cancle">Адмена</string>
-  <string name="bt_plugin_set_net_dialog_message">Праверце настройкі сеткі і паспрабуйце яшчэ раз.</string>
+  <string name="bt_plugin_set_net_dialog_message">Праверце налады сеткі і паспрабуйце яшчэ раз.</string>
   <string name="bt_plugin_set_net_dialog_retry">Паспрабаваць яшчэ раз</string>
   <string name="bt_plugin_set_net_dialog_title">Немагчыма падключыцца да сеткі</string>
   <string name="gxzw_vibrate_summary">Вібраваць падчас прайгравання анімацыі разблакіроўкі адбіткам пальца</string>
@@ -10412,7 +10412,7 @@
   <string name="device_description_screen">Экран</string>
   <string name="extended_power_menu">Пашыранае меню сiлкавання</string>
   <string name="keyboard_back_light">Падсветка клавіятуры</string>
-  <string name="lockscreen_sidepanel_shortcuts_summary">Настройка цэтлікаў праграм на бакавой панэлі экрана блакавання</string>
+  <string name="lockscreen_sidepanel_shortcuts_summary">Налады цэтлікаў праграм на бакавой панэлі экрана блакавання</string>
   <string name="lockscreen_sidepanel_shortcuts_title">Цэтлiкі бакавой панэлі</string>
   <string name="model_number_pad">Мадэль прылады</string>
   <string name="my_device_disclaimer">Нататка: інфармацыя аб абсталяванні, уключаючы працэсар, ёмістасць акумулятара, камеру, памер і вырашэнне экрана, прадстаўлена лабараторыямі, дызайнерамі і пастаўшчыкамі Xiaomi.</string>

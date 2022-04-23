@@ -80,11 +80,11 @@
     <string name="add_website">Дадаць вэб-сайт</string>
     <string name="agree">Згадзіцца</string>
     <string name="agree_and_continue">Згадзіцца</string>
-    <string name="ai_animation_music_text">Cаўндтрэк AI</string>
+    <string name="ai_animation_music_text">Cаўндтрэк ШI</string>
     <string name="ai_music_save_cancel">Адмяніць</string>
     <string name="ai_music_save_dialog_title">Захаваць</string>
     <string name="ai_music_save_fail">Памылка захавання</string>
-    <string name="ai_music_save_info">Саўндтрэк АІ паспяхова дададзены. Захаваць відэа?</string>
+    <string name="ai_music_save_info">Саўндтрэк ШІ паспяхова дададзены. Захаваць відэа?</string>
     <string name="ai_music_save_ok">Захаваць</string>
     <string name="ai_music_save_success">Паспяхова захавана</string>
     <string name="ai_music_saved">Захавана</string>
@@ -97,8 +97,8 @@
     <string name="alert_dialog_download_prepare">Падрыхтоўка да спампоўкі…</string>
     <string name="alert_dialog_download_progress">"Пампаванне праграмы: "</string>
     <string name="all">Паказаць усё</string>
-    <string name="app_description_content">«Mi Відэа» — гэта сістэмная праграма, якая ўтрымлівае лакальны аўдыяплэер. Вы па-ранейшаму зможаце прайграваць відэафайлы пасля выдалення ярлыка з Галоўнага экрана.</string>
-    <string name="app_description_title">Выдаліць «Mi Відэа» з Галоўнага экрана?</string>
+    <string name="app_description_content">«Mi Відэа» — гэта сістэмная праграма, якая ўтрымлівае лакальны аўдыяплэер. Вы па-ранейшаму зможаце прайграваць відэафайлы пасля выдалення ярлыка з працоўнага стала.</string>
+    <string name="app_description_title">Выдаліць «Mi Відэа» з працоўнага стала?</string>
     <string name="app_name">Mi Відэа</string>
     <string name="auth_again">Згадзіцца</string>
     <string name="auth_fail_warning">Сеанс састарэл. Увайдзіце паўторна.</string>
@@ -865,10 +865,10 @@ ID:%s
     <string name="permission_continue">Працягнуць</string>
     <string name="permission_info">"Mi Відэа патрабуецца доступ да нумара IMEI вашай прылады для наступнага:
  
-Тонкай настройкі паслуг пад вашу прыладу;
+Тонкай налады паслуг пад вашу прыладу;
 Павышэння бяспекі вашага акаўнта"</string>
     <string name="permission_info1">Mi Відэа патрабуецца доступ да нумара IMEI вашай прылады для наступнага:</string>
-    <string name="permission_info2">Тонкай настройкі паслуг пад вашу прыладу;</string>
+    <string name="permission_info2">Тонкай налады паслуг пад вашу прыладу;</string>
     <string name="permission_info3">Павышэння бяспекі вашага акаўнта.</string>
     <string name="permission_phone">Тэлефон</string>
     <string name="permission_phone_desc">Для доступу да стану прылады і прыпынення прайгравання падчас выклікаў</string>

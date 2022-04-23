@@ -396,7 +396,7 @@
   <string name="perm_read_phone_state">Чытанне статусу тэлефона</string>
   <string name="perm_read_sms">Чытанне SMS</string>
   <string name="perm_storage">Чытанне і запіс на знешняе сховішча</string>
-  <string name="phone_title">Настройкі тэлефона</string>
+  <string name="phone_title">Налады тэлефона</string>
   <string name="platform_chooser_item_android_mi">Mi тэлефон</string>
   <string name="platform_chooser_item_android_others">Іншыя маркі</string>
   <string name="platform_chooser_item_ios">Імпарт з прылады iOS</string>

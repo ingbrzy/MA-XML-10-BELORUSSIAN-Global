@@ -161,8 +161,8 @@ ID:%s
   <string name="get_phone_verifycode_exceed_limit">На гэты нумар адпраўлена зашмат праверачных кодаў. Пачакайце 24 гадзіны і паўтарыце спробу.</string>
   <string name="global_app_description_content">«FM-радыё» — гэта сістэмная праграма. Пасля яе выдалення вы не зможаце слухаць радыёперадачы.</string>
   <string name="global_app_description_title">Выдаліць «FM-радыё»?</string>
-  <string name="global_remove_app_description_content">«FM-радыё» — гэта сістэмная праграма. Пасля выдалення ярлыка праграмы з Галоўнага экрана вы не зможаце слухаць радыёперадачы.</string>
-  <string name="global_remove_app_description_title">Выдаліць «FM-радыё» з Галоўнага экрана?</string>
+  <string name="global_remove_app_description_content">«FM-радыё» — гэта сістэмная праграма. Пасля выдалення ярлыка праграмы з працоўнага стала вы не зможаце слухаць радыёперадачы.</string>
+  <string name="global_remove_app_description_title">Выдаліць «FM-радыё» з працоўнага стала?</string>
   <string name="goto_sign_up">Стварыць акаўнт</string>
   <string name="group_favor">Абраныя станцыі</string>
   <string name="group_other">Іншыя станцыі</string>

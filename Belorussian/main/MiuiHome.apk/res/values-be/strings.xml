@@ -347,7 +347,7 @@
   <string name="free_style_edit_tab_shortcut">Цэтлікі</string>
   <string name="free_style_edit_tab_widget">Віджэты</string>
   <string name="free_style_enter_tip">Каб праглядзець Мі Space, правядзіце ўніз ад верхняй частцы экрана двума пальцамі</string>
-  <string name="free_style_exit_tip">Каб вярнуцца да галоўнага экрана, правядзіце ўверх ад ніжняй часткі экрана двума пальцамі</string>
+  <string name="free_style_exit_tip">Каб вярнуцца да працоўнага стала, правядзіце ўверх ад ніжняй часткі экрана двума пальцамі</string>
   <string name="free_style_londing_text">Хвілінку…</string>
   <string name="friday">Пятніца</string>
   <string name="friday_short">Птн</string>
@@ -461,7 +461,7 @@
   <string name="menu_finish">Гатова</string>
   <string name="menu_item_add_item">Дадаць на працоўны стол</string>
   <string name="menu_launcher_setting">Налады працоўнага стала</string>
-  <string name="menu_lock">Заблакаваць стан галоўнага экрана</string>
+  <string name="menu_lock">Заблакаваць стан працоўнага стала</string>
   <string name="menu_more">Больш</string>
   <string name="menu_new_display_open">Адкрыць у новым вакне</string>
   <string name="menu_no_word">Не паказваць подпісы абразкоў</string>
@@ -473,7 +473,7 @@
   <string name="menu_sort">Сартаванне</string>
   <string name="menu_trans_effect">Эфекты змены экранаў</string>
   <string name="menu_wallpaper">Шпалеры</string>
-  <string name="menu_workspace_preview">Прагляд галоўнага экрана</string>
+  <string name="menu_workspace_preview">Прагляд працоўнага стала</string>
   <string name="mi_wallpaper">Тэмы MIUI</string>
   <string name="midnight">Ноч</string>
   <string name="minus_one_screen">Стужка віджэтаў</string>

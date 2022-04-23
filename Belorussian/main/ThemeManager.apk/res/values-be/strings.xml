@@ -339,7 +339,7 @@
   <string name="hide_pull_down_negative">Ня хаваць</string>
   <string name="hide_pull_down_positive">Схаваць</string>
   <string name="home_apply_failured">Немагчыма ўсталяваць шпалеры на працоўны стол</string>
-  <string name="home_apply_success">Шпалеры Галоўнага экрана ўсталяваны</string>
+  <string name="home_apply_success">Шпалеры працоўнага стала ўсталяваны</string>
   <string name="home_daily">Асноўныя моманты дня</string>
   <string name="i_know">Зразумела</string>
   <string name="icon_content_description">Абразок дыялогу</string>
@@ -378,9 +378,9 @@
   <string name="local_resouce_creator_name">Распрацоўшчык: %1$s</string>
   <string name="lock_screen_apply">Усталяваць на экран блакавання</string>
   <string name="lockscreen_apply_failured">Немагчыма ўсталяваць шпалеры на экран блакавання</string>
-  <string name="lockscreen_apply_failured_but_home_apply_success">Шпалеры Галоўнага экрана ўсталяваны. Немагчыма ўсталяваць шпалеры экрана блакавання.</string>
+  <string name="lockscreen_apply_failured_but_home_apply_success">Шпалеры працоўнага стала ўсталяваны. Немагчыма ўсталяваць шпалеры экрана блакавання.</string>
   <string name="lockscreen_apply_success">Шпалеры экрана блакавання ўсталяваны</string>
-  <string name="lockscreen_apply_success_but_home_apply_failured">Шпалеры экрана блакавання ўсталяваны. Немагчыма ўсталяваць шпалеры Галоўнага экрана.</string>
+  <string name="lockscreen_apply_success_but_home_apply_failured">Шпалеры экрана блакавання ўсталяваны. Немагчыма ўсталяваць шпалеры працоўнага стала.</string>
   <string name="lockscreen_desk_wallpaper">Шпалеры для працоўнага стала і экрана блакавання</string>
   <string name="lockscreen_magazine_subscribe">Падпісчыкі: %1$s</string>
   <string name="lockscreen_magazine_summary">Катэгорыі</string>
@@ -1172,7 +1172,7 @@
   <string name="wallpaper_loop_add_to_loop_desk_wallpaper">Дадаць у слайд-шоў працоўнага стала</string>
   <string name="wallpaper_loop_add_to_loop_lock_wallpaper">Дадаць у слайд-шоў экрана блакавання</string>
   <string name="wallpaper_loop_desc_all_walpaper">Стварыце ўласныя слайд-шоў шпалер</string>
-  <string name="wallpaper_loop_desc_desk_walpaper">Стварыце слайд-шоў шпалер Галоўнага экрана</string>
+  <string name="wallpaper_loop_desc_desk_walpaper">Стварыце слайд-шоў шпалер працоўнага стала</string>
   <string name="wallpaper_loop_desc_lock_walpaper">Стварыце слайд-шоў шпалер экрана блакавання</string>
   <string name="wallpaper_loop_interval_1d">Кожны дзень</string>
   <string name="wallpaper_loop_interval_1h">Кожную гадзіну</string>
@@ -1181,14 +1181,14 @@
   <string name="wallpaper_loop_interval_title">Змена шпалер</string>
   <string name="wallpaper_loop_manage">Кіраванне</string>
   <string name="wallpaper_loop_more_options">Дадатковыя налады</string>
-  <string name="wallpaper_loop_my_desk_wallpaper">Мае шпалеры Галоўнага экрана</string>
+  <string name="wallpaper_loop_my_desk_wallpaper">Мае шпалеры працоўнага стала</string>
   <string name="wallpaper_loop_my_lock_wallpaper">Мае шпалеры экрана блакавання</string>
   <string name="wallpaper_loop_order_desc">Выбар парадку адлюстравання слайдаў</string>
   <string name="wallpaper_loop_order_loop">Зыходны</string>
   <string name="wallpaper_loop_order_shuffle">Выпадковы</string>
   <string name="wallpaper_loop_order_title">Парадак слайдаў</string>
   <string name="wallpaper_loop_title">Слайд-шоў шпалер</string>
-  <string name="wallpaper_loop_title_desk_wallpaper">Слайд-шоў Галоўнага экрана</string>
+  <string name="wallpaper_loop_title_desk_wallpaper">Слайд-шоў працоўнага стала</string>
   <string name="wallpaper_loop_title_lock_walpaper">Слайд-шоў экрана блакавання</string>
   <string name="wallpaper_no_favorite">Тут пакуль нічога няма.</string>
   <string name="wallpaper_no_record">Тут пакуль нічога няма.</string>
@@ -1347,7 +1347,7 @@
   <string name="phone_exit_theme_warning_title">Выйсці з тэм?</string>
   <string name="phone_log_in_theme">Увайсці ў тэмы</string>
   <string name="phone_log_in_theme_detail"><Data>Я прачытаў і згодны з &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%1$s\"> Карыстальніцкай дамовай&lt;/a>&lt;/font> і &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%2$s\">Палітыкай прыватнасці&lt;/a>&lt;/font> Тэм, а таксама &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Карыстальніцкай дамовай&lt;/a>&lt;/font>&lt;font color=\ "#37A5FF\"> і &lt;a href=\"%4$s\">Палітыкай прыватнасці&lt;/a>&lt;/font> Mi акаўнта.</Data></string>
-  <string name="pref_read_write_function_detail">Для змены настроек персаналізацыі і захаванні загружаных элементаў</string>
+  <string name="pref_read_write_function_detail">Для змены налад персаналізацыі і захаванні загружаных элементаў</string>
   <string name="pref_reading_the_application_list_detail">Для выкарыстання празрыстых шпалер</string>
   <string name="privacy_action_failed_net_content">Адбылася сеткавая памылка. Пачакайце хвіліну ці дзве і паспрабуйце яшчэ раз.</string>
   <string name="privacy_action_failed_server_content">Адбылася памылка сервера. Пачакайце хвіліну ці дзве і паспрабуйце яшчэ раз.</string>
@@ -1364,7 +1364,7 @@
   <string name="privacy_logoff_services_title">Адмяніць сэрвісы</string>
   <string name="privacy_logoff_theme_content_1">1. Усе замовы (у тым ліку аплачаныя), зробленыя на прыладах Xiaomi. Вы больш не зможаце выкарыстоўваць набытыя элементы.</string>
   <string name="privacy_logoff_theme_content_2">2. Уся інфармацыя аб вашых лайках, каментарах, рэйтынгах і падпісчыках, створаная на прыладах Xiaomi.</string>
-  <string name="privacy_logoff_theme_content_5">5. Усе элементы персаналізацыі, якія ў цяперашні час выкарыстоўваюцца на гэтай прыладзе. Настройкі персаналізацыі па змаўчанні будуць адноўлены.</string>
+  <string name="privacy_logoff_theme_content_5">5. Усе элементы персаналізацыі, якія ў цяперашні час выкарыстоўваюцца на гэтай прыладзе. Налады персаналізацыі па змаўчанні будуць адноўлены.</string>
   <string name="privacy_logoff_theme_service_warning">Наступныя элементы будуць выдаленыя назаўжды пасля адмены сэрвісаў:</string>
   <string name="privacy_network_exception">Адбылася сеткавая памылка. Пачакайце хвіліну ці дзве і паспрабуйце яшчэ раз.</string>
   <string name="privacy_pad_fold_entry">Канфідэнцыяльнасць</string>
@@ -1372,7 +1372,7 @@
   <string name="privacy_pad_fold_logoff_wallpaper_content_3">3. Усе шпалеры, шрыфты і рынгтоны загружаныя на гэтую прыладу.</string>
   <string name="privacy_pad_fold_logoff_wallpaper_content_4">4. Усе налады дазволаў, налады і кэшаваныя элементы, створаныя на гэтай прыладзе.</string>
   <string name="privacy_pad_fold_logoff_wallpaper_service_detail_content_1">1. Перад тым, як працягваць, пераканайцеся, што ў вас ёсць права адмяняць паслугі.\n2. Адмена шпалер і сэрвісаў персаналізацыі не паўплывае на звычайнае выкарыстанне іншых прадуктаў Xiaomi.\n3. Адмена сэрвісы - гэта незваротнае дзеянне. Перш чым працягнуць, зрабіце рэзервовую копію ўсіх важных элементаў, бо яны могуць быць выдалены незваротна. Памятайце, што вы не зможаце перагледзець сваё рашэнне пасля адмены сэрвісаў. Наступныя дадзеныя будуць канчаткова выдалены ці ананімізаваны пасля адмены сэрвісы (за выключэннем выпадкаў, прадугледжаных законамі і нарматыўнымі актамі):</string>
-  <string name="privacy_pad_fold_logoff_wallpaper_service_detail_content_2">Усе замовы (уключаючы аплачаныя), зробленыя на прыладах Xiaomi. Вы больш не зможаце выкарыстоўваць набытыя элементы.\nУся інфармацыя аб вашых лайках, каментарах, рэйтынгах і падпісчыках, створаная на прыладах Xiaomi.\nУсе шпалеры, шрыфты і рынгтоны, загружаныя на гэтую прыладу.\nУсе дазволы, наладкі і кэшаваныя элементы, створаныя на гэтай прыладзе.\nУсе элементы персаналізацыі, якія выкарыстоўваюцца цяпер на гэтай прыладзе. Настройкі персаналізацыі па змаўчанні будуць адноўлены.</string>
+  <string name="privacy_pad_fold_logoff_wallpaper_service_detail_content_2">Усе замовы (уключаючы аплачаныя), зробленыя на прыладах Xiaomi. Вы больш не зможаце выкарыстоўваць набытыя элементы.\nУся інфармацыя аб вашых лайках, каментарах, рэйтынгах і падпісчыках, створаная на прыладах Xiaomi.\nУсе шпалеры, шрыфты і рынгтоны, загружаныя на гэтую прыладу.\nУсе дазволы, наладкі і кэшаваныя элементы, створаныя на гэтай прыладзе.\nУсе элементы персаналізацыі, якія выкарыстоўваюцца цяпер на гэтай прыладзе. Налады персаналізацыі па змаўчанні будуць адноўлены.</string>
   <string name="privacy_pad_fold_logoff_wallpaper_service_detail_content_3">4. Адмена сэрвісу не мае на ўвазе вызваленне ці змякчэнне адказнасці ў дачыненні да дзеянняў, выкананых да адмены сэрвісаў.</string>
   <string name="privacy_pad_fold_logoff_wallpaper_service_detail_prompt">Заява аб адмене шпалер і сэрвісаў персаналізацыі</string>
   <string name="privacy_pad_fold_logoff_wallpaper_service_detail_title">Прачытайце і прыміце \"Заява аб адмене сэрвісаў шпалер і персаналізацыі\", перш чым адмаўляцца ад нашых сэрвісаў.</string>
@@ -1418,7 +1418,7 @@
   <string name="privacy_revoke_agree_content">Водгук згоды</string>
   <string name="privacy_revoke_agree_content_1">1. Усе замовы (уключаючы аплачаныя), зробленыя на прыладах Xiaomi, на якіх вы выкарыстоўвалі свой Mi акаўнт. Вы больш не зможаце выкарыстоўваць набытыя элементы.</string>
   <string name="privacy_revoke_agree_content_2">2. Уся інфармацыя аб вашых лайках, каментарах, рэйтынгах і падпісантах, згенераваная на прыладах Xiaomi, на якіх вы выкарыстоўвалі свой Mi акаўнт.</string>
-  <string name="privacy_revoke_agree_content_5">5. Усе элементы персаналізацыі, якія ў цяперашні час выкарыстоўваюцца на гэтай прыладзе. Настройкі персаналізацыі па змаўчанні будуць адноўлены.</string>
+  <string name="privacy_revoke_agree_content_5">5. Усе элементы персаналізацыі, якія ў цяперашні час выкарыстоўваюцца на гэтай прыладзе. Налады персаналізацыі па змаўчанні будуць адноўлены.</string>
   <string name="privacy_revoke_agree_data_warning">Наступныя дадзеныя будуць канчаткова выдаленыя або ананімаваныя пасля адклікання згоды (акрамя выпадкаў, прадугледжаных законамі і нарматыўнымі актамі ці іншым чынам патрабаваных якія рэгулююць органамі):</string>
   <string name="privacy_revoke_succeed">Згода адклікана паспяхова</string>
   <string name="privacy_revoking_warning">Водгук згоды…</string>

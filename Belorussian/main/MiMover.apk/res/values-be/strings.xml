@@ -422,7 +422,7 @@
   <string name="send_sms_for_sync_title">Папярэджанне аб выкарыстанні дадзеных</string>
   <string name="send_verification_code_fail">Не атрымалася адправіць код пацверджання</string>
   <string name="send_verification_code_fail_tips">Пераканайцеся, што вы ўвайшлі ў гэты ўліковы запіс на прыладзе Apple. У адваротным выпадку вы не зможаце атрымаць код.</string>
-  <string name="settings_phone">Настройкі тэлефона</string>
+  <string name="settings_phone">Налады тэлефона</string>
   <string name="settings_powerkeeper">Дадзеныя лічыльніка крокаў</string>
   <string name="settings_sms">Налады паведамленняў</string>
   <string name="settings_system">Налады сістэмы</string>
@@ -544,7 +544,7 @@
   <string name="trans_sync_transfer_data_list">Выберыце элементы для перадачы на ​​старой прыладзе</string>
   <string name="trans_time_format_second">Менш за хвіліну</string>
   <string name="trans_time_spent">Прайшло часу: %s</string>
-  <string name="transfer_bottom_tip">Вы не зможаце выкарыстоўваць Wi-Fi або Bluetooth падчас перадачы. Не пакідай гэтую старонку.</string>
+  <string name="transfer_bottom_tip">Вы не зможаце выкарыстоўваць Wi-Fi або Bluetooth падчас перадачы. Не пакідай гэты экран.</string>
   <string name="transfer_finish_bottom_tip">Калі вы больш не збіраецеся выкарыстоўваць старую прыладу, вы можаце выдаліць усе дадзеныя пасля таго, як пацвердзіце, што ўсе важныя элементы былі паспяхова перададзеныя.</string>
   <string name="transfer_lose_connect_summary">Падобна на тое, злучэнне было перапынена. Падключыцеся зноў.</string>
   <string name="transfer_lose_connect_title">Злучэнне было перапынена</string>

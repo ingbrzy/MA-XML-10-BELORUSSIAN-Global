@@ -2068,7 +2068,7 @@
   <string name="running_process_item_user_label">Карыстальнiк: %1$s</string>
   <string name="runningservices_settings_summary">Прагляд запушчаных службаў i кіраванне iмi</string>
   <string name="runningservices_settings_title">Запушчаныя службы</string>
-  <string name="sa_switch_debug_summary">Паказаць параметры рэжыму сеткі 5G у дадатковых настройках SIM-карты</string>
+  <string name="sa_switch_debug_summary">Паказаць параметры рэжыму сеткі 5G у дадатковых наладах SIM-карты</string>
   <string name="sa_switch_debug_title">Паказаць параметры сеткавага рэжыму 5G</string>
   <string name="saturday">Субота</string>
   <string name="saturday_short">Суб</string>

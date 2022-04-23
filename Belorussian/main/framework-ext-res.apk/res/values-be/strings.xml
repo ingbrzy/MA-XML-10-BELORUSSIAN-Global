@@ -148,7 +148,7 @@
   <string name="force_exit_message">Праграма \"%1$s\" зачынена</string>
   <string name="force_exit_skip_message">Немагчыма зачыніць праграму \"%1$s\", таму што яна неабходна сістэме.</string>
   <string name="fourhours">2 гадзіны</string>
-  <string name="fp_nav_center_action_choose_dlg_msg">Вы можаце вяртацца да галоўнага экрана лёгкім дотыкам да кнопкі «Дадому». Каб уключыць ці выключыць гэтую функцыю, зайдзіце ў Налады &gt; Дадатковыя налады &gt; Кнопкі &gt; Дотык да кнопкі «Дадому» для пераходу на галоўны экран.</string>
+  <string name="fp_nav_center_action_choose_dlg_msg">Вы можаце вяртацца да працоўнага стала лёгкім дотыкам на кнопку «Дадому». Каб уключыць ці выключыць гэтую функцыю, зайдзіце ў Налады &gt; Дадатковыя налады &gt; Кнопкі &gt; Дотык да кнопкі «Дадому» для пераходу на галоўны экран.</string>
   <string name="fp_nav_center_action_choose_dlg_negative_btn_text">Не зараз</string>
   <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Уключыць</string>
   <string name="fp_nav_center_action_choose_dlg_title">Уключыць функцыю хуткага дотыку</string>

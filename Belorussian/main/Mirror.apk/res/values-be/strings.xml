@@ -297,7 +297,7 @@
   <string name="cast_mcc_tips_button_cancel">Ігнараваць</string>
   <string name="cast_mcc_tips_button_ok">Налады</string>
   <string name="cast_mcc_tips_message">Каб пазбегнуць затрымак пры выкарыстанні MIUI+, падлучыце абедзве прылады да адной сеткі Wi-Fi.</string>
-  <string name="cast_mcc_tips_title">Змяніць настройкі Wi-Fi</string>
+  <string name="cast_mcc_tips_title">Змяніць налады Wi-Fi</string>
   <string name="connect_fail_busy_mishare">Падобна, іншая прылада зараз перадае файлы. Дачакайцеся завяршэння перадачы і паспрабуйце яшчэ раз.</string>
   <string name="enable_wifi_alert_message_for_photo_relay_china">MIUI+ дазваляе лёгка пераключацца паміж прыладамі, калі вам трэба рэдагаваць фота, зробленыя з дапамогай тэлефона, на планшэце. Уключыць Wi-Fi для перадачы абслугоўвання?</string>
   <string name="loading">Секундачку…</string>
@@ -367,5 +367,5 @@
   <string name="invisible_mode_dialog_title">Вы інкогніта</string>
   <string name="invisible_mode_toast">Спачатку выключыце рэжым інкогніта</string>
   <string name="loading_view_abort_close_text">Закрыць</string>
-  <string name="loading_view_abort_text">Скончыўся час чакання падлучэння.\nЗакрыйце гэтую старонку і паспрабуйце яшчэ раз.</string>
+  <string name="loading_view_abort_text">Скончыўся час чакання падлучэння.\nЗакрыйце гэты экран і паспрабуйце яшчэ раз.</string>
 </resources>

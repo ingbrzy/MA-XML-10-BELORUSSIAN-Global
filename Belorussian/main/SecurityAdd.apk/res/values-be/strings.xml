@@ -432,7 +432,7 @@
   <string name="net_booster_overdue_notification_tip">Сесія павышэння хуткасці сеткі хутка скончыцца. Падоўжыць сесію?</string>
   <string name="net_retry_btn_text">Паўтор</string>
   <string name="net_switch_to_owner_space_text">Вярнуцца у першае прастору</string>
-  <string name="net_unavailable_tip">Сетка недаступная, праверце настройкі сеткі і паспрабуйце яшчэ раз</string>
+  <string name="net_unavailable_tip">Сетка недаступная, праверце налады сеткі і паспрабуйце яшчэ раз</string>
   <string name="network_control_desc">Кіраванне выкарыстаннем сеткі ў дзіцячай прасторы</string>
   <string name="network_control_title">Наладкі сеткі</string>
   <string name="network_daliy_data_net_usage_limit">Штодзённы ліміт трафіку</string>
@@ -512,8 +512,8 @@
   <string name="saturday_shortest">Суб</string>
   <string name="search_menu_title">Пошук</string>
   <string name="send">Адаслаць</string>
-  <string name="set_babybus_home">Настройка дзіцячага працоўнага стала</string>
-  <string name="set_password_dialog_message">Мы рэкамендуем вам ўсталяваць пароль экрана блакіроўкі асноўнай прасторы. Пасля таго, як вы ўсталюеце яго, пароль блакавання экрана будзе правераны пры выхадзе з дзіцячага рэжыму. Дзіця не можа свабодна ўваходзіць у вашу асноўную прастору</string>
+  <string name="set_babybus_home">Налады дзіцячага працоўнага стала</string>
+  <string name="set_password_dialog_message">Мы рэкамендуем вам ўсталяваць пароль экрана блакавання асноўнай прасторы. Пасля таго, як вы ўсталюеце яго, пароль блакавання экрана будзе правераны пры выхадзе з дзіцячага рэжыму. Дзіця не можа свабодна ўваходзіць у вашу асноўную прастору</string>
   <string name="set_password_dialog_negative_button_text">Адмена</string>
   <string name="set_password_dialog_positive_button_text">Устанавіць</string>
   <string name="set_password_dialog_title">Усталяванне пароля для выхаду з дзіцячага рэжыму</string>

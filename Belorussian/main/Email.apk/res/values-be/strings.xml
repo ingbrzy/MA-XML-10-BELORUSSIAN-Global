@@ -380,7 +380,7 @@
   <string name="date_message_received">%1$s %2$s</string>
   <string name="date_message_received_today">Сёння, %1$s</string>
   <string name="db_error">У дадзеных электроннай пошты ёсць выключэнне. Калі ласка, увайдзіце зноў. Дадзеныя электроннай пошты могуць быць адноўлены пасля ўваходу ў сістэму.</string>
-  <string name="debug_mode_preferencecategory">Настройка вываду журнала</string>
+  <string name="debug_mode_preferencecategory">Налады вываду журнала</string>
   <string name="debug_mode_settings">Налады рэжыму адладкі</string>
   <string name="default_">ПА ЗМАЎЧАННІ</string>
   <string name="default_opening_attchemnt_mode">Адкрывайце прымацаванні з дапамогай прадвызначаных праграм</string>
@@ -1203,7 +1203,7 @@
   <string name="version_string">Версія: %s</string>
   <string name="via_domain">Праз %1$s</string>
   <string name="view_more_conversations">Паглядзець іншыя гутаркі</string>
-  <string name="wait_for_manual_sync_body">Гэты акаўнт не настроены на аўтаматычную сінхранізацыю.\nНацісніце \"Сінхранізаваць зараз\", каб сінхранізаваць пошту, або \"Змяніць налады сінхранізацыі\", каб наладзіць гэты акаўнт на аўтаматычную сінхранізацыю пошты.</string>
+  <string name="wait_for_manual_sync_body">Гэты акаўнт не наладжаны на аўтаматычную сінхранізацыю.\nНацісніце \"Сінхранізаваць зараз\", каб сінхранізаваць пошту, або \"Змяніць налады сінхранізацыі\", каб наладзіць гэты акаўнт на аўтаматычную сінхранізацыю пошты.</string>
   <string name="wait_for_sync_title">Чаканне сінхранізацыі</string>
   <string name="wait_help_context">чаканне</string>
   <string name="wait_while_update_db">Абнаўленне базы данных…</string>
@@ -1535,7 +1535,7 @@
   <string name="saturday_shortest">Суб</string>
   <string name="set_account_app_password">Усталяваць пароль праграмы</string>
   <string name="settings_attachment">Укладанні</string>
-  <string name="sign_in_graph_error">Вы можаце ўвайсці ў сістэму з выкарыстаннем пратаколу IMAP або EXCHANGE, толькі калі ваша арганізацыя не змяніла агульную канфігурацыю сервера. Калі адрас вашага сервера настроены арганізацыяй або звязаныя пратаколы адключаныя, ўвайдзіце ў сістэму, выкарыстоўваючы новы пратакол Microsoft.</string>
+  <string name="sign_in_graph_error">Вы можаце ўвайсці ў сістэму з выкарыстаннем пратаколу IMAP або EXCHANGE, толькі калі ваша арганізацыя не змяніла агульную канфігурацыю сервера. Калі адрас вашага сервера наладжаны арганізацыяй або звязаныя пратаколы адключаныя, ўвайдзіце ў сістэму, выкарыстоўваючы новы пратакол Microsoft.</string>
   <string name="sign_in_no_useful_provider_error">Не ўдаецца атрымаць канфігурацыі пратакола ад Microsoft. Выкарыстоўвайце іншы пратакол ці абновіце пратакол ад Microsoft.</string>
   <string name="signature_black_shark">Адпраўлена з майго тэлефона Blackshark</string>
   <string name="size_byte">Б</string>

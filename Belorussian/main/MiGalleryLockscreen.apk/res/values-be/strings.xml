@@ -30,7 +30,7 @@
   <string name="about_download_fail">Памылка загрузкі</string>
   <string name="about_downloading">Загрузка %s</string>
   <string name="about_item_function">Новыя магчымасці</string>
-  <string name="about_net_error">Праверце настройкі сеткі і паспрабуйце яшчэ раз.</string>
+  <string name="about_net_error">Праверце налады сеткі і паспрабуйце яшчэ раз.</string>
   <string name="about_newest">Карусель шпалер састарэлая.</string>
   <string name="about_permission">Дазволы</string>
   <string name="about_update">Абнаўленне</string>
@@ -447,7 +447,7 @@
   <string name="lockscreen_h5_back_tv">Назад</string>
   <string name="lockscreen_h5_close_tv">Адкл.</string>
   <string name="lockscreen_h5_refresh_btn_tv">Абнавіць</string>
-  <string name="lockscreen_h5_refresh_tip">Праверце настройкі сеткі і паспрабуйце яшчэ раз</string>
+  <string name="lockscreen_h5_refresh_tip">Праверце налады сеткі і паспрабуйце яшчэ раз</string>
   <string name="lockscreen_magazine_summary">Абярыце катэгорыю</string>
   <string name="lockscreen_magazine_system_title">Офлайн</string>
   <string name="lockscreen_magazine_title">Карусель шпалер</string>

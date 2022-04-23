@@ -117,7 +117,7 @@
   <string name="access_misport_import_failed_partof"><Data>Немагчыма перанесці. Паўтарыце спробу пазней. &lt;br />Націсніце, каб больш падрабязна даведацца &lt;a href=\"%1$s\">пра перанос дадзеных з Mi Fit.&lt;/a></Data></string>
   <string name="access_misport_import_immediately">Перанесці</string>
   <string name="access_misport_import_title_mainpage">Перанос з Mi Fit</string>
-  <string name="access_misport_importing_desc"><Data>Перанос дадзеных за год можа заняць прыкладна 10 хвілін. Вы можаце пакінуць гэтую старонку.&lt;br />Націсніце, каб больш падрабязна даведацца &lt;a href=\"%1$s\">пра перанос дадзеных з Mi Fit.&lt;/a></Data></string>
+  <string name="access_misport_importing_desc"><Data>Перанос дадзеных за год можа заняць прыкладна 10 хвілін. Вы можаце пакінуць гэты экран.&lt;br />Націсніце, каб больш падрабязна даведацца &lt;a href=\"%1$s\">пра перанос дадзеных з Mi Fit.&lt;/a></Data></string>
   <string name="access_misport_importing_process">Перайдзіце ў \"Налады\" > \"Перанос з Mi Fit\", каб праверыць стан пераносу.</string>
   <string name="access_misport_last_import_time">Перанесена: %1$s</string>
   <string name="access_misport_setting_item">Перанос з Mi Fit</string>
@@ -904,7 +904,7 @@
   <string name="device_settings_language_setting">Мова</string>
   <string name="device_settings_left_handle">Левае</string>
   <string name="device_settings_limit_bind">Абмежаванне падлучэння</string>
-  <string name="device_settings_limit_bind_des">1. Прылада не можа быць прывязана да іншых праграм пасля яго ўключэння;\n2. Пасля поўнага скіду настроек функцыя будзе адключана па змаўчанні.</string>
+  <string name="device_settings_limit_bind_des">1. Прылада не можа быць прывязана да іншых праграм пасля яго ўключэння;\n2. Пасля поўнага скіду налад функцыя будзе адключана па змаўчанні.</string>
   <string name="device_settings_limit_bind_switch_tips">Адключыце дадзеную функцыю, калі хочаце звязаць прыладу з іншым дадаткам.</string>
   <string name="device_settings_limit_hint">Падказка：</string>
   <string name="device_settings_load_data_failed">Збой загрузкі дадзеных</string>
@@ -917,7 +917,7 @@
   <string name="device_settings_mastercard_pwd_upgrade_succeed">Гатова</string>
   <string name="device_settings_mastercard_pwd_upgrade_succeed_desc">Цяпер вы можаце дадаць карту.</string>
   <string name="device_settings_mastercard_pwd_upgrading">Абнаўленне</string>
-  <string name="device_settings_mastercard_pwd_upgrading_desc">На гэта можа спатрэбіцца прыкладна 2 хвіліны. Не пакідайце гэтую старонку.</string>
+  <string name="device_settings_mastercard_pwd_upgrading_desc">На гэта можа спатрэбіцца прыкладна 2 хвіліны. Не пакідайце гэты экран.</string>
   <string name="device_settings_music_requeire_permission">Патрабуецца гэты дазвол для атрымання назвы песні</string>
   <string name="device_settings_nap_end">Час заканчэння абедзеннага перапынку</string>
   <string name="device_settings_nap_start">Час пачатку абедзеннага перапынку</string>
@@ -1089,7 +1089,7 @@
   <string name="device_settings_weather_setting_sync_error_des">Інфармацыя аб надвор\'і не сінхранізаваная</string>
   <string name="device_settings_weather_setting_sync_error_reson">Для атрымання дадзеных аб надвор\'і на прыладзе выканайце наступнае:</string>
   <string name="device_settings_weather_setting_sync_error_reson_location">1. Дазвольце Здароўю доступ да вашага месцазнаходжання.</string>
-  <string name="device_settings_weather_setting_sync_error_reson_location_service">2. Уключыце вызначэнне месцазнаходжання ў настройках тэлефона.</string>
+  <string name="device_settings_weather_setting_sync_error_reson_location_service">2. Уключыце вызначэнне месцазнаходжання ў наладах тэлефона.</string>
   <string name="device_settings_weather_setting_sync_error_reson_sync">3. Адкрыйце раздзел «Прылады» ў праграме і націсніце «Сінхранізаваць».</string>
   <string name="device_settings_widget_control_center">Цэнтр кіравання</string>
   <string name="device_settings_widget_disable_info">Перацягнеце сюды аб\'екты, каб схаваць іх.</string>
@@ -2913,9 +2913,9 @@
   <string name="nfc_retrun_card_confirm_msg">1. Пасля паспяховага вяртання карты яна будзе выдалена і не зможа быць адноўлена. Пераканайцеся, што ваша карта знаходзіцца ў нармальным стане і метро пакінула станцыю, у адваротным выпадку карта не можа быць вернуты</string>
   <string name="nfc_retrun_card_confirm_msg_2">1. Пасля паспяховага вяртання карты яна будзе выдалена і не можа быць адноўлена. У адпаведнасці з палітыкай кіравання картамі кампаніі, якая прадстаўляе транспартныя карты, плата за адкрыццё карты не вяртаецца. Пераканайцеся, што ваша карта ў нармальным стане, і што метро пакінула станцыю, у адваротным выпадку карта не падлягае вяртанню.</string>
   <string name="nfc_retrun_card_confirm_title">Заўвагі па вяртанні карты</string>
-  <string name="nfc_retrun_card_create_token_loading">Генерыруе ўліковыя дадзеныя, калі ласка, не закрывайце гэтую старонку</string>
+  <string name="nfc_retrun_card_create_token_loading">Генерыруем ўліковыя дадзеныя, калі ласка, не закрывайце гэты экран</string>
   <string name="nfc_retrun_card_error">Немагчыма вывесці карту</string>
-  <string name="nfc_retrun_card_loading">Вяртае карту, калі ласка, не закрывайце гэтую старонку ...</string>
+  <string name="nfc_retrun_card_loading">Вяртаем карту, калі ласка, не закрывайце гэты экран...</string>
   <string name="nfc_retrun_card_msg">Баланс карты і плата за абслугоўванне будуць вернуты, а дадзеныя карты будуць выдалены з носнай прылады. Калі вы жадаеце працягнуць яго выкарыстанне, вам неабходна паўторна адкрыць карту.</string>
   <string name="nfc_retrun_card_only_service_fee">Кампенсуе толькі плату за паслугу</string>
   <string name="nfc_retrun_card_only_service_msg">Будзе вернутая толькі плата за адкрыццё карты, і гэта не паўплывае на нармальнае выкарыстанне карты. Калі плата за паслугу не спаганяецца пры адкрыцці карты, гэтая паслуга не падтрымліваецца.</string>
@@ -4061,7 +4061,7 @@
   <string name="userinfo_lock_screen_show_description">Калі тэлефон заблакаваны, націсніце \"Экстранны выклік\", а затым \"Карта экстранай медыцынскай дапамогі\", каб прагледзець інфармацыю аб медыцынскай дапамозе.</string>
   <string name="userinfo_lock_screen_show_not_on_guide">Экран блакавання не ўключаны, калі вам трэба яго ўключыць, перайдзіце ў ніжні правы верхні кут і націсніце кнопку, каб уключыць яго.</string>
   <string name="userinfo_lock_screen_show_solve_title">Рашэнне для адлюстравання на экране не можа быць заблакавана</string>
-  <string name="userinfo_lock_show_solve_description">Пераканайцеся, што дазвол на адлюстраванне экрана блакавання ўключаны ў сістэмных настройках. Калі яно не ўключанае, вам неабходна ўключыць яго ўручную.</string>
+  <string name="userinfo_lock_show_solve_description">Пераканайцеся, што дазвол на адлюстраванне экрана блакавання ўключаны ў сістэмных наладах. Калі яно не ўключанае, вам неабходна ўключыць яго ўручную.</string>
   <string name="userinfo_lock_show_solve_go">Перайсці да налад</string>
   <string name="userinfo_lock_show_solve_path">Запусціце працэс: націсніце ніжэй «Перайсці да налад» - націсніце «Экран блакавання» - абярыце «Заўсёды дазваляць»</string>
   <string name="userinfo_max_heart_rate">Макс. пульс</string>
@@ -4286,12 +4286,12 @@
   <string name="userinfo_target_update_stand_value">Змяніць на фіксаваную мэту</string>
   <string name="widget_rainbow_label">Статыстыка</string>
   <string name="about_open_port_health_service">Уключыце сінхранізацыю з воблакам</string>
-  <string name="access_thirdparty_authentication_failed">Немагчыма падключыцца. Паўторыце спробу.</string>
-  <string name="access_thirdparty_bind_failed">Праверце настройкі сеткі і паспрабуйце яшчэ раз.</string>
+  <string name="access_thirdparty_authentication_failed">Немагчыма падключыцца. Паўтарыце спробу.</string>
+  <string name="access_thirdparty_bind_failed">Праверце налады сеткі і паспрабуйце яшчэ раз.</string>
   <string name="access_thirdparty_explain">Пры падключэнні Mi Fitness да %1$s дадзеныя вашых трэніровак (напрыклад, калорыі, адлегласць, час, пульс) будуць прадастаўлены %2$s.</string>
   <string name="access_thirdparty_strava_explain">Дадзеныя ў Strava могуць адрознівацца ад дадзеных у Mi Fitness з-за адрозненняў у выкарыстоўваных алгарытмах.</string>
   <string name="access_thirdparty_title">Падключыцца да %1$s</string>
-  <string name="access_thirdparty_unbind_failed">Немагчыма адключыць. Паўторыце спробу.</string>
+  <string name="access_thirdparty_unbind_failed">Немагчыма адключыць. Паўтарыце спробу.</string>
   <string name="access_thirdparty_unbind_tips">Дадзеныя вашых трэніровак не будуць сінхранізаваныя з дадаткам.</string>
   <string name="device_app_recovery_connect">Аднаўленне падлучэння</string>
   <string name="device_cancel">Адмена</string>

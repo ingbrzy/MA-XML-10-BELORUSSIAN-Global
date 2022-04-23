@@ -522,7 +522,7 @@
   <string name="bubble_overflow_empty_title">Няма нядаўніх усплывальных апавяшчэнняў</string>
   <string name="bubbles_app_settings">Налады \"%1$s\"</string>
   <string name="bubbles_dont_bubble_conversation">Не паказваць размову ў выглядзе ўсплывальных апавяшчэнняў</string>
-  <string name="bubbles_settings_button_description">Настройка усплываючых апавяшчэнняў ад праграмы \"%1$s\"</string>
+  <string name="bubbles_settings_button_description">Налады ўсплывальных апавяшчэнняў ад праграмы \"%1$s\"</string>
   <string name="bubbles_user_education_description">Новыя размовы будуць паказвацца як рухомыя значкі ці ўсплывальныя апавяшчэнні. Націсніце, каб адкрыць усплывальнае апавяшчэнне. Перацягніце яго, каб перамясціць.</string>
   <string name="bubbles_user_education_got_it">Зразумела</string>
   <string name="bubbles_user_education_manage">Каб выключыць усплывальныя апавяшчэнні з гэтай праграмы, націсніце \"Кіраваць\"</string>
@@ -1118,8 +1118,8 @@
   <string name="legacy_vpn_name">VPN</string>
   <string name="loading_injected_setting_summary">Ідзе спампоўка…</string>
   <string name="local_backup_password_summary_change">Націсніце, каб змяніць ці выдаліць пароль</string>
-  <string name="local_backup_password_summary_none">Поўныя рэзервовыя копіі галоўнага экрана не абаронены</string>
-  <string name="local_backup_password_title">Пароль для рэзервовых копій пачатковага экрана</string>
+  <string name="local_backup_password_summary_none">Поўныя рэзервовыя копіі працоўнага стала не абароненыя</string>
+  <string name="local_backup_password_title">Пароль для рэзервовых копій працоўнага стала</string>
   <string name="local_backup_password_toast_confirmation_mismatch">Паролі не супадаюць</string>
   <string name="local_backup_password_toast_success">Новы пароль ад рэзервовых копій усталяваны</string>
   <string name="local_backup_password_toast_validation_failure">Не атрымалася ўсталяваць пароль для рэзервовай копіі</string>

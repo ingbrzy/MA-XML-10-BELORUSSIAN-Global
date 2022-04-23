@@ -73,10 +73,10 @@
     <item quantity="many">%1$d дзён</item>
   </plurals>
   <plurals name="durationHours">
-    <item quantity="other">%1$d гадз.</item>
-    <item quantity="one">%1$d гадз.</item>
-    <item quantity="few">%1$d гадз.</item>
-    <item quantity="many">%1$d гадз.</item>
+    <item quantity="other">%1$d г.</item>
+    <item quantity="one">%1$d г.</item>
+    <item quantity="few">%1$d г.</item>
+    <item quantity="many">%1$d г.</item>
   </plurals>
   <plurals name="durationMinutes">
     <item quantity="other">%1$d хв.</item>

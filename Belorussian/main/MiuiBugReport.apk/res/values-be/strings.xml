@@ -402,7 +402,7 @@
   <string name="message_label">Паведамленне</string>
   <string name="mi_service_dialog_cancel">Выхад</string>
   <string name="mi_service_dialog_confirm">Адкрыта</string>
-  <string name="mi_service_dialog_content">Усе функцыі зваротнай сувязі былі перанесены ў новую праграму «Сэрвісы і водгукі». Праграма справаздач будзе выдаленае з вашага галоўнага экрана. Націсніце «Адкрыць», каб паспрабаваць «Сэрвісы і водгукі»\n.</string>
+  <string name="mi_service_dialog_content">Усе функцыі зваротнай сувязі былі перанесены ў новую праграму «Сэрвісы і водгукі». Праграма справаздач будзе выдаленае з вашага працоўнага стала. Націсніце «Адкрыць», каб паспрабаваць «Сэрвісы і водгукі»\n.</string>
   <string name="mi_service_dialog_title">Уяўляем «Сэрвісы і водгукі»</string>
   <string name="midnight">Ноч</string>
   <string name="mishop_login_other">Іншы акаўнт</string>

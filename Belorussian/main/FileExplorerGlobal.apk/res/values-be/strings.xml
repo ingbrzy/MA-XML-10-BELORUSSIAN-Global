@@ -273,7 +273,7 @@
     <string name="host">Хост</string>
     <string name="hot_sticker">Стыкеры</string>
     <string name="ic_remove_desc">«Менеджар файлаў» — гэта сістэмная праграма, якая дазваляе праглядаць файлы і кіраваць імі на вашай прыладзе. Усё роўна выдаліць гэту праграму?</string>
-    <string name="ic_remove_title">Выдаліць «Менеджар файлаў» з Галоўнага экрана?</string>
+    <string name="ic_remove_title">Выдаліць «Менеджар файлаў» з працоўнага стала?</string>
     <string name="if_cancel">Адмяніць гэтую аперацыю?</string>
     <string name="image_loading_error">Не атрымалася загрузіць выяву</string>
     <string name="implicit">Няяўны</string>

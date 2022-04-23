@@ -1016,9 +1016,9 @@
   <string name="passport_wrong_voice">Уведзены няправільны код</string>
   <string name="password_toggle_content_description">Паказаць пароль</string>
   <string name="permission_continue">Працягнуць</string>
-  <string name="permission_info">Mi Відэа патрабуецца доступ да нумара IMEI вашай прылады для наступнага:\n \nТонкай настройкі паслуг пад вашу прыладу;\nПавышэння бяспекі вашага акаўнта</string>
+  <string name="permission_info">Mi Відэа патрабуецца доступ да нумара IMEI вашай прылады для наступнага:\n \nТонкай налады паслуг пад вашу прыладу;\nПавышэння бяспекі вашага акаўнта</string>
   <string name="permission_info1">Mi Відэа патрабуецца доступ да нумара IMEI вашай прылады для наступнага:</string>
-  <string name="permission_info2">Тонкай настройкі паслуг пад вашу прыладу;</string>
+  <string name="permission_info2">Тонкай налады паслуг пад вашу прыладу;</string>
   <string name="permission_info3">Павышэння бяспекі вашага акаўнта.</string>
   <string name="permission_phone">Тэлефон</string>
   <string name="permission_phone_desc">Для доступу да стану прылады і прыпынення прайгравання падчас выклікаў</string>

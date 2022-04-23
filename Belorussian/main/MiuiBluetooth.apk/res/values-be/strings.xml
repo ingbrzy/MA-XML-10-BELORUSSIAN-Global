@@ -102,7 +102,7 @@
   <string name="bt_plugin_update_dialog_title">Абнаўленне Bluetooth</string>
   <string name="bt_plugin_update_dialog_update">Абнавіць</string>
   <string name="bt_plugin_update_done_dialog_exit">Ужыць</string>
-  <string name="bt_plugin_update_done_dialog_msg">Каб прымяніць змены, настройкі будуць зачыненыя, а Bluetooth адключаны.</string>
+  <string name="bt_plugin_update_done_dialog_msg">Каб прымяніць змены, налады будуць зачыненыя, а Bluetooth адключаны.</string>
   <string name="bt_plugin_update_done_dialog_title">Ужыць змены</string>
   <string name="bt_plugin_update_done_toast">Абноўлена паспяхова</string>
   <string name="bt_plugin_update_notification_updating">Абнаўленне Bluetooth</string>

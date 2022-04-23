@@ -157,10 +157,10 @@
         <item quantity="many">%1$s гадзін</item>
     </plurals>
     <plurals name="sleep_duration_hour_avg">
-        <item quantity="other">%1$s гадз.</item>
-        <item quantity="one">%1$s гадз.</item>
-        <item quantity="few">%1$s гадз.</item>
-        <item quantity="many">%1$s гадз.</item>
+        <item quantity="other">%1$s г.</item>
+        <item quantity="one">%1$s г.</item>
+        <item quantity="few">%1$s г.</item>
+        <item quantity="many">%1$s г.</item>
     </plurals>
     <plurals name="sleep_duration_min">
         <item quantity="other">%1$s хвілін</item>

@@ -1502,17 +1502,17 @@
   <string name="notify_channel_mipush">Push-паведамленні бяспекі</string>
   <string name="notify_channel_name_security">Бяспека сістэмы</string>
   <string name="notify_channel_optimize">Апавяшчэння бяспекі</string>
-  <string name="notify_daily_data_usage_body">Для аўтаматычнага абмежавання трафіка настройце месячны ліміт.</string>
+  <string name="notify_daily_data_usage_body">Для аўтаматычнага абмежавання трафіка наладзьце месячны ліміт.</string>
   <string name="notify_daily_limit_body">Націсніце, каб усталяваць ліміт трафіка.</string>
   <string name="notify_daily_limit_title">Выкарыстана %s сёння</string>
   <string name="notify_daily_limit_title_for_slotnum">Сёння выкарыстана %2$s на %1$s</string>
   <string name="notify_diving_mode_exception_close">Рэжым пагружэння паспяхова адключаны</string>
   <string name="notify_diving_mode_exception_close_fail">Памылка SIM-карты. Не атрымалася адключыць рэжым пагружэння.</string>
   <string name="notify_diving_mode_exception_open_fail">Памылка SIM-карты. Не атрымалася ўключыць рэжым пагружэння.</string>
-  <string name="notify_month_traffic_body">Настройце ліміт трафіка, каб пазбегнуць дадатковых выдаткаў.</string>
+  <string name="notify_month_traffic_body">Наладзьце ліміт трафіка, каб пазбегнуць дадатковых выдаткаў.</string>
   <string name="notify_month_traffic_title">Выкарыстана %s ў гэтым месяцы</string>
   <string name="notify_month_traffic_title_for_slotnum">Выкарыстана %2$s на %1$s у гэтым месяцы</string>
-  <string name="notify_weekly_traffic_body">Для аўтаматычнага абмежавання трафіка настройце месячны ліміт.</string>
+  <string name="notify_weekly_traffic_body">Для аўтаматычнага абмежавання трафіка наладзьце месячны ліміт.</string>
   <string name="notify_weekly_traffic_title">Выкарыстана %s на гэтым тыдні</string>
   <string name="notify_weekly_traffic_title_for_slotnum">Выкарыстана %2$s на %1$s за гэты тыдзень</string>
   <string name="numeric_need_to_confirm">Увядзіце паўторна для пацвярджэння</string>
@@ -2329,7 +2329,7 @@
   <string name="tc_diagnostic_brand_error_notification_title">Няправільны тып сеткі</string>
   <string name="tc_diagnostic_brand_result">"&lt;font color='#CC0000'>Вынік: няслушны брэнд аператара&lt;br/>&lt;br/>Усталяваны: &lt;xliff:g id=brand example=UNICOM 3G>%1$s&lt;/xliff:g>&lt;br/>Рэальны: &lt;xliff:g id=location example=UNICOM 4G>%2$s&lt;/xliff:g>&lt;/font>"</string>
   <string name="tc_diagnostic_complete">Гатова</string>
-  <string name="tc_diagnostic_fragment_default">Пра дыягностыку\n1. Прылада падключыцца да сеткі аператара, адправіць дармовае паведамленне і будзе чакаць адказу. Гэта можа заняць каля 5 хвілін.\n2. Гэтую старонку можна пакінуць на час дыягностыкі, працэс будзе выконвацца ў фоне.</string>
+  <string name="tc_diagnostic_fragment_default">Пра дыягностыку\n1. Прылада падключыцца да сеткі аператара, адправіць дармовае паведамленне і будзе чакаць адказу. Гэта можа заняць каля 5 хвілін.\n2. Гэты экран можна пакінуць на час дыягностыкі, працэс будзе выконвацца ў фоне.</string>
   <string name="tc_diagnostic_location_error_notification_summary">Націсніце для ўдакладнення месцазнаходжання</string>
   <string name="tc_diagnostic_location_error_notification_title">Няслушнае месцазнаходжанне</string>
   <string name="tc_diagnostic_notification_sumarry">Націсніце для прагляду вынікаў</string>
@@ -2491,7 +2491,7 @@
   <string name="toast_add_virus_white_list_no_need_repeat">Ужо прысутнічае ў выключэннях</string>
   <string name="toast_auto_traffic_correct">Трафік карэктуецца аўтаматычна</string>
   <string name="toast_cleaner_cloudscan">Ачыстка будзе выкарыстоўваць анлайн-базу азначэнняў</string>
-  <string name="toast_dark_mode_fixed">Праблема вырашаная. Пакіньце гэтую старонку для прымянення змяненняў.</string>
+  <string name="toast_dark_mode_fixed">Праблема вырашаная. Пакіньце гэты экран для прымянення змяненняў.</string>
   <string name="toast_flow_notification">Апавяшчэнні аб трафіку ўключаныя</string>
   <string name="toast_garbage_lib">Аўтаабнаўленні для Ачысткі ўключаныя</string>
   <string name="toast_keyword_blank">Трэба ўвесці ключавое слова</string>
@@ -4096,7 +4096,7 @@
   <string name="gb_voice_changer_toast_window_new_tips">Паспрабуйце змену галаса!\nПераключайцеся паміж рознымі персанажамі і спецэфектамі.</string>
   <string name="gb_voice_changer_toast_window_open">Уключаны \"%s\" эфект</string>
   <string name="gb_voice_changer_toast_window_vip_expire">Ваша падпіска хутка скончыцца. Прадоўжыце падпіску зараз!</string>
-  <string name="gb_voice_changer_trial_gender_dialog">Атрымана бясплатная пробная версія! Выберыце пол, каб адпаведным чынам настроіць эфекты і рэкамендацыі.</string>
+  <string name="gb_voice_changer_trial_gender_dialog">Атрымана бясплатная пробная версія! Выберыце пол, каб адпаведным чынам наладзіць эфекты і рэкамендацыі.</string>
   <string name="gb_voice_changer_trial_gender_dialog_title">Бясплатная пробная версія</string>
   <string name="gb_voice_changer_trial_progress_dialog_message">Атрыманне бясплатнай пробнай версіі…</string>
   <string name="gb_voice_changer_user_status_expired">Тэрмін дзеяння падпіскі скончыўся</string>
@@ -5825,7 +5825,7 @@
   <string name="applock_lock_mode_locked">Калі прылада заблакаваная</string>
   <string name="applock_lock_mode_locked_or_exit">Калі прылада заблакаваная або пасля выхаду з праграмы</string>
   <string name="applock_lock_mode_locked_or_exit_or_wait">Калі прылада заблакаваная або праз %d хв. пасля выхаду з праграмы</string>
-  <string name="title_flow_verify_failed_new">Немагчыма настроіць %d д. запар</string>
+  <string name="title_flow_verify_failed_new">Немагчыма наладзіць %d д. запар</string>
   <string name="gamebox_bullet_chat">Экранныя каментары</string>
   <string name="gb_dialog_record_way_manual_desc" formatted="false">Уручную запішыце %d-%d сек. відэа падчас гульнявога сеансу.</string>
   <string name="gb_dialog_record_way_setting_tip_one">Павялічанае энергаспажыванне і затрымкі</string>

@@ -3804,7 +3804,7 @@
   <string name="power_save_low_battery_auto_save_title">Аўтапераключэнне</string>
   <string name="power_save_low_battery_option_recovery_title">Калі батарэя зараджана</string>
   <string name="power_save_low_battery_option_summary">Калі зарад батарэі будзе вышэй за вызначаны парог, прылада вернецца да нядаўняга рэжыму.</string>
-  <string name="power_save_low_battery_option_title">Калі батарэя разряжена</string>
+  <string name="power_save_low_battery_option_title">Калі батарэя разраджана</string>
   <string name="power_save_low_battery_percentage_fifty">50%</string>
   <string name="power_save_low_battery_percentage_forty">40%</string>
   <string name="power_save_low_battery_percentage_ten">10%</string>
@@ -4784,7 +4784,7 @@
   <string name="warningcenter_policeassist_open_title">Паведамляць паліцыі пра сваё месцазнаходжанне падчас выкліку службы экстранай дапамогі</string>
   <string name="warningcenter_policeassist_privacy">&lt;Data>\"Я прачытаў і прыняў &lt;a href=\"%1$s\">Карыстацкае пагадненне&lt;/a> i &lt;a href=\"%2$s\">Палітыку прыватнасці&lt;/a>.\"&lt;/Data></string>
   <string name="warningcenter_policeassist_title">Месцазнаходжанне</string>
-  <string name="battery_low_percent_format_save_mode_closed_new_version">Батарэя разряжена. Зарадзіце сваю прыладу прама цяпер.</string>
+  <string name="battery_low_percent_format_save_mode_closed_new_version">Батарэя разраджана. Зарадзіце сваю прыладу прама цяпер.</string>
   <string name="battery_low_percent_format_save_mode_open_new_version">Уключыце рэжым энергазберажэння, каб дадаць %s.</string>
   <string name="notification_enter_power_save_mode_subtitle">Адключыць, калі прылада на %s ці цалкам зараджана</string>
   <string name="notification_enter_power_save_mode_title">Уключана энергазберажэнне</string>
@@ -5564,8 +5564,8 @@
   <string name="summary_condition_missing_call">Прапушчаны выклік</string>
   <string name="summary_condition_no_in_charge">Калі не зараджаецца</string>
   <string name="summary_condition_open_absorbed_mode">Пасля ўключэння рэжыму канцэнтрацыі</string>
-  <string name="summary_condition_reduce_to_target">Калі батарэя разряжена да ўзроўню</string>
-  <string name="summary_condition_reduce_to_target_percent">Калі батарэя разряжена да %d%%</string>
+  <string name="summary_condition_reduce_to_target">Калі батарэя разраджана да ўзроўню</string>
+  <string name="summary_condition_reduce_to_target_percent">Калі батарэя разраджана да %d%%</string>
   <string name="summary_condition_scan_rubbish">Ачыстка</string>
   <string name="summary_condition_scan_virus">Антывірус</string>
   <string name="summary_condition_unplug_headset">Пры адключэнні правадных навушнікаў</string>

@@ -1752,8 +1752,8 @@
   <string name="health_calorie_detail_today">За сёння</string>
   <string name="health_calorie_detail_total">Агульнае спажыванне</string>
   <string name="health_calorie_with_unit">Калорыі (ккал)</string>
-  <string name="health_close">Закрыць</string>
-  <string name="health_close_once">Зачыніць адзін раз</string>
+  <string name="health_close">Выключыць</string>
+  <string name="health_close_once">Выключыць адзін раз</string>
   <string name="health_close_sleep_track_tips">Уключыце функцыю адсочвання сну, каб выкарыстоўваць выяўленне глыбокага і павярхоўнага сну, і сну з храпам.</string>
   <string name="health_common_add_record">Дадаць запіс</string>
   <string name="health_common_all_records">Усе запісы</string>
@@ -1931,7 +1931,7 @@
   <string name="health_data_weight_rest_home_desc">Вага %1$s</string>
   <string name="health_decibel">Дэцыбелы</string>
   <string name="health_decibel_number">Колькасць дэцыбел</string>
-  <string name="health_deep_shallow_sleep_detection">выяўленне глыбокага і павярхоўнага сну</string>
+  <string name="health_deep_shallow_sleep_detection">Выяўленне глыбокага і павярхоўнага сну</string>
   <string name="health_deep_sleep_percentage">Каэфіцыент глыбокага сну</string>
   <string name="health_delete_record">Выдаліць запісы</string>
   <string name="health_dialog_cancel">Адмена</string>

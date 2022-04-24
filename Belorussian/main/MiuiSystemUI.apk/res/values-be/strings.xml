@@ -119,7 +119,7 @@
   <string name="accessibility_keyboard_symbol_board_shift2letter_button">Літары</string>
   <string name="accessibility_keyboard_symbol_board_symbol_lock_button">Блакаванне сімвалаў</string>
   <string name="accessibility_keyguard_face_unlock_view">Разблакоўка па твару</string>
-  <string name="accessibility_left_control_center_button">Ярлык</string>
+  <string name="accessibility_left_control_center_button">Цэтлiк</string>
   <string name="accessibility_left_lock_screen_magazine_button">Штодзённыя шпалеры</string>
   <string name="accessibility_location_active">Пошук месцазнаходжання актыўны</string>
   <string name="accessibility_long_click_tile">Адкрыць налады</string>
@@ -1146,10 +1146,10 @@
   <string name="lockscreen_access_pattern_start">Ключ пачаты</string>
   <string name="lockscreen_charging_msg">Зарадка</string>
   <string name="lockscreen_none">Адсутнічае</string>
-  <string name="lockscreen_shortcut_left">Левы ярлык</string>
-  <string name="lockscreen_shortcut_right">Правы ярлык</string>
-  <string name="lockscreen_unlock_left">Левы ярлык таксама разблакаваны</string>
-  <string name="lockscreen_unlock_right">Правы ярлык таксама разблакаваны</string>
+  <string name="lockscreen_shortcut_left">Левы цэтлiк</string>
+  <string name="lockscreen_shortcut_right">Правы цэтлiк</string>
+  <string name="lockscreen_unlock_left">Левы цэтлiк таксама разблакаваны</string>
+  <string name="lockscreen_unlock_right">Правы цэтлiк таксама разблакаваны</string>
   <string name="magnification_controls_title">Налады акна павелічэння</string>
   <string name="magnification_overlay_title">Акно-накладка з павелічэннем</string>
   <string name="magnification_window_title">Акно павелічэння</string>

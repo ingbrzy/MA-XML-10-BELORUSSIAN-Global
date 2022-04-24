@@ -102,8 +102,8 @@
   <string name="antivirus_privacy_dialog_cloudscan_description">Запампоўваць назвы і дадзеныя праграм на сервер і правяраць на наяўнасць вірусаў.</string>
   <string name="antivirus_privacy_dialog_ok">ОК</string>
   <string name="antivirus_privacy_dialog_summary"><Data>Гэта функцыя прадастаўлена іншым антывірусным праграмным забеспячэннем. Каб даведацца больш, прачытайце адпаведнае &lt;a href=\"%1$s\">Ліцэнзійнае пагадненне&lt;/a>.</Data></string>
-  <string name="antivirus_privacy_dialog_summary_link">Палітыка канфідэнцыяльнасці</string>
-  <string name="antivirus_privacy_dialog_title">Палітыка канфідэнцыяльнасці</string>
+  <string name="antivirus_privacy_dialog_summary_link">Палітыка прыватнасцi</string>
+  <string name="antivirus_privacy_dialog_title">Палітыка прыватнасцi</string>
   <string name="antivirus_sec_network_unavailable">Праграма бяспекі не можа абнавіцца, таму што вы абмежавалі доступ да інтэрнэту. Дазволіць праграме доступ да інтэрнэту?</string>
   <string name="antivirus_toast_already_update">Абноўленае</string>
   <string name="antivirus_toast_network_unavailable">Не атрымалася злучыцца з сеткай</string>
@@ -274,7 +274,7 @@
   <string name="application_item_disable">Забаронена</string>
   <string name="applock_add_account">Дадаць</string>
   <string name="applock_add_account_info">Дадайце Mi акаўнт, каб мець магчымасць аднавіць пароль, калі вы яго забыліся.</string>
-  <string name="applock_add_account_setting">Акаўнт і канфідэнцыяльнасць</string>
+  <string name="applock_add_account_setting">Акаўнт і прыватнасць</string>
   <string name="applock_bind_account_title">Забылі пароль?</string>
   <string name="applock_close_dialog_summary">Ваш пароль блакавання праграм будзе выдалены. Адключыць блакаванне праграм?</string>
   <string name="applock_close_dialog_title">Адключыць абарону?</string>
@@ -584,7 +584,7 @@
   <string name="cpu_usage_process_run_time_little_time">Менш за хвіліну</string>
   <string name="cpu_usage_view_action_btn_text">Націсніце для прагляду</string>
   <string name="create_gamebooster_destop">Цэтлік паспяхова дададзены на Галоўны экран</string>
-  <string name="create_shortcut">Стварыць ярлык на працоўным стале для Паскаральніка гульняў</string>
+  <string name="create_shortcut">Стварыць цэтлiк на працоўным стале для Паскаральніка гульняў</string>
   <string name="cta_dialog_msg">Вы павінны пагадзіцца з нашай Палітыкай прыватнасці перад выкарыстаннем праграмы. Для забеспячэння бяспекі таксама неабходна падключэнне да Інтэрнэту і доступ да вашага месцазнаходжання для нармальнай працы і абнаўлення антывірусных баз. Згодны?</string>
   <string name="cta_dialog_negative">Выхад</string>
   <string name="cta_dialog_positive">Згадзіцца</string>
@@ -1074,7 +1074,7 @@
   <string name="gb_xunyou_gift_type_one">Паскарэнне Xunyou на 1 дзень</string>
   <string name="gb_xunyou_gift_type_three">Паскарэнне Xunyou на 3 дня</string>
   <string name="gb_xunyou_gift_type_two">Паскарэнне Xunyou на 2 дня</string>
-  <string name="gdpr_msg"><Data>"Для таго, каб выкарыстоўваць асноўныя функцыі Бяспекі, вы павінны пагадзіцца, што Xiaomi будзе збіраць, апрацоўваць і выкарыстоўваць вашы асабістыя дадзеныя, уключаючы інфармацыю пра спосабы выкарыстання функцый Бяспекі (напрыклад, статыстыка мабільнага трафіку, інфармацыя аб шкоднасных праграмах, а таксама асноўная інфармацыя пра прыладу), і іншыя тыпы інфармацыі, каторыя вызначае наша &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Палітыка канфідэнцыяльнасці&lt;/a>."</Data></string>
+  <string name="gdpr_msg"><Data>"Для таго, каб выкарыстоўваць асноўныя функцыі Бяспекі, вы павінны пагадзіцца, што Xiaomi будзе збіраць, апрацоўваць і выкарыстоўваць вашы асабістыя дадзеныя, уключаючы інфармацыю пра спосабы выкарыстання функцый Бяспекі (напрыклад, статыстыка мабільнага трафіку, інфармацыя аб шкоднасных праграмах, а таксама асноўная інфармацыя пра прыладу), і іншыя тыпы інфармацыі, каторыя вызначае наша &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Палітыка прыватнасцi&lt;/a>."</Data></string>
   <string name="get_sys_info">Атрыманне інфармацыі…</string>
   <string name="gigabyteShort">ГБ</string>
   <string name="gmscore_support_remind">Уключыце гэтую функцыю, калі ў вас ёсць праблемы з выкарыстаннем Gmail, Карт і іншых праграм Google. Гэта крыху павялічыць расход зараду батарэі.</string>
@@ -1127,7 +1127,7 @@
   <string name="handle_title_details">Інфармацыя пра батарэю</string>
   <string name="handle_title_network">Бяспека Wi-Fi</string>
   <string name="handle_title_pay_env">Бяспека аплаты</string>
-  <string name="handle_title_privacy">Бяспека канфідэнцыяльнасцi</string>
+  <string name="handle_title_privacy">Бяспека прыватнасцi</string>
   <string name="handle_title_system">Спажыванне энергіі сістэмай</string>
   <string name="hide_mode_app_background_setting_text">Кантроль актыўнасці</string>
   <string name="hide_mode_result_summary_text">Параметры энергасберажэння для асобных праграм</string>
@@ -1358,7 +1358,7 @@
   <string name="menu_charge_traffic">Набыць трафік</string>
   <string name="menu_edit">Змяніць</string>
   <string name="menu_item_about_content">Версія: %s</string>
-  <string name="menu_item_about_privacy_title">Палітыка канфідэнцыяльнасці</string>
+  <string name="menu_item_about_privacy_title">Палітыка прыватнасцi</string>
   <string name="menu_item_about_summary">Версія: %s</string>
   <string name="menu_item_about_title">Даведка</string>
   <string name="menu_item_app_details">Падрабязнасці</string>
@@ -1864,7 +1864,7 @@
   <string name="pref_roaming_setting_gategory">Налады</string>
   <string name="pref_special_package_setting">Уласны тарыфны план</string>
   <string name="pref_special_package_setting_summary">Кіраванне бясплатным трафікам, пакетамі папаўнення і мэтавым трафікам</string>
-  <string name="pref_summary_upload_data_usage">Адпраўляйце справаздачы аб трафіку, каб дапамагчы нам палепшыць MIUI. Справаздачнасць ажыццяўляецца ў адпаведнасці з нашай Палітыкай канфідэнцыяльнасці.</string>
+  <string name="pref_summary_upload_data_usage">Адпраўляйце справаздачы аб трафіку, каб дапамагчы нам палепшыць MIUI. Справаздачнасць ажыццяўляецца ў адпаведнасці з нашай Палітыкай прыватнасцi.</string>
   <string name="pref_title_declaration">Адмова ад адказнасці</string>
   <string name="pref_title_diagnostics_show_float_notification">Усплывальныя апавяшчэнні</string>
   <string name="pref_title_manual_check_virus_db_update">Праверыць абнаўленні</string>
@@ -2778,7 +2778,7 @@
   <string name="ew_emergency_medicine">Актыўны лячэнне</string>
   <string name="ew_emergency_name">Імя</string>
   <string name="ew_emergency_organ_donation">Вы добраахвотнік донарства органаў?</string>
-  <string name="ew_emergency_privacy">Заява аб канфiдэнцыяльнасцi: прадстаўленая вамі інфармацыя будзе выкарыстоўвацца толькі ў экстранных выпадках і захоўвацца на вашым прыладзе. Мы не будзем запампоўваць гэтую інфармацыю на нашы серверы.</string>
+  <string name="ew_emergency_privacy">Заява аб прыватнасцi: прадстаўленая вамі інфармацыя будзе выкарыстоўвацца толькі ў экстранных выпадках і захоўвацца на вашым прыладзе. Мы не будзем запампоўваць гэтую інфармацыю на нашы серверы.</string>
   <string name="ew_emergency_recent_medicine">Апошнія актыўныя лекі</string>
   <string name="ew_emergency_title">Медыцынская карта</string>
   <string name="ew_first_start_network_title">Умовы і палажэнні</string>
@@ -2813,7 +2813,7 @@
   <string name="ew_main_place_title">Аварыйныя прытулкi паблізу</string>
   <string name="ew_safe_place_no_maps_tips">Спачатку ўсталюйце карты Baidu або Amap.</string>
   <string name="system_permission_declare_analytics_declare">Дзякуем Вам за ўдзел у нашай праграме ўзаемадзеяння з карыстальнікам. Ваша прылада павінна быць падключана да Інтэрнэту, каб гэтая функцыя працавала нармальна. Вам таксама неабходна прадаставіць наступныя дазволу, каб мы маглі збіраць дадзеныя, якія дапамогуць нам палепшыць нашы прадукты і паслугі. Гэтыя дадзеныя збіраюцца толькі для статыстычных мэтаў. Мы не зможам выкарыстоўваць гэтыя дадзеныя, каб ідэнтыфікаваць вас асабіста.</string>
-  <string name="system_permission_declare_no_say_no_analytics">Калі вы не хочаце прадастаўляць гэтыя дазволы, вы можаце зрабіць гэта ў Налады > Дадатковыя налады > Канфідэнцыяльнасць > Вопыт карыстальнікаў.</string>
+  <string name="system_permission_declare_no_say_no_analytics">Калі вы не хочаце прадастаўляць гэтыя дазволы, вы можаце зрабіць гэта ў Налады > Дадатковыя налады > Прыватнасць > Вопыт карыстальнікаў.</string>
   <string name="function_gwsd_detail">Аб гэтай функцыі:\n 1. Уваходныя выклiкі на вашу SIM-карту ня перапыняць злучэнне для мабільнай перадачы дадзеных. Злучэнне будзе перапынена толькі тады, калі вы адкажаце на выклiк.\n 2. Калі гэтая функцыя ўключаная, выклікаючы абанент не будзе чуць мелодыю чакання выкліку. Уваходныя выклiкі будуць спыненыя, калі вы не адкажаце на працягу 6 секунд.\n 3. Гэтая функцыя працуе толькі для SIM-карт для дадзеных. Выклiкі на асноўную SIM-карту перапыняць злучэнне для мабільнай перадачы дадзеных.\n 4. Гэта функцыя падтрымліваецца толькі China Mobile і China Unicom.</string>
   <string name="function_gwsd_title">Не дазваляць ўваходным выклiкам перарываць злучэнне з SIM-картай для перадачы дадзеных</string>
   <string name="permission_action_always">Заўсёды дазваляць</string>
@@ -3435,7 +3435,7 @@
   <string name="privacy_permission_management">Кіраванне дазволамі</string>
   <string name="privacy_permission_management_summary">Праграмы, якія выкарыстоўваюць дазволы, дазваляючыя здзяйсняць выклікі, адпраўляць SMS і атрымліваць доступ да кантактаў</string>
   <string name="privacy_permission_record">Запіс аўдыё</string>
-  <string name="privacy_permission_right">Канфідэнцыяльнасць</string>
+  <string name="privacy_permission_right">Прыватнасць</string>
   <string name="privacy_permission_status">Выкарыстоўваемыя дазволы</string>
   <string name="privacy_permission_storage">Доступ да сховішча</string>
   <string name="privacy_permission_summary_none">Няма праграм з пастаянным доступам</string>
@@ -3452,9 +3452,9 @@
   <string name="privacy_provision_more">Даведайцеся больш аб абароне прыватнасці</string>
   <string name="privacy_provision_next">Далей</string>
   <string name="privacy_provision_summary">Абарона прыватнасці з\'яўляецца абавязацельствам за дызайн нашых прадуктаў</string>
-  <string name="privacy_provision_text">Мы імкнемся паважаць і абараняць вашу канфідэнцыяльнасць. Надаючы прыярытэтнае значэнне да навуковых даследаванняў і распрацовак у вобласці інфармацыйнай бяспекі, Xiaomi ўвесь час працуе над паляпшэннем метадаў, практык і тэхнічных рашэнняў, якія забяспечваюць абарону вашых дадзеных. Мы таксама дзелімся нашымі апошнімі дасягненнямі з нашымі партнёрамі, каб забяспечыць канфідэнцыяльнасць вашай інфармацыі.</string>
-  <string name="privacy_provision_title">Канфідэнцыяльнасць</string>
-  <string name="privacy_search_key_1">Канфідэнцыяльнасць</string>
+  <string name="privacy_provision_text">Мы імкнемся паважаць і абараняць вашу прыватнасць. Надаючы прыярытэтнае значэнне да навуковых даследаванняў і распрацовак у вобласці інфармацыйнай бяспекі, Xiaomi ўвесь час працуе над паляпшэннем метадаў, практык і тэхнічных рашэнняў, якія забяспечваюць абарону вашых дадзеных. Мы таксама дзелімся нашымі апошнімі дасягненнямі з нашымі партнёрамі, каб забяспечыць прыватнасць вашай інфармацыі.</string>
+  <string name="privacy_provision_title">Прыватнасць</string>
+  <string name="privacy_search_key_1">Прыватнасць</string>
   <string name="privacy_search_key_2">Перахоп сеткі</string>
   <string name="privacy_search_key_3">Дазволы</string>
   <string name="privacy_search_key_4">Дзеянні праграмы</string>
@@ -3600,7 +3600,7 @@
   <string name="gtb_dialog_title_smart_5g">Аптымізацыя сеткі 5G</string>
   <string name="gtb_setting_item_summary_smart_5g">Кожны раз, калі Паскарэнне гульняў выяўляе сетку 5G, яно можа падключыць вашу прыладу да лепшай даступнай сеткі, каб паменшыць затрымку ў сетцы.</string>
   <string name="gtb_setting_item_title_smart_5g">Аптымізацыя сеткі 5G</string>
-  <string name="intl_app_manager_card_permission_title">Канфідэнцыяльнасць і дазволы</string>
+  <string name="intl_app_manager_card_permission_title">Прыватнасць і дазволы</string>
   <string name="intl_perm_privacy_control_calendar">"Праграма можа атрымліваць доступ або рэдагаваць элементы календара толькі падчас яе выкарыстання"</string>
   <string name="intl_perm_privacy_control_calllog">"Праграма можа атрымліваць доступ або рэдагаваць гісторыю выклікаў толькі падчас яе выкарыстання"</string>
   <string name="intl_perm_privacy_control_camera">"Праграма можа рабіць фатаграфіі або запісваць відэа толькі ў час яе выкарыстання"</string>
@@ -3621,7 +3621,7 @@
   <string name="om_optimzing_big_button_text">Паскарэнне</string>
   <string name="om_running_app_info_summary">Вызваліце %s</string>
   <string name="om_shortcut_added_toast_text">Паспяхова дададзены</string>
-  <string name="om_shortcut_dialog_summary">"Паскарэнне дазваляе ачысціць памяць і павысіць хуткасць вашай прылады адным націскам. Дадаць ярлык Паскарэння на працоўны стол?"</string>
+  <string name="om_shortcut_dialog_summary">"Паскарэнне дазваляе ачысціць памяць і павысіць хуткасць вашай прылады адным націскам. Дадаць цэтлiк Паскарэння на працоўны стол?"</string>
   <string name="om_shortcut_dialog_title">Паскарэнне</string>
   <string name="security_bottom_guide_to_pm_text">Адпусціце для адкрыцця утыліт</string>
   <string name="security_guide_bubble_text">Адкрыць</string>
@@ -3667,9 +3667,9 @@
   <string name="vb_quick_func_auto_bgm">Распазнаць фонавую музыку</string>
   <string name="clean_master_icon_recall_dialog_button_negative">Адмена</string>
   <string name="clean_master_icon_recall_dialog_button_positive">Дадаць</string>
-  <string name="clean_master_icon_recall_dialog_summary">Дадаць ярлык на працоўны стол для ачысткі кошыка ў любы час</string>
+  <string name="clean_master_icon_recall_dialog_summary">Дадаць цэтлiк на працоўны стол для ачысткі кошыка ў любы час</string>
   <string name="clean_master_icon_recall_dialog_title">Хуткая ачыстка кошыка</string>
-  <string name="clean_master_icon_recall_hint">Дадаць ярлык на працоўны стол</string>
+  <string name="clean_master_icon_recall_hint">Дадаць цэтлiк на працоўны стол</string>
   <string name="gb_gpu_driver_btn_update">Праверыць</string>
   <string name="gb_gpu_driver_update">Абнаўленне графічнага драйвера</string>
   <string name="gb_gpu_driver_update_app">Абнавіць</string>
@@ -4157,7 +4157,7 @@
   <string name="privacy_dialog_revoking">Адкліканне згоды…</string>
   <string name="privacy_dialog_title">Умовы выкарыстання</string>
   <string name="comprehensive_protection_measures">Комплексная абарона</string>
-  <string name="fully_informed_privacy">Інфармацыя аб канфiдэнцыяльнасцi</string>
+  <string name="fully_informed_privacy">Інфармацыя аб прыватнасцi</string>
   <string name="HIPS_Perm_External_Storage_Group_Desc">Выберыце элементы, да якіх праграмам дазволены доступ</string>
   <string name="image_protect_auto_del">%s спрабуе выдаліць выявы</string>
   <string name="image_protect_del_pic_tips">Апавяшчаць аб выдаленні выяв</string>
@@ -4247,9 +4247,9 @@
   <string name="privacy_risk_dangerous_notice">Чытанне і кіраванне апавяшчэннямі</string>
   <string name="privacy_risk_dangerous_notice_msg">Дазволіць праграмам чытаць апавяшчэння і кіраваць імі</string>
   <string name="privacy_risk_dangerous_permissions">Дазволы з высокім узроўнем рызыкі</string>
-  <string name="privacy_risk_dangerous_permissions_msg">Каб абараніць вашу канфідэнцыяльнасць і прадухіліць раскрыццё канфідэнцыйнай інфармацыі, прадастаўляйце дазволы з высокай рызыкай толькі тады, калі гэта неабходна.</string>
+  <string name="privacy_risk_dangerous_permissions_msg">Каб абараніць вашу прыватнасць і прадухіліць раскрыццё канфідэнцыйнай інфармацыі, прадастаўляйце дазволы з высокай рызыкай толькі тады, калі гэта неабходна.</string>
   <string name="privacy_risk_dangerous_title">Вы далі дазволу з высокім рызыкай</string>
-  <string name="privacy_risk_dangerous_top_tip">Каб абараніць вашу канфідэнцыяльнасць і прадухіліць раскрыццё канфідэнцыйнай інфармацыі, прадастаўляйце дазволы з высокай рызыкай толькі тады, калі гэта неабходна.</string>
+  <string name="privacy_risk_dangerous_top_tip">Каб абараніць вашу прыватнасць і прадухіліць раскрыццё канфідэнцыйнай інфармацыі, прадастаўляйце дазволы з высокай рызыкай толькі тады, калі гэта неабходна.</string>
   <string name="privacy_risk_dangerous_usage">Адсочваць актыўнасць прылады</string>
   <string name="privacy_risk_dangerous_usage_msg">Дазволіць праграмам адсочваць актыўнасць прылады</string>
   <string name="privacy_risk_detection_continue">Працягнуць</string>
@@ -4422,7 +4422,7 @@
   <string name="special_perm_intercept_note_title">Чытанне SMS</string>
   <string name="special_perm_intercept_psd_msg">Змена, адсочванне і кіраванне блакаваннем экрана</string>
   <string name="special_perm_intercept_psd_title">Блакаванне экрана</string>
-  <string name="special_perm_intercept_risk_app_msg">Некаторыя іншыя праграмы могуць падвяргаць рызыцы вашыя дадзеныя і канфідэнцыяльнасць</string>
+  <string name="special_perm_intercept_risk_app_msg">Некаторыя іншыя праграмы могуць падвяргаць рызыцы вашыя дадзеныя і прыватнасць</string>
   <string name="special_perm_intercept_risk_app_title">Усталёўка небяспечных праграм</string>
   <string name="special_perm_intercept_screen_msg">Кантроль і запіс змесціва на экране</string>
   <string name="special_perm_intercept_screen_title">Змесціва экрана</string>
@@ -4972,7 +4972,7 @@
   <string name="privacy_input_mode_img_detail">Працуе з клавіятурамі, аўтарызаванымі Xiaomi</string>
   <string name="privacy_input_mode_version_supported">Абнавіце клавіятуру, каб можна было выкарыстоўваць гэтую функцыю</string>
   <string name="privacy_input_model_guide_choose">Загрузіць аўтаномны галасавы ўвод</string>
-  <string name="privacy_input_model_guide_text">Гэтая функцыя абараняе вашу канфідэнцыяльнасць пры ўводзе тэксту. Калі гэтая функцыя ўключаная, некаторыя сеткавыя функцыі (напрыклад, параметры персаналізацыі, інтэлектуальны увод) будуць недаступныя.</string>
+  <string name="privacy_input_model_guide_text">Гэтая функцыя абараняе вашу прыватнасць пры ўводзе тэксту. Калі гэтая функцыя ўключаная, некаторыя сеткавыя функцыі (напрыклад, параметры персаналізацыі, інтэлектуальны увод) будуць недаступныя.</string>
   <string name="privacy_input_model_tips">Абаронены ўвод уключаны. Ваша клавіятура не можа адлюстроўваць усплывальныя вокны або атрымліваць доступ да кантактаў, інфармацыі пра месцазнаходжанне і гісторыі выклікаў.</string>
   <string name="protect_data_security">Ізаляваныя дадзеныя</string>
   <string name="protect_data_security_detail">Дадзеныя, якія генерыруюцца клавіятурай, будуць ізаляваныя і недаступныя для іншых праграм.</string>
@@ -5057,7 +5057,7 @@
   <string name="sp_security_center_title">Бяспека</string>
   <string name="sp_security_check_status_off">Выкл.</string>
   <string name="sp_security_check_status_on">Укл.</string>
-  <string name="sp_security_input_summary">Канфідэнцыяльнасць пры ўводзе</string>
+  <string name="sp_security_input_summary">Прыватнасць пры ўводзе</string>
   <string name="sp_security_input_title">Бяспечная клавіятура</string>
   <string name="sp_security_scan_summary">Сканаванне прылады на наяўнасць вірусаў</string>
   <string name="sp_security_scan_title">Антывірус</string>
@@ -5104,7 +5104,7 @@
   <string name="pp_privacy_lab_operator_get_number_summary">Патрабаваць ад праграм запытваць ваш дазвол, калі яны хочуць атрымаць доступ да вашага нумара тэлефона для ўваходу ў сістэму</string>
   <string name="pp_privacy_lab_operator_introduction">Увага</string>
   <string name="pp_privacy_lab_operator_introduction_summary">Праграмы могуць захоўваць ваш нумар тэлефона, калі ён быў атрыманы раней. Змяненне гэтага дазволу не прывядзе да выдалення тэлефонных нумароў, атрыманых раней.</string>
-  <string name="pp_virtual_identity_summary">Віртуальны ідэнтыфікатар (OAID) можа быць прадастаўлены праграмам замест вашага рэальнага ідэнтыфікатара. Ён абараняе вашу канфідэнцыяльнасць і дазваляе вам кантраляваць, як праграмы адсочваюць вашы паводзіны.</string>
+  <string name="pp_virtual_identity_summary">Віртуальны ідэнтыфікатар (OAID) можа быць прадастаўлены праграмам замест вашага рэальнага ідэнтыфікатара. Ён абараняе вашу прыватнасць і дазваляе вам кантраляваць, як праграмы адсочваюць вашы паводзіны.</string>
   <string name="untrust_app_perm_install_list">Дазволіць доступ да спісу праграм, устаноўленых на гэтай прыладзе</string>
   <string name="untrust_app_perm_network">Дазволіць падключэнне да сеткі</string>
   <string name="untrust_app_perm_notification">Дазволіць апавяшчэння</string>
@@ -5415,7 +5415,7 @@
   <string name="privacy_apps_password_enable_title">Блакаванне праграм</string>
   <string name="privacy_apps_tutorial_dlg_message_1">Развядзіце два пальцы на працоўным стале, каб прагледзець схаваныя праграмы.</string>
   <string name="privacy_apps_tutorial_dlg_message_2">Заўвага. Калі вы хаваеце праграму, хаваецца толькі яе цэтлік на працоўным стале.</string>
-  <string name="privacy_search_keyword_1">Канфідэнцыяльнасць</string>
+  <string name="privacy_search_keyword_1">Прыватнасць</string>
   <string name="privacy_search_keyword_2">Схаваць праграмы</string>
   <string name="privacy_search_keyword_3">Схаваць абразкі</string>
   <string name="privacy_search_keyword_4">Схаваць цэтлікі на працоўным стале</string>
@@ -5553,7 +5553,7 @@
   <string name="security_center_auto_task">Цэнтр задач</string>
   <string name="select_app_title_default">Запусціць праграму</string>
   <string name="select_app_title_music">Прайграць музыку</string>
-  <string name="settings_privacy_settings_title">Канфідэнцыяльнасць</string>
+  <string name="settings_privacy_settings_title">Прыватнасць</string>
   <string name="share_uid_app">Праграмы з агульнымі дазволамі</string>
   <string name="share_uid_instruction">Гэтай праграме неабходна прадаставіць дазволы для наступных праграм для прадастаўлення звязаных сістэмных службаў. Кожны раз, калі вы змяняеце статус дазволу для гэтай праграмы, адпаведны статус таксама будзе зменены для наступных праграм.</string>
   <string name="summary_condition_charge_to_target">Пры зарадцы да ўсталяванага ўзроўню</string>

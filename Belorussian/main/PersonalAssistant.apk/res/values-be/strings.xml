@@ -366,7 +366,7 @@
   <string name="pa_picker_toast_count_limit_forbidden">Немагчыма дадаць больш віджэтаў</string>
   <string name="pa_picker_toast_count_limit_warning">Паспяхова дададзена. Памятаеце, што размяшчэнне занадта вялікай колькасці віджэтаў на працоўным стале можа запаволіць працу вашай прылады.</string>
   <string name="pa_picker_toast_screen_cell_locked">Макет вашага працоўнага стала заблякаваны. Немагчыма дадаць віджэты.</string>
-  <string name="pa_privacy_text">Канфідэнцыяльнасць</string>
+  <string name="pa_privacy_text">Прыватнасць</string>
   <string name="pa_recommend_add_msg">Дадаць</string>
   <string name="pa_recommend_card">Рэкамендацыі</string>
   <string name="pa_recommend_card_add_des">Дадаць гэты віджэт ў стужку віджэтаў</string>

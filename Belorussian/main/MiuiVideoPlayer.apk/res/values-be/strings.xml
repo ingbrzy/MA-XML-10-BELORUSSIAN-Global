@@ -97,7 +97,7 @@
     <string name="alert_dialog_download_prepare">Падрыхтоўка да спампоўкі…</string>
     <string name="alert_dialog_download_progress">"Пампаванне праграмы: "</string>
     <string name="all">Паказаць усё</string>
-    <string name="app_description_content">«Mi Відэа» — гэта сістэмная праграма, якая ўтрымлівае лакальны аўдыяплэер. Вы па-ранейшаму зможаце прайграваць відэафайлы пасля выдалення ярлыка з працоўнага стала.</string>
+    <string name="app_description_content">«Mi Відэа» — гэта сістэмная праграма, якая ўтрымлівае лакальны аўдыяплэер. Вы па-ранейшаму зможаце прайграваць відэафайлы пасля выдалення цэтлiка з працоўнага стала.</string>
     <string name="app_description_title">Выдаліць «Mi Відэа» з працоўнага стала?</string>
     <string name="app_name">Mi Відэа</string>
     <string name="auth_again">Згадзіцца</string>
@@ -520,7 +520,7 @@ ID:%s
     <string name="lv_favor">Абраныя</string>
     <string name="lv_find_new_version">Даступна абнаўленне</string>
     <string name="lv_find_videos">Паўтарыце пошук відэа зноў</string>
-    <string name="lv_folder_null">Невядомая папка</string>
+    <string name="lv_folder_null">Невядомая тэчка</string>
     <string name="lv_fullscreen">Ва ўвесь экран</string>
     <string name="lv_hide_folder">Схаваныя відэа</string>
     <string name="lv_hide_prompt">Пароль зададзены. Праглядайце схаваныя відэа ў папцы \"Схаваныя відэа\".</string>
@@ -531,7 +531,7 @@ ID:%s
     <string name="lv_home_recent">Апошні</string>
     <string name="lv_home_settings">Налады</string>
     <string name="lv_input_password">Увесці пароль</string>
-    <string name="lv_local_folder">Папкі</string>
+    <string name="lv_local_folder">Тэчкі</string>
     <string name="lv_local_video">Відэа</string>
     <string name="lv_media_type_unsported">Немагчыма прайграць гэты фармат відэа.</string>
     <string name="lv_menu_delete">Выдаліць (%d)</string>
@@ -562,8 +562,8 @@ ID:%s
     <string name="lv_storage_root_dir">Вы ўжо знаходзіцеся ў каранёвай папцы</string>
     <string name="lv_subtitle_add_subtitle_failed">Не атрымалася дадаць субцітры. Упэўніцеся, што файл не пашкоджаны.</string>
     <string name="lv_subtitle_changed">Новыя субцітры</string>
-    <string name="lv_subtitle_current_dir">Цяперашняя папка</string>
-    <string name="lv_subtitle_folder_up">Папярэдняя папка</string>
+    <string name="lv_subtitle_current_dir">Цяперашняя тэчка</string>
+    <string name="lv_subtitle_folder_up">Папярэдняя тэчка</string>
     <string name="lv_subtitle_font_color_title">Колер тэксту</string>
     <string name="lv_subtitle_font_size_title">Памер тэкста</string>
     <string name="lv_subtitle_local_title">Лакальныя субтытры</string>
@@ -715,7 +715,7 @@ ID:%s
     <string name="ovp_favor">Абраныя</string>
     <string name="ovp_favor_null">"Тут няма аб'ектаў."</string>
     <string name="ovp_feedback_title">Водгук пра Mi Відэа</string>
-    <string name="ovp_home_folder_is_null_jump_upfolder_tip">Не атрымалася знайсці файл мультымедыя. Перайдзіце ў папку верхняга ўзроўню.</string>
+    <string name="ovp_home_folder_is_null_jump_upfolder_tip">Не атрымалася знайсці файл мультымедыя. Перайдзіце ў тэчку верхняга ўзроўню.</string>
     <string name="ovp_home_item_camera">Галерэя</string>
     <string name="ovp_home_item_download">Спампаваць</string>
     <string name="ovp_home_item_folder">Файлы</string>
@@ -758,7 +758,7 @@ ID:%s
     <string name="ovp_setting_clear_cache_success">Ачыстка кэша скончана</string>
     <string name="ovp_setting_clear_cache_text">Ачысціце файлы кэша, захаваныя на прыладзе</string>
     <string name="ovp_setting_clear_cache_title">Ачысціць кэш</string>
-    <string name="ovp_setting_privacy_policy_title">Палітыка канфідэнцыяльнасці</string>
+    <string name="ovp_setting_privacy_policy_title">Палітыка прыватнасцi</string>
     <string name="ovp_setting_privacy_switch_tips">Пасля адклікання аўтарызацыі некаторыя функцыі не будуць даступныя</string>
     <string name="ovp_setting_privacy_switch_title">Аўтарызацыя і адкліканне</string>
     <string name="ovp_setting_user_agreement_title">Карыстальніцкае пагадненне</string>
@@ -894,7 +894,7 @@ ID:%s
     <string name="playlist_remove">Выдаліць</string>
     <string name="playlist_title">Плэйліст</string>
     <string name="playlist_view_more">Больш плэйлістоў</string>
-    <string name="plus_add_shortcut">Стварыць ярлык на Галоўным экране</string>
+    <string name="plus_add_shortcut">Стварыць цэтлiк на Галоўным экране</string>
     <string name="plus_change_poster">Змяніць вокладку альбома</string>
     <string name="plus_continue_watching">Працягнуць прагляд</string>
     <string name="plus_deleting_wait">Выдаленне...</string>
@@ -1007,7 +1007,7 @@ ID:%s
     <string name="plus_share_channel_weibo">Weibo</string>
     <string name="plus_shortcut">Відэа на прыладзе</string>
     <string name="plus_shortcut_created_succ">Цэтлік на галоўным экране паспяхова створаны</string>
-    <string name="plus_shortcut_existed">Ярлык ўжо існуе</string>
+    <string name="plus_shortcut_existed">цэтлiк ўжо існуе</string>
     <string name="plus_sort_title">Сартаваць</string>
     <string name="plus_sort_type_default">Па змоўчанні</string>
     <string name="plus_sort_type_name">Па імені</string>
@@ -1057,7 +1057,7 @@ ID:%s
     <string name="report_success">Скарга паспяхова даслана</string>
     <string name="request_camera_permission_message">Мы будзем абараняць вашу асабістую інфармацыю ў адпаведнасці з дзеючым заканадаўствам і нормамі. Для правільнай працы з праграмай патрабуюцца наступныя дазволы:&lt;br>&lt;br>&lt;b> Доступ да камеры (для налады фота профілю)&lt;/b>&lt;br>&lt;br>Калі вы не згодныя прадастаўляць дадзеныя дазволы, вы не зможаце скарыстацца некаторымі функцыямі гэтай праграмы. Тым не менш яе асноўныя функцыі застануцца даступныя. Вы ў любы момант можаце адклікаць дазвол у Наладах.</string>
     <string name="resend_active_email">Адправіць зноў</string>
-    <string name="resend_email_reach_limit_message">Вы запыталі занадта шмат лістоў для пацвярджэння. Пераканайцеся, што ліст не трапіў у папку для спаму вашай паштовай скрыні.</string>
+    <string name="resend_email_reach_limit_message">Вы запыталі занадта шмат лістоў для пацвярджэння. Пераканайцеся, што ліст не трапіў у тэчку для спаму вашай паштовай скрыні.</string>
     <string name="resend_email_reach_limit_title">Занадта шмат спробаў</string>
     <string name="resend_email_success">Адпраўлена паспяхова</string>
     <string name="restart_action">Пачаць спачатку</string>

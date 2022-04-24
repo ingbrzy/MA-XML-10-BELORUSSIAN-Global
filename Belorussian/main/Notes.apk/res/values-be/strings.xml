@@ -138,11 +138,11 @@
   <string name="expand_button_title">Пашыраныя налады</string>
   <string name="first_enter_custom_folder_hint">Тут можна перайменаваць ці выдаліць тэчкі</string>
   <string name="float_todo_guide_cancel">Адмена</string>
-  <string name="float_todo_guide_message">Ярлык на галоўным экране дазваляе праглядаць і ствараць задачы, праводзячы ад краю экрана. Стварыць ярлык зараз?</string>
+  <string name="float_todo_guide_message">Цэтлiк на працоўным стале дазваляе праглядаць і ствараць задачы, праводзячы ад краю экрана. Стварыць цэтлiк?</string>
   <string name="float_todo_guide_message_v2">Цэтлікі жэстаў дазваляюць праглядаць і ствараць задачы пры дапамозе змахвання ад краю экрана. Вы можаце ўключыць або адключыць гэтую функцыю ў Наладах.</string>
   <string name="float_todo_guide_ok">Стварыць</string>
   <string name="float_todo_guide_ok_v2">Уключыць</string>
-  <string name="float_todo_guide_title">Ярлык на галоўным экране</string>
+  <string name="float_todo_guide_title">Цэтлiк на працоўным стале</string>
   <string name="float_todo_guide_title_v2">Цэтлік жэсту</string>
   <string name="fmt_chinese_date">N e</string>
   <string name="fmt_date">D</string>
@@ -588,7 +588,7 @@
   <string name="todo_schedule_time_ymdhm">dd.MM.yyyy HH:mm</string>
   <string name="todo_search_hint">Пошук задач</string>
   <string name="todo_time_picker_title">Усталяваць напамін</string>
-  <string name="todo_user_guide_fw_pop">Дадаць ярлык на Галоўны экран</string>
+  <string name="todo_user_guide_fw_pop">Дадаць цэтлiк на Галоўны экран</string>
   <string name="todo_user_guide_tip1">Рады вітаць у «Задачах»!</string>
   <string name="todo_user_guide_tip2">Тут можна дадаць тэкставыя і галасавыя задачы.</string>
   <string name="todo_user_guide_tip3">Проста націсніце на тэкставую задачу, каб адрэдагаваць яе.</string>
@@ -766,7 +766,7 @@
   <string name="menu_pc_open">Адкрыць на кампутары</string>
   <string name="pref_category_title_quick_func">Хуткія функцыі</string>
   <string name="pref_excerpt_link_float">Атрымліваць напамін аб стварэнні вытрымкі пры кожным капіяванні спасылкі</string>
-  <string name="pref_quick_note_desc">Выкарыстоўвайце ярлык на краі экрана для стварэння нататак і задач, а таксама для захавання скапіяваных спасылак, тэксту і выяў у Нататках.</string>
+  <string name="pref_quick_note_desc">Выкарыстоўвайце цэтлiк на краі экрана для стварэння нататак і задач, а таксама для захавання скапіяваных спасылак, тэксту і выяў у Нататках.</string>
   <string name="pref_title_excerpt_remind">Напаміны аб вытрымках</string>
   <string name="pref_title_quick_note">Хуткія нататкі</string>
   <string name="quick_note_link_default_text">Спасылка</string>

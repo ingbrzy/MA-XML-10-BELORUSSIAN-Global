@@ -157,7 +157,7 @@
   <string name="permlab_sendSmsNoConfirmation">Дазволіць адпраўляць SMS у фоне</string>
   <string name="phone">Тэлефон</string>
   <string name="pm">PM</string>
-  <string name="privacy_policy">Палітыка канфідэнцыяльнасці</string>
+  <string name="privacy_policy">Палітыка прыватнасцi</string>
   <string name="recovery_progress">Аднаўленне элементаў (%1$d/%2$d)…</string>
   <string name="restore_right_now">Аднавіць</string>
   <string name="retry">Паспрабаваць iзноў</string>

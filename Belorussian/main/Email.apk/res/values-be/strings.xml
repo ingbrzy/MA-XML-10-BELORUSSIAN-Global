@@ -1079,7 +1079,7 @@
   <string name="settings_activity_title">Налады</string>
   <string name="share_choose">Выберыце файл, каб падзяліцца</string>
   <string name="sharing">Падзяліцца</string>
-  <string name="shortcut_name_title">Назва ярлыка тэчкі</string>
+  <string name="shortcut_name_title">Назва цэтлiка тэчкі</string>
   <string name="show_contact_address">Паказаць email-адрас кантакта</string>
   <string name="show_elided">▶ Паказаць цытаваны тэкст</string>
   <string name="show_images">Спампаваць і паказаць выявы</string>
@@ -1264,7 +1264,7 @@
   <string name="choose_an_office365_provider">Выберыце пастаўшчыка паслуг office365</string>
   <string name="choose_an_office365_sj">Версія 21Vianet</string>
   <string name="conversation_report_spam">Паведаміць пра спам</string>
-  <string name="conversation_spam_dig_msg">Пазначыць гэта паведамленне як спам? Гэта паведамленне будзе перамешчана ў папку «Спам», а адпраўнік будзе дададзены ў чорны спіс.</string>
+  <string name="conversation_spam_dig_msg">Пазначыць гэта паведамленне як спам? Гэта паведамленне будзе перамешчана ў тэчку «Спам», а адпраўнік будзе дададзены ў чорны спіс.</string>
   <string name="conversation_spam_tips">Пазначыць гэта паведамленне як спам?</string>
   <string name="filter_item_all">Уся пошта</string>
   <string name="filter_item_cc">Копіі мне</string>

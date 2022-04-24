@@ -268,8 +268,8 @@
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Памылка абнаўлення</string>
   <string name="month_day_format">dd MMM</string>
   <string name="move_failed">Не ўдаецца перамясціць</string>
-  <string name="move_icon_to_desktop_hint">Стварыце ярлык на галоўным экране, каб працаваць з файламі больш эфектыўна.</string>
-  <string name="move_icon_to_desktop_success">Ярлык дададзены на Галоўны экран.</string>
+  <string name="move_icon_to_desktop_hint">Стварыце цэтлiк на працоўным стале, каб працаваць з файламі больш эфектыўна.</string>
+  <string name="move_icon_to_desktop_success">Цэтлiк дададзены на працоўны стол</string>
   <string name="move_to">Перамясціць у…</string>
   <string name="msg_set_password">Спачатку задайце пароль</string>
   <string name="mtp_device">Медыяпрылада (MTP)</string>

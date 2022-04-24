@@ -79,9 +79,9 @@
     <string name="category_download">Спампоўкі</string>
     <string name="category_favorite">Абраныя</string>
     <string name="category_file">Файлы</string>
-    <string name="category_folder">Папкі</string>
+    <string name="category_folder">Тэчкі</string>
     <string name="category_installed_app">Усталяваныя праграмы</string>
-    <string name="category_midrive">Mi Drive</string>
+    <string name="category_midrive">Mi Дыск</string>
     <string name="category_move_limit_notice">"Вы можаце перамясціць у верхнюю частку экрана ад 3 да 7 аб'ектаў"</string>
     <string name="category_music">Музыка</string>
     <string name="category_other">Іншыя</string>
@@ -134,7 +134,7 @@
     <string name="decompress_cancel">Адмяніць</string>
     <string name="decompress_confirm">Выняць</string>
     <string name="decompress_corrupt">Не атрымалася распакаваць файлы. Пакет пашкоджаны.</string>
-    <string name="decompress_destination_error">Не атрымалася выняць файлы ў азначаную папку.</string>
+    <string name="decompress_destination_error">Не атрымалася выняць файлы ў азначаную тэчку.</string>
     <string name="decompress_encrypted_rar_not_supported">Зашыфраваныя файлы RAR не падтрымліваюцца.</string>
     <string name="decompress_fail">Не атрымалася выняць.</string>
     <string name="decompress_input_password">Увядзіце пароль</string>
@@ -167,7 +167,7 @@
     <string name="display_name">Паказваць імя</string>
     <string name="domain">Дамен</string>
     <string name="download_success">Спампавана паспяхова</string>
-    <string name="empty_by_forbid_access">Змесціва гэтай папкі не можа быць адлюстравана тут з-за абмежаванняў Android 11.</string>
+    <string name="empty_by_forbid_access">Змесціва гэтай тэчкі не можа быць адлюстравана тут з-за абмежаванняў Android 11.</string>
     <string name="enable_documentsui">Спачатку ўключыце %s у Наладах > Усталяваныя праграмы</string>
     <string name="enable_sd_card">Картка SD пашкоджаная або адлучаная</string>
     <string name="enable_usb">Прылада USB пашкоджаная або адлучаная</string>
@@ -178,14 +178,14 @@
     <string name="encrypt_success">"Выбраныя аб'екты зараз прыватныя"</string>
     <string name="encrypt_success_first_five">"Гэты аб'ект зараз прыватны. Вы можаце прагледзець прыватныя файлы, пацягнуўшы ўніз пачатковую старонку Файлавага мэнэджара."</string>
     <string name="encrypting">Шыфраванне…</string>
-    <string name="error_contains_sharer_path">Немагчыма зрабіць прыватнымі файлы ў папке \"/MIUI/Gallery/cloud/sharer\". Перамясціце файл у іншую тэчку і паспрабуйце ізноў.</string>
+    <string name="error_contains_sharer_path">Немагчыма зрабіць прыватнымі файлы ў тэчке \"/MIUI/Gallery/cloud/sharer\". Перамясціце файл у іншую тэчку і паспрабуйце ізноў.</string>
     <string name="error_create_dir">Не атрымалася стварыць тэчку</string>
     <string name="error_create_file">Не атрымалася стварыць файл</string>
     <string name="error_delete_failed">Не атрымалася выдаліць файл</string>
     <string name="error_file_already_exists">Гэты файл ужо існуе.</string>
     <string name="error_filename_too_long">Уведзеная назва файла надта доўгая.</string>
     <string name="error_folder_already_exists">Гэты файл ужо існуе</string>
-    <string name="error_info_cant_send_folder">Не атрымалася адправіць папку.</string>
+    <string name="error_info_cant_send_folder">Не атрымалася адправіць тэчку.</string>
     <string name="error_invalid_path">Няправільны шлях</string>
     <string name="error_not_support">Не падтрымліваецца</string>
     <string name="error_open_file_failed_no_app_found">Не знойдзена праграм, якія асацыяваныя з гэтым файлам.</string>
@@ -232,7 +232,7 @@
     <string name="explicit">Яўны</string>
     <string name="extended_storage_file_can_not_open">Не атрымалася адкрыць файл. Скапіюйце яго ва ўнутраную памяць.</string>
     <string name="extract">Выняць</string>
-    <string name="fail_to_create_folder_unknown">Не атрымалася стварыць папку з-за невядомай памылкі.</string>
+    <string name="fail_to_create_folder_unknown">Не атрымалася стварыць тэчку з-за невядомай памылкі.</string>
     <string name="failed_not_access_sd_card">Спачатку дазволіць доступ да карткі SD</string>
     <string name="failed_obtain_permissions">Не ўдалася атрымаць дазваленні</string>
     <string name="favorite_notice_message">"Цяпер можна дадаваць тэчкі ў выбраныя.
@@ -253,7 +253,7 @@
     <string name="file_loading">Хвілінку…</string>
     <string name="file_name_invalid">Назва файла не можа змяшчаць наступныя сімвалы: /\\:*?&lt;></string>
     <string name="find_new_version">Даступна абнаўленне: %1$s</string>
-    <string name="folder_name_empty">Імя папкі не можа быць пустым</string>
+    <string name="folder_name_empty">Імя тэчкі не можа быць пустым</string>
     <string name="folder_name_illegal">Няслушная назва тэчкі</string>
     <string name="found_usb">USB-сховішча падлучана</string>
     <string name="ftp_account_req_notice">4-16 сімвалаў, уключаючы літары і лічбы з улікам рэгістра</string>
@@ -297,7 +297,7 @@
     <string name="make_private">Зрабіць прыватным</string>
     <string name="make_private_msg_1">Зрабіць гэты файл прыватным?</string>
     <string name="make_private_msg_2">Зрабіць гэтыя файлы прыватнымі?</string>
-    <string name="make_private_msg_3">Усе файлы ў гэтай папке будуць зробленыя прыватнымі.</string>
+    <string name="make_private_msg_3">Усе файлы ў гэтай тэчке будуць зробленыя прыватнымі.</string>
     <string name="megabyteShort">МБ</string>
     <string name="menu_item_deep_clean">Глыбокая ачыстка</string>
     <string name="menu_item_ftp">"Далучыцца да камп'ютара"</string>
@@ -316,7 +316,7 @@
     <string name="more">Больш</string>
     <string name="more_option">Дадаткова</string>
     <string name="move_failed">Не ўдаецца перамясціць</string>
-    <string name="move_icon_to_desktop_hint">Стварыце ярлык на галоўным экране, каб працаваць з файламі больш эфектыўна.</string>
+    <string name="move_icon_to_desktop_hint">Стварыце цэтлiк на галоўным экране, каб працаваць з файламі больш эфектыўна.</string>
     <string name="move_icon_to_desktop_success">Цэтлік паспяхова створаны</string>
     <string name="move_to">Перамясціць у…</string>
     <string name="msg_auto_seven_day">Кэшаваныя элементы ачышчаюцца кожныя 24 гадзіны. Павялічыць гэты інтэрвал да 7 дзён?</string>
@@ -328,7 +328,7 @@
     <string name="name_empty">Вы павінны ўвесці імя.</string>
     <string name="network_settings_error">Не атрымалася падлучыцца да сеткі</string>
     <string name="new_feature">Новая функцыя</string>
-    <string name="new_folder_name">Новая папка</string>
+    <string name="new_folder_name">Новая тэчка</string>
     <string name="no">Не</string>
     <string name="no_apk">Націсніце, каб атрымаць праграмы</string>
     <string name="no_enough_storage_indication">Сховішча прылады запоўненае.</string>
@@ -361,13 +361,13 @@
     <string name="operation_compress">Сціснуць</string>
     <string name="operation_compressing">Сцісканне…</string>
     <string name="operation_copy">Капіяваць</string>
-    <string name="operation_create_folder">Стварыць папку</string>
-    <string name="operation_create_folder_message">Увядзіце назву папкі</string>
+    <string name="operation_create_folder">Стварыць тэчку</string>
+    <string name="operation_create_folder_message">Увядзіце назву тэчкі</string>
     <string name="operation_decompressing">Выманне…</string>
     <string name="operation_del_fav">Выдаленне з абранага…</string>
     <string name="operation_delete">Выдаліць</string>
     <string name="operation_delete_confirm_message">Выдаліць?</string>
-    <string name="operation_delete_confirm_message_folder">"Усё змесціва папкі будзе выдалена.
+    <string name="operation_delete_confirm_message_folder">"Усё змесціва тэчкі будзе выдалена.
 "</string>
     <string name="operation_delete_done">Усё гатова!</string>
     <string name="operation_deleting">Выдаленне…</string>
@@ -417,7 +417,7 @@
     <string name="phone_storage_video_title">Відэа: </string>
     <string name="phone_storage_zip_title">Архівы: </string>
     <string name="pick_file">Абраць файлы</string>
-    <string name="pick_folder">Абярыце папку</string>
+    <string name="pick_folder">Абярыце тэчку</string>
     <string name="player_tips_brightness">Рэгуляванне яркасці</string>
     <string name="player_tips_double_click">Двойчы краніце экрана</string>
     <string name="player_tips_landscape">Правядзіце па гарызанталі</string>
@@ -439,9 +439,9 @@
     <string name="privacy_title">Сардэчна запрашаем у Праваднік</string>
     <string name="private_files">Прыватны</string>
     <string name="private_folder">Прыватныя файлы</string>
-    <string name="private_folder_no_file_hints">Націсніце і ўтрымлівайце файл або папку, каб зрабіць яе прыватнай</string>
+    <string name="private_folder_no_file_hints">Націсніце і ўтрымлівайце файл або тэчку, каб зрабіць яе прыватнай</string>
     <string name="private_folder_update">Абнавіць прыватныя файлы…</string>
-    <string name="private_toast_hint2">Націсніце і ўтрымлівайце файл або папку, каб зрабіць яе прыватнай.</string>
+    <string name="private_toast_hint2">Націсніце і ўтрымлівайце файл або тэчку, каб зрабіць яе прыватнай.</string>
     <string name="promot_enctypt_password">Увядзіце пароль, які выкарыстоўваецца для разблакоўкі прылады</string>
     <string name="qr_code">QR-код</string>
     <string name="recent_apk_status_install">Усталяваны</string>
@@ -547,7 +547,7 @@
     <string name="time_pm">Пасля паўдня</string>
     <string name="time_to_upgrade">Даступна абнаўленне</string>
     <string name="tip">Увага</string>
-    <string name="tips_by_forbid_access">Змесціва гэтай папкі больш не будзе даступна з-за сістэмных абмежаванняў Android R. Як мага хутчэй выдаліце ​​вашыя асабістыя файлы з гэтай папкі.</string>
+    <string name="tips_by_forbid_access">Змесціва гэтай тэчкі больш не будзе даступна з-за сістэмных абмежаванняў Android R. Як мага хутчэй выдаліце ​​вашыя асабістыя файлы з гэтай тэчкі.</string>
     <string name="title_app_tags">Праграмы</string>
     <string name="title_enable_documentsui">Уключыць DocumentsUI</string>
     <string name="title_expire_video">Тэрмін заканчваецца</string>
@@ -570,8 +570,8 @@
     <string name="user_experience_desc">Падзяліцеся з намі карыстацкімі дадзенымі, каб дапамагчы нам палепшыць нашы прадукты і паслугі.</string>
     <string name="user_experience_title">Праграма паляпшэння якасці</string>
     <string name="user_not_login">Спачатку трэба ўвайсці</string>
-    <string name="user_notice_privacy_policy">Палітыка канфідэнцыяльнасці</string>
-    <string name="user_notice_term_of_service">Карыстальніцкае Пагадненне</string>
+    <string name="user_notice_privacy_policy">Палітыка прыватнасці</string>
+    <string name="user_notice_term_of_service">Карыстальніцкае пагадненне</string>
     <string name="utf8_summary">Кадаванне па змаўчанні для сістэмнага FTP</string>
     <string name="version_name">Версія</string>
     <string name="video_replay_btn">Паўтарыць</string>

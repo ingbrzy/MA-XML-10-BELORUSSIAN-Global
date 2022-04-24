@@ -276,7 +276,7 @@
   <string name="dialog_privacy_info_new4">Сардэчна запрашаем у Mi Відэа! Гэтая праграма прадастаўляе наступныя паслугі:&lt;br&gt;&lt;/br&gt; - струменевыя онлайн-сэрвісы&lt;br&gt;&lt;/br&gt;- лакальны відэаплэер&lt;br&gt;&lt;/br&gt;Mi Відэа неабходна сабраць неабходную асабістую інфармацыю, каб даць вам асноўныя паслугі. Вы можаце даведацца, як мы апрацоўваем збіраць інфармацыю, у нашай Палітыцы прыватнасці. Вы зможаце змяніць адпаведныя налады ў раздзеле «Налады» &gt; «Паролі і бяспека».&lt;br&gt;&lt;/br&gt;Прачытайце нашы &lt;a href=%1$s&gt;Карыстальніцкае пагадненне&lt;/a&gt; і &lt;a href=%2$s&gt;Палітыку прыватнасці&lt;/a&gt; і пагадзіцеся з імі перад выкарыстаннем Mi Відэа.</string>
   <string name="dialog_privacy_revoke_cancel">Скасаваць</string>
   <string name="dialog_privacy_revoke_count_down">Адклікаць (%1$d)</string>
-  <string name="dialog_privacy_revoke_description">Вы збіраецеся адклікаць сваю згоду з Палітыкай канфідэнцыйнасці Mi Відэа. Мы спынім збор вашай асабістай інфармацыі. Ужо сабраная і захаваная асабістая інфармацыя будзе выдалена на працягу вызначанага перыяду. Ваш водгук згоды з Палітыкай канфідэнцыяльнасці будзе расцэнены як адмова прымаць анлайн-паслугі на аснове сабранай асабістай інфармацыі.</string>
+  <string name="dialog_privacy_revoke_description">Вы збіраецеся адклікаць сваю згоду з Палітыкай канфідэнцыйнасці Mi Відэа. Мы спынім збор вашай асабістай інфармацыі. Ужо сабраная і захаваная асабістая інфармацыя будзе выдалена на працягу вызначанага перыяду. Ваш водгук згоды з Палітыкай прыватнасцi будзе расцэнены як адмова прымаць анлайн-паслугі на аснове сабранай асабістай інфармацыі.</string>
   <string name="dialog_privacy_revoke_fail">Ваша прылада павінна падключыцца да сеткі, каб вы змаглі адклікаць згоду. Праверце налады сеткі і паспрабуйце яшчэ раз.</string>
   <string name="dialog_privacy_revoke_ok">Адклікаць</string>
   <string name="dialog_privacy_revoke_success">Паспяхова адкліканая</string>
@@ -1552,7 +1552,7 @@
   <string name="add_local_shortcut_add">+ Дадаць</string>
   <string name="add_local_shortcut_des">Дадайце «Маё відэа» на працоўны стол, каб хутчэй адкрываць свае відэазапісы.</string>
   <string name="click_to_open_pip">Націсніце, каб пераключыцца ў рэжым «Вiдарыс у вiдарысе»</string>
-  <string name="download_guide_click_icon_to_website_or_enter_url">Увядзіце URL або націсніце на ярлык, каб адкрыць вэб-сайт</string>
+  <string name="download_guide_click_icon_to_website_or_enter_url">Увядзіце URL або націсніце на цэтлiк, каб адкрыць вэб-сайт</string>
   <string name="download_guide_known">Зразумела</string>
   <string name="galleryplus_permission_storage_content_reshowable">%s павінен запытаць дазвол на чытанне і запіс у памяць мабільнага тэлефона. Аўтарызуйцеся, калі вам трэба выкарыстоўваць гэтую функцыю.</string>
   <string name="galleryplus_permission_storage_content_unreshowable">"%s павінен запытаць дазвол на чытанне і запіс у памяць мабільнага тэлефона. Калі вам трэба выкарыстоўваць гэтую функцыю, націсніце \"Налады\", каб перайсці на старонку звестак аб праграме, і ў «Дазволах» уключыце патрэбны дазвол."</string>
@@ -1565,7 +1565,7 @@
   <string name="ovp_navigation_darkmode">Цёмны рэжым</string>
   <string name="ovp_navigation_version_update">Праверыць абнаўленні</string>
   <string name="popup_click_for_download_video">Спампаваць відэа</string>
-  <string name="question_click_bottom_tab">Вы таксама можаце націснуць на ярлык, каб адкрыць вэб-сайт.</string>
+  <string name="question_click_bottom_tab">Вы таксама можаце націснуць на цэтлiк, каб адкрыць вэб-сайт.</string>
   <string name="question_click_with_light">Націсніце на кнопку загрузкі, калі яна загарыцца.</string>
   <string name="question_edit_url_here">Знайдзіце або ўвядзіце URL тут.</string>
   <string name="question_how_to_download_video">Як спампаваць відэа?</string>

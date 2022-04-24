@@ -93,7 +93,7 @@
   <string name="action_menu_text_video_download">Спампаваць відэа</string>
   <string name="action_menu_text_web_mode">Рэжым кампутара</string>
   <string name="action_menu_toolbox">Інструменты</string>
-  <string name="action_menu_useful_page">Дадаць ярлык</string>
+  <string name="action_menu_useful_page">Дадаць цэтлiк</string>
   <string name="action_menu_useful_page_added">Дададзена на галоўную старонку</string>
   <string name="action_mode_deselect_all">Зняць выбар з усіх</string>
   <string name="action_mode_select_all">Абраць усё</string>
@@ -114,14 +114,14 @@
   <string name="add_bookmarks">Закладкі</string>
   <string name="add_bookshelf_popup_text">Дададзена на кніжную палічку</string>
   <string name="add_favorites_to">Дадаць у абранае</string>
-  <string name="add_game_center_to_homescreen">Дадаць ярлык на працоўны стол?</string>
+  <string name="add_game_center_to_homescreen">Дадаць цэтлiк на працоўны стол?</string>
   <string name="add_new_bookmark">Дадаць закладку</string>
   <string name="add_new_quicklink">Дадаць на стартавую старонку</string>
-  <string name="add_pwa_to_homescreen">Дадаць ярлык гэтага сайта на Працоўны стол?</string>
+  <string name="add_pwa_to_homescreen">Дадаць цэтлiк гэтага сайта на працоўны стол?</string>
   <string name="add_ql_bm_title">Захаваць</string>
   <string name="add_quicklink_to_popular">Дадаць на стартавую старонку</string>
   <string name="add_quicklinks">Дадаць</string>
-  <string name="add_shortcut">Дадаць ярлык</string>
+  <string name="add_shortcut">Дадаць цэтлiк</string>
   <string name="add_shortcut_success">Цэтлік дададзены паспяхова</string>
   <string name="add_to_bookmark">Закладкі</string>
   <string name="add_to_quicklink">Стартавая старонка</string>
@@ -1487,7 +1487,7 @@
   <string name="pref_privacy_performance_id_is">"Бягучы ідэнтыфікатар прадукцыйнасці: "</string>
   <string name="pref_privacy_performance_id_reset">Скіньце свой ідэнтыфікатар прадукцыйнасці</string>
   <string name="pref_privacy_performance_id_will_reset">Ідэнтыфікатар прадукцыйнасці будзе скінуты</string>
-  <string name="pref_privacy_security_title">Бяспека і канфідэнцыяльнасць</string>
+  <string name="pref_privacy_security_title">Бяспека і прыватнасць</string>
   <string name="pref_rate_app">Ацаніць</string>
   <string name="pref_save_bandwidth_mode_title">Эканомія трафіка</string>
   <string name="pref_security_accept_cookies">Дазволіць Cookies</string>
@@ -1582,7 +1582,7 @@
   <string name="privacy_message_welcome">Сардэчна запрашаем у Mi Браўзэр! Гэтая праграма прадастаўляе наступныя паслугі:</string>
   <string name="privacy_message_welcome_tip_first">- Хуткі і бяспечны прагляд вэб-старонак</string>
   <string name="privacy_message_welcome_tip_second">- Запампоўка выяў і відэа з сацыяльных сетак</string>
-  <string name="privacy_policy">Палітыка канфідэнцыяльнасці</string>
+  <string name="privacy_policy">Палітыка прыватнасці</string>
   <string name="privacy_reset_fail">Не атрымалася скінуць. Паспрабуйце яшчэ раз.</string>
   <string name="privacy_sub_title">Палажэння і ўмовы</string>
   <string name="privacy_title">Сардэчна запрашаем у Mi Browser</string>
@@ -2005,7 +2005,7 @@
   <string name="user_defined_webpage">Дадаць на стартавую старонку</string>
   <string name="user_defined_webpage_title">Дадаць на стартавую старонку</string>
   <string name="user_experience_agree">Удзельнічаць</string>
-  <string name="user_experience_content">Праграма паляпшэння якасці дапамагае нам мэтанакіравана паляпшаць нашы прадукты і паслугі, а таксама ўводзіць новыя функцыі і паслугі, якія будуць вам карысныя. Мы пачнем збіраць і аналізаваць адпаведныя дадзеныя (напрыклад, дадзеныя аб выкарыстанні прадукту) пасля таго, як вы зарэгіструецеся ў праграме. Націскаючы «Зарэгістравацца» ніжэй, вы згаджаецеся з умовамі &lt;font color="#4086f5">&lt;a href=\"%1$s\" style="color:#4086f5;">Праграмы паляпшэння якасці&lt;/a>&lt;/font>.\nВы заўсёды можаце адмовіцца ў Наладах > Канфідэнцыяльнасць і бяспека.</string>
+  <string name="user_experience_content">Праграма паляпшэння якасці дапамагае нам мэтанакіравана паляпшаць нашы прадукты і паслугі, а таксама ўводзіць новыя функцыі і паслугі, якія будуць вам карысныя. Мы пачнем збіраць і аналізаваць адпаведныя дадзеныя (напрыклад, дадзеныя аб выкарыстанні прадукту) пасля таго, як вы зарэгіструецеся ў праграме. Націскаючы «Зарэгістравацца» ніжэй, вы згаджаецеся з умовамі &lt;font color="#4086f5">&lt;a href=\"%1$s\" style="color:#4086f5;">Праграмы паляпшэння якасці&lt;/a>&lt;/font>.\nВы заўсёды можаце адмовіцца ў Наладах > Бяспека і прыватнасць.</string>
   <string name="user_experience_disagree">Не ўдзельнічаць</string>
   <string name="user_experience_title">Праграма паляпшэння якасці</string>
   <string name="user_guide_color_mode_info">Даступныя Светлы і Цёмны рэжымы</string>

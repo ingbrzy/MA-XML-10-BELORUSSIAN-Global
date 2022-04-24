@@ -103,7 +103,7 @@
   <string name="ent_activating">Актывацыя…</string>
   <string name="ent_activation">Актываваць</string>
   <string name="ent_activation_hint">Увядзіце код прадпрыемства разам з кодам ліцэнзіі для актывацыі рэжыму прадпрыемства. Пасля гэтага будуць уключаны карпаратыўныя службы.</string>
-  <string name="ent_activation_hint_whit_licence">Актывуйце рэжым прадпрыемства, каб уключыць карпаратыўныя службы.\nПераканайцеся, што назва прадпрыемства паказана дакладна. Перад актывацыяй прачытайце і прыміце адпаведныя палітыкі канфідэнцыяльнасці.</string>
+  <string name="ent_activation_hint_whit_licence">Актывуйце рэжым прадпрыемства, каб уключыць карпаратыўныя службы.\nПераканайцеся, што назва прадпрыемства паказана дакладна. Перад актывацыяй прачытайце і прыміце адпаведныя палітыкі прыватнасцi.</string>
   <string name="ent_agency_code">Код прадпрыемства</string>
   <string name="ent_agency_code_hint">Увядзіце код прадпрыемства</string>
   <string name="ent_agency_code_invalid">Уведзены няслушны код прадпрыемства.</string>
@@ -208,7 +208,7 @@
   <string name="master_clear_apply_step_2">Пераканайцеся, што вы выканалі рэзервовае капіраванне ўсіх важных аб\'ектаў на вашым кампутары. Пасля націску на кнопку «OK» на прыладзе будзе выкананы скід да завадскіх налад, які цалкам выдаліць усе файлы і дадзеныя, уключаючы акаўнты, кантакты, фатаграфіі і праграмы.</string>
   <string name="master_clear_apply_title">Увага</string>
   <string name="master_clear_not_available">Скід на завадскія налады забаронены вашай кампаніяй.</string>
-  <string name="menu_item_about_privacy_title">Палітыка канфідэнцыяльнасці</string>
+  <string name="menu_item_about_privacy_title">Палітыка прыватнасцi</string>
   <string name="messageData">Паведамленні</string>
   <string name="more_settings">Яшчэ</string>
   <string name="msg_switch_file">Выдаліць гэтыя файлы ў першай прасторы пасля іх перасоўвання?</string>
@@ -357,7 +357,7 @@
   <string name="space_create_guide_desc_2">Цалкам падрыхтаваная асобная прастора</string>
   <string name="space_create_guide_desc_3">Другая прастора не ўплывае на іншыя аб\'екты прылады</string>
   <string name="space_create_guide_switchmode_title">Пераключацца паміж прасторамі</string>
-  <string name="space_create_guide_title_1">Абараніце сваю канфідэнцыяльнасць</string>
+  <string name="space_create_guide_title_1">Абараніце сваю прыватнасць</string>
   <string name="space_create_guide_title_2">Стварайце ў любы час</string>
   <string name="space_create_guide_title_3">Абсалютна бяспечна</string>
   <string name="space_created_success">Другая прастора створана паспяхова</string>

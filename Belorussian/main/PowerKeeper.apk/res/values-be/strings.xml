@@ -196,7 +196,7 @@
   <string name="power_tools_fps">Частата кадраў</string>
   <string name="power_usage">Выкарыстанне энергіі</string>
   <string name="pref_config_title">Аптымізацыя прадукцыйнасці</string>
-  <string name="privacy">Палітыка канфідэнцыяльнасці</string>
+  <string name="privacy">Палітыка прыватнасцi</string>
   <string name="saturday">Субота</string>
   <string name="saturday_short">Суб</string>
   <string name="saturday_shortest">С</string>
@@ -216,7 +216,7 @@
   <string name="sleepmode_disclaimer_agree">Пагадзіцца</string>
   <string name="sleepmode_disclaimer_cancel">Скасаваць</string>
   <string name="sleepmode_privacy_content">Гэтая функцыя будзе выкарыстоўваць тэлефонную сістэму і інфармацыйныя дадзеныя прылады, якія не будуць загружаныя на сервер.</string>
-  <string name="sleepmode_privacy_link">Падрабязней пра канфідэнцыяльнасць</string>
+  <string name="sleepmode_privacy_link">Падрабязней пра прыватнасць</string>
   <string name="sleepmode_privacy_title">Рэжым сну</string>
   <string name="softbank_high_temp_toast_time_4min">Выбліск адключаны каб пазбегнуць перагрэву</string>
   <string name="softbank_high_temp_toast_time_10min">Выбліск адключаны каб пазбегнуць перагрэву</string>

@@ -88,7 +88,7 @@
   <string name="permission_camera_desc">Для адлюстравання азімута ў прадпраглядзе ў рэжыме рэальнага часу</string>
   <string name="permission_location_desc">Для адлюстравання каардынатаў</string>
   <string name="preference_other">Іншае</string>
-  <string name="preference_privacy_title">Палітыка канфідэнцыяльнасці</string>
+  <string name="preference_privacy_title">Палітыка прыватнасцi</string>
   <string name="pressure">%.1f</string>
   <string name="pressure_title">Ціск</string>
   <string name="pressure_unit">гПа</string>

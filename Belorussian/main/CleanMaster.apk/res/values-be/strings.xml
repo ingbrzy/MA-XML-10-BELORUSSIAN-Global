@@ -372,7 +372,7 @@
   <string name="global_wa_setting_other_pref_category_title">Іншае</string>
   <string name="global_wa_setting_other_pref_reconmmend_title">Рэкамендацыі</string>
   <string name="global_wa_setting_other_pref_shortcut_title">Цэтлiк на працоўным стале</string>
-  <string name="global_wa_setting_privacy_pref_category_title">Канфідэнцыяльнасць</string>
+  <string name="global_wa_setting_privacy_pref_category_title">Прыватнасць</string>
   <string name="global_wa_setting_privacy_pref_mi_title">Палітыка прыватнасці Xiaomi</string>
   <string name="global_wa_setting_privacy_pref_third_title">Палітыкі прыватнасці трэціх бакоў</string>
   <string name="global_wa_shortcut_dialog_cancel">Адмена</string>
@@ -579,7 +579,7 @@
   <string name="msg_update_error_code_success">Здзейснена</string>
   <string name="msg_update_error_code_unknown_error">Серверы заняты. Пачакайце і паспрабуйце зноў.</string>
   <string name="name_debuglog_dir">Журнал памылак BSP</string>
-  <string name="name_optimizer">Палітыка канфідэнцыяльнасці</string>
+  <string name="name_optimizer">Палітыка прыватнасці</string>
   <string name="nb_clear_set">Выканайце ачыстку, кіруйце батарэяй і чорным спісам у панэлі апавяшчэнняў</string>
   <string name="network_not_available">Немагчыма злучыцца з сеткай</string>
   <string name="news_change">Змяніць</string>
@@ -666,7 +666,7 @@
   <string name="permission_dialog_storage_title">Патрабуюцца дазволы</string>
   <string name="petabyteShort">Пб</string>
   <string name="positive_confirm">OК</string>
-  <string name="pref_about_privacy_title">Палітыка канфідэнцыяльнасці</string>
+  <string name="pref_about_privacy_title">Палітыка прыватнасці</string>
   <string name="pref_category_title_auto_clean_settings">Напамін пра ачыстку</string>
   <string name="pref_category_title_auto_update_cleanup_db">Дадатковыя налады</string>
   <string name="pref_category_title_cleanup_white_list">Выняткі</string>
@@ -1152,7 +1152,7 @@
   <string name="widget_appbehavior_apps_count">28</string>
   <string name="widget_appbehavior_apps_count_unit">разоў</string>
   <string name="widget_appbehavior_apps_title">Праграма А і яшчэ 3 праграмы</string>
-  <string name="widget_back_guide_appbehavior_summary">Канфідэнцыяльнасць і бяспека</string>
+  <string name="widget_back_guide_appbehavior_summary">Прыватнасць і бяспека</string>
   <string name="widget_back_guide_appbehavior_title">Абарона</string>
   <string name="widget_back_guide_apppredict_summary">Разумная рэкамендацыя, хуткі запуск праграм</string>
   <string name="widget_back_guide_apppredict_title">Праграмы</string>

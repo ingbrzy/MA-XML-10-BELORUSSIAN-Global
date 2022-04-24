@@ -49,13 +49,13 @@
   <string name="add_xiaomi_account_dialog_btn">У Mi Акаўнт</string>
   <string name="add_xiaomi_account_dialog_msg">Рэкамендуецца захоўваць кантакты ў Mi Акаўнт. Ён дазваляе ажыццяўляць сінхранізацыю і рэзервовая капіраванне кантактнай інфармацыі і кіраванне кантактамі на вашым камп\'ютары!</string>
   <string name="add_xiaomi_account_dialog_title">Выберыце акаўнт</string>
-  <string name="afternoon">РМ</string>
+  <string name="afternoon">ПП</string>
   <string name="aggregation_suggestion_edit_dialog_message">Пераключыцца на рэдагаванне выбранага кантакту? Уведзеная інфармацыя будзе скапіяваная.</string>
   <string name="aggregation_suggestion_edit_dialog_title">Рэдагаваць выбраныя кантакты</string>
   <string name="aggregation_suggestion_join_dialog_message">Аб\'яднаць бягучы кантакт з выбраным кантактам?</string>
   <string name="ai_calllog_call_record_menu">Запіс гутарак з ШІ</string>
   <string name="all_list_empty">Няма кантактаў</string>
-  <string name="am">AM</string>
+  <string name="am">ДП</string>
   <string name="antispam_mark_my_contribution">Перадаць інфармацыю пазнакі</string>
   <string name="app_name">Перавагі</string>
   <string name="attach_photo_dialog_title">Фота кантакту</string>
@@ -230,7 +230,7 @@
   <string name="create_qrcode_fail_message">Памылка стварэння QR-кода</string>
   <string name="custom_list_filter">Наладка адлюстравання</string>
   <string name="custom_nickname_hint">Увядзіце нік</string>
-  <string name="customLabelPickerTitle">Назва ярлыка</string>
+  <string name="customLabelPickerTitle">Назва цэтлiка</string>
   <string name="date_picker_lunar">Месяцовы каляндар</string>
   <string name="date_year_toggle">Пазначыць год</string>
   <string name="default_ringtone">Мелодыя па змаўчанні</string>
@@ -326,7 +326,7 @@
   <string name="display_ungrouped">Астатнія кантакты</string>
   <string name="display_warn_remove_ungrouped">Разам з групай \"%s\" перасталі сінхранізавацца кантакты, не дададзеныя ў групы.</string>
   <string name="duplicate_group_name">Група ўжо існуе</string>
-  <string name="early_morning">АМ</string>
+  <string name="early_morning">ДП</string>
   <string name="edit_contact_card_title">Выберыце элементы для адпраўкі</string>
   <string name="edit_contact_photo">Змяніць фота кантакту</string>
   <string name="editContactDescription">Рэдагаванне</string>
@@ -340,9 +340,9 @@
   <string name="email_work">Працоўны Email</string>
   <string name="emailLabelsGroup">Email</string>
   <string name="emergency_number_label">Экстранны нумар</string>
-  <string name="eras_ad">AD</string>
+  <string name="eras_ad">н.э.</string>
   <string name="eras_bc">Да н.э.</string>
-  <string name="evening">РМ</string>
+  <string name="evening">ПП</string>
   <string name="event_edit_field_hint_text">Дата</string>
   <string name="eventLabelsGroup">Дзень народзінаў</string>
   <string name="eventTypeCustom">Карыстальніцкі</string>
@@ -522,7 +522,7 @@
   <string name="menu_bar_group_ringtone_largeui">Мелодыя</string>
   <string name="menu_bar_group_sms">SMS групе</string>
   <string name="menu_callNumber">Выклік %s</string>
-  <string name="menu_create_contact_shortcut">Размясціць на галоўным экране</string>
+  <string name="menu_create_contact_shortcut">Размясціць на працоўным стале</string>
   <string name="menu_deleteContact">Выдаліць кантакт</string>
   <string name="menu_dial_ip_number">Здзейсніць IP-выклік</string>
   <string name="menu_done">OК</string>
@@ -541,7 +541,7 @@
   <string name="menu_share_vcard_file">Файл</string>
   <string name="menu_sync_remove">Адключыць сінхранізацыю групы</string>
   <string name="menuMoreDescription">Яшчэ</string>
-  <string name="midnight">АМ</string>
+  <string name="midnight">ДП</string>
   <string name="miprofile_account_type">Візіткі</string>
   <string name="miprofile_edit_title">Рэдагаваць профіль</string>
   <string name="miprofile_name">Мой профіль</string>
@@ -614,7 +614,7 @@
   <string name="month_september_shortest">В</string>
   <string name="more">Больш</string>
   <string name="more_call_logs">Праслухвайце запісы выклікаў на &lt;a href=\"https://i.mi.com\">i.mi.com&lt;/a></string>
-  <string name="morning">АМ</string>
+  <string name="morning">ДП</string>
   <string name="multi_number_menu_call">Выклік</string>
   <string name="multi_number_menu_delete">Выдаліць</string>
   <string name="multi_number_menu_message">Паведамленне</string>
@@ -639,7 +639,7 @@
   <string name="nickname_picker_name_column">Імя кантакту</string>
   <string name="nickname_picker_nickname_column">Імя</string>
   <string name="nicknameLabelsGroup">Нік</string>
-  <string name="night">РМ</string>
+  <string name="night">ПП</string>
   <string name="no_contacts_dialog_message">Не знойдзена суадносін у вашых кантактах. Магчыма, кантакты знаходзяцца на SIM-карце. Для пошуку імпартуйце іх у тэлефон.</string>
   <string name="no_contacts_dialog_title">Кантакты не знойдзены</string>
   <string name="no_phone_no_shortcut">Немагчыма стварыць цэтлікі для кантактаў без тэлефонных нумароў</string>
@@ -649,12 +649,12 @@
   <string name="non_phone_add_to_contacts">Дадаць да кантакту</string>
   <string name="non_phone_caption">Нумар тэлефона</string>
   <string name="non_phone_close">Зачыніць</string>
-  <string name="noon">РМ</string>
+  <string name="noon">ПП</string>
   <string name="not_applied">Не падтрымліваецца</string>
   <string name="not_set">Не зададзена</string>
   <string name="notification_click_detail">Націсніце, каб праглядзець падрабязнасці</string>
   <string name="notification_micloudsync_delete_contact">Воблака Xiaomi хоча выдаліць некаторыя з вашых кантактаў</string>
-  <string name="open_contact">Адчыніць кантакт</string>
+  <string name="open_contact">Адкрыць кантакт</string>
   <string name="open_dial_pad_description">Адкрыць клавіятуру</string>
   <string name="option_delete_contact">Выдаліць</string>
   <string name="option_delete_group">Выдаліць групу</string>
@@ -662,7 +662,7 @@
   <string name="option_not_in_group">Выдаліць кантакт з групы</string>
   <string name="option_not_star">Прыбраць з выбраных</string>
   <string name="option_rename_group">Перайменаваць</string>
-  <string name="option_send_to_desktop">Размясціць на галоўным экране</string>
+  <string name="option_send_to_desktop">Размясціць на працоўным стале</string>
   <string name="option_view_contact">Прагляд</string>
   <string name="option_view_group">Прагляд</string>
   <string name="organization_company_and_title">%1$s, %2$s</string>
@@ -672,7 +672,7 @@
   <string name="phone_number_too_long_toast">Нумар занадта доўгі</string>
   <string name="phone_primary">Асноўны</string>
   <string name="phoneLabelsGroup">Тэлефон</string>
-  <string name="photoPickerNotFoundText">Няма выяў.</string>
+  <string name="photoPickerNotFoundText">Няма выяў</string>
   <string name="pick_new_photo">Выбраць фота з %s</string>
   <string name="pick_photo">Выбраць фота з %s</string>
   <string name="picker_all_list_empty">Няма кантактаў</string>
@@ -685,7 +685,7 @@
   <string name="picker_recent_list_empty">Няма нядаўніх кантактаў</string>
   <string name="pickerNewContactHeader">Стварыць новы кантакт</string>
   <string name="pkgLabel">Кантакты і тэлефон</string>
-  <string name="pm">PM</string>
+  <string name="pm">ПП</string>
   <string name="postal_address">Адрас</string>
   <string name="postal_city">Горад</string>
   <string name="postal_country">Краіна</string>
@@ -816,7 +816,7 @@
   <string name="share_visible_contacts">Адправіць кантакты</string>
   <string name="shortcut_new_contact_label">Новы кантакт</string>
   <string name="shortcut_scan_label">Візітоўка</string>
-  <string name="shortcutActivityTitle">Функцыя ярлыка на працоўным стале</string>
+  <string name="shortcutActivityTitle">Функцыя цэтлiка на працоўным стале</string>
   <string name="shortcutContact">Кантакт</string>
   <string name="shortcutDialContact">"Хуткі набор "</string>
   <string name="sim_account_name">SIM</string>

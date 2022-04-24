@@ -464,7 +464,7 @@
   <string name="create_new_album">Стварыць альбом</string>
   <string name="create_new_album_failed">Не атрымалася стварыць</string>
   <string name="create_new_face">Новы чалавек</string>
-  <string name="create_quick_icon_on_desk">Стварыць ярлык</string>
+  <string name="create_quick_icon_on_desk">Стварыць цэтлiк</string>
   <string name="creating_baby_album">Стварэнне альбома…</string>
   <string name="crop_label">Абрэзаныя фатаграфіі</string>
   <string name="custom_select_title_deselect_all">Зняць выбар</string>
@@ -1584,7 +1584,7 @@
   <string name="search_feedback_task_request_award_failed">Не ўдалося атрымаць прыз. Паўтарыце спробу пазней.</string>
   <string name="search_feedback_task_requesting_award">Атрыманне прыза…</string>
   <string name="search_feedback_user_notice">Я прачытаў і згаджаюся з %s.</string>
-  <string name="search_feedback_user_policy">Палітыка канфідэнцыяльнасці алгарытмаў галерэі</string>
+  <string name="search_feedback_user_policy">Палітыка прыватнасцi алгарытмаў галерэі</string>
   <string name="search_hint">Націсніце для пошуку</string>
   <string name="search_image_result_title">Вынікі пошуку</string>
   <string name="search_login_now">Увайсці</string>

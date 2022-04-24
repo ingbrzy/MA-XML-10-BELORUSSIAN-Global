@@ -7,16 +7,16 @@
         <item quantity="many">%1$d дзён таму</item>
     </plurals>
     <plurals name="delete_files">
-        <item quantity="other">Выдаліць %1$d файлы?</item>
+        <item quantity="other">Выдаліць %1$d файлаў?</item>
         <item quantity="one">Выдаліць %1$d файл?</item>
         <item quantity="few">Выдаліць %1$d файлы?</item>
         <item quantity="many">Выдаліць %1$d файлаў?</item>
     </plurals>
     <plurals name="delete_folders">
-        <item quantity="other">Выдаліць %1$d папкі?</item>
-        <item quantity="one">Выдаліць %1$d папку?</item>
-        <item quantity="few">Выдаліць %1$d папкі?</item>
-        <item quantity="many">Выдаліць %1$d папак?</item>
+        <item quantity="other">Выдаліць %1$d тэчак?</item>
+        <item quantity="one">Выдаліць %1$d тэчку?</item>
+        <item quantity="few">Выдаліць %1$d тэчкі?</item>
+        <item quantity="many">Выдаліць %1$d тэчак?</item>
     </plurals>
     <plurals name="directory_item_count">
         <item quantity="other">%d элементы</item>
@@ -31,16 +31,16 @@
         <item quantity="many">%1$d элементаў</item>
     </plurals>
     <plurals name="files">
-        <item quantity="other">%1$d файлы</item>
+        <item quantity="other">%1$d файлаў</item>
         <item quantity="one">%1$d файл</item>
         <item quantity="few">%1$d файлы</item>
         <item quantity="many">%1$d файлаў</item>
     </plurals>
     <plurals name="folders">
-        <item quantity="other">%1$d папкі</item>
-        <item quantity="one">%1$d папка</item>
-        <item quantity="few">%1$d папкі</item>
-        <item quantity="many">%1$d папак</item>
+        <item quantity="other">%1$d тэчак</item>
+        <item quantity="one">%1$d тэчку</item>
+        <item quantity="few">%1$d тэчкі</item>
+        <item quantity="many">%1$d тэчак</item>
     </plurals>
     <plurals name="found_new_files">
         <item quantity="other">Знойдзена %1$d новых файлаў</item>
@@ -61,7 +61,7 @@
         <item quantity="many">%1$d хвілін таму</item>
     </plurals>
     <plurals name="numSelectedFile">
-        <item quantity="other">Выбраны %1$d элементы</item>
+        <item quantity="other">Выбраны %1$d элементаў</item>
         <item quantity="one">Выбраны %1$d элемент</item>
         <item quantity="few">Выбраны %1$d элементы</item>
         <item quantity="many">Выбраны %1$d элементаў</item>

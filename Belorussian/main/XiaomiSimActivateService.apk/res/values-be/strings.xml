@@ -61,7 +61,7 @@
   <string name="activate_popup_desc_register_account_intl">Для стварэння вашага Mi Акаўнта будзе адпраўлена міжнародная SMS-ка. Вам прыйдзецца заплаціць паводле тарыфу вашага аператара.</string>
   <string name="activate_popup_desc_sim_card">Звычайнае SMS будзе адпраўлена для актывацыі %s. За гэта спаганяецца плата аператарам.</string>
   <string name="activate_popup_desc_sim_card_downlink">Увядзіце нумар тэлефона для актывацыі %s.</string>
-  <string name="activate_popup_desc_voip_privacy">Палітыка канфідэнцыяльнасці</string>
+  <string name="activate_popup_desc_voip_privacy">Палітыка прыватнасцi</string>
   <string name="activate_popup_desc_voip_privacy_prefix">Сэрвіс VoIP прадстаўлены кампаніяй Weihui. Праглядзець Weihui\'s</string>
   <string name="activate_popup_title_all_gateway_failed_query_info">Не атрымліваецца знайсці нумар</string>
   <string name="activate_popup_title_all_gateway_failed_send_sms">Не атрымалася адправіць SMS</string>

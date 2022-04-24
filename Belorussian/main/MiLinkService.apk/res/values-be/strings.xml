@@ -539,10 +539,10 @@
   <string name="appcirculate_toast_not_support_device_pc">Кампутар</string>
   <string name="appcirculate_toast_not_support_device_tv">ТВ</string>
   <string name="appcirculate_toast_success_1">Паспяховая трансляцыя</string>
-  <string name="appcirculate_toast_success_2">Трансляцыя экрана выканана паспяхова, абарона канфідэнцыяльнасці ўключана.</string>
+  <string name="appcirculate_toast_success_2">Трансляцыя экрана выканана паспяхова, абарона прыватнасцi ўключана.</string>
   <string name="auth_check_loading">Загрузка...</string>
   <string name="auth_MIUI_and_phone_model">Гэтая старонка прызначана толькі для бэта-карыстальнікаў.\nАдлюстраванне версіі сістэмы MIUI 13.</string>
-  <string name="auth_no_user">Гэтая старонка адлюстроўваецца толькі для карыстальнікаў бэта-версіі.\nКалі вы не ўвайшлі ў Mi рахунак, перайдзіце ў Налады і ўвайдзіце ў свой Mi рахунак.</string>
+  <string name="auth_no_user">Гэтая старонка адлюстроўваецца толькі для карыстальнікаў бэта-версіі.\nКалі вы не ўвайшлі ў Mi акаўнт, перайдзіце ў Налады і ўвайдзіце ў свой Mi акаўнт.</string>
   <string name="auth_phone_model">Гэтая старонка не падтрымлівае гэтую мадэль</string>
   <string name="auth_show_to_test_user">Гэтая старонка адлюстроўваецца толькі для тэставых карыстальнікаў</string>
   <string name="ball_hint_connect_fail">Перадача не ўдалася, паспрабуйце пазней</string>

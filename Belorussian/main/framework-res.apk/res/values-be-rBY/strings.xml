@@ -505,7 +505,7 @@
   <string name="dynamic_mode_notification_summary">Каб павялічыць тэрмін работы акумулятара, уключаны рэжым эканоміі зараду</string>
   <string name="dynamic_mode_notification_title">Акумулятар можа разрадзіцца хутчэй, чым прыйдзе час звычайнай зарадкі</string>
   <string name="editTextMenuTitle">Дзеянні з тэкстам</string>
-  <string name="edit_accessibility_shortcut_menu_button">Змяніць ярлыкі</string>
+  <string name="edit_accessibility_shortcut_menu_button">Змяніць цэтлiкі</string>
   <string name="elapsed_time_short_format_h_mm_ss">%1$d:%2$02d:%3$02d</string>
   <string name="elapsed_time_short_format_mm_ss">%1$02d:%2$02d</string>
   <string name="emailTypeCustom">Карыстальніцкі</string>
@@ -1232,7 +1232,7 @@
   <string name="permdesc_getTasks">Дазваляе прыкладанню атрымлiваць звесткi пра прыкладаннi, запушчаныя зараз i нядаўна. Прыкладанне можа знайсцi iнфармацыю пра тое, якiя прыкладаннi выкарыстоўваюцца на прыладзе.</string>
   <string name="permdesc_handoverStatus">Дазваляе праграме атрымліваць інфармацыю аб бягучых перадачах Android Beam</string>
   <string name="permdesc_imagesWrite">Праграма зможа змяняць фотакалекцыю.</string>
-  <string name="permdesc_install_shortcut">Дазваляе праграме дадаваць ярлыкі на Галоўны экран без умяшання карыстальніка.</string>
+  <string name="permdesc_install_shortcut">Дазваляе праграме дадаваць цэтлiкі на працоўны стол без умяшання карыстальніка.</string>
   <string name="permdesc_invokeCarrierSetup">Дазваляе трымальніку выклікаць праграму аператарскай канфігурацыі. Ніколі не павінна патрабавацца для звычайных праграм.</string>
   <string name="permdesc_killBackgroundProcesses">Дазваляе прыкладанню завяршаць фонавыя працэсы іншых прыкладанняў. Гэта можа спынiць працу iншых прыкладанняў.</string>
   <string name="permdesc_manageFace">Праграма зможа дадаваць і выдаляць шаблоны твару.</string>
@@ -1290,7 +1290,7 @@
   <string name="permdesc_systemAlertWindow">Гэта праграма можа паказвацца паверх іншых праграм ці іншых частак экрана. Гэта можа перашкодзіць нармальнаму выкарыстанню праграмы і змяніць выгляд іншых праграм.</string>
   <string name="permdesc_systemCamera">Гэта прыярытэтная ці сістэмная праграма можа здымаць фота і запісваць відэа з дапамогай сістэмнай камеры. Праграме таксама патрэбны дазвол android.permission.CAMERA</string>
   <string name="permdesc_transmitIr">Дазваляе праграме выкарыстоўваць інфрачырвоны перадатчык тэлефона.</string>
-  <string name="permdesc_uninstall_shortcut">Дазваляе праграме выдаляць ярлыкі з працоўнага стала без умяшання карыстальніка.</string>
+  <string name="permdesc_uninstall_shortcut">Дазваляе праграме выдаляць цэтлiкі з працоўнага стала без умяшання карыстальніка.</string>
   <string name="permdesc_useBiometric">Дазваляе праграме выкарыстоўваць для аўтэнтыфікацыі біяметрычнае абсталяванне</string>
   <string name="permdesc_useDataInBackground">"Гэта праграма можа выкарыстоўваць даныя ў фоне. Гэта можа прывесці да павелічэння аб'ёму трафіка."</string>
   <string name="permdesc_useFaceAuthentication">Для аўтэнтыфікацыі праграма зможа ўжываць апаратнае забеспячэнне для распазнавання твару</string>
@@ -1385,7 +1385,7 @@
   <string name="permlab_getTasks">атрымаць запушчаныя прыкладанні</string>
   <string name="permlab_handoverStatus">атрымліваць стан перадачы Android Beam</string>
   <string name="permlab_imagesWrite">змяняць фотакалекцыю</string>
-  <string name="permlab_install_shortcut">усталёўваць ярлыкі</string>
+  <string name="permlab_install_shortcut">усталёўваць цэтлiкі</string>
   <string name="permlab_invokeCarrierSetup">выклікаць праграму аператарскай канфігурацыі</string>
   <string name="permlab_killBackgroundProcesses">закрыццё іншых прыкладанняў</string>
   <string name="permlab_manageFace">кіраваць апаратным забеспячэннем для распазнавання твару</string>
@@ -1443,7 +1443,7 @@
   <string name="permlab_systemAlertWindow">Гэта праграма можа паказвацца паверх іншых праграм</string>
   <string name="permlab_systemCamera">Дазволіць праграме або сэрвісу атрымліваць доступ да сістэмных камер, каб здымаць фота і запісваць відэа</string>
   <string name="permlab_transmitIr">карыстацца інфрачырвоным перадатчыкам</string>
-  <string name="permlab_uninstall_shortcut">выдаляць ярлыкі</string>
+  <string name="permlab_uninstall_shortcut">выдаляць цэтлiкі</string>
   <string name="permlab_useBiometric">выкарыстоўваць біяметрычнае абсталяванне</string>
   <string name="permlab_useDataInBackground">выкарыстоўваць даныя ў фоне</string>
   <string name="permlab_useFaceAuthentication">выкарыстоўваць апаратнае забеспячэнне для распазнавання твару</string>
@@ -1674,11 +1674,11 @@
   <string name="shareactionprovider_share_with">Апублікаваць з дапамогай</string>
   <string name="shareactionprovider_share_with_application">Адправiць з дапамогай прыкладання %s</string>
   <string name="sharing_remote_bugreport_notification_title">Перадача справаздачы пра памылку...</string>
-  <string name="shortcut_disabled_reason_unknown">Ярлык адключаны</string>
-  <string name="shortcut_restore_not_supported">Не атрымалася аднавіць ярлык, бо праграма не падтрымлівае рэзервовае капіраванне і аднаўленне</string>
-  <string name="shortcut_restore_signature_mismatch">Не атрымалася аднавіць ярлык з-за несупадзення подпісаў праграм</string>
-  <string name="shortcut_restore_unknown_issue">Не атрымалася аднавіць ярлык</string>
-  <string name="shortcut_restored_on_lower_version">Ярлык адносіцца да старэйшай версіі праграмы або несумяшчальны з ёю</string>
+  <string name="shortcut_disabled_reason_unknown">Цэтлiк адключаны</string>
+  <string name="shortcut_restore_not_supported">Не атрымалася аднавіць цэтлiк, бо праграма не падтрымлівае рэзервовае капіраванне і аднаўленне</string>
+  <string name="shortcut_restore_signature_mismatch">Не атрымалася аднавіць цэтлiк з-за несупадзення подпісаў праграм</string>
+  <string name="shortcut_restore_unknown_issue">Не атрымалася аднавіць цэтлiк</string>
+  <string name="shortcut_restored_on_lower_version">Цэтлiк адносіцца да старэйшай версіі праграмы або несумяшчальны з ёю</string>
   <string name="show_ime">Захоўваць яе на экране ў той час, калі фізічная клавіятура актыўная</string>
   <string name="shutdown_confirm">Ваш тэлефон будзе выключаны.</string>
   <string name="shutdown_confirm_question">Закрыць?</string>
@@ -1869,9 +1869,9 @@
   <string name="whichEditApplicationLabel">Рэдагаваць</string>
   <string name="whichEditApplicationNamed">Рэдагаваць з дапамогай %1$s</string>
   <string name="whichGiveAccessToApplicationLabel">Даць доступ</string>
-  <string name="whichHomeApplication">Выберыце праграму Галоўнай старонкі</string>
+  <string name="whichHomeApplication">Выберыце праграму працоўнага стала</string>
   <string name="whichHomeApplicationLabel">Зрабіць здымак</string>
-  <string name="whichHomeApplicationNamed">Выкарыстоўваць %1$s у якасці праграмы Галоўнай старонкі</string>
+  <string name="whichHomeApplicationNamed">Выкарыстоўваць %1$s у якасці праграмы працоўнага стала</string>
   <string name="whichImageCaptureApplication">Зрабіць здымак з дапамогай</string>
   <string name="whichImageCaptureApplicationLabel">Зрабіць здымак</string>
   <string name="whichImageCaptureApplicationNamed">Зрабіць здымак з дапамогай %1$s</string>

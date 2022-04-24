@@ -98,7 +98,7 @@
   <string name="miui_feedback_edit_storage_permission_name">Атрымаць доступ да сховішчы прылады</string>
   <string name="miui_feedback_edit_submit_dialog_cancel">Не згадзіцца</string>
   <string name="miui_feedback_edit_submit_dialog_confirm">Згадзіцца</string>
-  <string name="miui_feedback_edit_submit_dialog_content"><Data>Вы павінны прыняць нашы &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Палітыку канфідэнцыяльнасці&lt;/a> і &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Карыстальніцкае пагадненне&lt;/a> для выкарыстання Водгука. Праблемы, пра якія вы паведамляеце, разам з прымацаванымі вамі аб\'ектамі (могуць змяшчаць асабістыя дадзеныя, а таксама інфармацыю пра вашу прыладу і сеткі) будуць запампаваны на серверы MIUI. Гэта дапаможа нам знайсці і вырашыць праблемы, пра якія вы паведамляеце.</Data></string>
+  <string name="miui_feedback_edit_submit_dialog_content"><Data>Вы павінны прыняць нашы &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Палітыку прыватнасцi&lt;/a> і &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Карыстальніцкае пагадненне&lt;/a> для выкарыстання Водгука. Праблемы, пра якія вы паведамляеце, разам з прымацаванымі вамі аб\'ектамі (могуць змяшчаць асабістыя дадзеныя, а таксама інфармацыю пра вашу прыладу і сеткі) будуць запампаваны на серверы MIUI. Гэта дапаможа нам знайсці і вырашыць праблемы, пра якія вы паведамляеце.</Data></string>
   <string name="miui_feedback_edit_submit_dialog_content_global"><Data>Ваш водгук з ўкладаннямі (калі ёсць) і журналамі (вы можаце зняць сцяжкі з адпаведных палёў для аб\'ектаў, якія вы не хочаце адпраўляць) будзе адпраўлены на серверы MIUI. Журналы могуць утрымліваць асабістую інфармацыю і дадзеныя вашага месцазнаходжання. Націск на «Згадзіцца» азначае, што вы прачыталі і прымаеце нашу &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Палітыку прыватнасці&lt;/a> і &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Карыстальніцкае пагадненне&lt;/a>.</Data></string>
   <string name="miui_feedback_edit_submit_dialog_not_show_again">Больш не паказваць</string>
   <string name="miui_feedback_edit_submit_dialog_title">Адправіць справаздачу</string>
@@ -212,7 +212,7 @@
   <string name="miui_main_privacy_tab_desc1">Абараніце буфер абмену</string>
   <string name="miui_main_privacy_tab_desc2">Не паведамляйце дакладнае месцазнаходжанне</string>
   <string name="miui_main_privacy_tab_desc3">Абараніце свае фатаграфіі і размовы</string>
-  <string name="miui_main_privacy_title">Абараніце вашу канфідэнцыяльнасць</string>
+  <string name="miui_main_privacy_title">Абараніце вашу прыватнасць</string>
   <string name="miui_main_ring_africa">Саванна</string>
   <string name="miui_main_ring_amazon">Трапічны лес</string>
   <string name="miui_main_ring_arctic">Арктыка</string>

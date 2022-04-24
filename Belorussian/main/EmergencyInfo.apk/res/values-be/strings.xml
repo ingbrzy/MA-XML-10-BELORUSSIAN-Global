@@ -225,7 +225,7 @@
   <string name="bplus">III+</string>
   <string name="bt_hci_snoop_log">Уключыць журнал адсочвання Bluetooth HCI</string>
   <string name="bt_hci_snoop_log_summary">Захоўваць усе пакеты Bluetooth HCI у файле (пераключыце Bluetooth пасля змены гэтай налады)</string>
-  <string name="bugreport_in_power">Ярлык для справаздачы пра памылкі</string>
+  <string name="bugreport_in_power">Цэтлiк для справаздачы пра памылкі</string>
   <string name="bugreport_in_power_summary">Паказаць кнопку для прыняцця справаздачы пра памылку ў меню сілкавання</string>
   <string name="button_convert_fbe">Сцерці і перайсці...</string>
   <string name="cached_apps_freezer_device_default">Прылада па змаўчанні</string>

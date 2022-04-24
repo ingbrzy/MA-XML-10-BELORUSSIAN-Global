@@ -139,7 +139,7 @@
   <string name="community_community_message_trigger_summary">Атрымліваць апавяшчэння аб адказах, адзнаках і абнаўленнях статусу Mi Супольнасці, выкарыстоўваючы Mi акаўнт</string>
   <string name="community_community_message_trigger_title">Апавяшчаць аб актыўнасці</string>
   <string name="community_cta_dialog_cancel">Не, дзякуй</string>
-  <string name="community_cta_dialog_des">Устаноўленыя тэмы цяпер падтрымліваюць віджэт Mi Супольнасці. Ён працуе як ярлык, які прыводзіць вас да падфорумаў Тэмы Mi Супольнасці. Вы можаце адключыць гэтую функцыю ў наладах.\nДазвольце тэмам доступ да вашага Mi акаўнта і статусу Mi Супольнасці, звязаным з уліковай запісам, каб мець магчымасць праглядаць іх тут. Вы таксама можаце ўключыць або адключыць апавяшчэння аб актыўнасці Mi Супольнасці ў Наладах.</string>
+  <string name="community_cta_dialog_des">Устаноўленыя тэмы цяпер падтрымліваюць віджэт Mi Супольнасці. Ён працуе як цэтлiк, які прыводзіць вас да падфорумаў Тэмы Mi Супольнасці. Вы можаце адключыць гэтую функцыю ў наладах.\nДазвольце тэмам доступ да вашага Mi акаўнта і статусу Mi Супольнасці, звязаным з уліковай запісам, каб мець магчымасць праглядаць іх тут. Вы таксама можаце ўключыць або адключыць апавяшчэння аб актыўнасці Mi Супольнасці ў Наладах.</string>
   <string name="community_cta_dialog_ok">Дазволіць</string>
   <string name="community_cta_dialog_title">Неабходныя дазволы</string>
   <string name="community_entrance_summary">Знайдзіце звязаны з тэмай кантэнт у Mi Супольніцтве. Гэта функцыя падтрымліваецца абранымі тэмамі.</string>
@@ -862,12 +862,12 @@
   <string name="share_picture_loading">Загрузка выявы...</string>
   <string name="share_save_success">Захавана паспяхова</string>
   <string name="share_save_to_photo">Галерэя</string>
-  <string name="share_theme_content_text">Вы можаце спампаваць цудоўную тэму \"%1$s\" тут: %2$s. Ад\"</string>
+  <string name="share_theme_content_text">"Вы можаце спампаваць цудоўную тэму \"%1$s\" тут: %2$s. Ад "</string>
   <string name="share_vipaccount">Mi Супольнасць</string>
-  <string name="share_wallpaper_content_text">Вы можаце спампаваць цудоўныя шпалеры \"%1$s\" тут: %2$s. Ад\"</string>
+  <string name="share_wallpaper_content_text">"Вы можаце спампаваць цудоўныя шпалеры \"%1$s\" тут: %2$s. Ад "</string>
   <string name="shortcut_add">Дадаць</string>
   <string name="shortcut_cancel">Не, дзякуй</string>
-  <string name="shortcut_message">Дадаць ярлык на працоўны стол!</string>
+  <string name="shortcut_message">Дадаць цэтлiк на працоўны стол</string>
   <string name="shortcut_show_tip">Больш не паказваць</string>
   <string name="shortcut_title">Падабаюцца шпалеры?</string>
   <string name="show_free_aod">Паказваць бясплатныя тэмы</string>
@@ -876,7 +876,7 @@
   <string name="show_free_miwallpaper">Паказваць бясплатныя эфекты працоўнага стала</string>
   <string name="show_free_theme">Паказаць бясплатныя тэмы</string>
   <string name="show_free_wallpaper">Паказаць бясплатныя шпалеры</string>
-  <string name="show_incompatible">Паказаць несумяшчальныя%1$s</string>
+  <string name="show_incompatible">Паказаць несумяшчальныя %1$s</string>
   <string name="show_mamual_hide_aod">Паказваць схаваныя ўручную элементы</string>
   <string name="show_mamual_hide_font">Паказваць схаваныя шрыфты</string>
   <string name="show_mamual_hide_icons">Паказваць схаваныя ўручную абразкі</string>
@@ -1367,7 +1367,7 @@
   <string name="privacy_logoff_theme_content_5">5. Усе элементы персаналізацыі, якія ў цяперашні час выкарыстоўваюцца на гэтай прыладзе. Налады персаналізацыі па змаўчанні будуць адноўлены.</string>
   <string name="privacy_logoff_theme_service_warning">Наступныя элементы будуць выдаленыя назаўжды пасля адмены сэрвісаў:</string>
   <string name="privacy_network_exception">Адбылася сеткавая памылка. Пачакайце хвіліну ці дзве і паспрабуйце яшчэ раз.</string>
-  <string name="privacy_pad_fold_entry">Канфідэнцыяльнасць</string>
+  <string name="privacy_pad_fold_entry">Прыватнасць</string>
   <string name="privacy_pad_fold_logoff_service_content">Адмяніць сэрвісы шпалер і персаналізацыі</string>
   <string name="privacy_pad_fold_logoff_wallpaper_content_3">3. Усе шпалеры, шрыфты і мелодыi загружаныя на гэтую прыладу.</string>
   <string name="privacy_pad_fold_logoff_wallpaper_content_4">4. Усе налады дазволаў, налады і кэшаваныя элементы, створаныя на гэтай прыладзе.</string>
@@ -1402,10 +1402,10 @@
   <string name="privacy_phone_logoff_theme_service_introduce">Вы збіраецеся адмяніць сэрвісы тэм.</string>
   <string name="privacy_phone_read_and_write_storage">Доступ да сховішча</string>
   <string name="privacy_phone_read_theme_logoff_privacy_policy"><Data>Я прачытаў і згодны з&lt;font color=\"#8E92B0\">&lt;/color>&lt;a href=\"%1$s\"Заявай аб адмене сэрвісаў Тэм&lt;/a>&lt;/font>.</Data></string>
-  <string name="privacy_phone_read_theme_privacy_policy"><Data>Я прачытаў і згодны з &lt;font color=\"#8E92B0\">&lt;/color>&lt;a href=\"%1$s\"> Заявай аб адкліканні згоды на Палітыку канфiдэнцыяльнасцi Тэм&lt;/a>&lt;/font>.</Data></string>
+  <string name="privacy_phone_read_theme_privacy_policy"><Data>Я прачытаў і згодны з &lt;font color=\"#8E92B0\">&lt;/color>&lt;a href=\"%1$s\"> Заявай аб адкліканні згоды на Палітыку прыватнасцi Тэм&lt;/a>&lt;/font>.</Data></string>
   <string name="privacy_phone_revoke_agree_content_3">3. Усе тэмы, шпалеры, дынамічныя шпалеры, шрыфты, значкі і мелодыі званка загружаныя на гэтую прыладу.</string>
   <string name="privacy_phone_revoke_agree_content_4">4. Усе запісы гісторыі пошуку, наладкі дазволаў, наладкі і кэшаваныя элементы, створаныя на гэтай прыладзе.</string>
-  <string name="privacy_phone_revoke_agree_detail_content_1">1. Перш чым працягваць, пераканайцеся, што ў вас ёсць права адклікаць згоду.\n2. Ваш водгук згоды з Палітыкай канфідэнцыяльнасці Тэм не паўплывае на нармальнае выкарыстанне іншых прадуктаў Xiaomi.\n3. Водгук згоды з\'яўляецца незваротным дзеяннем. Перш чым працягнуць, зрабіце рэзервовую копію ўсіх важных элементаў, бо яны могуць быць выдалены незваротна. Памятайце, што вы не зможаце перагледзець сваё рашэнне пасля адклікання згоды. Наступныя дадзеныя будуць беззваротна выдалены або ананімаваны пасля адклікання згоды (за выключэннем выпадкаў, прадугледжаных законамі і нарматыўнымі актамі):</string>
+  <string name="privacy_phone_revoke_agree_detail_content_1">1. Перш чым працягваць, пераканайцеся, што ў вас ёсць права адклікаць згоду.\n2. Ваш водгук згоды з Палітыкай прыватнасцi Тэм не паўплывае на нармальнае выкарыстанне іншых прадуктаў Xiaomi.\n3. Водгук згоды з\'яўляецца незваротным дзеяннем. Перш чым працягнуць, зрабіце рэзервовую копію ўсіх важных элементаў, бо яны могуць быць выдалены незваротна. Памятайце, што вы не зможаце перагледзець сваё рашэнне пасля адклікання згоды. Наступныя дадзеныя будуць беззваротна выдалены або ананімаваны пасля адклікання згоды (за выключэннем выпадкаў, прадугледжаных законамі і нарматыўнымі актамі):</string>
   <string name="privacy_phone_revoke_agree_detail_content_2">Усе замовы (уключаючы аплачаныя), зробленыя на прыладах Xiaomi, на якіх вы выкарыстоўвалі свой Mi акаўнт. Вы больш не зможаце выкарыстоўваць набытыя элементы.\nУся інфармацыя аб вашых лайках, каментарах, рэйтынгах і падпісчыках, створаная на прыладах Xiaomi, на якіх вы выкарыстоўвалі свой уліковы запіс Mi.\nУсе тэмы, шпалеры, дынамічныя шпалеры, шрыфты, значкі і мелодыi, загружаныя на гэтую прыладу.\nУсе запісы гісторыі пошуку, налады дазволаў, наладкі і кэшаваныя элементы, створаныя на гэтай прыладзе.\nУсе элементы персаналізацыі, якія выкарыстоўваюцца цяпер на гэтай прыладзе. Параметры персаналізацыі па змаўчанні будуць адноўлены.</string>
   <string name="privacy_phone_revoke_agree_detail_content_3">4. Пасля таго, як вы адгукнеце сваю згоду з Палітыкай прыватнасці тым, мы перастанем збіраць вашу асабістую інфармацыю. Ужо сабраная і захаваная асабістая інфармацыя будзе выдалена на працягу пэўнага перыяду ў адпаведнасці з прымяняльнымі законамі і пастановамі.\n5. Водгук згоды не мае на ўвазе вызвалення ці змякчэння адказнасці ў дачыненні да дзеянняў, выкананых да адклікання згоды.</string>
   <string name="privacy_phone_revoke_agree_detail_prompt">Заява аб адкліканні згоды на Палітыку прыватнасці Тэм</string>

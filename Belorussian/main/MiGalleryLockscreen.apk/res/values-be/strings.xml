@@ -459,7 +459,7 @@
   <string name="login_other">Іншы Mi Акаўнт</string>
   <string name="login_register_by_local_phone_long_text">Стварыць акаўнт</string>
   <string name="login_with_sns">Іншыя спосабы ўваходу</string>
-  <string name="login_xiaomi_account_summary">Я прымаю &lt;font color =\'#0D84FF\'>&lt;a href=\"%1$s\">Угода карыстальніка&lt;/font>&lt;/a> і &lt;font color =\'#0D84FF\'>&lt;a href=\"%2$s\">Палітыку канфідэнцыяльнасці&lt;/font>&lt;/a> Mi Акаўнта.</string>
+  <string name="login_xiaomi_account_summary">Я прымаю &lt;font color =\'#0D84FF\'>&lt;a href=\"%1$s\">Угода карыстальніка&lt;/font>&lt;/a> і &lt;font color =\'#0D84FF\'>&lt;a href=\"%2$s\">Палітыку прыватнасцi&lt;/font>&lt;/a> Mi Акаўнта.</string>
   <string name="logout">Выхад</string>
   <string name="logout_account">Выйсці</string>
   <string name="logout_cancel">Адмена</string>
@@ -746,7 +746,7 @@
   <string name="privacy_update_cancel">Адмена</string>
   <string name="privacy_update_confirm">Прымаю</string>
   <string name="privacy_update_quit">Выхад</string>
-  <string name="privacy_update_summary1">Палітыка канфідэнцыяльнасці Каруселі шпалер абноўлена:</string>
+  <string name="privacy_update_summary1">Палітыка прыватнасцi Каруселі шпалер абноўлена:</string>
   <string name="privacy_update_summary2">Перш чым працягнуць, прачытайце і прыміце абноўленую &lt;font color =\'#37A5FF\'>&lt;a href=\"%1$s\">Палітыку канфідэнцыйнасці&lt;/font>&lt;/a>.\"</string>
   <string name="privacy_update_summary3">Вы не зможаце выкарыстоўваць Карусель шпалер, калі не прыміце абноўленую &lt;font color =\'#37A5FF\'>&lt;a href=\"%1$s\">Палітыку канфідэнцыйнасці&lt;/font>&lt;/a>. Прымаеце?</string>
   <string name="privacy_update_title1">Абноўленая палітыка прыватнасці</string>
@@ -1091,7 +1091,7 @@
   <string name="user_agreement_hint_3rd_app_with_unicom">&lt;Data>Я прачытаў(-ла) &lt;a href=%1$s>Карыстальніцкае пагадненне&lt;/a> і &lt;a href=%2$s>Палітыку прыватнасці&lt;/a>, &lt;a href=%3$s>Карыстальніцкае пагадненне&lt;/a> і &lt;a href=%4$s>Палітыку прыватнасці&lt;/a> Mi Акаўнта і &lt;a href=%5$s>Палажэння і ўмовы паслуг праверкі China Unicom&lt;/a> і пагадзіўся(-лась) з імі.&lt;/Data></string>
   <string name="user_agreement_hint_default">&lt;Data>Я прачытаў(-ла) &lt;a href=%1$s>Карыстальніцкае пагадненне&lt;/a> і &lt;a href=%2$s>Палітыку прыватнасці&lt;/a> Mi Акаўнта і згодны(-ая) з імі.&lt;/Data></string>
   <string name="user_agreement_hint_default_1">&lt;Data>Прачытайце і прыміце &lt;a href=\"%1$s\">Угода карыстальніка&lt;/a> і &lt;a href=\"%2$s\">Палітыку прыватнасці.&lt;/a>&lt;/Data></string>
-  <string name="user_agreement_hint_default_extra">&lt;Data>Я прымаю &lt;a href=\"%1$s\">Угода карыстальніка&lt;/a> і &lt;a href=\"%2$s\">Палітыку канфідэнцыяльнасці.&lt;/a> Пры першым уваходзе ў сістэму будзе аўтаматычна створаны рахунак Xiaomi.&lt;/Data></string>
+  <string name="user_agreement_hint_default_extra">&lt;Data>Я прымаю &lt;a href=\"%1$s\">Угода карыстальніка&lt;/a> і &lt;a href=\"%2$s\">Палітыку прыватнасцi.&lt;/a> Пры першым уваходзе ў сістэму будзе аўтаматычна створаны рахунак Xiaomi.&lt;/Data></string>
   <string name="user_agreement_hint_first_login">Калі вы выкарыстоўваеце нумар тэлефона ў першы раз, акаўнт будзе створаны аўтаматычна.</string>
   <string name="user_agreement_hint_with_mobile">&lt;Data>Я прачытаў(-ла) &lt;a href=%1$s>Карыстальніцкае пагадненне&lt;/a> і &lt;a href=%2$s>Палітыку прыватнасці&lt;/a> Mi Акаўнта і &lt;a href=%3$s>Палажэння і ўмовы паслуг праверкі China Mobile&lt;/a> і пагадзіўся(-лась) з імі.&lt;/Data></string>
   <string name="user_agreement_hint_with_telecom">&lt;Data>Я прачытаў(-ла) &lt;a href=%1$s>Карыстальніцкае пагадненне&lt;/a> і &lt;a href=%2$s>Палітыку прыватнасці&lt;/a> Mi Акаўнта і &lt;a href=%3$s>Палажэння і ўмовы паслуг праверкі акаўнта eSurfing&lt;/a> і пагадзіўся(-лась) з імі.&lt;/Data></string>

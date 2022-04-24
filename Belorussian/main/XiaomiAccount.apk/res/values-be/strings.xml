@@ -551,7 +551,7 @@ ID:%s
   <string name="passport_phone_num_hint_text">Нумар тэлефона</string>
   <string name="passport_phone_ticket_login">Увайсці з дапамогай SMS</string>
   <string name="passport_prev">Назад</string>
-  <string name="passport_privacy_policy">Палітыка канфідэнцыяльнасці</string>
+  <string name="passport_privacy_policy">Палітыка прыватнасцi</string>
   <string name="passport_privacy_policy_required">Палітыка прыватнасціі (абавязкова)</string>
   <string name="passport_provision_activator_phone_summary_sim1_prefix">SIM <xliff id="sim1" refersto="1">%1$d</xliff> %2$s</string>
   <string name="passport_provision_activator_phone_summary_sim2_prefix">SIM <xliff id="sim2" refersto="2">%1$d</xliff> %2$s</string>

@@ -1311,7 +1311,7 @@
   <string name="bootloader_status_privacy_dialog_message"><Data>Для нармальнай працы праграме патрабуецца доступ да вашага ўліковага запісу, ідэнтыфікатара працэсара і IMSI. Прачытайце і прыміце нашу &lt;a href=\"%1$s\">Палітыку прыватнасці&lt;/a>. Згодны?</Data></string>
   <string name="bootloader_status_privacy_dialog_no">Скасаваць</string>
   <string name="bootloader_status_privacy_dialog_title">Патрабуюцца дазволы</string>
-  <string name="bootloader_status_privacy_dialog_url_text">Палітыка канфідэнцыяльнасці</string>
+  <string name="bootloader_status_privacy_dialog_url_text">Палітыка прыватнасцi</string>
   <string name="bootloader_status_privacy_dialog_yes">Дазволіць</string>
   <string name="bootloader_status_summary">Праверка блакавання прылады</string>
   <string name="bootloader_status_unlocked">Разблакавана</string>
@@ -2202,7 +2202,7 @@
   <string name="device_name_input_overlength">Задоўгае імя прылады</string>
   <string name="device_name_usage_point">Іншыя прылады паблізу бачаць гэта імя.</string>
   <string name="device_oaid">Кіраванне віртуальным ідэнтыфікатарам</string>
-  <string name="device_oaid_desc">Замест вашага унікальнага ідэнтыфікатара MIUI прадаставіць віртуальны ідэнтыфікатар (OAID) для устаноўленых праграм. Ён не дазваляе праграмам адсочваць вашыя дзеянні і перавагі, а таксама абараняе вашу канфідэнцыяльнасць.</string>
+  <string name="device_oaid_desc">Замест вашага унікальнага ідэнтыфікатара MIUI прадаставіць віртуальны ідэнтыфікатар (OAID) для устаноўленых праграм. Ён не дазваляе праграмам адсочваць вашыя дзеянні і перавагі, а таксама абараняе вашу прыватнасць.</string>
   <string name="device_oaid_title">Віртуальны ідэнтыфікатар</string>
   <string name="device_of_someone">%1$s %2$s</string>
   <string name="device_opcust_version">Версія для аператара</string>
@@ -3361,7 +3361,7 @@
   <string name="keyboard_shortcuts_helper_summary">Паказаць даступныя спалучэнні клавіш</string>
   <string name="keyguard_advance_setting_title">Пашыраныя налады</string>
   <string name="keyguard_security_setting_others">Іншае</string>
-  <string name="keyguard_security_setting_privacy_policy">Палітыка канфідэнцыяльнасці</string>
+  <string name="keyguard_security_setting_privacy_policy">Палітыка прыватнасцi</string>
   <string name="keywords_accounts">уліковы запіс</string>
   <string name="keywords_adb_wireless">adb, адладка, распрацоўшчык</string>
   <string name="keywords_add_bt_device">bluetooth</string>
@@ -5218,7 +5218,7 @@
   <string name="privacy_authorize_dialog_agree">Згадзіцца</string>
   <string name="privacy_authorize_dialog_exit">Выхад</string>
   <string name="privacy_authorize_network_error">Злучыцеся з сеткай і паўтарыце спробу.</string>
-  <string name="privacy_authorize_privacy_policy">Палітыка канфідэнцыяльнасці</string>
+  <string name="privacy_authorize_privacy_policy">Палітыка прыватнасцi</string>
   <string name="privacy_authorize_revoke">Адклікаць</string>
   <string name="privacy_authorize_revoke_dialog_msg">Пасля адклікання дазволу праграма спыніць збор дадзеных, і ўсе звязаныя дадзеныя будуць выдаленыя з сервераў. Гэта можа зрабіць праграму практычна непрыдатнай для карыстання. Адклікаць дазвол?</string>
   <string name="privacy_authorize_revoke_dialog_title">Адкліканне дазволу</string>
@@ -5252,7 +5252,7 @@
   <string name="privacy_password">Пароль для абароны асабістых дадзеных</string>
   <string name="privacy_password_add_account">Дадаць</string>
   <string name="privacy_password_add_account_info">Дадайце Mi акаўнт, каб мець магчымасць аднавіць пароль, калі вы яго забудзеце</string>
-  <string name="privacy_password_add_account_setting">Акаўнт і канфідэнцыяльнасць</string>
+  <string name="privacy_password_add_account_setting">Акаўнт і прыватнасць</string>
   <string name="privacy_password_bind_account">Дадаць Мі Акаўнт</string>
   <string name="privacy_password_bind_account_immediate">Дадаць</string>
   <string name="privacy_password_confirm_SecondSpace_Password">Пацвердзіце пароль для Другой прасторы</string>
@@ -5283,9 +5283,9 @@
   <string name="privacy_password_use_finger_dialog_title">Адбітак</string>
   <string name="privacy_password_use_finger_success">Уключана</string>
   <string name="privacy_password_visible_pattern">Паказваць ключ падчас ўводу</string>
-  <string name="privacy_protect_title">Абарона канфідэнцыяльнасці</string>
+  <string name="privacy_protect_title">Абарона прыватнасцi</string>
   <string name="privacy_protection">Абарона прыватнасці</string>
-  <string name="privacy_protection_title">Канфідэнцыяльнасць</string>
+  <string name="privacy_protection_title">Прыватнасць</string>
   <string name="privacy_relative">Прыватнасць</string>
   <string name="privacy_settings">Рэзервовая копія і скід</string>
   <string name="privacy_settings_new">Рэзервовае капіяванне</string>
@@ -5895,11 +5895,11 @@
   <string name="search_pref_edge_handgrip">Элементы кіравання краю экрана</string>
   <string name="search_pref_volume_wake_title">Уключаць экран кнопкамі гучнасці;кнопкі гучнасці</string>
   <string name="search_preferred_network_type_title">Тып пераважнай сеткі;Пераважная сетка;Тып сеткі</string>
-  <string name="search_privacy_policy">Палітыка канфідэнцыяльнасці</string>
+  <string name="search_privacy_policy">Палітыка прыватнасцi</string>
   <string name="search_privacy_settings">Рэзерваванне і скід;Рэзерваванне і скід;Рэзерваванне;Стварэнне рэзервовай копіі</string>
   <string name="search_results_title">Налады</string>
-  <string name="search_ring_volume_option_title">Гучнасць;гучнасць;Мелодыя і апавяшчэння;рынгтон;мелодыя;Будзільнік;Музыка</string>
-  <string name="search_ringtone_title">Мелодыя званка;рынгтон;мелодыі</string>
+  <string name="search_ring_volume_option_title">Гучнасць;гучнасць;Мелодыя і апавяшчэння;мелодыя;Будзільнік;Музыка</string>
+  <string name="search_ringtone_title">Мелодыя званка;мелодыі</string>
   <string name="search_screen_effect">Колеры і насычанасць;Колеры і кантраснасць;колер;насычанасць колеру;кантраснасць</string>
   <string name="search_screen_key_long_press_timeout">Працягласць націску;Доўгі націск;Націск;Націск і ўтрыманне</string>
   <string name="search_screen_on_proximity_sensor_title">Прадухіленне выпадковых націскаў;​кішэня;кішэнны набор;выклікі з кішэні</string>
@@ -6013,7 +6013,7 @@
   <string name="security_password_category_name">Блакаванне экрана</string>
   <string name="security_passwords_title">Прыватнасць</string>
   <string name="security_patch">Абнаўленне сiстэмы бяспекі</string>
-  <string name="security_privacy_settings_title">Канфідэнцыяльнасць</string>
+  <string name="security_privacy_settings_title">Прыватнасць</string>
   <string name="security_relative">Бяспека</string>
   <string name="security_settings_face_enroll_dialog_ok">ОК</string>
   <string name="security_settings_face_enroll_done">Гатова</string>
@@ -6757,12 +6757,12 @@
   <string name="sync_settings">Акаўнты і сінхранізацыя</string>
   <string name="sync_success">Сінхранізавана паспяхова</string>
   <string name="sync_wifi_label">Wi-Fi</string>
-  <string name="sync_wifi_only">Толькі Wi-Fi сеткі</string>
+  <string name="sync_wifi_only">Сінхранізацыя толькі па Wi-Fi</string>
   <string name="system">Сістэма</string>
-  <string name="system_alert_window_access_title">Паказваць паверх іншых праграм</string>
+  <string name="system_alert_window_access_title">Паверх іншых праграм</string>
   <string name="system_alert_window_apps_title">Праграмы</string>
-  <string name="system_alert_window_settings">Паказваць паверх іншых праграм</string>
-  <string name="system_alert_window_summary" formatted="false">%1$d з %2$d праграм(-ы) дазволена паказвацца паверх іншых праграм</string>
+  <string name="system_alert_window_settings">Паверх іншых праграм</string>
+  <string name="system_alert_window_summary">%1$d з %2$d праграм адлюстроўваюцца паверх іншых праграм</string>
   <string name="system_and_device_section_title">Сістэмныя налады</string>
   <string name="system_app">(Сістэмная)</string>
   <string name="system_app_settings">Сістэмныя праграмы</string>
@@ -10459,8 +10459,8 @@
 · Перацягнiце праграму ў цэнтр экрана, каб адкрыць яе ў плаваючым вакне, або да краю для падзелу экрана."</string>
   <string name="sidebar_setting">Налады бакавой панэлі</string>
   <string name="var_font_switch_title">Рэгулюемы шрыфт</string>
-  <string name="keep_screen_on_after_folding_off_summary">Пакідаць знешні экран уключаным пасля складання падчас размовы або пры выкарыстанні камеры</string>
-  <string name="keep_screen_on_after_folding_on_summary">Пакідаць знешні экран уключаным пасля складання, каб працягнуць выкананне бягучых задач</string>
-  <string name="keep_screen_on_after_folding_text">Пакідаць знешні экран уключаным пасля складання, каб працягнуць выкананне бягучых задач</string>
-  <string name="keep_screen_on_after_folding_title">Пакідаць экран уключаным пасля складання</string>
+  <string name="keep_screen_on_after_folding_off_summary">Не выключаць знешні экран пасля складання падчас выклікаў або пры выкарыстанні камеры</string>
+  <string name="keep_screen_on_after_folding_on_summary">Не выключаць знешні экран пасля складання, для працягу працы з бягучымі задачамі</string>
+  <string name="keep_screen_on_after_folding_text">Не выключаць знешні экран пасля складання, для працягу працы з бягучымі задачамі</string>
+  <string name="keep_screen_on_after_folding_title">Не выключаць экран</string>
 </resources>

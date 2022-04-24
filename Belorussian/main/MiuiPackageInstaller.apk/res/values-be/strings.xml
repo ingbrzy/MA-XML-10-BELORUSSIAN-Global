@@ -289,7 +289,7 @@
   <string name="miui_other_relative">Іншае</string>
   <string name="miui_permission_manage_title">Дазволы %s</string>
   <string name="miui_please_clear">Выдаліць вірусы</string>
-  <string name="miui_privacy_relative">Канфідэнцыяльнасць</string>
+  <string name="miui_privacy_relative">Прыватнасць</string>
   <string name="miui_recommend_clean">Таксама выдаліць дадзеныя праграмы</string>
   <string name="miui_recommend_clean_msg">Дадзеныя гэтай праграмы могуць утрымліваць спампоўкi, файлы і г.д.</string>
   <string name="miui_security_relative">Бяспека</string>
@@ -408,7 +408,7 @@
   <string name="permission_group_title_charges_related">Тэлефон</string>
   <string name="permission_group_title_media_related">Медыя</string>
   <string name="permission_group_title_others">Іншае</string>
-  <string name="permission_group_title_privacy_related">Канфідэнцыяльнасць</string>
+  <string name="permission_group_title_privacy_related">Прыватнасць</string>
   <string name="permission_group_title_settings_related">Налады</string>
   <string name="permission_request_title">Патрабуецца дазвол</string>
   <string name="permission_review_title_template_install">Усталюйце патрэбныя дазволы для %1$s</string>
@@ -427,8 +427,8 @@
   <string name="pref_key_app_store_summary">Прапаноўваць спампаваць праграмы з бяспечных крыніц перад усталёўкай</string>
   <string name="pref_key_app_store_title">Рэкамендаваць бяспечныя версіі</string>
   <string name="preference_copied">\"%1$s\": скапіявана ў буфер абмену.</string>
-  <string name="privacy_relative">Канфідэнцыяльнасць</string>
-  <string name="privacyPerms">Канфідэнцыяльнасць</string>
+  <string name="privacy_relative">Прыватнасць</string>
+  <string name="privacyPerms">Прыватнасць</string>
   <string name="replace_app_des_text">Замяніць праграму гэтай версіяй?</string>
   <string name="review_button_cancel">Адмена</string>
   <string name="review_button_continue">Працягнуць</string>

@@ -375,7 +375,7 @@
   <string name="Only_the_wifi">Толькі Wi-Fi</string>
   <string name="open">Адкрыць</string>
   <string name="open_download">Адкрыць</string>
-  <string name="open_folder">Адкрыць папку</string>
+  <string name="open_folder">Адкрыць тэчку</string>
   <string name="open_vip_hint">Націсніце, каб стаць удзельнікам Xunlei</string>
   <string name="open_vip_speedup">"Станьце ўдзельнікам, каб павысіць хуткасць "</string>
   <string name="open_xunlei_speed_service">Запусціць паскаральнік спамповак Xunlei</string>
@@ -438,7 +438,7 @@
   <string name="retry_after_network_available">Не ўдаецца злучыцца з інтэрнэтам. Праверце злучэнне і паспрабуйце ізноў.</string>
   <string name="retry_download">Паўтарыць</string>
   <string name="revert_default">Аднавіць налады па змаўчанні</string>
-  <string name="revert_download_path">Захаваць у папку па змаўчанні?</string>
+  <string name="revert_download_path">Захаваць у тэчку па змаўчанні?</string>
   <string name="saturday">Субота</string>
   <string name="saturday_short">Суб</string>
   <string name="saturday_shortest">Суб</string>

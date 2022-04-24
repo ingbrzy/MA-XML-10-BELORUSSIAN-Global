@@ -102,7 +102,7 @@
   <string name="cloud_state_syncing">Сінхранізацыя з Mi Cloud…</string>
   <string name="cm_privacy_dialog_allow">Згодзен (згодна)</string>
   <string name="cm_privacy_dialog_cancel">Скасаваць</string>
-  <string name="cm_privacy_dialog_spannable_tips">Палітыка канфідэнцыяльнасці</string>
+  <string name="cm_privacy_dialog_spannable_tips">Палітыка прыватнасцi</string>
   <string name="cm_privacy_dialog_tips">Паслугі разумных SMS прадастаўляюцца вашым аператарам сувязі. Для прадастаўлення паслуг паведамленняў патрабуецца падлучэнне да інтэрнэту і доступ да вашага месцазнаходжанні. Да пачатку выкарыстання паслуг вы павінны прыняць %1s аператара сувязі. Вы згодны?</string>
   <string name="cm_privacy_dialog_title">Увага</string>
   <string name="cmcc_privacy">Пагадненне аб прыватнасці China Mobile</string>
@@ -423,7 +423,7 @@
   <string name="mx_dspt">Адпраўляйце SMS і MMS іншым карыстальнікам MIUI, калі вы падлучаны да Wi-Fi, без дадатковай аплаты мабільным аператарам.</string>
   <string name="mx_dspt_listview">Адпраўляйце паведамлення другім карыстальнікам MIUI без дадатковай аплаты мабільным аператарам</string>
   <string name="mx_dspt_provision">Mi Паведамлення дазваляюць вам бясплатна адпраўляць паведамлення іншым карыстальнікам MIUI праз інтэрнэт. Для паўторнай актывацыі Mi Паведамленняў можа спатрэбіцца адпраўка SMS. Аплата спаганяецца згодна тарыфе вашага аператара. Акрамя таго, калі гэтая функцыя ўключаная, ёй патрабуецца невялікая колькасць мабільнага трафіку для праверкі статусу адрасата. Вы згодны?</string>
-  <string name="mx_dspt_provision_ex2">Палітыка канфідэнцыяльнасці</string>
+  <string name="mx_dspt_provision_ex2">Палітыка прыватнасцi</string>
   <string name="mx_enable">Mi Паведамлення</string>
   <string name="mx_enable_ex">Mi Паведамлення і тэлефанія</string>
   <string name="mx_enable_popup_msg">Mi Паведамлення дазваляюць вам бяплатна мяняцца паведамленнямі з іншымі карыстальнікамі MIUI.</string>
@@ -593,7 +593,7 @@
   <string name="privacy_password_title2">Пароль для абароны прыватнасці</string>
   <string name="privacy_password_title3">Абнавіце ваш пароль</string>
   <string name="privacy_password_title4">Пароль абноўлены</string>
-  <string name="privacy_policy">Палітыка канфідэнцыяльнасці</string>
+  <string name="privacy_policy">Палітыка прыватнасцi</string>
   <string name="private_message">Прыватныя паведамлення</string>
   <string name="private_new_notification">Апавяшчэнні</string>
   <string name="private_protect">Абарона асабістых дадзеных</string>
@@ -871,7 +871,7 @@
   <string name="system_permission_declare_double_link" formatted="false">Прачытайце і пагадзіцеся з нашымі %1s і %2s перад выкарыстаннем гэтай функцыі.</string>
   <string name="system_permission_declare_main_purpose" formatted="false">Сардэчна запрашаем у %1s! %2s</string>
   <string name="system_permission_declare_no_say_no">Калі вы вырашыце не даваць неабходныя дазволы ці не дазволіце нам збіраць і выкарыстоўваць вашы дадзеныя, гэта дадатак не зможа нармальна працаваць.</string>
-  <string name="system_permission_declare_privacy_declare">Мы паважаем і абараняем вашу канфідэнцыяльнасць.\nЗвярніце ўвагу, што %1s можа збіраць вашыя дадзеныя і для нармальнай працы патрабуюцца наступныя дазволу:</string>
+  <string name="system_permission_declare_privacy_declare">Мы паважаем і абараняем вашу прыватнасць.\nЗвярніце ўвагу, што %1s можа збіраць вашыя дадзеныя і для нармальнай працы патрабуюцца наступныя дазволу:</string>
   <string name="system_permission_declare_revoke_path">Вы можаце адклікаць аўтарызацыю і адключыць сэрвіс у наладах абмену паведамленнямі.</string>
   <string name="system_permission_declare_single_link">Прачытайце і пагадзіцеся з нашай %1 перад выкарыстаннем гэтай функцыі.</string>
   <string name="system_permission_declare_triple_link" formatted="false">Прачытайце і пагадзіцеся з нашымі %1s, %2s і %3s перад выкарыстаннем гэтых функцый.</string>
@@ -1480,7 +1480,7 @@
   <string name="mms_mi_message_request_notice">Мы хочам, каб вы атрымалі максімальную аддачу ад Mi Паведамленняў.</string>
   <string name="mms_mx_privacy_policy">Палітыка канфідэнцыйнасці Mi Паведамленняў</string>
   <string name="mms_smart_msg_main_purpose">Разумныя паведамленні могуць распазнаваць ідэнтыфікатары адпраўнікаў, прадастаўляць паслугі смарт-меню і выяўляць падазроныя паведамленні.</string>
-  <string name="mms_smart_msg_privacy_policy">Палітыка канфідэнцыяльнасці Разумных паведамленняў</string>
+  <string name="mms_smart_msg_privacy_policy">Палітыка прыватнасцi Разумных паведамленняў</string>
   <string name="mms_user_agreement">Карыстальнiцкае пагадненне</string>
   <string name="system_permission_declare_mi_message">Сардэчна запрашаем у Mi Паведамлення!</string>
   <string name="system_permission_declare_rcs">Сардэчна запрашаем у абмен паведамленнямі 5G!</string>

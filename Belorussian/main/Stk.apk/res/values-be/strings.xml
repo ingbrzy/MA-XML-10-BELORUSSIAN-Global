@@ -236,10 +236,10 @@
   <string name="status_bar_notification_info_overflow">999+</string>
   <string name="stk_app_state">Стан праграмы</string>
   <string name="stk_channel_name">Паведамленні сэрвісу мабільнай перадачы даных</string>
-  <string name="stk_dialog_accept">ОК</string>
+  <string name="stk_dialog_accept">ТАК</string>
   <string name="stk_dialog_reject">НЕ</string>
   <string name="stk_dialog_title">Інструменты SIM</string>
-  <string name="stk_ic_remove_content">Пасля выдалення ярлыка на працоўным стале вы па-ранейшаму зможаце выкарыстоўваць інструменты USIM праз праграму \"Налады\".</string>
+  <string name="stk_ic_remove_content">Пасля выдалення цэтлiка на працоўным стале вы па-ранейшаму зможаце выкарыстоўваць інструменты USIM праз праграму \"Налады\".</string>
   <string name="stk_ic_remove_title">Выдаліць USIM інструменты з працоўнага стала?</string>
   <string name="stk_no_service">Няма даступных сэрвісаў</string>
   <string name="sunday">Нядзеля</string>

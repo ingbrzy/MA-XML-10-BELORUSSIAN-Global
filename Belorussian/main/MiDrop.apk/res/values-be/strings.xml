@@ -176,7 +176,7 @@
     <string name="ee">Альбомы</string>
     <string name="ef">Песні</string>
     <string name="eg">Альбомы</string>
-    <string name="eh">Папкі</string>
+    <string name="eh">Тэчкі</string>
     <string name="ei">Выканаўцы</string>
     <string name="ej">%1$d Б</string>
     <string name="ek">%2$1.2f ГБ</string>
@@ -186,7 +186,7 @@
     <string name="eo">%2$1.2f ГБ/с</string>
     <string name="ep">%2$1.2f КБ/с</string>
     <string name="eq">%2$1.2f МБ/с</string>
-    <string name="er">Папка прызначэння</string>
+    <string name="er">Тэчка прызначэння</string>
     <string name="es">Выбраныя</string>
     <string name="et">Выбрана файлаў: %1$d | Усяго: %2$s</string>
     <string name="eu">Імя карыстальніка і пароль адчувальныя да рэгістра і павінны ўтрымліваць ад %1$d да %2$d знакаў. Вы можаце камбінаваць ангельскія літары, спецыяльныя сімвалы і лічбы.</string>
@@ -519,8 +519,8 @@
     <string name="nz">Выйсці</string>
     <string name="o0">OK</string>
     <string name="o1">Выкарыстоўваючы гэты прадукт, вы прымаеце %1$s і %2$s.</string>
-    <string name="o2">Палітыка канфідэнцыяльнасці</string>
-    <string name="o3">Карыстальніцкае Пагадненне</string>
+    <string name="o2">Палітыка прыватнасцi</string>
+    <string name="o3">Карыстальніцкае пагадненне</string>
     <string name="o4">Умовы і палажэнні</string>
     <string name="o5">Кадаванне сістэмы FTP па змаўчанні</string>
     <string name="o6">UTF-8</string>
@@ -553,7 +553,7 @@
     <string name="ow">Дазволы</string>
     <string name="ox">ShareMe — гэта сістэмная праграма. Вы не зможаце перадаваць файлы на іншыя прылады без інтэрнэту пасля выдалення гэтай праграмы.</string>
     <string name="oy">Выдаліць ShareMe?</string>
-    <string name="oz">ShareMe — гэта сістэмная праграма. Пасля выдалення ярлыка праграмы з працоўнага стала вы не зможаце пераносіць файлы на іншыя прылады без выкарыстання інтэрнэту.</string>
+    <string name="oz">ShareMe — гэта сістэмная праграма. Пасля выдалення цэтлiка праграмы з працоўнага стала вы не зможаце пераносіць файлы на іншыя прылады без выкарыстання інтэрнэту.</string>
     <string name="p0">Выдаліць ShareMe з працоўнага стала?</string>
     <string name="p1">Учора</string>
 </resources>

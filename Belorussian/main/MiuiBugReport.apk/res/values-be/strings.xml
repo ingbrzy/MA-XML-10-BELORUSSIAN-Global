@@ -68,7 +68,7 @@
   <string name="activity_not_found_notice">Немагчыма знайсці праграму</string>
   <string name="add_to_trust_device">Гэта давераная прылада</string>
   <string name="afternoon">Поўдзень</string>
-  <string name="am">AM</string>
+  <string name="am">ДП</string>
   <string name="app_empty">Праграмы не знойдзены.</string>
   <string name="app_label">Справаздачы</string>
   <string name="app_name">Справаздачы</string>
@@ -615,11 +615,11 @@
   <string name="phone_number">Нумар тэлефона</string>
   <string name="photoPickerNotFoundText">Няма даступных фотаздымкаў.</string>
   <string name="please_agree_protocal">Згадзіцеся з пратаколам</string>
-  <string name="pm">PM</string>
+  <string name="pm">ПП</string>
   <string name="post_miui_bbs_failed">Не атрымалася размясціць на форуме MIUI</string>
   <string name="preference_copied">Тэкст \"%1$s\" скапіяваны ў буфер абмену</string>
-  <string name="privacy_category_title">Канфідэнцыяльнасць</string>
-  <string name="privacy_policy_title">Палітыка канфідэнцыяльнасці</string>
+  <string name="privacy_category_title">Прыватнасць</string>
+  <string name="privacy_policy_title">Палітыка прыватнасцi</string>
   <string name="privacy_policy_update_hint">Палітыка прыватнасці %1$s абноўлена:\n%2$s\nПрачытайце і прыміце новую версію %3$s, перш чым працягнуць.</string>
   <string name="privacy_policy_update_title">Абноўленая палітыка прыватнасці</string>
   <string name="progressbar_title">Праверка на наяўнасць праблем з бяспекай…</string>

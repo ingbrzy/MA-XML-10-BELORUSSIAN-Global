@@ -34,7 +34,7 @@
   <string name="accessibility_ai_identify">Распазнаць</string>
   <string name="accessibility_ai_scene_off">Камера з ШI выключана</string>
   <string name="accessibility_ai_scene_on">ШI камера уключана</string>
-  <string name="accessibility_ai_watermark_panel_on">Панэль вадзянога знака AI</string>
+  <string name="accessibility_ai_watermark_panel_on">Панэль вадзянога знака ШI</string>
   <string name="accessibility_ambilight_panel_on">Адкрыць панэль \"Доўгая вытрымка\"</string>
   <string name="accessibility_back_preview_status">Папярэдні прагляд асноўнай камеры</string>
   <string name="accessibility_beauty_function_button">Паляпшэнне</string>
@@ -291,7 +291,7 @@
   <string name="ai_scene_mode_tower">Вежа</string>
   <string name="ai_scene_mode_tutuk">Трохколавы ровар</string>
   <string name="ai_scene_mode_unknown">Невядома</string>
-  <string name="ai_scene_mode_use_hint_text">Распазнаваць сцэны з выкарыстаннем AI\nі аўтаматычна наладжваць параметры</string>
+  <string name="ai_scene_mode_use_hint_text">Распазнаваць сцэны з выкарыстаннем ШI\nі аўтаматычна наладжваць параметры</string>
   <string name="ai_scene_top_moon_off">Рэжым слабога асвятлення</string>
   <string name="ai_scene_top_tip">Месячнае святло</string>
   <string name="ai_shanghai">Шанхай</string>
@@ -308,7 +308,7 @@
   <string name="ai_ultra_pixel_108mp">108 МП</string>
   <string name="ai_valentine_day">Дзень святого Валянціна</string>
   <string name="ai_victoria_harbor">Бухта Вікторыя</string>
-  <string name="ai_watermark_title">Вадзяны знак AI</string>
+  <string name="ai_watermark_title">Вадзяны знак ШI</string>
   <string name="ai_west_lake">Сіху</string>
   <string name="ai_wuhan">Ухань</string>
   <string name="ai_zhang_jia_jie">Чжанцзяцзе</string>
@@ -1181,7 +1181,7 @@
   <string name="pref_960_watermark_title">Вадзяной знак 960FPS</string>
   <string name="pref_a_c_f">Санограф</string>
   <string name="pref_advance_settings">Дадатковыя налады</string>
-  <string name="pref_ai_detect">Вызначэнне AI</string>
+  <string name="pref_ai_detect">Вызначэнне ШI</string>
   <string name="pref_audio_denoise_title">Шумапрыглушэнне для аўдыё</string>
   <string name="pref_audio_focus_entry_front">Франтальны</string>
   <string name="pref_audio_focus_entry_general">Нармальны</string>
@@ -1199,7 +1199,7 @@
   <string name="pref_camera_ai_audio">ШІ аўдыё</string>
   <string name="pref_camera_ai_scene_title">Камера з ШI</string>
   <string name="pref_camera_ai_shutter_description">Пры націску на кнопку спуску затвора выбіраць лепшы момант аўтаматычна.</string>
-  <string name="pref_camera_ai_shutter_title">Затвор з AI</string>
+  <string name="pref_camera_ai_shutter_title">Затвор з ШI</string>
   <string name="pref_camera_antibanding_entry_0">Выкл</string>
   <string name="pref_camera_antibanding_entry_1">50 Гц</string>
   <string name="pref_camera_antibanding_entry_2">60 Гц</string>
@@ -1605,7 +1605,7 @@
   <string name="pref_pic_flaw_tip_title">Апавяшчаць пра недахопы</string>
   <string name="pref_popup_camera_title">Высоўная камера</string>
   <string name="pref_priority_storage_title">Захаваць на SD-карту</string>
-  <string name="pref_privacy_title">Палітыка канфідэнцыяльнасці</string>
+  <string name="pref_privacy_title">Палітыка прыватнасцi</string>
   <string name="pref_privacy_watermark_edit">Карыстацкі тэкст</string>
   <string name="pref_privacy_watermark_edit_clear_history">Ачысціць гісторыю</string>
   <string name="pref_privacy_watermark_edit_history">Гісторыя</string>
@@ -1745,8 +1745,8 @@
   <string name="search_settings">Налады камеры;Якасць;Якасць фота;Месцазнаходжанне фота;Месцазнаходжанне малюнка;Распазнанне асоб;Гук камеры;Фота;Камера;Фотаздымак;Відэа;Здымка</string>
   <string name="see_qrcode_detals">Падрабязней пра QR-код</string>
   <string name="send">Адправіць</string>
-  <string name="settings_camera_detect_card_description">Адлюстроўваць ярлык кожны раз, калі камера AI выяўляе ідэнтыфікацыйную карту</string>
-  <string name="settings_camera_detect_description_doc">Адлюстроўваць ярлык кожны раз, калі камера AI выяўляе дакумент або слайд прэзентацыі</string>
+  <string name="settings_camera_detect_card_description">Адлюстроўваць цэтлiк кожны раз, калі камера ШI выяўляе ідэнтыфікацыйную карту</string>
+  <string name="settings_camera_detect_description_doc">Адлюстроўваць цэтлiк кожны раз, калі камера ШI выяўляе дакумент або слайд прэзентацыі</string>
   <string name="settings_camera_near_range_description">Выдаляць размыццё пры здымцы плоскіх паверхняў вельмі буйным планам</string>
   <string name="settings_camera_near_range_title">Буйны план</string>
   <string name="share">Падзяліцца</string>
@@ -1929,7 +1929,7 @@
   <string name="video_tag_flag_title">Тэг</string>
   <string name="video_ultra_clear_tip">4K UHD</string>
   <string name="video_ultra_clear_tip_8k">ШІ 8K</string>
-  <string name="view_privacy_policy">Прагледзець Палітыку канфідэнцыяльнасці</string>
+  <string name="view_privacy_policy">Прагледзець Палітыку прыватнасцi</string>
   <string name="vv_duartion_hint">%1$s | Сегмент %2$d | %3$s сек.</string>
   <string name="vv_hint">Вы можаце здымаць відэаблогі толькі ў пейзажным рэжыме</string>
   <string name="vv_mode_menu_item_name">Відэаблог</string>

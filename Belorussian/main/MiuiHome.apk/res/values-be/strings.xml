@@ -692,7 +692,7 @@
   <string name="recommend_apps_notice">Сённяшнія рэкамендацыі</string>
   <string name="recommend_apps_notice_nodata">Сённяшнія рэкамендацыі (няма аб\'ектаў)</string>
   <string name="recommend_apps_switch_title">Сённяшнія рэкамендацыі</string>
-  <string name="recommend_apps_tips">Для гэтай функцыі неабходна злучэнне з інтэрнэтам. Каб адключыць гэту функцыю, націсніце на назву папкі.</string>
+  <string name="recommend_apps_tips">Для гэтай функцыі неабходна злучэнне з інтэрнэтам. Каб адключыць гэту функцыю, націсніце на назву тэчкі.</string>
   <string name="recommend_loading">Спампоўка</string>
   <string name="recommend_refresh">Абнавіць</string>
   <string name="recommend_xout">Не паказваць</string>

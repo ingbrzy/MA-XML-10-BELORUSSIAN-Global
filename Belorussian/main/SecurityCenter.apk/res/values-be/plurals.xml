@@ -912,9 +912,9 @@
     <item quantity="few">%d фота можа ўтрымліваць асабістую або канфідэнцыйную інфармацыю</item>
   </plurals>
   <plurals name="privacy_risk_result_protection_tip">
-    <item quantity="other">Выключаны %d функцый, якія абараняюць вашу канфідэнцыяльнасць</item>
-    <item quantity="one">Выключана %d функцыя, якая абараняе вашу канфідэнцыяльнасць</item>
-    <item quantity="few">Выключаны %d функцыі, якія абараняюць вашу канфідэнцыяльнасць</item>
+    <item quantity="other">Выключаны %d функцый, якія абараняюць вашу прыватнасць</item>
+    <item quantity="one">Выключана %d функцыя, якая абараняе вашу прыватнасць</item>
+    <item quantity="few">Выключаны %d функцыі, якія абараняюць вашу прыватнасць</item>
   </plurals>
   <plurals name="privacy_risk_sensitive_permissions_tip">
     <item quantity="other">Прадастаўлена %d канфідэнцыйных дазволаў</item>

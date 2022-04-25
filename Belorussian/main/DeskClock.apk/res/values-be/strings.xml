@@ -75,7 +75,7 @@
   <string name="bedtime_setting_complete">Спіце моцна!</string>
   <string name="bedtime_setting_complete_desc">Прытрымлівайцеся вашаму новаму графіку сну, каб адчуваць сябе ў лепшым выглядзе</string>
   <string name="bedtime_setting_no_disturbance">Пераключыцца ў рэжым\"Не турбаваць\", пакуль вы спіце?</string>
-  <string name="bedtime_setting_no_disturbance_desc">Мелодыі званкоў, гукі апавяшчэнняў і вібрацыя будуць адключаныя, пакуль вы не прачнецеся</string>
+  <string name="bedtime_setting_no_disturbance_desc">Мелодыі выклiкаў, гукі апавяшчэнняў і вібрацыя будуць адключаныя, пакуль вы не прачнецеся</string>
   <string name="bedtime_setting_repeat_type">Калі будзе прымяняцца ваша расклад сну?</string>
   <string name="bedtime_setting_repeat_type_desc">Выберыце дні, калі вы будзеце атрымліваць напамінкі</string>
   <string name="bedtime_settings">Налады сну</string>
@@ -178,9 +178,9 @@
   <string name="life_post_setting_FBE_remind">Праз абмежаванні сістэмы інфармацыя пра надвор\'е ў ранішняй зводцы пасля перазапуску можа паказвацца няправільна.</string>
   <string name="life_post_setting_open_background_subtitle">Паказваць фонавыя выявы для адпаведных сігналаў будзільніка</string>
   <string name="life_post_setting_open_background_title">Паказаць фонавую выяву</string>
-  <string name="life_post_setting_open_desc">Адключыць будзільнікі, якія паўтараюцца, з 4:00 да 14:00 для праслухоўвання зводкі надвор\'я</string>
-  <string name="life_post_setting_open_subtitle">Атрымліваць зводку надвор\'я пры адключэнні будзільніка паміж 04:00 і 14:00</string>
-  <string name="life_post_setting_open_summary">Дадаць інфармацыю пра надвор\'е ў першы сігнал будзільніка, які выключаецца з 4:00 да 14:00</string>
+  <string name="life_post_setting_open_desc">Адключыць паўтор будзільніка з 04:00 да 10:00 для праслухоўвання зводкі надвор\'я</string>
+  <string name="life_post_setting_open_subtitle">Атрымліваць зводку надвор\'я пры адключэнні будзільніка паміж 04:00 і 09:30</string>
+  <string name="life_post_setting_open_summary">Дадаць інфармацыю аб надвор\'і ў першы будзільнік, адключаны з 4:00 да 10:00</string>
   <string name="life_post_setting_open_title">Атрымліваць ранішнюю зводку</string>
   <string name="life_post_setting_wake_up_list_title">Гісторыя абуджэнняў</string>
   <string name="life_post_wake_up_acumu_day_title">Колькасць дзён</string>

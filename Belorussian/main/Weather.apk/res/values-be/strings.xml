@@ -88,12 +88,12 @@
   <string name="aqi_sub_desc">IЯП</string>
   <string name="aqi_title_pad">Якасць паветра: %1$s</string>
   <string name="aqi_top_pollution">Забруджвальныя агенты</string>
-  <string name="button_allow">Пацвердзіць</string>
+  <string name="button_allow">ОК</string>
   <string name="button_confirm">Згадзіцца</string>
-  <string name="button_exit">Не згадзіцца</string>
+  <string name="button_exit">Скасаваць</string>
   <string name="button_settings_cancel">Скасаваць</string>
   <string name="button_settings_confirm">Адклікаць</string>
-  <string name="button_settings_confirm_to_revoke_msg">Вы не зможаце выкарыстоўваць Надвор\'е пасля скасавання аўтарызацыі.</string>
+  <string name="button_settings_confirm_to_revoke_msg">Вы не зможаце выкарыстоўваць Надвор\'е пасля адклiкання аўтарызацыі.</string>
   <string name="card_item_ad_text">Рэклама</string>
   <string name="card_vote_item_vs">VS</string>
   <string name="change_alert">Праверце злучэнне і паўтарыце спробу</string>
@@ -257,7 +257,7 @@
   <string name="indices_title_wind_speed">Хуткасць ветру</string>
   <string name="information_settings_title">Інфармацыя пра надвор\'е</string>
   <string name="international_details_uv_index_title">Індэкс УФ</string>
-  <string name="location_provider_btn_text">Службы месцазнаходжання</string>
+  <string name="location_provider_btn_text">Уключыце вызначэнне месцазнаходжання</string>
   <string name="location_tag">Вызначыць</string>
   <string name="manager_city_option_add_home">Дадаць на галоўную</string>
   <string name="manager_city_option_view_on_home">Прагляд на галоўнай старонцы</string>
@@ -336,7 +336,7 @@
   <string name="month_september_short">Вер</string>
   <string name="month_september_shortest">Вер</string>
   <string name="more">Яшчэ</string>
-  <string name="more_details">Больш дэталяў</string>
+  <string name="more_details">Падрабязней</string>
   <string name="morning">Раніца</string>
   <string name="network_unavailable">Не атрымліваецца злучыцца з сеткай.</string>
   <string name="news_hour_minute_time_format">dd.MM.yyyy HH:mm</string>
@@ -388,8 +388,8 @@
   <string name="rain_sound_setting_title_text">Гукавыя эфекты</string>
   <string name="rating_dialog_later">Пазней</string>
   <string name="rating_dialog_rate_now">Ацаніць</string>
-  <string name="real_time_sunrise">Світанак %1$s</string>
-  <string name="real_time_sunset">Заход сонца %1$s</string>
+  <string name="real_time_sunrise">Усход %1$s</string>
+  <string name="real_time_sunset">Заход %1$s</string>
   <string name="realtime_aqi_title">Індэкс якасці паветра</string>
   <string name="realtime_humidity_title">Вільготнасць</string>
   <string name="realtime_temperature_no_data">Н/Д</string>
@@ -468,8 +468,8 @@
   <string name="sunday">Нядзеля</string>
   <string name="sunday_short">Ндз</string>
   <string name="sunday_shortest">Ндз</string>
-  <string name="sunrise">Узыход</string>
-  <string name="sunset">Захад</string>
+  <string name="sunrise">Усход</string>
+  <string name="sunset">Заход</string>
   <string name="temperature_unit_C">%1$s℃</string>
   <string name="temperature_unit_F">%1$s℉</string>
   <string name="the_anniversary_of_lifting_martial_law">Гадавіна адмены ваеннага становішча</string>

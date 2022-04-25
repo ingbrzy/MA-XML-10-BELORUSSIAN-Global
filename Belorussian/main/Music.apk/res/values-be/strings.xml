@@ -275,12 +275,12 @@
   <string name="download_complete_start_install">Усталяванне…</string>
   <string name="download_completed">Спампавана</string>
   <string name="download_confirm_button_text">Усталяваць</string>
-  <string name="download_confirm_text">Праграма \"Музыка\" будзе загружана і ўсталявана %s</string>
+  <string name="download_confirm_text">Праграма \"Музыка\" будзе спампована і ўсталявана %s</string>
   <string name="download_connect_wifi_dialog_message">Для спампоўкi гэтай песні патрабуецца злучэнне Wi-Fi. Падлучыцца?</string>
   <string name="download_connect_wifi_dialog_title">Падключыцца да Wi-Fi</string>
   <string name="download_dialog_fail">Не атрымліваецца спампаваць</string>
   <string name="download_dialog_success">Спампавана паспяхова</string>
-  <string name="download_done_btn">Загружана</string>
+  <string name="download_done_btn">Спампавана</string>
   <string name="download_error">Памылка</string>
   <string name="download_error_insufficient_space">Недастаткова месца</string>
   <string name="download_fail_to_fetch_info">Не атрымалася спампаваць, паспрабуйце пазней</string>
@@ -291,7 +291,7 @@
   <string name="download_manage_item_complete">СПАМПАВАНА</string>
   <string name="download_method">Спампоўка</string>
   <string name="download_no_application_title">Не ўдаецца адкрыць файл</string>
-  <string name="download_paused_in_power_save_mode">Уключаны рэжым энергазахавання. Загрузка прыпынена.</string>
+  <string name="download_paused_in_power_save_mode">Уключаны рэжым энергазахавання. Спампоўка прыпынена.</string>
   <string name="download_processing">Спампоўка…</string>
   <string name="download_quality">Якасць спампоўкі</string>
   <string name="download_quality_summary">Дадатковыя налады для спампоўкі песень</string>
@@ -312,7 +312,7 @@
   <string name="download_traffic_dialog_msg">Засталося %s трафіка. Выкарыстоўваць мабільны інтэрнэт для спампоўкі?</string>
   <string name="download_traffic_dialog_msg_beyond">Ваш ліміт трафіка перавышаны на %s. Выкарыстоўваць мабільны інтэрнэт для спампоўкі?</string>
   <string name="download_traffic_dialog_msg_serious">Засталося %s трафіка. Выкарыстоўваць мабільны інтэрнэт для спампоўкі?</string>
-  <string name="download_traffic_dialog_msg_without_data">Працягнуць загрузку па мабільным інтэрнэце?</string>
+  <string name="download_traffic_dialog_msg_without_data">Працягнуць спампоўку па мабільным інтэрнэце?</string>
   <string name="download_traffic_dialog_negative_button">Чаканне Wi-Fi</string>
   <string name="download_traffic_dialog_position_button">Спампоўка</string>
   <string name="download_traffic_dialog_position_button_serious">Працягнуць спампоўку</string>
@@ -589,7 +589,7 @@
   <string name="joox_recommend_playlist_title">Рэкамендаваныя плэйлісты</string>
   <string name="joox_search_result_more">Больш</string>
   <string name="joox_vip_check_to_pay">Набыць</string>
-  <string name="joox_vip_expired_hint">Тэрмін дзеяння вашай VIP-падпіскі мінуў. Музыка, загружаная з JOOX, будзе адлюстроўвацца толькі ў загрузках.</string>
+  <string name="joox_vip_expired_hint">Тэрмін дзеяння вашай VIP-падпіскі мінуў. Музыка, спампаваная з JOOX, будзе адлюстроўвацца толькі ў спампоўках.</string>
   <string name="July">Ліпень</string>
   <string name="June">Чэрвень</string>
   <string name="keep_queued_download">Трымаць</string>
@@ -747,7 +747,7 @@
   <string name="no_longer_prompt">Больш не паказваць</string>
   <string name="no_results_return">Нічога не знойдзена</string>
   <string name="no_scanned_songs">Няма трэкаў</string>
-  <string name="no_song_downloaded">Не атрымалася знайсці песні для загрузкі</string>
+  <string name="no_song_downloaded">Не атрымалася знайсці песні для спампоўкi</string>
   <string name="no_song_subtitle">Акунуцца ў гук</string>
   <string name="no_song_title">Mi Музыка</string>
   <string name="no_system_cropper_find">У сістэме няма інструмента для абрэзкі выявы</string>
@@ -763,7 +763,7 @@
   <string name="notification_download_complete">Спампоўка завершана</string>
   <string name="notification_download_failed">Не атрымалася спампаваць</string>
   <string name="notification_download_success_more">%1$d спампавана</string>
-  <string name="notification_need_wifi_for_size">Памер загрузкі патрабуе Wi-Fi.</string>
+  <string name="notification_need_wifi_for_size">Памер спампоўкi патрабуе Wi-Fi.</string>
   <string name="notification_play_summary">Пакаваць віджэт кіравання музыкай у панэлі апавяшчэнняў</string>
   <string name="notification_play_title">Віджэт у панэлі апавяшчэнняў</string>
   <string name="notification_recommend_summary">Пазнавайце аб новых музычных тэндэнцыях і рэкламных акцыях</string>
@@ -876,8 +876,8 @@
   <string name="pro_member">PRO падпісант</string>
   <string name="project_device">Mi Phone</string>
   <string name="prompt_grant_write_settings_permission">Дазволіць змяняць сістэмныя налады</string>
-  <string name="pulluprefreshrecyclerview_loading_error">Памылка загрузкі</string>
-  <string name="pulluprefreshrecyclerview_loading_finished">Загрузка завершана</string>
+  <string name="pulluprefreshrecyclerview_loading_error">Памылка спампоўкi</string>
+  <string name="pulluprefreshrecyclerview_loading_finished">Спампоўка завершана</string>
   <string name="pulluprefreshrecyclerview_loading_running">Спампоўка…</string>
   <string name="queue_is_empty">Чарга прайгравання пустая.</string>
   <string name="ready_to_play">Далей</string>
@@ -1070,7 +1070,7 @@
   <string name="talkback_clear">Ачысціць</string>
   <string name="talkback_cut">Рэдактар ​​мелодый</string>
   <string name="talkback_device">Прайграць на іншых прыладах</string>
-  <string name="talkback_download">Загрузіць</string>
+  <string name="talkback_download">Спампаваць</string>
   <string name="talkback_favorite">У абраныя</string>
   <string name="talkback_karaoke">Адкрыць Караоке</string>
   <string name="talkback_mode">Уключыць паўтор</string>
@@ -1187,8 +1187,8 @@
   <string name="upgrade_music">Абнаўленне праграмы</string>
   <string name="upgrade_music_message">Перазапусціце праграму для абнаўлення</string>
   <string name="upgrading_in_backstage">Абнаўленне ў фонавым рэжыме…</string>
-  <string name="upload_favorite_dialog_title">Загружайце свае песні ў воблака, каб мець доступ да іх на іншых сінхранізаваных прыладах. Вы можаце адключыць гэтую функцыю ў Наладах.</string>
-  <string name="upload_favorite_setting_summary">Загружайце песні ў воблака для доступу да іх на іншых прыладах</string>
+  <string name="upload_favorite_dialog_title">Спампоўвайце свае песні ў воблака, каб мець доступ да іх на іншых сінхранізаваных прыладах. Вы можаце адключыць гэтую функцыю ў Наладах.</string>
+  <string name="upload_favorite_setting_summary">Спампоўвайце песні ў воблака для доступу да іх на іншых прыладах</string>
   <string name="upload_favorite_setting_title">Сінхранізаваць песні</string>
   <string name="upload_playlist_to_hungama_negative_text">Не сінхранізаваць</string>
   <string name="upload_playlist_to_hungama_positive_text">Сінхранізаваць</string>
@@ -1236,7 +1236,7 @@
   <string name="dialog_stop_audio_in">Таймер прайгравання</string>
   <string name="music_quality">Якасць гуку</string>
   <string name="no_lyrics">Няма тэкста песні</string>
-  <string name="toast_hungama_vip_song">Гэты трэк даступны толькі для PRO падпісчыкаў. Аформіце падпіску, каб загрузіць гэты трэк.</string>
+  <string name="toast_hungama_vip_song">Гэты трэк даступны толькі для PRO падпісчыкаў. Аформіце падпіску, каб спампаваць гэты трэк.</string>
   <string name="add">Дадаць</string>
   <string name="columbus_ad_flag_text">Рэклама</string>
   <string name="columbus_skip_ad">Прапусціць</string>
@@ -1280,7 +1280,7 @@
   <string name="miuix_sbl_tracking_progress_labe_up_nodata">Пакуль што гэта ўсё</string>
   <string name="miuix_sbl_tracking_progress_labe_up_none">Пакуль што гэта ўсё</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Хвілінку…</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Не атрымалася загрузіць аб\'екты</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Не атрымалася спампаваць аб\'екты</string>
   <string name="send">Адправіць</string>
   <string name="autoplay_is_off">Аўтапрайграванне выключана</string>
   <string name="autoplay_is_on">Аўтапрайграванне ўключана</string>
@@ -1308,7 +1308,7 @@
   <string name="one_day_vip">%d-дзённы VIP</string>
   <string name="one_hour_vip">%d-гадзінны VIP</string>
   <string name="unlimited_skips">Неабмежаваная колькасць пропускаў</string>
-  <string name="user_experience_program_open">З-за абмежаванняў аўтарскага права вам неабходна зарэгістравацца ў Праграме паляпшэння якасці, каб мець магчымасць прайграваць загружаныя песні. Вы можаце зрабіць гэта ў раздзеле \"Налады\" &gt; \"Паролі і бяспека\" &gt; \"Прыватнасць\" &gt; \"Удзельнічаць у Праграме паляпшэння якасці\".</string>
+  <string name="user_experience_program_open">З-за абмежаванняў аўтарскага права вам неабходна зарэгістравацца ў Праграме паляпшэння якасці, каб мець магчымасць прайграваць спампованыя песні. Вы можаце зрабіць гэта ў раздзеле \"Налады\" &gt; \"Паролі і бяспека\" &gt; \"Прыватнасць\" &gt; \"Удзельнічаць у Праграме паляпшэння якасці\".</string>
   <string name="watch_video">Глядзець відэа</string>
   <string name="character_counter_overflowed_content_description">Ліміт сімвалаў перавышаны: %1$d з %2$d</string>
   <string name="clear_text_end_icon_content_description">Ачысціць тэкст</string>
@@ -1355,4 +1355,9 @@
   <string name="mtrl_picker_toggle_to_year_selection">Дакраніцеся, каб пераключыцца на выбар года</string>
   <string name="mtrl_timepicker_confirm">OK</string>
   <string name="title_recently_played">Нядаўна прайграныя</string>
+  <string name="downloading">Спампоўваецца...</string>
+  <string name="enroll_in">Удзельнічаць</string>
+  <string name="gps_prompt_context">Спампаваць праз мабільны інтэрнэт?</string>
+  <string name="gps_prompt_title">Парады</string>
+  <string name="party">Вечарынка</string>
 </resources>

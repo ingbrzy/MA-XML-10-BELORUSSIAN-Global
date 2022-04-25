@@ -181,7 +181,7 @@
   <string name="exo_track_bitrate">%1$.2f Мб/с</string>
   <string name="exo_track_mono">Мона</string>
   <string name="exo_track_resolution">%1$d × %2$d</string>
-  <string name="exo_track_selection_auto">Аўто</string>
+  <string name="exo_track_selection_auto">Аўта</string>
   <string name="exo_track_selection_none">Няма</string>
   <string name="exo_track_selection_title_audio">Аўдыё</string>
   <string name="exo_track_selection_title_text">Тэкст</string>
@@ -431,10 +431,10 @@
   <string name="shortcut_short_label_24_hour_forecast">Прагноз на 24 гадзіны</string>
   <string name="shortcut_short_label_recent_forecast">Паглядзець надвор\'е</string>
   <string name="size_byte">Б</string>
-  <string name="size_giga_byte">ГБ</string>
-  <string name="size_kilo_byte">КБ</string>
-  <string name="size_mega_byte">МБ</string>
-  <string name="size_peta_byte">ПБ</string>
+  <string name="size_giga_byte">Гб</string>
+  <string name="size_kilo_byte">Кб</string>
+  <string name="size_mega_byte">Мб</string>
+  <string name="size_peta_byte">Пб</string>
   <string name="size_suffix">%1$s%2$s</string>
   <string name="size_tera_byte">ТБ</string>
   <string name="some_where_on_earth">Дзесьці на Зямлі</string>
@@ -454,7 +454,7 @@
   <string name="suggestion_for_rain">Не забудзьцеся пра парасон</string>
   <string name="suggestion_for_sand_storm">Сёння водзіце асцярожна</string>
   <string name="suggestion_for_shower">Чакаецца невялікі дождж з ветрам</string>
-  <string name="suggestion_for_sleet">Заставайцеся ў цяпле і носіце з сабой парасон</string>
+  <string name="suggestion_for_sleet">Заставайцеся ў цяпле і насіце з сабой парасон</string>
   <string name="suggestion_for_snow_showers">Дадайце дадатковы слой адзення</string>
   <string name="suggestion_for_storm">Прагназуюцца моцныя вятры. Жадаем бяспечнай паездкі на працу і назад!</string>
   <string name="suggestion_for_strong_sandstorm">Паспрабуйце не выходзіць на вуліцу</string>
@@ -463,7 +463,7 @@
   <string name="suggestion_for_xiaoxue">Надзеньце цёплую вопратку</string>
   <string name="suggestion_for_yangsha">Хуткасць ветру можа негатыўна паўплываць на кіраванне</string>
   <string name="suggestion_for_yin">Чакаецца нізкая бачнасць</string>
-  <string name="suggestion_for_zhongxue">Заставайцеся ў цяпле і водзіце асцярожна</string>
+  <string name="suggestion_for_zhongxue">Заставайцеся ў цяпле і кіруйце асцярожна</string>
   <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
   <string name="sunday">Нядзеля</string>
   <string name="sunday_short">Ндз</string>
@@ -569,11 +569,13 @@
   <string name="wednesday_shortest">Сер</string>
   <string name="welcome_app_title">Рады вітаць у \"Надвор\'е\"!</string>
   <string name="wind_direction_no_data">Вецер</string>
-  <string name="wind_unit">%1$sкм/гадз.</string>
+  <string name="wind_unit">%1$s км/гадз.</string>
   <string name="xiaomi_weather_description_content">\"Надвор\'е\" - гэта сістэмная праграма. Пасля выдалення праграмы вы не зможаце праглядаць інфармацыю пра надвор\'е ці выкарыстоўваць адпаведныя віджэты.</string>
   <string name="xiaomi_weather_description_content_remove">\"Надвор\'е\" - гэта сістэмная праграма. Пасля выдалення цэтліка на працоўным стале вы не зможаце праглядаць інфармацыю пра надвор\'е ці выкарыстоўваць адпаведныя віджэты.</string>
   <string name="xiaomi_weather_description_title">Выдаліць \"Надвор\'е\"?</string>
   <string name="xiaomi_weather_description_title_remove">Выдаліць \"Надвор\'е\" з працоўнага стала?</string>
   <string name="yes_vote_ratio">За %1$s%%</string>
   <string name="yesterday">Учора</string>
+  <string name="card_item_ad_popular">Папулярнае</string>
+  <string name="card_item_download_recommend">Рэкамендуецца</string>
 </resources>

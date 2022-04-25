@@ -129,5 +129,9 @@
     <plurals name="session_time_remain">
         <item quantity="other">Засталося каля %s хв.</item>
         <item quantity="one">Засталося каля %s хв.</item>
-  </plurals>
+    </plurals>
+    <plurals name="backup_action_long_time_not_backup_content">
+        <item quantity="other">Здаецца, вы не стваралі рэзервовыя копіі элементаў на працягу %s тыдняў. Стварыце рэзервовыя копіі, каб не страціць штосьці важнае.</item>
+        <item quantity="one">Здаецца, вы не стваралі рэзервовыя копіі элементаў на працягу %s тыдня. Стварыце рэзервовыя копіі, каб не страціць нічога важнага.</item>
+    </plurals>
 </resources>

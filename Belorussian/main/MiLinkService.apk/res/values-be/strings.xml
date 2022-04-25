@@ -455,7 +455,7 @@
   <string name="debug_mode_merge_support">Ці падтрымліваць аб\'яднанне праграм</string>
   <string name="debug_mode_milink_version">Версія праграмы</string>
   <string name="dialog_scanning_precondition_new_china">Уключыце Wi-Fi, Bluetooth і службы вызначэння месцазнаходжання, каб выкарыстоўваць трансляцыю. Уключыць?</string>
-  <string name="dialog_scanning_precondition_new_global">Уключыце Wi-Fi, Bluetooth і службы вызначэння месцазнаходжання, каб выкарыстоўваць трансляцыю. Уключыць?</string>
+  <string name="dialog_scanning_precondition_new_global">Уключыце Wi-Fi і службы вызначэння месцазнаходжання, каб выкарыстоўваць трансляцыю. Уключыць?</string>
   <string name="audio_record_des">Для перадачы гуку з прылады на знешнія маніторы</string>
   <string name="dialog_location_permission_message">Гэтай праграме патрабуецца доступ да вашага месцазнаходжання, каб мець магчымасць знаходзіць знешнія маніторы паблізу. Абярыце \"Дазволіць на ўвесь час\", даючы гэты дазвол, каб пазбегнуць магчымых памылак.</string>
   <string name="dialog_location_permission_title">Патрабуюцца дазволы</string>

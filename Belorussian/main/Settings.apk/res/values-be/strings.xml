@@ -10463,4 +10463,5 @@
   <string name="keep_screen_on_after_folding_on_summary">Не выключаць знешні экран пасля складання, для працягу працы з бягучымі задачамі</string>
   <string name="keep_screen_on_after_folding_text">Не выключаць знешні экран пасля складання, для працягу працы з бягучымі задачамі</string>
   <string name="keep_screen_on_after_folding_title">Не выключаць экран</string>
+  <string name="handy_mode_hint">Рэжым кіравання адной рукой даступны толькі на вонкавым экране</string>
 </resources>

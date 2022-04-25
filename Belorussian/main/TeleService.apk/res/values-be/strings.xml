@@ -2766,4 +2766,22 @@
   <string name="zen_mode_forever">Пакуль не выключыце</string>
   <string name="zen_mode_settings_summary_off">Ніколі</string>
   <string name="zen_mode_settings_turn_on_dialog_title">Уключэнне рэжыму \"Не турбаваць\"</string>
+  <string name="disable_esim_dialog_summary">"SIM %s будзе актываваная, калі вы дэактывуеце eSIM зараз.
+Усё роўна дэактываваць eSIM?"</string>
+  <string name="disable_esim_dialog_title">Дэактывацыя eSIM</string>
+  <string name="disable_esim_error_toast_message">Не ўдалося дэактываваць eSIM</string>
+  <string name="disable_esim_progress_activating_message">Дэактывацыя eSIM…</string>
+  <string name="enable_esim_dialog_summary">"SIM %s будзе дэактываваная, калі вы зараз актывуеце eSIM.
+Усё роўна актываваць eSIM?"</string>
+  <string name="enable_esim_dialog_title">Актывацыя eSIM</string>
+  <string name="enable_esim_error_toast_message">Немагчыма актываваць eSIM</string>
+  <string name="enable_esim_progress_activating_message">Актывацыя eSIM…</string>
+  <string name="enable_esim_title">Выкарыстоўваць eSIM</string>
+  <string name="enter_esim_manager_title">Кiраванне eSIM</string>
+  <string name="esim_inactive_notification_message_global">SIM-карта не знойдзена. Націсніце, каб актываваць eSIM</string>
+  <string name="esim_inactive_notification_title_global">SIM-карты і мабільныя сеткі</string>
+  <string name="esim_setting_title">Налады eSIM</string>
+  <string name="no_active_esim_text">Неактыўная eSIM</string>
+  <string name="set_esim_toast_phone_in_call">Немагчыма выканаць гэта дзеянне падчас выкліку</string>
+  <string name="switch_cancel_btn_text">Адмена</string>
 </resources>

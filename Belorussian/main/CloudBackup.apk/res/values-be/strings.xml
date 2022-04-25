@@ -567,4 +567,14 @@
   <string name="system_error_info">Сістэма занятая. Пачакайце хвіліну ці дзве і паспрабуйце яшчэ раз.</string>
   <string name="temporary_not_available">часова недаступны</string>
   <string name="unknown_error_info">Невядомая памылка</string>
+  <string name="backup_action_long_time_not_backup_action">Рэзервовае капіяванне</string>
+  <string name="backup_action_long_time_not_backup_title">Няма апошніх рэзервовых копій</string>
+  <string name="dialog_content_cancel_backup">Ужо загружаныя дадзеныя будуць страчаныя, калі вы адменіце рэзервовае капіяванне. Адмяніць?</string>
+  <string name="dialog_content_cancel_restore">Ужо адноўленыя дадзеныя будуць захаваны, калі вы спыніце аднаўленне. Спыніць?</string>
+  <string name="dialog_negative_btn_cancel_backup">Адмяніць</string>
+  <string name="dialog_negative_btn_cancel_restore">Спыніць</string>
+  <string name="dialog_positive_btn_cancel_backup">Не адмяняць</string>
+  <string name="dialog_positive_btn_cancel_restore">Не спыняць</string>
+  <string name="dialog_title_cancel_backup">Адмяніць рэзервовае капіяванне</string>
+  <string name="dialog_title_cancel_restore">Спыніць аднаўленне</string>
 </resources>

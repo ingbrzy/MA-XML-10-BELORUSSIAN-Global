@@ -779,8 +779,8 @@
   <string name="backup_summary_state_off">Выкл.</string>
   <string name="backup_summary_state_on">Укл.</string>
   <string name="badge_title">Дазволіць лічыльнік на абразку праграмы</string>
-  <string name="band_5G">" (дыяпазон 5 Ггц)"</string>
-  <string name="band_24G">" (дыяпазон 2.4 Ггц)"</string>
+  <string name="band_5G">" (дыяпазон 5 ГГц)"</string>
+  <string name="band_24G">" (дыяпазон 2.4 ГГц)"</string>
   <string name="baseband_version">Версія модуля сувязі</string>
   <string name="batch_delete_saved_network">Выдаліць абраныя сеткі: %s?</string>
   <string name="batch_delete_saved_networks">Выдаліць усе абраныя сеткі</string>
@@ -2448,8 +2448,8 @@
   <string name="dual_wifi_auto_disable">Спыніць аўтаматычнае паскарэнне</string>
   <string name="dual_wifi_auto_disable_summary">Адлучыцца ад дапаможнай сеткі Wi-Fi для эканоміі энергіі, калі экран выключаны</string>
   <string name="dual_wifi_avaliable_slave_wifi">Даступныя дапаможныя сеткі</string>
-  <string name="dual_wifi_avaliable_slave_wifi_5G">Даступныя дапаможныя сеткі (дыяпазон 5 Ггц)</string>
-  <string name="dual_wifi_avaliable_slave_wifi_24G">Даступныя дапаможныя сеткі (дыяпазон 2.4 Ггц)</string>
+  <string name="dual_wifi_avaliable_slave_wifi_5G">Даступныя дапаможныя сеткі (дыяпазон 5 ГГц)</string>
+  <string name="dual_wifi_avaliable_slave_wifi_24G">Даступныя дапаможныя сеткі (дыяпазон 2.4 ГГц)</string>
   <string name="dual_wifi_enabler_summary">Паскарэнне Wi-Fi шляхам аб\'яднання сетак</string>
   <string name="dual_wifi_off">Выкл.</string>
   <string name="dual_wifi_on">Укл.</string>
@@ -2994,7 +2994,7 @@
   <string name="gesture_wakeup_title">Падвойны націск</string>
   <string name="getConfiguredNetworks">Канфігурацыя сетак</string>
   <string name="getConnectionInfo">Інфармацыя пра падключэнне</string>
-  <string name="giga_hertz">" Ггц"</string>
+  <string name="giga_hertz">" ГГц"</string>
   <string name="gigabyteShort">" Гб"</string>
   <string name="global_change_warning">Налады будуць зменены для ўсіх карыстальнікаў прылады.</string>
   <string name="global_locale_change_title">Змяніць мову</string>
@@ -7709,7 +7709,7 @@
   <string name="wifi_avoid_poor_network_detection_summary">Выкарыстоўваць толькі сеткі з добрым падключ. да інтэрнэту</string>
   <string name="wifi_band_5ghz">5 ГГц</string>
   <string name="wifi_band_24ghz">2,4 ГГц</string>
-  <string name="wifi_band_60ghz">60 Ггц</string>
+  <string name="wifi_band_60ghz">60 ГГц</string>
   <string name="wifi_calling_mode_cellular_preferred_summary">Калі мабільная сетка недаступная, выкарыстоўвайце Wi‑Fi</string>
   <string name="wifi_calling_mode_dialog_title">Рэжым Wi-Fi-тэлефаніі</string>
   <string name="wifi_calling_mode_ims_preferred_summary">Калі LTE і Wi-Fi недаступныя, выкарыстоўваць 2G/3G</string>
@@ -8144,7 +8144,7 @@
   <string name="wifi_unchanged">(не зменена)</string>
   <string name="wifi_unmetered_label">Безлімітная</string>
   <string name="wifi_unsaved_network_linking">SSID мост - Аўтаматычнае падлучэнне</string>
-  <string name="wifi_unsaved_network_linking_summary">Уключыць аўтаматычныя спробы падлучэння да новага SSID WPA/WPA2-PSK 5 Ггц з бягучымі падлучанымі ўліковымі дадзенымі SSID WPA/WPA2-PSK 2 Ггц для SSID і частковага супадзення BSSID</string>
+  <string name="wifi_unsaved_network_linking_summary">Уключыць аўтаматычныя спробы падлучэння да новага SSID WPA/WPA2-PSK 5 ГГц з бягучымі падлучанымі ўліковымі дадзенымі SSID WPA/WPA2-PSK 2 ГГц для SSID і частковага супадзення BSSID</string>
   <string name="wifi_unspecified">Калі ласка, абярыце</string>
   <string name="wifi_update">Абнавіць</string>
   <string name="wifi_use_system_certs">Выкарыстоўваць сістэмныя сертыфікаты</string>
@@ -9274,7 +9274,7 @@
   <string name="miuix_indexer_collect">Калекцыі</string>
   <string name="short_time">10 хв.</string>
   <string name="update_sourceinfo_btn_txt">Абнавіць інфармацыю аб крыніцы</string>
-  <string name="wifi_band_6ghz">6 Ггц</string>
+  <string name="wifi_band_6ghz">6 ГГц</string>
   <string name="brightness_auto_summary">Адрэгулюйце яркасць у адпаведнасці з навакольным асвятленнем для эканоміі зарада батарэі</string>
   <string name="high_brightness_hint_summary">Пры моцным вонкавым асвятленні ў верхняй частцы экрана з\'явіцца абразок сонца</string>
   <string name="screen_brightness">Яркасць экрана</string>
@@ -10408,14 +10408,14 @@
   <string name="device_description_camera">Камера</string>
   <string name="device_description_cpu">Працэсар</string>
   <string name="device_description_ram">АЗП</string>
-  <string name="device_description_resolution">Вырашэнне</string>
+  <string name="device_description_resolution">Разрозненне</string>
   <string name="device_description_screen">Экран</string>
   <string name="extended_power_menu">Пашыранае меню сiлкавання</string>
   <string name="keyboard_back_light">Падсветка клавіятуры</string>
   <string name="lockscreen_sidepanel_shortcuts_summary">Налады цэтлікаў праграм на бакавой панэлі экрана блакавання</string>
   <string name="lockscreen_sidepanel_shortcuts_title">Цэтлiкі бакавой панэлі</string>
   <string name="model_number_pad">Мадэль прылады</string>
-  <string name="my_device_disclaimer">Нататка: інфармацыя аб абсталяванні, уключаючы працэсар, ёмістасць акумулятара, камеру, памер і вырашэнне экрана, прадстаўлена лабараторыямі, дызайнерамі і пастаўшчыкамі Xiaomi.</string>
+  <string name="my_device_disclaimer">Нататка: інфармацыя аб абсталяванні, уключаючы працэсар, ёмістасць акумулятара, камеру, памер і разрозненне экрана, прадстаўлена лабараторыямі, дызайнерамі і пастаўшчыкамі Xiaomi.</string>
   <string name="pad_add_fingerprint_finish_message">Націсніце кнопку \"Гатова\", каб адкрыць дадатковыя налады.</string>
   <string name="pad_add_fingerprint_message">Пакладзіце палец на кнопку сiлкавання. Палец павінен быць чыстым.</string>
   <string name="power_menu_under_keyguard_summary">Доступ да меню сiлкавання на экране блакавання</string>
@@ -10464,4 +10464,5 @@
   <string name="keep_screen_on_after_folding_text">Не выключаць знешні экран пасля складання, для працягу працы з бягучымі задачамі</string>
   <string name="keep_screen_on_after_folding_title">Не выключаць экран</string>
   <string name="handy_mode_hint">Рэжым кіравання адной рукой даступны толькі на вонкавым экране</string>
+  <string name="wifi_ap_choose">%1$s ГГц</string>
 </resources>

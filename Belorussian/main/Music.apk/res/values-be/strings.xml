@@ -1355,9 +1355,9 @@
   <string name="mtrl_picker_toggle_to_year_selection">Дакраніцеся, каб пераключыцца на выбар года</string>
   <string name="mtrl_timepicker_confirm">OK</string>
   <string name="title_recently_played">Нядаўна прайграныя</string>
-  <string name="downloading">Спампоўваецца...</string>
-  <string name="enroll_in">Удзельнічаць</string>
-  <string name="gps_prompt_context">Спампаваць праз мабільны інтэрнэт?</string>
-  <string name="gps_prompt_title">Парады</string>
+  <string name="downloading">Спампоўка…</string>
+  <string name="enroll_in">Рэгістрацыя</string>
+  <string name="gps_prompt_context">Выкарыстоўваць для спампоўкі мабільны інтэрнэт?</string>
+  <string name="gps_prompt_title">Увага</string>
   <string name="party">Вечарынка</string>
 </resources>

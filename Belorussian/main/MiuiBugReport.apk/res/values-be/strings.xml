@@ -235,7 +235,7 @@
   <string name="feedback_package_log_failed">Не атрымалася сціснуць логі</string>
   <string name="feedback_remind_login_btn">Увайсці</string>
   <string name="feedback_report_remind_login_desc">Увайдзіце ў свой Mi Акаўнт, каб нашы інжынеры маглі звязацца з Вамі.</string>
-  <string name="feedback_report_remind_login_desc2">Вы можаце прагледзець прасоўванне сваёй справаздачы ў раздзеле \"Мае справаздачы\".</string>
+  <string name="feedback_report_remind_login_desc2">Вы можаце прагледзець ход выканання сваёй справаздачы ў раздзеле \"Мой водгук\".</string>
   <string name="feedback_reproductivity_everytime">Кожны раз</string>
   <string name="feedback_reproductivity_occasionally">Рэдка</string>
   <string name="feedback_reproductivity_often">Часта</string>
@@ -281,7 +281,7 @@
   <string name="feedback_submit_hint">Паведамляйце аб праблемах кожны раз, калі вы сутыкаецеся з імі, каб дапамагчы нам вырашыць іх хутчэй.</string>
   <string name="feedback_submit_hint_gone">Паведамленне закрыта</string>
   <string name="feedback_submit_hint1">Мы паведамім вам пра разгляд вашай справаздачы</string>
-  <string name="feedback_submit_hint2">Перайдзіце ў раздзел \"Мае справаздачы\", каб праглядзець падрабязнасці</string>
+  <string name="feedback_submit_hint2">Перайдзіце ў раздзел \"Мой водгук\", каб праглядзець падрабязнасці</string>
   <string name="feedback_submit_succ">Адпраўлена</string>
   <string name="feedback_submit_succ_button">Гатова</string>
   <string name="feedback_submitting">Адпраўка</string>
@@ -841,4 +841,8 @@
   <string name="xiaomi_update_sdk_update_dialog_cancel">Пазней</string>
   <string name="xiaomi_update_sdk_update_dialog_ok">Абнавіць</string>
   <string name="yesterday">Учора</string>
+  <string name="catch_full_log_dialog_content_pad">Гэта можа паўплываць на агульную прадукцыйнасць вашай прылады. Калі вы не можаце прайграць праблему, аб якой хочаце паведаміць, вярніцеся да часопісаў і націсніце \"Адмена\".</string>
+  <string name="catch_full_log_privacy_content_audio_pad">Вы ствараеце часопісы і захоўваеце іх на сваёй прыладзе. Часопісы могуць змяшчаць інфармацыю аб аўдыё на вашай прыладзе, у тым ліку гісторыю прайгравання і гісторыю запісу. Будзьце асцярожныя і не раскрывайце гэтыя часопісы іншым людзям. Націскаючы \"Згодны\" ніжэй, вы згаджаецеся з тым, што мы будзем збіраць вышэйзгаданыя дадзеныя пры стварэнні часопісаў, а затым загружаць часопісы на нашы серверы, каб выяўляць і вырашаць праблемы, аб якіх вы паведамляеце.</string>
+  <string name="catch_full_log_privacy_content_sensor_pad">Вы ствараеце часопісы і захоўваеце іх на сваёй прыладзе. Часопісы могуць утрымоўваць інфармацыю, сабраную датчыкамі вашага прылады (уключаючы датчык знешняй асветленасці, барометр, крокамер, магнітаметр і т. д.). Будзьце асцярожныя і не раскрывайце гэтыя часопісы іншым людзям. Націскаючы \"Згодны\" ніжэй, вы згаджаецеся з тым, што мы будзем збіраць вышэйзгаданыя дадзеныя пры стварэнні часопісаў, а затым загружаць часопісы на нашы серверы, каб знайсці і вырашыць праблемы, аб якіх вы паведамляеце.</string>
+  <string name="kr_authorization_phone_desc_pad">Для доступу да мадэлі прылады, IMEI і ідэнтыфікатара прылады для выяўлення і рашэння праблем</string>
 </resources>

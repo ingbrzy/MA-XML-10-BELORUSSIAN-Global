@@ -93,7 +93,7 @@
   <string name="announce_for_app_move_in_folder">Перамешчана ў пазіцыю %1$d у тэчцы</string>
   <string name="announce_for_checked">%1$s, праверана</string>
   <string name="announce_for_choose_default_screen">Усталяваць экран %1$d як пачатковы</string>
-  <string name="announce_for_close_default_preview">Налады выбару пачатковага экрана зачыненыя</string>
+  <string name="announce_for_close_default_preview">Налада выбару пачатковага экрана зачыненыя</string>
   <string name="announce_for_close_folder">Тэчка закрыта</string>
   <string name="announce_for_close_launcher_menu">Меню зачынена</string>
   <string name="announce_for_create_folder_with_app">Створана тэчка з %1$s</string>
@@ -114,7 +114,7 @@
   <string name="announce_for_edit_mode_disable">Вы выйшлі з рэжыму рэдагавання</string>
   <string name="announce_for_move">Перамясціць у радок %1$d слупок %2$d</string>
   <string name="announce_for_move_hotseat">Перамясціць у док-пазіцыю %1$d</string>
-  <string name="announce_for_open_default_preview">Адчынены налады выбару пачатковага экрана</string>
+  <string name="announce_for_open_default_preview">Адчынена налады выбару пачатковага экрана</string>
   <string name="announce_for_open_folder">Адкрыта тэчка %1$s</string>
   <string name="announce_for_open_launcher_menu">Меню адчынена</string>
   <string name="announce_for_search_bar">Панэль пошуку</string>
@@ -145,7 +145,7 @@
   <string name="application_name">Працоўны стол MIUI</string>
   <string name="apply">Усталяваць</string>
   <string name="apply_action">Усталяваць</string>
-  <string name="apply_as_lock_screen">Усталяваць на экран блакіроўкі</string>
+  <string name="apply_as_lock_screen">Усталяваць на экран блакавання</string>
   <string name="apply_as_wallpaper">Усталяваць на працоўны стол</string>
   <string name="apply_both">Усталяваць на абодва</string>
   <string name="apply_text">УЖЫЦЬ</string>
@@ -168,7 +168,7 @@
   <string name="buffering">Буферызацыя…</string>
   <string name="cancel_action">Скасаваць</string>
   <string name="cancel_btn_label">Скасаваць</string>
-  <string name="cant_edit_lock_screen">Немагчыма адрэдагаваць стыль экрана блакіроўкі</string>
+  <string name="cant_edit_lock_screen">Немагчыма адрэдагаваць стыль экрана блакавання</string>
   <string name="cant_remove_folder">Немагчыма выдаліць тэчку</string>
   <string name="cant_remove_retained_app">Не атрымалася выдаліць гэту праграму</string>
   <string name="cant_remove_system_app">Немагчыма выдаліць сістэмную праграму</string>
@@ -243,7 +243,7 @@
   <string name="dialog_work_profile_content_2">Працоуныя праграмы і дадзеныя бачныя вашаму ІТ-адміністратару</string>
   <string name="dialog_work_profile_title">Працоўны профіль</string>
   <string name="disable_wallpaper_scroll">Адключыць пракрутку шпалер</string>
-  <string name="double_tap_to_lock_title">Блакаванне экрана падвойным дотыкам</string>
+  <string name="double_tap_to_lock_title">Блакаванне экрана падвойным націскам</string>
   <string name="download_action">Спампаваць</string>
   <string name="drawer_background">Фон</string>
   <string name="drawer_background_dark">Цёмныя</string>
@@ -432,11 +432,11 @@
   <string name="loading_wallpaper">Хвілінку…</string>
   <string name="local_apps">Усталяваныя праграмы</string>
   <string name="local_wallpaper">Спампавана</string>
-  <string name="lock_screen">Экран блакіроўкі</string>
+  <string name="lock_screen">Экран блакавання</string>
   <string name="lock_screen_cells_title">Захаваць ад змен</string>
-  <string name="lock_screen_failed_message">Немагчыма ўсталяваць шпалеры на экран блакіроўкі</string>
-  <string name="lock_screen_success_message">Зменена для экрана блакіроўкі</string>
-  <string name="lock_screen_wallpaper">Шпалеры экрана блакіроўкі</string>
+  <string name="lock_screen_failed_message">Немагчыма ўсталяваць шпалеры на экран блакавання</string>
+  <string name="lock_screen_success_message">Зменена для экрана блакавання</string>
+  <string name="lock_screen_wallpaper">Шпалеры экрана блакавання</string>
   <string name="maml_download_dialog_cancel_text">Чаканне Wi-Fi</string>
   <string name="maml_download_dialog_cancel_text_china">Чаканне Wi-Fi</string>
   <string name="maml_download_dialog_checkbox_text">Не паказваць ізноў %d хв.</string>
@@ -853,7 +853,7 @@
   <string name="v7_preference_off">ВЫКЛ.</string>
   <string name="v7_preference_on">УКЛ.</string>
   <string name="wallpaper">Шпалеры</string>
-  <string name="wallpaper_auto_change_title">Экран блакіроўкі</string>
+  <string name="wallpaper_auto_change_title">Экран блакавання</string>
   <string name="wallpaper_failed_message">Не атрымалася ўсталяваць шпалеры</string>
   <string name="wallpaper_scaling_message">Маштабаванне да фіксаванага памеру</string>
   <string name="wallpaper_scroll_type_tips">Пракрутка шпалер</string>
@@ -884,4 +884,5 @@
   <string name="navigation_position_right">Справа</string>
   <string name="navigation_position_summary">Карыстальніцкае становішча кнопак навігацыі можна ўжываць толькі да працоўнага стала</string>
   <string name="navigation_position_title">Палажэнне кнопак навігацыі</string>
+  <string name="animation_rate_title">Хуткасць анімацыі</string>
 </resources>

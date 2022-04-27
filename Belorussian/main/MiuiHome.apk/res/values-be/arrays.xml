@@ -81,4 +81,9 @@
          <item>Цэнтр віджэтаў</item>
          <item>Стужка вiджэтаў</item>
     </string-array>
+    <string-array name="animation_rate_entries">
+         <item>Вытанчаная</item>
+         <item>Збалансаваная</item>
+         <item>Мінімальная</item>
+    </string-array>
 </resources>

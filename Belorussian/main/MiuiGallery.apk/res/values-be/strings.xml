@@ -878,7 +878,7 @@
   <string name="functions_are_being_developed">Гэтая функцыя будзе даступная ў бліжэйшы час. Сачыце за абнаўленнямі!</string>
   <string name="gallery_setting">Налады</string>
   <string name="gallery_sync_disable_toast">Сінхранізацыя галерэі не ўключаная</string>
-  <string name="generate_story_summary">Зрабіце дастаткова фота, падключыце зарадную прыладу і выключыце экран для стварэння гісторый</string>
+  <string name="generate_story_summary">Зрабіце дастаткова фота, падключыце зарадную прыладу і выключыце экран для стварэння гісторый.</string>
   <string name="generate_story_title">Гісторыі</string>
   <string name="get_album_info_in_process">Спампоўка інфармацыі воблачнага альбома...</string>
   <string name="gif_tip">GIF</string>
@@ -920,7 +920,7 @@
   <string name="image_invalid_path">Недапушчальны шлях</string>
   <string name="image_not_found">Не атрымалася знайсці выяву</string>
   <string name="image_quota_fulfiled">Не ўдаецца дадаць выяву. Колькасць выяў у альбоме дасягнула мяжы.</string>
-  <string name="image_selection_summary">MIUI будзе аналізаваць падобныя фота і адзначаць для вас лепшыя здымкі. Адключыце гэтую функцыю для выдалення метак з фота</string>
+  <string name="image_selection_summary">MIUI будзе аналізаваць падобныя фота і адзначаць для вас лепшыя здымкі. Адключыце гэтую функцыю для выдалення метак з фота.</string>
   <string name="image_selection_title">Лепшыя фота</string>
   <string name="image_with_time">Фота зроблена %s</string>
   <string name="image_with_time_and_location">Фота зроблена %1$s. Месца: %2$s.</string>
@@ -1401,7 +1401,7 @@
   <string name="photo_vlog_module_loading">Спампоўка відэарэдактара…</string>
   <string name="photodetail_failed_already_exist">Гэты файл ужо існуе</string>
   <string name="photodetail_rename_failed">Не атрымалася перайменаваць</string>
-  <string name="photodetail_rename_invalid">Імёны файлаў не могуць утрымліваць гэтыя сімвалы: /\\:*?&lt;>|.</string>
+  <string name="photodetail_rename_invalid">Імёны файлаў не могуць утрымліваць гэтыя сімвалы: /\\:*?&lt;>|.\"</string>
   <string name="photodetail_rename_success">Паспяхова перайменавана</string>
   <string name="photodetail_rename_title">Перайменаваць</string>
   <string name="photodetail_rename_too_long">Вы ўвялі занадта доўгае імя файла</string>
@@ -3141,4 +3141,10 @@
   <string name="solar_new_year_eve_title_two">Апошнія моманты %1$s</string>
   <string name="solar_new_year_title">Новы год</string>
   <string name="solar_valentines_day_title">Дзень святога Валянціна</string>
+  <string name="create_album_failed_because_dup">Гэты альбом ужо існуе. Дадаць элементы ў гэты альбом?</string>
+  <string name="grant_permission_manage_storage">Патрабуюцца дазволы</string>
+  <string name="grant_permission_manage_storage_unlock">Разблакуйце сваю прыладу і дазвольце гэтай праграме доступ да ўсіх файлаў, каб мець магчымасць праглядваць элементы.</string>
+  <string name="lenovo_phone">Lenovo</string>
+  <string name="cloud_full_space_tip_title_completely">Воблачнае сховішча запоўненае</string>
+  <string name="operation_upgrade_gallery">Абнаўленне</string>
 </resources>

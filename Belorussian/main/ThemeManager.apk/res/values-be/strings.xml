@@ -1501,7 +1501,7 @@
   <string name="wallpaper_set_as_desktop_large">Усталяваць на ўнутраны экран</string>
   <string name="wallpaper_set_as_desktop_small">Усталяваць на знешні экран</string>
   <string name="wallpaper_set_as_lockscreen_large">Усталяваць на ўнутраны экран блакавання</string>
-  <string name="wallpaper_set_as_lockscreen_small">Усталяваць на знешні экран блакіроўкі</string>
+  <string name="wallpaper_set_as_lockscreen_small">Усталяваць на знешні экран блакавання</string>
   <string name="fold_close_failed">Немагчыма выключыць</string>
   <string name="fold_close_incall_dialog_content">Відэа профілю больш не падтрымліваюцца. Пасля гэтага вы не зможаце зноў уключыць гэтую функцыю. Усё роўна выключыць?</string>
   <string name="fold_close_incall_dialog_title">Адключыць відэа профілю</string>

@@ -416,4 +416,5 @@
   <string name="garbage_count">Ёсць %1$s старых экзэмпляраў</string>
   <string name="memory_leak">Уцечка памяці</string>
   <string name="temporary_style_5">Паказваць на працягу 5 секунд</string>
+  <string name="theme_manager_other">Яшчэ элементы</string>
 </resources>

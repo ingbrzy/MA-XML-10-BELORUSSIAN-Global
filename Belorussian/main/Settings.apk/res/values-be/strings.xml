@@ -2648,7 +2648,7 @@
   <string name="extreme_threats_summary">Атрымліваць абвесткі аб надзвыч. пагрозах для жыцця і маёмасці</string>
   <string name="extreme_threats_title">Надзвычайныя пагрозы</string>
   <string name="face_add_max">Можна дадаць да %d твараў</string>
-  <string name="face_data_apply_for_category_title">Разблакіроўка з выкарыстаннем дадзеных твару</string>
+  <string name="face_data_apply_for_category_title">Разблакаванне з выкарыстаннем дадзеных твару</string>
   <string name="face_data_apply_for_keyguard_title">Экран блакавання</string>
   <string name="face_data_input_camera_fail">Не атрымалася загрузіць камеру</string>
   <string name="face_data_input_camera_ok">Загрузка камеры…</string>
@@ -2664,20 +2664,20 @@
   <string name="face_data_manage_delete_msg">Выдаліць дадзеныя твару</string>
   <string name="face_data_manage_delete_sure">Вы не зможаце разблакаваць прыладу, выкарыстоўваючы вашыя дадзеныя твару пасля выдалення.</string>
   <string name="face_data_manage_unlock_liftcamera_msg">Пасля таго, як экран ўключыцца, правядзіце пальцам уверх, каб разблакаваць прыладу, выкарыстоўваючы дадзеныя твару.</string>
-  <string name="face_data_manage_unlock_msg">Выкарыстоўваць разблакоўку па твару</string>
-  <string name="face_data_manage_unlock_slide_msg">Замяніць дзеянні слайдера разблакоўкай па твару</string>
+  <string name="face_data_manage_unlock_msg">Выкарыстоўваць разблакаванне па твару</string>
+  <string name="face_data_manage_unlock_slide_msg">Замяніць дзеянні слайдера разблакаваннем па твару</string>
   <string name="face_data_manage_unlock_title">Разблакоўка па твару</string>
   <string name="face_data_siggesstion_next">Далей</string>
   <string name="face_data_siggesstion_next_time">Далей (%d сек.)</string>
-  <string name="face_data_suggesstion_first">Разблакіроўка па твару менш бяспечная, чым PIN-код, пароль або шаблон. Ваша прылада можа быць разблакаваная вашай фатаграфіяй, а таксама  людзьмі з падобнай знешнасцю.</string>
+  <string name="face_data_suggesstion_first">Разблакаванне па твару менш бяспечная, чым PIN-код, пароль або шаблон. Ваша прылада можа быць разблакаваная вашай фатаграфіяй, а таксама  людзьмі з падобнай знешнасцю.</string>
   <string name="face_data_suggesstion_second">Пераканайцеся, што ўсе часткі вашага твару добра бачныя. Не насiце ніякіх аксесуараў, якія могуць закрываць твар. Ваш твар павінен быць добра асветлены.</string>
   <string name="face_intro_error_max">Вы дадалі максімальную колькасць твараў</string>
   <string name="face_intro_error_unknown">Не ўдалося дадаць больш твараў</string>
   <string name="face_lock_screen_setup_skip_dialog_text">Абараніце тэлефон з дапамогай опцыі блакіроўкі экрана, каб ніхто не змог ім карыстацца ў выпадку прапажы ці крадзяжу. Опцыя блакіроўкі экрана таксама спатрэбіцца вам, каб наладзіць распазнаванне твару. Націсніце \"Скасаваць\", а потым задайце PIN-код, узор разблакіроўкі ці пароль.</string>
-  <string name="face_unlock">Разблакіроўка па твару</string>
+  <string name="face_unlock">Разблакаванне па твару</string>
   <string name="face_unlock_be_on_the_screen">Трымаеце прыладу перад вашым тварам</string>
   <string name="face_unlock_by_notification_screen_on_msg">Разблакаваць прыладу па твару, калі экран ўключаецца пры паступленні апавяшчэнняў. Магчымы больш хуткі разрад батарэі.</string>
-  <string name="face_unlock_by_notification_screen_on_title">Разблакіроўка пры ўключэнні экрана</string>
+  <string name="face_unlock_by_notification_screen_on_title">Разблакаванне пры ўключэнні экрана</string>
   <string name="face_unlock_category_title">Параметры экрана блакавання</string>
   <string name="face_unlock_check_failed">Не атрымалася распазнаць вас</string>
   <string name="face_unlock_close_screen">Падыдзіце бліжэй да экрана</string>
@@ -3049,7 +3049,7 @@
   <string name="gxzw_anim_rhythm">Рытм</string>
   <string name="gxzw_anim_star">Зоркі</string>
   <string name="gxzw_anim_title">Анімацыя адбітка</string>
-  <string name="gxzw_aod_show_summary">Вазьміце прыладу ў рукі або дакраніцеся да экрана, каб з\'явіўся значок адбітка пальца. Гэта функцыя павялічвае спажыванне энергіі сістэмай.</string>
+  <string name="gxzw_aod_show_summary">Вазьміце прыладу ў рукі або дакраніцеся да экрана, каб з\'явіўся значок адбітка пальца. Гэта функцыя павялічвае спажыванне энергіі сістэмай, але дазваляе хутчэй разблакаваць прыладу.</string>
   <string name="gxzw_aod_show_tittle">Значок адбітка на выключаным экране</string>
   <string name="gxzw_dialog_message">Для нармальнай працы экраннага сканера адбіткаў не выкарыстоўвайце сродкі абароны экрана. Калі вы лічыце, што абарона экрана ўсё ж неабходная, абярыце адзін з сумяшчальных варыянтаў.</string>
   <string name="gxzw_dialog_not_show_again">Не паказваць зноў</string>
@@ -3057,7 +3057,7 @@
   <string name="gxzw_dialog_title">Пра экранны сканар адбіткаў</string>
   <string name="gxzw_enroll_again">Прыбярыце палец і зноў націсніце на сканар адбіткаў</string>
   <string name="gxzw_lowlight_open_summary">Памяншэнне яркасці значка адбітка пальца ва ўмовах нізкай асветленасці. Калі гэтая функцыя ўключаная, ваша прылада можа разблакавацца павольней.</string>
-  <string name="gxzw_lowlight_open_title">Разблакіроўка пальцам пры слабым асвятленні</string>
+  <string name="gxzw_lowlight_open_title">Разблакаванне пальцам пры слабым асвятленні</string>
   <string name="gxzw_quick_open_enable_summary">Выкарыстоўвайце цэтлікі для адкрыцця праграм або выкарыстання функцый праграм, калі ваша прылада будзе разблакавана</string>
   <string name="gxzw_quick_open_enable_title">Цэтлікі адбітка пальцаў</string>
   <string name="gxzw_quick_open_fast_summary">Правядзіце пальцам, каб выкарыстоўваць цэтлік, як толькі ваша прылада будзе разблакавана.</string>
@@ -3079,7 +3079,7 @@
   <string name="haptic_feedback_progress">Узровень вібраводгука</string>
   <string name="haptic_feedback_summary">Вібраводгук на жэсты і дзеянні</string>
   <string name="haptic_feedback_title">Вібрацыя</string>
-  <string name="haptic_fingerprint_unlock_16_content_description">Разблакіроўка адбіткам пальца</string>
+  <string name="haptic_fingerprint_unlock_16_content_description">Разблакаванне адбіткам пальца</string>
   <string name="haptic_generate_folder_08_content_description">Новая тэчка</string>
   <string name="haptic_generate_small_window_gestures_09_content_description">Плаваючае вакно</string>
   <string name="haptic_icon_sorting_12_content_description">Перагрупоўка абразкоў</string>
@@ -9124,10 +9124,9 @@
   <string name="bluetooth_version_message">Абнавіць</string>
   <string name="face_data_siggesstion_next_cn">ОК</string>
   <string name="face_data_siggesstion_next_time_cn">ОК (%d сек.)</string>
-  <string name="face_data_suggesstion_first_cn">"Каб вы маглі выкарыстоўваць гэтую функцыю, нам неабходна сабраць дадзеныя аб вашым твары. Гэтыя дадзеныя будуць захоўвацца лакальна на гэтай прыладзе.
-Разблакіроўка па твару менш бяспечная, чым PIN-код, пароль або шаблон. Ваша прылада можа быць разблакавана вашай фатаграфіяй, а таксама з людзьмі з падобнай знешнасцю."</string>
+  <string name="face_data_suggesstion_first_cn">Каб вы маглі выкарыстоўваць разблакаванне па твару, нам неабходна сабраць дадзеныя пра ваш твар. Гэтыя дадзеныя будуць захоўвацца лакальна на гэтай прыладзе.</string>
   <string name="finger_add_user_info_dialog_cancel">Адмена</string>
-  <string name="finger_add_user_info_dialog_message">Каб вы маглі выкарыстоўваць разблакоўку і здзяйсняць плацяжы па адбітку пальца, нам неабходна захаваць ваш адбітак пальца. Адбітак пальца будзе захоўвацца лакальна на гэтай прыладзе. Вы не зможаце выкарыстоўваць гэтую функцыю, калі не згодныя.</string>
+  <string name="finger_add_user_info_dialog_message">Каб вы маглі выкарыстоўваць разблакаванне і здзяйсняць плацяжы па адбітку пальца, нам неабходна захаваць ваш адбітак пальца. Адбітак пальца будзе захоўвацца лакальна на гэтай прыладзе. Вы не зможаце выкарыстоўваць гэтую функцыю, калі не згодныя.</string>
   <string name="finger_add_user_info_dialog_next">Згодзен</string>
   <string name="finger_add_user_info_dialog_title">Увага</string>
   <string name="lockscreen_access_pattern_cleared">Шаблон ачышчаны</string>
@@ -9466,7 +9465,7 @@
   <string name="biometric_settings_category_ways_to_use">Выкарыстоўваць распазнаванне твару і адбітка, каб</string>
   <string name="biometric_settings_intro">Пасля наладжвання разблакіроўкі праз распазнаванне твару і адбітка пальца тэлефон будзе запытваць адбітак пальца, калі навокал цёмна ці ў вас на твары маска</string>
   <string name="biometric_settings_use_biometric_for_apps">Аўтэнтыфікацыя ў праграмах</string>
-  <string name="biometric_settings_use_biometric_unlock_phone">Разблакіроўка</string>
+  <string name="biometric_settings_use_biometric_unlock_phone">Разблакаванне</string>
   <string name="biometrics_unlock_set_unlock_password">Пароль • Твар • Адбітак пальца</string>
   <string name="biometrics_unlock_set_unlock_pattern">Узор разблакіроўкі • Твар • Адбітак пальца</string>
   <string name="biometrics_unlock_set_unlock_pin">PIN-код • Твар • Адбітак пальца</string>
@@ -9607,7 +9606,7 @@
   <string name="keywords_battery_saver">эканомія зараду, эканомія энергіі, эканомія</string>
   <string name="keywords_battery_usage">прагляд выкарыстання зараду, выкарыстанне зараду, выкарыстанне сілкавання</string>
   <string name="keywords_biometric_settings">твар, адбітак пальца, дадаць адбітак пальца</string>
-  <string name="keywords_biometric_unlock">твар, разблакіроўка, аўтэнтыфікацыя, уваход, адбітак пальца, біяметрычны</string>
+  <string name="keywords_biometric_unlock">твар, разблакаванне, аўтэнтыфікацыя, уваход, адбітак пальца, біяметрычны</string>
   <string name="keywords_bold_text">Высокая кантраснасць, слабы зрок, паўтлусты шрыфт, моцнае вылучэнне</string>
   <string name="keywords_color_correction">змяніць колер</string>
   <string name="keywords_color_inversion">зацямніць экран, асвятліць экран</string>
@@ -10465,4 +10464,8 @@
   <string name="keep_screen_on_after_folding_title">Не выключаць экран</string>
   <string name="handy_mode_hint">Рэжым кіравання адной рукой даступны толькі на вонкавым экране</string>
   <string name="wifi_ap_choose">%1$s ГГц</string>
+  <string name="device_mall_card_title">Праверка прывілеяў</string>
+  <string name="face_data_suggesstion_first_cn_highlight">Разблакаванне па твару менш бяспечнае, чым PIN-код, пароль або графічны ключ. Прылада можа быць разблакавана з дапамогай вашай фатаграфіі, а таксама людзьмі з падобнай знешнасцю.</string>
+  <string name="new_fingerprint_to_new_face_dialog_msg">Для разблакавання па твару неабходна дадаць дадзеныя твару. Дадаць?</string>
+  <string name="new_fingerprint_to_new_face_dialog_tittle">Даданне дадзеных твару</string>
 </resources>

@@ -109,9 +109,9 @@
         <item quantity="few">%1$d запісы</item>
     </plurals>
     <plurals name="dream_talk_segment_unit">
-        <item quantity="other">" асобнікаў"</item>
-        <item quantity="one">" асобнік"</item>
-        <item quantity="few">" асобніка"</item>
+        <item quantity="other">" экзэмпляраў"</item>
+        <item quantity="one">" экзэмпляр"</item>
+        <item quantity="few">" экзэмпляры"</item>
     </plurals>
     <plurals name="duration_unit_hour_format">
         <item quantity="other">%1$d г.</item>
@@ -299,8 +299,8 @@
         <item quantity="one">Вы прайшлі %s км.</item>
     </plurals>
     <plurals name="sporting_content_calories">
-        <item quantity="other">Усяго %1$d ккал</item>
-        <item quantity="one">"You've already burned %1$s Calorie"</item>
+        <item quantity="other">Усяго %1$s ккал</item>
+        <item quantity="one">Усяго %1$s ккал</item>
     </plurals>
     <plurals name="sporting_content_min">
         <item quantity="other">%1$d хв.</item>
@@ -308,11 +308,11 @@
     </plurals>
     <plurals name="sporting_content_riding_km">
         <item quantity="other">Вы праехалі %1$s км.</item>
-        <item quantity="one">"You've already cycled %1$s kilometer"</item>
+        <item quantity="one">Вы праехалі %1$s км.</item>
     </plurals>
     <plurals name="sporting_content_running_km">
         <item quantity="other">Вы прабеглі %1$s км.</item>
-        <item quantity="one">"You've already ran %1$s kilometer"</item>
+        <item quantity="one">Вы прабеглі %1$s км.</item>
     </plurals>
     <plurals name="sporting_content_sec">
         <item quantity="other">%1$d сек.</item>
@@ -320,11 +320,11 @@
     </plurals>
     <plurals name="sporting_content_walking_km">
         <item quantity="other">Усяго %1$s км.</item>
-        <item quantity="one">"You've already walked %1$s kilometer"</item>
+        <item quantity="one">Усяго %1$s км.</item>
     </plurals>
     <plurals name="sporting_content_walking_stpe">
-        <item quantity="other">Усяго крокаў: %1$d</item>
-        <item quantity="one">"You've already walked %1$s step"</item>
+        <item quantity="other">Усяго крокаў: %1$s</item>
+        <item quantity="one">Усяго крокаў: %1$s</item>
     </plurals>
     <plurals name="sporting_unit_calories">
         <item quantity="other">%1$d кал.</item>
@@ -332,7 +332,7 @@
     </plurals>
     <plurals name="sporting_unit_km">
         <item quantity="other">%1$s км.</item>
-        <item quantity="one">%1$s km</item>
+        <item quantity="one">%1$s км.</item>
     </plurals>
     <plurals name="sporting_unit_step">
         <item quantity="other">крокаў</item>
@@ -441,8 +441,8 @@
     </plurals>
     <plurals name="unit_group">
         <item quantity="other">" цыклаў"</item>
-        <item quantity="one">" \"цыкл"</item>
-        <item quantity="few">" \"цыкла"</item>
+        <item quantity="one">" цыкл"</item>
+        <item quantity="few">" цыкла"</item>
     </plurals>
     <plurals name="unit_hours">
         <item quantity="other">" г. "</item>

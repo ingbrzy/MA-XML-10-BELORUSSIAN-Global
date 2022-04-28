@@ -921,4 +921,7 @@ ID:%s
   <string name="progressbar_title">Праверка на наяўнасць праблем з бяспекай…</string>
   <string name="system_error_info">Сістэма занятая. Пачакайце хвіліну ці дзве і паспрабуйце яшчэ раз.</string>
   <string name="unknown_error_info">Невядомая памылка</string>
+  <string name="login_notification_button_text">Увайсці</string>
+  <string name="login_notification_desc">Атрымлівайце асалоду ад воблачных сэрвісаў, сямейнага сховішча і многага іншага</string>
+  <string name="login_notification_title">Увайдзіце ў свой Mi акаўнт</string>
 </resources>

@@ -10468,4 +10468,10 @@
   <string name="face_data_suggesstion_first_cn_highlight">Разблакаванне па твару менш бяспечнае, чым PIN-код, пароль або графічны ключ. Прылада можа быць разблакавана з дапамогай вашай фатаграфіі, а таксама людзьмі з падобнай знешнасцю.</string>
   <string name="new_fingerprint_to_new_face_dialog_msg">Для разблакавання па твару неабходна дадаць дадзеныя твару. Дадаць?</string>
   <string name="new_fingerprint_to_new_face_dialog_tittle">Даданне дадзеных твару</string>
+  <string name="miheadset_LEAudio_summary">Некаторыя функцыі будуць недаступныя пры ўключаным LE Аўдыё.</string>
+  <string name="miheadset_LEAudio_title">Уключыць LE Аўдыё?</string>
+  <string name="miheadset_LE_on_toast">Перад уключэннем гэтай функцыі пераканайцеся, што абодва навушнікі зараджаныя, і выньце іх з футарала.</string>
+  <string name="miheadset_feedback_summary">Каб мець магчымасць адпраўляць часопісы, змясціце абодва навушнікі ў футарал для зарадкі і трымайце яго адкрытым.</string>
+  <string name="miheadset_feedback_title">Адправіць часопісы</string>
+  <string name="miheadset_singleear_toast">Не падтрымліваецца толькі для аднаго навушніка</string>
 </resources>

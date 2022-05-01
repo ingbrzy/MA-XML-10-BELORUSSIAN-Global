@@ -1957,7 +1957,7 @@
   <string name="new_bie_dialog_cancel">Кнопка адмены старонкі кіраўніцтва</string>
   <string name="new_bie_dialog_desc">Старонка кіраўніцтва</string>
   <string name="pref_focus_view_bg_tip">АЭ/АФ заблакаваныя</string>
-  <string name="pref_true_colour_video_mode_description">Натуральны колер</string>
+  <string name="pref_true_colour_video_mode_description">Дадайце ў свае відэа рэалістычныя дэталі, цудоўныя колеры і дзіўны кантраст</string>
   <string name="beauty_makeups_subeffect_filter">Фільтры</string>
   <string name="beauty_makeups_subeffect_makeup">Макіяж</string>
 </resources>

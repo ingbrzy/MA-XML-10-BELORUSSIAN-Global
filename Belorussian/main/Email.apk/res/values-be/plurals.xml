@@ -85,7 +85,7 @@
         <item quantity="many">"Выдалена з тэчкі 'Спам': "&lt;b>%1$d&lt;/b></item>
     </plurals>
     <plurals name="conversation_phished">
-        <item quantity="other">&lt;b>%1$d&lt;/b> паведамлення паведаміла пра спам</item>
+        <item quantity="other">&lt;b>%1$d&lt;/b> паведамленняў паведаміла пра спам</item>
         <item quantity="one">&lt;b>%1$d&lt;/b> паведамленне паведаміла пра спам</item>
         <item quantity="few">&lt;b>%1$d&lt;/b> паведамленні паведамілі пра спам</item>
         <item quantity="many">&lt;b>%1$d&lt;/b> паведамленняў паведамілі пра спам</item>
@@ -121,7 +121,7 @@
         <item quantity="many">Чарнавікі</item>
     </plurals>
     <plurals name="empty_folder_dialog_message">
-        <item quantity="other">%1$d паведамлення будзе выдалена незваротна.</item>
+        <item quantity="other">%1$d паведамленняў будзе выдалена незваротна.</item>
         <item quantity="one">%1$d паведамленне будзе выдалена незваротна.</item>
         <item quantity="few">%1$d паведамленні будуць выдалены незваротна.</item>
         <item quantity="many">%1$d паведамленняў будуць выдалены незваротна.</item>
@@ -157,13 +157,13 @@
         <item quantity="many">Перамясціць %1$d гутарак</item>
     </plurals>
     <plurals name="new_incoming_messages_many">
-        <item quantity="other">Паказаць %1$d новага паведамлення.</item>
+        <item quantity="other">Паказаць %1$d новых паведамленняў.</item>
         <item quantity="one">Паказаць %1$d новае паведамленне.</item>
         <item quantity="few">Паказаць %1$d новых паведамленні.</item>
         <item quantity="many">Паказаць %1$d новых паведамленняў.</item>
     </plurals>
     <plurals name="new_messages">
-        <item quantity="other">%1$d новага паведамлення</item>
+        <item quantity="other">%1$d новых паведамленняў</item>
         <item quantity="one">%1$d новае паведамленне</item>
         <item quantity="few">%1$d новых паведамленні</item>
         <item quantity="many">%1$d новых паведамленняў</item>
@@ -187,13 +187,13 @@
         <item quantity="many">%s вынікаў ва ўсіх акаўнтах</item>
     </plurals>
     <plurals name="show_messages_read">
-        <item quantity="other">%1$d старога паведамлення</item>
+        <item quantity="other">%1$d старых паведамленняў</item>
         <item quantity="one">%1$d старое паведамленне</item>
         <item quantity="few">%1$d старых паведамленні</item>
         <item quantity="many">%1$d старых паведамленняў</item>
     </plurals>
     <plurals name="unsent_messages_in_outbox">
-        <item quantity="other">%1$s неадпраўленага паведамлення ў %2$s</item>
+        <item quantity="other">%1$s неадпраўленых паведамленняў у %2$s</item>
         <item quantity="one">%1$s неадпраўленае паведамленне ў %2$s</item>
         <item quantity="few">%1$s неадпраўленых паведамленні ў %2$s</item>
         <item quantity="many">%1$s неадпраўленых паведамленняў у %2$s</item>

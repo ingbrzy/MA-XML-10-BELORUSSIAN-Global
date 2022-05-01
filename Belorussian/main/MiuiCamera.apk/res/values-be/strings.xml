@@ -1580,7 +1580,7 @@
   <string name="pref_i_n_r_b">Разумнае шумапрыглушэнне</string>
   <string name="pref_k_h">Унутрыканальныя маніторы</string>
   <string name="pref_k_s_i">Манітор запісаў гук праз правадныя навушнікі, калі яны былі падлучаныя</string>
-  <string name="pref_lens_dirty_detect_summary">Атрымліваць паведамлення, калі аб\'ектыў забруджаны</string>
+  <string name="pref_lens_dirty_detect_summary">Атрымліваць паведамленне, калі аб\'ектыў забруджаны</string>
   <string name="pref_lens_dirty_detect_title">Апавяшчаць аб брудным аб\'ектыве</string>
   <string name="pref_live_duration_title">Працягласць трансляцыі</string>
   <string name="pref_manual_exposure_title">Вытрымка</string>
@@ -1601,7 +1601,7 @@
   <string name="pref_p_d_e">Прафесійныя функцыі</string>
   <string name="pref_photo_assistance_tips_off">Выкл.</string>
   <string name="pref_photo_assistance_tips_on">Укл.</string>
-  <string name="pref_pic_flaw_tip_summary">Атрымліваць паведамлення ў рэжыме рэальнага часу, калі людзі ў кадры зачынілі вочы ці аб\'ектыў часткова прыкрыты падчас здымкі</string>
+  <string name="pref_pic_flaw_tip_summary">Атрымліваць паведамленнi ў рэжыме рэальнага часу, калі людзі ў кадры зачынілі вочы ці аб\'ектыў часткова прыкрыты падчас здымкі</string>
   <string name="pref_pic_flaw_tip_title">Апавяшчаць пра недахопы</string>
   <string name="pref_popup_camera_title">Высоўная камера</string>
   <string name="pref_priority_storage_title">Захаваць на SD-карту</string>

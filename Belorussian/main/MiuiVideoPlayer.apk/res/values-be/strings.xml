@@ -736,7 +736,7 @@ ID:%s
     <string name="ovp_navigation_home">Дадому</string>
     <string name="ovp_navigation_language">Мова</string>
     <string name="ovp_navigation_localvideo">Лакальна</string>
-    <string name="ovp_navigation_notice">Апавяшчэння</string>
+    <string name="ovp_navigation_notice">Апавяшчэннi</string>
     <string name="ovp_navigation_setting">Налады</string>
     <string name="ovp_navigation_subscribe">Падпіска</string>
     <string name="ovp_player_cached_error_btn">Анлайн-відэа</string>
@@ -1026,7 +1026,7 @@ ID:%s
     <string name="pull_to_refresh_pull_label">Пацягніце ўніз для абнаўлення…</string>
     <string name="pull_to_refresh_refreshing_label">Хвілінку…</string>
     <string name="pull_to_refresh_release_label">Адпусціце для абнаўлення…</string>
-    <string name="push_message_switch">Push-паведамлення</string>
+    <string name="push_message_switch">Push-паведамленнi</string>
     <string name="push_message_tips">Уключыце для атрымання push-паведамленняў</string>
     <string name="pw_channels">Каналы</string>
     <string name="read_and_agree">Згадзіцца</string>

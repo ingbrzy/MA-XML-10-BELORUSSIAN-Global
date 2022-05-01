@@ -196,7 +196,7 @@
   <string name="app_manager_net_wifi">Wi-Fi</string>
   <string name="app_manager_not_allow">Не</string>
   <string name="app_manager_notify_bar">Бэйджы</string>
-  <string name="app_manager_notify_floating">Плаваючыя апавяшчэння</string>
+  <string name="app_manager_notify_floating">Плаваючыя апавяшчэннi</string>
   <string name="app_manager_notify_keyguard">Экран блакавання</string>
   <string name="app_manager_open_show_all_apps_immediate">Паказаць усе вынікі</string>
   <string name="app_manager_perm">Дазволы</string>
@@ -215,7 +215,7 @@
   <string name="app_manager_reset_app_preferences_desc">"Будуць скінутыя наступныя налады:
 
 • Адключаныя праграмы
-• Адключаныя апавяшчэння
+• Адключаныя апавяшчэннi
 • Праграмы па змаўчанні
 • Абмежаванні фонавага трафіку
 
@@ -453,7 +453,7 @@
   <string name="btn_text_already_opened">Уключана</string>
   <string name="btn_text_goto_power_rank">Статыстыка</string>
   <string name="btn_text_goto_setup">Наладзіць</string>
-  <string name="btn_text_network_speed_detail">Падлучэння</string>
+  <string name="btn_text_network_speed_detail">Падлучэннi</string>
   <string name="btn_text_open_now">Уключыць</string>
   <string name="btn_text_optimize_extend_battery_time">Дадаць %s</string>
   <string name="btn_text_optimize_manually">Аптымізаваць уручную</string>
@@ -800,7 +800,7 @@
   <string name="exo_track_unknown">Невядома</string>
   <string name="extreme_add_white_list_summary">Дадайце да 4 праграм</string>
   <string name="extreme_add_white_list_title">Выключэнні фонавага рэжыму</string>
-  <string name="extreme_power_save_description">- Экстрэмальнае энергазберажэнне спыняе усю фонавую актыўнасць дадака пасля таго, як вы пакінеце яго і вернецеся на галоўны экран. Гэта праграма не будзе адпраўляць вам паведамлення або атрымліваць абнаўлення.\n- Калі вы хочаце, каб праграма працавала ў фонавым рэжыме, заблакуйце яе ў спісе нядаўніх праграм або дадайце яго ў выключэння ніжэй. У фонавым рэжыме можа працаваць да 4 праграм, калі ўключана экстрэмальнае энергазберажэнне.\n- Экстрэмальнае энергазберажэнне адключае NFC па змаўчанні. Вы можаце змяніць гэта ў наладах.\n- Каб пераканацца, што вы можаце выкарыстоўваць усе функцыі вашай прылады ў звычайным рэжыме, экстрэмальнае энергазберажэнне аўтаматычна адключаецца, калі ваша батарэя зараджана на 30%.</string>
+  <string name="extreme_power_save_description">- Экстрэмальнае энергазберажэнне спыняе усю фонавую актыўнасць дадака пасля таго, як вы пакінеце яго і вернецеся на галоўны экран. Гэта праграма не будзе адпраўляць вам паведамленнi або атрымліваць абнаўленнi.\n- Калі вы хочаце, каб праграма працавала ў фонавым рэжыме, заблакуйце яе ў спісе нядаўніх праграм або дадайце яго ў выключэння ніжэй. У фонавым рэжыме можа працаваць да 4 праграм, калі ўключана экстрэмальнае энергазберажэнне.\n- Экстрэмальнае энергазберажэнне адключае NFC па змаўчанні. Вы можаце змяніць гэта ў наладах.\n- Каб пераканацца, што вы можаце выкарыстоўваць усе функцыі вашай прылады ў звычайным рэжыме, экстрэмальнае энергазберажэнне аўтаматычна адключаецца, калі ваша батарэя зараджана на 30%.</string>
   <string name="extreme_power_save_mode_card_summary">Уключыце Максімальнае энергазберажэнне для эканоміі энергіі, калі батарэя амаль разраджана.</string>
   <string name="extreme_power_save_mode_summary">Экстрэмальнае энергазберажэнне абмяжоўвае фонавую актыўнасць і спыняе сінхранізацыю.</string>
   <string name="extreme_power_save_mode_title">Максімальнае энергазберажэнне</string>
@@ -871,8 +871,8 @@
   <string name="first_aid_card_consume_power_summary4">Адключыце GPS, каб зэканоміць батарэю</string>
   <string name="first_aid_card_consume_power_title">Выкарыстанне батарэі</string>
   <string name="first_aid_card_float_window_button">Абмежаваць</string>
-  <string name="first_aid_card_float_window_summary">%s можа адлюстроўвацца некарэктна. Абмяжуйце усплывальныя паведамлення.</string>
-  <string name="first_aid_card_float_window_title">Вы дазволілі усплывальныя паведамлення</string>
+  <string name="first_aid_card_float_window_summary">%s можа адлюстроўвацца некарэктна. Абмяжуйце усплывальныя паведамленнi.</string>
+  <string name="first_aid_card_float_window_title">Вы дазволілі усплывальныя паведамленнi</string>
   <string name="first_aid_card_kadun_button1">Вызваліць</string>
   <string name="first_aid_card_kadun_button2">Абмежаваць</string>
   <string name="first_aid_card_kadun_button3">Адключыць</string>
@@ -1154,7 +1154,7 @@
   <string name="hot_today">Папулярныя сёння</string>
   <string name="i_know">Зразумела</string>
   <string name="im">IM</string>
-  <string name="info_and_call">Выклiкі і паведамлення</string>
+  <string name="info_and_call">Выклiкі і паведамленнi</string>
   <string name="info_antispam_close">Чорны спіс адключаны</string>
   <string name="info_antispam_current_mode">%s</string>
   <string name="info_antispam_phone">Блакаваць выклікі</string>
@@ -1501,7 +1501,7 @@
   <string name="notification_summary_cmcc_app_check">Націсніце для прагляду інфармацыі.</string>
   <string name="notify_channel_mipush">Push-паведамленні бяспекі</string>
   <string name="notify_channel_name_security">Бяспека сістэмы</string>
-  <string name="notify_channel_optimize">Апавяшчэння бяспекі</string>
+  <string name="notify_channel_optimize">Апавяшчэннi бяспекі</string>
   <string name="notify_daily_data_usage_body">Для аўтаматычнага абмежавання трафіка наладзьце месячны ліміт.</string>
   <string name="notify_daily_limit_body">Націсніце, каб усталяваць ліміт трафіка.</string>
   <string name="notify_daily_limit_title">Выкарыстана %s сёння</string>
@@ -1572,7 +1572,7 @@
   <string name="om_running_system_apps">Запушчаныя (сістэмныя)</string>
   <string name="om_running_third_apps">Запушчаныя (пабочныя)</string>
   <string name="om_settings_cpu_over_load_notify">Апавяшчаць аб перагрузцы ЦП</string>
-  <string name="om_settings_cpu_over_load_summary">Атрымліваць паведамлення аб перагрузцы ЦП</string>
+  <string name="om_settings_cpu_over_load_summary">Атрымліваць паведамленнi аб перагрузцы ЦП</string>
   <string name="om_settings_lock_app">Замацаваныя праграмы</string>
   <string name="om_settings_lock_app_manage">Замацаваныя праграмы</string>
   <string name="om_settings_memocy_occupy_too_large_summary">Атрымліваць апавяшчэнні, калі памер кэша занадта вялікі</string>
@@ -2048,7 +2048,7 @@
   <string name="Setting_lock">Налады</string>
   <string name="setting_privacy_password">Дадаць графічны ключ</string>
   <string name="settings">Налады трафіка</string>
-  <string name="settings_battery_consume_abnormal_summary">Атрымлівайце апавяшчэння, калі зарад батарэі зніжаецца занадта хутка</string>
+  <string name="settings_battery_consume_abnormal_summary">Атрымлівайце апавяшчэннi, калі зарад батарэі зніжаецца занадта хутка</string>
   <string name="settings_battery_consume_abnormal_title">Апавяшчаць пра зніжэнне зараду батарэі</string>
   <string name="settings_category_other">Іншыя налады</string>
   <string name="settings_category_overheat">Награванне</string>
@@ -2206,7 +2206,7 @@
   <string name="st_sub_title_customize_mode_name">Назва</string>
   <string name="st_sub_title_whiteblack_list_group">Чорны спіс</string>
   <string name="st_sum_call_wait">Сігнал пры блакіроўцы таксама будзе прайгравацца як сігнал \"Занята\".</string>
-  <string name="st_summary_blacklist_numbers">Блакаваць выклiкі і паведамлення ад пэўных нумароў і рэгіёнаў</string>
+  <string name="st_summary_blacklist_numbers">Блакаваць выклiкі і паведамленнi ад пэўных нумароў і рэгіёнаў</string>
   <string name="st_summary_blacklist_numbers_international">Блакаваць выклікі і паведамленні ад пэўных нумароў</string>
   <string name="st_summary_keywords_blacklist">Дадаванне ключавых слоў для блакавання паведамленняў</string>
   <string name="st_summary_special_numbers">Блакаваць адзначаныя тэлефонныя нумары</string>
@@ -2697,8 +2697,8 @@
   <string name="system_permission_declare_user_agreement"><Data>Прачытайце і прыміце наша &lt;a href=\"%1$s\">Карыстальніцкае пагадненне&lt;/a> перад выкарыстаннем гэтай функцыі.</Data></string>
   <string name="system_permission_declare_privacy_policy"><Data>Прачытайце і прыміце нашу &lt;a href=\"%1$s\">Палітыку прыватнасці&lt;/a> перад выкарыстаннем гэтай функцыі.</Data></string>
   <string name="system_permission_declare_disagree">Не згодны</string>
-  <string name="privacy_apps_shield_message_summary">Не паказваць апавяшчэння ад схаваных праграм</string>
-  <string name="privacy_apps_shield_message_title">Схаваць апавяшчэння</string>
+  <string name="privacy_apps_shield_message_summary">Не паказваць апавяшчэннi ад схаваных праграм</string>
+  <string name="privacy_apps_shield_message_title">Схаваць апавяшчэннi</string>
   <string name="privacy_apps_begin_use">Старт</string>
   <string name="privacy_apps_next_stup">Далей</string>
   <string name="privacy_apps_button_know">Зразумела</string>
@@ -3089,7 +3089,7 @@
   <string name="ew_setting_desc_title">Аб ацэнцы інтэнсіўнасці</string>
   <string name="ew_setting_more_title">Больш падрабязна пра папярэджанні аб землятрусах</string>
   <string name="ew_setting_normal_push_message">Для землятрусаў з інтэнсіўнасцю ніжэй 2.0</string>
-  <string name="ew_setting_normal_push_title">Атрымліваць сістэмныя апавяшчэння</string>
+  <string name="ew_setting_normal_push_title">Атрымліваць сістэмныя апавяшчэннi</string>
   <string name="ew_setting_strong_push_message">Для землятрусаў сілай 2.0 і больш</string>
   <string name="ew_setting_strong_push_title">Папярэджваць аб моцных землятрусах (па змаўчанні ўключана)</string>
   <string name="gtb_exit_game_to_gtb">Адкрыць панэль гульняў</string>
@@ -3110,8 +3110,8 @@
   <string name="power_save_ps_close_setting_haptic">вібрацыя</string>
   <string name="power_save_ps_close_setting_pickupwakeup">\"Узняцце для абуджэння\"</string>
   <string name="power_save_ps_close_setting_sync">сінхранізацыя</string>
-  <string name="antispam_mms_text">Усталюйце Паведамлення ў якасці стандартнай праграмы для адпраўкі SMS-паведамленняў, каб мець магчымасць праглядаць заблакаваныя паведамлення</string>
-  <string name="antispam_mms_text_setting">Усталюйце Паведамлення ў якасці стандартнай праграмы для адпраўкі SMS-паведамленняў, каб мець магчымасць выкарыстоўваць чорны спіс</string>
+  <string name="antispam_mms_text">Усталюйце Паведамленнi ў якасці стандартнай праграмы для адпраўкі SMS-паведамленняў, каб мець магчымасць праглядаць заблакаваныя паведамленнi</string>
+  <string name="antispam_mms_text_setting">Усталюйце Паведамленнi ў якасці стандартнай праграмы для адпраўкі SMS-паведамленняў, каб мець магчымасць выкарыстоўваць чорны спіс</string>
   <string name="app_manager_power_consume">%.1f%%</string>
   <string name="app_right">Афіцыйна выраблена Xiaomi</string>
   <string name="st_hint_operatelist">Здаецца, гэта правіла ўжо існуе</string>
@@ -3142,7 +3142,7 @@
   <string name="warningcenter_alert_warning_time">Час атрымання: %s</string>
   <string name="warningcenter_earthquake_info">Раннія папярэджання аб землятрусах</string>
   <string name="warningcenter_mijia_alert_close">Зачыніць</string>
-  <string name="warningcenter_mijia_alert_settings">Змяніць налады ў Бяспекі - Апавяшчэння з прылад разумнай хаты</string>
+  <string name="warningcenter_mijia_alert_settings">Змяніць налады ў Бяспекі - Апавяшчэннi з прылад разумнай хаты</string>
   <string name="warningcenter_mijia_alert_tips_1">Выяўленая высокая канцэнтрацыя газу</string>
   <string name="warningcenter_mijia_alert_tips_2">Знойдзены дым</string>
   <string name="warningcenter_mijia_alert_tips_3">Выяўлены працёк вады</string>
@@ -3156,11 +3156,11 @@
   <string name="warningcenter_mijia_devices_support_tips">Заўвага. Вы не зможаце атрымліваць абвесткі, калі выйдзеце з свайго ўліковага запісу ў Mi Home або выдаліце ​​праграму.</string>
   <string name="warningcenter_mijia_info">Сачыце за бяспекай дома</string>
   <string name="warningcenter_mijia_notification_summary">Вы можаце атрымліваць імгненныя абвесткі</string>
-  <string name="warningcenter_mijia_notification_title">Апавяшчэння з прылад разумнай хаты ўключаны</string>
+  <string name="warningcenter_mijia_notification_title">Апавяшчэннi з прылад разумнай хаты ўключаны</string>
   <string name="warningcenter_mijia_open_desc">Вы будзеце атрымліваць абвесткі на гэты тэлефон і іншыя агульныя прылады кожны раз, калі абвесткі адпраўляюцца прыладамі, якія вы дадалі ў Mi Home</string>
   <string name="warningcenter_mijia_open_title">Атрымліваць абвесткі ад інтэлектуальных прылад</string>
-  <string name="warningcenter_mijia_page_title">Апавяшчэння</string>
-  <string name="warningcenter_mijia_title">Апавяшчэння ад прылад разумнай хаты</string>
+  <string name="warningcenter_mijia_page_title">Апавяшчэннi</string>
+  <string name="warningcenter_mijia_title">Апавяшчэннi ад прылад разумнай хаты</string>
   <string name="warningcenter_smarthome">Mi Home</string>
   <string name="warningcenter_title">Цэнтр папярэджанняў MIUI</string>
   <string name="notify_channel_name_behavior">Дзеянні праграм</string>
@@ -3212,11 +3212,11 @@
   <string name="app_behavior_location_single">Доступ да месцазнаходжання</string>
   <string name="app_behavior_menu_about">Пра запіс дзеянняў праграм</string>
   <string name="app_behavior_monitor_off">Адключэнне апавяшчэнняў</string>
-  <string name="app_behavior_monitor_off_content">Адключыць апавяшчэння аб дзеяннях гэтай праграмы?</string>
+  <string name="app_behavior_monitor_off_content">Адключыць апавяшчэннi аб дзеяннях гэтай праграмы?</string>
   <string name="app_behavior_monitor_off_positive">Адключыць</string>
   <string name="app_behavior_monitor_off_select">Не паказваць зноў</string>
-  <string name="app_behavior_monitor_tips_if_trust">Вы можаце адключыць апавяшчэння аб дзеяннях, калі вы давяраеце гэтай праграме</string>
-  <string name="app_behavior_monitor_tips_key">Апавяшчэння аб дзеяннях</string>
+  <string name="app_behavior_monitor_tips_if_trust">Вы можаце адключыць апавяшчэннi аб дзеяннях, калі вы давяраеце гэтай праграме</string>
+  <string name="app_behavior_monitor_tips_key">Апавяшчэннi аб дзеяннях</string>
   <string name="app_behavior_monitor_tips_summary">Вы будзеце атрымліваць апавяшчэнні, калі праграмы запісваюць аўдыё, атрымліваюць доступ да месцазнаходжання або выконваюць пэўныя дзеянні ў фонавым рэжыме.</string>
   <string name="app_behavior_no_recorder">Нічога няма</string>
   <string name="app_behavior_notification_audio_now_one">%1s запісвае аўдыё</string>
@@ -3248,7 +3248,7 @@
   <string name="app_behavior_phonenum_single">Доступ да нумара тэлефона</string>
   <string name="app_behavior_phonestate">%1s - доступ да інфармацыі аб прыладзе</string>
   <string name="app_behavior_phonestate_single">Доступ да інфармацыі пра прыладу</string>
-  <string name="app_behavior_privacy_manager">Апавяшчэння аб дзеяннях</string>
+  <string name="app_behavior_privacy_manager">Апавяшчэннi аб дзеяннях</string>
   <string name="app_behavior_recognition">%1s - доступ да дадзеных пра здароўе і актыўнасці</string>
   <string name="app_behavior_recognition_single">Доступ да дадзеных пра здароўе і актыўнасць</string>
   <string name="app_behavior_search">Пошук</string>
@@ -3366,7 +3366,7 @@
   <string name="pc_battery_history_total_consumption_title">Агульная спажываная магутнасць</string>
   <string name="pc_battery_history_usetime_title">Актыўны рэжым</string>
   <string name="perm_intercept_content">Даць гэтай праграме наступны дазвол: %1s?</string>
-  <string name="perm_intercept_notification_title">Дазвол %1s выкарыстоўваць апавяшчэння дазволіць гэтай праграме выконваць наступныя дзеянні:</string>
+  <string name="perm_intercept_notification_title">Дазвол %1s выкарыстоўваць апавяшчэннi дазволіць гэтай праграме выконваць наступныя дзеянні:</string>
   <string name="perm_intercept_privacy_content">Гэтыя дзеянні могуць раскрыць вашыя асабістыя дадзеныя. Падаеце ў любым выпадку дазвол (%1s)?</string>
   <string name="perm_intercept_title">Дазвол на доступ да дадзеных аб выкарыстанні %1s дазволіць гэтай праграме выконваць наступныя дзеянні:</string>
   <string name="perm_intercept_unknown_title">Дазвол %1s на ўстаноўку праграм з невядомых крыніц можа прадстаўляць наступныя рызыкі:</string>
@@ -3395,7 +3395,7 @@
   <string name="privacy_danger_permission_status_summary">Кіраванне праграмамi, якія запытваюць канфідэнцыйныя дазволы</string>
   <string name="privacy_danger_permission_status_title">Канфідэнцыйныя дзеянні</string>
   <string name="privacy_danger_permission_summary">Сачыце за тым, як праграмы выкарыстоўваюць вашы дазволы</string>
-  <string name="privacy_danger_permission_title">Паведамлення аб дазволах</string>
+  <string name="privacy_danger_permission_title">Паведамленнi аб дазволах</string>
   <string name="privacy_danger_permission_warning">Дазволы высокай рызыкі</string>
   <string name="privacy_dialog_call_item_1">Доступ да інфармацыі пра прыладу</string>
   <string name="privacy_dialog_call_item_2">Здзяйсняць выклікі</string>
@@ -3416,7 +3416,7 @@
   <string name="privacy_empty_location">Доступ да месцазнаходжання не запытваўся</string>
   <string name="privacy_empty_record">Аўдыё не запісвалася</string>
   <string name="privacy_empty_storage">Доступ да сховішча не запытваўся</string>
-  <string name="privacy_guide_permission_guide_text">Вы можаце атрымліваць апавяшчэння ў радку стану, калі праграмы атрымліваюць доступ да вашага месцазнаходжання, запісваюць аўдыё або робяць фатаграфіі.</string>
+  <string name="privacy_guide_permission_guide_text">Вы можаце атрымліваць апавяшчэннi ў радку стану, калі праграмы атрымліваюць доступ да вашага месцазнаходжання, запісваюць аўдыё або робяць фатаграфіі.</string>
   <string name="privacy_guide_permission_use_text">MIUI будзе падлічваць і адлюстроўваць, колькі разоў праграма выкарыстоўвае канфідэнцыйныя дазволы, уключаючы месцазнаходжанне, кантакты, гісторыю выклікаў і доступ да сховішча, а таксама запіс гуку. Вы можаце даведацца, колькі разоў кожная праграма выкарыстоўвае гэтыя дазволы, і вызначыць, ці трэба вам зьмяняць устаноўкі дазволаў.</string>
   <string name="privacy_informed_title">Статыстыка</string>
   <string name="privacy_location_info_summary">Кіраванне доступам да вашага месцазнаходжання</string>
@@ -3440,7 +3440,7 @@
   <string name="privacy_permission_storage">Доступ да сховішча</string>
   <string name="privacy_permission_summary_none">Няма праграм з пастаянным доступам</string>
   <string name="privacy_permission_use_times">Даведайцеся, як асобныя праграмы выкарыстоўваюць вашы дазволы</string>
-  <string name="privacy_permission_use_warning">Апавяшчэння аб дазволах</string>
+  <string name="privacy_permission_use_warning">Апавяшчэннi аб дазволах</string>
   <string name="privacy_pop_call">Доступ да гісторыі выклiкаў сёння</string>
   <string name="privacy_pop_contact">Доступ да кантактаў сёння</string>
   <string name="privacy_pop_location">Доступ да месцазнаходжання сёння</string>
@@ -3459,7 +3459,7 @@
   <string name="privacy_search_key_3">Дазволы</string>
   <string name="privacy_search_key_4">Дзеянні праграмы</string>
   <string name="privacy_search_key_5">Спецыяльныя дазволы</string>
-  <string name="privacy_search_key_6">Апавяшчэння аб дазволах</string>
+  <string name="privacy_search_key_6">Апавяшчэннi аб дазволах</string>
   <string name="privacy_search_key_7">Інфармацыя пра месцазнаходжанне</string>
   <string name="privacy_search_key_8">Забарона адсочвання</string>
   <string name="privacy_search_key_9">Віртуальны ідэнтыфікатар</string>
@@ -3612,8 +3612,8 @@
   <string name="intl_perm_privacy_control_notification_title">Абарона вашай прыватнасці</string>
   <string name="intl_perm_privacy_control_storage">"Праграма можа атрымліваць доступ або рэдагаваць элементы з ўнутранага сховішчы толькі падчас яе выкарыстання"</string>
   <string name="intl_perm_privacy_control_title">Кантроль прыватнасці</string>
-  <string name="warningcenter_disaster_search_keywords">Пагодныя апавяшчэння</string>
-  <string name="warningcenter_mijia_search_keywords">Апавяшчэння Mi Home</string>
+  <string name="warningcenter_disaster_search_keywords">Пагодныя апавяшчэннi</string>
+  <string name="warningcenter_mijia_search_keywords">Апавяшчэннi Mi Home</string>
   <string name="memory_clean_no_need_clean_1" formatted="false">Вызвалена %s\nПаскорана на %d%%</string>
   <string name="menu_summary_optimize_manage">Ачыстка памяці</string>
   <string name="menu_summary_optimize_manage_1">Зрабіце вашу прыладу на %d%% хутчэй</string>
@@ -3883,9 +3883,9 @@
   <string name="warningcenter_disaster_receive_level_yellow">Жоўты</string>
   <string name="warningcenter_disaster_receive_settings">Фармат папярэджання</string>
   <string name="warningcenter_disaster_receive_strong">Высокапрыярытэтныя (рэкамендуецца)</string>
-  <string name="warningcenter_disaster_receive_strong_summary">Атрымліваць push-паведамлення аб высокапрыярытэтных папярэджаннях для абранага рэгіёну</string>
+  <string name="warningcenter_disaster_receive_strong_summary">Атрымліваць push-паведамленнi аб высокапрыярытэтных папярэджаннях для абранага рэгіёну</string>
   <string name="warningcenter_disaster_receive_strong_title">Высокапрыярытэтныя папярэджання</string>
-  <string name="warningcenter_disaster_receive_system">Сістэмныя апавяшчэння</string>
+  <string name="warningcenter_disaster_receive_system">Сістэмныя апавяшчэннi</string>
   <string name="warningcenter_disaster_receive_system_summary">Атрымліваць папярэджання аб стыхійных бедствах для абранага рэгіёну</string>
   <string name="warningcenter_disaster_receive_type">Тыпы папярэджанняў</string>
   <string name="warningcenter_disaster_receive_type_biological">Біялагічныя</string>
@@ -3932,7 +3932,7 @@
   <string name="applock_operate_fingerprint_summary">Блакаванне проаграмы падтрымлівае даданне некалькіх адбіткаў пальцаў</string>
   <string name="applock_operate_fingerprint_title">Выкарыстоўваць адбітак пальца</string>
   <string name="applock_operate_hidenoti_summary">Блакаванне проаграмы можа зрабіць гэта для абароненых праграм</string>
-  <string name="applock_operate_hidenoti_title">Схаваць канфідэнцыйныя апавяшчэння?</string>
+  <string name="applock_operate_hidenoti_title">Схаваць канфідэнцыйныя апавяшчэннi?</string>
   <string name="applock_recommend_tips">%s карыстальнікаў абараняюць гэтыя проаграмы</string>
   <string name="applock_recommend_title">Выбраць проаграмы</string>
   <string name="applock_set_complete">Выкарыстоўваць блакаванне проаграмы</string>
@@ -4015,7 +4015,7 @@
   <string name="HIPS_Perm_tencentControl_Desc">Доступ да выяў і файлаў, захаваных з WeChat і QQ</string>
   <string name="perm_list_header_title">Спіс праграм</string>
   <string name="permission_action_ai_prompt">Разумны запыт</string>
-  <string name="permission_instruction_access_notification">Гэты дазвол дазваляе праграмам чытаць, шукаць і выдаляць усе вашыя апавяшчэння. Памятайце, што апавяшчэння могуць утрымліваць асабістую інфармацыю (напрыклад, нумары банкаўскіх карт і паролі).</string>
+  <string name="permission_instruction_access_notification">Гэты дазвол дазваляе праграмам чытаць, шукаць і выдаляць усе вашыя апавяшчэннi. Памятайце, што апавяшчэннi могуць утрымліваць асабістую інфармацыю (напрыклад, нумары банкаўскіх карт і паролі).</string>
   <string name="permission_instruction_activity_recognition">Гэты дазвол дазваляе праграмам атрымліваць доступ да інфармацыі, сабранай ўбудаванымі датчыкамі, якія вызначаюць вашу фізічную актыўнасць (напрыклад, колькасць крокаў і трэніроўкі). Памятайце, што інфармацыя аб вашай фізічнай актыўнасці носіць асабісты характар.</string>
   <string name="permission_instruction_add_voicemail">Гэты дазвол дазваляе праграмам дадаваць галасавую пошту ў сістэму.</string>
   <string name="permission_instruction_answer_phone_call">Гэты дазвол дазваляе праграмам адказваць ці завяршаць выклікі без вашай згоды.</string>
@@ -4035,8 +4035,8 @@
   <string name="permission_instruction_install_unknown_source">Гэты дазвол дазваляе праграмам ўсталёўваць іншыя праграмы на вашу прыладу. Шкоднасныя праграмы выкарыстоўваюць гэты дазвол для ўстаноўкі праграм без вашага пацверджання.</string>
   <string name="permission_instruction_modify_audio_settings">Гэты дазвол дазваляе праграмам змяняць налады гуку (напрыклад, рэгуляваць гучнасць без вашага пацверджання). Магчыма, вы не зможаце рэгуляваць гучнасць у некаторых праграмах, калі не дасце ім гэта дазвол.</string>
   <string name="permission_instruction_nfc">Гэты дазвол дазваляе праграмам абменьвацца дадзенымі з картамі і прыладамі NFC.</string>
-  <string name="permission_instruction_notification_adjustment">Гэты дазвол дазваляе праграмам прадастаўляць больш персаналізаваныя і разнастайныя адаптыўныя паведамлення.</string>
-  <string name="permission_instruction_ongoing_notification">Гэты дазвол дазваляе праграмам ствараць пастаянныя цэтлікі ў панэлі апавяшчэнняў, што можа перашкодзіць вам бачыць звычайныя паведамлення.</string>
+  <string name="permission_instruction_notification_adjustment">Гэты дазвол дазваляе праграмам прадастаўляць больш персаналізаваныя і разнастайныя адаптыўныя паведамленнi.</string>
+  <string name="permission_instruction_ongoing_notification">Гэты дазвол дазваляе праграмам ствараць пастаянныя цэтлікі ў панэлі апавяшчэнняў, што можа перашкодзіць вам бачыць звычайныя паведамленнi.</string>
   <string name="permission_instruction_package_usage_stat">Гэты дазвол дазваляе праграмам адсочваць паводзіны іншых праграм на вашай прыладзе і атрымліваць інфармацыю, якая можа ўключаць вашага аператара сувязі і моўныя налады. Гэта дазвол з высокім рызыкай. Ваша прылада можа знаходзіцца пад наглядам, і бяспека вашай асабістай інфармацыі таксама можа быць пад пагрозай.</string>
   <string name="permission_instruction_picture_in_picture">Гэты дазвол дазваляе праграмам адлюстроўваць элементы на галоўным экране або па-над іншых праграм праз інтэрфейс «вiдарыс у вiдарысу».</string>
   <string name="permission_instruction_popup_window">Гэты дазвол дазваляе праграмам адлюстроўваць плаваючыя вокны з пад любога іншага інтэрфейсу на вашай прыладзе, што можа паўплываць на нармальнае выкарыстанне іншых праграм. Шкоднасныя праграмы могуць выкарыстоўваць гэты дазвол для чытання або збору асабістай інфармацыі (напрыклад, пароляў) праз празрыстыя плаваючыя вокны.</string>
@@ -4066,7 +4066,7 @@
   <string name="permission_with_read_write_clipboard">Дазваляе праграмам чытаць і запісваць скапіяваны кантэнт</string>
   <string name="read_and_write_clipboard">Чытанне або запіс у буфер абмену</string>
   <string name="read_clipboard_ai_close_no">Не цяпер</string>
-  <string name="read_clipboard_ai_close_tip">Вы больш не будзеце атрымліваць апавяшчэння, калі праграмы звяртаюцца да буфера абмену. Замест гэтага ім будзе дазволена выкарыстоўваць гэты дазвол, толькі пакуль вы выкарыстоўваеце праграму. Змяніць дазвол?</string>
+  <string name="read_clipboard_ai_close_tip">Вы больш не будзеце атрымліваць апавяшчэннi, калі праграмы звяртаюцца да буфера абмену. Замест гэтага ім будзе дазволена выкарыстоўваць гэты дазвол, толькі пакуль вы выкарыстоўваеце праграму. Змяніць дазвол?</string>
   <string name="read_clipboard_ai_close_yes">Змяніць</string>
   <string name="read_clipboard_op_content">У выпадку разумнага запыту паведамляць мне кожны раз</string>
   <string name="read_clipboard_op_title">Нагадваць, калі праграма чытае буфер абмену</string>
@@ -4151,7 +4151,7 @@
   <string name="network_disable_dialog_btn_text">Зразумела</string>
   <string name="network_disable_dialog_content">Ваша прылада павінна падключыцца да сеткі, каб вы маглі адклікаць згоду. Праверце налады сеткі і паспрабуйце яшчэ раз.</string>
   <string name="network_disable_dialog_title">Не ўдаецца падключыцца да сеткі</string>
-  <string name="privacy_dialog_content_part1">Сардэчна запрашаем у Бяспеку! Гэта праграма правярае вашу прыладу на наяўнасць смецця і вірусаў, а таксама дазваляе кіраваць праграмамі, кантраляваць выкарыстанне мабільных дадзеных, блакаваць выклiкі і паведамлення і г.д.</string>
+  <string name="privacy_dialog_content_part1">Сардэчна запрашаем у Бяспеку! Гэта праграма правярае вашу прыладу на наяўнасць смецця і вірусаў, а таксама дазваляе кіраваць праграмамі, кантраляваць выкарыстанне мабільных дадзеных, блакаваць выклiкі і паведамленнi і г.д.</string>
   <string name="privacy_dialog_content_part2"><Data>Бяспека павінна збіраць неабходную асабістую інфармацыю, каб прадастаўляць вам свае паслугі і мець магчымасць паляпшаць свае функцыі. Вы можаце даведацца, як мы апрацоўваем збіраць інфармацыю, у нашай &lt;a href=\"%1$s\">Палітыцы прыватнасці&lt;/a>. Вы можаце ў любы момант адклікаць сваю згоду з Палітыкай прыватнасці ў Наладах.</Data></string>
   <string name="privacy_dialog_content_part3"><Data>Прачытайце і прыміце нашы &lt;a href=\"%2$s\">Карыстацкае пагадненне&lt;/a> і &lt;a href=\"%1$s\">Палітыку прыватнасці&lt;/a> перад выкарыстаннем Бяспекі. Калі вы не пагодзіцеся выкарыстоўваць вышэйзгаданыя службы, вы не зможаце выкарыстоўваць некаторыя функцыі гэтай праграмы; аднак яе асноўныя функцыі па-ранейшаму будуць вам даступныя.</Data></string>
   <string name="privacy_dialog_revoking">Адкліканне згоды…</string>
@@ -4176,16 +4176,16 @@
   <string name="permission_instruction_sociality">Калі вы дазваляеце праграмам атрымліваць доступ да файлаў у іх уласных тэчах, MIUI дазваляе вам вырашыць, ці вы хочаце, каб гэтыя праграмы таксама атрымлівалі доступ да файлаў, створаным у праграмых сацыяльных сетак, у мэтах абароны вашай прыватнасці. Паколькі праграмы з Android API ўзроўню 29 або вышэй ужо падтрымліваюць раздзелы сховішча, то гэты перамыкач не будзе актыўны для іх.</string>
   <string name="permission_instruction_storage">Калі вы дазваляеце праграмам доступ да файлаў у іх уласных тэчах, MIUI дазваляе вам вырашаць, ці вы хочаце, каб гэтыя праграмы таксама атрымлівалі доступ да элементаў ў вашай галерэі і файлаў, створаным у праграмых сацыяльных сетак, у мэтах абароны вашай прыватнасці. Паколькі праграмы з Android API ўзроўню 29 або вышэй ужо падтрымліваюць раздзелы сховішча, то гэты перамыкач не будзе актыўны для іх.</string>
   <string name="pp_app_behavior_record_detail">Запісваць ўсе дзеянні праграм</string>
-  <string name="pp_app_del_img_intercept_detail">Атрымліваць апавяшчэння, калі праграмы выдаляюць элементы з галерэі без вашага дазволу</string>
-  <string name="pp_app_gets_dangerous_permission_reminder">Атрымліваць апавяшчэння, калі праграмы выкарыстоўваюць дазволы з высокай рызыкай</string>
-  <string name="pp_app_gets_dangerous_permission_reminder_detail">Атрымліваць апавяшчэння кожны раз, калі праграма выкарыстоўвае дазволы з высокай рызыкай, і ўлічваць вашыя варыянты</string>
+  <string name="pp_app_del_img_intercept_detail">Атрымліваць апавяшчэннi, калі праграмы выдаляюць элементы з галерэі без вашага дазволу</string>
+  <string name="pp_app_gets_dangerous_permission_reminder">Атрымліваць апавяшчэннi, калі праграмы выкарыстоўваюць дазволы з высокай рызыкай</string>
+  <string name="pp_app_gets_dangerous_permission_reminder_detail">Атрымліваць апавяшчэннi кожны раз, калі праграма выкарыстоўвае дазволы з высокай рызыкай, і ўлічваць вашыя варыянты</string>
   <string name="pp_app_lock_introduction">Дадатковая абарона</string>
   <string name="pp_app_permission_settings">Дазволы праграм</string>
   <string name="pp_app_permission_settings_detail">Дазволіць праграмам выкарыстоўваць дазволы, звязаныя з прыватнасцю</string>
   <string name="pp_app_reads_clipboard_smart_reminder">Абарона буфера абмену</string>
   <string name="pp_app_reads_clipboard_smart_reminder_detail">MIUI вырашыць, цi дазволены праграмам доступ да вашага буфера абмену. Пры звароце да буфера вы атрымаеце апавяшчэнне.</string>
   <string name="pp_app_warning_permission_tips">Апавяшчаць аб паводзінах праграм</string>
-  <string name="pp_app_warning_permission_tips_detail">Атрымліваць апавяшчэння, калі праграмы атрымліваюць доступ да вашага месцазнаходжання, запісваюць гук або выкарыстоўваюць камеру</string>
+  <string name="pp_app_warning_permission_tips_detail">Атрымліваць апавяшчэннi, калі праграмы атрымліваюць доступ да вашага месцазнаходжання, запісваюць гук або выкарыстоўваюць камеру</string>
   <string name="pp_call_phone_msg">Гісторыя выклікаў</string>
   <string name="pp_capability_approved_title">Нашы меры абароны прыватнасці былі пратэставаны і сертыфікаваныя вядучымі экспертамі галіны.</string>
   <string name="pp_chain_start_is_prohibited">Абмежаваць ланцуговы аўтазапуск</string>
@@ -4245,7 +4245,7 @@
   <string name="privacy_risk_dangerous_manager_msg">Дазволіць праграмам часткова кіраваць вашай прыладай</string>
   <string name="privacy_risk_dangerous_msg">Праграмы могуць выкарыстоўваць гэтыя дазволы для парушэння вашай прыватнасці</string>
   <string name="privacy_risk_dangerous_notice">Чытанне і кіраванне апавяшчэннямі</string>
-  <string name="privacy_risk_dangerous_notice_msg">Дазволіць праграмам чытаць апавяшчэння і кіраваць імі</string>
+  <string name="privacy_risk_dangerous_notice_msg">Дазволіць праграмам чытаць апавяшчэннi і кіраваць імі</string>
   <string name="privacy_risk_dangerous_permissions">Дазволы з высокім узроўнем рызыкі</string>
   <string name="privacy_risk_dangerous_permissions_msg">Каб абараніць вашу прыватнасць і прадухіліць раскрыццё канфідэнцыйнай інфармацыі, прадастаўляйце дазволы з высокай рызыкай толькі тады, калі гэта неабходна.</string>
   <string name="privacy_risk_dangerous_title">Вы далі дазволу з высокім рызыкай</string>
@@ -4271,8 +4271,8 @@
   <string name="privacy_risk_result_ignore_btn">Ігнараваць</string>
   <string name="privacy_risk_result_item_safe">Рызыка не выяўлена</string>
   <string name="privacy_risk_result_open_btn">Уключыць</string>
-  <string name="privacy_risk_result_photo_delete">Атрымліваць апавяшчэння аб выдаленых фотаздымках</string>
-  <string name="privacy_risk_result_photo_delete_msg">Атрымліваць апавяшчэння, калі праграмы выдаляюць элементы з галерэі без вашага дазволу</string>
+  <string name="privacy_risk_result_photo_delete">Атрымліваць апавяшчэннi аб выдаленых фотаздымках</string>
+  <string name="privacy_risk_result_photo_delete_msg">Атрымліваць апавяшчэннi, калі праграмы выдаляюць элементы з галерэі без вашага дазволу</string>
   <string name="privacy_risk_result_photo_sensitive">Вашыя фатаграфіі ўтрымліваюць асабістую інфармацыю</string>
   <string name="privacy_risk_result_protection">Абарона прыватнасці</string>
   <string name="privacy_risk_result_screen_fuzzy">Размыццё прэв\'ю праграм</string>
@@ -4339,7 +4339,7 @@
   <string name="power_center_consume_fast">Хуткі разрад</string>
   <string name="power_center_list_item_haptic_feedback_summary">Жэсты і сістэмныя элементы кіравання не будуць суправаджацца вібрацыяй</string>
   <string name="power_center_list_item_set_lockscreen_time_summary">Больш хуткая блакіроўка прылады эканоміць зарад батарэі</string>
-  <string name="power_center_list_item_wake_notification_summary">Уваходныя апавяшчэння будуць адлюстроўвацца толькі пры ўключэнні экрана</string>
+  <string name="power_center_list_item_wake_notification_summary">Уваходныя апавяшчэннi будуць адлюстроўвацца толькі пры ўключэнні экрана</string>
   <string name="power_center_optimize_title">Прапановы</string>
   <string name="power_center_problem_title">Рашэнне праблем</string>
   <string name="power_center_reduce_dpi_summary">QHD+ спажывае больш энергіі</string>
@@ -4408,7 +4408,7 @@
   <string name="special_perm_intercept_camera_msg">Абмежаванне выкарыстання любых функцый камеры</string>
   <string name="special_perm_intercept_camera_title">Выкарыстанне камеры</string>
   <string name="special_perm_intercept_chat_msg">Чытанне апавяшчэнняў з месэнджэраў</string>
-  <string name="special_perm_intercept_chat_title">Апавяшчэння месэнджэраў</string>
+  <string name="special_perm_intercept_chat_title">Апавяшчэннi месэнджэраў</string>
   <string name="special_perm_intercept_check_tip">Я ўсведамляю магчымыя рызыкі і добраахвотна бяру на сябе ўсе магчымыя наступствы</string>
   <string name="special_perm_intercept_control_screen_msg">Чытанне змесціва экрана і адлюстраванне па-над іншымi праграмамi</string>
   <string name="special_perm_intercept_control_screen_title">Чытанне змесціва экрана</string>
@@ -4567,7 +4567,7 @@
   <string name="night">Вечар</string>
   <string name="noon">Сярэдзіна дня</string>
   <string name="pm">ПП</string>
-  <string name="read_clipboard_ai_action_desc">Атрымліваць апавяшчэння кожны раз, калі доступ дазволены ці абмежаваны</string>
+  <string name="read_clipboard_ai_action_desc">Атрымліваць апавяшчэннi кожны раз, калі доступ дазволены ці абмежаваны</string>
   <string name="saturday">Субота</string>
   <string name="saturday_short">Суб</string>
   <string name="saturday_shortest">Суб</string>
@@ -5107,7 +5107,7 @@
   <string name="pp_virtual_identity_summary">Віртуальны ідэнтыфікатар (OAID) можа быць прадастаўлены праграмам замест вашага рэальнага ідэнтыфікатара. Ён абараняе вашу прыватнасць і дазваляе вам кантраляваць, як праграмы адсочваюць вашы паводзіны.</string>
   <string name="untrust_app_perm_install_list">Дазволіць доступ да спісу праграм, устаноўленых на гэтай прыладзе</string>
   <string name="untrust_app_perm_network">Дазволіць падключэнне да сеткі</string>
-  <string name="untrust_app_perm_notification">Дазволіць апавяшчэння</string>
+  <string name="untrust_app_perm_notification">Дазволіць апавяшчэннi</string>
   <string name="untrust_app_perm_oaid">Дазволіць доступ да вашага віртуальнай ідэнтыфікатара</string>
   <string name="untrust_app_perm_title">Праграма з невядомай крыніцы</string>
   <string name="untrust_app_perm_warn">Гэта праграма атрымана з невядомай крыніцы і можа прадстаўляць пагрозу бяспецы. Яна можа выкарыстоўваць пералічаныя ніжэй дазволы, каб паставіць пад пагрозу вашу прыватнасць. Надайце гэтыя дазволы пасля ўважлівага разгляду.</string>
@@ -5471,7 +5471,7 @@
   <string name="auto_task_nearby_wlan">Даступныя сеткі</string>
   <string name="auto_task_no_in_call">Калі няма выкліку</string>
   <string name="auto_task_no_need">Не, дзякуй</string>
-  <string name="auto_task_notification_tips">Апавяшчэння</string>
+  <string name="auto_task_notification_tips">Апавяшчэннi</string>
   <string name="auto_task_notify_title_has_cancel">Задача адменена</string>
   <string name="auto_task_notify_title_has_cancel_exit">Аўтаматычнае завяршэнне адменена</string>
   <string name="auto_task_notify_title_has_exclude">Задача выканана</string>
@@ -5496,19 +5496,19 @@
   <string name="auto_task_set_exit_condition">Выкарыстоўваць ўмовы завяршэння</string>
   <string name="auto_task_set_exit_condition_summary">Завершыце задачу, калі выконваецца адна з наступных умоў</string>
   <string name="auto_task_set_open_app">Усталяваць</string>
-  <string name="auto_task_setting_allow_notify">Дазволіць апавяшчэння</string>
-  <string name="auto_task_setting_allow_tips_smart_task">Дазволіць апавяшчэння з разумнымі прапановамі</string>
-  <string name="auto_task_setting_before_exclude_notify">Апавяшчэння перад задачай</string>
-  <string name="auto_task_setting_exclude_notify">Апавяшчэння падчас выканання задачы</string>
+  <string name="auto_task_setting_allow_notify">Дазволіць апавяшчэннi</string>
+  <string name="auto_task_setting_allow_tips_smart_task">Дазволіць апавяшчэннi з разумнымі прапановамі</string>
+  <string name="auto_task_setting_before_exclude_notify">Апавяшчэннi перад задачай</string>
+  <string name="auto_task_setting_exclude_notify">Апавяшчэннi падчас выканання задачы</string>
   <string name="auto_task_setting_need_reset">Аднавіць значэнні па змаўчанні пасля завяршэння задачы</string>
   <string name="auto_task_setting_show_task_shortcut_in_desktop">Цэтлік на працоўным стале</string>
-  <string name="auto_task_show_notification_before_exclude">Апавяшчэння перад выкананнем</string>
-  <string name="auto_task_show_notification_before_exit">Апавяшчэння перад завяршэннем</string>
+  <string name="auto_task_show_notification_before_exclude">Апавяшчэннi перад выкананнем</string>
+  <string name="auto_task_show_notification_before_exit">Апавяшчэннi перад завяршэннем</string>
   <string name="auto_task_temp_allow">ОК</string>
   <string name="auto_task_temp_no_exit">Адмена</string>
   <string name="auto_task_temp_no_need">Адмена</string>
   <string name="auto_task_voice_dialog_alarm_title">Будзільнікi</string>
-  <string name="auto_task_voice_dialog_call_title">Выклікі, паведамлення, нагадванні</string>
+  <string name="auto_task_voice_dialog_call_title">Выклікі, паведамленнi, нагадванні</string>
   <string name="auto_task_voice_dialog_media_title">Музыка, гульні, медыя</string>
   <string name="default_condition_summary">Напрыклад: \"Узровень зараду ніжэй, чым %s\"</string>
   <string name="default_condition_title">Дадаць ўмову</string>

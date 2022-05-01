@@ -328,13 +328,13 @@
   <string name="global_joke_copy_toast_message">Тэкст паспяхова скапіяваны</string>
   <string name="global_joke_expand_text">Паказаць яшчэ</string>
   <string name="global_onthisday_com">OnThisDay.com</string>
-  <string name="greeting_card_reminder_info_text">Атрымліваць штодзённыя апавяшчэння аб прывітаньнях і статусах</string>
+  <string name="greeting_card_reminder_info_text">Атрымліваць штодзённыя апавяшчэннi пра прывітаннi і статусы</string>
   <string name="greeting_success_subtext">Апавяшчэнні ўключаны</string>
   <string name="greeting_success_text">Гатова</string>
   <string name="greetingcard_end_of_page">На сёння гэта ўсё. Вяртайцеся заўтра!</string>
   <string name="greetingcard_notification_desc">Паглядзіце апошнія статусы</string>
   <string name="greetingcard_notification_title">Ваша штодзённая стужка гатовая</string>
-  <string name="greetingcard_reminder_dialog_message">Дазволіць Каляндару адпраўляць вам штодзённыя апавяшчэння аб прывітаньнях і статусах?</string>
+  <string name="greetingcard_reminder_dialog_message">Дазволіць Каляндару адпраўляць вам штодзённыя апавяшчэннi пра прывітаннi і статусы?</string>
   <string name="greetingcard_reminder_dialog_negative">Не, дзякуй</string>
   <string name="greetingcard_reminder_dialog_positive">Дазволіць</string>
   <string name="greetingcard_reminder_dialog_title">Атрымліваць апавяшчэнні</string>
@@ -342,9 +342,9 @@
   <string name="greetingcard_reminder_disabled_text">Уключыць напаміны</string>
   <string name="greetingcard_reminder_enabled_status">Вы будзеце атрымліваць штодзённыя напаміны пра статусы WhatsApp.</string>
   <string name="greetingcard_reminder_enabled_text">Напаміны ўключаны</string>
-  <string name="greetingcard_reminder_pref_desc">Атрымліваць штодзённыя апавяшчэння аб прывітаньнях і статусах</string>
+  <string name="greetingcard_reminder_pref_desc">Атрымліваць штодзённыя апавяшчэннi пра прывітаннi і статусы</string>
   <string name="greetingcard_reminder_pref_title">Атрымліваць апавяшчэнні</string>
-  <string name="greetingcard_select_activity_label">Усе прывітання</string>
+  <string name="greetingcard_select_activity_label">Усе прывітаннi</string>
   <string name="greetingcard_view_all_text">Праглядзець усе</string>
   <string name="guide_card_close">Закрыць</string>
   <string name="guide_card_import">Імпарт</string>
@@ -424,7 +424,7 @@
   <string name="menstruation_record">Запісаныя месячныя</string>
   <string name="menstruation_select_date">Абраць дату</string>
   <string name="menstruation_setting">Налады менструацыі</string>
-  <string name="menstrution_auth_description">Функцыя «Менструацыя» дазваляе весці запісы аб менструальном цыкле, вызначаць прыблізныя даты пачатку цыклаў, а таксама атрымліваць карысныя паведамлення. Усе дадзеныя захоўваюцца лакальна на вашай прыладзе.</string>
+  <string name="menstrution_auth_description">Функцыя «Менструацыя» дазваляе весці запісы аб менструальном цыкле, вызначаць прыблізныя даты пачатку цыклаў, а таксама атрымліваць карысныя паведамленнi. Усе дадзеныя захоўваюцца лакальна на вашай прыладзе.</string>
   <string name="menu_general_preferences">Агульныя налады</string>
   <string name="menu_reminder_preferences">Апавяшчэнні</string>
   <string name="mesens_card_title_stop_today">Месячныя сканчаюцца сёння</string>
@@ -1022,7 +1022,6 @@
   <string name="horoscope_card_love">Любоўны гараскоп:</string>
   <string name="horoscope_card_set_bazi">Наладзіць гараскоп</string>
   <string name="horoscope_card_working">Працоўны гараскоп:</string>
-  <string name="horoscope_partner">пры падтрымцы Staqu</string>
   <string name="hotel_detail_title">Інфармацыя аб гатэлі</string>
   <string name="hotel_event_delete_successfully">Браніраванне паспяхова выдалена</string>
   <string name="hotel_event_title">Знаходжанне ў гатэлі:</string>

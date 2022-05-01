@@ -106,13 +106,13 @@
     <item quantity="few">%2$d праграмы, уключаючы %1$1s, атрымліваюць інфармацыю аб месцазнаходжанні</item>
   </plurals>
   <plurals name="app_behavior_privacy_manager_off">
-    <item quantity="other">У %1$d праграмах адключаны апавяшчэння аб паводзінах</item>
-    <item quantity="one">У %1$d праграме адключаны апавяшчэння аб паводзінах</item>
+    <item quantity="other">У %1$d праграмах адключаны апавяшчэннi аб паводзінах</item>
+    <item quantity="one">У %1$d праграме адключаны апавяшчэннi аб паводзінах</item>
     <item quantity="zero">Няма праграм з адключанымi апавяшчэннямi аб паводзінах</item>
   </plurals>
   <plurals name="app_behavior_privacy_manager_on">
-    <item quantity="other">У %1$d праграмах уключаны апавяшчэння аб паводзінах</item>
-    <item quantity="one">У %1$d праграме уключаны апавяшчэння аб паводзінах</item>
+    <item quantity="other">У %1$d праграмах уключаны апавяшчэннi аб паводзінах</item>
+    <item quantity="one">У %1$d праграме уключаны апавяшчэннi аб паводзінах</item>
     <item quantity="zero">Няма праграм з уключанымi апавяшчэннямi аб паводзінах</item>
   </plurals>
   <plurals name="app_behavior_wakepath_multiple">
@@ -598,7 +598,7 @@
   <plurals name="number_masked_text">
     <item quantity="other">%d апавяшчэнняў схаваныя</item>
     <item quantity="one">%d апавяшчэнне схаванае</item>
-    <item quantity="few">%d апавяшчэння схаваныя</item>
+    <item quantity="few">%d апавяшчэннi схаваныя</item>
     <item quantity="many">%d апавяшчэнняў схаваныя</item>
   </plurals>
   <plurals name="number_to_lock">
@@ -610,7 +610,7 @@
   <plurals name="number_to_mask_text">
     <item quantity="other">%d апавяшчэнняў бачныя</item>
     <item quantity="one">%d апавяшчэнне бачнае</item>
-    <item quantity="few">%d апавяшчэння бачныя</item>
+    <item quantity="few">%d апавяшчэннi бачныя</item>
     <item quantity="many">%d апавяшчэнняў бачныя</item>
   </plurals>
   <plurals name="numeric_recording_incorrect_too_short">

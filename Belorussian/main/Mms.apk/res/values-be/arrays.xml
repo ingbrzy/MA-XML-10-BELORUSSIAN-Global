@@ -107,8 +107,8 @@
     <item>Сінхранізаваць абраныя SIM карткі</item>
   </string-array>
   <string-array name="switch_sdk">
-    <item>Mi Паведамлення</item>
-    <item>CMCC Разумныя паведамлення</item>
+    <item>Mi Паведамленнi</item>
+    <item>CMCC Разумныя паведамленнi</item>
   </string-array>
   <string-array name="dialog_choice_report_class">
     <item>Звычайнае SMS</item>
@@ -119,7 +119,7 @@
   </string-array>
   <string-array name="dialog_choice_specific_correct_as_normal">
     <item>Рэкламныя паведамленні ад %s</item>
-    <item>Паведамлення службы дастаўкі ад %s</item>
+    <item>Паведамленнi службы дастаўкі ад %s</item>
     <item>Фінансавыя паведамленні ад %s</item>
   </string-array>
   <string-array name="message_sending_method">

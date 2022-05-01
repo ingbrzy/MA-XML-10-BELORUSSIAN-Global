@@ -20,7 +20,7 @@
   <string name="maintenance_mode_loading">Запуск рэжыму абслугоўвання, хутка прылада перазагрузіцца...</string>
   <string name="maintenance_mode_reboot">Перазагрузка рэжыму абслугоўвання</string>
   <string name="maintenance_mode_title">Комплексная абарона дадзеных вашай прылады</string>
-  <string name="maintenance_mode_watch_out">Абараніце важныя асабістыя дадзеныя, такія як фота, відэа, кантакты, паведамлення.</string>
+  <string name="maintenance_mode_watch_out">Абараніце важныя асабістыя дадзеныя, такія як фота, відэа, кантакты, паведамленнi.</string>
   <string name="open">Адкрыць рэжым абслугоўвання</string>
   <string name="open_maintenance_mode">Адкрыць рэжым абслугоўвання</string>
   <string name="open_maintenance_mode_msg">"Каб пазбегнуць страты дадзеных, рэкамендуецца адпраўляць прылада на пасляпродажнае абслугоўванне пасля "</string>

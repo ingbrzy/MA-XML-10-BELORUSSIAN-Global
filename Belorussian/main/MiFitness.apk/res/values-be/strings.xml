@@ -74,7 +74,7 @@
   <string name="about_setting_device_show_connection_notification_des">Гэта паўплывае на стабільнасць злучэння прылады і функцыю сінхранізацыі надвор\'я пасля закрыцця, рэкамендуецца ўключыць гэты перамыкач.</string>
   <string name="about_setting_network">Наладзіць сетку</string>
   <string name="about_setting_newmsg_notify">Апавяшчэнне аб новым паведамленні</string>
-  <string name="about_setting_newmsg_notify_closed_desc">Вы можаце прапусціць важныя паведамленні. Уключыце, каб дазволіць апавяшчэння.</string>
+  <string name="about_setting_newmsg_notify_closed_desc">Вы можаце прапусціць важныя паведамленні. Уключыце, каб дазволіць апавяшчэннi.</string>
   <string name="about_setting_newmsg_notify_opened_desc">Адключыўшы апавяшчэння, вы можаце прапусціць важныя паведамленні.</string>
   <string name="about_setting_not_upload_gps">Не загружаць інфармацыю, звязаную з GPS</string>
   <string name="about_setting_not_upload_gps_detail">Спыніць загрузку дадзеных аб месцазнаходжанні ў воблака. Вы можаце сутыкнуцца з праблемамі сінхранізацыі маршрутаў паміж праграмамі, а таксама можаце страціць частку дадзеных аб маршрутах.</string>
@@ -671,7 +671,7 @@
   <string name="device_settings_alarm_select_please">Абярыце будзільнік</string>
   <string name="device_settings_alarm_update_failed">Немагчыма дадаць будзільнік</string>
   <string name="device_settings_app_layout_setting">Налады макета</string>
-  <string name="device_settings_app_notify">Напамін аб апавяшчэння праграмы</string>
+  <string name="device_settings_app_notify">Напамін аб апавяшчэннi праграмы</string>
   <string name="device_settings_app_sort_setting">Сартаванне</string>
   <string name="device_settings_app_sort_toptips">Націсніце і ўтрымлівайце правую частку спісу і перацягнуць уверх і ўніз, каб адрэгуляваць парадак адлюстравання\n* Сартаванне праграм падтрымліваецца толькі тады, калі ў гадзінах выкарыстоўваецца макет працоўнага стала з сеткай з 9 квадратаў.</string>
   <string name="device_settings_appsort_drag_hided_item_here">Перацягнеце сюды аб\'екты, каб схаваць іх.</string>
@@ -798,7 +798,7 @@
   <string name="device_settings_detection_heart_rate">Кругласутачны маніторынг пульса</string>
   <string name="device_settings_detection_heart_rate_des">Аўтаматычна вымяраць у адпаведнасці з зададзенай частатой і запісваць частату пульса на працягу дня</string>
   <string name="device_settings_detection_heart_rate_des2">Спачатку ўсталюйце частату вымярэння пульса на працягу ўсяго дня ў межах 10 хвілін</string>
-  <string name="device_settings_detection_heart_rate_warning">Апавяшчэння аб пульсе</string>
+  <string name="device_settings_detection_heart_rate_warning">Апавяшчэннi аб пульсе</string>
   <string name="device_settings_detection_heart_rate_warning_des">Апавяшчаць, калі пульс паднімецца вышэй за ўстаноўленае значэнне, пры адсутнасці актыўнасці на працягу апошніх 10 хвілін.</string>
   <string name="device_settings_detection_heart_rate_warning_des2">Апавяшчаць, калі пульс паднімецца вышэй за ўстаноўленае значэнне, пры адсутнасці актыўнасці на працягу апошніх 10 хвілін.</string>
   <string name="device_settings_detection_hr_disable_tips">Каб змяніць частату, адключыце абвесткі аб нерэгулярным рытме.</string>
@@ -1778,7 +1778,7 @@
   <string name="health_curse_add">Стварыць запіс</string>
   <string name="health_curse_adjust">Змяніць цыкл</string>
   <string name="health_curse_ahead_days">Апавяшчаць загадзя</string>
-  <string name="health_curse_app_notify">Адпраўляць апавяшчэння на тэлефон</string>
+  <string name="health_curse_app_notify">Адпраўляць апавяшчэннi на тэлефон</string>
   <string name="health_curse_blood">Крывацёк</string>
   <string name="health_curse_danger">Акно фертыльнасці</string>
   <string name="health_curse_danger_end_today">Чакаецца, што фертыльны перыяд завершыцца сёння</string>
@@ -1807,9 +1807,9 @@
   <string name="health_curse_motion">Настрой</string>
   <string name="health_curse_notice">Апавяшчэння</string>
   <string name="health_curse_notify_ahead">Нагадваць загадзя</string>
-  <string name="health_curse_notify_device">Адпраўляць апавяшчэння на прыладу</string>
-  <string name="health_curse_notify_ovum">Апавяшчэння аб авуляцыі</string>
-  <string name="health_curse_notify_start">Апавяшчэння аб менструацыі</string>
+  <string name="health_curse_notify_device">Адпраўляць апавяшчэннi на прыладу</string>
+  <string name="health_curse_notify_ovum">Апавяшчэннi аб авуляцыі</string>
+  <string name="health_curse_notify_start">Апавяшчэннi аб менструацыі</string>
   <string name="health_curse_ovum">Авуляцыя</string>
   <string name="health_curse_ovum_before">Дзень авуляцыі. %d дзень акна фертыльнасці.</string>
   <string name="health_curse_ovum_cur">Дзень авуляцыі. %d дзень акна фертыльнасці.</string>
@@ -2973,7 +2973,7 @@
   <string name="no_remind">Больш не нагадваць</string>
   <string name="noon">Сярэдзіна дня</string>
   <string name="not_set">Не зададзена</string>
-  <string name="notify_accept_app_remind">Атрымліваць апавяшчэння ад праграм</string>
+  <string name="notify_accept_app_remind">Атрымліваць апавяшчэннi ад праграм</string>
   <string name="notify_app_full_name">Здароўе</string>
   <string name="notify_call_log_permission">Прадастаўце неабходныя дазволы для прагляду нумара тэлефона.</string>
   <string name="notify_call_notify_delay_notice">Затрымка</string>
@@ -2995,10 +2995,10 @@
   <string name="notify_common_save_fail">Немагчыма захаваць</string>
   <string name="notify_common_save_success">Паспяхова захавана</string>
   <string name="notify_common_saving">Захаванне</string>
-  <string name="notify_device_notification">Апавяшчэння праграм</string>
+  <string name="notify_device_notification">Апавяшчэннi праграм</string>
   <string name="notify_device_notification_auto_screen">Уключаць экран</string>
-  <string name="notify_device_notification_close_info">Уключыце, каб атрымліваць апавяшчэння на прыладзе.</string>
-  <string name="notify_device_notification_label">Абярыце праграмы, якія могуць адпраўляць апавяшчэння.</string>
+  <string name="notify_device_notification_close_info">Уключыце, каб атрымліваць апавяшчэннi на прыладзе.</string>
+  <string name="notify_device_notification_label">Абярыце праграмы, якія могуць адпраўляць апавяшчэннi.</string>
   <string name="notify_device_notification_only_screen_lock">Паказваць на экране блакавання</string>
   <string name="notify_device_notification_open_info">Атрымліваць апавяшчэння на прыладзе</string>
   <string name="notify_device_notification_open_sub_info">Аб апавяшчэннях</string>
@@ -3029,7 +3029,7 @@
   <string name="notify_permission_send_sms_info">Каб адказваць на выклікі паведамленнямі, дазвольце праграме адпраўляць SMS у раздзеле \"Настройкі\" > \"Дазволы\" на тэлефоне.</string>
   <string name="notify_privacy_description">Папярэджанне</string>
   <string name="notify_second">сек</string>
-  <string name="notify_select_app_remind">Абярыце праграму, ад якой вы хочаце атрымліваць апавяшчэння на прыладзе</string>
+  <string name="notify_select_app_remind">Абярыце праграму, ад якой вы хочаце атрымліваць апавяшчэннi на прыладзе</string>
   <string name="notify_sms_reply_edit_content">Змяніць</string>
   <string name="notify_sms_reply_highest_limit_tips">Вы можаце дадаць да 10 адказаў</string>
   <string name="notify_sms_reply_lowest_limit_tips">Пакіньце хаця б адзін адказ</string>
@@ -4186,8 +4186,8 @@
   <string name="xms_thirdapp_device_auth_manage">Дазволы</string>
   <string name="xms_thirdapp_permission_data_manager_des">Інфармацыя аб падлучаных носных прыладах.</string>
   <string name="xms_thirdapp_permission_data_manager_name">Атрымліваць доступ да інфармацыі аб прыладзе</string>
-  <string name="xms_thirdapp_permission_notify_des">Апавяшчэння на прыладзе.</string>
-  <string name="xms_thirdapp_permission_notify_name">Адпраўляць апавяшчэння</string>
+  <string name="xms_thirdapp_permission_notify_des">Апавяшчэннi на прыладзе.</string>
+  <string name="xms_thirdapp_permission_notify_name">Адпраўляць апавяшчэннi</string>
   <string name="xms_thirdapp_permission_request_info">Праграма %s можа:</string>
   <string name="xms_thirdapp_revoke_auth">Кіраванне дазволамі даступна ў раздзеле \"Профіль\" > \"Пашыраныя налады\" > \"Дазволы\".</string>
   <string name="yesterday">Учора</string>

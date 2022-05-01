@@ -41,7 +41,7 @@
   <string name="accessibility_wifi_two_bars">Два слупкi Wi-Fi.</string>
   <string name="active_input_method_subtypes">Актыўныя метады ўводу</string>
   <string name="adb_keys_warning_message">Адклікаць доступ да адладкі USB з усіх камп\'ютараў, на якiх вы уваходзiлi ў сiстэму?</string>
-  <string name="adb_warning_message">Адладка USB прызначана толькі для мэтаў распрацоўкі. Яна можа выкарыстоўвацца, каб капіяваць дадзеныя паміж кампутарам і прыладай, усталёўваць прыкладанні на прыладзе без папярэдняга апавяшчэння і чытаць дадзеныя дзённiка.</string>
+  <string name="adb_warning_message">Адладка USB прызначана толькі для мэтаў распрацоўкі. Яна можа выкарыстоўвацца, каб капіяваць дадзеныя паміж кампутарам і прыладай, усталёўваць праграмы на прыладзе без папярэдняга апавяшчэння і чытаць дадзеныя дзённiка.</string>
   <string name="adb_warning_title">Дазволіць адладку USB?</string>
   <string name="alarm_template">у %1$s</string>
   <string name="alarm_template_far">у %1$s</string>

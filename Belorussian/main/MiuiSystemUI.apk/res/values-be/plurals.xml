@@ -180,9 +180,9 @@
     <item quantity="many">%d катэгорый апавяшчэнняў</item>
   </plurals>
   <plurals name="notification_num_channels_desc">
-    <item quantity="other">Гэта праграма мае 1 з %d катэгорый паведамлення</item>
+    <item quantity="other">Гэтыя праграмы маюць 1 з %d катэгорый паведамлення</item>
     <item quantity="one">Гэта праграма мае 1 з %d катэгорый паведамлення</item>
-    <item quantity="few">Гэта праграма мае 1 з %d катэгорый паведамлення</item>
+    <item quantity="few">Гэтыя праграмы маюць 1 з %d катэгорый паведамлення</item>
     <item quantity="many">Гэтыя праграмы маюць 1 з %d катэгорый паведамлення</item>
   </plurals>
   <plurals name="phone_locked_timeout_minutes_string">

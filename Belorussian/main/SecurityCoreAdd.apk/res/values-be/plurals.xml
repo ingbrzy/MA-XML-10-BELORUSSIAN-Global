@@ -13,7 +13,7 @@
         <item quantity="many">%d апавяшчэнняў у першай прасторы</item>
     </plurals>
     <plurals name="second_space_notification_format">
-        <item quantity="other">%d апавяшчэння ў другой прасторы</item>
+        <item quantity="other">%d апавяшчэнняў ў другой прасторы</item>
         <item quantity="one">%d апавяшчэнне ў другой прасторы</item>
         <item quantity="few">%d апавяшчэння ў другой прасторы</item>
         <item quantity="many">%d апавяшчэнняў у другой прасторы</item>

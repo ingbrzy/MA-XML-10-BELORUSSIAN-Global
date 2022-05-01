@@ -335,7 +335,7 @@
   <string name="component_battery">Батарэя</string>
   <string name="component_date_time">Дата і час</string>
   <string name="component_lunar">Традыцыйны кітайскі каляндар</string>
-  <string name="component_notification">Апавяшчэння</string>
+  <string name="component_notification">Апавяшчэннi</string>
   <string name="component_step">Крокі</string>
   <string name="continue_to_use">Працягнуць</string>
   <string name="step_component_info_active_tip">Падлік крокаў прадастаўлены праграмай Здароўе. Для працягу прыміце ўмовы Xiaomi Здароўе.</string>
@@ -412,7 +412,7 @@
   <string name="miuix_appcompat_select_all">Выбраць усе</string>
   <string name="miuix_appcompat_select_item">Выбраць элементы</string>
   <string name="send">Адправіць</string>
-  <string name="notification_channel_alerts">Апавяшчэння</string>
+  <string name="notification_channel_alerts">Апавяшчэннi</string>
   <string name="garbage_count">Ёсць %1$s старых экзэмпляраў</string>
   <string name="memory_leak">Уцечка памяці</string>
   <string name="temporary_style_5">Паказваць на працягу 5 секунд</string>

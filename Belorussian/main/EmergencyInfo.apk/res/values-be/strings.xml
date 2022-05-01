@@ -77,7 +77,7 @@
   <string name="adb_pairing_device_dialog_pairing_code_label">Код спалучэння Wi‑Fi</string>
   <string name="adb_pairing_device_dialog_title">Спалучыць з прыладай</string>
   <string name="adb_qrcode_pairing_device_failed_msg">Не ўдалося спалучыць прыладу. QR-код няправільны, ці прылада падключана не да той самай сеткі.</string>
-  <string name="adb_warning_message">Адладка USB прызначана толькі для мэтаў распрацоўкі. Яна можа выкарыстоўвацца, каб капіяваць дадзеныя паміж кампутарам і прыладай, усталёўваць прыкладанні на прыладзе без папярэдняга апавяшчэння і чытаць дадзеныя дзённiка.</string>
+  <string name="adb_warning_message">Адладка USB прызначана толькі для мэтаў распрацоўкі. Яна можа выкарыстоўвацца, каб капіяваць дадзеныя паміж кампутарам і прыладай, усталёўваць праграмы на прыладзе без папярэдняга апавяшчэння і чытаць дадзеныя дзённiка.</string>
   <string name="adb_warning_title">Дазволіць адладку USB?</string>
   <string name="adb_wireless_connection_failed_message">Пераканайцеся, што прылада \"%1$s\" падключана да правільнай сеткі</string>
   <string name="adb_wireless_connection_failed_title">Не ўдалося падключыцца</string>
@@ -271,8 +271,8 @@
   <string name="daltonizer_mode_tritanomaly">Трытанамалія (сіні-жоўты)</string>
   <string name="daltonizer_type_overridden">Перавызначаны %1$s</string>
   <string name="data_usage_ota">Абнаўленні сістэмы</string>
-  <string name="data_usage_uninstalled_apps">Выдаленыя прыкладанні</string>
-  <string name="data_usage_uninstalled_apps_users">Выдаленыя прыкладанні і карыстальнiкi</string>
+  <string name="data_usage_uninstalled_apps">Выдаленыя праграмы</string>
+  <string name="data_usage_uninstalled_apps_users">Выдаленыя праграмы і карыстальнiкi</string>
   <string name="date_of_birth">Дата нараджэння</string>
   <string name="debug_app">Выберыце праграму для адладкі</string>
   <string name="debug_app_not_set">Няма прыкладанняў для адладкi</string>

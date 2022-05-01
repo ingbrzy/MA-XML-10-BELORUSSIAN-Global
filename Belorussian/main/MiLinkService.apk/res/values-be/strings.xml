@@ -35,7 +35,7 @@
   <string name="clearable_edittext_clear_description">Ачысціць</string>
   <string name="console_guide_btn_got_it">Зразумела</string>
   <string name="console_guide_subtitle_hang_up">Не перапыняйце трансляцыю, калі экран тэлефона выключаны. Гэтая функцыя можа павялічыць энергаспажыванне.</string>
-  <string name="console_guide_subtitle_private">Ня перадавайце усплывальныя паведамлення, паведамлення аб ўваходзячых выкліках і іншыя элементы, якія могуць утрымліваць асабістую інфармацыю.</string>
+  <string name="console_guide_subtitle_private">Ня перадавайце усплывальныя паведамленнi, паведамленнi аб ўваходзячых выкліках і іншыя элементы, якія могуць утрымліваць асабістую інфармацыю.</string>
   <string name="console_guide_subtitle_small_window">Мінімізуйце праецыюемае акно, каб мець магчымасць выкарыстоўваць іншыя функцыі вашага тэлефона падчас трансляцыі</string>
   <string name="date_picker_lunar">Традыцыйны кітайскі каляндар</string>
   <string name="dialog_can_not_find_device">Не атрымалася знайсці прылады паблізу</string>
@@ -382,7 +382,7 @@
   <string name="screen_projection_characteristics">Спецыяльныя функцыі</string>
   <string name="screen_projection_characteristics_off_screen_summary">Вы можаце працягваць трансляцыю, калі экран вашай прылады выключаны. Гэтая функцыя зніжае энергаспажыванне.</string>
   <string name="screen_projection_characteristics_off_screen_title">Трансляцыя пры выключаным экране</string>
-  <string name="screen_projection_characteristics_privacy_protect_summary">Схаваць усплывальныя вокны, паведамлення аб ўваходных выкліках і іншыя элементы, якія могуць утрымліваць асабістую інфармацыю.</string>
+  <string name="screen_projection_characteristics_privacy_protect_summary">Схаваць усплывальныя вокны, паведамленнi аб ўваходных выкліках і іншыя элементы, якія могуць утрымліваць асабістую інфармацыю.</string>
   <string name="screen_projection_characteristics_privacy_protect_title">Схаваць асабістую інфармацыю</string>
   <string name="screen_projection_characteristics_small_window_summary">Мінімізуйце вакно падчас трансляцыі, гэта дазволіць карыстацца іншымі функцыямі тэлефона.</string>
   <string name="screen_projection_characteristics_small_window_title">Мінімізацыя вакна</string>
@@ -413,13 +413,13 @@
   <string name="normal_device_title">Ненадзейныя прылады</string>
   <string name="notification_cast_desc">Трансляцыя…</string>
   <string name="notification_desc_scanning">Пошук прылад паблізу…</string>
-  <string name="path_setting_cast">Падлучэння і абмен/Трансляцыя</string>
-  <string name="path_setting_cast_demo">Падлучэння і абмен/Трансляцыя/Дэманстрацыя</string>
-  <string name="path_setting_cast_demo_document">Падлучэння і абмен/Трансляцыя/Дэманстрацыя/Дакументы</string>
-  <string name="path_setting_cast_demo_gallery">Падлучэння і абмен/Трансляцыя/Дэманстрацыя/Фота і відэа</string>
-  <string name="path_setting_cast_demo_game">Падлучэння і абмен/Трансляцыя/дэмаверсій/Гульні</string>
-  <string name="path_setting_cast_feature">Падлучэння і абмен/Трансляцыя/Спецыяльныя функцыі</string>
-  <string name="path_setting_cast_help">Падлучэння і абмен/Трансляцыя/Даведка</string>
+  <string name="path_setting_cast">Падлучэннi і абмен/Трансляцыя</string>
+  <string name="path_setting_cast_demo">Падлучэннi і абмен/Трансляцыя/Дэманстрацыя</string>
+  <string name="path_setting_cast_demo_document">Падлучэннi і абмен/Трансляцыя/Дэманстрацыя/Дакументы</string>
+  <string name="path_setting_cast_demo_gallery">Падлучэннi і абмен/Трансляцыя/Дэманстрацыя/Фота і відэа</string>
+  <string name="path_setting_cast_demo_game">Падлучэннi і абмен/Трансляцыя/дэмаверсій/Гульні</string>
+  <string name="path_setting_cast_feature">Падлучэннi і абмен/Трансляцыя/Спецыяльныя функцыі</string>
+  <string name="path_setting_cast_help">Падлучэннi і абмен/Трансляцыя/Даведка</string>
   <string name="trust_device_desc">Гэтыя прылады з\'явяцца тут першымі, калі яны будуць паблізу</string>
   <string name="trust_device_dialog_desc"><Data>"%s калі вы адзначыце яго як надзейнае, яно з\'явіцца сярод даступных прылад першым, калі яно апынецца паблізу.&lt;br>&lt;br>Вы можаце &lt;a href=milink://com.milink.service/trust>кіраваць даверанымі прыладамі&lt;/a> у Наладах."</Data></string>
   <string name="trust_device_dialog_pos">Давяраць</string>

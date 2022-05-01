@@ -147,10 +147,10 @@
   <string name="switch_audio_device_hfp_toast_hint">Выберыце аўдыёвыхад па змаўчанні, каб зноў пачаць прайграванне гуку на гэтай прыладзе.</string>
   <string name="switch_audio_device_phone">Гэта прылада</string>
   <string name="switch_audio_device_phone_summary">Прайграванне аўдыё на гэтай прыладзе</string>
-  <string name="switch_audio_device_switch_hint">Вы можаце адключыць апавяшчэння аб падлучаных прыладах ў Налады - Bluetooth - Дадатковыя налады.</string>
+  <string name="switch_audio_device_switch_hint">Вы можаце адключыць апавяшчэннi аб падлучаных прыладах ў Налады - Bluetooth - Дадатковыя налады.</string>
   <string name="switch_audio_dialog_title">Выбар прылады вываду</string>
   <string name="switch_audio_notification_content">"Бягучая прылада вываду гуку: "</string>
-  <string name="switch_audio_notification_title">Падлучэння</string>
+  <string name="switch_audio_notification_title">Падлучэннi</string>
   <string name="transfer_clear_dlg_msg">Усе элементы будуць выдаленыя са спісу.</string>
   <string name="transfer_clear_dlg_title">Ачысціць</string>
   <string name="transfer_menu_clear">Выдаліць са спісу</string>

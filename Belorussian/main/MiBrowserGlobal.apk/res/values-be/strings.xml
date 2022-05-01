@@ -322,7 +322,7 @@
   <string name="com_facebook_loginview_logged_in_using_facebook">Выкананы ўваход праз Facebook</string>
   <string name="com_facebook_send_button_text">Адправіць</string>
   <string name="com_facebook_share_button_text">Падзяліцца</string>
-  <string name="com_facebook_smart_device_instructions">Каб прывязаць ваш акаўнт, адкрыйце праграму Facebook на сваей мабільнай прыладзе і праверце паведамлення.</string>
+  <string name="com_facebook_smart_device_instructions">Каб прывязаць ваш акаўнт, адкрыйце праграму Facebook на сваей мабільнай прыладзе і праверце паведамленнi.</string>
   <string name="com_facebook_smart_device_instructions_or">- АБО -</string>
   <string name="com_facebook_smart_login_confirmation_cancel">Не Вы?</string>
   <string name="com_facebook_smart_login_confirmation_continue_as">Працягнуць як %1$s</string>
@@ -859,7 +859,7 @@
   <string name="miui_bookmark_action_bar_add_group_title">Дадаць групу</string>
   <string name="miui_bookmark_action_bar_new_group_title">Новая група</string>
   <string name="miui_facebook_enable_pref_summary">Больш зручнае кіраванне апавяшчэннямі Facebook</string>
-  <string name="miui_facebook_enable_pref_title">Апавяшчэння Facebook</string>
+  <string name="miui_facebook_enable_pref_title">Апавяшчэннi Facebook</string>
   <string name="miui_facebook_open_dialog_close">Адключыць</string>
   <string name="miui_facebook_open_dialog_msg">Уключыце для больш зручнага кіравання апавяшчэннямі Facebook</string>
   <string name="miui_facebook_open_dialog_open">Уключыць</string>
@@ -1213,7 +1213,7 @@
   <string name="not_show_again">Больш не паказваць</string>
   <string name="noti_dialog_agree">Абмежаваць</string>
   <string name="noti_dialog_cancel">Адмяніць</string>
-  <string name="noti_dialog_content">Абмежаваць апавяшчэння для гэтага сайта?</string>
+  <string name="noti_dialog_content">Абмежаваць апавяшчэннi для гэтага сайта?</string>
   <string name="noti_dialog_title">Абмежаванне апавяшчэнняў...</string>
   <string name="noti_no_permission_record">Няма аб\'ектаў.</string>
   <string name="noti_web_allow">Дазволена</string>
@@ -1361,7 +1361,7 @@
   <string name="permission_location">Месцазнаходжанне</string>
   <string name="permission_mic">Мікрафон</string>
   <string name="permission_non_essential">Неабавязковыя дазволы</string>
-  <string name="permission_notification">%s хоча адпраўляць паведамлення.</string>
+  <string name="permission_notification">%s хоча адпраўляць паведамленнi.</string>
   <string name="permission_notification_prompt">Вы можаце абмежаваць апавяшчэнні для гэтага сайта ў наладах.</string>
   <string name="permission_open_camera">Спачатку падайце Mi Браўзэру доступ да вашай камеры ў Наладах</string>
   <string name="permission_open_location">Спачатку падайце Mi Браўзэру доступ да вашага месцазнаходжання ў Наладах</string>
@@ -1543,7 +1543,7 @@
   <string name="pref_site_settings_mic_ask_permission">Падайце дазволы на доступ да мікрафону ў &lt;font color="#247BFF">Наладах Android&lt;/font>.</string>
   <string name="pref_site_settings_midi_sysex_permission">Поўны кантроль над прыладай MIDI</string>
   <string name="pref_site_settings_notificaion">Апавяшчэнні</string>
-  <string name="pref_site_settings_notificaion_ask">Сайты могуць пытацца, ці хочаце вы атрымліваць паведамлення</string>
+  <string name="pref_site_settings_notificaion_ask">Сайты могуць пытацца, ці хочаце вы атрымліваць паведамленнi</string>
   <string name="pref_site_settings_permissions">Дазволы</string>
   <string name="pref_site_settings_protected_content">Абаронены кантэнт</string>
   <string name="pref_site_settings_protected_content_allow_summary">Дазволіць сайтам прайграваць абаронены кантэнт (рэкамендуецца)</string>

@@ -373,7 +373,7 @@
   <string name="dialog_agree_and_continue">Згадзіцца</string>
   <string name="dialog_agree_permission">Дазволіць</string>
   <string name="dialog_allow">Дазволіць</string>
-  <string name="dialog_auto_start_detail">"Дазвольце праграме Здароўе аўтазапуск, каб атрымліваць апавяшчэння.
+  <string name="dialog_auto_start_detail">"Дазвольце праграме Здароўе аўтазапуск, каб атрымліваць апавяшчэннi.
 Праграма будзе апавяшчаць толькі пра важнае."</string>
   <string name="dialog_auto_start_title">Дазволіць аўтазапуск праграме Здароўе</string>
   <string name="dialog_auto_start_title2">Дазволіць аўтазапуск праграме Здароўе</string>
@@ -1380,7 +1380,7 @@
   <string name="sleep_no_data_info">Прайдзіце поўны цыкл сну</string>
   <string name="sleep_no_deep_light_data_tip">Чаму не запісваецца хуткі і павольны сон?</string>
   <string name="sleep_no_generate_report">Не атрымалася знайсці дадзеныя сну</string>
-  <string name="sleep_notice">Апавяшчэння аб сне</string>
+  <string name="sleep_notice">Апавяшчэннi аб сне</string>
   <string name="sleep_record_content">Праграма Здароўе аўтаматычна запіша ваш сон на аснове выкарыстання вашага тэлефона, статыстыкі актыўнасці, а таксама устаноўленага вамі часу засынання і абуджэння.</string>
   <string name="sleep_record_go_open">Уключыце перамыкач \"Адсочванне сну\" , каб пачаць запіс дадзеных</string>
   <string name="sleep_record_label">Адсочванне сну</string>

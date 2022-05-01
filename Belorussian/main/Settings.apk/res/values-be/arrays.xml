@@ -1462,8 +1462,8 @@
         <item>Не групаваць</item>
     </string-array>
     <string-array name="aggregate_summaries">
-        <item>Рэкламныя і звязаныя з кантэнтам push-апавяшчэння будуць згрупаваныя</item>
-        <item>Push-апавяшчэння не будуць групавацца</item>
+        <item>Рэкламныя і звязаныя з кантэнтам push-апавяшчэннi будуць згрупаваныя</item>
+        <item>Push-апавяшчэннi не будуць групавацца</item>
     </string-array>
 	<string-array name="bluetooth_map_versions">
     <item>MAP 1.2 (стандартна)</item>

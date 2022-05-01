@@ -478,7 +478,7 @@
   <string name="wifi_assistant_wifi_no_internet_detail">Націсніце для прагляду інфармацыі</string>
   <string name="windchime">Званочкі</string>
   <string name="wireless_charging_notification_message1">Не атрымалася знайсці бесправадныя прылады для зарадкі. Зваротная бесправадная зарадка цяпер адключаная.</string>
-  <string name="wireless_charging_notification_message2">Батарэя зараджана менш чым на %s. Зваротная бесправадная зарадка адключаная.</string>
+  <string name="wireless_charging_notification_message2">Зарад батарэі менш за %s. Зваротная бесправадная зарадка адключаная.</string>
   <string name="wireless_charging_notification_message3">Падчас зарадкі адбылася памылка. Зваротная бесправадная зарадка цяпер адключаная.</string>
   <string name="wireless_charging_notification_titile">Зваротная бесправадная зарадка адключаная</string>
   <string name="xiaomi">Mi</string>
@@ -555,5 +555,4 @@
   <string name="voice_button_action_up">Націсніце і кажыце</string>
   <string name="voice_input_error_network">Немагчыма падключыцца да сеткі. Праверце налады і паспрабуйце яшчэ раз.</string>
   <string name="voice_input_error_other">Адбылася памылка. Пачакайце крыху і паспрабуйце яшчэ раз.</string>
-  <string name="wireless_charging_notification_message2">"Зарад батарэі менш за 30%. Зваротная бесправадная зарадка адключана."</string>
 </resources>

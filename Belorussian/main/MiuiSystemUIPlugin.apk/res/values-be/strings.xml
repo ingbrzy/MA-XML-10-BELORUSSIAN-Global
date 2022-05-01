@@ -195,7 +195,7 @@
   <string name="miui_toast_zen_standard_to_off_when_shield_media">Рэжым \"Без гуку\" адключаны. Будуць прайгравацца гукі ўваходных выклікаў, апавяшчэнняў і мультымедыя.</string>
   <string name="miui_toast_zen_to_dnd">Гукі ўваходных выклікаў і апавяшчэнняў будуць адключаныя</string>
   <string name="miui_toast_zen_to_dnd_T">Гукі апавяшчэнняў будуць адключаны</string>
-  <string name="miui_toast_zen_to_dnd_when_lock">Званкі і апавяшчэння будуць адключаныя, калі прылада заблакавана</string>
+  <string name="miui_toast_zen_to_dnd_when_lock">Званкі і апавяшчэннi будуць адключаныя, калі прылада заблакавана</string>
   <string name="miui_toast_zen_to_standard">Рэжым \"Без гуку\" уключаны</string>
   <string name="miui_toast_zen_to_standard_when_shield_media">Уключаны рэжым \"Без гуку\". Мелодыі выклікаў, гукі апавяшчэнняў і мультымедыі адключаныя.</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Зняць выбар</string>
@@ -296,7 +296,7 @@
   <string name="no_avaliable_application">Няма даступных праграм</string>
   <string name="noon">Сярэдзіна дня</string>
   <string name="not_set">Не зададзена</string>
-  <string name="notification_control_center">Апавяшчэння і Цэнтр кіравання</string>
+  <string name="notification_control_center">Апавяшчэннi і Цэнтр кіравання</string>
   <string name="online">Анлайн</string>
   <string name="password_toggle_content_description">Паказаць пароль</string>
   <string name="pm">ПП</string>

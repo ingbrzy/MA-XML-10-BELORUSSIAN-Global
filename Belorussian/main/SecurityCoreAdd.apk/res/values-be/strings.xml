@@ -685,8 +685,8 @@
   <string name="wednesday_short">Сер</string>
   <string name="wednesday_shortest">С</string>
   <string name="yesterday">Учора</string>
-  <string name="settings_notification_second_space_show_in_locked_summary">Паказваць апавяшчэння з другой прасторы на экране блакавання</string>
-  <string name="settings_notification_second_space_show_in_locked_title">Паказваць апавяшчэння на экране блакавання</string>
+  <string name="settings_notification_second_space_show_in_locked_summary">Паказваць апавяшчэннi з другой прасторы на экране блакавання</string>
+  <string name="settings_notification_second_space_show_in_locked_title">Паказваць апавяшчэннi на экране блакавання</string>
   <string name="miuix_access_state_desc">Абрана</string>
   <string name="miuix_alphabet_indexer_name">Алфавітная лінейка</string>
   <string name="miuix_indexer_selected">Абрана: %s</string>

@@ -174,7 +174,7 @@
   <string name="mdm_icon_label">Значок %1$s</string>
   <string name="mtrl_badge_numberless_content_description">Новае апавяшчэнне</string>
   <string name="mtrl_chip_close_icon_content_description">Выдаліць %1$s</string>
-  <string name="mtrl_exceed_max_badge_number_content_description">Новыя апавяшчэння : %1$d</string>
+  <string name="mtrl_exceed_max_badge_number_content_description">Новыя апавяшчэннi : %1$d</string>
   <string name="mtrl_picker_a11y_next_month">Наступны месяц</string>
   <string name="mtrl_picker_a11y_prev_month">Папярэдні месяц</string>
   <string name="mtrl_picker_announce_current_selection">Бягучы выбар : %1$s</string>

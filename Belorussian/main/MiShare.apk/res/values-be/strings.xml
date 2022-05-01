@@ -107,12 +107,12 @@
   <string name="mi_drop">Абмен файламі</string>
   <string name="mi_note_10">Mi Note 10</string>
   <string name="mishare_folder_in_file_explorer">Файлавы менеджэр &gt; Абмен файламі</string>
-  <string name="mishare_service_channel_desc">Паведамлення аб працэсах Абмена файламі</string>
+  <string name="mishare_service_channel_desc">Паведамленнi аб працэсах Абмена файламі</string>
   <string name="mishare_settings_summary_international">"Абмен файламі дазваляе адпраўляць элементы па бесправадной сеткі на іншыя прылады паблізу.
-Гэта функцыя падтрымліваецца OPPO, Vivo, Realme і іншымі вытворцамі смартфонаў. Вы можаце праверыць спіс падтрымоўваных прылад на афіцыйным сайце любога абранага брэнда."</string>
+Гэта функцыя падтрымліваецца OPPO, Vivo, Realme і іншымі вытворцамі смартфонаў. Вы можаце праверыць спіс падтрымліваемых прылад на афіцыйным сайце любога абранага брэнда."</string>
   <string name="mishare_state_protection">Уключаць абмен файламі аўтаматычна</string>
   <string name="mishare_state_protection_summary">Аўтаматычнае ўключэнне абмену файламі пры ўключэнні Bluetooth або Wi-Fi</string>
-  <string name="mishare_transefer_channel_desc">Апавяшчэння аб аб\'ектах, адпраўленых і атрыманых абменам файламі</string>
+  <string name="mishare_transefer_channel_desc">Апавяшчэннi аб аб\'ектах, адпраўленых і атрыманых абменам файламі</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Пацягніце ўніз для абнаўлення</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Паспяхова абноўлена</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Абнаўленне</string>
@@ -126,7 +126,7 @@
   <string name="no_longer_prompt">Заблакаваць</string>
   <string name="no_longer_receive">Заблакаваць гэту прыладу? Вы не зможаце атрымліваць файлы ад яе.</string>
   <string name="not_set">Не зададзена</string>
-  <string name="notification_channel_name">Апавяшчэння аб перадачы</string>
+  <string name="notification_channel_name">Апавяшчэннi аб перадачы</string>
   <string name="operate_too_fast">Занадта хутка! Дачакайцеся завяршэння бягучых аперацый.</string>
   <string name="oppo">OPPO</string>
   <string name="oppo_phone">OPPO</string>

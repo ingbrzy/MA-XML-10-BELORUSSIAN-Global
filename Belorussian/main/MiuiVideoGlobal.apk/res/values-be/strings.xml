@@ -889,7 +889,7 @@
   <string name="ovp_navigation_home">Дадому</string>
   <string name="ovp_navigation_language">Мова</string>
   <string name="ovp_navigation_localvideo">Лакальна</string>
-  <string name="ovp_navigation_notice">Апавяшчэння</string>
+  <string name="ovp_navigation_notice">Апавяшчэннi</string>
   <string name="ovp_navigation_setting">Налады</string>
   <string name="ovp_navigation_subscribe">Падпіска</string>
   <string name="ovp_player_cached_error_btn">Анлайн-відэа</string>
@@ -1176,7 +1176,7 @@
   <string name="pull_to_refresh_pull_label">Пацягніце ўніз для абнаўлення…</string>
   <string name="pull_to_refresh_refreshing_label">Хвілінку…</string>
   <string name="pull_to_refresh_release_label">Адпусціце для абнаўлення…</string>
-  <string name="push_message_switch">Push-паведамлення</string>
+  <string name="push_message_switch">Push-паведамленнi</string>
   <string name="push_message_tips">Уключыце для атрымання push-паведамленняў</string>
   <string name="pw_channels">Каналы</string>
   <string name="read_and_agree">Згадзіцца</string>
@@ -1547,7 +1547,7 @@
   <string name="long_video_watch_on">Глядзець на</string>
   <string name="long_video_you_may_also_like">Вам таксама можа спадабацца</string>
   <string name="out_of_memory_background_playback_is_suspended">Прыпынена прайграванне ў фоне з-за недахопу памяці</string>
-  <string name="local_push_setting_power_tag">Апавяшчэння аб лакальных відэа</string>
+  <string name="local_push_setting_power_tag">Апавяшчэннi аб лакальных відэа</string>
   <string name="ui_common_title_back">Назад</string>
   <string name="add_local_shortcut_add">+ Дадаць</string>
   <string name="add_local_shortcut_des">Дадайце «Маё відэа» на працоўны стол, каб хутчэй адкрываць свае відэазапісы.</string>

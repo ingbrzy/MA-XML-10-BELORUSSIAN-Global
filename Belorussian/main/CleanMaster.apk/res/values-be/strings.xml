@@ -638,7 +638,7 @@
   <string name="notification_wechat_clean_high_level_text_b">Смецце WeChat запавольвае працу вашай прылады</string>
   <string name="notification_wechat_clean_low_level_hint">Вызваліце ​​месца для захоўвання</string>
   <string name="notification_wechat_clean_low_level_text">Ачысціць смецце WeChat</string>
-  <string name="notification_wechat_clean_middle_level_hint">Ачысціце смецце, каб атрымліваць апавяшчэння без затрымак</string>
+  <string name="notification_wechat_clean_middle_level_hint">Ачысціце смецце, каб атрымліваць апавяшчэннi без затрымак</string>
   <string name="notification_wechat_clean_middle_level_text_a">Смецце WeChat займае шмат месца</string>
   <string name="notification_wechat_clean_middle_level_text_b">Смецце WeChat запавольвае працу праграмы</string>
   <string name="notification_whatsapp_clean_button_text">Ачысціць</string>
@@ -699,7 +699,7 @@
   <string name="pref_title_open_optimizer_memory_scan">Правяраць памяць</string>
   <string name="preference_copied">\"%1$s\": скапіявана ў буфер абмену.</string>
   <string name="privacy_app_desc">Акаўнт і пароль</string>
-  <string name="privacy_app_desc_message">Акаўнт, паролі і паведамлення</string>
+  <string name="privacy_app_desc_message">Акаўнт, паролі і паведамленнi</string>
   <string name="privacy_app_desc_search">Акаўнт, паролі і гісторыя пошуку</string>
   <string name="privacy_app_desc_setting">Акаўнт, паролі і налады</string>
   <string name="privacy_browser_desc">Пошукавыя запыты</string>

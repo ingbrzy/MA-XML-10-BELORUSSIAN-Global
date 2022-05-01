@@ -804,8 +804,8 @@
   <string name="over_sixteen">Мне споўнілася 16 гадоў.</string>
   <string name="overlays_fail_tip">Для працы сэрвіса патрабуецца доступ да ўсплываючых вокнаў</string>
   <string name="overlays_ok">ОК</string>
-  <string name="overlays_tip">Налады тэлефона - Праграма - Звесткі аб праграме - дазвольце усплывальныя паведамлення і адразу атрымаеце аўтаматычна наладжаную скрыню на Пошце 139.</string>
-  <string name="overlays_tip_23">Дазвольце усплывальныя паведамлення і адразу атрымаеце аўтаматычна наладжаную скрыню на Пошце 139.</string>
+  <string name="overlays_tip">Налады тэлефона - Праграма - Звесткі аб праграме - дазвольце усплывальныя паведамленнi і адразу атрымаеце аўтаматычна наладжаную скрыню на Пошце 139.</string>
+  <string name="overlays_tip_23">Дазвольце усплывальныя паведамленнi і адразу атрымаеце аўтаматычна наладжаную скрыню на Пошце 139.</string>
   <string name="overlays_title">Папярэджане</string>
   <string name="parase_setup_data">Атрыманне дадзеных…</string>
   <string name="parse_bill_discribe">Апрацоўка рахункаў крэдытнай карткі…</string>
@@ -1430,7 +1430,7 @@
   <string name="fmt_date_numeric_year_month_day">dd.MM.yyyy</string>
   <string name="fmt_date_short_month_day">dd.MM</string>
   <string name="fmt_date_short_year_month_day">dd.MM.yyyy</string>
-  <string name="folder_notification_setting_tip">У вашай паштовай скрыні некалькі тэчак. Усталюйце апавяшчэння аб новых паведамленнях у пэўных тэчках.</string>
+  <string name="folder_notification_setting_tip">У вашай паштовай скрыні некалькі тэчак. Усталюйце апавяшчэннi аб новых паведамленнях у пэўных тэчках.</string>
   <string name="forget_app_password">Забыўся пароль праграмы</string>
   <string name="friday">Пятніца</string>
   <string name="friday_short">Птн</string>
@@ -1527,7 +1527,7 @@
   <string name="operation_settging">Дзеянні</string>
   <string name="outlook_failed_to_get_auth_code">Памылка кода пацверджання: %1$s</string>
   <string name="pm">ПП</string>
-  <string name="push">Push-паведамлення</string>
+  <string name="push">Push-паведамленнi</string>
   <string name="qq_group_info_summary">Група QQ: %s. Націсніце, каб скапіяваць.</string>
   <string name="qq_group_info_title">Група QQ для зваротнай сувязі</string>
   <string name="saturday">Субота</string>

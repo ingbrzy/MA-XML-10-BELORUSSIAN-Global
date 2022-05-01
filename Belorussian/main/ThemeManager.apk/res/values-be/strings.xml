@@ -136,10 +136,10 @@
   <string name="common_downloading">Спампоўка…</string>
   <string name="common_format_date_no_year">dd.MM</string>
   <string name="common_skip">Прапусціць</string>
-  <string name="community_community_message_trigger_summary">Атрымліваць апавяшчэння аб адказах, адзнаках і абнаўленнях статусу Mi Супольнасці, выкарыстоўваючы Mi акаўнт</string>
+  <string name="community_community_message_trigger_summary">Атрымліваць апавяшчэннi аб адказах, адзнаках і абнаўленнях статусу Mi Супольнасці, выкарыстоўваючы Mi акаўнт</string>
   <string name="community_community_message_trigger_title">Апавяшчаць аб актыўнасці</string>
   <string name="community_cta_dialog_cancel">Не, дзякуй</string>
-  <string name="community_cta_dialog_des">Устаноўленыя тэмы цяпер падтрымліваюць віджэт Mi Супольнасці. Ён працуе як цэтлiк, які прыводзіць вас да падфорумаў Тэмы Mi Супольнасці. Вы можаце адключыць гэтую функцыю ў наладах.\nДазвольце тэмам доступ да вашага Mi акаўнта і статусу Mi Супольнасці, звязаным з уліковай запісам, каб мець магчымасць праглядаць іх тут. Вы таксама можаце ўключыць або адключыць апавяшчэння аб актыўнасці Mi Супольнасці ў Наладах.</string>
+  <string name="community_cta_dialog_des">Устаноўленыя тэмы цяпер падтрымліваюць віджэт Mi Супольнасці. Ён працуе як цэтлiк, які прыводзіць вас да падфорумаў Тэмы Mi Супольнасці. Вы можаце адключыць гэтую функцыю ў наладах.\nДазвольце тэмам доступ да вашага Mi акаўнта і статусу Mi Супольнасці, звязаным з уліковай запісам, каб мець магчымасць праглядаць іх тут. Вы таксама можаце ўключыць або адключыць апавяшчэннi аб актыўнасці Mi Супольнасці ў Наладах.</string>
   <string name="community_cta_dialog_ok">Дазволіць</string>
   <string name="community_cta_dialog_title">Неабходныя дазволы</string>
   <string name="community_entrance_summary">Знайдзіце звязаны з тэмай кантэнт у Mi Супольніцтве. Гэта функцыя падтрымліваецца абранымі тэмамі.</string>
@@ -440,7 +440,7 @@
   <string name="miuix_compat_dialog_ok">ОК</string>
   <string name="miuix_compat_dialog_title">Для \"%s\" прыменена тэма па змаўчанні</string>
   <string name="miuix_compat_dialog_update_title">Патрабуецца абнаўленне</string>
-  <string name="miuix_compat_mms">Паведамлення</string>
+  <string name="miuix_compat_mms">Паведамленнi</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Пацягніце ўніз для абнаўлення</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Паспяхова абноўлена</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Абнаўленне</string>
@@ -572,7 +572,7 @@
   <string name="personalize_default_font">Шрыфт па змаўчанні</string>
   <string name="personalize_fingerprint_style_title">Адбіткі</string>
   <string name="personalize_icon_title">Абразкі</string>
-  <string name="personalize_notify_ringtone_title">Апавяшчэння</string>
+  <string name="personalize_notify_ringtone_title">Апавяшчэннi</string>
   <string name="personalize_notify_style_title">Эфекты</string>
   <string name="personalize_theme_entrance">Тэмы</string>
   <string name="personalize_third_font">Шрыфты</string>

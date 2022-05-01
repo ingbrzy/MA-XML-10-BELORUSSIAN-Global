@@ -119,7 +119,7 @@
   <string name="grant_dialog_button_deny_background_and_dont_ask_again">Дазваляць толькі падчас выкарыстання</string>
   <string name="grant_dialog_storage_category_title">Гэтай праграме патрабуюцца дазволы для доступу да галерэі і паведамленняў у праграмах сацыяльных сетак</string>
   <string name="grant_dialog_storage_gallery_title">Галерэя</string>
-  <string name="grant_dialog_storage_sociality_title">Паведамлення ў праграмах сацыяльных сетак</string>
+  <string name="grant_dialog_storage_sociality_title">Паведамленнi ў праграмах сацыяльных сетак</string>
   <string name="HIPS_Action_Accept">Дазволіць</string>
   <string name="HIPS_Action_Accept_Once">Дазволіць адзін раз</string>
   <string name="HIPS_Action_Accept_This">Дазволіць ў гэты раз</string>
@@ -151,8 +151,8 @@
   <string name="HIPS_Perm_clipboard_Desc">Дазволіць праграме доступ да буфера абмену</string>
   <string name="HIPS_Perm_Contact">Змяняць і выдаляць кантакты</string>
   <string name="HIPS_Perm_Contact_Desc">Рэдагаванне кантактаў</string>
-  <string name="HIPS_Perm_deamon_notification">Пастаянныя апавяшчэння</string>
-  <string name="HIPS_Perm_deamon_notification_Desc">Паказваць пастаянныя апавяшчэння</string>
+  <string name="HIPS_Perm_deamon_notification">Пастаянныя апавяшчэннi</string>
+  <string name="HIPS_Perm_deamon_notification_Desc">Паказваць пастаянныя апавяшчэннi</string>
   <string name="HIPS_Perm_External_Storage">Доступ і змяненне файлаў ва ўнутраным сховішчы</string>
   <string name="HIPS_Perm_External_Storage_Desc">Дадаванне і выдаленне файлаў ва ўнутраным сховішчы</string>
   <string name="HIPS_Perm_get_accounts">Доступ да акаўнтаў на прыладзе</string>

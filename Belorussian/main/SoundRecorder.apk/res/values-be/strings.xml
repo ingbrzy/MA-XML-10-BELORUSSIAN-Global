@@ -411,7 +411,7 @@
   <string name="search_empty">Нічога не знайшлося</string>
   <string name="search_enable_earpiece_title">Выкарыстоўваць дынамік для прайгравання аўдые</string>
   <string name="search_hint">Пошук</string>
-  <string name="search_led_indicator">Апавяшчэння экрана блакавання</string>
+  <string name="search_led_indicator">Апавяшчэннi экрана блакавання</string>
   <string name="search_led_indicator_prompt">Адлюстроўваць цэтлiк у панэлі стану і міргаць святладыёдам пры запісу ў заблакаваным рэжыме</string>
   <string name="search_menu_title">Пошук</string>
   <string name="search_quliaty_title">Якасць запісу</string>

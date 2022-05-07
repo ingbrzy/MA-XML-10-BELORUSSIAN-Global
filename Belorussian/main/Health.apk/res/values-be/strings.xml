@@ -77,7 +77,7 @@
   <string name="add_owned_device">Дадаць існуючую прыладу</string>
   <string name="add_record">Дадаць</string>
   <string name="added_data_source">Дададзеныя крыніцы</string>
-  <string name="afternoon">РМ</string>
+  <string name="afternoon">ПП</string>
   <string name="all_records">Усе запісы</string>
   <string name="allergic_drugs">Лекавая алергія</string>
   <string name="allergic_drugs_hint">Пакажыце прэпараты, на якія ёсць алергія, і рэакцыю на іх</string>
@@ -85,7 +85,7 @@
   <string name="altitude">Вышыня</string>
   <string name="altitude_pressure_hint">"* Вышыня, разлічаная на аснове атмасфернага ціску, з'яўляецца прыблізнай"</string>
   <string name="altitude_range">Вышыня</string>
-  <string name="am">AM</string>
+  <string name="am">ДП</string>
   <string name="app_setting">Праграмы</string>
   <string name="audio_permission_dialog_desc">Дазвол на запіс гуку быў адключаны, калі ласка, уключыце яго.</string>
   <string name="audio_permission_dialog_title">Дазвол на запіс аўдыё</string>
@@ -159,7 +159,7 @@
   <string name="blood_pressure_notice_title1">Час вымяраць ціск</string>
   <string name="blood_pressure_notice_title2">Вымерайце ціск</string>
   <string name="blood_pressure_unit">Міліметры ртутнага слупа</string>
-  <string name="blood_pressure_unit_short" />
+  <string name="blood_pressure_unit_short">мм рт.сл.</string>
   <string name="blood_type">Група крыві</string>
   <string name="blood_type_rh">Рэзус-фактар</string>
   <string name="blood_type_select">Тып %1$s</string>
@@ -394,7 +394,7 @@
   <string name="dialog_feedback_title">Зваротная сувязь</string>
   <string name="dialog_health_applicator">Праграма Здароўе ў цяперашні час прадастаўляе паслугі толькі дарослым.</string>
   <string name="dialog_juveniles_details">Згодна з нашай Палітыкай прыватнасці мінімальны ўзрост для выкарыстання гэтай праграмы складае 18 гадоў.</string>
-  <string name="dialog_juveniles_link">Згодна з нашай <a href="%1$s"><font color="#FE6D67">Палітыцы прыватнасці мінімальны ўзрос</font></a>т для выкарыстання гэтай праграмы складае 18 гадоў.</string>
+  <string name="dialog_juveniles_link">Згодна з нашай &lt;font color="#FE6D67">&lt;a href=%1$s>Палітыкай прыватнасці&lt;/a>&lt;/font>, мінімальны ўзрост для выкарыстання гэтай праграмы складае 18 гадоў.</string>
   <string name="dialog_keep">Пакінуць</string>
   <string name="dialog_known">Зразумела</string>
   <string name="dialog_menstruation_purpose">Сардэчна запрашаем у Xiaomi Здароўе! «Менструацыя» дазваляе рабіць запісы аб месячных, вызначаць меркаваныя тэрміны маючых адбыцца месячных і атрымліваць напаміны. Усе звязаныя дадзеныя будуць захоўвацца лакальна на вашай прыладзе, што дазволіць вам лёгка кіраваць імі.</string>
@@ -436,7 +436,7 @@
   <string name="each_week_day_format2">Кожны %1$s, %2$s, і %3$s</string>
   <string name="each_week_day_format3">Кожны %1$s да %2$s</string>
   <string name="early">Рана</string>
-  <string name="early_morning">АМ</string>
+  <string name="early_morning">ДП</string>
   <string name="earphone_listening_duration">Навушнікі</string>
   <string name="edit_aid_file">Рэдагаванне</string>
   <string name="edit_basic_info_desc">Асноўная інфармацыя</string>
@@ -465,7 +465,7 @@
   <string name="eras_ad">Н.Э.</string>
   <string name="eras_bc">Да н.э.</string>
   <string name="evaluation_origin_health">Прапановы падаюцца праграмай \"Здароўе\"</string>
-  <string name="evening">РМ</string>
+  <string name="evening">ПП</string>
   <string name="every_day">Кожны дзень</string>
   <string name="excessive">Шмат</string>
   <string name="exercise">Трэніроўка</string>
@@ -934,7 +934,7 @@
   <string name="mi_sport">Mi Fit</string>
   <string name="middle">Сярэдняя</string>
   <string name="middle_intensity_description">Пачашчанае дыханне, можна казаць кароткімі прапановамі</string>
-  <string name="midnight">АМ</string>
+  <string name="midnight">ДП</string>
   <string name="mild_abnormal">1 стадыя гіпертаніі</string>
   <string name="mild_abnormal_tip">3 дні ў тыдзень пасля абуджэння і перад сном</string>
   <string name="min_altitude">Самая нізкая вышыня</string>
@@ -1023,10 +1023,10 @@
   <string name="month_september">Верасня</string>
   <string name="month_september_short">Вер</string>
   <string name="month_september_shortest">В</string>
-  <string name="more">Шмат</string>
+  <string name="more">Занадта</string>
   <string name="more_card">Даступныя</string>
   <string name="more_questions">Яшчэ</string>
-  <string name="morning">АМ</string>
+  <string name="morning">ДП</string>
   <string name="mtrl_badge_numberless_content_description">Новае апавяшчэнне</string>
   <string name="mtrl_chip_close_icon_content_description">Выдаліць %1$s</string>
   <string name="mtrl_picker_date_format">dd MMM, yyyy</string>
@@ -1045,17 +1045,17 @@
   <string name="network_not_available">Сетка недаступная</string>
   <string name="network_not_available2">Збой падключэння да сеткі</string>
   <string name="next_step">Далей</string>
-  <string name="night">РМ</string>
+  <string name="night">ПП</string>
   <string name="no_available_data_source">Няма даступных крыніц дадзеных</string>
   <string name="no_available_device">Няма прылад</string>
   <string name="no_body_weight_record">Няма запісаў</string>
   <string name="no_data">Няма дадзеных</string>
   <string name="no_device_bound_to_the_account">Гэта прылада не вызначаецца пад вашым акаўнтам. Пераканайцеся, што прылада паспяхова прывязана, і паспрабуйце ізноў.</string>
   <string name="no_records">Няма запісаў</string>
-  <string name="no_snore">Вы не храплі і не казалі ў сне</string>
+  <string name="no_snore">Вы не храплі і не размаўлялі ў сне</string>
   <string name="no_snore_1">Нічога няма</string>
   <string name="no_sport_delete">Выдаліць запіс</string>
-  <string name="noon">РМ</string>
+  <string name="noon">ПП</string>
   <string name="normal">Нармальна</string>
   <string name="normal2">Нармальны</string>
   <string name="not_achieve_stand_goals">Вы яшчэ не дасягнулі сваёй мэты</string>
@@ -1493,7 +1493,7 @@
   <string name="sport_btn_unlock">Разблакаваць</string>
   <string name="sport_counter_begin">Пачаць</string>
   <string name="sport_data_use_subtitle">Каб адсочваць вашыя трэніроўкі і прагрэс у фітнесе, мы збіраем і апрацоўваем вашу інфармацыю, уключаючы маршруты трэніровак, дадзеныя аб сне, частату пульса і вагу.</string>
-  <string name="sport_data_use_tip">Прачытайце і прыміце нашу <a href="%1$s"><font color="#0D84FF">Палітыку выкарыстання дадзеных аб стане здароўя і актыўнасці, каб лепш зразум</font></a>ець, як мы збіраем і апрацоўваем вашу інфармацыю. Вы не зможаце выкарыстоўваць гэтую службу, калі не дасце згоду на наш збор і апрацоўку.</string>
+  <string name="sport_data_use_tip">Прачытайце і прыміце нашу &lt;font color=\"#0D84FF\">&lt;a href=%1$s>Палітыку выкарыстання дадзеных аб стане здароўя і актыўнасці&lt;/a>&lt;/font>, каб лепш зразумець, як мы збіраем і апрацоўваем вашу інфармацыю. Вы не зможаце выкарыстоўваць гэтую службу, калі не дасце згоду на наш збор і апрацоўку.</string>
   <string name="sport_data_use_title">Дазволі на выкарыстанне дадзеных</string>
   <string name="sport_home_begin">Пачаць</string>
   <string name="sport_home_set_goal">Усталяваць мэту</string>
@@ -1742,7 +1742,7 @@
   <string name="tb_sleep_index_info">%1$s. Націсніце, каб праглядзець дэталі.</string>
   <string name="tb_sleep_index_title">Пераключыцца на %1$s</string>
   <string name="tb_sleep_ring_info">%1$s. Сон: %2$s. Націсніце, каб праглядзець дэталі.</string>
-  <string name="tb_snore_detection_main">Аб асаблівасцях размоў і храпу: %1$s. Правядзіце па гарызанталі ў верхняй частцы экрана, каб перайсці на наступную старонку.</string>
+  <string name="tb_snore_detection_main">Аб асаблівасцях размоў і храпу: %1%s. Правядзіце па гарызанталі ў верхняй частцы экрана, каб перайсці на наступную старонку.</string>
   <string name="tb_snore_view_info">Графік размовы і храпу</string>
   <string name="tb_stand_card_finish_stand">Сёння вы разміналіся: %1$s. Вам трэба як мінімум 12 сёння. Вы дасягнулі сваёй мэты паміж %2$s і %3$s.</string>
   <string name="tb_stand_card_not_finish_stand">Сёння вы разміналіся: %1$s. Вам трэба як мінімум 12 сёння. Вы не дасягнулі сваёй мэты паміж %2$s і %3$s.</string>

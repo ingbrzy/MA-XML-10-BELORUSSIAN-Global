@@ -955,9 +955,9 @@
   <string name="mx_main_purpose_short">Mi Паведамленне дазваляе карыстальнікам MIUI адпраўляць і атрымліваць бясплатныя SMS і MMS-паведамленнi.</string>
   <string name="contact_card_unknown_contact">Невядомы кантакт</string>
   <string name="feature_mx">Mi Паведамленне</string>
-  <string name="feature_mx_summary"><b>Mi Паведамленне дазваляе адпраўляць паведамленнi іншым Mi карыстальнікам праз Інтэрнэт без збірання платы</b>. Для актывацыі гэтай паслугі патрабуецца выходнае SMS-паведамленне. Ваш аператар будзе спаганяць плату за гэта паведамленне. Прачытайце і прыміце нашы <font color="#B3000000"><a href="http://url1">Пагадненне карыстальніка</a></font> i <font color="#B3000000"><a href="http://url2">Палітыку прыватнасці</a></font> перад выкарыстаннем гэтай функцыі.</string>
+  <string name="feature_mx_summary"><b>Mi Паведамленне дазваляе адпраўляць паведамленнi іншым Mi карыстальнікам праз Інтэрнэт без збірання платы</b>. Для актывацыі гэтай паслугі патрабуецца выходнае SMS-паведамленне. Ваш аператар будзе спаганяць плату за гэта паведамленне. Прачытайце і прыміце нашы <a href="http://url1"><font color="#B3000000">Пагадненне карыстальніка</font></a> i <a href="http://url2">< font color="#B3000000">Палітыку прыватнасці</font></a> перад выкарыстаннем гэтай функцыі.</string>
   <string name="feature_smart_sms">Разумнае паведамленне</string>
-  <string name="feature_smart_sms_summary"><b>Разумнае паведамленне забяспечвае распазнаванне ідэнтыфікатара адпраўніка і інтэлектуальныя меню</b>". Разумнае паведамленне часткова прадастаўляецца Yulore. Прачытайце і пагадзіцеся з Yulore "<font color="#B3000000"><a href="http://url3">Палітыкай прыватнасці</a></font> перад выкарыстаннем гэтай функцыі.</string>
+  <string name="feature_smart_sms_summary"><b>Разумнае паведамленне забяспечвае распазнаванне ідэнтыфікатара адпраўніка і інтэлектуальныя меню</b>". Разумнае паведамленне часткова прадастаўляецца Yulore. Прачытайце і пагадзіцеся з Yulore "<a href="http://url3"><font color="#B3000000">Палітыкай прыватнасці</font></a> перад выкарыстаннем гэтай функцыі.</string>
   <string name="ignore">Не цяпер</string>
   <string name="privacy_term">Палітыка прыватнасці</string>
   <string name="recommend_both_dialog_title">Сардэчна запрашаем у абмен паведамленнямі!</string>
@@ -1284,7 +1284,7 @@
   <string name="banner_btn_open">Адкрыць</string>
   <string name="default_google_message_promo_content">Вы ўсталявалі Паведамленнi ад Google у якасці праграмы для абмену паведамленнямі па змаўчанні. Націсніце «Адкрыць», каб пачаць абмен паведамленнямі.</string>
   <string name="enable_classify_tip_dialog_content">Гэта перазапусціць праграму абмену паведамленнямі. Працягнуць у любым выпадку?</string>
-  <string name="google_message_promo_content">Xiaomi рэкамендуе перайсці на Паведамленнi ад Google. Усталюйце зараз, каб дзяліцца фатаграфіямі ў высокай якасці, мець зносіны ў чаце па Wi-Fi і г.д. <font color="#B3000000"><a href="https://support.google.com/messages/answer/6089066">Паглядзець дэталі</a></font>.</string>
+  <string name="google_message_promo_content">Xiaomi рэкамендуе перайсці на Паведамленнi ад Google. Усталюйце зараз, каб дзяліцца фатаграфіямі ў высокай якасці, мець зносіны ў чаце па Wi-Fi і г.д. <a href="https://support.google.com/messages/answer/6089066"><font color="#B3000000">Больш падрабязна</font></a>.</string>
   <string name="google_message_promo_title">Абнавіце сваю праграму для абмену паведамленнямі</string>
   <string name="installed_google_message_promo_content">Xiaomi рэкамендуе выкарыстоўваць Паведамленнi ад Google. Адкрыйце прыкладанне, каб дзяліцца фатаграфіямі ў высокай якасці, мець зносіны ў чаце па Wi-Fi і г.д.</string>
   <string name="installed_google_message_promo_title">Адкрыць Паведамленнi для лепшых зносін</string>

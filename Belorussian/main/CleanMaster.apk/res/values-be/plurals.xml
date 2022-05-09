@@ -382,9 +382,9 @@
         <item quantity="few">Абрана %d праграмы для ачысткі дадзеных</item>
     </plurals>
     <plurals name="dc_item_summary_app_reset">
-        <item quantity="other">&lt;Data>&lt;font color=#0097FF>%d&lt;/font> праграм займаюць шмат месца ў сховішчы&lt;/Data></item>
-        <item quantity="one">&lt;Data>&lt;font color=#0097FF>%d&lt;/font> праграма займае шмат месца ў сховішчы&lt;/Data></item>
-        <item quantity="few">&lt;Data>&lt;font color=#0097FF>%d&lt;/font> праграмы займаюць шмат месца ў сховішчы&lt;/Data></item>
+        <item quantity="other">&lt;Data>&lt;font color=#0097FF>%d&lt;/font> праграм займаюць шмат месца&lt;/Data></item>
+        <item quantity="one">&lt;Data>&lt;font color=#0097FF>%d&lt;/font> праграма займае шмат месца&lt;/Data></item>
+        <item quantity="few">&lt;Data>&lt;font color=#0097FF>%d&lt;/font> праграмы займаюць шмат месца&lt;/Data></item>
     </plurals>
     <plurals name="reset_app_selected_app">
         <item quantity="other">Абрана %d праграм для скіду</item>

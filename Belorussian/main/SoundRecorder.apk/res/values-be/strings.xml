@@ -655,4 +655,6 @@
   <string name="this_folder">Выкарыстоўваць гэтую тэчку</string>
   <string name="permission_read_phone_state">Доступ да інфармацыі аб прыладзе</string>
   <string name="permission_read_phone_state_description">Для доступу да статусу выкліку з мэтай аўтаматычнага спынення запісу пры атрыманні выкліку</string>
+  <string name="manage_external_storage">Доступ да усіх файлаў</string>
+  <string name="sync_desc_state_complete">Сінхранізавана з воблакам : %1$s</string>
 </resources>

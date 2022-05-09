@@ -525,4 +525,5 @@
   <string name="bluetooth_permission_title">Патрабуюцца дазволы</string>
   <string name="font_camera_tip">Складзіце прыладу, каб выкарыстоўваць пярэднюю камеру</string>
   <string name="saf_permission_recorder_unlock_screen_message">Каб мець магчымасць захоўваць запісы, спачатку разблакуйце прыладу. Разблакаваць?</string>
+  <string name="msim_select_default_last">Выкарыстоўвалася нядаўна</string>
 </resources>

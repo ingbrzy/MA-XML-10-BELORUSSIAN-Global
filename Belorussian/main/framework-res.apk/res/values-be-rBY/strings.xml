@@ -1728,7 +1728,7 @@
   <string name="stk_cc_ussd_to_dial_video">USSD-запыт заменены на відэавыклік</string>
   <string name="stk_cc_ussd_to_ss">USSD-запыт заменены на SS-запыт</string>
   <string name="stk_cc_ussd_to_ussd">Заменена на новы USSD-запыт</string>
-  <string name="storage_internal">Унутранае абагуленае сховішча</string>
+  <string name="storage_internal">Унутранае сховішча</string>
   <string name="storage_sd_card">SD-карта</string>
   <string name="storage_sd_card_label">SD-карта %s</string>
   <string name="storage_usb">USB-назапашвальнік</string>

@@ -200,4 +200,20 @@
         <item>Вельмі вялікі</item>
         <item>Вялізны</item>
     </string-array>
+    <string-array name="cache_sort_type">
+        <item>Памер</item>
+        <item>Імя</item>
+    </string-array>
+    <string-array name="sort_title_new">
+        <item>Сартаваць па назве праграмы</item>
+        <item>Сартаваць па частаце выкарыстання</item>
+        <item>Сартаваць па выкарыстаным сховішчы</item>
+        <item>Сартаваць па часу ўсталёўкі</item>
+    </string-array>
+    <string-array name="sort_type_new">
+        <item>Назва праграмы</item>
+        <item>Частата выкарыстання</item>
+        <item>Выкарыстанае сховішча</item>
+        <item>Час усталёўкі</item>
+    </string-array>
 </resources>

@@ -2784,4 +2784,10 @@
   <string name="no_active_esim_text">Неактыўная eSIM</string>
   <string name="set_esim_toast_phone_in_call">Немагчыма выканаць гэта дзеянне падчас выкліку</string>
   <string name="switch_cancel_btn_text">Адмена</string>
+  <string name="fiveg_nrca_switch_summary">Выкарыстоўвайце агрэгацыю аператараў 5G для лепшай сувязі</string>
+  <string name="fiveg_nrca_switch_title">Агрэгацыя аператараў 5G</string>
+  <string name="nrca_switch_summary">Выкарыстоўвайце агрэгацыю аператараў 5G для лепшай сувязі</string>
+  <string name="nrca_switch_title">Выкарыстоўваць NRCA</string>
+  <string name="unfold_show_bublle_pref_summary">Разгарніце прыладу падчас размовы, каб паказаць яго ў плывучым вакне</string>
+  <string name="unfold_show_bublle_pref_title">Разгарнуць, каб мінімізаваць выклік</string>
 </resources>

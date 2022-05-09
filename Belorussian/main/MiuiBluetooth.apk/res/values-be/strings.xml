@@ -490,4 +490,5 @@
   <string name="headset_incall_reject">Адмена</string>
   <string name="headset_incall_summary">Адказаць на выклік %1$s праз навушнікі? Навушнікі застануцца падлучанымі да гэтай прылады пасля завяршэння выкліку.</string>
   <string name="headset_incall_title">Адказаць на выклік у навушніках</string>
+  <string name="fast_connect_connection_fail">Не атрымалася падлучыцца</string>
 </resources>

@@ -1258,4 +1258,5 @@
   <string name="tips_unload_page">Паспрабуйце выдаліць праграмы, якія вы не выкарыстоўвалі на працягу %d дзён</string>
   <string name="to_reset_app">Скінуць</string>
   <string name="updating_tips">Секундачку…</string>
+  <string name="storage_system_log">Сістэмныя часопісы</string>
 </resources>

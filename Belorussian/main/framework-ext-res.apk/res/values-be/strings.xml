@@ -13,7 +13,7 @@
   <string name="android_ringtone_default_with_actual">Мелодыя па змаўчанні (%1$s)</string>
   <string name="android_ringtone_silent">Без гуку</string>
   <string name="android_ringtone_unknown">Невядомая мелодыя</string>
-  <string name="app_continuity_channel_name">Бесперапыннасць праграмы</string>
+  <string name="app_continuity_channel_name">Налады макета праграмы</string>
   <string name="application_cannot_open_alipay_health_code">Не атрымалася адкрыць код стану Alipay</string>
   <string name="application_cannot_open_alipay_payment_code">Не атрымалася адкрыць код аплаты Alipay</string>
   <string name="application_cannot_open_alipay_scanner">Не атрымалася адкрыць сканар Alipay</string>
@@ -309,15 +309,15 @@
   <string name="redmi_note_5">Redmi Note 5</string>
   <string name="redmi_note_7">Redmi Note 7</string>
   <string name="redmi_note_7_pro">Redmi Note 7 Pro</string>
-  <string name="relaunch_action">Перазапусціць праграму</string>
+  <string name="relaunch_action">Перазапусціць</string>
   <string name="relaunch_dialog_alwaysUsePrompt">Запомніць мой выбар</string>
   <string name="relaunch_dialog_button_cancel">Адмена</string>
-  <string name="relaunch_dialog_button_confirm">ОК</string>
-  <string name="relaunch_dialog_message">Немагчыма наладзіць памер вакна пры выкарыстанні праграмы. Вы можаце перазапусціць праграму, каб наладзіць памер вакна, але дадзеныя праграмы, створаныя падчас гэтай сэсіі, будуць страчаныя. Усё роўна перазапусціць?</string>
-  <string name="relaunch_dialog_title">Перазапусціць \"%s\"?</string>
-  <string name="relaunch_fold_notification_content">Гэта праграма можа адлюстроўвацца некарэктна пасля таго, як тэлефон складзены, і яе неабходна перазапусціць, каб вярнуцца ў нармальны стан.</string>
-  <string name="relaunch_notification_title">Перазапусціць праграму \"%s\"</string>
-  <string name="relaunch_unfold_notification_content">Гэта праграма можа адлюстроўвацца некарэктна пасля раскладвання тэлефона, і яе неабходна перазапусціць, каб вярнуцца ў нармальны стан.</string>
+  <string name="relaunch_dialog_button_confirm">Перазапусціць</string>
+  <string name="relaunch_dialog_message">Памер гэтай праграмы можна змяніць толькі пасля перазапуску. Усе незахаваныя змены будуць страчаныя, калі вы зараз перазапусціце праграму. Усе роўна перазапусціць?</string>
+  <string name="relaunch_dialog_title">Перазапусціць \"%s\" зараз?</string>
+  <string name="relaunch_fold_notification_content">Гэтая праграма можа адлюстроўвацца няправільна на гэтым экране. Перазапусціце праграму, каб наладзіць макет.</string>
+  <string name="relaunch_notification_title">Перазапусціць \"%s\"</string>
+  <string name="relaunch_unfold_notification_content">Гэтая праграма можа адлюстроўвацца няправільна на гэтым экране. Перазапусціце праграму, каб наладзіць макет.</string>
   <string name="remain">Засталося: %s</string>
   <string name="replace">Замяніць</string>
   <string name="resolver_app_recommend_flag">Рэкамендаваць</string>
@@ -331,10 +331,10 @@
   <string name="reveries">Мроі (стэрэа)</string>
   <string name="robot">Робат</string>
   <string name="samsung_phone">Samsung</string>
-  <string name="sc_notification_warning_content">Макет можа быць ненармальным у поўнаэкранным рэжыме. Вы можаце вярнуцца да стану да пераключэння або перайсці да налад.</string>
+  <string name="sc_notification_warning_content">Калі праграма адлюстроўваецца няправільна, вы можаце аднавіць выгляд па змаўчанні або змяніць налады адлюстравання праграмы ў наладах.</string>
   <string name="sc_notification_warning_restore">Аднавіць</string>
-  <string name="sc_notification_warning_settings">Перайсці да налад</string>
-  <string name="sc_relaunch_dialog_message">Не падыходзіць для складанай прылады падчас выкарыстання праграмы. Вы можаце перазапусціць праграму, каб пераключыцца ў поўнаэкранны рэжым. Усё роўна перазапусціць?</string>
+  <string name="sc_notification_warning_settings">Налады</string>
+  <string name="sc_relaunch_dialog_message">Гэтая праграма можа адлюстроўвацца няправільна на гэтым экране. Перазапусціце праграму, каб наладзіць макет.</string>
   <string name="scanning_device_tips">Пошук прылад паблізу…Пераканайцеся, што іншая прылада знаходзіцца ў рэжыме бачнасці.</string>
   <string name="screen_button_notification_text">Каб уключыць, націсніце кнопкі \"Дадому\" і \"Сілкаванне\" адначасова.</string>
   <string name="screen_button_notification_title">Кнопкі навігацыі адключаны</string>
@@ -506,7 +506,7 @@
   <string name="dark_mode_suggest_message">Цёмны рэжым можа аўтаматычна ўключацца на заходзе і выключацца на досвітку. Уключыць гэтую функцыю?</string>
   <string name="dark_mode_suggest_title">Аўтаўключэнне рэжыму</string>
   <string name="dark_mode_suggest_toast">Цёмны рэжым будзе аўтаматычна ўключацца на заходзе і выключацца на досвітку</string>
-  <string name="sc_notification_warning_title">Пераключыць рэжым паказу</string>
+  <string name="sc_notification_warning_title">Налады адлюстравання праграмы</string>
   <string name="wallpaper_group_concerto_title">Канцэрт</string>
   <string name="wallpaper_group_molten_glass_title">Расплаўленае шкло</string>
   <string name="wallpaper_group_red_mars_title">Марс</string>
@@ -555,4 +555,5 @@
   <string name="voice_button_action_up">Націсніце і кажыце</string>
   <string name="voice_input_error_network">Немагчыма падключыцца да сеткі. Праверце налады і паспрабуйце яшчэ раз.</string>
   <string name="voice_input_error_other">Адбылася памылка. Пачакайце крыху і паспрабуйце яшчэ раз.</string>
+  <string name="unreplace_freeform_count_max">Не атрымлiваецца адкрыць дадатковыя плаваючыя вокны</string>
 </resources>

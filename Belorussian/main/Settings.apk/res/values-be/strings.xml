@@ -10474,4 +10474,10 @@
   <string name="miheadset_feedback_summary">Каб мець магчымасць адпраўляць часопісы, змясціце абодва навушнікі ў футарал для зарадкі і трымайце яго адкрытым.</string>
   <string name="miheadset_feedback_title">Адправіць часопісы</string>
   <string name="miheadset_singleear_toast">Не падтрымліваецца толькі для аднаго навушніка</string>
+  <string name="bluetooth_enable_opp_high_speed">Высакахуткасная перадача дадзеных па Bluetooth</string>
+  <string name="bluetooth_enable_opp_high_speed_summary">Выкарыстоўваць для перадачы высакахуткасныя пратаколы Bluetooth P2P</string>
+  <string name="fiveg_nrca_switch_summary">Паляпшэнне падлучэння 5G для тэставых асяроддзяў</string>
+  <string name="fiveg_nrca_switch_title">Агрэгацыя аператараў 5G</string>
+  <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">· Перацягнiце праграму з бакавой панэлі у цэнтр экрана, каб адкрыць яе у плаваючым вакне, або у бок, каб выкарыстоўваць падзелены экран</string>
+  <string name="nrca_switch_title">Выкарыстоўваць агрэгацыю аператараў 5G</string>
 </resources>

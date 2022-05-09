@@ -355,4 +355,8 @@
     <item quantity="few">%d новых апавяшчэння</item>
     <item quantity="one">%d новае апавяшчэнне</item>
   </plurals>
+  <plurals name="email_filter_rule_max_tips">
+      <item quantity="one">Вы можаце дадаць да %1$d умовы</item>
+      <item quantity="other">Вы можаце дадаць да %1$d умоў</item>
+  </plurals>
 </resources>

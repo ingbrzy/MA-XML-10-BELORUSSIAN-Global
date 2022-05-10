@@ -10480,4 +10480,6 @@
   <string name="fiveg_nrca_switch_title">Агрэгацыя аператараў 5G</string>
   <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">· Перацягнiце праграму з бакавой панэлі у цэнтр экрана, каб адкрыць яе у плаваючым вакне, або у бок, каб выкарыстоўваць падзелены экран</string>
   <string name="nrca_switch_title">Выкарыстоўваць агрэгацыю аператараў 5G</string>
+  <string name="miheadset_same_account_incall">Прымаць выклікі з усіх сінхранізаваных прылад</string>
+  <string name="miheadset_same_account_incall_summary">Падключайце навушнікі да іншых сінхранізаваных прылад, каб прымаць уваходныя выклікі</string>
 </resources>

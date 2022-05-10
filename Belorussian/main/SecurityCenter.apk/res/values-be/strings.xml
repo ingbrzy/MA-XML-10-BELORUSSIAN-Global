@@ -4184,7 +4184,7 @@
   <string name="pp_app_permission_settings_detail">Дазволіць праграмам выкарыстоўваць дазволы, звязаныя з прыватнасцю</string>
   <string name="pp_app_reads_clipboard_smart_reminder">Абарона буфера абмену</string>
   <string name="pp_app_reads_clipboard_smart_reminder_detail">MIUI вырашыць, цi дазволены праграмам доступ да вашага буфера абмену. Пры звароце да буфера вы атрымаеце апавяшчэнне.</string>
-  <string name="pp_app_warning_permission_tips">Апавяшчаць аб паводзінах праграм</string>
+  <string name="pp_app_warning_permission_tips">Апавяшчаць аб дзеяннях праграм</string>
   <string name="pp_app_warning_permission_tips_detail">Атрымліваць апавяшчэннi, калі праграмы атрымліваюць доступ да вашага месцазнаходжання, запісваюць гук або выкарыстоўваюць камеру</string>
   <string name="pp_call_phone_msg">Гісторыя выклікаў</string>
   <string name="pp_capability_approved_title">Нашы меры абароны прыватнасці былі пратэставаны і сертыфікаваныя вядучымі экспертамі галіны.</string>
@@ -5954,7 +5954,7 @@
   <string name="open_wlan_title">Дазволіць гэтай праграме уключаць і выключаць Wi-Fi</string>
   <string name="operator_location_settings">Устанавіць аператара і месцазнаходжанне</string>
   <string name="operator_location_settings_message">Не атрымалася распазнаць вашага аператара і месцазнаходжанне. Немагчыма ўстанавіць папярэджанні аб балансе тэлефона і выкарыстанні дадзеных.</string>
-  <string name="privacy_flares_behavior_recent">Паводзіны праграмы</string>
+  <string name="privacy_flares_behavior_recent">Дзеянні</string>
   <string name="privacy_flares_capsule_current">%1s | Цяпер</string>
   <string name="privacy_flares_capsule_recent">%1s | Нядаўна</string>
   <string name="privacy_flares_current">Бягучае дзеянне</string>

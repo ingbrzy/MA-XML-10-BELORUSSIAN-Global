@@ -180,10 +180,10 @@
   <string name="headset_device_donot_move">Не перамяшчайце прыладу</string>
   <string name="headset_device_enter_upgrade_failed">Збой</string>
   <string name="headset_device_error_box_close">Зарадны футарал зачынены</string>
-  <string name="headset_device_error_disconnect">Абодва навушніка адключаныя. Зачыніце футарал для зарадкі і адкрыйце яго зноў, каб пачаць абнаўленне зноўку.</string>
+  <string name="headset_device_error_disconnect">Абодва навушніка адключаныя. Зачыніце футарал для зарадкі і адкрыйце яго зноў, каб пачаць абнаўленне.</string>
   <string name="headset_device_error_failed">Збой</string>
   <string name="headset_device_error_multconnect">Не ўдаецца абнавіць, калі падлучана некалькі прылад</string>
-  <string name="headset_device_error_no_device">Адзін або абодва навушніка не ўстаўлена ў зарадны футляр</string>
+  <string name="headset_device_error_no_device">Змясціце абодва навушнікі ў футарал і трымайце іх зараджанымі</string>
   <string name="headset_device_error_single_device">Немагчыма абнавіць адзiн навушнік, выканайце паўторнае спалучэнне</string>
   <string name="headset_device_sync">Сінхранізацыя…</string>
   <string name="headset_device_sync_donot_move_device">Не выкарыстоўвайце прыладу падчас сінхранізацыі</string>

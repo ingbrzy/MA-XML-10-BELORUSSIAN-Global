@@ -505,4 +505,5 @@
   <string name="item_facerecognition">Разблакаванне тварам</string>
   <string name="activate_esim_tips">Немагчыма актываваць. Паўтарыце спробу.</string>
   <string name="preinstall_tips">Рыхтуемся…</string>
+  <string name="activating_esim_tips">Актывацыя…</string>
 </resources>

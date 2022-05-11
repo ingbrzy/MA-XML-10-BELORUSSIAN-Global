@@ -82,8 +82,8 @@
          <item>Стужка вiджэтаў</item>
     </string-array>
     <string-array name="animation_rate_entries">
-         <item>Вытанчаная</item>
-         <item>Збалансаваная</item>
-         <item>Мінімальная</item>
+        <item>Элегантная</item>
+        <item>Збалансаваная</item>
+        <item>Хуткая</item>
     </string-array>
 </resources>

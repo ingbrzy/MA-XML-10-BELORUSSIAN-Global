@@ -1293,4 +1293,9 @@
         <item quantity="one">Аўтаматычна запісвайце ключавыя моманты і стварайце відэа з найлепшымі момантамі сеансу. Вы можаце захаваць іх назаўжды пасля кожнай гульнявой сесіі. Незахаваныя відэа будуць аўтаматычна выдалены праз %1$d дзень.</item>
         <item quantity="few">Аўтаматычна запісвайце ключавыя моманты і стварайце відэа з найлепшымі момантамі сеансу. Вы можаце захаваць іх назаўжды пасля кожнай гульнявой сесіі. Незахаваныя відэа будуць аўтаматычна выдалены праз %1$d дня.</item>
     </plurals>
+    <plurals name="storage_fbo_number_unit">
+        <item quantity="other">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> фрагментаў</item>
+        <item quantity="one">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> фрагмент</item>
+        <item quantity="few">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> фрагменты</item>
+    </plurals>
 </resources>

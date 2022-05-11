@@ -885,4 +885,7 @@
   <string name="navigation_position_summary">Карыстальніцкае становішча кнопак навігацыі можна ўжываць толькі да працоўнага стала</string>
   <string name="navigation_position_title">Палажэнне кнопак навігацыі</string>
   <string name="animation_rate_title">Хуткасць анімацыі</string>
+  <string name="notification_channel_alerts">Апавяшчэнні</string>
+  <string name="open_pad_personal_assistant_settings">Віджэты працоўнага стала</string>
+  <string name="add_to_workspace">Дадаць на працоўны стол</string>
 </resources>

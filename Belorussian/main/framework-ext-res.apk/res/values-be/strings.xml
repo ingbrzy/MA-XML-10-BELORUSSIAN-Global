@@ -152,7 +152,7 @@
   <string name="fp_nav_center_action_choose_dlg_negative_btn_text">Не зараз</string>
   <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Уключыць</string>
   <string name="fp_nav_center_action_choose_dlg_title">Уключыць функцыю хуткага дотыку</string>
-  <string name="freeform_exchange_tip">Адпусціце, каб адкрыць праграму</string>
+  <string name="freeform_exchange_tip">Адкрыць плаваючае вакно ў поўнаэкранным рэжыме</string>
   <string name="freeform_exchange_tip2">Перацягнуць ў кут, каб адмяніць</string>
   <string name="frenchchic">Шык</string>
   <string name="frequent_email">Email, які часта выкарыстоўваецца</string>
@@ -556,4 +556,6 @@
   <string name="voice_input_error_network">Немагчыма падключыцца да сеткі. Праверце налады і паспрабуйце яшчэ раз.</string>
   <string name="voice_input_error_other">Адбылася памылка. Пачакайце крыху і паспрабуйце яшчэ раз.</string>
   <string name="unreplace_freeform_count_max">Не атрымлiваецца адкрыць дадатковыя плаваючыя вокны</string>
+  <string name="disable_nfc_haptic_reverse">NFC і вібрацыя адключаныя для зваротнай бесправадной зарадкі</string>
+  <string name="enable_nfc_haptic_reverse">Рэверсіўная зарадка спынена. NFC і вібрацыя зноў уключаныя.</string>
 </resources>

@@ -10481,5 +10481,13 @@
   <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">· Перацягнiце праграму з бакавой панэлі у цэнтр экрана, каб адкрыць яе у плаваючым вакне, або у бок, каб выкарыстоўваць падзелены экран</string>
   <string name="nrca_switch_title">Выкарыстоўваць агрэгацыю аператараў 5G</string>
   <string name="miheadset_same_account_incall">Прымаць выклікі з усіх сінхранізаваных прылад</string>
-  <string name="miheadset_same_account_incall_summary">Падключайце навушнікі да іншых сінхранізаваных прылад, каб прымаць уваходныя выклікі</string>
+  <string name="miheadset_same_account_incall_summary">Падлучайце навушнікі да іншых сінхранізаваных прылад, каб прымаць уваходныя выклікі</string>
+  <string name="dialog_esim_button_negative">Адмена</string>
+  <string name="dialog_esim_button_positive">ОК</string>
+  <string name="dialog_softbank_esim_wipe_cancel">Захаваць</string>
+  <string name="dialog_softbank_esim_wipe_info">Ачысціць усе загружаныя дадзеныя eSIM прама зараз? Гэта не адменіць ваш тарыфны план мабільнай сувязі.</string>
+  <string name="dialog_softbank_esim_wipe_ok">Ачысціць</string>
+  <string name="dialog_softbank_esim_wipe_title">Ачысціць дадзеныя eSIM</string>
+  <string name="dialog_softbank_esime_context">Гэтая прылада павінна быць падлучана да Інтэрнэту, каб мець магчымасць актываваць eSIM. Прапусціць актывацыю eSIM?</string>
+  <string name="dialog_softbank_esime_title">Прапусціць актывацыю eSIM</string>
 </resources>

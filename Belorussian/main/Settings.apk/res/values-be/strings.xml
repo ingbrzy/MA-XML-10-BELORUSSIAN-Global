@@ -9002,14 +9002,6 @@
   <string name="miuix_alphabet_indexer_name">Алфавітная лінейка</string>
   <string name="miuix_indexer_selected">Абрана: %s</string>
   <string name="bluetooth_pairing_shares_phonebook_not_support_voice">Дазволіць доступ да кантактаў</string>
-  <string name="dialog_esim_button_negative">Адмена</string>
-  <string name="dialog_esim_button_positive">ОК</string>
-  <string name="dialog_softbank_esim_wipe_cancel">Адмена</string>
-  <string name="dialog_softbank_esim_wipe_info">Калі вы працягнеце, усе дадзеныя eSIM будуць выдаленыя. Усё роўна працягнуць?</string>
-  <string name="dialog_softbank_esim_wipe_ok">Працягнуць</string>
-  <string name="dialog_softbank_esim_wipe_title">Ачысціць дадзеныя eSIM</string>
-  <string name="dialog_softbank_esime_context">Гэтай прыладзе неабходна падлучыцца да Інтэрнэту, каб мець магчымасць актываваць eSIM. Прапусціць актывацыю eSIM?</string>
-  <string name="dialog_softbank_esime_title">Прапусціць актывацыю eSIM</string>
   <string name="keyboard_funtion_key">Функцыянальная клавіша</string>
   <string name="forbidden_set_unlock_password_msg">У цяперашні час прылада знаходзіцца ў рэжыме абслугоўвання, пароль не можа быць усталяваны або зменены.</string>
   <string name="miheadset_windnoise">Вецер</string>

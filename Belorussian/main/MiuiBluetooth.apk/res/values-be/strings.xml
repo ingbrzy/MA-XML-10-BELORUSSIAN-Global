@@ -473,9 +473,9 @@
   <string name="tuesday_short">Аўт</string>
   <string name="tuesday_shortest">А</string>
   <string name="unbind_device_alert_cancel">Скасаваць</string>
-  <string name="unbind_device_alert_content">Згублена злучэнне з %1$s. Адлучыце прыладу для захоўванне зараду батарэі.</string>
+  <string name="unbind_device_alert_content">Згублена злучэнне з %1$s. Адлучыце прыладу для захоўвання зараду батарэі.</string>
   <string name="unbind_device_alert_ok">Адлучыць</string>
-  <string name="unbind_device_alert_title">Адключыце прыладу</string>
+  <string name="unbind_device_alert_title">Адлучыце прыладу</string>
   <string name="uninstall_all_deferred">Выдаліць усе адкладзеныя модулі</string>
   <string name="v7_preference_off">Выкл.</string>
   <string name="v7_preference_on">Укл.</string>
@@ -491,4 +491,8 @@
   <string name="headset_incall_summary">Адказаць на выклік %1$s праз навушнікі? Навушнікі застануцца падлучанымі да гэтай прылады пасля завяршэння выкліку.</string>
   <string name="headset_incall_title">Адказаць на выклік у навушніках</string>
   <string name="fast_connect_connection_fail">Не атрымалася падлучыцца</string>
+  <string name="miheadset_spatial_audio_change_to_phone">На гэтай прыладзе ўключаны аб\'ёмны гук</string>
+  <string name="miheadset_spatial_audio_headset">Навушнікі</string>
+  <string name="miheadset_spatial_audio_not_support_headset">Аб\'ёмны гук у навушніках несумяшчальны з шматканальнымі крыніцамі</string>
+  <string name="miheadset_spatial_audio_phone">Гэтая прылада</string>
 </resources>

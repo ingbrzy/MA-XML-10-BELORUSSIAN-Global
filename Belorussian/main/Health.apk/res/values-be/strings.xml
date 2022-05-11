@@ -1742,7 +1742,7 @@
   <string name="tb_sleep_index_info">%1$s. Націсніце, каб праглядзець дэталі.</string>
   <string name="tb_sleep_index_title">Пераключыцца на %1$s</string>
   <string name="tb_sleep_ring_info">%1$s. Сон: %2$s. Націсніце, каб праглядзець дэталі.</string>
-  <string name="tb_snore_detection_main">Аб асаблівасцях размоў і храпу: %1%s. Правядзіце па гарызанталі ў верхняй частцы экрана, каб перайсці на наступную старонку.</string>
+  <string name="tb_snore_detection_main">Аб асаблівасцях размоў і храпу: %1$s. Правядзіце па гарызанталі ў верхняй частцы экрана, каб перайсці на наступную старонку.</string>
   <string name="tb_snore_view_info">Графік размовы і храпу</string>
   <string name="tb_stand_card_finish_stand">Сёння вы разміналіся: %1$s. Вам трэба як мінімум 12 сёння. Вы дасягнулі сваёй мэты паміж %2$s і %3$s.</string>
   <string name="tb_stand_card_not_finish_stand">Сёння вы разміналіся: %1$s. Вам трэба як мінімум 12 сёння. Вы не дасягнулі сваёй мэты паміж %2$s і %3$s.</string>

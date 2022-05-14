@@ -873,7 +873,7 @@
   <string name="system_permission_declare_no_say_no">Калі вы вырашыце не даваць неабходныя дазволы ці не дазволіце нам збіраць і выкарыстоўваць вашы дадзеныя, гэта дадатак не зможа нармальна працаваць.</string>
   <string name="system_permission_declare_privacy_declare">Мы паважаем і абараняем вашу прыватнасць.\nЗвярніце ўвагу, што %1s можа збіраць вашыя дадзеныя і для нармальнай працы патрабуюцца наступныя дазволу:</string>
   <string name="system_permission_declare_revoke_path">Вы можаце адклікаць аўтарызацыю і адключыць сэрвіс у наладах абмену паведамленнямі.</string>
-  <string name="system_permission_declare_single_link">Прачытайце і пагадзіцеся з нашай %1 перад выкарыстаннем гэтай функцыі.</string>
+  <string name="system_permission_declare_single_link">Прачытайце і пагадзіцеся з нашай %1s перад выкарыстаннем гэтай функцыі.</string>
   <string name="system_permission_declare_triple_link" formatted="false">Прачытайце і пагадзіцеся з нашымі %1s, %2s і %3s перад выкарыстаннем гэтых функцый.</string>
   <string name="system_permission_declare_use_network">Падключэнне да сеткі</string>
   <string name="system_permission_perm_answer_call">Здзяйсняць званкі</string>

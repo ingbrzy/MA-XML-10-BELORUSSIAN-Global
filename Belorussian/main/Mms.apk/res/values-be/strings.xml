@@ -563,7 +563,7 @@
   <string name="pref_title_mms_retrieval_during_roaming">Спампоўваць змесціва MMS у роўмінгу</string>
   <string name="pref_title_mms_validity_period">Тэрмін дзеяння MMS</string>
   <string name="pref_title_msg_blocked">Чорны спіс</string>
-  <string name="pref_title_notification_body_enabled">Паказаць паведамленнi на экране блакавання</string>
+  <string name="pref_title_notification_body_enabled">Паведамленнi на экране блакавання</string>
   <string name="pref_title_privacy_authority">Доступ да асабістых дадзеных</string>
   <string name="pref_title_privacy_policy_detail">Палітыка прыватнасці</string>
   <string name="pref_title_ringtone_repeat">Гук апавяшчэнняў</string>
@@ -572,8 +572,8 @@
   <string name="pref_title_smart_msg_privacy_policy">Палітыка прыватнасці Smart Messaging</string>
   <string name="pref_title_sms_delete">Максімальная колькасць SMS</string>
   <string name="pref_title_sms_validity_period">Тэрмін дзеяння SMS</string>
-  <string name="pref_title_storage_status">Інфармацыя пра захоўванне паведамленнi</string>
-  <string name="pref_title_system_mms_priority">Прыярытэт для \"Паведамленнi\"</string>
+  <string name="pref_title_storage_status">Інфармацыя пра захоўванне паведамлення</string>
+  <string name="pref_title_system_mms_priority">Праграма па змаўчанні</string>
   <string name="pref_title_vcard">Адправіць як картку vCard</string>
   <string name="pref_title_wake_up_screen">Уключаць экран</string>
   <string name="preferences_title">Налады</string>
@@ -887,7 +887,7 @@
   <string name="title_activity_rcs_login">Уваход</string>
   <string name="title_activity_rcs_maps">Месцазнаходжанне</string>
   <string name="title_allow_network_access">Абнаўляць інфармацыю аўтаматычна</string>
-  <string name="title_collapse_sp_messages">Група апавяшчэнняў</string>
+  <string name="title_collapse_sp_messages">Групаваць апавяшчэннi</string>
   <string name="title_hide_verification_code">Хаваць аднаразовыя паролі на экране блакавання</string>
   <string name="title_pref_cm_smart_sms">Разумныя SMS China Mobile</string>
   <string name="title_show_blocked_messages">Паказваць заблакаваныя SMS</string>

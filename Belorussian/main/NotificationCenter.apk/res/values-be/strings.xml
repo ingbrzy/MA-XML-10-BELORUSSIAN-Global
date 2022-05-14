@@ -30,7 +30,7 @@
   <string name="actionbar_button_up_description">Назад</string>
   <string name="afternoon">ПП</string>
   <string name="am">ДП</string>
-  <string name="app_name">Апавяшчэння</string>
+  <string name="app_name">Апавяшчэннi</string>
   <string name="back">Назад</string>
   <string name="channel_keyguard_hide_content">Паказваць усё апавяшчэннi, але хаваць іх утрыманне</string>
   <string name="channel_keyguard_show_content">Паказваць усе апавяшчэннi і іх утрыманне</string>
@@ -43,7 +43,7 @@
   <string name="date_time_picker_dialog_title">Усталяваць дату і час</string>
   <string name="default_list_type">Сартаваць па часу атрымання</string>
   <string name="disable_float_notification">Усплывальныя апавяшчэннi не дазволены</string>
-  <string name="disable_lockscreen_notification">Апавяшчэння на Экране блакавання не дазволены</string>
+  <string name="disable_lockscreen_notification">Апавяшчэннi на экране блакавання не дазволены</string>
   <string name="disable_show_badge_notification">Значкі апавяшчэнняў не дазволены</string>
   <string name="early_morning">ДП</string>
   <string name="enable_float_notification">Усплывальныя апавяшчэннi дазволены</string>
@@ -54,8 +54,8 @@
   <string name="expand_top_notification">Разгарнуць верхняе апавяшчэнне</string>
   <string name="feedback">Водгук</string>
   <string name="float_notification_snooze_strategy">Часовае ўтойванне</string>
-  <string name="float_notification_snooze_summary">Правядзіце ўверх па ўсплывальнаму апавяшчэнню, каб часова схаваць апавяшчэння</string>
-  <string name="float_notifications">Усплываючыя апавяшчэння</string>
+  <string name="float_notification_snooze_summary">Правядзіце ўверх па ўсплывальнаму апавяшчэнню, каб часова схаваць апавяшчэннi</string>
+  <string name="float_notifications">Усплываючыя апавяшчэннi</string>
   <string name="float_notifications_short">Лунаючае</string>
   <string name="fmt_date_long_month_day">d MMMM</string>
   <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
@@ -73,8 +73,8 @@
   <string name="friday_shortest">П</string>
   <string name="function_description">Пра гэту функцыю</string>
   <string name="hint_search_all">Пошук праграм</string>
-  <string name="hint_search_in_disabled_apps">Шукаць праграмы, якія не могуць паказваць апавяшчэння</string>
-  <string name="hint_search_in_enabled_apps">Шукаць праграмы, якія могуць паказваць апавяшчэння</string>
+  <string name="hint_search_in_disabled_apps">Шукаць праграмы, якія не могуць паказваць апавяшчэннi</string>
+  <string name="hint_search_in_enabled_apps">Шукаць праграмы, якія могуць паказваць апавяшчэннi</string>
   <string name="last_sent_time_second">Толькі што</string>
   <string name="list_title_disable_notification">Апавяшчэннi не дазволены</string>
   <string name="loading">Секундачку…</string>
@@ -163,11 +163,11 @@
   <string name="notification_display_style">Стыль апавяшчэнняў</string>
   <string name="notification_fold_description1">Фільтр апавяшчэнняў быў прадстаўлены ў MIUI 9. Гэта функцыя фільтруе няважныя апавяшчэннi і змяшчае іх у асобную тэчку.</string>
   <string name="notification_fold_description2">MIUI будзе запамінаць, на якія апавяшчэннi вы націскаеце, каб далей вызначаць іх важнасць па некалькіх крытэрыях.</string>
-  <string name="notification_fold_description3">Калі апавяшчэння, якія вы лічыце важнымі, па-ранейшаму змяшчаюцца ў асобную тэчку, пакіньце нам свой водгук. Мы будзем вельмі удзячны.</string>
+  <string name="notification_fold_description3">Калі апавяшчэннi, якія вы лічыце важнымі, па-ранейшаму змяшчаюцца ў асобную тэчку, пакіньце нам свой водгук. Мы будзем вельмі удзячны.</string>
   <string name="notification_fold_footer_icon_summary">Паказваць абразкі праграм пры групоўцы няважных апавяшчэнняў</string>
   <string name="notification_fold_footer_icon_title">Паказваць абразкі праграм</string>
-  <string name="notification_fold_summary">Аўтаматычна групаваць неістотныя апавяшчэння</string>
-  <string name="notification_fold_title">Групаваць апавяшчэння</string>
+  <string name="notification_fold_summary">Аўтаматычна групаваць неістотныя апавяшчэннi</string>
+  <string name="notification_fold_title">Групаваць апавяшчэннi</string>
   <string name="notification_keyguard_hide_content">Хаваць змесціва</string>
   <string name="notification_keyguard_show_content">Паказваць цалкам</string>
   <string name="notification_keyguard_show_nothing">Не паказваць</string>

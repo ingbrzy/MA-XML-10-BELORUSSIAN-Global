@@ -213,7 +213,7 @@
   <string name="accessibility_system_action_back_label">Назад</string>
   <string name="accessibility_system_action_hardware_a11y_shortcut_label">Хуткі доступ</string>
   <string name="accessibility_system_action_home_label">Галоўная старонка</string>
-  <string name="accessibility_system_action_lock_screen_label">Экран блакіроўкі</string>
+  <string name="accessibility_system_action_lock_screen_label">Экран блакавання</string>
   <string name="accessibility_system_action_notifications_label">Апавяшчэнні</string>
   <string name="accessibility_system_action_on_screen_a11y_shortcut_chooser_label">Налада хуткага доступу да спецыяльных магчымасцей на экране</string>
   <string name="accessibility_system_action_on_screen_a11y_shortcut_label">Хуткі доступ да спецыяльных магчымасцей на экране</string>

@@ -2970,7 +2970,7 @@
   <string name="general_text">Тэкставае поле</string>
   <string name="general_time">Час: %1$d:%2$d. Доўгія вібрацыі абазначаюць гадзіны, кароткія вібрацыі абазначаюць хвіліны. Паміж гадзінамі і хвілінамі будзе невялікая паўза. Націсніце двойчы, каб паспрабаваць.</string>
   <string name="gentle_notifications_also_display">Таксама паказваць на</string>
-  <string name="gentle_notifications_display_lock">Экран блакіроўкі</string>
+  <string name="gentle_notifications_display_lock">Экран блакавання</string>
   <string name="gentle_notifications_display_status">Радок стану</string>
   <string name="gentle_notifications_display_summary_shade">Паказваць толькі ў радку стану</string>
   <string name="gentle_notifications_display_summary_shade_lock">Паказваць на панэлі апавяшчэнняў і заблакаваным экране</string>
@@ -3369,7 +3369,7 @@
   <string name="keywords_airplane">Самалёт;Рэжым палёту;Самалёт;Рэжым палёту;Палёт;Рэжым палёту</string>
   <string name="keywords_all_apps">праграмы, спампоўка, дастасаванні, сістэма</string>
   <string name="keywords_ambient_display">уваходнае апавяшчэнне</string>
-  <string name="keywords_ambient_display_screen">Аўтаматычнае ўключэнне экрана, экран блакіроўкі</string>
+  <string name="keywords_ambient_display_screen">Аўтаматычнае ўключэнне экрана, экран блакавання</string>
   <string name="keywords_android_version">узровень патчу бяспекі android, версія дыяпазону, версія ядра</string>
   <string name="keywords_app">АЗП</string>
   <string name="keywords_app_default">Адкрыць з дапамогай</string>
@@ -3428,9 +3428,9 @@
   <string name="keywords_install_other_apps">усталёўваць праграмы з невядомых крыніц</string>
   <string name="keywords_keyboard_and_ime">выпраўленне тэксту, правільны, гук, вібрацыя, аўтаматычна, мова, жэст, прапанаваць, прапанова, тэма, абразлівы, слова, набіраць, эмодзі, міжнародны</string>
   <string name="keywords_location">паблізу, месцазнаходжанне, гісторыя, справаздачы</string>
-  <string name="keywords_lock_screen_notif">апавяшчэнне экрана блакіроўкі, апавяшчэннi</string>
+  <string name="keywords_lock_screen_notif">апавяшчэнне экрана блакавання, апавяшчэннi</string>
   <string name="keywords_lockscreen">правядзіце, каб разблакіраваць, пароль, узор, PIN-код</string>
-  <string name="keywords_lockscreen_bypass">Экран блакіроўкі, экран блакіроўкі, прапусціць, абысці</string>
+  <string name="keywords_lockscreen_bypass">Экран блакавання, экран блакавання, прапусціць, абысці</string>
   <string name="keywords_model_and_hardware">серыйны нумар, версія апаратнага забеспячэння</string>
   <string name="keywords_more_default_sms_app">тэкставае паведамленне, адпраўка тэкставых паведамленняў, паведамленні, абмен паведамленнямі, стандартны</string>
   <string name="keywords_more_mobile_networks">сотавы, мабільны, сотавы аператар, бесправадны, дадзеныя, 4g, 3g, 2g, lte</string>
@@ -3443,7 +3443,7 @@
   <string name="keywords_quick_ball">Асістэнт дотыку;цэлiк;цэлiкі;пераключальнікі;пераключальнік</string>
   <string name="keywords_reset_apps">скінуць, параметры, стандартныя</string>
   <string name="keywords_ring_vibration">тактыльныя адчуванні, вібрацыя, тэлефон, выклік, адчувальнасць</string>
-  <string name="keywords_screen_timeout">экран, час блакіроўкі, час чакання, экран блакіроўкі</string>
+  <string name="keywords_screen_timeout">экран, час блакавання, час чакання, экран блакавання</string>
   <string name="keywords_silent">Без гуку;Сцішыць;Адключыць гук</string>
   <string name="keywords_sim_status">сетка, стан мабільнай сеткі, рабочы стан, моц сігналу, тып мабільнай сеткі, роўмінг, iccid</string>
   <string name="keywords_sounds">гукавы сігнал дынаміка, дынамік, гучнасць, без гуку, адключыць гук, аўдыя, музыка</string>
@@ -3469,7 +3469,7 @@
   <string name="keywords_vibrate_on_touch">Спыніць вібрацыю, націснуць, клавіятура</string>
   <string name="keywords_voice_input">праграма распазнання, увод, гаворка, гаварыць, мова, hands-free, без дапамогі рук, распазнанне, абразлівы, слова, аўдыя, гісторыя, гарнітура bluetooth</string>
   <string name="keywords_vr_listener">vr віртуальная рэальнасць сродак праслухоўвання стэрэа служба-памочнік</string>
-  <string name="keywords_wallpaper">фон, экран, экран блакіроўкі, тэма</string>
+  <string name="keywords_wallpaper">фон, экран, экран блакавання, тэма</string>
   <string name="keywords_wifi">Wi-Fi;wi-fi;Wi-Fi;Wi-Fi;wlan;WLAN</string>
   <string name="keywords_wifi_calling">wifi, wi-fi, выклік, тэлефанія</string>
   <string name="keywords_wifi_data_usage">выкарыстанне трафіка</string>
@@ -3703,7 +3703,7 @@
   <string name="lock_screen_settings_title">Экран блакавання</string>
   <string name="lock_screen_signature_summary">Гэта паведамленне будзе адлюстроўвацца на экране блакавання</string>
   <string name="lock_screen_signature_title">Інфармацыя пра ўладальніка</string>
-  <string name="lock_screen_unlock_show">Прапускаць экран блакіроўкі</string>
+  <string name="lock_screen_unlock_show">Прапускаць экран блакавання</string>
   <string name="lock_screen_unlock_show_summary">Адразу пераходзіць да працоўнага стала або ўводу пароля</string>
   <string name="lock_secure_after_timeout_click_me_to_change_text">Націсніце, каб змяніць</string>
   <string name="lock_settings">Экран блакавання і пароль</string>
@@ -3846,7 +3846,7 @@
   <string name="lockpattern_tutorial_cancel_label">Скасаваць</string>
   <string name="lockpattern_tutorial_continue_label">Далей</string>
   <string name="lockscreen_bypass_summary">Пасля распазнавання твару вяртацца на папярэдні экран</string>
-  <string name="lockscreen_bypass_title">Прапускаць экран блакіроўкі</string>
+  <string name="lockscreen_bypass_title">Прапускаць экран блакавання</string>
   <string name="lockscreen_glogin_checking_password">Праверка…</string>
   <string name="lockscreen_glogin_password_hint">Пароль</string>
   <string name="lockscreen_glogin_submit_button">Увайсці</string>
@@ -5043,7 +5043,7 @@
   <string name="power_menu_cards_passes">Паказваць карткі і талоны</string>
   <string name="power_menu_cards_passes_device_controls">Паказваць карткі, білеты і элементы кіравання прыладай</string>
   <string name="power_menu_device_controls">Паказваць элементы кіравання прыладай</string>
-  <string name="power_menu_lock_screen_category">Экран блакіроўкі</string>
+  <string name="power_menu_lock_screen_category">Экран блакавання</string>
   <string name="power_menu_none">Не паказваць ніякае змесціва</string>
   <string name="power_menu_privacy">Канфідэнцыяльнае змесціва</string>
   <string name="power_menu_privacy_hide">Схаваць карткі і элементы кіравання пры заблакіраваным экране</string>
@@ -6471,7 +6471,7 @@
   <string name="status_awake_time">Час пераходу ў актыўны рэжым</string>
   <string name="status_bar_app_disable_notification">Апавяшчэннi схаваны</string>
   <string name="status_bar_app_enable_floating">Усплывальныя апавяшчэннi</string>
-  <string name="status_bar_app_enable_keyguard">Экран блакіравання</string>
+  <string name="status_bar_app_enable_keyguard">Экран блакавання</string>
   <string name="status_bar_app_enable_message">Абразкі</string>
   <string name="status_bar_carrier_settings_no_sim_card">Няма SIM-карты</string>
   <string name="status_bar_settings">Апавяшчэннi і панэль стану</string>
@@ -9502,7 +9502,7 @@
   <string name="category_name_color">Колер</string>
   <string name="category_name_display_controls">Іншыя элементы кіравання дысплэем</string>
   <string name="category_name_general">Агульныя налады</string>
-  <string name="category_name_lock_display">Экран блакіроўкі</string>
+  <string name="category_name_lock_display">Экран блакавання</string>
   <string name="category_name_others">Іншае</string>
   <string name="cell_data_off_content_description">Мабільная перадача даных выключана</string>
   <string name="certificate_management_app">Праграма кантролю сертыфікатаў</string>

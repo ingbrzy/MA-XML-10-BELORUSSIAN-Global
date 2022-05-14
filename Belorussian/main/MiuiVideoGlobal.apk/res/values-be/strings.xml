@@ -560,7 +560,7 @@
   <string name="local_video_notification_btn">Глядзець у Mi Video</string>
   <string name="local_video_notification_title">Знойдзена новае лакальнае відэа</string>
   <string name="local_video_space">Занята: %s</string>
-  <string name="lock_screen">Экран блакіроўкі</string>
+  <string name="lock_screen">Экран блакавання</string>
   <string name="login">Увайсцi</string>
   <string name="login_tip">Увайдзіце, каб атрымліваць нашы адказы на вашы водгукі.</string>
   <string name="logo_neverthink">Куратар Neverthink.tv</string>

@@ -83,7 +83,7 @@
   <string name="accessibility_desc_connected">Злучана.</string>
   <string name="accessibility_desc_connecting">Злучэнне.</string>
   <string name="accessibility_desc_lock_screen">Экран блакавання.</string>
-  <string name="accessibility_desc_notification_icon">%1$s апавяшчэння: %2$s</string>
+  <string name="accessibility_desc_notification_icon">%1$s апавяшчэннi: %2$s</string>
   <string name="accessibility_desc_notification_shade">Панэль апавяшчэнняў.</string>
   <string name="accessibility_desc_off">Выкл.</string>
   <string name="accessibility_desc_on">Укл.</string>
@@ -146,7 +146,7 @@
   <string name="accessibility_notifications_button">Апавяшчэннi</string>
   <string name="accessibility_one_bar">Адно дзяленне.</string>
   <string name="accessibility_output_chooser">Змяніць прыладу аўдыявыхаду</string>
-  <string name="accessibility_overflow_action">Праглядзець усе апавяшчэння</string>
+  <string name="accessibility_overflow_action">Праглядзець усе апавяшчэннi</string>
   <string name="accessibility_phone_button">Тэлефон</string>
   <string name="accessibility_phone_one_bar">Адна рыска сігналу сувязі.</string>
   <string name="accessibility_phone_signal_full">Надзейны тэлефонны сігнал.</string>
@@ -404,7 +404,7 @@
   <string name="biometric_dialog_wrong_pin">Няправільны PIN-код</string>
   <string name="blob_expires_text">Тэрмін дзеяння заканчваецца %s</string>
   <string name="blob_id_text">Ідэнтыфікатар абагуленых даных: %d</string>
-  <string name="block">Блакаваць усе апавяшчэння</string>
+  <string name="block">Блакаваць усе апавяшчэннi</string>
   <string name="bluetooth_a2dp_profile_summary_connected">Падлучана да мультымедыйнай аўдыяпрылады</string>
   <string name="bluetooth_a2dp_profile_summary_use_for">Выкарыстоўваць для мультымедыйнай аўдыяпрылады</string>
   <string name="bluetooth_active_battery_level">Актыўна, зарад батарэі %1$s</string>
@@ -961,7 +961,7 @@
   <string name="keyboard_shortcut_group_system">Сістэма</string>
   <string name="keyboard_shortcut_group_system_back">Назад</string>
   <string name="keyboard_shortcut_group_system_home">Дадому</string>
-  <string name="keyboard_shortcut_group_system_notifications">Апавяшчэння</string>
+  <string name="keyboard_shortcut_group_system_notifications">Апавяшчэннi</string>
   <string name="keyboard_shortcut_group_system_recents">Нядаўнія</string>
   <string name="keyboard_shortcut_group_system_shortcuts_helper">Гарачыя кнопкі</string>
   <string name="keyboard_shortcut_group_system_switch_input">Пераключэнне спосабу ўводу</string>
@@ -1313,9 +1313,9 @@
   <string name="notification_delegate_header">Праксіраванае апавяшчэнне</string>
   <string name="notification_done">Гатова</string>
   <string name="notification_group_collapse_button_text">Згарнуць</string>
-  <string name="notification_header_default_channel">Апавяшчэння</string>
+  <string name="notification_header_default_channel">Апавяшчэннi</string>
   <string name="notification_hidden_text">Вам прыйшло новае паведамленне</string>
-  <string name="notification_menu_gear_description">Кантроль апавяшчэнняў</string>
+  <string name="notification_menu_gear_description">Кіраванне апавяшчэннямі</string>
   <string name="notification_menu_settings_action">Налады</string>
   <string name="notification_menu_snooze_action">Нагадаць</string>
   <string name="notification_menu_snooze_description">Налады адкладвання апавяшчэнняў</string>
@@ -1394,7 +1394,7 @@
   <string name="power_discharge_by_only_short">Да %1$s</string>
   <string name="power_discharging_duration">%1$s – засталося каля %2$s</string>
   <string name="power_discharging_duration_enhanced">Зараду (%2$s) пры такім выкарыстанні хопіць прыблізна на %1$s</string>
-  <string name="power_notification_controls_description">"З кантролем апавяшчэння магутнасці, вы можаце ўсталяваць ўзровень важнасці ад 0 да 5 для апавяшчэнняў праграмы. \n\n\"&lt;b>Узровень 5&lt;/b>\" \n- Паказаць у верхняй частцы спісу апавяшчэнняў \n- Дазволіць высвятленне на ўвесь экран \n- заўсёды паказваць \n\n\"&lt;b>Узровень 4&lt;/b>\" \n- Прадухіліць высвятленне на ўвесь экран \n- Заўсёды паказваць \n\n\"&lt;b>Узровень 3&lt;/b>\" \n- Прадухіліць высвятленне на ўвесь экран \n- Ніколі не паказваць \n\n\"&lt;b>Узровень 2&lt;/b>\" \n- Прадухіліць высвятленне на ўвесь экран \n- Ніколі не паказваць \n- Зрабіць бязгучным і без вібрацыі \n\n\"&lt;b>Узровень 1&lt;/b>\" \n- Прадухіліць высвятленне на ўвесь экран \n- Ніколі не паказваць \n- Зрабіць бязгучным і без вібрацыі \n- Схаваць з экрана блакавання і панэлі стану \n- Паказаць у ніжняй частцы спісу апавяшчэнняў \n\n\"&lt;b>Узровень 0&lt;/b>\" \n- Блакаваць усе апавяшчэння праграмы "</string>
+  <string name="power_notification_controls_description">"З дапамогай гэтай функцыі вы можаце ўсталёўваць узровень важнасці ад 0 да 5 для апавяшчэнняў праграмы. \n\n\"&lt;b>Узровень 5&lt;/b>\" \n- Паказаць у верхняй частцы спісу апавяшчэнняў \n- Дазволіць высвятленне на ўвесь экран \n- заўсёды паказваць \n\n\"&lt;b>Узровень 4&lt;/b>\" \n- Прадухіліць высвятленне на ўвесь экран \n- Заўсёды паказваць \n\n\"&lt;b>Узровень 3&lt;/b>\" \n- Прадухіліць высвятленне на ўвесь экран \n- Ніколі не паказваць \n\n\"&lt;b>Узровень 2&lt;/b>\" \n- Прадухіліць высвятленне на ўвесь экран \n- Ніколі не паказваць \n- Зрабіць бязгучным і без вібрацыі \n\n\"&lt;b>Узровень 1&lt;/b>\" \n- Прадухіліць высвятленне на ўвесь экран \n- Ніколі не паказваць \n- Зрабіць бязгучным і без вібрацыі \n- Схаваць з экрана блакавання і панэлі стану \n- Паказаць у ніжняй частцы спісу апавяшчэнняў \n\n\"&lt;b>Узровень 0&lt;/b>\" \n- Блакаваць усе апавяшчэння праграмы "</string>
   <string name="power_remaining_charging_duration_only">%1$s засталося да поўнай зарадкі</string>
   <string name="power_remaining_duration_only">Засталося каля %1$s</string>
   <string name="power_remaining_duration_only_enhanced">Засталося прыблізна %1$s пры бягучым узроўні выкарыстання</string>
@@ -1547,7 +1547,7 @@
   <string name="quick_settings_night_secondary_label_on_at_sunset">На заходзе сонца</string>
   <string name="quick_settings_night_secondary_label_until_sunrise">Падчас усходу сонца</string>
   <string name="quick_settings_nightmode_label">Цёмны рэжым</string>
-  <string name="quick_settings_notifications_label">Апавяшчэння</string>
+  <string name="quick_settings_notifications_label">Апавяшчэннi</string>
   <string name="quick_settings_papermode_label">Чытанне</string>
   <string name="quick_settings_powermode_label">Прадукцыйны</string>
   <string name="quick_settings_quietmode_label">Не турбаваць</string>
@@ -1750,7 +1750,7 @@
   <string name="status_bar_date_format_12">d MMMM\nEEEE</string>
   <string name="status_bar_ethernet">Ethernet</string>
   <string name="status_bar_input_method_settings_configure_input_methods">Наладзіць спосаб уводу</string>
-  <string name="status_bar_latest_events_title">Апавяшчэння</string>
+  <string name="status_bar_latest_events_title">Апавяшчэннi</string>
   <string name="status_bar_no_notifications_title">Няма апавяшчэнняў</string>
   <string name="status_bar_notification_app_settings_title">Налады %s</string>
   <string name="status_bar_notification_info_overflow">999+</string>
@@ -1759,7 +1759,7 @@
   <string name="status_bar_settings_auto_brightness_label">Аўта</string>
   <string name="status_bar_settings_auto_rotation">Паварот</string>
   <string name="status_bar_settings_mute_label">Без гуку</string>
-  <string name="status_bar_settings_notifications">Апавяшчэння</string>
+  <string name="status_bar_settings_notifications">Апавяшчэннi</string>
   <string name="status_bar_settings_settings_button">Налады</string>
   <string name="status_bar_settings_wifi_button">Wi-Fi</string>
   <string name="status_bar_use_physical_keyboard">Фізічная клавіятура</string>
@@ -1841,7 +1841,7 @@
   <string name="tuner_circle">Круг</string>
   <string name="tuner_doze">Жывы экран</string>
   <string name="tuner_doze_always_on">Заўсёды ўключаны</string>
-  <string name="tuner_full_importance_settings">Кантроль апавяшчэнняў магутнасці</string>
+  <string name="tuner_full_importance_settings">Пашыранае кіраванне апавяшчэннямі</string>
   <string name="tuner_full_importance_settings_off">Выкл.</string>
   <string name="tuner_full_importance_settings_on">Укл.</string>
   <string name="tuner_full_zen_title">Паказаць з рэгулятарам гучнасці</string>
@@ -2072,7 +2072,7 @@
   <string name="face_unlock_success">Паспяхова разблакавана</string>
   <string name="quick_settings_cellular_detail_unable_change">Немагчыма ўсталяваць падчас выкліку</string>
   <string name="finger_error_single_mode">Немагчыма выкарыстоўваць сканар адбіткаў пальцаў у рэжыме кіравання адной рукой. Выйдзіце з гэтага рэжыму і паспрабуйце ізноў.</string>
-  <string name="float_notification_snooze_strategy">Часова схаваць усплывальныя апавяшчэння</string>
+  <string name="float_notification_snooze_strategy">Часова схаваць усплывальныя апавяшчэннi</string>
   <string name="miui_snooze_always_float">Па хаваць</string>
   <string name="miui_snooze_cancel">Адмена</string>
   <string name="miui_snooze_default_time">На %d хв.</string>
@@ -2255,7 +2255,7 @@
   <string name="device_locked_without_biometric">Немагчыма разблакаваць гэту прыладу з дапамогай адбіткаў пальцаў або дадзеных твару, калі вы карыстаецеся іншым блакаваннем экрана</string>
   <string name="miui_notification_menu_msg_unfold">Адлюстроўваць апавяшчэннi %1$s асобна?</string>
   <string name="miui_notification_menu_unfold">Адзначыць як важнае</string>
-  <string name="miui_unimportant_notifications">Няважныя апавяшчэння</string>
+  <string name="miui_unimportant_notifications">Няважныя апавяшчэннi</string>
   <string name="shut_down_password_forget_password_suggesstion_one_content"><Data>Націсніце і ўтрымлівайце кнопкі &lt;font color=#e6e6e6>[Сiлкаванне]&lt;/font> i &lt;font color=#e6e6e6>[Гучнасць +]&lt;/font> пакуль вы не ўбачыце &lt;img src=\"\">.</Data></string>
   <string name="shut_down_password_forget_password_suggesstion_two_content"><Data>Вылучыце &lt;font color=#e6e6e6>[Ачысціць дадзеныя]&lt;/font> і пасля гэтага націсніце &lt;font color=#e6e6e6>[Перазагрузка]&lt;/font>.</Data></string>
   <string name="msim_set_sub_not_supported_phone_in_call">Немагчыма ўсталяваць падчас выкліку</string>

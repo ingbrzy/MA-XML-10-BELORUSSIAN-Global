@@ -75,7 +75,7 @@
   <string name="about_setting_network">Наладзіць сетку</string>
   <string name="about_setting_newmsg_notify">Апавяшчэнне аб новым паведамленні</string>
   <string name="about_setting_newmsg_notify_closed_desc">Вы можаце прапусціць важныя паведамленні. Уключыце, каб дазволіць апавяшчэннi.</string>
-  <string name="about_setting_newmsg_notify_opened_desc">Адключыўшы апавяшчэння, вы можаце прапусціць важныя паведамленні.</string>
+  <string name="about_setting_newmsg_notify_opened_desc">Адключыўшы апавяшчэннi, вы можаце прапусціць важныя паведамленні.</string>
   <string name="about_setting_not_upload_gps">Не загружаць інфармацыю, звязаную з GPS</string>
   <string name="about_setting_not_upload_gps_detail">Спыніць загрузку дадзеных аб месцазнаходжанні ў воблака. Вы можаце сутыкнуцца з праблемамі сінхранізацыі маршрутаў паміж праграмамі, а таксама можаце страціць частку дадзеных аб маршрутах.</string>
   <string name="about_setting_privacy_detail">Палітыка прыватнасці</string>
@@ -607,7 +607,7 @@
   <string name="device_mobile_web">Мабільныя дадзеныя</string>
   <string name="device_more_setting">Дадатковыя налады</string>
   <string name="device_night_model">Начны рэжым</string>
-  <string name="device_notification">Апавяшчэння</string>
+  <string name="device_notification">Апавяшчэннi</string>
   <string name="device_notification_setting">Налады апавяшчэнняў</string>
   <string name="device_notification_settings">Налады апавяшчэнняў</string>
   <string name="device_other">Іншае</string>
@@ -760,7 +760,7 @@
   <string name="device_settings_common_music">Музыка</string>
   <string name="device_settings_common_not_selected">Выберыце аб\'екты</string>
   <string name="device_settings_common_not_set">Не абрана</string>
-  <string name="device_settings_common_notification">Апавяшчэння</string>
+  <string name="device_settings_common_notification">Апавяшчэннi</string>
   <string name="device_settings_common_null">Не</string>
   <string name="device_settings_common_oxygen_saturation">Узровень кіслароду ў крыві</string>
   <string name="device_settings_common_pai">PAI</string>
@@ -1805,7 +1805,7 @@
   <string name="health_curse_interval">Працягласць цыкла</string>
   <string name="health_curse_lover_health">Жаночае здароўе</string>
   <string name="health_curse_motion">Настрой</string>
-  <string name="health_curse_notice">Апавяшчэння</string>
+  <string name="health_curse_notice">Апавяшчэннi</string>
   <string name="health_curse_notify_ahead">Нагадваць загадзя</string>
   <string name="health_curse_notify_device">Адпраўляць апавяшчэннi на прыладу</string>
   <string name="health_curse_notify_ovum">Апавяшчэннi аб авуляцыі</string>
@@ -3000,7 +3000,7 @@
   <string name="notify_device_notification_close_info">Уключыце, каб атрымліваць апавяшчэннi на прыладзе.</string>
   <string name="notify_device_notification_label">Абярыце праграмы, якія могуць адпраўляць апавяшчэннi.</string>
   <string name="notify_device_notification_only_screen_lock">Паказваць на экране блакавання</string>
-  <string name="notify_device_notification_open_info">Атрымліваць апавяшчэння на прыладзе</string>
+  <string name="notify_device_notification_open_info">Атрымліваць апавяшчэннi на прыладзе</string>
   <string name="notify_device_notification_open_sub_info">Аб апавяшчэннях</string>
   <string name="notify_do_not_disturb_permission_alert_content">Дазвольце доступ да рэжыму \"Не турбаваць\" у раздзеле Налады ўручную, інакш некаторыя функцыі могуць працаваць некарэктна.</string>
   <string name="notify_do_not_disturb_permission_alert_title">Доступ да рэжыму \"Не турбаваць\"</string>
@@ -3014,8 +3014,8 @@
   <string name="notify_message_remind_title">Уключыць апавяшчэнне аб паведамленні</string>
   <string name="notify_message_remind_to_open">Уключыць</string>
   <string name="notify_notice_permission_alert">Дазвольце доступ да апавяшчэнняў у раздзеле Налады ўручную, інакш некаторыя функцыі могуць працаваць некарэктна.</string>
-  <string name="notify_notification_close_alert">Ваша прылада перастане атрымліваць апавяшчэння. Працягнуць?</string>
-  <string name="notify_notification_item_open_alert">Апавяшчэння, якія адлюстроўваюцца на тэлефоне, будуць перапраўлены на вашу прыладу</string>
+  <string name="notify_notification_close_alert">Ваша прылада перастане атрымліваць апавяшчэннi. Працягнуць?</string>
+  <string name="notify_notification_item_open_alert">Апавяшчэннi, якія адлюстроўваюцца на тэлефоне, будуць перапраўлены на вашу прыладу</string>
   <string name="notify_open_remind_text">Знайдзіце праграму \"Здароўе\" у спісе кіравання апавяшчэннямі і ўключыце патрэбныя.</string>
   <string name="notify_permission_answer_phone_calls_info">Дазвольце доступ да галасавых выклікаў у раздзеле Налады ўручную, інакш некаторыя функцыі могуць працаваць некарэктна.</string>
   <string name="notify_permission_call_phone_info">Дазвольце доступ да галасавых выклікаў у раздзеле Налады ўручную, інакш некаторыя функцыі могуць працаваць некарэктна.</string>

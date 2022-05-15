@@ -5447,7 +5447,7 @@
   <string name="auto_task_default_task_summary_listen_music">Прайграць музыку і выбраць тып навушнікаў</string>
   <string name="auto_task_default_task_summary_meet">Запланаваць час сустрэчы і ўключыць рэжым \"Не турбаваць\"</string>
   <string name="auto_task_default_task_summary_noon_break">Запланаваць час абеду і ўключыць рэжым \"Не турбаваць\"</string>
-  <string name="auto_task_default_task_summary_save_power">"Уключыць рэжым энергазберажэння, калі ўзровень зарада батарэі ніжэй 30%"</string>
+  <string name="auto_task_default_task_summary_save_power">Уключыць рэжым энергазберажэння, калі ўзровень зарада батарэі ніжэй 30%</string>
   <string name="auto_task_default_task_summary_sleep">Запланаваць час адыходу да сну і наладзіць паводзіны прылады</string>
   <string name="auto_task_default_task_summary_watch_video">Запусціць праграму, ўключыць Wi-Fi, адрэгуляваць гучнасць</string>
   <string name="auto_task_default_task_title_driver_car">У машыне</string>
@@ -5510,7 +5510,7 @@
   <string name="auto_task_voice_dialog_alarm_title">Будзільнікi</string>
   <string name="auto_task_voice_dialog_call_title">Выклікі, паведамленнi, нагадванні</string>
   <string name="auto_task_voice_dialog_media_title">Музыка, гульні, медыя</string>
-  <string name="default_condition_summary">Напрыклад: \"Узровень зараду ніжэй, чым %s\"</string>
+  <string name="default_condition_summary">Напрыклад: \"Узровень зараду ніжэй, чым 20%\"</string>
   <string name="default_condition_title">Дадаць ўмову</string>
   <string name="default_condition_title_continue">Дадаць ўмову</string>
   <string name="default_result_summary">Напрыклад: \"Выключыць рэжым палёту\"</string>

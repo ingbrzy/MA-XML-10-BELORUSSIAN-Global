@@ -3098,9 +3098,9 @@
   <string name="haptic_video_content_description">Дэманстрацыйнае відэа</string>
   <string name="haptic_volume_adjustment_14_content_description">Рэгулёўка гучнасці</string>
   <string name="hardkeyboard_category">Налады фізічнай клавіятуры</string>
-  <string name="hardware_info">Мадэль і апаратнае забеспячэнне</string>
+  <string name="hardware_info">Мадэль і серыйны нумар</string>
   <string name="hardware_revision">Версія апаратнага забеспячэння</string>
-  <string name="hardware_version">Версія апаратных сродкаў</string>
+  <string name="hardware_version">Версія абсталявання</string>
   <string name="has_screenshot_sound">Гук здымку экрана</string>
   <string name="hdcp_checking_dialog_title">Усталяваць праверку HDCP паводзінаў</string>
   <string name="hdcp_checking_title">Праверка HDCP</string>
@@ -3279,7 +3279,7 @@
   <string name="instant_app_details_summary">Дадатковая інфармацыя ў %1$s</string>
   <string name="instant_apps_settings">Параметры імгненных праграм</string>
   <string name="instruction_privacy_password">Гэты пароль абараняе наступныя элементы</string>
-  <string name="instruction_title">Iнфармацыя аб бяспецы</string>
+  <string name="instruction_title">Звесткі аб бяспецы</string>
   <string name="insufficient_storage">Не хапае месца для захоўвання.</string>
   <string name="intelligence_suppression_summary">Дынамічна рэгулюйце памер вобласці побач з краямі, дзе выпадковы дотык будзе ігнаравацца ў залежнасці ад вашага захопу</string>
   <string name="intelligence_suppression_title">Аўта (рэкамендуецца)</string>
@@ -5378,13 +5378,13 @@
   <string name="radioInfo_data_connecting">Падключэнне</string>
   <string name="radioInfo_data_disconnected">Выключана</string>
   <string name="radioInfo_data_suspended">Прыпынена</string>
-  <string name="radioInfo_roaming_in">Роўмінг</string>
+  <string name="radioInfo_roaming_in">У роўмінгу</string>
   <string name="radioInfo_roaming_not">Не ў роўмінгу</string>
   <string name="radioInfo_service_emergency">Толькі экстранныя выклікі</string>
-  <string name="radioInfo_service_in">Працуе</string>
-  <string name="radioInfo_service_off">Перадатчык выключаны</string>
-  <string name="radioInfo_service_out">Не працуе</string>
-  <string name="radioInfo_unknown">Невядома</string>
+  <string name="radioInfo_service_in">У зоне абслугоўвання</string>
+  <string name="radioInfo_service_off">Сетка адключаная</string>
+  <string name="radioInfo_service_out">Па-за зонай абслугоўвання</string>
+  <string name="radioInfo_unknown">Невядомы</string>
   <string name="ram_total_size">Агульны аб\'ём АЗП</string>
   <string name="rank_title">Рэйтынгі</string>
   <string name="rarely_running">Запускаецца рэдка (%s)</string>
@@ -6164,9 +6164,9 @@
   <string name="settings_notify_phone_recycled">Ваш нумар тэлефона быў перапрацаваны. Націсніце, каб дадаць іншы нумар.</string>
   <string name="settings_panel_title">Панель налад</string>
   <string name="settings_safetylegal_activity_loading">Спампоўка...</string>
-  <string name="settings_safetylegal_activity_title">Інфармацыя аб бяспецы</string>
+  <string name="settings_safetylegal_activity_title">Звесткі аб бяспецы</string>
   <string name="settings_safetylegal_activity_unreachable">Падключэнне да інтэрнэту адсутнічае. Каб праглядзець гэтую інфармацыю, наведайце %s з любога камп\'ютара, падключанага да інтэрнэту.</string>
-  <string name="settings_safetylegal_title">Інфармацыя аб бяспецы</string>
+  <string name="settings_safetylegal_title">Звесткі аб бяспецы</string>
   <string name="settings_shortcut">Цэлiк налад</string>
   <string name="setup_choose_unlock_mixed_password">Пароль</string>
   <string name="setup_choose_unlock_mixpassword_title">Задаць пароль</string>
@@ -6492,9 +6492,9 @@
   <string name="status_operator">Сетка</string>
   <string name="status_prl_version">Версiя PRL</string>
   <string name="status_roaming">Роўмінг</string>
-  <string name="status_serial_number">Парадкавы нумар</string>
+  <string name="status_serial_number">Серыйны нумар</string>
   <string name="status_serialno">Серыйны нумар</string>
-  <string name="status_service_state">Стан</string>
+  <string name="status_service_state">Стан абслугоўвання</string>
   <string name="status_signal_strength">Магутнасць сігналу</string>
   <string name="status_sim">Статус SIM-карты</string>
   <string name="status_summary">Націсніце для прагляду падрабязнасцей.</string>
@@ -8874,10 +8874,10 @@
   <string name="oaid_apps_summary">Дазволіць або абмежаваць доступ для асобных праграм</string>
   <string name="oaid_apps_title">Кiраванне віртуальным ідэнтыфікатарам</string>
   <string name="privacy_policy">Палітыка прыватнасці</string>
-  <string name="sar">Інфармацыя аб уздзеянні радыёчастотнага выпраменьвання</string>
+  <string name="sar">Даведка пра ўзровень радыёчастотнага выпраменьвання</string>
   <string name="three_gesture_horizontal">Правядзіце гарызантальна з дапамогай %d пальцаў</string>
   <string name="three_gesture_pc_mode">Уключыць рэжым ПК</string>
-  <string name="user_agreement">Умовы выкарыстання</string>
+  <string name="user_agreement">Карыстальніцкае пагадненне</string>
   <string name="smart_home_select_smart_device">Праграма для кіравання прыладамі разумнага дому</string>
   <string name="upload_debug_log_detail">"Дапамажыце палепшыць працу вашай прылады MIUI, аўтаматычна адправіўшы ў Xiaomi дыягнастычныя дадзеныя, дадзеныя аб выкарыстанні прылады і праграм. Гэта дапаможа павялічыць час аўтаномнай працы, павысіць стабільнасць сістэмы і праграм MIUI і многае іншае.
 Дадзеныя будуць утрымліваць агульную інфармацыю аб вашай прыладзе і пра тое, як вы яе выкарыстоўваеце (напрыклад, аб узроўні зарада батарэі, актыўнасці сістэмы і праграм, а таксама пра памылкі). Дадзеныя будуць выкарыстаны для паляпшэння прылад MIUI.

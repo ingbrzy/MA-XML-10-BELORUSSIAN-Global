@@ -1360,4 +1360,5 @@
   <string name="gps_prompt_context">Выкарыстоўваць для спампоўкі мабільны інтэрнэт?</string>
   <string name="gps_prompt_title">Увага</string>
   <string name="party">Вечарынка</string>
+  <string name="content_failed_to_load">Не атрымалася загрузіць кантэнт</string>
 </resources>

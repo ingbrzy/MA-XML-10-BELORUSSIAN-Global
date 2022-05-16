@@ -10482,4 +10482,23 @@
   <string name="dialog_softbank_esim_wipe_title">Ачысціць дадзеныя eSIM</string>
   <string name="dialog_softbank_esime_context">Гэтая прылада павінна быць падлучана да Інтэрнэту, каб мець магчымасць актываваць eSIM. Прапусціць актывацыю eSIM?</string>
   <string name="dialog_softbank_esime_title">Прапусціць актывацыю eSIM</string>
+  <string name="device_ime_keyboard_fold">Параметры клавіятуры для складаных прылад</string>
+  <string name="device_ime_keyboard_pad">Параметры клавіятуры для планшэтаў</string>
+  <string name="double_g_v">Дубляваць G і V</string>
+  <string name="double_g_v_sumary">Дублюйце цэнтральныя кнопкі на эрганамічнай клавіятуры для большай зручнасці</string>
+  <string name="fold_game_adaptation">Гульні</string>
+  <string name="fold_screen_settings_title">Функцыі для вялікага экрана</string>
+  <string name="imitate_real_keyboard">Традыцыйная клавіятура</string>
+  <string name="imitate_real_keyboard_summary">Зручна, калі ваша прылада ляжыць на плоскай паверхні</string>
+  <string name="left_right_hand_switch">Злева і справа</string>
+  <string name="left_right_hand_switch_summary">Прымусьце левую і правую часткі клавіятуры перамыкацца месцамі адным націскам</string>
+  <string name="mishow_disable_password_setting">Немагчыма ўсталяваць паролі ў дэманстрацыйным рэжыме</string>
+  <string name="miui_lab_drive_mode_desc_new">Выкарыстоўваць галасавое кіраванне</string>
+  <string name="separate_keyboard">Эрганамічная клавіятура</string>
+  <string name="separate_keyboard_summary_fold">Падзяліце клавіятуру перагародкай у цэнтры, каб было зручней друкаваць, трымаючы прыладу абедзвюма рукамі</string>
+  <string name="separate_keyboard_summary_pad">Падзяліце клавіятуру перагародкай у цэнтры, каб набіраць тэкст было хутчэй і зручней</string>
+  <string name="symbol_fast_input">Спецыяльныя сімвалы</string>
+  <string name="symbol_fast_input_summary">Націсніце назначаную кнопку, каб застацца на клавіятуры са спецыяльнымі сімваламі і ўвесці некалькі сімвалаў адначасова</string>
+  <string name="tablet_screen_settings_title">Функцыі для планшэтаў</string>
+  <string name="wallpaper_setting_title">Шпалеры</string>
 </resources>

@@ -329,7 +329,7 @@
   <string name="morning">Раніца</string>
   <string name="msg_alert_cancel_restore">Ідзе аднаўленне. Спыніць яго?</string>
   <string name="msg_alert_restore_error">Не атрымалася аднавіць аб\'екты з Воблака Xiaomi. Паспрабуйце яшчэ раз.</string>
-  <string name="msg_restore_start_with_metered_network">Ваш працоўны стол будзе адноўлены. Зарэзерваваныя праграмы будуць загружаныя аўтаматычна. Будзе загружана файлаў: %s</string>
+  <string name="msg_restore_start_with_metered_network">"Калі вы адновіце гэтую рэзервовую копію, ваш працоўны стол будзе скінуты, а вашыя праграмы будуць спампованы і ўсталяваны аўтаматычна.&lt;br />&lt;b>&lt;font color='red'>Памер рэзервовай копіі: %s&lt;/font>&lt;/b>"</string>
   <string name="msg_restore_with_metered_network_hint">Пры пераходзе да аднаўлення аб\'ектаў для іх загрузкі будзе выкарыстоўвацца мабільны інтэрнэт.</string>
   <string name="msg_restore_with_metered_network_pattern">Будзе загружана файлаў: %s</string>
   <string name="network_error">Падлучыцца да сеткі</string>

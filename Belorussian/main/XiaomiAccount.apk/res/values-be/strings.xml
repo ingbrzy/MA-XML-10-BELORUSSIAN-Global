@@ -924,4 +924,11 @@ ID:%s
   <string name="login_notification_button_text">Увайсці</string>
   <string name="login_notification_desc">Атрымлівайце асалоду ад воблачных сэрвісаў, сямейнага сховішча і многага іншага</string>
   <string name="login_notification_title">Увайдзіце ў свой Mi акаўнт</string>
+  <string name="about_mi_account">Пра Mi акаўнт</string>
+  <string name="check_apk_update">Праверыць наяўнасць абнаўленняў</string>
+  <string name="find_new_apk_version">Даступнае абнаўленне</string>
+  <string name="has_no_new_version">Версія актуальная</string>
+  <string name="new_version">Новая версія</string>
+  <string name="update_apk_version_later">Не зараз</string>
+  <string name="update_apk_version_now">Абнавіць</string>
 </resources>

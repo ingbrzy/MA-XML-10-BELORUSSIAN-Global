@@ -196,7 +196,7 @@
   <string name="expand_button_title">Пашыраныя налады</string>
   <string name="experience_new_feature_tips">Увайдзіце ў свой уліковы запіс Mi, каб падаць заяўку на атрыманне дазволаў на выкарыстанне бэта-версіі. Вы зможаце выкарыстоўваць бэта-версію пасля таго, як мы разгледзім вашу заяўку. Бэта-версія можа ўтрымліваць памылкі.</string>
   <string name="experience_new_features">Бэта-версія</string>
-  <string name="experiential_version_of_the_prompt_content">Увайдзіце ў свой уліковы запіс Mi, каб атрымаць доступ да бэта-версіі сканэра. Увайсці цяпер?</string>
+  <string name="experiential_version_of_the_prompt_content">Увайдзіце ў свой уліковы запіс Mi, каб атрымаць доступ да бэта-версіі сканара. Увайсці цяпер?</string>
   <string name="express_no_empty">Экспрэс-нумар не можа быць пустым</string>
   <string name="failed_to_get_xiaomi_account">Не атрымалася ўвайсці</string>
   <string name="fax">Факс</string>
@@ -568,7 +568,7 @@
   <string name="privacy_policy">Палітыка прыватнасці</string>
   <string name="privacy_policy_update">Абноўленая палітыка прыватнасці</string>
   <string name="privacy_policy_update_message"><Data>Вы не зможаце працягваць выкарыстоўваць Сканар, калі не пагодзіцеся з новай версіяй яго &lt;a href=\"%1$s\">Палітыкі прыватнасці&lt;/a>. Прыняць абноўленую Палітыку прыватнасці зараз?</Data></string>
-  <string name="privacy_policy_update_welcome">Палітыка прыватнасці сканэра абноўлена:</string>
+  <string name="privacy_policy_update_welcome">Палітыка прыватнасці сканара абноўлена:</string>
   <string name="privacy_policy_withdrawal_error">Не атрымалася адклікаць згоду. Пачакайце хвіліну ці дзве і паспрабуйце яшчэ раз.</string>
   <string name="privacy_policy_withdrawal_message"><Data>Калі вы працягнеце, вы адгукнецца сваю згоду з Палітыкай прыватнасці сканара. Гэта будзе лічыцца адмовай прымаць паслугі сканара. Вы павінны пагадзіцца c &lt;a href=\"%1$s\">Палітыкай прыватнасці&lt;/a> зноў, калі вы вырашыце выкарыстоўваць Сканар. Згодны?</Data></string>
   <string name="processing">Апрацоўка</string>
@@ -605,7 +605,7 @@
   <string name="saveDone">Паспяхова захавана</string>
   <string name="scan_result">Вынік</string>
   <string name="scan_support_type">WeChat, Alipay, QR-коды, штрых-коды</string>
-  <string name="scanHistory">Гісторыя сканэра</string>
+  <string name="scanHistory">Гісторыя сканара</string>
   <string name="scanHistory_close">Выключыць</string>
   <string name="scanHistory_isOpen">Пачаць адсочваць гісторыю па гэтай пазіцыі цяпер?</string>
   <string name="scanHistory_open">Уключыць</string>
@@ -766,7 +766,7 @@
   <string name="url_is_safety">Гэты сайт бяспечны</string>
   <string name="url_is_unknown">Немагчыма праверыць бяспечнасць сайта</string>
   <string name="url_is_unsafety">Гэты сайт небяспечны</string>
-  <string name="user_agreement">Карыстацкая дамова</string>
+  <string name="user_agreement">Карыстальнiцкае пагадненне</string>
   <string name="user_notification">Водгук згоды</string>
   <string name="v7_preference_off">ВЫКЛ.</string>
   <string name="v7_preference_on">УКЛ.</string>
@@ -881,7 +881,7 @@
   <string name="scan_form_top_tip">Сканаваць, захоўваць і рэдагаваць табліцы</string>
   <string name="scan_general_top_tip">Распазнаванне раслін, людзей і прадуктаў</string>
   <string name="scan_support_type_new">Сканаваць QR або штрых-код</string>
-  <string name="scan_text">Сканаваць тэкст</string>
+  <string name="scan_text">Сканаванне тэксту</string>
   <string name="scan_text_top_tip">Распазнаванне і капіяванне тэксту</string>
   <string name="scan_translate_top_tip">Перавесці ўвесь тэкст на фатаграфіі</string>
   <string name="share_error">Не атрымалася падзяліцца</string>

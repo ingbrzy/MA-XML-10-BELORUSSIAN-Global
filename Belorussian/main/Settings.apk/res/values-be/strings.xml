@@ -10399,14 +10399,14 @@
   <string name="device_description_camera">Камера</string>
   <string name="device_description_cpu">Працэсар</string>
   <string name="device_description_ram">АЗП</string>
-  <string name="device_description_resolution">Разрозненне</string>
+  <string name="device_description_resolution">Разрознасць</string>
   <string name="device_description_screen">Экран</string>
   <string name="extended_power_menu">Пашыранае меню сiлкавання</string>
   <string name="keyboard_back_light">Падсветка клавіятуры</string>
   <string name="lockscreen_sidepanel_shortcuts_summary">Налады цэтлікаў праграм на бакавой панэлі экрана блакавання</string>
   <string name="lockscreen_sidepanel_shortcuts_title">Цэтлiкі бакавой панэлі</string>
   <string name="model_number_pad">Мадэль прылады</string>
-  <string name="my_device_disclaimer">Нататка: інфармацыя аб абсталяванні, уключаючы працэсар, ёмістасць акумулятара, камеру, памер і разрозненне экрана, прадстаўлена лабараторыямі, дызайнерамі і пастаўшчыкамі Xiaomi.</string>
+  <string name="my_device_disclaimer">Нататка: інфармацыя аб абсталяванні, уключаючы працэсар, ёмістасць акумулятара, камеру, памер і разрознасць экрана, прадстаўлена лабараторыямі, дызайнерамі і пастаўшчыкамі Xiaomi.</string>
   <string name="pad_add_fingerprint_finish_message">Націсніце кнопку \"Гатова\", каб адкрыць дадатковыя налады.</string>
   <string name="pad_add_fingerprint_message">Пакладзіце палец на кнопку сiлкавання. Палец павінен быць чыстым.</string>
   <string name="power_menu_under_keyguard_summary">Доступ да меню сiлкавання на экране блакавання</string>
@@ -10501,4 +10501,20 @@
   <string name="symbol_fast_input_summary">Націсніце назначаную кнопку, каб застацца на клавіятуры са спецыяльнымі сімваламі і ўвесці некалькі сімвалаў адначасова</string>
   <string name="tablet_screen_settings_title">Функцыі для планшэтаў</string>
   <string name="wallpaper_setting_title">Шпалеры</string>
+  <string name="felica_wallet">Felica кашалёк</string>
+  <string name="felica_wallet_desc">Felica кашалёк</string>
+  <string name="mi_wallet">Мі кашалёк</string>
+  <string name="mi_wallet_desc">Mi кашалёк</string>
+  <string name="miui_nfc_dialog_message">Вы не зможаце выкарыстоўваць функцыі NFC, уключаючы аплату, праязныя, карты-ключы і г.д., калі выключыце NFC. Усё роўна выключыць?</string>
+  <string name="miui_nfc_dialog_negative">Выключыць</string>
+  <string name="miui_nfc_dialog_positive">Адмена</string>
+  <string name="miui_nfc_dialog_title">Выключэнне NFC</string>
+  <string name="miui_nfc_mi_pay_summary">Аплата, праязныя, карты-ключы</string>
+  <string name="nfc_image_preference_text_click">Праверце, дзе знаходзіцца вобласць антэны NFC на гэтай прыладзе</string>
+  <string name="nfc_image_preference_text_noclick">Змесціце сваю прыладу побач з бескантактавым тэрміналам, каб выкарыстаць аплату, праязныя, карты-ключы і іншыя функцыі NFC.</string>
+  <string name="preference_toggle_nfc_dnd_mode_summary">Не атрымліваць апавяшчэнні аб нераспазнаных пазнаках NFC</string>
+  <string name="se_in_ese">Убудаваны абаронены модуль</string>
+  <string name="se_in_ese_desc">Убудаваны абаронены модуль</string>
+  <string name="sim_wallet">Кашалёк SIM</string>
+  <string name="sim_wallet_desc">Кашалёк SIM</string>
 </resources>

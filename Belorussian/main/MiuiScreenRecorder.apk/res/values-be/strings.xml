@@ -218,7 +218,7 @@
   <string name="pm">ПП</string>
   <string name="preference_copied">\"%1$s\": скапіявана ў буфер абмену.</string>
   <string name="privacy_settings">Прыватнасць</string>
-  <string name="quit_recording">Выйсці з праграмы</string>
+  <string name="quit_recording">Выхад з праграмы</string>
   <string name="recording_failure">Немагчыма запісаць, пачніце зноў</string>
   <string name="recording_max_size">Запіс будзе спынены і захаваны з-за дасягнення абмежавання на памер файла. Калі неабходна, пачніце запіс з таго моманту, дзе вы спыніліся.</string>
   <string name="recording_without_mic">Мікрафон цяпер заняты ды не можа запісваць гук.</string>

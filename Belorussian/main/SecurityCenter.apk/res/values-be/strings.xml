@@ -2994,7 +2994,7 @@
   <string name="videobox_settings_line_location">Размяшчэнне цэтліка</string>
   <string name="videobox_settings_line_location_desc">Паказаць цэтлік на краі экранана ў выбраных праграмах</string>
   <string name="videobox_settings_line_location_left">Злева</string>
-  <string name="videobox_settings_line_location_right">Зправа</string>
+  <string name="videobox_settings_line_location_right">Справа</string>
   <string name="videobox_settings_line_location_title">Цэтлік панэлі відэаінструментаў</string>
   <string name="videobox_settings_manager_apps">Выбар праграм</string>
   <string name="videobox_settings_switch_desc">Спецыяльныя эфекты і функцыі для прайгравання відэа</string>
@@ -6010,4 +6010,26 @@
   <string name="storage_fbo_tools">Аптымізацыя сховішча</string>
   <string name="ew_sleep_mode_alert_content">Каб вы маглі атрымліваць раннія папярэджанні аб землятрусе, MIUI адключыць спячы рэжым. Фонавыя праграмы, NFC, Bluetooth, GPS, мабільныя дадзеныя і Wi-Fi будуць нармальна працаваць, нават калі вы спіце. Уключыць папярэджанне аб землятрусе?</string>
   <string name="ew_sleep_mode_alert_title">Папярэджанне аб землятрусе</string>
+  <string name="gb_game_fill_desc">У некаторых выпадках змесціва можа быць скажона</string>
+  <string name="gb_game_mode">Рэжым адлюстравання</string>
+  <string name="gb_game_mode_change">Тут можна пераключацца паміж рэжымамі адлюстравання</string>
+  <string name="gb_game_mode_change_btn_right">Перазапусціць</string>
+  <string name="gb_game_mode_change_message">Перазапусціць гульню, каб прымяніць змены?</string>
+  <string name="gb_game_mode_change_title">Перазапусціце гульню</string>
+  <string name="gb_game_mode_choose_game_area">Актыўная вобласць</string>
+  <string name="gb_game_mode_choose_title">Абярыце рэжым адлюстравання</string>
+  <string name="gb_game_mode_empty">Тут пакуль няма гульняў</string>
+  <string name="gb_game_mode_fill">Поўны экран</string>
+  <string name="gb_game_mode_fill_type">Поўны экран</string>
+  <string name="gb_game_mode_ratio">Зыходны</string>
+  <string name="gb_game_mode_ratio_type">Зыходны</string>
+  <string name="gb_game_mode_recommend">" (Рэкамендуецца)"</string>
+  <string name="gb_game_mode_search">Пошук праграм</string>
+  <string name="gb_game_ratio_bottom">Унізе</string>
+  <string name="gb_game_ratio_center">Па цэнтры</string>
+  <string name="gb_game_ratio_desc_h">Актыўная вобласць не будзе абрэзана, могуць з\'явіцца чорныя вобласці</string>
+  <string name="gb_game_ratio_desc_v">Актыўная вобласць не будзе абрэзана, могуць з\'явіцца чорныя вобласці</string>
+  <string name="gb_game_ratio_left">Злева</string>
+  <string name="gb_game_ratio_right">Справа</string>
+  <string name="gb_game_ratio_top">Уверсе</string>
 </resources>

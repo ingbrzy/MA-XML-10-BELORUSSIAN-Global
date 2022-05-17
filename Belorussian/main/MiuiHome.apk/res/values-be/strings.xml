@@ -888,4 +888,7 @@
   <string name="notification_channel_alerts">Апавяшчэнні</string>
   <string name="open_pad_personal_assistant_settings">Віджэты працоўнага стала</string>
   <string name="add_to_workspace">Дадаць на працоўны стол</string>
+  <string name="fold_pair_install_shortcut_long_click">Націсніце і ўтрымлівайце, каб дадаць на працоўны стол</string>
+  <string name="fold_pair_installed_shortcut_launcher">Гэты цэтлік ужо існуе</string>
+  <string name="no_space_toast_fold">Тут недастаткова месца</string>
 </resources>

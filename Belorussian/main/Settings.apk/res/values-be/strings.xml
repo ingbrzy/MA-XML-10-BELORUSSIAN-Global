@@ -2944,10 +2944,10 @@
   <string name="freeform_guide_move_to_small_freeform_window_title">Згортванне</string>
   <string name="freeform_guide_notification_drop_down_summary">Зацісніце панэль дзеянняў апавяшчэння і пацягніце ўніз</string>
   <string name="freeform_guide_notification_drop_down_title">Адкрыццё</string>
-  <string name="freeform_guide_settings">Плаваючыя вокна</string>
+  <string name="freeform_guide_settings">Плаваючыя вокны</string>
   <string name="freeform_guide_slide_up_to_close_summary">Правядзіце уверх ад панэлі дзеянняў плаваючага вакна</string>
   <string name="freeform_guide_slide_up_to_close_title">Закрыццё</string>
-  <string name="freeform_vedio_description">· Націсніце і ўтрымлівайце апавяшчэнне, затым пацягніце ўніз, каб адкрыць яго ў плаваючым вакне.\n· Націсніце «Плаваючыя вокна» ў панэлі «Нядаўнія» для выбару праграмы.</string>
+  <string name="freeform_vedio_description">· Націсніце і ўтрымлівайце апавяшчэнне, затым пацягніце ўніз, каб адкрыць яго ў плаваючым вакне.\n· Націсніце «Плаваючыя вокны» ў панэлі «Нядаўнія» для выбару праграмы.</string>
   <string name="frequently_fragment_delete">Выдаліць</string>
   <string name="frequently_fragment_tempty">Тут будуць паказвацца часта ўжываныя элементы</string>
   <string name="fsg_mistake_touch_summary">У некаторых выпадках, напрыклад, у поўнаэкранных гульнях і відэа, жэсты будзе неабходна паўтараць двойчы</string>

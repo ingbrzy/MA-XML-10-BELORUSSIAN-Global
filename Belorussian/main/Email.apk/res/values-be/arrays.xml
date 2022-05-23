@@ -106,9 +106,14 @@
   <string-array name="error_message_respond">
         <item>LOGIN Памылка ўваходу або няправільны пароль</item>
         <item>LOGIN Памылка ўваходу. Няправільны пароль.</item>
+        <item>Няправільны лагін ці пароль</item>
+        <item>LOGIN Памылка ўваходу, няправільнае імя карыстальніка/пароль</item>
+        <item>LOGIN Памылка ўваходу: 1424, уліковы запіс не існуе (md return: 2100001)</item>
         <item>ERR.LOGIN.DOMAINNOTEXIST</item>
         <item>Выкарыстоўвайце код аўтарызацыі для ўваходу. Падрабязней: https://service.mail.qq.com/cgi-bin/help?subtype=1&amp;&amp;no=1001607&amp;&amp;id=28</item>
+        <item>Няправільны код. Дадатковыя звесткі гл. на старонцы https://service.mail.qq.com/cgi-bin/help?subtype=1&amp;&amp;no=1001607&amp;&amp;id=28</item>
         <item>LOGIN Памылка ўваходу. Карыстальнік заблакаваны.</item>
+        <item>LOGIN Памылка ўваходу.</item>
         <item>LOGIN errno:1423, памылка пароля карыстальніка (sp return:2200019)</item>
         <item>AUTHENTICATIONFAILED LOGIN Няправільныя ўліковыя дадзеныя</item>
         <item>Памылка ўваходу. Няправільны пароль ці служба не даступная.</item>
@@ -127,7 +132,7 @@
         <item>LOGIN Памылка ўваходу. Памылка імя карыстальніка ці пароля.</item>
         <item>Няслушны лагін ці пароль</item>
         <item>IP-адрас XXXXXXX у чорным спісе. Пераключыце сетку ці ўвайдзіце на https://mail.sohu.com, каб наладзіць белы спіс IP-адрасоў кліента</item>
-        <item>java.net.UnknownHostException: Немагчыма вызначыць хост XXXX: адсутнічае адрас, звязаны з імем хаста</item>
+        <item>java.net.UnknownHostException: Немагчыма вызначыць хост</item>
     </string-array>
     <string-array name="invoice_card_keyword">
         <item>Рахунак</item>

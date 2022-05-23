@@ -670,7 +670,6 @@
   <string name="rcs_unavailable">Немагчыма выкарыстаць паведамленнi 5G. SIM-карта 5G не ўсталяваная па змаўчанні для мабільнага інтэрнэту.</string>
   <string name="rcs_up_not_online">ВСК знаходзіцца ў аўтаномным рэжыме. Калі ласка, праверце налады сеткі і паспрабуйце зноў.</string>
   <string name="rcs_wait_for_retry_text">Чаканне…</string>
-  <string name="ready_updated ">У актуальным стане</string>
   <string name="received_at_time">Атрымана: %1s</string>
   <string name="received_label">"Атрымана: "</string>
   <string name="recipient_editor_count_format">%d</string>

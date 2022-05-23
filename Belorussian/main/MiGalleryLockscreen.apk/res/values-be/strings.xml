@@ -375,16 +375,12 @@
   <string name="lks_cta_summary1">Карусель шпалер дае наступныя функцыі:</string>
   <string name="lks_cta_summary2">1. Аўтаабнаўляльныя шпалеры&lt;br>2. Новыя выявы і гісторыі на экране блакавання&lt;br>3. Персаналізацыя&lt;br>Для нармальнай працы патрабуецца падлучэнне да інтэрнэту.&lt;br>&lt;br> Для працы дадатковых сэрвісаў патрабуецца доступ да сховішча для захавання файлаў. Перш чым працягнуць, прачытайце і прыміце &lt;font color =\'#37A5FF\'>&lt;a href=\'%1$s\'>Карыстальніцкае пагадненне&lt;/font>&lt;/a> і &lt;font color =\'#37A5FF\'>&lt;a href=\'%2$s\'>Палітыку канфідэнцыйнасці&lt;/font>&lt;/a>.</string>
   <string name="lks_cta_title">Умовы і палажэнні</string>
-  <string name="lks_current_lks_wallpaper">Бягучы экран блакавання</string>
   <string name="lks_data_warning_toast_1">Для прагляду шпалер выкарыстоўваецца мабільны інтэрнэт.\nГэта можа прывесці да дадатковых выдаткаў.</string>
   <string name="lks_dislike">Не падабаецца</string>
-  <string name="lks_download">Загрузіць</string>
   <string name="lks_left_net_deny">Сеткавае падключэнне абмежавана</string>
   <string name="lks_left_net_error">Немагчыма падключыцца да сеткі.</string>
   <string name="lks_left_top_notice">Націсніце тут, каб вярнуцца да пачатку</string>
   <string name="lks_left_top_notice_refresh">Націсніце для абнаўлення</string>
-  <string name="lks_like">У абранае</string>
-  <string name="lks_liked">У абраным</string>
   <string name="lks_logo_desc_search">Новыя шпалеры штодня</string>
   <string name="lks_logo_desc2">Новыя шпалеры штодня</string>
   <string name="lks_loop_icon_ask_cancle">Адмена</string>
@@ -398,14 +394,11 @@
   <string name="lks_loop_icon_dlg_title">Слайд-шоў экрана блакавання</string>
   <string name="lks_loop_icon_open_dlg">Слайд-шоў экрана блакавання ўключана, новыя выявы і гісторыі будуць штодня паказвацца на экране блакавання</string>
   <string name="lks_loop_icon_open_ok">Зразумела</string>
-  <string name="lks_more">Яшчэ</string>
   <string name="lks_more_pics_coming_toast">Новыя выявы будуць пазней</string>
   <string name="lks_new_user_help_anime">Правядзіце ўверх, каб убачыць больш</string>
   <string name="lks_no_network">Немагчыма падключыцца да сеткі</string>
   <string name="lks_please_reload">Абнавіць</string>
-  <string name="lks_related_article">Артыкул</string>
   <string name="lks_retry">Паўтор</string>
-  <string name="lks_set_as_lks_wallpaper">Усталяваць на экран блакавання</string>
   <string name="lks_subscription_toast">Шпалеры зменены</string>
   <string name="lks_to_history">Гісторыя</string>
   <string name="lks_to_setting">Налады Каруселі шпалер</string>

@@ -14,4 +14,9 @@
   <string name="translation_more">Яшчэ</string>
   <string name="translation_query_error">Нічога не знойдзена</string>
   <string name="translation_query_error_network">Немагчыма атрымаць дадзеныя, праверце злучэнне і паўтарыце спробу</string>
+  <string name="google_call">Выклiк</string>
+  <string name="google_email">Электронная пошта</string>
+  <string name="google_map">Карта</string>
+  <string name="google_open">Адкрыць</string>
+  <string name="google_translate">Пераклад</string>
 </resources>

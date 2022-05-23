@@ -8992,7 +8992,7 @@
   <string name="settings_charging_fully_charged">Цалкам зараджана</string>
   <string name="settings_charging_not_charging">Не зараджаецца</string>
   <string name="magic_list_empty_text_pad">У цяперашні час няма праграм, сумяшчальных з гэтай функцыяй</string>
-  <string name="magic_window_name_pad">Аптымізацыя альбомнай арыентацыі</string>
+  <string name="magic_window_name_pad">Аптымізацыя альбомнага выгляду</string>
   <string name="headset_toast_tip_disconnect_others">Падобна, вашы навушнікі цяпер падлучаныя да іншай прылады.</string>
   <string name="lock_screen_after_fold_screen_summary">Пры выкарыстанні пярэдняй камеры або навушнікаў экран не блакуецца пасля складання</string>
   <string name="lock_screen_after_fold_screen_title">Блакаваць экран пасля складання экрана</string>
@@ -10339,7 +10339,7 @@
   <string name="gxzw_vibrate_title">Вібраваць падчас разблакіроўкі</string>
   <string name="adapt_embedded">Даступныя паралельныя вокны</string>
   <string name="application_mode_empty_text">Тут пакуль няма праграм</string>
-  <string name="application_mode_name">Рэжым адлюстравання праграмы</string>
+  <string name="application_mode_name">Макеты праграм</string>
   <string name="rename_words_reached_limit">Новае імя не можа быць даўжэйшым за гэтае</string>
   <string name="size_embedded">Паралельныя вокны</string>
   <string name="size_full">Поўны экран</string>
@@ -10517,4 +10517,11 @@
   <string name="se_in_ese_desc">Убудаваны абаронены модуль</string>
   <string name="sim_wallet">Кашалёк SIM</string>
   <string name="sim_wallet_desc">Кашалёк SIM</string>
+  <string name="google_assistant_guide_cancel">Адмена</string>
+  <string name="google_assistant_guide_message">Вы можаце націснуць і ўтрымліваць кнопку сiлкавання на працягу %s сек., каб пачаць зносіны з Google Асістэнтам. Усталяваць гэты цэтлік?</string>
+  <string name="google_assistant_guide_ok">Усталяваць</string>
+  <string name="google_assistant_guide_tip">*Націсніце і ўтрымлівайце кнопку сiлкавання на працягу %s сек., каб адкрыць меню выключэння.</string>
+  <string name="google_assistant_guide_title">Google Асістэнт</string>
+  <string name="miui_bubbles_notification">Усплывальныя апавяшчэнні</string>
+  <string name="miui_bubbles_notification_status_opened">Укл.</string>
 </resources>

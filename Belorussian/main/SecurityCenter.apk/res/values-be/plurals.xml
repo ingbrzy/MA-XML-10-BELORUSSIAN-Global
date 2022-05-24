@@ -1302,4 +1302,12 @@
         <item quantity="other">Засталося %2$1.2f г.</item>
         <item quantity="one">Засталося %2$1.2f г.</item>
     </plurals>
+    <plurals name="gb_smart_battery_hrs">
+        <item quantity="other">%d г.</item>
+        <item quantity="one">%d г.</item>
+    </plurals>
+    <plurals name="gb_smart_battery_min">
+        <item quantity="other">%d хв.</item>
+        <item quantity="one">%d хв.</item>
+    </plurals>
 </resources>

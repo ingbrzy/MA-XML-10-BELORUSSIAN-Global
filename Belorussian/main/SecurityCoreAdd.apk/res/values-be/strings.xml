@@ -691,4 +691,7 @@
   <string name="miuix_alphabet_indexer_name">Алфавітная лінейка</string>
   <string name="miuix_indexer_selected">Абрана: %s</string>
   <string name="miuix_indexer_collect">Калекцыі</string>
+  <string name="alwaysUsePrompt">Запомніць выбар</string>
+  <string name="xspace_head">Кланаваная праграма</string>
+  <string name="xspace_resolver_activity_title">Абярыце праграму</string>
 </resources>

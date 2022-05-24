@@ -541,7 +541,7 @@
   <string name="card_main_xspace_title">Кланаванне</string>
   <string name="card_sms_report">Справаздача па SMS</string>
   <string name="card_tc_failed">Памылка каліброўкі</string>
-  <string name="card_tc_failed_content">Магчымыя прычыны:\u000d\n 1. Аператары адказваюць павольней у пачатку і канцы месяцу. Паўтарыце спробу праз некалькі дзён.\u000d\n 2. Пры першай наладзе патрабуецца падключэнне да інтэрнэту. Падключыцеся да інтэрнэту і паўтарыце спробу.\u000d\n 3. Ваш аператар можа не падтрымліваць адпраўку паведамленняў аб балансе і трафіке. Звяжыцеся з ім, каб даведацца падрабязнасці.\u000d\n 4. Магла ўзнікнуць памылка дадзеных аператара. Паспрабуйце выканаць дыягностыку для вырашэння праблемы.\u000d\n 5. Нічога не дапамагае? Націсніце \"Справаздача па SMS\" для адпраўкі справаздачы аб памылцы Xiaomi.</string>
+  <string name="card_tc_failed_content">Магчымыя прычыны:\u000d\n 1. Аператары адказваюць павольней у пачатку і канцы месяцу. Паўтарыце спробу праз некалькі дзён.\u000d\n 2. Пры першай наладзе патрабуецца падлучэнне да інтэрнэту. Падключыцеся да інтэрнэту і паўтарыце спробу.\u000d\n 3. Ваш аператар можа не падтрымліваць адпраўку паведамленняў аб балансе і трафіке. Звяжыцеся з ім, каб даведацца падрабязнасці.\u000d\n 4. Магла ўзнікнуць памылка дадзеных аператара. Паспрабуйце выканаць дыягностыку для вырашэння праблемы.\u000d\n 5. Нічога не дапамагае? Націсніце \"Справаздача па SMS\" для адпраўкі справаздачы аб памылцы Xiaomi.</string>
   <string name="charging_text_battery_full_time">"Час апошняй падсілкоўкі "</string>
   <string name="charging_text_battery_nearly_full">Амаль зараджана</string>
   <string name="charging_text_battery_perfect">Цалкам падсілкаваная</string>
@@ -563,7 +563,7 @@
   <string name="confirm_prompt_all_permission">Запытваць дазволы для ўсіх праграм?</string>
   <string name="confirm_reject_all_permission">Забараніць усім праграмам выкарыстоўваць гэтую функцыю?</string>
   <string name="confirmSecondSpacePassword">Пацвердзіце пароль для Другой прасторы</string>
-  <string name="connect_internet_by_mobiledata">Падключэнне мабільнага інтэрнэту</string>
+  <string name="connect_internet_by_mobiledata">Падлучэнне мабільнага інтэрнэту</string>
   <string name="connect_internet_by_usbshare">Інтэрнэт па USB</string>
   <string name="connect_internet_by_wifi">Wi-Fi</string>
   <string name="connecting">Злучэнне…</string>
@@ -585,12 +585,12 @@
   <string name="cpu_usage_view_action_btn_text">Націсніце для прагляду</string>
   <string name="create_gamebooster_destop">Цэтлік паспяхова дададзены на Галоўны экран</string>
   <string name="create_shortcut">Стварыць цэтлiк на працоўным стале для Паскаральніка гульняў</string>
-  <string name="cta_dialog_msg">Вы павінны пагадзіцца з нашай Палітыкай прыватнасці перад выкарыстаннем праграмы. Для забеспячэння бяспекі таксама неабходна падключэнне да Інтэрнэту і доступ да вашага месцазнаходжання для нармальнай працы і абнаўлення антывірусных баз. Згодны?</string>
+  <string name="cta_dialog_msg">Вы павінны пагадзіцца з нашай Палітыкай прыватнасці перад выкарыстаннем праграмы. Для забеспячэння бяспекі таксама неабходна падлучэнне да Інтэрнэту і доступ да вашага месцазнаходжання для нармальнай працы і абнаўлення антывірусных баз. Згодны?</string>
   <string name="cta_dialog_negative">Выхад</string>
   <string name="cta_dialog_positive">Згадзіцца</string>
   <string name="cta_dialog_title">Інтэрнэт злучэнне</string>
   <string name="cta_settings">Дазволіць доступ да інтэрнэту</string>
-  <string name="current_network_state_not_need_diagnose">Інтэрнэт-падключэнне працуе належным чынам.</string>
+  <string name="current_network_state_not_need_diagnose">Інтэрнэт-падлучэнне працуе належным чынам.</string>
   <string name="customize_limit_pkg">%s (карыстальніцкі)</string>
   <string name="customizer_mode_user_define_name">Мае правілы</string>
   <string name="daily_card_setting_fragment_daily_card_brand">Аператар</string>
@@ -605,7 +605,7 @@
   <string name="daily_limit_over_message">Вы выкарысталі сутачны ліміт інтэрнэту.</string>
   <string name="daily_pkg_traffic">Ліміт трафіка</string>
   <string name="data_booster_desc">Адключыце іншыя слоты SIM для падтрымання стабільнага падлучэння</string>
-  <string name="data_booster_title">Стабілізаваць падключэнне</string>
+  <string name="data_booster_title">Стабілізаваць падлучэнне</string>
   <string name="data_network_blocked_notification_title">Адсутнічае падлучэнне да інтэрнэту</string>
   <string name="data_usage_correction_timeout_title">Перавышаны час сінхранізацыі трафіка</string>
   <string name="data_usage_disabled_dialog">Вы дасягнулі ўсталяванага ліміту трафіка. Пры далейшым карыстанні мабільным інтэрнэтам, аператар можа спаганяць дадатковую плату.</string>
@@ -747,7 +747,7 @@
   <string name="empty_title_perm_apps">Няма праграм, якія патрабуюць гэтага дазволу.</string>
   <string name="empty_title_permission_apps_list">Няма праграм.</string>
   <string name="empty_title_root_apps">Няма праграм з Root-доступам.</string>
-  <string name="enable_network">Неабходна падключэнне да сеткі</string>
+  <string name="enable_network">Неабходна падлучэнне да сеткі</string>
   <string name="every_day">Штодзённа</string>
   <string name="examination_score_60_0">Патрэбна аптымізацыя</string>
   <string name="examination_score_80_60">Рэкамендуецца аптымізацыя</string>
@@ -839,7 +839,7 @@
   <string name="firewall_fragment_sys_listempty">Нічога няма</string>
   <string name="firewall_mobile">Мабільны інтэрнэт</string>
   <string name="firewall_mobile_dialog_message">Усталяваная праграма не зможа падлучыцца да інтэрнэту з дапамогай мабільнай сеткі, калі гэты перамыкач выключаны.</string>
-  <string name="firewall_network_allow">Праграма %1$s можа выкарыстоўваць %2$s падключэнне</string>
+  <string name="firewall_network_allow">Праграма %1$s можа выкарыстоўваць %2$s падлучэнне</string>
   <string name="firewall_network_restrict_notify_message">Націсніце для змены налад.</string>
   <string name="firewall_network_restrict_notify_mobile">Мабільны інтэрнэт</string>
   <string name="firewall_partial">Дазволіць некаторым праграмам выкарыстоўваць наступны метад падключэння</string>
@@ -851,7 +851,7 @@
   <string name="firewall_restrict_wlan">Забараніць выкарыстанне Wi-Fi</string>
   <string name="firewall_rule_group_title_roaming">Міжнародны роўмінг</string>
   <string name="firewall_system_title">Трафік сістэмных праграм</string>
-  <string name="firewall_temp_rule_reason">Праграма %2$s абмежавала падключэнне для %1$s</string>
+  <string name="firewall_temp_rule_reason">Праграма %2$s абмежавала падлучэнне для %1$s</string>
   <string name="firewall_wifi">Wi-Fi</string>
   <string name="firewall_wifi_dialog_message">Усталяваная праграма не зможа падключыцца да інтэрнэту з дапамогай Wi-Fi, калі гэты перамыкач выключаны.​</string>
   <string name="first_aid_activity_title">Праблемы</string>
@@ -1293,9 +1293,9 @@
   <string name="main_tobe_added_desc">Мабільны трафік ад ¥0.03/МБ</string>
   <string name="main_today_used">За сёння</string>
   <string name="main_toolbar_firewall">Эканомія трафіка</string>
-  <string name="main_toolbar_internet_by_mobiledata">Падключэнне мабільнага інтэрнэту</string>
-  <string name="main_toolbar_internet_by_pc_brige">Падключэнне інтэрнэту па USB</string>
-  <string name="main_toolbar_internet_by_wifi">Падключэнне па сетцы Wi-Fi</string>
+  <string name="main_toolbar_internet_by_mobiledata">Падлучэнне мабільнага інтэрнэту</string>
+  <string name="main_toolbar_internet_by_pc_brige">Падлучэнне інтэрнэту па USB</string>
+  <string name="main_toolbar_internet_by_wifi">Падлучэнне па сетцы Wi-Fi</string>
   <string name="main_toolbar_purchase">Папаўненне рахунку</string>
   <string name="main_toolbar_statistic">Статыстыка трафіка</string>
   <string name="main_traffic_detail">Выкарыстанне дадзеных</string>
@@ -1468,12 +1468,12 @@
   <string name="network_speed_for_apps_close_app_dlg_msg">Спыніць праграму прымусова?</string>
   <string name="network_speed_for_apps_close_system_app_dlg_msg">Немагчыма прымусова спыніць сістэмныя праграмы.</string>
   <string name="network_speed_for_apps_others">Іншае</string>
-  <string name="network_speed_for_apps_title">Падключэнне</string>
+  <string name="network_speed_for_apps_title">Падлучэнне</string>
   <string name="network_speed_for_apps_total">Хуткасць падключэння</string>
   <string name="network_test_speed">Праверка хуткасці Wi-Fi</string>
   <string name="network_traffic_warning_text">MIUI не можа разлічыць статыстыку трафіка для асобных сістэмных праграм. Вы зможаце ўбачыць інфармацыю пра трафік у звестках аб праграме, калі яна актыўна выкарыстоўвае мабільны інтэрнэт.</string>
   <string name="network_traffic_warning_title">Трафік сістэмных праграм</string>
-  <string name="networkchanged_exception_summary">Здейснена падключэнне да іншай сеткі. Паўтарыце дыягностыку.</string>
+  <string name="networkchanged_exception_summary">Здейснена падлучэнне да іншай сеткі. Паўтарыце дыягностыку.</string>
   <string name="networkchanged_exception_title">Далучэнне зменена</string>
   <string name="never">1 раз</string>
   <string name="news_change">Змяніць</string>
@@ -1687,7 +1687,7 @@
   <string name="permission_action_reject">Забараніць</string>
   <string name="permission_close_permission_control_dialog_msg">Калі кіраванне дазволамі адключана, праграмы не будуць пытацца доступ да дадзеных і функцый.</string>
   <string name="permission_close_permission_control_dialog_title">Адключыць?</string>
-  <string name="permission_exception_title">Абмежаваць падключэнне для праграм</string>
+  <string name="permission_exception_title">Абмежаваць падлучэнне для праграм</string>
   <string name="permission_permission_control_closed_desc_dialog_msg">Праграмы не будуць пытацца дазволу на доступ да дадзеных і функцый. Вы можаце ўключыць кіравання ў наладах дазволаў.</string>
   <string name="permission_permission_control_closed_desc_dialog_title">Кіраванне дазволамі</string>
   <string name="permission_with_call_and_contact">Дазволы на доступ да кантактаў і гісторыі выклікаў.</string>
@@ -1820,7 +1820,7 @@
   <string name="pref_auto_adjust_traffic">Аўтаабнаўленне статыстыкі трафіка</string>
   <string name="pref_automatic_adjust">Сінхранізацыя трафіка з аператарам</string>
   <string name="pref_avaible_traffic">Месяцовы ліміт</string>
-  <string name="pref_bg_network_title">Фонавае падключэнне</string>
+  <string name="pref_bg_network_title">Фонавае падлучэнне</string>
   <string name="pref_category_daily_package_tile">Сутачны тарыфны план</string>
   <string name="pref_category_extra_package_tile">Пакет папаўнення балансу</string>
   <string name="pref_category_half_year_package_tile">Паўгадавы пакет</string>
@@ -2347,7 +2347,7 @@
   <string name="tc_diagnostic_sim_location_result">"&lt;font color='#CC0000'>Вынік: няслушнае месцазнаходжанне&lt;br/>&lt;br/>Усталяванае: &lt;xliff:g id=location example=BeiJing>%1$s&lt;/xliff:g>&lt;br/>Рэальнае: &lt;xliff:g id=location example=ShangHai>%2$s&lt;/xliff:g>&lt;/font>"</string>
   <string name="tc_diagnostic_status_error_brand">Не ўдалося знайсці сетку аператара</string>
   <string name="tc_diagnostic_status_failure">"&lt;font color='#CC0000'>Памылка&lt;/font>"</string>
-  <string name="tc_diagnostic_status_no_network">"&lt;font color='#ED9523'>Адсутнічае падключэнне да сеткі&lt;/font>"</string>
+  <string name="tc_diagnostic_status_no_network">"&lt;font color='#ED9523'>Адсутнічае падлучэнне да сеткі&lt;/font>"</string>
   <string name="tc_diagnostic_status_not_get">"&lt;font color='#ED9523'>Не ўдалося атрымаць інфармацыю&lt;/font>"</string>
   <string name="tc_diagnostic_status_success">"&lt;font color='#3EC234\'>Правільна&lt;/font>"</string>
   <string name="tc_diagnostic_status_success_brand">"&lt;font color='#3EC234'>Сетка аператара адказвае&lt;/font>"</string>
@@ -2527,7 +2527,7 @@
   <string name="traffic_config_alert_setted">Налады захаваны</string>
   <string name="traffic_config_alert_title">Карэкцыя %s</string>
   <string name="traffic_correction_failed">Немагчыма атрымаць інфармацыю</string>
-  <string name="traffic_correction_start_correction">Падключэнне да сервера аператара…</string>
+  <string name="traffic_correction_start_correction">Падлучэнне да сервера аператара…</string>
   <string name="traffic_correction_start_correction_failed">Немагчыма даслаць запыт. Праверце налады аператара.</string>
   <string name="traffic_correction_success">Трафік абноўлены</string>
   <string name="traffic_correction_success_notify_message">Націсніце для прагляду інфармацыі.</string>
@@ -2605,7 +2605,7 @@
   <string name="usb_adb_input_apply_step_2">Распрацоўшчыкі могуць выкарыстоўваць спецыяльнае праграмнае забеспячэнне, каб імітаваць жэсты, змяняць налады, а таксама даваць дазволы праз USB.</string>
   <string name="usb_adb_input_apply_step_3">Дазволіць зараз?</string>
   <string name="usb_install_desc">Усталяваць гэтую праграму праз USB?</string>
-  <string name="usbsharenet_exception_summary">Немагчыма падключыцца да інтэрнэту па USB. Праверце USB падключэнне ды перазапусціце Mi PC Suite.</string>
+  <string name="usbsharenet_exception_summary">Немагчыма падключыцца да інтэрнэту па USB. Праверце USB падлучэнне ды перазапусціце Mi PC Suite.</string>
   <string name="usbsharenet_exception_title">Дыягностыка інтэрнэту па USB</string>
   <string name="usbsharenet_pc_exception_summary">Немагчыма падключыцца да інтэрнэту па USB. Праверце інтэрнэт-злучэнне вашага камп\'ютара.</string>
   <string name="use_immediately">Прымяніць</string>
@@ -2625,7 +2625,7 @@
   <string name="wifi_exception_title">Дыягностыка Wi-Fi сеткі</string>
   <string name="wifi_item_status_connection_no">Не падлучана</string>
   <string name="wifi_item_title_arp_attack">ARP атакі</string>
-  <string name="wifi_item_title_connection">Wi-Fi падключэнне</string>
+  <string name="wifi_item_title_connection">Wi-Fi падлучэнне</string>
   <string name="wifi_item_title_dns">Бяспека DNS сервера</string>
   <string name="wifi_item_title_encryption">Wi-Fi не зашыфравана</string>
   <string name="wifi_item_title_fake">Выяўляць несапраўдныя сеткі Wi-Fi</string>
@@ -2649,7 +2649,7 @@
   <string name="st_antispam_title_mms">MMS</string>
   <string name="system_permission_declare_main_purpose" formatted="false">Сардэчна запрашаем у праграму \"%1s\"! Гэта праграма прадастаўляе наступныя функцыі: %2s.\n</string>
   <string name="system_permission_declare_privacy_declare">Мы будзем абараняць вашу асабістую інфармацыю ў адпаведнасці з законамі, правіламі і палітыкамі прыватнасці. Звярніце ўвагу, што для забеспячэння бяспекі неабходна падлучэнне да Інтэрнэту, і для збору вашай асабістай інфармацыі патрабуюцца наступныя дазволы:</string>
-  <string name="system_permission_declare_use_network">Падключэнне да сеткі</string>
+  <string name="system_permission_declare_use_network">Падлучэнне да сеткі</string>
   <string name="system_permission_declare_no_say_no">"Гэта праграма не зможа працаваць карэктна, калі вы не падасце неабходныя дазволы."</string>
   <string name="system_permission_declare_revoke_path">"Вы можаце выдаліць гэтую праграму, выйсці з сваёга ўліковага запісу або кіраваць сваімі дазволамі і аўтарызацыяй у раздзеле Бяспека > Упраўленне праграмамі > Дазволы > Іншыя дазволы."</string>
   <string name="system_permission_declare_double_link"><Data>Прачытайце і прыміце нашы &lt;a href=\"%1$s\">Карыстацкую дамову&lt;/a> i &lt;a href=\"%2$s\">Палітыку прыватнасці&lt;/a> перад выкарыстаннем гэтай функцыі.</Data></string>
@@ -2691,7 +2691,7 @@
   <string name="other_milink_connect">"Трансляцыя ўжо вядзецца. Яшчэ адна трансляцыя немагчымая."</string>
   <string name="alert_back_milink_hangup_tips_content">"Трансляцыя не будзе перарвана падчас завяршэння выкліку. Вы можаце націснуць кнопку сiлкавання, каб абудзіць экран."</string>
   <string name="system_permission_declare_privacy_no_permission">" Гэта праграма павінна падлучацца да Інтэрнэту і збіраць неабходныя асабістыя дадзеныя для нармальнай працы."</string>
-  <string name="system_permission_declare_use_network_no_permission">Падключэнне да сеткі</string>
+  <string name="system_permission_declare_use_network_no_permission">Падлучэнне да сеткі</string>
   <string name="system_permission_declare_revoke_uninstallable">Вы можаце выдаліць гэтую праграму або кіраваць сваімі дазволамі і аўтарызацыяй у Бяспека > Кіраванне праграмамi > Дазволы > Іншыя дазволы.</string>
   <string name="system_permission_declare_revoke_system">Вы можаце выйсці з гэтай праграмы.</string>
   <string name="system_permission_declare_user_agreement"><Data>Прачытайце і прыміце наша &lt;a href=\"%1$s\">Карыстальніцкае пагадненне&lt;/a> перад выкарыстаннем гэтай функцыі.</Data></string>
@@ -2874,8 +2874,8 @@
   <string name="privacy_notification_title_camera">%1s выкарыстоўвае камеру ў фонавым рэжыме</string>
   <string name="privacy_notification_title_camera_mic">%1s выкарыстоўвае камеру і мікрафон ў фонавым рэжыме</string>
   <string name="privacy_notification_title_mic">%1s выкарыстоўвае мікрафон ў фонавым рэжыме</string>
-  <string name="power_center_scan_item_title_5g">Падключэнне 5G</string>
-  <string name="power_dialog_super_save_msg_5g">Максімальнае энергазберажэнне абмяжоўвае большасць функцый энергаспажывання (напрыклад, падключэнне 5G), зніжаючы прадукцыйнасць вашай прылады. Толькі выклiкі, паведамленні і сеткавыя падлучэння не будуць закрануты. Ўключыць максімальнае энергазберажэнне?</string>
+  <string name="power_center_scan_item_title_5g">Падлучэнне 5G</string>
+  <string name="power_dialog_super_save_msg_5g">Максімальнае энергазберажэнне абмяжоўвае большасць функцый энергаспажывання (напрыклад, падлучэнне 5G), зніжаючы прадукцыйнасць вашай прылады. Толькі выклiкі, паведамленні і сеткавыя падлучэння не будуць закрануты. Ўключыць максімальнае энергазберажэнне?</string>
   <string name="power_optimize_disable_5g">Абмежаваць падлучэнне 5G</string>
   <string name="power_save_ps_close_setting_5g">Абмежаваць функцыі энергаспажывання (сінхранізацыя, падлучэнне 5G, GPS) для эканоміі энергіі</string>
   <string name="privacyapp_number_masked_text">Змесціва апавяшчэння прыхавана</string>
@@ -2935,7 +2935,7 @@
   <string name="power_save_mode_close_xiaoai_wakeup_summary">Працуе, калі ўключана функцыя энергазберажэння</string>
   <string name="power_save_mode_close_xiaoai_wakeup_title">Па запускаць Mi ІІ голасам</string>
   <string name="power_save_mode_other_optimization">Дадатковая аптымізацыя</string>
-  <string name="power_save_ps_close_setting_5g_q">Адключыць службы і функцыi з высокім энергаспажываннем (сінхранізацыя, падключэнне да сеткі 5G, вібрацыя)</string>
+  <string name="power_save_ps_close_setting_5g_q">Адключыць службы і функцыi з высокім энергаспажываннем (сінхранізацыя, падлучэнне да сеткі 5G, вібрацыя)</string>
   <string name="power_save_ps_close_setting_q">Адключыць службы і функцыйi з высокім энергаспажываннем (сінхранізацыя, вібрацыя)</string>
   <string name="alert_back_milink_hangup_tips_content_vb">Калі экран выключаны, праграма будзе працаваць у фонавым рэжыме, не перарываючы працэс трансляцыі. Націсніце кнопку сiлкавання, каб зноў ўключыць экран.</string>
   <string name="applock_app_recommend_lock_title">Вы можаце заблакаваць наступныя праграмы</string>
@@ -3048,7 +3048,7 @@
   <string name="nd_result_button_optimize">Аптымізаваць</string>
   <string name="nd_result_summary_optimize">"Паспрабуйце аптымізаваць сеткавае злучэнне, калі яно нестабільнае"</string>
   <string name="nd_result_title_auxiliary">Канфігурацыя сеткі</string>
-  <string name="nd_result_title_network">Сеткавае падключэнне</string>
+  <string name="nd_result_title_network">Сеткавае падлучэнне</string>
   <string name="nd_result_title_optimize">Аптымізацыя сеткі</string>
   <string name="signal_exception_4g_bad_rsrq">Бягучы прыём сігналу дрэнны. Хуткасць злучэння можа быць нізкай.</string>
   <string name="signal_exception_none_4g_5g_network">"Вы выкарыстоўваеце мабільныя сеткі 2G/3G. Хуткасць злучэння можа быць нізкай."</string>
@@ -5106,7 +5106,7 @@
   <string name="pp_privacy_lab_operator_introduction_summary">Праграмы могуць захоўваць ваш нумар тэлефона, калі ён быў атрыманы раней. Змяненне гэтага дазволу не прывядзе да выдалення тэлефонных нумароў, атрыманых раней.</string>
   <string name="pp_virtual_identity_summary">Віртуальны ідэнтыфікатар (OAID) можа быць прадастаўлены праграмам замест вашага рэальнага ідэнтыфікатара. Ён абараняе вашу прыватнасць і дазваляе вам кантраляваць, як праграмы адсочваюць вашы паводзіны.</string>
   <string name="untrust_app_perm_install_list">Дазволіць доступ да спісу праграм, устаноўленых на гэтай прыладзе</string>
-  <string name="untrust_app_perm_network">Дазволіць падключэнне да сеткі</string>
+  <string name="untrust_app_perm_network">Дазволіць падлучэнне да сеткі</string>
   <string name="untrust_app_perm_notification">Дазволіць апавяшчэннi</string>
   <string name="untrust_app_perm_oaid">Дазволіць доступ да вашага віртуальнай ідэнтыфікатара</string>
   <string name="untrust_app_perm_title">Праграма з невядомай крыніцы</string>
@@ -5627,10 +5627,10 @@
   <string name="title_condition_alarm">Будзільнік</string>
   <string name="title_condition_battery">Батарэя</string>
   <string name="title_condition_bluetooth">Bluetooth</string>
-  <string name="title_condition_bluetooth_device">Падключэнне да прылады Bluetooth</string>
+  <string name="title_condition_bluetooth_device">Падлучэнне да прылады Bluetooth</string>
   <string name="title_condition_bluetooth_disconnect_device">Адключэнне ад прылады Bluetooth</string>
   <string name="title_condition_charge">Зарадка</string>
-  <string name="title_condition_connect_wlan">Падключэнне да Wi-Fi</string>
+  <string name="title_condition_connect_wlan">Падлучэнне да Wi-Fi</string>
   <string name="title_condition_disconnect_wlan">Выключэнне Wi-Fi</string>
   <string name="title_condition_headset">Правадныя навушнікі</string>
   <string name="title_condition_hotspot">Кропка доступу</string>
@@ -6032,4 +6032,17 @@
   <string name="gb_game_ratio_left">Злева</string>
   <string name="gb_game_ratio_right">Справа</string>
   <string name="gb_game_ratio_top">Зверху</string>
+  <string name="gb_game_mode_change_new">Тут можна пераключацца паміж раскладкамі</string>
+  <string name="gb_game_mode_choose_title_new">Абярыце макет</string>
+  <string name="gb_game_mode_new">Макеты гульняў</string>
+  <string name="gb_predownload_dialog_cancel">Не, дзякуй</string>
+  <string name="gb_predownload_dialog_checked">Больш не паказваць</string>
+  <string name="gb_predownload_dialog_confirm">Уключыць</string>
+  <string name="gb_predownload_dialog_message_china"><Data>"Абноўлены кантэнт для гэтай гульні можа быць загружаны на гэтую прыладу аўтаматычна пасля таго, як вы падключыцеся да Wi-Fi і выключыце экран. Такім чынам, вы зможаце выкарыстоўваць новую версію, як толькі яна будзе выпушчана.&lt;br>&lt;br>Перад выкарыстаннем гэтай функцыі прачытайце &lt;a href=\"%1$s\">Заяву аб фонавых абнаўленнях&lt;/a> і пагадзіцеся з ім."</Data></string>
+  <string name="gb_predownload_dialog_title">Фонавыя абнаўленні ўжо даступныя</string>
+  <string name="gb_predownload_message">Абнаўляйце King of Glory, Game for Peace і іншыя сумяшчальныя гульні ў фонавым рэжыме, калі вы не выкарыстоўваеце гэтую прыладу</string>
+  <string name="gb_predownload_noti_message">%2$1.2f Гб абноўленага кантэнту ўжо знаходзіцца на гэтай прыладзе. Вы зможаце выкарыстоўваць яго, як толькі будзе выпушчана новая версія.</string>
+  <string name="gb_predownload_noti_title">%s паспяхова абноўлена ў фонавым рэжыме</string>
+  <string name="gb_predownload_title">Фонавыя абнаўленні</string>
+  <string name="gb_smart_battery_surplus_new">%1$s %2$s засталося</string>
 </resources>

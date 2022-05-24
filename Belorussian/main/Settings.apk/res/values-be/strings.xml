@@ -659,7 +659,7 @@
   <string name="auto_clean_description">Аб гэтай функцыі\n1. Калі дынамік злёгку забруджаны, запусціце гэтую функцыю 1-2 разы.\n2. Калі дынамік моцна забруджаны, запусціце гэтую функцыю ад %1$d да %2$d разоў, падтрасаючы прыладу так, каб дынамік быў накіраваны ўніз.</string>
   <string name="auto_clean_summary">Прайграць 30-секундны гук для ачысткі дынаміка</string>
   <string name="auto_clean_title">Ачысціць дынамік</string>
-  <string name="auto_connect_disable">Аўтападключэнне выключана</string>
+  <string name="auto_connect_disable">Аўтападлучэнне выключана</string>
   <string name="auto_disable_screenbuttons_ask">Пытаць перад адключэннем</string>
   <string name="auto_disable_screenbuttons_auto">Заўсёды адключаць</string>
   <string name="auto_disable_screenbuttons_cancel">Скасаваць</string>
@@ -734,7 +734,7 @@
   <string name="background_check_pref">Фонавая праверка</string>
   <string name="background_check_title">Поўны доступ у фоне</string>
   <string name="background_data">Зыходныя дадзеныя</string>
-  <string name="background_data_dialog_message">Адключэнне перадачы дадзеных у фоне падаўжае час аўтаномнай працы і памяншае выкарыстанне дадзеных. Некаторыя праграмы могуць па-ранейшаму выкарыстоўваць падключэнне для перадачы дадзеных у фоне.</string>
+  <string name="background_data_dialog_message">Адключэнне перадачы дадзеных у фоне падаўжае час аўтаномнай працы і памяншае выкарыстанне дадзеных. Некаторыя праграмы могуць па-ранейшаму выкарыстоўваць падлучэнне для перадачы дадзеных у фоне.</string>
   <string name="background_data_dialog_title">Адключыць фонавыя дадзеныя?</string>
   <string name="background_data_summary">Праграмы ў любы час могуць сінхранізаваць, адпраўляць і атрымлiваць дадзеныя</string>
   <string name="background_process_stop_description">Гэта працэс старой праграмы, які па-ранейшаму працуе на той выпадак, калі спатрэбіцца зноў. Звычайна яго не трэба спыняць.</string>
@@ -804,7 +804,7 @@
   <string name="battery_desc_unaccounted">Іншае спажыванне энергіі</string>
   <string name="battery_desc_users">Батарэя для карыстальніка</string>
   <string name="battery_desc_voice">Выкарыстанне акумулятара для галасавых выклікаў</string>
-  <string name="battery_desc_wifi">Выкарыстанне батарэі Wi-Fi падключэннем</string>
+  <string name="battery_desc_wifi">Выкарыстанне батарэі Wi-Fi падлучэннем</string>
   <string name="battery_detail_background">У фонавым рэжыме</string>
   <string name="battery_detail_foreground">Падчас актыўнага выкарыстання</string>
   <string name="battery_detail_info_title">З моманту поўнай зарадкі</string>
@@ -1678,7 +1678,7 @@
   <string name="computer_backup_summary">Рэзервовае капіяванне і аднаўленне элементаў з дапамогай кампутара</string>
   <string name="computer_backup_title">Камп\'ютар</string>
   <string name="computing_size">Вылічэнне...</string>
-  <string name="condition_airplane_summary">Калі рэжым палёту ўключаны, Wi‑Fi, Bluetooth не працуюць, але іх можна падключыць. Падключэнне да мабільнай сеткі недаступнае.</string>
+  <string name="condition_airplane_summary">Калі рэжым палёту ўключаны, Wi‑Fi, Bluetooth не працуюць, але іх можна падключыць. Падлучэнне да мабільнай сеткі недаступнае.</string>
   <string name="condition_airplane_title">Рэжым палёту ўключаны</string>
   <string name="condition_battery_summary">Рэжым эканоміі зараду адключае некаторыя функцыі прылады і абмяжоўвае працу праграм</string>
   <string name="condition_battery_title">Рэжым эканоміі зараду ўключаны</string>
@@ -2125,7 +2125,7 @@
   <string name="default_spell_checker">Стандартная праверка правапісу</string>
   <string name="default_suppression_title">Па змаўчанні (рэкамендуецца)</string>
   <string name="default_theme">Стандартная</string>
-  <string name="default_usb_mode">Падключэнне па USB</string>
+  <string name="default_usb_mode">Падлучэнне па USB</string>
   <string name="delete">Выдаліць</string>
   <string name="delete_blob_confirmation_text">Сапраўды выдаліць гэтыя абагуленыя дадзеныя?</string>
   <string name="delete_blob_text">Выдаліць абагуленыя дадзеныя</string>
@@ -2563,8 +2563,8 @@
   <string name="enhanced_4g_lte_mode_title">Рэжым пашыранага 4G LTE</string>
   <string name="enhanced_4g_lte_mode_title_4g_calling">Выклік у 4G</string>
   <string name="enhanced_4g_lte_mode_title_advanced_calling">Пашыраныя магчымасці выкліку</string>
-  <string name="enhanced_connectivity">Палепшанае падключэнне</string>
-  <string name="enhanced_connectivity_summary">Уключае функцыю \"Палепшанае падключэнне\".</string>
+  <string name="enhanced_connectivity">Палепшанае падлучэнне</string>
+  <string name="enhanced_connectivity_summary">Уключае функцыю \"Палепшанае падлучэнне\".</string>
   <string name="enrol_fingerprint_data">Дадаць адбітак пальца</string>
   <string name="enter_password">Каб запусціць Android, увядзіце пароль</string>
   <string name="enter_pattern">Каб запусціць Android, увядзіце графічны ключ</string>
@@ -2809,7 +2809,7 @@
   <string name="firewall_allow_wlan">Дазволіць выкарыстанне Wi-Fi</string>
   <string name="firewall_applist">Праграмы</string>
   <string name="firewall_mobile">Мабільныя дадзеныя</string>
-  <string name="firewall_network_allow">Праграма %1$s можа выкарыстоўваць %2$s падключэнне</string>
+  <string name="firewall_network_allow">Праграма %1$s можа выкарыстоўваць %2$s падлучэнне</string>
   <string name="firewall_network_restrict_notify_message">Націсніце для змены налад.</string>
   <string name="firewall_network_restrict_notify_mobile">Мабільны інтэрнэт</string>
   <string name="firewall_partial">Дазволіць некаторым праграмам выкарыстоўваць наступны метад падключэння</string>
@@ -2822,7 +2822,7 @@
   <string name="firewall_restrict_wlan">Забараніць выкарыстанне Wi-Fi</string>
   <string name="firewall_set_bg_firewall_default_dialog_summary">Пры абмежаванні фонавых злучэнняў новыя праграмы не змогуць злучацца з інтэрнэтам у фонавым рэжыме. Яны больш не змогуць атрымліваць паведамленні ці абнаўляць дадзеныя. Абмежаваць злучэнні?</string>
   <string name="firewall_set_bg_firewall_default_dialog_title">Абмежаваць фонавае злучэнне для новых праграм</string>
-  <string name="firewall_temp_rule_reason">Праграма %2$s абмежавала падключэнне для %1$s</string>
+  <string name="firewall_temp_rule_reason">Праграма %2$s абмежавала падлучэнне для %1$s</string>
   <string name="firewall_wifi">Wi-Fi</string>
   <string name="firewall_wifi_dialog_message">Усталяваная праграма не зможа падключыцца да інтэрнэту з дапамогай Wi-Fi, калі гэты перамыкач выключаны.</string>
   <string name="firmware_version">Версія Android</string>
@@ -2993,7 +2993,7 @@
   <string name="gesture_wakeup_summary">Уключэнне і выключэнне экрана падвойным націскам. Працуе толькі калі прымяняюцца прадусталяваныя тэмы.</string>
   <string name="gesture_wakeup_title">Падвойны націск</string>
   <string name="getConfiguredNetworks">Канфігурацыя сетак</string>
-  <string name="getConnectionInfo">Інфармацыя пра падключэнне</string>
+  <string name="getConnectionInfo">Інфармацыя пра падлучэнне</string>
   <string name="giga_hertz">" ГГц"</string>
   <string name="gigabyteShort">" Гб"</string>
   <string name="global_change_warning">Налады будуць зменены для ўсіх карыстальнікаў прылады.</string>
@@ -3315,7 +3315,7 @@
   <string name="interesting_title">Рэалістычнасць</string>
   <string name="internal_memory">Унутраная памяць</string>
   <string name="internal_storage">Унутраная памяць</string>
-  <string name="internet_connectivity_panel_title">Інтэрнэт-падключэнне</string>
+  <string name="internet_connectivity_panel_title">Інтэрнэт-падлучэнне</string>
   <string name="invalid_location">Несапраўднае месца ўсталёўкі.</string>
   <string name="invalid_size_value">Не атрымалася вызначыць памер пакета.</string>
   <string name="ipaddr_label">"IP адрас: "</string>
@@ -4427,9 +4427,9 @@
   <string name="network_changed_noti_summary">Выкарыстоўваецца мабільны інтэрнэт</string>
   <string name="network_changed_noti_title">Сетка Wi-Fi адлучана</string>
   <string name="network_connected">Падключана</string>
-  <string name="network_connecting">Ідзе падключэнне…</string>
-  <string name="network_connection_connect_successful">Падключэнне выканана</string>
-  <string name="network_connection_connecting_message">Ідзе падключэнне да прылады…</string>
+  <string name="network_connecting">Ідзе падлучэнне…</string>
+  <string name="network_connection_connect_successful">Падлучэнне выканана</string>
+  <string name="network_connection_connecting_message">Ідзе падлучэнне да прылады…</string>
   <string name="network_connection_errorstate_dialog_message">Нешта здарылася. Праграма скасавала запыт на выбар прылады.</string>
   <string name="network_connection_request_dialog_showall">Паказаць усе</string>
   <string name="network_connection_request_dialog_summary">Праграма \"%1$s\" запытвае дазвол на часовае выкарыстанне сеткі Wi‑Fi для падключэння да вашай прылады</string>
@@ -4468,7 +4468,7 @@
   <string name="network_speed_for_apps_close_app_dlg_msg">Спыніць праграму прымусова?</string>
   <string name="network_speed_for_apps_close_system_app_dlg_msg">Немагчыма прымусова спыніць сістэмныя праграмы.</string>
   <string name="network_speed_for_apps_others">Іншае</string>
-  <string name="network_speed_for_apps_title">Падключэнне</string>
+  <string name="network_speed_for_apps_title">Падлучэнне</string>
   <string name="network_speed_for_apps_total">Хуткасць злучэння</string>
   <string name="network_state_label">"Стан сеткі: "</string>
   <string name="network_world_mode_cdma_lte">LTE/CDMA</string>
@@ -4806,7 +4806,7 @@
   <string name="osu_completing_sign_up">Рэгістрацыя завяршаецца…</string>
   <string name="osu_connect_failed">Не ўдалося падключыцца</string>
   <string name="osu_opening_provider">Адкрываецца %1$s</string>
-  <string name="osu_sign_up_complete">Рэгістрацыя завершана. Ідзе падключэнне…</string>
+  <string name="osu_sign_up_complete">Рэгістрацыя завершана. Ідзе падлучэнне…</string>
   <string name="osu_sign_up_failed">Не ўдалося выканаць рэгістрацыю. Дакраніцеся, каб паўтарыць спробу.</string>
   <string name="ota_disable_automatic_update">Аўтаматычныя абнаўленні сістэмы</string>
   <string name="ota_disable_automatic_update_summary">Ужыць абнаўленні падчас перазапуску прылады</string>
@@ -5326,7 +5326,7 @@
   <string name="process_stats_type_cached">Кэшаваныя</string>
   <string name="process_stats_type_foreground">На пярэднім плане</string>
   <string name="processes_subtitle">Працэсы</string>
-  <string name="profile_connect_timeout_subtext">Праблема з падключэннем. Выключыце і зноў уключыце прыладу</string>
+  <string name="profile_connect_timeout_subtext">Праблема з падлучэннем. Выключыце і зноў уключыце прыладу</string>
   <string name="profile_info_settings_title">Звесткi профiлю</string>
   <string name="profile_owner_add_title">Актываваць Менеджар профіляў?</string>
   <string name="profile_owner_add_title_simplified">Дазволіць кантроль?</string>
@@ -5375,7 +5375,7 @@
   <string name="radio_info_ping_hostname_v4">Каманда ping для вузла(www.google.com) IPv4:</string>
   <string name="radio_info_ping_hostname_v6">Каманда ping для вузла(www.google.com) IPv6:</string>
   <string name="radioInfo_data_connected">Злучаны</string>
-  <string name="radioInfo_data_connecting">Падключэнне</string>
+  <string name="radioInfo_data_connecting">Падлучэнне</string>
   <string name="radioInfo_data_disconnected">Выключана</string>
   <string name="radioInfo_data_suspended">Прыпынена</string>
   <string name="radioInfo_roaming_in">У роўмінгу</string>
@@ -5529,7 +5529,7 @@
   <string name="roaming_check_price_warning">Высветліце цану ў свайго інтэрнэт-правайдара.</string>
   <string name="roaming_disable">Падключацца да сэрвісаў перадачы дадзеных у роўмінгу</string>
   <string name="roaming_enable">Падключацца да сэрвісаў перадачы дадзеных у роўмінгу</string>
-  <string name="roaming_reenable_message">Вы страцілі падключэнне для перадачы дадзеных, таму што вы пакінулі сваю хатнюю сетку з адключаным параметрам перадачы дадзеных у роўмінгу.</string>
+  <string name="roaming_reenable_message">Вы страцілі падлучэнне для перадачы дадзеных, таму што вы пакінулі сваю хатнюю сетку з адключаным параметрам перадачы дадзеных у роўмінгу.</string>
   <string name="roaming_reenable_title">Дазволіць перадачу дадзеных у роўмінгу?</string>
   <string name="roaming_turn_it_on_button">Уключыць</string>
   <string name="roaming_warning">Гэта можа прывесці да значных выплат.</string>
@@ -5971,7 +5971,7 @@
   <string name="search_wifi_tether_settings_title">Мадэм і пункт доступу;Мадэм;Падзяліцца інтэрнэтам;WLAN пункт доступу;Wi-Fi пункт доступу;Wi-Fi пункт доступу</string>
   <string name="search_wifi_wapi_cert_install">Усталёўка сертыфіката WAPI; Сертыфікаты WAPI;WAPI</string>
   <string name="search_wifi_wapi_cert_uninstall">Выдаленне сертыфіката WAPI; Сертыфікаты WAPI;WAPI</string>
-  <string name="search_wps_connect_title">Кнопка WPS; Падключэнне WPS;WPS</string>
+  <string name="search_wps_connect_title">Кнопка WPS; Падлучэнне WPS;WPS</string>
   <string name="search_xiaomi_account">Mi акаўнт;ID Mi акаўнта;Акаўнт;ID акаўнта;Акаўнт Xiaomi;Абарона акаўнта;Абараніць акаўнт;Бяспека акаўнта;Мой акаўнт</string>
   <string name="search_xspace">Клон праграмы;Клоны праграмы;Клон праграмы;Клоны праграмы;Кланаваць праграму;Кланаваць праграму;Клон праграмы;Клоны праграм;Два акаўнта;2 акаўнта</string>
   <string name="second_space">Другая прастора</string>
@@ -6165,7 +6165,7 @@
   <string name="settings_panel_title">Панель налад</string>
   <string name="settings_safetylegal_activity_loading">Спампоўка...</string>
   <string name="settings_safetylegal_activity_title">Звесткі аб бяспецы</string>
-  <string name="settings_safetylegal_activity_unreachable">Падключэнне да інтэрнэту адсутнічае. Каб праглядзець гэтую інфармацыю, наведайце %s з любога камп\'ютара, падключанага да інтэрнэту.</string>
+  <string name="settings_safetylegal_activity_unreachable">Падлучэнне да інтэрнэту адсутнічае. Каб праглядзець гэтую інфармацыю, наведайце %s з любога камп\'ютара, падключанага да інтэрнэту.</string>
   <string name="settings_safetylegal_title">Звесткі аб бяспецы</string>
   <string name="settings_shortcut">Цэлiк налад</string>
   <string name="setup_choose_unlock_mixed_password">Пароль</string>
@@ -6564,7 +6564,7 @@
   <string name="storage_summary">%1$s выкарыстана – %2$s свабодна</string>
   <string name="storage_summary_format">Выкарыстана %1$s ў %2$s</string>
   <string name="storage_summary_with_sdcard">Унутранае сховішча: %1$s занята – %2$s свабодна</string>
-  <string name="storage_title_usb">USB-падключэнне да кампутара</string>
+  <string name="storage_title_usb">USB-падлучэнне да кампутара</string>
   <string name="storage_type_external">Знешняе сховішча</string>
   <string name="storage_type_internal">Унутранае сховішча</string>
   <string name="storage_unmount_failure">Не атрымалася бяспечна выняць %1$s</string>
@@ -6735,7 +6735,7 @@
   <string name="switch_screen_button_order">Змяніць месцамі кнопкі</string>
   <string name="switch_screen_button_order_desc">Змяніць месцамі кнопкі Назад і Меню</string>
   <string name="switch_select_to_speak_on">Абярыце, каб гаварыць</string>
-  <string name="switchNetworkToast">За падключэнне да мабільных сетак можа спаганяцца дадатковая плата</string>
+  <string name="switchNetworkToast">За падлучэнне да мабільных сетак можа спаганяцца дадатковая плата</string>
   <string name="symbols_not_allowed_for_password">Пароль не можа змяшчаць сімвалы</string>
   <string name="sync_active">Сінхранізацыя актывавана</string>
   <string name="sync_automatically">Аўтасінхранiзацыя дадзеных праграмы</string>
@@ -7243,7 +7243,7 @@
   <string name="usb_tethering_button_text">USB-мадэм</string>
   <string name="usb_tethering_errored_subtext">Памылка мадэма</string>
   <string name="usb_tethering_storage_active_subtext">Мадэм адлучаны, таму што USB-сховішча актыўна</string>
-  <string name="usb_tethering_subtext">Абагуліць падключэнне да інтэрнэту гэтага тэлефона праз USB</string>
+  <string name="usb_tethering_subtext">Абагуліць падлучэнне да інтэрнэту гэтага тэлефона праз USB</string>
   <string name="usb_tethering_unavailable_subtext">USB не падлучана</string>
   <string name="usb_title">USB</string>
   <string name="usb_use">Рэжым працы USB</string>
@@ -7454,7 +7454,7 @@
   <string name="voice_search_settings_title">Галасавы пошук</string>
   <string name="voice_service_preference_section_title">Службы галасавога ўводу</string>
   <string name="voicemail_number_not_set">&lt;Не усталяваны></string>
-  <string name="volte_5G_limited_text">Падключэнне 5G будзе выключана.\nПадчас галасавога выкліку вы не можаце карыстацца інтернэтам. Таксама могуць не працаваць некаторыя праграмы.</string>
+  <string name="volte_5G_limited_text">Падлучэнне 5G будзе выключана.\nПадчас галасавога выкліку вы не можаце карыстацца інтернэтам. Таксама могуць не працаваць некаторыя праграмы.</string>
   <string name="volte_5G_limited_title">Выключыць VoLTE?</string>
   <string name="volume_adjustment">Рэгуляванне гучнасці</string>
   <string name="volume_alarm_description">Будзільнік</string>
@@ -7480,7 +7480,7 @@
   <string name="vpn_always_on_invalid_reason_other">Уведзеная інфармацыя не сумяшчальная з заўсёды ўключанай VPN</string>
   <string name="vpn_always_on_invalid_reason_server">Для заўсёды ўключанай VPN падыходзяць толькі адрасы сервераў, якія складаюцца з лічбаў</string>
   <string name="vpn_always_on_invalid_reason_type">Такая сетка VPN не можа заўсёды заставацца ўключанай</string>
-  <string name="vpn_always_on_summary">Заўсёды захоўваць падключэнне да VPN</string>
+  <string name="vpn_always_on_summary">Заўсёды захоўваць падлучэнне да VPN</string>
   <string name="vpn_always_on_summary_active">Заўсёды ўключана і актыўная</string>
   <string name="vpn_always_on_summary_not_supported">Не падтрымліваецца гэтай праграмай</string>
   <string name="vpn_cancel">Скасаваць</string>
@@ -7488,7 +7488,7 @@
   <string name="vpn_cant_connect_title">%1$s не можа падключыцца</string>
   <string name="vpn_configure">Канфігурацыя</string>
   <string name="vpn_connect">Злучыцца</string>
-  <string name="vpn_connect_to">Падключэнне да профiлю %s</string>
+  <string name="vpn_connect_to">Падлучэнне да профiлю %s</string>
   <string name="vpn_create">Дадаць VPN</string>
   <string name="vpn_disconnect">Выключыць</string>
   <string name="vpn_disconnect_confirm">Адключыць гэту VPN?</string>
@@ -7518,7 +7518,7 @@
   <string name="vpn_mppe">PPP-шыфраванне (MPPE)</string>
   <string name="vpn_name">Назва</string>
   <string name="vpn_no_ca_cert">(не правяраць сервер)</string>
-  <string name="vpn_no_network">Падключэнне да сеткi адсутнічае. Паўтарыце спробу пазней.</string>
+  <string name="vpn_no_network">Падлучэнне да сеткi адсутнічае. Паўтарыце спробу пазней.</string>
   <string name="vpn_no_selected">Абраць VPN</string>
   <string name="vpn_no_server_cert">(атрыманыя з сервера)</string>
   <string name="vpn_no_vpns_added">Сеткі VPN не дададзены</string>
@@ -7532,7 +7532,7 @@
   <string name="vpn_replace_vpn_message">Вы ўжо падключаны да VPN. Калі вы падключыцеся да іншай, ваша існуючая VPN будзе заменена.</string>
   <string name="vpn_replace_vpn_title">Замяніць існуючую VPN?</string>
   <string name="vpn_require_connection">Блакіраваць злучэнні без VPN</string>
-  <string name="vpn_require_connection_title">Патрабуецца падключэнне VPN?</string>
+  <string name="vpn_require_connection_title">Патрабуецца падлучэнне VPN?</string>
   <string name="vpn_routes">Перанакіраваныя маршруты</string>
   <string name="vpn_routes_hint">напрыклад 10.0.0.0/8</string>
   <string name="vpn_safe">Бяспека</string>
@@ -7703,7 +7703,7 @@
   <string name="wifi_assistant_switch_wifi">Пераключыць сетку</string>
   <string name="wifi_auto_connect">Аўтападлучэнне</string>
   <string name="wifi_auto_connect_summary">Дазволіць тэлефону аўтаматычна падключацца да гэтай сеткі, калі ён знаходзіцца паблізу ад яе</string>
-  <string name="wifi_auto_connect_title">Аўтаматычнае падключэнне</string>
+  <string name="wifi_auto_connect_title">Аўтаматычнае падлучэнне</string>
   <string name="wifi_auto_sel_wapi_cert">Абраць аўтаматычна</string>
   <string name="wifi_available_title">Падлучэнне да Wi-Fi</string>
   <string name="wifi_avoid_poor_network_detection_summary">Выкарыстоўваць толькі сеткі з добрым падключ. да інтэрнэту</string>
@@ -7747,15 +7747,15 @@
   <string name="wifi_connect_channel">Канал Wi-Fi:</string>
   <string name="wifi_connect_cmcc_dialog_cancel">Скасаваць</string>
   <string name="wifi_connect_cmcc_dialog_confirm">ОК</string>
-  <string name="wifi_connect_cmcc_dialog_content">Падключэнне да сеткі перадачы дадзеных Cmcc. Калі вы перавысіце ліміт трафіка, усталяваны вашым тарыфам, ваш аператар сувязі можа спаганяць дадатковую плату.</string>
+  <string name="wifi_connect_cmcc_dialog_content">Падлучэнне да сеткі перадачы дадзеных Cmcc. Калі вы перавысіце ліміт трафіка, усталяваны вашым тарыфам, ваш аператар сувязі можа спаганяць дадатковую плату.</string>
   <string name="wifi_connect_cmcc_dialog_not_remind">Не паказваць ізноў</string>
   <string name="wifi_connect_cmcc_dialog_title">CMCC падключана</string>
-  <string name="wifi_connect_failed_message">Не атрымалася падключэнне да сеткі Wi-Fi</string>
+  <string name="wifi_connect_failed_message">Не атрымалася падлучэнне да сеткі Wi-Fi</string>
   <string name="wifi_connect_frequency">Частата Wi-Fi:</string>
   <string name="wifi_connected_mac_randomization">Рандамізацыя MAC-адраса</string>
   <string name="wifi_connected_no_internet">Падлучана, няма інтэрнэту</string>
   <string name="wifi_connected_to_message">Падлучана да %1$s</string>
-  <string name="wifi_connecting">Ідзе падключэнне…</string>
+  <string name="wifi_connecting">Ідзе падлучэнне…</string>
   <string name="wifi_connection_management">Кіраванне злучэннямі</string>
   <string name="wifi_context_menu_change_password">Змяніць пароль</string>
   <string name="wifi_context_menu_change_wapi_certificate">Змяніць WAPI сертыфікат</string>
@@ -7803,7 +7803,7 @@
   <string name="wifi_display_settings_empty_list_wifi_display_disabled">Нельга выкарыстоўваць бесправадны дысплэй, калі Wi-Fi адлучаны</string>
   <string name="wifi_display_settings_title">Перадача</string>
   <string name="wifi_display_status_connected">Падключана</string>
-  <string name="wifi_display_status_connecting">Падключэнне</string>
+  <string name="wifi_display_status_connecting">Падлучэнне</string>
   <string name="wifi_display_status_in_use">Выкарыстоўваецца</string>
   <string name="wifi_display_status_not_available">Недаступна</string>
   <string name="wifi_display_wps_config">Налады WPS</string>
@@ -7815,12 +7815,12 @@
   <string name="wifi_dpp_add_device_to_network">Дадаць прыладу</string>
   <string name="wifi_dpp_add_device_to_wifi">Дадаць гэту прыладу да сеткі \"%1$s\"?</string>
   <string name="wifi_dpp_center_qr_code">Каб дадаць прыладу ў сетку \"%1$s\", навядзіце камеру на QR-код, паказаны ніжэй</string>
-  <string name="wifi_dpp_check_connection_try_again">Праверце падключэнне і паўтарыце спробу</string>
+  <string name="wifi_dpp_check_connection_try_again">Праверце падлучэнне і паўтарыце спробу</string>
   <string name="wifi_dpp_choose_different_network">Абраць іншую сетку</string>
   <string name="wifi_dpp_choose_network">Абраць сетку</string>
   <string name="wifi_dpp_choose_network_to_connect_device">Каб падключыць прыладу, абярыце сетку</string>
   <string name="wifi_dpp_connect_network_using_qr_code">Каб дадаць прыладу ў гэту сетку, скарыстайце QR-код</string>
-  <string name="wifi_dpp_connecting">Ідзе падключэнне…</string>
+  <string name="wifi_dpp_connecting">Ідзе падлучэнне…</string>
   <string name="wifi_dpp_could_not_add_device">Не ўдалося дадаць прыладу</string>
   <string name="wifi_dpp_device_found">Прылада знойдзена</string>
   <string name="wifi_dpp_failure_authentication_or_configuration">Паўтарыце спробу. Калі памылка застанецца, звярніцеся да вытворцы прылады</string>
@@ -7881,7 +7881,7 @@
   <string name="wifi_generation_title">Тэхналогія</string>
   <string name="wifi_hand_sel_wapi_cert">Сертыфікат WAPI</string>
   <string name="wifi_hidden_network">Схаваная сетка</string>
-  <string name="wifi_hidden_network_warning">Калі маршрутызатар не перадае ідэнтыфікатар сеткі, але дапускаецца падключэнне да яе ў будучыні, сетку можна \"схаваць\".\n\nГэта пагражае бяспецы, таму што тэлефон будзе рэгулярна перадаваць сігнал для пошуку сеткі.\n\n\"Схаваная\" сетка не зменіць налады маршрутызатара.</string>
+  <string name="wifi_hidden_network_warning">Калі маршрутызатар не перадае ідэнтыфікатар сеткі, але дапускаецца падлучэнне да яе ў будучыні, сетку можна \"схаваць\".\n\nГэта пагражае бяспецы, таму што тэлефон будзе рэгулярна перадаваць сігнал для пошуку сеткі.\n\n\"Схаваная\" сетка не зменіць налады маршрутызатара.</string>
   <string name="wifi_hide_password">Схаваць пароль</string>
   <string name="wifi_hotspot_ap_band_title">Дыяпазон частот Wi-Fi</string>
   <string name="wifi_hotspot_auto_off_summary">Пункт доступу Wi‑Fi выключыцца, калі прылады непадключаныя</string>
@@ -7891,14 +7891,14 @@
   <string name="wifi_hotspot_configure_ap_text_summary">Пункт доступу AndroidAP WPA2 PSK</string>
   <string name="wifi_hotspot_connect">ПАДЛУЧЫЦЦА</string>
   <string name="wifi_hotspot_footer_info_local_only">Праграмы могуць ствараць пункт доступу для абагульвання змесціва з прыладамі паблізу.</string>
-  <string name="wifi_hotspot_footer_info_regular">Выкарыстоўвайце пункт доступу для стварэння сеткі Wi‑Fi для іншых прылад. Пункт доступу дае доступ да інтэрнэту праз падключэнне да мабільнай перадачы дадзеных. Мабільны аператар можа спаганяць дадатковую плату.</string>
+  <string name="wifi_hotspot_footer_info_regular">Выкарыстоўвайце пункт доступу для стварэння сеткі Wi‑Fi для іншых прылад. Пункт доступу дае доступ да інтэрнэту праз падлучэнне да мабільнай перадачы дадзеных. Мабільны аператар можа спаганяць дадатковую плату.</string>
   <string name="wifi_hotspot_message">Для %1$s патраб. уваход анлайн перад падлуч. да сеткі.</string>
   <string name="wifi_hotspot_name_summary_connected">Іншыя прылады могуць падключацца да %1$s</string>
   <string name="wifi_hotspot_name_summary_connecting">Ідзе ўключэнне %1$s…</string>
   <string name="wifi_hotspot_name_title">Назва пункту доступу</string>
   <string name="wifi_hotspot_no_password_subtext">Пароль не ўстаноўлены</string>
   <string name="wifi_hotspot_off_subtext">Не ідзе абагульванне змесціва ці падключэння да інтэрнэту з іншымі прыладамі</string>
-  <string name="wifi_hotspot_on_local_only_subtext">Праграма абагульвае змесціва. Каб абагульваць падключэнне да інтэрнэту, адключыце, а потым зноў уключыце пункт доступу</string>
+  <string name="wifi_hotspot_on_local_only_subtext">Праграма абагульвае змесціва. Каб абагульваць падлучэнне да інтэрнэту, адключыце, а потым зноў уключыце пункт доступу</string>
   <string name="wifi_hotspot_password_title">Пароль пункту доступу</string>
   <string name="wifi_hotspot_tethering_on_subtext">Абагульванне падключэння да інтэрнэту гэтага тэлефона праз пункт доступу</string>
   <string name="wifi_hotspot_title">Увайсці, каб падлучыцца?</string>
@@ -7968,8 +7968,8 @@
   <string name="wifi_p2p_cancel_connect_title">Адмяніць запрашэнне?</string>
   <string name="wifi_p2p_delete_group_message">Iгнараваць гэту групу?</string>
   <string name="wifi_p2p_device_info">Інфармацыя пра прыладу</string>
-  <string name="wifi_p2p_disconnect_message">Калі вы адключыцеся, перапынiцца ваша падключэнне да прылады %1$s і іншых.</string>
-  <string name="wifi_p2p_disconnect_multiple_message">Калі вы адключыцеся, падключэнне да прылады %1$s і іншых (%2$s) не перапынiцца.</string>
+  <string name="wifi_p2p_disconnect_message">Калі вы адключыцеся, перапынiцца ваша падлучэнне да прылады %1$s і іншых.</string>
+  <string name="wifi_p2p_disconnect_multiple_message">Калі вы адключыцеся, падлучэнне да прылады %1$s і іншых (%2$s) не перапынiцца.</string>
   <string name="wifi_p2p_disconnect_title">Адключыцца?</string>
   <string name="wifi_p2p_failed_connect_message">Не атрымалася падлучыцца.</string>
   <string name="wifi_p2p_failed_rename_message">Не атрымалася перайменаваць прыладу.</string>
@@ -8113,7 +8113,7 @@
   <string name="wifi_suspend_optimizations">Аптымізацыя Wi-Fi</string>
   <string name="wifi_suspend_optimizations_summary">Рэжым энергазахавання пры ўключаным Wi-Fi</string>
   <string name="wifi_switch_away_when_unvalidated">Пераключыцца на мабільную перадачу дадзеных, калі сетка Wi-Fi страчвае доступ да інтэрнэту.</string>
-  <string name="wifi_switch_to_gsm_message">Падключэнне да Wi-Fi згублена. Выкарыстоўваць мабільны інтэрнэт?</string>
+  <string name="wifi_switch_to_gsm_message">Падлучэнне да Wi-Fi згублена. Выкарыстоўваць мабільны інтэрнэт?</string>
   <string name="wifi_switch_to_gsm_title">Выкарыстоўваць GSM?</string>
   <string name="wifi_tap_to_sign_in">Націсніце тут, каб увайсці ў сетку</string>
   <string name="wifi_tether_checkbox_kddi_text">Пункт доступу Wi-Fi</string>
@@ -8235,7 +8235,7 @@
   <string name="work_use_personal_sounds_title">Выкар. гукі асабістага профілю</string>
   <string name="wps_category">WPS</string>
   <string name="wps_connect_summary">Пераканайцеся, што роўтар актыўны ды падтрымлівае WPS</string>
-  <string name="wps_connect_title">Падключэнне WPS</string>
+  <string name="wps_connect_title">Падлучэнне WPS</string>
   <string name="write_settings">Змена сістэмных налад</string>
   <string name="write_settings_description">Гэта дазваляе праграме змяняць сістэмныя налады.</string>
   <string name="write_settings_off">Не</string>
@@ -8898,7 +8898,7 @@
   <string name="bt_audiorepair_summary">Выправіць заіканне гуку на падлучаных прыладах Bluetooth</string>
   <string name="bt_audiorepair_working">Устараненне заікання гуку...</string>
   <string name="lockpassword_confirm_your_lock_pin_header">Пацвердзіце свой PIN-код</string>
-  <string name="miheadset_dual_connect_mode">Падключэнне да двух прылад</string>
+  <string name="miheadset_dual_connect_mode">Падлучэнне да двух прылад</string>
   <string name="miheadset_dual_connect_mode_summary">Уключыце, каб падключыць навушнікі да двух прылад Bluetooth адначасова</string>
   <string name="default_document_title">Дакументы</string>
   <string name="document_default_status">Абраць</string>
@@ -9466,11 +9466,11 @@
   <string name="bluetooth_companion_app_body">Праграма \"%1$s\" больш не будзе падключацца да прылады \"%2$s\"</string>
   <string name="bluetooth_companion_app_remove_association_confirm_button">Адключыць праграму</string>
   <string name="bluetooth_companion_app_remove_association_dialog_title">Адключыць праграму?</string>
-  <string name="bluetooth_connect_access_dialog_content">%1$s запытвае падключэнне да гэтага тэлефона.\n\nРаней вы не падключаліся да прылады \"%2$s\".</string>
+  <string name="bluetooth_connect_access_dialog_content">%1$s запытвае падлучэнне да гэтага тэлефона.\n\nРаней вы не падключаліся да прылады \"%2$s\".</string>
   <string name="bluetooth_connect_access_dialog_negative">Не падключацца</string>
   <string name="bluetooth_connect_access_dialog_positive">Падключыцца</string>
   <string name="bluetooth_connect_access_dialog_title">Падключыцца да прылады з Bluetooth?</string>
-  <string name="bluetooth_connect_access_notification_content">Прылада запытвае падключэнне. Націсніце, каб убачыць больш інфармацыі.</string>
+  <string name="bluetooth_connect_access_notification_content">Прылада запытвае падлучэнне. Націсніце, каб убачыць больш інфармацыі.</string>
   <string name="bluetooth_connect_access_notification_title">Даступная прылада з Bluetooth</string>
   <string name="bluetooth_main_switch_title">Выкарыстоўваць Bluetooth</string>
   <string name="bluetooth_setting_off">Выключана</string>
@@ -9551,7 +9551,7 @@
   <string name="emergency_gesture_sound_setting_title">Прайграць сігнал з адваротным адлікам</string>
   <string name="emergency_gesture_switchbar_title">Выкарыстоўваць экстранны выклік</string>
   <string name="emergency_settings_preference_title">Бяспека і экстранны выклік</string>
-  <string name="enable_2g_summary">Выкарыстоўваць сотавае падключэнне 2G. Для экстранных выклікаў сетка 2G заўсёды ўключана.</string>
+  <string name="enable_2g_summary">Выкарыстоўваць сотавае падлучэнне 2G. Для экстранных выклікаў сетка 2G заўсёды ўключана.</string>
   <string name="enable_2g_title">Дазволіць 2G</string>
   <string name="enable_non_resizable_multi_window">У рэжыме некалькіх вокнаў уключыць нязменны памер</string>
   <string name="enable_non_resizable_multi_window_summary">Дазваляе выкарыстоўваць праграмы, якія маюць нязменны памер, у рэжыме некалькіх вокнаў</string>
@@ -9576,7 +9576,7 @@
   <string name="financed_privacy_settings">Інфармацыя пра прафінансаваную прыладу</string>
   <string name="financed_privacy_wipe_device">Адміністратар можа выдаліць з прылады ўсе дадзеныя</string>
   <string name="fingerprint_v2_delete_message">Відарысы і мадэль адбіткаў пальцаў, звязаныя з адбіткам \"%1$s\", будуць выдалены</string>
-  <string name="fix_connectivity">Выправіць праблему з падключэннем</string>
+  <string name="fix_connectivity">Выправіць праблему з падлучэннем</string>
   <string name="fmt_date_numeric_year_month">MM.yyyy</string>
   <string name="footer_learn_more_content_description">Даведацца больш пра сэрвіс \"%1$s\"</string>
   <string name="force_bold_text">Тлусты шрыфт</string>
@@ -9605,7 +9605,7 @@
   <string name="keywords_display_size">памер экрана, вялікі экран</string>
   <string name="keywords_font_size">памер тэксту, вялікі шрыфт, буйны шрыфт, павялічаны тэкст, слабы зрок, павялічыць тэкст, праграма для павелічэння шрыфту, павелічэнне шрыфту</string>
   <string name="keywords_hearing_aids">слабы слых, страта слыху</string>
-  <string name="keywords_internet">падключэнне да сеткі, інтэрнэт, бесправадны, дадзеныя, wifi, wi-fi, wi fi, сотавая сетка, мабільны, аператар сотавай сувязі, 4g, 3g, 2g, lte</string>
+  <string name="keywords_internet">падлучэнне да сеткі, інтэрнэт, бесправадны, дадзеныя, wifi, wi-fi, wi fi, сотавая сетка, мабільны, аператар сотавай сувязі, 4g, 3g, 2g, lte</string>
   <string name="keywords_live_caption">Субцітры, субцітры, цітры, Імгненная транскрыпцыя, слабы слых, страта слыху, транскрыпцыя ў рэальным часе, пераўтварэнне маўлення ў тэкст, субцітр</string>
   <string name="keywords_magnification">Лупа для акна, маштаб, павелічэнне, слабы зрок, павялічыць, зрабіць большым</string>
   <string name="keywords_media_controls">мультымедыя</string>
@@ -9938,7 +9938,7 @@
   <string name="sim_action_enable_sim_fail_title">Не ўдалося пераключыць аператара</string>
   <string name="sim_action_enable_sub_dialog_title">Уключыць аператара \"%1$s\"?</string>
   <string name="sim_action_enable_sub_dialog_title_without_carrier_name">Уключыць SIM-карту?</string>
-  <string name="sim_action_enabling_sim_without_carrier_name">Ідзе падключэнне да сеткі…</string>
+  <string name="sim_action_enabling_sim_without_carrier_name">Ідзе падлучэнне да сеткі…</string>
   <string name="sim_action_no_thanks">Не, дзякуй</string>
   <string name="sim_action_reboot">Перазапусціць</string>
   <string name="sim_action_restart_text">Каб пачаць, перазапусціце прыладу. Пасля гэтага можна дадаць яшчэ адну SIM-карту.</string>
@@ -10038,7 +10038,7 @@
   <string name="wifi_advanced_randomized_mac_address_disconnected_title">Выпадковы MAC-адрас (апошні з выкарыстаных)</string>
   <string name="wifi_calling_main_switch_title">Выкарыстоўваць Wi-Fi-тэлефанію</string>
   <string name="wifi_connected_low_quality">Нізкая якасць</string>
-  <string name="wifi_connecting_to_message">Ідзе падключэнне да сеткі \"%1$s\"</string>
+  <string name="wifi_connecting_to_message">Ідзе падлучэнне да сеткі \"%1$s\"</string>
   <string name="wifi_dns1">DNS 1 (калі не перавызначана прыватным DNS-серверам)</string>
   <string name="wifi_dns2">DNS 2 (калі не перавызначана прыватным DNS-серверам)</string>
   <string name="wifi_hotspot_maximize_compatibility">Максімальная сумяшчальнасць</string>
@@ -10055,7 +10055,7 @@
   <string name="wifi_settings_primary_switch_title">Выкарыстоўваць Wi-Fi</string>
   <string name="wifi_switch_summary">Знайсці сеткі Wi-Fi і падключыцца</string>
   <string name="wifi_type_title">Тып</string>
-  <string name="wifitrackerlib_auto_connect_disable">Аўтападключэнне выключана</string>
+  <string name="wifitrackerlib_auto_connect_disable">Аўтападлучэнне выключана</string>
   <string name="wifitrackerlib_available_via_app">Даступна праз праграму \"%1$s\"</string>
   <string name="wifitrackerlib_connected_via_app">Падключана праз праграму \"%1$s\"</string>
   <string name="wifitrackerlib_connected_via_network_scorer">Аўтаматычна падключана праз праграму \"%1$s\"</string>
@@ -10064,7 +10064,7 @@
   <string name="wifitrackerlib_osu_completing_sign_up">Рэгістрацыя завяршаецца…</string>
   <string name="wifitrackerlib_osu_connect_failed">Не ўдалося падключыцца</string>
   <string name="wifitrackerlib_osu_opening_provider">Адкрываецца %1$s</string>
-  <string name="wifitrackerlib_osu_sign_up_complete">Рэгістрацыя завершана. Ідзе падключэнне…</string>
+  <string name="wifitrackerlib_osu_sign_up_complete">Рэгістрацыя завершана. Ідзе падлучэнне…</string>
   <string name="wifitrackerlib_osu_sign_up_failed">Не ўдалося выканаць рэгістрацыю. Дакраніцеся, каб паўтарыць спробу.</string>
   <string name="wifitrackerlib_private_dns_broken">Не ўдалося атрымаць доступ да прыватнага DNS-сервера</string>
   <string name="wifitrackerlib_saved_network">Захавана праграмай \"%1$s\"</string>
@@ -10096,7 +10096,7 @@
   <string name="wifitrackerlib_wifi_remembered">Захавана</string>
   <string name="wifitrackerlib_wifi_security_none">Няма</string>
   <string name="wifitrackerlib_wifi_unmetered_label">Без уліку трафіка</string>
-  <string name="wifitrackerlib_wifi_wont_autoconnect_for_now">Аўтаматычнае падключэнне да Wi-Fi адсутнічае</string>
+  <string name="wifitrackerlib_wifi_wont_autoconnect_for_now">Аўтаматычнае падлучэнне да Wi-Fi адсутнічае</string>
   <string name="window_blurs">Размываць на ўзроўні акна</string>
   <string name="wireless_debugging_main_switch_title">Выкарыстоўваць адладку па Wi-Fi</string>
   <string name="zen_mode_bypassing_apps_subtext">{count,plural,offset:2 =0{Рэжым \"Не турбаваць\" распаўсюджваецца на ўсе праграмы}=1{Рэжым \"Не турбаваць\" не распаўсюджваецца на праграму \"{app_1}\"}=2{Рэжым \"Не турбаваць\" не распаўсюджваецца на праграмы \"{app_1}\" і \"{app_2}\"}=3{Рэжым \"Не турбаваць\" не распаўсюджваецца на праграмы \"{app_1}\", \"{app_2}\" і \"{app_3}\"}one{Рэжым \"Не турбаваць\" не распаўсюджваецца на праграмы \"{app_1}\", \"{app_2}\" і яшчэ #}few{Рэжым \"Не турбаваць\" не распаўсюджваецца на праграмы \"{app_1}\", \"{app_2}\" і яшчэ #}many{Рэжым \"Не турбаваць\" не распаўсюджваецца на праграмы \"{app_1}\", \"{app_2}\" і яшчэ #}other{Рэжым \"Не турбаваць\" не распаўсюджваецца на праграмы \"{app_1}\", \"{app_2}\" і яшчэ #}}</string>
@@ -10482,12 +10482,12 @@
   <string name="dialog_softbank_esim_wipe_title">Ачысціць дадзеныя eSIM</string>
   <string name="dialog_softbank_esime_context">Гэтая прылада павінна быць падлучана да Інтэрнэту, каб мець магчымасць актываваць eSIM. Прапусціць актывацыю eSIM?</string>
   <string name="dialog_softbank_esime_title">Прапусціць актывацыю eSIM</string>
-  <string name="device_ime_keyboard_fold">Параметры клавіятуры для складаных прылад</string>
+  <string name="device_ime_keyboard_fold">Параметры клавіятуры для складваемых прылад</string>
   <string name="device_ime_keyboard_pad">Параметры клавіятуры для планшэтаў</string>
   <string name="double_g_v">Дубляваць G і V</string>
   <string name="double_g_v_sumary">Дублюйце цэнтральныя кнопкі на эрганамічнай клавіятуры для большай зручнасці</string>
   <string name="fold_game_adaptation">Гульні</string>
-  <string name="fold_screen_settings_title">Функцыі для вялікага экрана</string>
+  <string name="fold_screen_settings_title">Функцыі для складваемых прылад</string>
   <string name="imitate_real_keyboard">Традыцыйная клавіятура</string>
   <string name="imitate_real_keyboard_summary">Зручна, калі ваша прылада ляжыць на плоскай паверхні</string>
   <string name="left_right_hand_switch">Злева і справа</string>
@@ -10500,7 +10500,7 @@
   <string name="symbol_fast_input">Спецыяльныя сімвалы</string>
   <string name="symbol_fast_input_summary">Націсніце назначаную кнопку, каб застацца на клавіятуры са спецыяльнымі сімваламі і ўвесці некалькі сімвалаў адначасова</string>
   <string name="tablet_screen_settings_title">Функцыі для планшэтаў</string>
-  <string name="wallpaper_setting_title">Шпалеры</string>
+  <string name="wallpaper_setting_title">Шпалеры для складваемых прылад</string>
   <string name="felica_wallet">Felica кашалёк</string>
   <string name="felica_wallet_desc">Felica кашалёк</string>
   <string name="mi_wallet">Мі кашалёк</string>
@@ -10524,4 +10524,10 @@
   <string name="google_assistant_guide_title">Google Асістэнт</string>
   <string name="miui_bubbles_notification">Усплывальныя апавяшчэнні</string>
   <string name="miui_bubbles_notification_status_opened">Укл.</string>
+  <string name="fold_application_mode_name">Макеты праграм</string>
+  <string name="fold_game_adaptation">Макеты гульняў</string>
+  <string name="fold_screen_application_adaptation_title">Карыстальніцкія макеты для складваемых прылад</string>
+  <string name="fold_screen_special_function_title">Функцыі для складваемых прылад</string>
+  <string name="tablet_screen_application_adaptation_title">Карыстальніцкія макеты для планшэтаў</string>
+  <string name="tablet_screen_special_function_title">Функцыі для складваемых планшэтаў</string>
 </resources>

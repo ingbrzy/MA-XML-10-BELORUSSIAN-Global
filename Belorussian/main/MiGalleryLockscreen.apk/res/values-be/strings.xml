@@ -461,7 +461,7 @@
   <string name="logout_title">Выйсці з акаўнта?</string>
   <string name="look_str">Папулярныя</string>
   <string name="main_fragment_title_discover">Тэматычныя</string>
-  <string name="main_fragment_title_home">Рэкамендуемыя</string>
+  <string name="main_fragment_title_home">Рэкамендаваныя</string>
   <string name="main_fragment_title_search">Папулярныя</string>
   <string name="main_fragment_title_user">Налады</string>
   <string name="manage">Кiраванне</string>
@@ -1100,7 +1100,7 @@
   <string name="view_privacy_policy">Палітыка прыватнасці</string>
   <string name="wallpaper">Шпалеры</string>
   <string name="wallpaper_feed_title">Вам таксама можа спадабацца</string>
-  <string name="wallpaper_relations_title">Рэкамендуемыя</string>
+  <string name="wallpaper_relations_title">Рэкамендаваныя</string>
   <string name="wednesday">Серада</string>
   <string name="wednesday_short">Сер</string>
   <string name="wednesday_shortest">Сер</string>
@@ -1114,4 +1114,7 @@
   <string name="xiaomi_market_sdk_update_dialog_ok">Абнавіць</string>
   <string name="xiaomi_market_sdk_update_dialog_title">Даступна абнаўленне</string>
   <string name="yesterday">Учора</string>
+  <string name="detail_recomm_excellent">Прапанаваныя</string>
+  <string name="detail_recomm_personal">Рэкамендаваныя</string>
+  <string name="main_fragment_title_home_excellent">Прапанаваныя</string>
 </resources>

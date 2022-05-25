@@ -670,4 +670,9 @@
         <item quantity="one">%d секунда</item>
         <item quantity="few">%d секунды</item>
     </plurals>
+    <plurals name="all_story_count_desc">
+        <item quantity="one">%d гісторыя</item>
+        <item quantity="other">%d гісторый</item>
+        <item quantity="few">%d гісторыі</item>
+    </plurals>
 </resources>

@@ -3148,4 +3148,36 @@
   <string name="cloud_full_space_tip_title_completely">Воблачнае сховішча запоўненае</string>
   <string name="operation_upgrade_gallery">Абнаўленне</string>
   <string name="last_some_performance_title">Я гэта бачыў</string>
+  <string name="all_story_empty_desc">Тут пакуль няма гісторый</string>
+  <string name="all_story_empty_tip">"Тут пакуль няма гісторый.
+Падлучыце зарадную прыладу і выключыце экран, каб з\'явіліся гісторыі."</string>
+  <string name="all_story_title">Усе гісторыі</string>
+  <string name="download_library_dialog_message">Галерэі патрэбны шаблоны, каб ствараць гісторыі лакальна на гэтай прыладзе. Рэкамендуем выкарыстоўваць Wi-Fi для загрузкі шаблонаў.</string>
+  <string name="download_library_dialog_title">Загрузіць шаблоны</string>
+  <string name="empty_tip_btn">Зрабіць фота</string>
+  <string name="home_page_empty_action_new">Імпарт са старой прылады</string>
+  <string name="is_in_ocr">Разнаванне…</string>
+  <string name="ocr_aiasst_version">Спачатку абновіце Mi ШІ</string>
+  <string name="ocr_extract">Выняць</string>
+  <string name="ocr_text_copied_selected">Паспяхова скапіявана</string>
+  <string name="ocr_translation">Перавесці</string>
+  <string name="story_guide_tip_download_btn">Загрузіць</string>
+  <string name="story_guide_tip_download_desc">Загрузіце шаблоны для вашых гісторый</string>
+  <string name="story_guide_tip_download_title">Загрузіць шаблоны</string>
+  <string name="story_guide_tip_generate_btn">Пачаць</string>
+  <string name="story_guide_tip_generate_desc">Зрабіце фатаграфіі. Падлучыце зарадную прыладу. Заблакуйце прыладу.</string>
+  <string name="story_guide_tip_generate_title">Прымусьце гісторыі з\'явіцца</string>
+  <string name="story_guide_tip_open_btn">Уключыць</string>
+  <string name="story_guide_tip_open_desc">Зноў успомніце свае самыя яркія моманты</string>
+  <string name="story_guide_tip_open_title">Гісторыі</string>
+  <string name="story_guide_tip_revisit_btn">Пачаць</string>
+  <string name="story_guide_tip_revisit_desc">Зрабіце фатаграфіі. Падлучыце зарадную прыладу. Заблакуйце прыладу.</string>
+  <string name="story_guide_tip_revisit_title">Ажывіце свае самыя яркія моманты</string>
+  <string name="str_scan_form">Разнаць табліцу</string>
+  <string name="text_recognition">Разнаць тэкст</string>
+  <string name="today_of_year">У гэты дзень</string>
+  <string name="today_of_year_empty_tip">Тут пакуль няма гісторый</string>
+  <string name="today_of_year_location_num">Месцы</string>
+  <string name="today_of_year_photo_num">Фатаграфіі</string>
+  <string name="widget_disable">Віджэты такога памеру не падтрымліваюцца на гэтай прыладзе</string>
 </resources>

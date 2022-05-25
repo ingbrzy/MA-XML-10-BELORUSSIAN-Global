@@ -931,4 +931,5 @@ ID:%s
   <string name="new_version">Новая версія</string>
   <string name="update_apk_version_later">Не зараз</string>
   <string name="update_apk_version_now">Абнавіць</string>
+  <string name="auto_fill_not_sport_on_water_mark_version">Уваход з аўтазапаўненнем не падтрымліваецца ў версіях з вадзянымі знакамі</string>
 </resources>

@@ -25,12 +25,10 @@
         <item quantity="many">файлаў: %d</item>
     </plurals>
     <plurals name="numSelectedFile">
-        <item quantity="other">Абрана: %1$d</item>
-        <item quantity="zero">Абрана: %1$d</item>
-        <item quantity="one">Абрана: %1$d</item>
-        <item quantity="two">Абрана: %1$d</item>
-        <item quantity="few">Абрана: %1$d</item>
-        <item quantity="many">Абрана: %1$d</item>
+        <item quantity="other">"Абрана %1$d аб'екта"</item>
+        <item quantity="one">"Абраны %1$d аб'ект"</item>
+        <item quantity="few">"Абрана %1$d аб'екта"</item>
+        <item quantity="many">"Абрана %1$d аб'екта"</item>
     </plurals>
     <plurals name="items_picture">
         <item quantity="other">" (%1$d файлаў)"</item>
@@ -433,4 +431,17 @@
         <item quantity="few">Знойдзена %1$d элемента</item>
         <item quantity="one">Знойдзены %1$d элемент</item>
     </plurals>
+    <plurals name="delete_files">
+        <item quantity="other">Выдаліць %1$d файлаў?</item>
+        <item quantity="one">Выдаліць %1$d файл?</item>
+        <item quantity="few">Выдаліць %1$d файла?</item>
+        <item quantity="many">Выдаліць %1$d файлаў?</item>
+    </plurals>
+    <plurals name="delete_folders">
+        <item quantity="other">Выдаліць %1$d тэчак?</item>
+        <item quantity="one">Выдаліць %1$d тэчку?</item>
+        <item quantity="few">Выдаліць %1$d тэчкі?</item>
+        <item quantity="many">Выдаліць %1$d тэчак?</item>
+    </plurals>
+    
 </resources>

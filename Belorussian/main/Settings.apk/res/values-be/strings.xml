@@ -10418,6 +10418,10 @@
   <string name="status_bar_settings_qs_layout">Выгляд сеткі перамыкачоў</string>
   <string name="status_bar_settings_show_lte_for_4g">Паказваць LTE замест 4G</string>
   <string name="string_kHz">%.1f кГц</string>
+  <string name="string_kHz_1">%.1f кГц</string>
+  <string name="string_kHz_2">%.1f кГц</string>
+  <string name="string_kHz_3">%.1f кГц</string>
+  <string name="string_kHz_4">%.1f кГц</string>
   <string name="stylus_btn_continue">Далей</string>
   <string name="stylus_btn_learn">Кіраўніцтва</string>
   <string name="stylus_btn_quick_write">Рукапісны ўвод</string>

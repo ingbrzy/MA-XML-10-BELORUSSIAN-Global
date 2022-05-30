@@ -955,4 +955,29 @@
     <plurals name="search_application_count">
         <item quantity="other">Пошук праграм</item>
     </plurals>
+    <plurals name="max_number_of_processes">
+        <item quantity="other">Не больш за %d працэсаў</item>
+        <item quantity="one">Не больш за %d працэс</item>
+        <item quantity="few">Не больш за %d працэса</item>
+    </plurals>
+    <plurals name="string_after_int_minute">
+        <item quantity="other">Пасля %d хв.</item>
+        <item quantity="one">Пасля %d хв.</item>
+    </plurals>
+    <plurals name="string_bits_per_sample">
+        <item quantity="other">%d біт/сэмпл</item>
+        <item quantity="one">%d біт/сэмпл</item>
+    </plurals>
+    <plurals name="string_int_hour">
+        <item quantity="other">%d г.</item>
+        <item quantity="one">%d г.</item>
+    </plurals>
+    <plurals name="string_int_minute">
+        <item quantity="other">%d хв.</item>
+        <item quantity="one">%d хв.</item>
+    </plurals>
+    <plurals name="string_int_second">
+        <item quantity="other">%d сек.</item>
+        <item quantity="one">%d сек.</item>
+    </plurals>
 </resources>

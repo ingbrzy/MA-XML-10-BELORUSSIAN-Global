@@ -505,4 +505,7 @@
   <string name="activate_esim_tips">Немагчыма актываваць. Паўтарыце спробу.</string>
   <string name="preinstall_tips">Рыхтуемся…</string>
   <string name="activating_esim_tips">Актывацыя…</string>
+  <string name="other_settings_get_apps">Аўтаматычнае абнаўленне праграм</string>
+  <string name="other_settings_get_apps_summary">"Абнавіце сістэму і праграмы пабочных партнёраў праз GetApps, каб мець магчымасць выкарыстоўваць іх найноўшыя функцыі.
+Вы можаце адключыць аўтаматычныя абнаўленні ў GetApps > Налады > Аўтаабнаўленні."</string>
 </resources>

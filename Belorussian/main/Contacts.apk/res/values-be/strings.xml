@@ -1396,4 +1396,8 @@
   <string name="bh_open_carrier_services_short_reason">Уключыце сэрвісы Mi Carrier, каб выкарыстоўваць гэтую функцыю.</string>
   <string name="bh_qualification_and_certificate">Ліцэнзіі і сертыфікацыя</string>
   <string name="unshow_qr_code_in_narrow_screen_split">Немагчыма паказаць QR-коды пры выкарыстанні падзеленага экрана</string>
+  <string name="calllog_record_searching_toast">Пошук запісаў выклікаў…</string>
+  <string name="manage_external_storage_dialog_message">Дазвольце гэтай праграме доступ да ўсіх файлаў для кіравання запісамі выклікаў.</string>
+  <string name="manage_external_storage_dialog_positive">Налады</string>
+  <string name="manage_external_storage_dialog_title">Патрабуюцца дазволы</string>
 </resources>

@@ -76,7 +76,7 @@
   <string name="friday_shortest">П</string>
   <string name="invalid_package_signature">Няправільная подпіс праграмы</string>
   <string name="login_mi_account_alert">Увага</string>
-  <string name="login_mi_account_summary">Мэнэджар пароляў сінхранізуе паролі з вашым Mi акаўнтам. Увайсці зараз?</string>
+  <string name="login_mi_account_summary">Мэнэджар пароляў сінхранізуе паролі з вашым Xiaomi акаўнтам. Увайсці?</string>
   <string name="midnight">Ноч</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Адмяніць выбар</string>
   <string name="miuix_appcompat_action_mode_select_all">Выбраць усе</string>

@@ -728,4 +728,12 @@
   <string name="timer_item_edit">Змяніць</string>
   <string name="white_noise_guide_desc">Дадайце фонавы гук, каб заставацца засяроджанымі</string>
   <string name="alert_page_desc">Націсніце і ўтрымлівайце, затым ссуньце ўверх, каб выключыць будзільнік</string>
+  <string name="add_new_sound">Дадаць мелодыю</string>
+  <string name="confirm_remove_custom_ringtone">Калі вы выдаліце ​​гэтую мелодыю, будзільнікі і таймеры, якія яе выкарыстоўваюць, будуць прайграваць мелодыю па змаўчанні. Выдаліць?</string>
+  <string name="custom_ringtone_lost_permissions">Няма доступу да гэтай мелодыі.</string>
+  <string name="device_sounds">Мелодыі прылады</string>
+  <string name="unknown_ringtone_title">Невядома</string>
+  <string name="white_noise_not_selected">Не абраная</string>
+  <string name="white_noise_selected">Абраная</string>
+  <string name="your_sounds">Мае мелодыі</string>
 </resources>

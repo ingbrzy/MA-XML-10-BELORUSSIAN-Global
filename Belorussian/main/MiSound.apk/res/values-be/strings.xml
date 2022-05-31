@@ -64,7 +64,7 @@
   <string name="equalizer">Эквалайзер</string>
   <string name="expand_button_title">Дадаткова</string>
   <string name="first_note">Праверце сваё слыхавое ўспрыманне, каб адпаведным чынам наладзіць гучнасць.</string>
-  <string name="four_note">Тэст зойме каля 3 хвілін.</string>
+  <string name="four_note">Тэст зойме каля %d хв.</string>
   <string name="heard_no">Няма</string>
   <string name="heard_yes">Так</string>
   <string name="hearing_of_left_ear">Левае вуха</string>
@@ -93,7 +93,7 @@
   <string name="music_audio_effect_settings">Налады эфектаў</string>
   <string name="music_audio_visual_wake_lock">Не адключаць экран</string>
   <string name="music_audio_visual_wake_lock_summary">Не адключаць экран пры адлюстраванні візуальных эфектаў</string>
-  <string name="music_below_thirty_years">Да 30 гадоў</string>
+  <string name="music_below_thirty_years">Да %d гадоў</string>
   <string name="music_customized_sound_summary">Наладзьце гучнасць ў адпаведнасці з вашым слыхавым успрыманнем</string>
   <string name="music_customized_sound_title">Рэгуляванне гучнасці</string>
   <string name="music_delete">Выдаліць</string>
@@ -164,10 +164,10 @@
   <string name="music_sound_num">Карыстацкі прасэт %s</string>
   <string name="music_sound_sample">Сістэмныя прасэты</string>
   <string name="music_sure_to_delete_sound_msg">Выдаліць абраныя прасэты?</string>
-  <string name="music_thirty_to_sixty_years">30-60 гадоў</string>
+  <string name="music_thirty_to_sixty_years" formatted="false">%d-%d гадоў</string>
   <string name="music_title_dolby_control">Dolby Digital Plus</string>
   <string name="music_unsupport_effect_summary">USB гарнітуры не падтрымліваюцца</string>
-  <string name="music_upper_sixty_years">Больш за 60 гадоў</string>
+  <string name="music_upper_sixty_years">Больш за %d гадоў</string>
   <string name="name">Назва</string>
   <string name="not_set">Не зададзена</string>
   <string name="now_here">А зараз?</string>

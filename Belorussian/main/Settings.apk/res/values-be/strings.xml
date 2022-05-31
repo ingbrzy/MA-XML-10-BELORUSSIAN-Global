@@ -10355,7 +10355,7 @@
   <string name="font_cta_alert_title">Палажэння і ўмовы</string>
   <string name="vonr_switch_title">Выкарыстоўваць VoNR</string>
   <string name="guide_button_text">Зразумела</string>
-  <string name="guide_text_center">"Правядзіце ўправа ўверх па цэнтру экрана.
+  <string name="guide_text_center">"Правядзіце прама ўверх па цэнтру экрана.
 Вобласць, у якой вы можаце пацвердзіць блакіроўку экрана, будзе выраўнавана па цэнтру."</string>
   <string name="guide_text_left">"Правядзіце ўверх ад левага ніжняга кута.
 Вобласць, у якой вы можаце пацвердзіць блакіроўку экрана, перамесціцца налева."</string>
@@ -10488,8 +10488,8 @@
   <string name="dialog_softbank_esim_wipe_title">Ачысціць дадзеныя eSIM</string>
   <string name="dialog_softbank_esime_context">Гэтая прылада павінна быць падлучана да Інтэрнэту, каб мець магчымасць актываваць eSIM. Прапусціць актывацыю eSIM?</string>
   <string name="dialog_softbank_esime_title">Прапусціць актывацыю eSIM</string>
-  <string name="device_ime_keyboard_fold">Параметры клавіятуры для складваемых прылад</string>
-  <string name="device_ime_keyboard_pad">Параметры клавіятуры для планшэтаў</string>
+  <string name="device_ime_keyboard_fold">Клавіятуры для складваемых прылад</string>
+  <string name="device_ime_keyboard_pad">Клавіятуры для планшэтаў</string>
   <string name="double_g_v">Дубляваць G і V</string>
   <string name="double_g_v_sumary">Дублюйце цэнтральныя кнопкі на эрганамічнай клавіятуры для большай зручнасці</string>
   <string name="fold_screen_settings_title">Функцыі для складваемых прылад</string>
@@ -10559,4 +10559,5 @@ ID:%s
   <string name="system_error_info">Сістэма занятая. Пачакайце хвіліну ці дзве і паспрабуйце яшчэ раз.</string>
   <string name="temporary_not_available">часова недаступна</string>
   <string name="unknown_error_info">Невядомая памылка</string>
+  <string name="control_center_force_use_panel_guide_text">Пацягніце ўніз радок стану злева, каб прагледзець апавяшчэнні. Пацягнуўшы яго ўніз справа, вы адкрыеце Цэнтр кіравання. Вы можаце пераключацца паміж імі, праводзячы пальцам налева і направа.</string>
 </resources>

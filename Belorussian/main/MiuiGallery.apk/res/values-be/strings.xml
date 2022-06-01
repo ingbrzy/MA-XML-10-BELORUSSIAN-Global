@@ -3064,7 +3064,7 @@
   <string name="scope_storage_operation_btn_2">Доступ да гэтай тэчкі</string>
   <string name="show_nearby_photos">Паказваць фота і відэа паблізу</string>
   <string name="watermark_enter">Ахоўны вадзяны знак</string>
-  <string name="watermark_summary">Разнаваць ідэнтыфікатары фота, якія захоўваюцца на гэтай прыладзе, і атрымліваць запыты на даданне ахоўных вадзяных знакаў</string>
+  <string name="watermark_summary">Разпазнаваць ідэнтыфікатары фота, якія захоўваюцца на гэтай прыладзе, і атрымліваць запыты на даданне ахоўных вадзяных знакаў</string>
   <string name="watermark_title">Ахоўны вадзяны знак</string>
   <string name="download_delete_error_desc">Немагчыма аднавіць гэты элемент, таму што вы выдалілі яго з гэтай прылады і з воблака. Выдаліць пусты файл?</string>
   <string name="download_delete_error_positive">Выдаліць</string>
@@ -3156,7 +3156,7 @@
   <string name="download_library_dialog_title">Загрузіць шаблоны</string>
   <string name="empty_tip_btn">Зрабіць фота</string>
   <string name="home_page_empty_action_new">Імпарт са старой прылады</string>
-  <string name="is_in_ocr">Разнаванне…</string>
+  <string name="is_in_ocr">Разпазнаванне…</string>
   <string name="ocr_aiasst_version">Спачатку абновіце Mi ШІ</string>
   <string name="ocr_extract">Выняць</string>
   <string name="ocr_text_copied_selected">Паспяхова скапіявана</string>
@@ -3173,11 +3173,14 @@
   <string name="story_guide_tip_revisit_btn">Пачаць</string>
   <string name="story_guide_tip_revisit_desc">Зрабіце фатаграфіі. Падлучыце зарадную прыладу. Заблакуйце прыладу.</string>
   <string name="story_guide_tip_revisit_title">Ажывіце свае самыя яркія моманты</string>
-  <string name="str_scan_form">Разнаць табліцу</string>
-  <string name="text_recognition">Разнаць тэкст</string>
+  <string name="str_scan_form">Разпазнаць табліцу</string>
+  <string name="text_recognition">Разпазнаць тэкст</string>
   <string name="today_of_year">У гэты дзень</string>
   <string name="today_of_year_empty_tip">Тут пакуль няма гісторый</string>
   <string name="today_of_year_location_num">Месцы</string>
   <string name="today_of_year_photo_num">Фатаграфіі</string>
   <string name="widget_disable">Віджэты такога памеру не падтрымліваюцца на гэтай прыладзе</string>
+  <string name="feedback_my_reports">Водгук</string>
+  <string name="feedback_problem">Паведаміць аб праблеме</string>
+  <string name="feedback_suggest">Адправіць прапанову</string>
 </resources>

@@ -409,12 +409,16 @@
   <string name="close">Зачыніць</string>
   <string name="date_time_picker_dialog_title">Усталяваць дату і час</string>
   <string name="miuix_appcompat_deselect_all">Адмяніць выбар</string>
-  <string name="miuix_appcompat_select_all">Выбраць усе</string>
-  <string name="miuix_appcompat_select_item">Выбраць элементы</string>
+  <string name="miuix_appcompat_select_all">Абраць усе</string>
+  <string name="miuix_appcompat_select_item">Абраць элементы</string>
   <string name="send">Адправіць</string>
   <string name="notification_channel_alerts">Апавяшчэннi</string>
   <string name="garbage_count">Ёсць %1$s старых экзэмпляраў</string>
   <string name="memory_leak">Уцечка памяці</string>
   <string name="temporary_style_5">Паказваць на працягу 5 секунд</string>
   <string name="theme_manager_other">Яшчэ элементы</string>
+  <string name="miuix_access_state_desc">Абрана</string>
+  <string name="miuix_alphabet_indexer_name">Алфавітная лінейка</string>
+  <string name="miuix_indexer_collect">Калекцыі</string>
+  <string name="miuix_indexer_selected">Абрана: %s</string>
 </resources>

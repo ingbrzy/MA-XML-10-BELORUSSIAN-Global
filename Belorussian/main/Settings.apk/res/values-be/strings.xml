@@ -10560,4 +10560,6 @@ ID:%s
   <string name="temporary_not_available">часова недаступна</string>
   <string name="unknown_error_info">Невядомая памылка</string>
   <string name="control_center_force_use_panel_guide_text">Пацягніце ўніз радок стану злева, каб прагледзець апавяшчэнні. Пацягнуўшы яго ўніз справа, вы адкрыеце Цэнтр кіравання. Вы можаце пераключацца паміж імі, праводзячы пальцам налева і направа.</string>
+  <string name="bluetooth_hd_music_play_summary">Прайграванне аўдыё %d кГц на прыладах Bluetooth без зніжэння частаты дыскрэтызацыі. Эфекты Dolby будуць недаступныя, калі гэтая функцыя ўключана.</string>
+  <string name="bluetooth_hd_music_play_title">Прайграванне аўдыё %d кГц</string>
 </resources>

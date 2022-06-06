@@ -1551,4 +1551,25 @@
   <string name="exo_download_paused_for_wifi">Спампоўкі ў чаканні Wi-Fi</string>
   <string name="theme_detail_widget_title">Віджэты</string>
   <string name="guide_to_widget">Дадаць краму віджэтаў. Націсніце для прагляду.</string>
+  <string name="ad_close">Закрыць гэтую аб\'яву</string>
+  <string name="apply_sensor_video_wallpaper_dialog_message">Гэтыя шпалеры будуць ужытыя да ўнутранага і вонкавага экранаў блакавання і працоўнага стала.</string>
+  <string name="close_custom_permission_warning_text_above_eleven">Без дазволаў на доступ да сховішча гэта праграма не зможа персаналізаваць вашу прыладу. Усё роўна адключыць?</string>
+  <string name="custom_storage_permission_desc_above_eleven">Каб змяніць налады персаналізацыі, спачатку дазвольце гэтай праграме доступ да сховішча. Вы можаце даць гэты дазвол у наладах.</string>
+  <string name="custom_widget">Рэкамендаваныя віджэты</string>
+  <string name="fold_sensor_video_wallpaper_group">Дынамічныя шпалеры для складваемых прылад</string>
+  <string name="privacy_phone_read_and_write_storage_above_eleven">Доступ да сховішча</string>
+  <string name="resource_search_history">Гісторыя пошуку</string>
+  <string name="set_calling">Усталяваць</string>
+  <string name="system_cta_runtime_perm_desc_storage_above_eleven">Для змены налад персаналізацыі</string>
+  <string name="toast_both_all_apply_failured">Не атрымалася прымяніць да працоўнага стала ці экрана блакавання</string>
+  <string name="toast_both_all_apply_success">Ужыта да працоўнага стала і экрана блакавання</string>
+  <string name="toast_home_apply_failured">Не атрымалася прымяніць да працоўнага стала</string>
+  <string name="toast_home_apply_success">Ужыта на працоўны стол</string>
+  <string name="toast_lockscreen_apply_failured">Немагчыма прымяніць да экрана блакавання</string>
+  <string name="toast_lockscreen_apply_failured_but_home_apply_success">Ужыта на працоўны стол. Не ўдалося прымяніць да экрана блакавання.</string>
+  <string name="toast_lockscreen_apply_success">Ужыта да экрана блакавання</string>
+  <string name="toast_lockscreen_apply_success_but_home_apply_failured">Ужыта да экрана блакавання. Не ўдалося прымяніць да працоўнага стала.</string>
+  <string name="toast_transparent_wallpaper_filter_set_failured">Немагчыма прымяніць</string>
+  <string name="toast_transparent_wallpaper_filter_set_successfully">Ужыта паспяхова</string>
+  <string name="de_order">№ %1$d</string>
 </resources>

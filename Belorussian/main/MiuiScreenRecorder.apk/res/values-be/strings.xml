@@ -324,9 +324,10 @@
   <string name="view_privacy">Палітыка прыватнасці</string>
   <string name="view_recorded_file">Націсніце, каб прагледзець запісаны файл</string>
   <string name="view_recorded_videos">Прагляд запісаў</string>
-  <string name="warning_recording_when_a2dp_connect">Ваша прылада не падтрымлівае запіс сістэмных гукаў пры падключанай Bluetooth-гарнітуры.</string>
+  <string name="warning_recording_when_a2dp_connect">Ваша прылада не падтрымлівае запіс сістэмных гукаў пры падлучанай Bluetooth-гарнітуры.</string>
   <string name="wednesday">Серада</string>
   <string name="wednesday_short">Сер</string>
   <string name="wednesday_shortest">Сер</string>
-  <string name="yesterday">Учора</string>
+  <string name="yesterday">Учора</string>+
+  <string name="invisible_mode_error_tip">Вы інкогніта. Немагчыма запісаць гук.</string>
 </resources>

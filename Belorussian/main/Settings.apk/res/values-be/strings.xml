@@ -10557,9 +10557,11 @@ ID:%s
   <string name="send_diagnosis_log">Адправіць часопіс дыягностыкі</string>
   <string name="sending">Адпраўка…</string>
   <string name="system_error_info">Сістэма занятая. Пачакайце хвіліну ці дзве і паспрабуйце яшчэ раз.</string>
-  <string name="temporary_not_available">часова недаступна</string>
+  <string name="temporary_not_available">Часова недаступна</string>
   <string name="unknown_error_info">Невядомая памылка</string>
   <string name="control_center_force_use_panel_guide_text">Пацягніце ўніз радок стану злева, каб прагледзець апавяшчэнні. Пацягнуўшы яго ўніз справа, вы адкрыеце Цэнтр кіравання. Вы можаце пераключацца паміж імі, праводзячы пальцам налева і направа.</string>
   <string name="bluetooth_hd_music_play_summary">Прайграванне аўдыё %d кГц на прыладах Bluetooth без зніжэння частаты дыскрэтызацыі. Эфекты Dolby будуць недаступныя, калі гэтая функцыя ўключана.</string>
   <string name="bluetooth_hd_music_play_title">Прайграванне аўдыё %d кГц</string>
+  <string name="lock_screen_after_fold_screen_summary">Прылада будзе заблакавана пасля таго, як вы складзеце яе, за выключэннем выпадкаў, калі вы выкарыстоўваеце франтальную камеру або дынамік.</string>
+  <string name="lock_screen_after_fold_screen_title">Скласці для блакавання</string>
 </resources>

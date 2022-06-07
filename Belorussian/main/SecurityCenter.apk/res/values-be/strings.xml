@@ -6045,4 +6045,18 @@
   <string name="gb_predownload_noti_title">%s паспяхова абноўлена ў фонавым рэжыме</string>
   <string name="gb_predownload_title">Фонавыя абнаўленні</string>
   <string name="gb_smart_battery_surplus_new">%1$s %2$s засталося</string>
+  <string name="antivirus_antidefraud_risk_desc">Гэта праграма класіфікуецца Нацыянальным цэнтрам па барацьбе з махлярствам як праграма для фінансавага махлярства. Выдаліце ​​яе, каб пазбегнуць магчымых рызык.</string>
+  <string name="antivirus_antidefraud_risk_type">Фінансавае махлярства</string>
+  <string name="antivirus_antidefraud_risk_type_label">Фінансавае махлярства і рызыкі бяспекі</string>
+  <string name="antivirus_detect_apps_dialog_cancel">Ігнараваць</string>
+  <string name="antivirus_detect_apps_dialog_content">%s класіфікуецца Нацыянальным цэнтрам па барацьбе з махлярствам як праграма для фінансавага махлярства. Гэта праграма ўяўляе значную пагрозу бяспецы.</string>
+  <string name="antivirus_detect_apps_dialog_uninstall">Выдаліць</string>
+  <string name="antivirus_detect_apps_noti_message">Гэта праграма ўяўляе пагрозу бяспецы</string>
+  <string name="antivirus_detect_apps_noti_title">Некалькі праграм, уключаючы %s, могуць уяўляць пагрозу бяспецы</string>
+  <string name="antivirus_detect_single_app_noti_title">%s можа ўяўляць пагрозу бяспецы</string>
+  <string name="antivirus_not_remind_for_app">Больш не папярэджваць аб гэтай праграме</string>
+  <string name="sp_unshelf_dialog_cancel_pay">Адмена</string>
+  <string name="sp_unshelf_dialog_content">Праграма %s не прайшла тэсты бяспекі. Выкарыстанне плацяжоў у праграме можа прывесці да фінансавых страт. Усё роўна аплаціць?</string>
+  <string name="sp_unshelf_dialog_continue_pay">Аплаціць</string>
+  <string name="sp_unshelf_dialog_title">Выяўлены рызыкі</string>
 </resources>

@@ -8996,8 +8996,6 @@
   <string name="magic_list_empty_text_pad">У цяперашні час няма праграм, сумяшчальных з гэтай функцыяй</string>
   <string name="magic_window_name_pad">Аптымізацыя альбомнага выгляду</string>
   <string name="headset_toast_tip_disconnect_others">Падобна, вашы навушнікі цяпер падлучаныя да іншай прылады.</string>
-  <string name="lock_screen_after_fold_screen_summary">Пры выкарыстанні пярэдняй камеры або навушнікаў экран не блакуецца пасля складання</string>
-  <string name="lock_screen_after_fold_screen_title">Блакаваць экран пасля складання экрана</string>
   <string name="params_interpretation">Падрабязныя характарыстыкі</string>
   <string name="vip_service_settings">Мае сэрвісы</string>
   <string name="miuix_access_state_desc">Абрана</string>

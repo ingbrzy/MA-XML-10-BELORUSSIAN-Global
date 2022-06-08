@@ -577,7 +577,7 @@
   <string name="show_hw_layers_updates">Паказаць абнаўленнi апаратнага пласта</string>
   <string name="show_hw_layers_updates_summary">Апаратныя пласты набываюць зялёны колер, калi абнаўляюцца</string>
   <string name="show_hw_screen_updates">Паказ. абнаўленне экрана</string>
-  <string name="show_hw_screen_updates_summary">Мігнуць вакном пры чарчэнні з дапамогай GPU</string>
+  <string name="show_hw_screen_updates_summary">Мігнуць акном пры чарчэнні з дапамогай GPU</string>
   <string name="show_non_rect_clip">Адладка аперацый непрамавугольнага кліпа</string>
   <string name="show_notification_channel_warnings">Паказваць папярэджанні канала апавяшчэннаў</string>
   <string name="show_notification_channel_warnings_summary">Паказвае папярэджанне на экране, калі праграма публікуе апавяшчэнне без сапраўднага канала</string>
@@ -803,7 +803,7 @@
   <string name="wifitrackerlib_wifi_unmetered_label">Без уліку трафіка</string>
   <string name="wifitrackerlib_wifi_wont_autoconnect_for_now">Аўтаматычнае падключэнне да Wi-Fi адсутнічае</string>
   <string name="window_animation_scale_title">Маштаб анімацыі акна</string>
-  <string name="window_blurs">Размываць на ўзроўні вакна</string>
+  <string name="window_blurs">Размываць на ўзроўні акна</string>
   <string name="yes">Так</string>
   <string name="zen_alarm_warning">Наступны будзільнік не зазвініць: %1$s</string>
   <string name="zen_alarm_warning_indef">Наступны будзільнік (%1$s) не зазвініць, пакуль вы не выключыце гэту функцыю</string>

@@ -420,7 +420,7 @@
   <string name="pc_xiaomi_device_model_name">Наўтбук Xiaomi</string>
   <string name="seize_content">Спыніце сумеснае выкарыстанне экрана, каб можна было перадаваць элементы. Спыніць?</string>
   <string name="seize_title">Спыніць сумеснае выкарыстанне</string>
-  <string name="menu_new_display_open">Адкрыць у новым вакне</string>
+  <string name="menu_new_display_open">Адкрыць у новым акне</string>
   <string name="menu_pc_open">Адкрыць на кап\'ютары</string>
   <string name="lenovo_phone">Lenovo</string>
   <string name="error_ble_connect_failure">Немагчыма падключыць Bluetooth атрымальніка</string>

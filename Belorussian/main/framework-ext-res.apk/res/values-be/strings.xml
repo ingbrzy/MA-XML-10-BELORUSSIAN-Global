@@ -118,10 +118,10 @@
   <string name="disable_nfc">Адключана NFC для бесправадной зарадкі</string>
   <string name="disable_nfc_reverse">Адключана NFC для зваротнай бесправадной зарадкі</string>
   <string name="dock_tip_floatwindow">Утрымліваючы паласу, перацягнеце яе да краю экрана, каб перайсці ў рэжым падзеленага экрана.</string>
-  <string name="dock_tip_splitscreen_landscape_drag">Перацягнеце паласу па гарызанталі, каб памяняць месцамі два вакна праграмы.</string>
-  <string name="dock_tip_splitscreen_landscape_float">Утрымлівайце і перацягнеце ўніз, каб пераключыцца на плаваючае вакно.</string>
-  <string name="dock_tip_splitscreen_portrait_drag">Перацягнеце паласу па вертыкалі, каб памяняць месцамі два вакна праграмы.</string>
-  <string name="dock_tip_splitscreen_portrait_float">Утрымлівайце і перацягнеце налева або направа экрана, каб пераключыцца на плаваючае вакно.</string>
+  <string name="dock_tip_splitscreen_landscape_drag">Перацягнеце паласу па гарызанталі, каб памяняць месцамі два акна праграмы.</string>
+  <string name="dock_tip_splitscreen_landscape_float">Утрымлівайце і перацягнеце ўніз, каб пераключыцца на плаваючае акно.</string>
+  <string name="dock_tip_splitscreen_portrait_drag">Перацягнеце паласу па вертыкалі, каб памяняць месцамі два акна праграмы.</string>
+  <string name="dock_tip_splitscreen_portrait_float">Утрымлівайце і перацягнеце налева або направа экрана, каб пераключыцца на плаваючае акно.</string>
   <string name="echo">Рэха</string>
   <string name="eighthours">8 гадзін</string>
   <string name="enable_livetalk_summary">Зберажыце да 70% ад кошту выклікаў</string>
@@ -152,7 +152,7 @@
   <string name="fp_nav_center_action_choose_dlg_negative_btn_text">Не зараз</string>
   <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Уключыць</string>
   <string name="fp_nav_center_action_choose_dlg_title">Уключыць функцыю хуткага дотыку</string>
-  <string name="freeform_exchange_tip">Адкрыць плаваючае вакно ў поўнаэкранным рэжыме</string>
+  <string name="freeform_exchange_tip">Адкрыць плаваючае акно ў поўнаэкранным рэжыме</string>
   <string name="freeform_exchange_tip2">Перацягнуць ў кут, каб адмяніць</string>
   <string name="frenchchic">Шык</string>
   <string name="frequent_email">Email, які часта выкарыстоўваецца</string>
@@ -201,7 +201,7 @@
   <string name="keyboard_upgrade_start">Абнаўленне клавіятуры...</string>
   <string name="keyboard_upgrade_success">Клавіятура паспяхова абноўлена</string>
   <string name="ks_back_home">Працоўны стол</string>
-  <string name="ks_close_window">Зачыніць бягучае вакно</string>
+  <string name="ks_close_window">Зачыніць бягучае акно</string>
   <string name="ks_launch_control_center">Цэнтр кіравання</string>
   <string name="ks_launch_notification_center">Панэль апавяшчэнняў</string>
   <string name="ks_launch_recents_tasks">Адкрыць нядаўнія</string>
@@ -233,7 +233,7 @@
   <string name="mihouse">Mi Электронная</string>
   <string name="miui_forbid_poweroff_when_device_locked">Немагчыма выключыць: прылада заблакавана.</string>
   <string name="miui_landscape_compat_toast">Не падыходзіць для складанай прылады, калі вы карыстаецеся праграмай ў альбомнай арыентацыі. Рэкамендуецца выкарыстоўваць у партрэтнай.</string>
-  <string name="miui_multiwindow_not_support_cvw">Немагчыма наладзіць памер вакна для гэтай праграмы</string>
+  <string name="miui_multiwindow_not_support_cvw">Немагчыма наладзіць памер акна для гэтай праграмы</string>
   <string name="miui_multiwindow_not_support_small_window">%1$s не падтрымлівае плаваючыя вокны</string>
   <string name="miui_multiwindow_not_support_split">%1$s не падтрымлівае падзел экрана</string>
   <string name="miui_screen_ratio_hint">Праблемы з адлюстраваннем</string>
@@ -383,8 +383,8 @@
   <string name="small_freeform_check_memory_exception_message">%1$s выклікала памылку памяці. Закрыйце гэту праграму, каб пазбегнуць затрымак.</string>
   <string name="small_freeform_check_memory_exception_negative_message">Адмена</string>
   <string name="small_freeform_check_memory_exception_positive_message">Закрыць</string>
-  <string name="small_freeform_enter_warning">Плаваючае вакно</string>
-  <string name="small_freeform_exit_tip">Зачыніць плаваючае вакно</string>
+  <string name="small_freeform_enter_warning">Плаваючае акно</string>
+  <string name="small_freeform_exit_tip">Зачыніць плаваючае акно</string>
   <string name="small_freeform_memory_toast_app_type">Не ўдаецца адкрыць. Гэтая праграма патрабуе занадта шмат памяці для працы.</string>
   <string name="small_freeform_memory_toast_game_type">Не ўдаецца адкрыць. Гэтая гульня патрабуе занадта шмат памяці для працы.</string>
   <string name="softap_notifif_summary">Падлучана: %d</string>

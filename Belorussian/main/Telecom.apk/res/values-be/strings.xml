@@ -346,7 +346,7 @@
   <string name="enable_adb_wireless">Адладка па Wi-Fi</string>
   <string name="enable_adb_wireless_summary">Рэжым адладкі з падключанай сеткай Wi‑Fi</string>
   <string name="enable_freeform_support">Уключыць адвольную форму вокнаў</string>
-  <string name="enable_freeform_support_summary">Уключыць падтрымку для эксперыментальнай адвольнай формы вакна.</string>
+  <string name="enable_freeform_support_summary">Уключыць падтрымку для эксперыментальнай адвольнай формы акна.</string>
   <string name="enable_gpu_debug_layers">Уключыць слаі адладкі GPU</string>
   <string name="enable_gpu_debug_layers_summary">Загружаць слаі адладкі GPU для праграм адладкі</string>
   <string name="enable_opengl_traces_title">Уключэнне слядоў OpenGL</string>
@@ -396,7 +396,7 @@
   <string name="help_feedback_label">Даведка і водгукі</string>
   <string name="help_label">Даведка і водгукі</string>
   <string name="home">Галоўная старонка налад</string>
-  <string name="icon_content_description">Значок дыялогавага вакна</string>
+  <string name="icon_content_description">Значок дыялогавага акна</string>
   <string name="ime_security_warning">Гэты метад уводу можа збіраць увесь тэкст, які ўводзіцца, у тым лiку такiя персанальныя дадзеныя, як паролі і нумары крэдытных карт. Ён выкарыстоўваецца прыкладаннем %1$s. Выкарыстоўваць гэты метад уводу?</string>
   <string name="immediately_destroy_activities">Не захоўваць дзеянні</string>
   <string name="immediately_destroy_activities_summary">Выдаляць усе дзеянні пасля выхаду карыстальніка</string>
@@ -727,12 +727,12 @@
   <string name="show_hw_layers_updates">Паказаць абнаўленнi апаратнага пласта</string>
   <string name="show_hw_layers_updates_summary">Апаратныя пласты набываюць зялёны колер, калi абнаўляюцца</string>
   <string name="show_hw_screen_updates">Паказ. абнаўленне экрана</string>
-  <string name="show_hw_screen_updates_summary">Мігнуць вакном пры чарчэнні з дапамогай GPU</string>
+  <string name="show_hw_screen_updates_summary">Мігнуць акном пры чарчэнні з дапамогай GPU</string>
   <string name="show_non_rect_clip">Адладка аперацый непрамавугольнага кліпа</string>
   <string name="show_notification_channel_warnings">Паказваць папярэджанні канала апавяшчэннаў</string>
   <string name="show_notification_channel_warnings_summary">Паказвае папярэджанне на экране, калі праграма публікуе апавяшчэнне без сапраўднага канала</string>
   <string name="show_screen_updates">Паказ. абнаўл. паверхні</string>
-  <string name="show_screen_updates_summary">Мігаць ўсёй паверхней вакна пры абнаўленні</string>
+  <string name="show_screen_updates_summary">Мігаць ўсёй паверхней акна пры абнаўленні</string>
   <string name="show_touches">Паказваць дотыкі</string>
   <string name="show_touches_summary">Паказваць візуалізацыю дотыкаў</string>
   <string name="simulate_color_space">Сімуляцыя каляр. прасторы</string>
@@ -1030,8 +1030,8 @@
   <string name="wifitrackerlib_wifi_security_none">Няма</string>
   <string name="wifitrackerlib_wifi_unmetered_label">Без уліку трафіка</string>
   <string name="wifitrackerlib_wifi_wont_autoconnect_for_now">Аўтаматычнае падключэнне да Wi-Fi адсутнічае</string>
-  <string name="window_animation_scale_title">Маштаб анімацыі вакна</string>
-  <string name="window_blurs">Размываць на ўзроўні вакна</string>
+  <string name="window_animation_scale_title">Маштаб анімацыі акна</string>
+  <string name="window_blurs">Размываць на ўзроўні акна</string>
   <string name="yesterday">Учора</string>
   <string name="zen_alarm_warning">Наступны будзільнік не зазвініць: %1$s</string>
   <string name="zen_alarm_warning_indef">Наступны будзільнік (%1$s) не зазвініць, пакуль вы не выключыце гэту функцыю</string>

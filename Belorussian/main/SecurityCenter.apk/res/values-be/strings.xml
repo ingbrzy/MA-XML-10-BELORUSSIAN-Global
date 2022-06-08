@@ -4658,7 +4658,7 @@
   <string name="provision_next">Далей</string>
   <string name="provision_skip_underline">Прапусціць</string>
   <string name="view_traffic_detail">Больш падрабязна</string>
-  <string name="ad_floating_window_title">Зачыніце плаваючае вакно для разблакоўкі</string>
+  <string name="ad_floating_window_title">Зачыніце плаваючае акно для разблакоўкі</string>
   <string name="dlg_onlie_service_summary">Адключэнне анлайн-сэрвісаў зробіць некаторыя функцыі праграмы недаступнымі. Усё роўна выключыць?</string>
   <string name="dlg_open_online_service_pos_text">Уключыць</string>
   <string name="dlg_open_online_service_summary">Некаторыя функцыі будуць недаступныя, калі анлайн-сэрвісы выключаныя. Ўключыць анлайн-сэрвісы зараз?</string>
@@ -5332,7 +5332,7 @@
   <string name="gtb_guide_gtb_func_title">Паскарэнне гульняў</string>
   <string name="gtb_guide_gtb_line_new">Паспрабуйце прадуктыўны рэжым у паскарэнні гульняў!</string>
   <string name="gtb_guide_small_window_app_desc">Выкарыстоўвайце іншыя праграмы падчас гульні</string>
-  <string name="gtb_guide_small_window_app_title">Ваконныя праграмы</string>
+  <string name="gtb_guide_small_window_app_title">Аконныя праграмы</string>
   <string name="gtb_guide_gtb_game_effected">Ужыта</string>
   <string name="gtb_guide_gtb_game_new">Новае</string>
   <string name="behavior_widget_get_installed_apps">Доступ да праграм</string>
@@ -5722,7 +5722,7 @@
   <string name="gd_app_edit_done">Гатова</string>
   <string name="gd_app_edit_title">Дадаць праграмы</string>
   <string name="gd_app_edit_title_new">Змяніць цэтлікі</string>
-  <string name="gd_setting_desc_action1">Адкрыць у плаваючым вакне</string>
+  <string name="gd_setting_desc_action1">Адкрыць у плаваючым акне</string>
   <string name="gd_setting_desc_action2">Выкарыстоўваць цэтлiк</string>
   <string name="gd_setting_group_custom_gtb_apps">Гульні</string>
   <string name="gd_setting_group_custom_line_location">Палажэнне панэлі</string>
@@ -5732,7 +5732,7 @@
   <string name="gd_setting_group_title_switch">Паказваць</string>
   <string name="gd_setting_gtb">Падчас гульняў</string>
   <string name="gd_setting_gtb_desc">Спецыяльныя магчымасці для гульняў</string>
-  <string name="gd_setting_guide_one">Націсніце, каб адкрыць плаваючае вакно</string>
+  <string name="gd_setting_guide_one">Націсніце, каб адкрыць плаваючае акно</string>
   <string name="gd_setting_guide_three">Правядзіце ад краю, каб адкрыць панэль інструментаў для гульняў</string>
   <string name="gd_setting_guide_two">Правядзіце ад краю, каб адкрыць панэль інструментаў для відэа</string>
   <string name="gd_setting_miui_dock">Заўсёды</string>

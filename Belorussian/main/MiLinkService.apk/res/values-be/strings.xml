@@ -356,7 +356,7 @@
   <string name="toast_guide_show_more">Яшчэ</string>
   <string name="toast_guide_title">Дасьледуйце новыя функцыі</string>
   <string name="toast_msg_for_multi_window">Трансляцыя забароненая ў рэжыме падзеленага экрана</string>
-  <string name="toast_msg_for_small_window">Пасля адкрыцця праграмы, якую вы хочаце трансляваць, выкарыстоўвайце функцыю трансляцыі невялікага вакна, гэта не прывядзе да спынення праграмы, а мабільны тэлефон можа працаваць з іншымі праграмамі.</string>
+  <string name="toast_msg_for_small_window">Пасля адкрыцця праграмы, якую вы хочаце трансляваць, выкарыстоўвайце функцыю трансляцыі невялікага акна, гэта не прывядзе да спынення праграмы, а мабільны тэлефон можа працаваць з іншымі праграмамі.</string>
   <string name="toast_nfc_dont_move">Не адсоўвайце свой тэлефон</string>
   <string name="toast_title_for_small_window">Калі ласка, выкарыстоўвайце невялікае акно для трансляцыі ў праграме.</string>
   <string name="toast_turn_off_hotspot_before_cast">Адключыце прункт доступу перад трансляцыяй</string>
@@ -384,8 +384,8 @@
   <string name="screen_projection_characteristics_off_screen_title">Трансляцыя пры выключаным экране</string>
   <string name="screen_projection_characteristics_privacy_protect_summary">Схаваць усплывальныя вокны, паведамленнi аб ўваходных выкліках і іншыя элементы, якія могуць утрымліваць асабістую інфармацыю.</string>
   <string name="screen_projection_characteristics_privacy_protect_title">Схаваць асабістую інфармацыю</string>
-  <string name="screen_projection_characteristics_small_window_summary">Мінімізуйце вакно падчас трансляцыі, гэта дазволіць карыстацца іншымі функцыямі тэлефона.</string>
-  <string name="screen_projection_characteristics_small_window_title">Мінімізацыя вакна</string>
+  <string name="screen_projection_characteristics_small_window_summary">Мінімізуйце акно падчас трансляцыі, гэта дазволіць карыстацца іншымі функцыямі тэлефона.</string>
+  <string name="screen_projection_characteristics_small_window_title">Мінімізацыя акна</string>
   <string name="screen_projection_example_document_summary">Паказваць прэзентацыі на знешнім маніторы, выкарыстоўваючы тэлефон для пераключэння паміж слайдамі і прагляду нататак. Перайдзіце ў Правадыр > Сховішча > Дакументы, каб паспрабаваць гэтую функцыю.</string>
   <string name="screen_projection_example_document_title">Дакументы</string>
   <string name="screen_projection_example_gallery_summary">Націсніце кнопку «Адправіць» пад элементам у праграме «Галерэя», каб адлюстраваць яго на знешнім маніторы.</string>
@@ -683,8 +683,8 @@
   <string name="debug_mode_system">Уласцівасці сістэмы</string>
   <string name="debug_mode_title">Рэжым адладкі</string>
   <string name="debug_mode_vendor">Тып чыпа</string>
-  <string name="debug_mode_wait_remove_desc">Па змаўчанні падчас сканавання з\'яўляецца ўсплывальнае вакно, якое доўжыцца не менш за 1 сек.</string>
-  <string name="debug_mode_wait_remove_title">Выдаліць ўсплывальнае вакно сканавання прылад</string>
+  <string name="debug_mode_wait_remove_desc">Па змаўчанні падчас сканавання з\'яўляецца ўсплывальнае акно, якое доўжыцца не менш за 1 сек.</string>
+  <string name="debug_mode_wait_remove_title">Выдаліць ўсплывальнае акно сканавання прылад</string>
   <string name="guide_confirm_button_text">Пачаць</string>
   <string name="guide_exit_button_content_description">Выхад</string>
   <string name="guide_next_button_text">Больш падрабязна</string>

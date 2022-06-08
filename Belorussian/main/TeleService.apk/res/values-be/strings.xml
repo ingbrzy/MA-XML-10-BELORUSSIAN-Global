@@ -1261,7 +1261,7 @@
   <string name="menu_delete">Выдаліць кантакт</string>
   <string name="menu_dial">Набраць нумар</string>
   <string name="menu_edit">Змяніць кантакт</string>
-  <string name="menu_new_display_open">Адкрыць у новым вакне</string>
+  <string name="menu_new_display_open">Адкрыць у новым акне</string>
   <string name="menu_pc_open">Адкрыць на кампутары</string>
   <string name="message_decode_error">Памылка дэкадавання паведамлення.</string>
   <string name="messageCallBarring">Увядзіце пароль</string>
@@ -1659,7 +1659,7 @@
   <string name="ota_title_problem_with_activation">Праблема з актывацыяй</string>
   <string name="ota_touch_activate">Патрэбны спецыяльны выклік для актывацыі службы тэлефону. \n\nПасля націску “Актываваць”, праслухайце інструкцыі для актывацыі тэлефону.</string>
   <string name="ota_try_again">Паспрабаваць яшчэ раз</string>
-  <string name="ota_unsuccessful">Ваш тэлефон актываваны. \nМагчыма, вам трэба знайсці зону з больш высокім узроўнем сігналу (ля вакна або на вуліцы). \n\nПаўтарыце спробу або звяжыцеся са службай падтрымкі.</string>
+  <string name="ota_unsuccessful">Ваш тэлефон актываваны. \nМагчыма, вам трэба знайсці зону з больш высокім узроўнем сігналу (ля акна або на вуліцы). \n\nПаўтарыце спробу або звяжыцеся са службай падтрымкі.</string>
   <string name="other_available_phone_accounts">Іншыя даступныя акаўнты</string>
   <string name="other_settings">Іншыя</string>
   <string name="other_settings_category">Іншыя</string>
@@ -2126,7 +2126,7 @@
   <string name="show_hw_layers_updates">Паказаць абнаўленнi апаратнага пласта</string>
   <string name="show_hw_layers_updates_summary">Апаратныя пласты набываюць зялёны колер, калi абнаўляюцца</string>
   <string name="show_hw_screen_updates">Паказ. абнаўленне экрана</string>
-  <string name="show_hw_screen_updates_summary">Мігнуць вакном пры чарчэнні з дапамогай GPU</string>
+  <string name="show_hw_screen_updates_summary">Мігнуць акном пры чарчэнні з дапамогай GPU</string>
   <string name="show_non_rect_clip">Адладка аперацый непрамавугольнага кліпа</string>
   <string name="show_notification_channel_warnings">Паказваць папярэджанні канала апавяшчэннаў</string>
   <string name="show_notification_channel_warnings_summary">Паказвае папярэджанне на экране, калі праграма публікуе апавяшчэнне без сапраўднага канала</string>
@@ -2751,7 +2751,7 @@
   <string name="wifitrackerlib_wifi_wont_autoconnect_for_now">Аўтаматычнае падключэнне да Wi-Fi адсутнічае</string>
   <string name="wild_prompt_str">Замяніць універсальны сімвал на</string>
   <string name="window_animation_scale_title">Маштаб анімацыі акна</string>
-  <string name="window_blurs">Размываць на ўзроўні вакна</string>
+  <string name="window_blurs">Размываць на ўзроўні акна</string>
   <string name="wrong_password">Уведзены няправільны пароль</string>
   <string name="xcap_setting_summary">Забарона выклікаў, галасавая пошта, пераадрасаванне і чаканне выкліку</string>
   <string name="xcap_setting_title">Налады службы выклікаў</string>
@@ -2788,7 +2788,7 @@
   <string name="fiveg_nrca_switch_title">Агрэгацыя аператараў 5G</string>
   <string name="nrca_switch_summary">Выкарыстоўвайце агрэгацыю аператараў 5G для лепшай сувязі</string>
   <string name="nrca_switch_title">Выкарыстоўваць NRCA</string>
-  <string name="unfold_show_bublle_pref_summary">Разгарніце прыладу падчас размовы, каб паказаць яго ў плывучым вакне</string>
+  <string name="unfold_show_bublle_pref_summary">Разгарніце прыладу падчас размовы, каб паказаць яго ў плывучым акне</string>
   <string name="unfold_show_bublle_pref_title">Разгарнуць, каб мінімізаваць выклік</string>
   <string name="nrca_need_reset">Перазагрузіце прыладу, каб прымяніць змены</string>
 </resources>

@@ -1052,7 +1052,7 @@
   <string name="more_mode_style">Наладзьце размяшчэнне рэжымаў камеры</string>
   <string name="more_mode_style_popup">Панэль «Яшчэ»</string>
   <string name="more_mode_style_tab">Укладка «Яшчэ»</string>
-  <string name="multi_window_mode_not_supported">Камера нельга выкарыстоўваць у шматваконнам рэжыме</string>
+  <string name="multi_window_mode_not_supported">Камера нельга выкарыстоўваць у шматаконнам рэжыме</string>
   <string name="music_hint_tt">Крыніца</string>
   <string name="network_access_user_notice_agree">Згадзіцца</string>
   <string name="network_access_user_notice_message_live_video">Камера павінна падлучацца да Інтэрнэту, каб прадастаўляць эфекты, музыку і іншыя функцыі для відэакліпаў.\n\nНаціснуўшы «Згодны» ніжэй, вы згаджаецеся з нашымі Карыстацкай дамовай і Палітыкай прыватнасці, і дазваляеце камеры падлучацца да Інтэрнэту.</string>
@@ -1072,7 +1072,7 @@
   <string name="not_enough_space">SD-карта запоўненая</string>
   <string name="not_set">Не зададзена</string>
   <string name="object_track_enable_toast">Каб выбраць аб\'ект, адначасова націсніце па дыяганалі на два пункты яго межы.</string>
-  <string name="only_mimoji_multi_window_mode_not_supported">Гэтую функцыю нельга выкарыстоўваць у шматваконнам рэжыме</string>
+  <string name="only_mimoji_multi_window_mode_not_supported">Гэтую функцыю нельга выкарыстоўваць у шматаконнам рэжыме</string>
   <string name="pad_cannot_connect_camera_twice">Па-ранейшаму не ўдаецца падключыцца да камеры. Паспрабуйце перазагрузіць прыладу.</string>
   <string name="pad_close_back_flash_toast">Ваша прылада перагрэта. Цяпер нельга выкарыстоўваць выбліск.</string>
   <string name="pad_close_night_algo_toast_thermal">Астудзіце прыладу, каб можна было ўсталяваць экспазіцыю</string>
@@ -1805,7 +1805,7 @@
   <string name="super_moon_leaf">Лісце</string>
   <string name="super_moon_miss">Месяцовае святло мякка падае на край майго ложка, нібы іней, які пакрывае мерзлую зямлю.</string>
   <string name="super_moon_under">Месяцовае святло</string>
-  <string name="super_moon_window">Вакно</string>
+  <string name="super_moon_window">Акно</string>
   <string name="super_night_hint">Выконваецца аптымізацыя выявы… Трымайце прыладу нерухома.</string>
   <string name="super_night_owl_toast">Трымайце тэлефон нерухома</string>
   <string name="super_night_se_tip">Начны рэжым</string>

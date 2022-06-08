@@ -2594,7 +2594,7 @@
   <string name="wifitrackerlib_wifi_security_none">Няма</string>
   <string name="wifitrackerlib_wifi_unmetered_label">Без уліку трафіка</string>
   <string name="wifitrackerlib_wifi_wont_autoconnect_for_now">Аўтаматычнае падключэнне да Wi-Fi адсутнічае</string>
-  <string name="window_blurs">Размываць на ўзроўні вакна</string>
+  <string name="window_blurs">Размываць на ўзроўні акна</string>
   <string name="phone_locked_string_owner_user">Занадта шмат няўдалых спроб увесці пароль першай прасторы. Зараз гэта прылада заблакавана.</string>
   <string name="phone_locked_string_second_user">Занадта шмат няўдалых спроб увесці пароль другой прасторы. Зараз гэта прылада заблакавана.</string>
   <string name="camera_recording_announcement">Ідзе запіс з выкарыстаннем камеры</string>

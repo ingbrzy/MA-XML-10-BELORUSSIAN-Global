@@ -36,7 +36,7 @@
   <string name="date_picker_lunar">Традыцыйны кітайскі каляндар</string>
   <string name="default_boss_terminal_name">Mi Наўтбук</string>
   <string name="display_max_screen_count_toast">Вы можаце адкрыць да 3 вокнаў у гэтай версіі</string>
-  <string name="display_not_support_secondary_toast">Не магу адкрыць гэту праграму ў новым вакне</string>
+  <string name="display_not_support_secondary_toast">Не магу адкрыць гэту праграму ў новым акне</string>
   <string name="download_cancel">Адмена</string>
   <string name="download_canceled">Запампоўка адменена</string>
   <string name="download_failed">Не атрымалася спампаваць</string>
@@ -301,7 +301,7 @@
   <string name="connect_fail_busy_mishare">Падобна, іншая прылада зараз перадае файлы. Дачакайцеся завяршэння перадачы і паспрабуйце яшчэ раз.</string>
   <string name="enable_wifi_alert_message_for_photo_relay_china">MIUI+ дазваляе лёгка пераключацца паміж прыладамі, калі вам трэба рэдагаваць фота, зробленыя з дапамогай тэлефона, на планшэце. Уключыць Wi-Fi для перадачы абслугоўвання?</string>
   <string name="loading">Секундачку…</string>
-  <string name="mirror_to_float_window_mode">Перайсці ў плаваючае вакно</string>
+  <string name="mirror_to_float_window_mode">Перайсці ў плаваючае акно</string>
   <string name="mirror_to_full_screen_mode">Перайсці ў поўнаэкранны рэжым</string>
   <string name="mishare_interrupting_message">Бягучыя перадачы будуць перапынены, калі вы завершыце сеанс зараз. Завяршыць?</string>
   <string name="mishare_interrupting_title">Перарваць перадачы?</string>

@@ -156,4 +156,9 @@
         <item quantity="few">Выдалена %1$d праграм</item>
         <item quantity="many">Выдалена %1$d праграм</item>
     </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d новых апавяшчэнняў</item>
+        <item quantity="one">%d новае апавяшчэнне</item>
+        <item quantity="few">%d новыя апавяшчэнні</item>
+    </plurals>
 </resources>

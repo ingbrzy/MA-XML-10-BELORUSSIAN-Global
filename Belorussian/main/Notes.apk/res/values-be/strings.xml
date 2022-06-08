@@ -830,7 +830,7 @@
   <string name="clear_text_end_icon_content_description">Ачысціць тэкст</string>
   <string name="error_icon_content_description">Памылка</string>
   <string name="exposed_dropdown_menu_content_description">Паказаць выпадное меню</string>
-  <string name="icon_content_description">Значок дыялогавага вакна</string>
+  <string name="icon_content_description">Значок дыялогавага акна</string>
   <string name="item_view_role_description">Укладка</string>
   <string name="material_clock_toggle_content_description">Выберыце ДП (да паўдня) або ПП (пасля паўдня)</string>
   <string name="material_hour_selection">Выберыце гадзіну</string>

@@ -217,7 +217,7 @@
   <string name="accessibility_system_action_notifications_label">Апавяшчэнні</string>
   <string name="accessibility_system_action_on_screen_a11y_shortcut_chooser_label">Налада хуткага доступу да спецыяльных магчымасцей на экране</string>
   <string name="accessibility_system_action_on_screen_a11y_shortcut_label">Хуткі доступ да спецыяльных магчымасцей на экране</string>
-  <string name="accessibility_system_action_power_dialog_label">Дыялогавае вакно сілкавання</string>
+  <string name="accessibility_system_action_power_dialog_label">Дыялогавае акно сілкавання</string>
   <string name="accessibility_system_action_quick_settings_label">Хуткія налады</string>
   <string name="accessibility_system_action_recents_label">Нядаўнія праграмы</string>
   <string name="accessibility_system_action_screenshot_label">Здымак экрана</string>
@@ -378,14 +378,14 @@
   <string name="capability_desc_canPerformGestures">Можна кранаць, праводзіць пальцам, маштабаваць шчыпком, а таксама выконваць іншыя жэсты.</string>
   <string name="capability_desc_canRequestFilterKeyEvents">У тым ліку асабістыя даныя, такія як нумары крэдытных карт і паролі.</string>
   <string name="capability_desc_canRequestTouchExploration">Агучваць элементы пры націсканні і дазволіць кіраванне прыладай з дапамогай жэстаў.</string>
-  <string name="capability_desc_canRetrieveWindowContent">Аналізаваць змесціва актыўнага вакна.</string>
+  <string name="capability_desc_canRetrieveWindowContent">Аналізаваць змесціва актыўнага акна.</string>
   <string name="capability_desc_canTakeScreenshot">Можна зрабіць здымак экрана.</string>
   <string name="capability_title_canCaptureFingerprintGestures">Жэсты на сканеры адбіткаў пальцаў</string>
   <string name="capability_title_canControlMagnification">Кіраваць павелічэннем дысплэя</string>
   <string name="capability_title_canPerformGestures">Выконваць жэсты</string>
   <string name="capability_title_canRequestFilterKeyEvents">Праглядаць тэкст, які вы набіраеце</string>
   <string name="capability_title_canRequestTouchExploration">Уключаць Азнаямленне дотыкам</string>
-  <string name="capability_title_canRetrieveWindowContent">Атрымліваць змесціва вакна</string>
+  <string name="capability_title_canRetrieveWindowContent">Атрымліваць змесціва акна</string>
   <string name="capability_title_canTakeScreenshot">Зрабіць здымак экрана</string>
   <string name="capital_off">Выключана</string>
   <string name="capital_on">Уключыць</string>
@@ -1512,7 +1512,7 @@
   <string name="policylab_watchLogin">Сачыць за спробамі разблакіроўкі экрана</string>
   <string name="policylab_wipeData">Сцерці ўсе даныя</string>
   <string name="policylab_wipeData_secondaryUser">Сцерці карыстальніцкія даныя</string>
-  <string name="popup_window_default_title">Усплывальнае вакно</string>
+  <string name="popup_window_default_title">Усплывальнае акно</string>
   <string name="postalTypeCustom">Карыстальніцкі</string>
   <string name="postalTypeHome">Хатні</string>
   <string name="postalTypeOther">Іншы</string>

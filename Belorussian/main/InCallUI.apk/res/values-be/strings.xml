@@ -526,5 +526,9 @@
   <string name="font_camera_tip">Складзіце прыладу, каб выкарыстоўваць пярэднюю камеру</string>
   <string name="saf_permission_recorder_unlock_screen_message">Каб мець магчымасць захоўваць запісы, спачатку разблакуйце прыладу. Разблакаваць?</string>
   <string name="msim_select_default_last">Выкарыстоўвалася нядаўна</string>
-  <string name="multi_call_manager_other_calls">іншыя выклікі (%1$d)</string>
+  <string name="multi_call_manager_other_calls">Іншыя выклікі (%1$d)</string>
+  <string name="dsda_answer_call_prompt">Прыняцце гэтага выкліку завершыць ваш бягучы выклік.</string>
+  <string name="dsda_not_incall_sim_mo_fail_desc">Цяпер немагчыма выкарыстоўваць SIM-карту %1$d для выклікаў. Бягучы сеткавае асяроддзе не падтрымлівае працу з двума SIM-картамі.</string>
+  <string name="dsda_swap_call_prompt">Калі вы працягнеце, вы будзеце пераключаны на галасавы выклік.</string>
+  <string name="select_other_sim_card_dial">Выкарыстоўваць SIM-карту %1$d</string>
 </resources>

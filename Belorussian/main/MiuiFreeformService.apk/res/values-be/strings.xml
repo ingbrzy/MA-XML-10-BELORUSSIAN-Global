@@ -7,7 +7,7 @@
   <string name="bottom_bar_smallwindow_text">Адпусціце, каб замацаваць</string>
   <string name="clearable_edittext_clear_description">Ачысціць</string>
   <string name="close">Закрыць</string>
-  <string name="contentDescription">Перамяшчэнне вакна</string>
+  <string name="contentDescription">Перамяшчэнне акна</string>
   <string name="copy">Капіяваць</string>
   <string name="date_picker_lunar">Традыцыйны кітайскі каляндар</string>
   <string name="date_time_picker_dialog_title">Усталяваць дату і час</string>
@@ -33,7 +33,7 @@
   <string name="freeform_demo_title_skip">Назад</string>
   <string name="freeform_guide_slide_to_small_freeform_summary_pad">Пацягніце за кут, каб згарнуць праграму</string>
   <string name="freeform_guide_slide_to_small_freeform_summary_pad_global">Пацягніце за кут, каб згарнуць праграму</string>
-  <string name="freeform_slide_to_small_freeform">Згарнуць плаваючае вакно</string>
+  <string name="freeform_slide_to_small_freeform">Згарнуць плаваючае акно</string>
   <string name="freeform_slide_to_small_freeform_summary">Націсніце і ўтрымлівайце панэль дзеянняў і перацягнiце ў кут</string>
   <string name="friday">Пятніца</string>
   <string name="friday_short">Птн</string>
@@ -42,18 +42,18 @@
   <string name="fullscreen_slide_to_small_freeform_summary">Правядзіце ад ніжняй частцы экрана да правага верхняга кута</string>
   <string name="how_to_close_or_fullscreen_freeform">Закрыццё або пераключэнне ў поўнаэкранны рэжым</string>
   <string name="how_to_drop_down_to_fullscreen">Поўнаэкранны рэжым</string>
-  <string name="how_to_drop_down_to_fullscreen_summary">Пацягніце панэль дзеянняў плаваючага вакна ўніз</string>
+  <string name="how_to_drop_down_to_fullscreen_summary">Пацягніце панэль дзеянняў плаваючага акна ўніз</string>
   <string name="how_to_hang_freeform">Згортванне</string>
-  <string name="how_to_hang_to_small_freeform">Згортванне плаваючага вакна</string>
-  <string name="how_to_hang_to_small_freeform_summary">Перацягнiце плаваючае вакно ў кут экрана</string>
+  <string name="how_to_hang_to_small_freeform">Згортванне плаваючага акна</string>
+  <string name="how_to_hang_to_small_freeform_summary">Перацягнiце плаваючае акно ў кут экрана</string>
   <string name="how_to_move_freeform">Перамяшчэнне</string>
-  <string name="how_to_move_freeform_window">Перамяшчэнне плаваючага вакна</string>
-  <string name="how_to_move_freeform_window_summary">Утрымлівайце загаловак плаваючага вакна для перамяшчэння</string>
+  <string name="how_to_move_freeform_window">Перамяшчэнне плаваючага акна</string>
+  <string name="how_to_move_freeform_window_summary">Утрымлівайце загаловак плаваючага акна для перамяшчэння</string>
   <string name="how_to_notification_drop_down">Адкрыццё</string>
   <string name="how_to_notification_drop_down_summary">Зацісніце панэль дзеянняў апавяшчэння і пацягніце ўніз</string>
-  <string name="how_to_open_freeform">Адкрыццё апавяшчэнняў ў плаваючым вакне</string>
+  <string name="how_to_open_freeform">Адкрыццё апавяшчэнняў ў плаваючым акне</string>
   <string name="how_to_slide_up_to_close">Закрыццё</string>
-  <string name="how_to_slide_up_to_close_summary">Правядзіце уверх ад панэлі дзеянняў плаваючага вакна</string>
+  <string name="how_to_slide_up_to_close_summary">Правядзіце уверх ад панэлі дзеянняў плаваючага акна</string>
   <string name="how_to_use_freeform">Выкарыстанне плаваючых вокнаў</string>
   <string name="midnight">Ноч</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Адмяніць выбар</string>
@@ -111,9 +111,9 @@
   <string name="month_september_shortest">В</string>
   <string name="more">Больш</string>
   <string name="morning">Раніца</string>
-  <string name="multi_window_cvw_summary">Пацягніце за кут, каб пераключыцца на плаваючае вакно і адрэгуляваць яго памер</string>
-  <string name="multi_window_cvw_summary_global">Пацягніце за кут, каб пераключыцца на плаваючае вакно і адрэгуляваць яго памер</string>
-  <string name="multi_window_cvw_title">Плаваючае вакно</string>
+  <string name="multi_window_cvw_summary">Пацягніце за кут, каб пераключыцца на плаваючае акно і адрэгуляваць яго памер</string>
+  <string name="multi_window_cvw_summary_global">Пацягніце за кут, каб пераключыцца на плаваючае акно і адрэгуляваць яго памер</string>
+  <string name="multi_window_cvw_title">Плаваючае акно</string>
   <string name="night">Вечар</string>
   <string name="noon">Сярэдзіна дня</string>
   <string name="not_set">Не зададзена</string>
@@ -209,6 +209,6 @@
   <string name="wednesday_shortest">С</string>
   <string name="yesterday">Учора</string>
   <string name="freeform_guide_to_sidehide_summary">Хутка перацягнiце праграму да краю экрана, каб схаваць яе</string>
-  <string name="freeform_guide_to_sidehide_title">Утойванне плаваючага вакна</string>
+  <string name="freeform_guide_to_sidehide_title">Утойванне плаваючага акна</string>
   <string name="freeform_guide_to_sidehide_summary_pad">Хутка перацягнiце праграму да краю экрана, каб схаваць яе</string>
 </resources>

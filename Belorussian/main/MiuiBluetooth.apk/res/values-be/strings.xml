@@ -495,4 +495,7 @@
   <string name="miheadset_spatial_audio_headset">Навушнікі</string>
   <string name="miheadset_spatial_audio_not_support_headset">Аб\'ёмны гук у навушніках несумяшчальны з шматканальнымі крыніцамі</string>
   <string name="miheadset_spatial_audio_phone">Гэтая прылада</string>
+  <string name="headset_battery_low">Батарэя разраджана, падзарадзіце</string>
+  <string name="headset_connect_timeout">Час падлучэння скончыўся, паспрабуйце яшчэ раз</string>
+  <string name="headset_not_in_case">Навушнікі не ў футарале, паспрабуйце яшчэ раз</string>
 </resources>

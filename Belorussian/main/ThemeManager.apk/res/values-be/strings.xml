@@ -136,10 +136,10 @@
   <string name="common_downloading">Спампоўка…</string>
   <string name="common_format_date_no_year">dd.MM</string>
   <string name="common_skip">Прапусціць</string>
-  <string name="community_community_message_trigger_summary">Атрымліваць апавяшчэннi аб адказах, адзнаках і абнаўленнях статусу Mi Супольнасці, выкарыстоўваючы Mi акаўнт</string>
+  <string name="community_community_message_trigger_summary">Атрымліваць апавяшчэннi аб адказах, адзнаках і абнаўленнях статусу Mi Супольнасці, выкарыстоўваючы Xiaomi акаўнт</string>
   <string name="community_community_message_trigger_title">Апавяшчаць аб актыўнасці</string>
   <string name="community_cta_dialog_cancel">Не, дзякуй</string>
-  <string name="community_cta_dialog_des">Устаноўленыя тэмы цяпер падтрымліваюць віджэт Mi Супольнасці. Ён працуе як цэтлiк, які прыводзіць вас да падфорумаў Тэмы Mi Супольнасці. Вы можаце адключыць гэтую функцыю ў наладах.\nДазвольце тэмам доступ да вашага Mi акаўнта і статусу Mi Супольнасці, звязаным з уліковай запісам, каб мець магчымасць праглядаць іх тут. Вы таксама можаце ўключыць або адключыць апавяшчэннi аб актыўнасці Mi Супольнасці ў Наладах.</string>
+  <string name="community_cta_dialog_des">Устаноўленыя тэмы цяпер падтрымліваюць віджэт Mi Супольнасці. Ён працуе як цэтлiк, які прыводзіць вас да падфорумаў Тэмы Mi Супольнасці. Вы можаце адключыць гэтую функцыю ў наладах.\nДазвольце тэмам доступ да вашага Xiaomi акаўнта і статусу Mi Супольнасці, звязаным з уліковай запісам, каб мець магчымасць праглядаць іх тут. Вы таксама можаце ўключыць або адключыць апавяшчэннi аб актыўнасці Mi Супольнасці ў Наладах.</string>
   <string name="community_cta_dialog_ok">Дазволіць</string>
   <string name="community_cta_dialog_title">Неабходныя дазволы</string>
   <string name="community_entrance_summary">Знайдзіце звязаны з тэмай кантэнт у Mi Супольніцтве. Гэта функцыя падтрымліваецца абранымі тэмамі.</string>
@@ -407,10 +407,10 @@
   <string name="miui_lock_screen_date_two_lines_12">EEEE\nd MMMM</string>
   <string name="miui_lock_screen_large_date">EEE\ndd.M</string>
   <string name="miui_lock_screen_large_date_12">EEE\ndd.M</string>
-  <string name="miuishare_account_activate_confirmation">Актываваць Mi Акаўнт</string>
+  <string name="miuishare_account_activate_confirmation">Актываваць Xiaomi акаўнт</string>
   <string name="miuishare_account_activate_ok">Актывіраваць</string>
   <string name="miuishare_account_login_cancel">Адмена</string>
-  <string name="miuishare_account_login_confirmation">Увайсці ў Mi Акаўнт</string>
+  <string name="miuishare_account_login_confirmation">Увайсці ў Xiaomi акаўнт</string>
   <string name="miuishare_account_login_ok">Уваход</string>
   <string name="miuishare_account_need_activate">Патрабуецца аккаўнт Weibo, звязаны з вашым Mi аккаўнтам. Актывіруйце Мі аккаўнт.</string>
   <string name="miuishare_account_need_login">Патрабуецца аккаўнт Weibo, звязаны з вашым Mi аккаўнтам. Увайдзіце ў Мі аккаўнт.</string>
@@ -611,7 +611,7 @@
   <string name="resource_account_abnormal_state">Адбылася памылка. Пачакайце крыху, і паспрабуйце ізноў.</string>
   <string name="resource_account_fail_to_add">Не атрымалася дадаць акаўнт</string>
   <string name="resource_account_login">Увайсці</string>
-  <string name="resource_account_login_before_action">Увайдзіце ў Mi Акаўнт</string>
+  <string name="resource_account_login_before_action">Увайдзіце ў Xiaomi акаўнт</string>
   <string name="resource_account_login_title">Увайсці</string>
   <string name="resource_account_switch">Змяніць акаўнт</string>
   <string name="resource_alarm_default">Будзільнік</string>
@@ -1088,7 +1088,7 @@
   <string name="title_system_audio_notification_resource">Сістэмныя паведамленні</string>
   <string name="title_system_audio_resource">Сістэмныя мелодыі</string>
   <string name="title_system_wallpaper_resource">Сістэмныя шпалеры</string>
-  <string name="to_activate_the_account">Актывіруйце Mi Акаўнт зараз</string>
+  <string name="to_activate_the_account">Актывіруйце Xiaomi акаўнт зараз</string>
   <string name="today">Сёння</string>
   <string name="tomorrow">Заўтра</string>
   <string name="transparency_pref_summary">Выберыце ступень празрыстасці вашых шпалер</string>
@@ -1338,7 +1338,7 @@
   <string name="not_allow">Не прадастаўлена</string>
   <string name="pad_fold_exit_wallpaper_warning_content">Пасля выхаду з сістэмы вы не зможаце выконваць наступныя дзеянні:\nПраглядаць і выкарыстоўваць элементы, якія вы набылі або дадалі ў абранае.</string>
   <string name="pad_fold_exit_wallpaper_warning_title">Выйсці з рэжыму персаналізацыі?</string>
-  <string name="pad_fold_log_in_theme_detail"><Data>Я прачытаў і згодны з &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%1$s\"> Карыстальніцкай дамовай&lt;/a>&lt;/font> і &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%2$s\">Палітыкай прыватнасці&lt;/a>&lt;/font> персаналізацыі, а таксама &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Карыстальніцкай дамовай&lt;/a>&lt;/font>&lt;font color=\ "#37A5FF\"> і &lt;a href=\"%4$s\">Палітыкай прыватнасці&lt;/a>&lt;/font> Mi акаўнта.</Data></string>
+  <string name="pad_fold_log_in_theme_detail"><Data>Я прачытаў і згодны з &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%1$s\"> Карыстальніцкай дамовай&lt;/a>&lt;/font> і &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%2$s\">Палітыкай прыватнасці&lt;/a>&lt;/font> персаналізацыі, а таксама &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Карыстальніцкай дамовай&lt;/a>&lt;/font>&lt;font color=\ "#37A5FF\"> і &lt;a href=\"%4$s\">Палітыкай прыватнасці&lt;/a>&lt;/font> Xiaomi акаўнта.</Data></string>
   <string name="pad_fold_log_in_wallpaper">Увайсці ў сістэму персаналізацыі</string>
   <string name="pad_fold_no_permission">Патрабуюцца дазволы на сховішча</string>
   <string name="pad_fold_no_permission_detail">Каб мець магчымасць змяняць налады персаналізацыі і захоўваць загружаныя элементы, спачатку дазвольце гэтай функцыі доступ да сховішча.</string>
@@ -1346,7 +1346,7 @@
   <string name="phone_exit_theme_warning_content">Пасля выхаду з сістэмы вы не зможаце выконваць наступныя дзеянні:\n1. Праглядаць і выкарыстоўваць элементы, якія вы набылі ці дадалі ў абранае.\n2. Дадаваць каментары і лайкі, падпісвацца на іншых людзей і размаўляць з імі.</string>
   <string name="phone_exit_theme_warning_title">Выйсці з тэм?</string>
   <string name="phone_log_in_theme">Увайсці ў тэмы</string>
-  <string name="phone_log_in_theme_detail"><Data>Я прачытаў і згодны з &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%1$s\"> Карыстальніцкай дамовай&lt;/a>&lt;/font> і &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%2$s\">Палітыкай прыватнасці&lt;/a>&lt;/font> Тэм, а таксама &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Карыстальніцкай дамовай&lt;/a>&lt;/font>&lt;font color=\ "#37A5FF\"> і &lt;a href=\"%4$s\">Палітыкай прыватнасці&lt;/a>&lt;/font> Mi акаўнта.</Data></string>
+  <string name="phone_log_in_theme_detail"><Data>Я прачытаў і згодны з &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%1$s\"> Карыстальніцкай дамовай&lt;/a>&lt;/font> і &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%2$s\">Палітыкай прыватнасці&lt;/a>&lt;/font> Тэм, а таксама &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Карыстальніцкай дамовай&lt;/a>&lt;/font>&lt;font color=\ "#37A5FF\"> і &lt;a href=\"%4$s\">Палітыкай прыватнасці&lt;/a>&lt;/font> Xiaomi акаўнта.</Data></string>
   <string name="pref_read_write_function_detail">Для змены налад персаналізацыі і захаванні загружаных элементаў</string>
   <string name="pref_reading_the_application_list_detail">Для выкарыстання празрыстых шпалер</string>
   <string name="privacy_action_failed_net_content">Адбылася сеткавая памылка. Пачакайце хвіліну ці дзве і паспрабуйце яшчэ раз.</string>
@@ -1406,7 +1406,7 @@
   <string name="privacy_phone_revoke_agree_content_3">3. Усе тэмы, шпалеры, дынамічныя шпалеры, шрыфты, значкі і мелодыі званка загружаныя на гэтую прыладу.</string>
   <string name="privacy_phone_revoke_agree_content_4">4. Усе запісы гісторыі пошуку, наладкі дазволаў, наладкі і кэшаваныя элементы, створаныя на гэтай прыладзе.</string>
   <string name="privacy_phone_revoke_agree_detail_content_1">1. Перш чым працягваць, пераканайцеся, што ў вас ёсць права адклікаць згоду.\n2. Ваш водгук згоды з Палітыкай прыватнасцi Тэм не паўплывае на нармальнае выкарыстанне іншых прадуктаў Xiaomi.\n3. Водгук згоды з\'яўляецца незваротным дзеяннем. Перш чым працягнуць, зрабіце рэзервовую копію ўсіх важных элементаў, бо яны могуць быць выдалены незваротна. Памятайце, што вы не зможаце перагледзець сваё рашэнне пасля адклікання згоды. Наступныя дадзеныя будуць беззваротна выдалены або ананімаваны пасля адклікання згоды (за выключэннем выпадкаў, прадугледжаных законамі і нарматыўнымі актамі):</string>
-  <string name="privacy_phone_revoke_agree_detail_content_2">Усе замовы (уключаючы аплачаныя), зробленыя на прыладах Xiaomi, на якіх вы выкарыстоўвалі свой Mi акаўнт. Вы больш не зможаце выкарыстоўваць набытыя элементы.\nУся інфармацыя аб вашых лайках, каментарах, рэйтынгах і падпісчыках, створаная на прыладах Xiaomi, на якіх вы выкарыстоўвалі свой уліковы запіс Mi.\nУсе тэмы, шпалеры, дынамічныя шпалеры, шрыфты, значкі і мелодыi, загружаныя на гэтую прыладу.\nУсе запісы гісторыі пошуку, налады дазволаў, наладкі і кэшаваныя элементы, створаныя на гэтай прыладзе.\nУсе элементы персаналізацыі, якія выкарыстоўваюцца цяпер на гэтай прыладзе. Параметры персаналізацыі па змаўчанні будуць адноўлены.</string>
+  <string name="privacy_phone_revoke_agree_detail_content_2">Усе замовы (уключаючы аплачаныя), зробленыя на прыладах Xiaomi, на якіх вы выкарыстоўвалі свой Xiaomi акаўнт. Вы больш не зможаце выкарыстоўваць набытыя элементы.\nУся інфармацыя аб вашых лайках, каментарах, рэйтынгах і падпісчыках, створаная на прыладах Xiaomi, на якіх вы выкарыстоўвалі свой уліковы запіс Mi.\nУсе тэмы, шпалеры, дынамічныя шпалеры, шрыфты, значкі і мелодыi, загружаныя на гэтую прыладу.\nУсе запісы гісторыі пошуку, налады дазволаў, наладкі і кэшаваныя элементы, створаныя на гэтай прыладзе.\nУсе элементы персаналізацыі, якія выкарыстоўваюцца цяпер на гэтай прыладзе. Параметры персаналізацыі па змаўчанні будуць адноўлены.</string>
   <string name="privacy_phone_revoke_agree_detail_content_3">4. Пасля таго, як вы адгукнеце сваю згоду з Палітыкай прыватнасці тым, мы перастанем збіраць вашу асабістую інфармацыю. Ужо сабраная і захаваная асабістая інфармацыя будзе выдалена на працягу пэўнага перыяду ў адпаведнасці з прымяняльнымі законамі і пастановамі.\n5. Водгук згоды не мае на ўвазе вызвалення ці змякчэння адказнасці ў дачыненні да дзеянняў, выкананых да адклікання згоды.</string>
   <string name="privacy_phone_revoke_agree_detail_prompt">Заява аб адкліканні згоды на Палітыку прыватнасці Тэм</string>
   <string name="privacy_phone_revoke_agree_detail_title">Прачытайце і прыміце \"Заяву аб адкліканні згоды на Палітыку прыватнасці Тэм\" перад тым, як адклікаць сваю згоду.</string>
@@ -1416,15 +1416,15 @@
   <string name="privacy_read_the_updated_privacy_policy_content">Прачытайце і прыміце новую версію &lt;font color =\'#37A5FF\'>&lt;a href=\'%1$s\'>Палітыкі прыватнасці&lt;/a> перш чым працягнуць.</string>
   <string name="privacy_reading_the_application_list">Доступ да спісу праграм, усталяваных на гэтай прыладзе</string>
   <string name="privacy_revoke_agree_content">Водгук згоды</string>
-  <string name="privacy_revoke_agree_content_1">1. Усе замовы (уключаючы аплачаныя), зробленыя на прыладах Xiaomi, на якіх вы выкарыстоўвалі свой Mi акаўнт. Вы больш не зможаце выкарыстоўваць набытыя элементы.</string>
-  <string name="privacy_revoke_agree_content_2">2. Уся інфармацыя аб вашых лайках, каментарах, рэйтынгах і падпісантах, згенераваная на прыладах Xiaomi, на якіх вы выкарыстоўвалі свой Mi акаўнт.</string>
+  <string name="privacy_revoke_agree_content_1">1. Усе замовы (уключаючы аплачаныя), зробленыя на прыладах Xiaomi, на якіх вы выкарыстоўвалі свой Xiaomi акаўнт. Вы больш не зможаце выкарыстоўваць набытыя элементы.</string>
+  <string name="privacy_revoke_agree_content_2">2. Уся інфармацыя аб вашых лайках, каментарах, рэйтынгах і падпісантах, згенераваная на прыладах Xiaomi, на якіх вы выкарыстоўвалі свой Xiaomi акаўнт.</string>
   <string name="privacy_revoke_agree_content_5">5. Усе элементы персаналізацыі, якія ў цяперашні час выкарыстоўваюцца на гэтай прыладзе. Налады персаналізацыі па змаўчанні будуць адноўлены.</string>
   <string name="privacy_revoke_agree_data_warning">Наступныя дадзеныя будуць канчаткова выдаленыя або ананімаваныя пасля адклікання згоды (акрамя выпадкаў, прадугледжаных законамі і нарматыўнымі актамі ці іншым чынам патрабаваных якія рэгулююць органамі):</string>
   <string name="privacy_revoke_succeed">Згода адклікана паспяхова</string>
   <string name="privacy_revoking_warning">Водгук згоды…</string>
   <string name="privacy_update_prompt_title">Абноўленая палітыка прыватнасці</string>
   <string name="private_pad_fold_revoke_agree_detail_content_1">1. Перш чым працягваць, пераканайцеся, што ў вас ёсць права адклікаць згоду.\n2. Ваш водгук згоды з Палітыкай прыватнасці шпалер і персаналізацыі не паўплывае на нармальнае выкарыстанне іншых прадуктаў Xiaomi.\n3. Водгук згоды з\'яўляецца незваротным дзеяннем. Перш чым працягнуць, зрабіце рэзервовую копію ўсіх важных элементаў, бо яны могуць быць выдалены незваротна. Памятайце, што вы не зможаце перагледзець сваё рашэнне пасля адклікання згоды. Наступныя дадзеныя будуць беззваротна выдалены або ананімаваны пасля адклікання згоды (за выключэннем выпадкаў, прадугледжаных законамі і нарматыўнымі актамі):</string>
-  <string name="private_pad_fold_revoke_agree_detail_content_2">Усе замовы (уключаючы аплачаныя), зробленыя на прыладах Xiaomi, на якіх вы выкарыстоўвалі свой Mi акаўнт. Вы больш не зможаце выкарыстоўваць набытыя элементы.\nУся інфармацыя аб вашых лайках, каментарах, рэйтынгах і падпісчыках, створаная на прыладах Xiaomi, на якіх вы выкарыстоўвалі свой Mi акаўнт.\nУсе шпалеры, шрыфты і мелодыi, загружаныя на гэту прыладу.\nУсе наладкі. дазволаў, наладкі і кэшаваныя элементы, створаныя на гэтай прыладзе.\nУсе элементы персаналізацыі, якія ў цяперашні час выкарыстоўваюцца на гэтай прыладзе. Параметры персаналізацыі па змаўчанні будуць адноўлены.</string>
+  <string name="private_pad_fold_revoke_agree_detail_content_2">Усе замовы (уключаючы аплачаныя), зробленыя на прыладах Xiaomi, на якіх вы выкарыстоўвалі свой Xiaomi акаўнт. Вы больш не зможаце выкарыстоўваць набытыя элементы.\nУся інфармацыя аб вашых лайках, каментарах, рэйтынгах і падпісчыках, створаная на прыладах Xiaomi, на якіх вы выкарыстоўвалі свой Xiaomi акаўнт.\nУсе шпалеры, шрыфты і мелодыi, загружаныя на гэту прыладу.\nУсе наладкі. дазволаў, наладкі і кэшаваныя элементы, створаныя на гэтай прыладзе.\nУсе элементы персаналізацыі, якія ў цяперашні час выкарыстоўваюцца на гэтай прыладзе. Параметры персаналізацыі па змаўчанні будуць адноўлены.</string>
   <string name="private_pad_fold_revoke_agree_detail_content_3">4. Пасля таго, як вы адгукнеце сваю згоду з Палітыкай прыватнасці шпалер і персаналізацыі, мы перастанем збіраць вашу асабістую інфармацыю. Ужо сабраная і захаваная асабістая інфармацыя будзе выдалена на працягу пэўнага перыяду ў адпаведнасці з прымяняльнымі законамі і пастановамі.\n5. Водгук згоды не мае на ўвазе вызвалення ці змякчэння адказнасці ў дачыненні да дзеянняў, выкананых да адклікання згоды.</string>
   <string name="theme_log_out">Выхад</string>
   <string name="apply_warning_get_device_dialog_message">Каб мець магчымасць выкарыстоўваць загружаны кантэнт, спачатку дазвольце гэтай функцыі атрымаць доступ да ідэнтыфікатара вашай прылады. Вы можаце прадаставіць гэты дазвол у Наладах > Прыватнасць.</string>
@@ -1448,7 +1448,7 @@
   <string name="privacy_select_mode">Абярыце рэжым</string>
   <string name="privacy_select_mode_desc">Паколькі вы не пагадзіліся з нашай Палітыкай прватнасцi, абярыце адзін з наступных рэжымаў:</string>
   <string name="prvicay_permission_not_allow_desc">Гэтай праграме патрабуецца доступ да сховішча, каб выдаліць усе дадзеныя, створаныя на гэтай прыладзе. Без гэтага дазволу некаторыя дадзеныя не могуць быць выдалены. Усё роўна адмяніць сэрвісы?\nВы можаце даць гэты дазвол у Наладах > Прыватнасць.</string>
-  <string name="read_and_agree_account_privacy"><Data>Я згодны з &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Карыстальніцкай дамовай&lt;/a>&lt;/font> i &lt;font color=\"#37A5FF\">&lt;a href=\"%4$s\">Палітыкай прватнасцi&lt;/a>&lt;/font> Mi акаўнта.</Data></string>
+  <string name="read_and_agree_account_privacy"><Data>Я згодны з &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Карыстальніцкай дамовай&lt;/a>&lt;/font> i &lt;font color=\"#37A5FF\">&lt;a href=\"%4$s\">Палітыкай прватнасцi&lt;/a>&lt;/font> Xiaomi акаўнта.</Data></string>
   <string name="trans_wallpaper_offline_notice">Празрыстыя шпалеры недаступныя</string>
   <string name="accessibiliy_ad">Рэклама</string>
   <string name="app_name_pad">Персаналізацыя</string>
@@ -1529,7 +1529,7 @@
   <string name="deep_sea">Глыбокаводдзе</string>
   <string name="deep_sea_resource_comment">Узнікненне жыцця на Зямлі</string>
   <string name="exchange_code_dialog_title">Увага</string>
-  <string name="exchange_code_not_match_account_dialog_content">Гэты код ужо быў актываваны іншым Mi акаўнтам. Увайдзіце ў гэты Mi акаўнт і паспрабуйце яшчэ раз.</string>
+  <string name="exchange_code_not_match_account_dialog_content">Гэты код ужо быў актываваны іншым Xiaomi акаўнтам. Увайдзіце ў гэты Xiaomi акаўнт і паспрабуйце яшчэ раз.</string>
   <string name="local_mode">Аўтаномны рэжым</string>
   <string name="local_mode_close">Выключыць аўтаномны рэжым?</string>
   <string name="local_mode_close_desc">Выключыце аўтаномны рэжым, калі жадаеце выкарыстоўваць анлайн-сэрвісы. Выключыць?</string>
@@ -1539,8 +1539,8 @@
   <string name="repeat_exchange_dialog_content">Немагчыма актываваць код. Праверыць, якія іншыя ўзнагароды даступныя зараз?</string>
   <string name="repeat_exchange_dialog_positive_btn">Праверыць</string>
   <string name="repeat_exchange_dialog_title">Паўтарыць спробу</string>
-  <string name="superwallpaper_has_bound_account_dialog_content">Гэтыя шпалеры ўжо злучаны з іншым Mi акаўнтам. Увайдзіце ў гэты Mi акаўнт і паспрабуйце яшчэ раз.</string>
-  <string name="theme_need_login_dialog_content">Каб працягнуць, увайдзіце ў свой Mi акаўнт.</string>
+  <string name="superwallpaper_has_bound_account_dialog_content">Гэтыя шпалеры ўжо злучаны з іншым Xiaomi акаўнтам. Увайдзіце ў гэты Xiaomi акаўнт і паспрабуйце яшчэ раз.</string>
+  <string name="theme_need_login_dialog_content">Каб працягнуць, увайдзіце ў свой Xiaomi акаўнт.</string>
   <string name="theme_version_need_update_prompt_dialog_content">Абнавіце тэмы да версіі %s або вышэй, каб працягнуць</string>
   <string name="application_notify_title">Увага</string>
   <string name="configure_success_not_enable_aod">Ужыта паспяхова. Уключыце рэжым \"Заўсёды на экране\", каб тэма прымянілася.</string>
@@ -1572,4 +1572,6 @@
   <string name="toast_transparent_wallpaper_filter_set_failured">Немагчыма прымяніць</string>
   <string name="toast_transparent_wallpaper_filter_set_successfully">Ужыта паспяхова</string>
   <string name="de_order">№ %1$d</string>
+  <string name="no_used_title">Не выкарыстоўваецца</string>
+  <string name="no_used_wallpaper">Не выкарыстоўваецца</string>
 </resources>

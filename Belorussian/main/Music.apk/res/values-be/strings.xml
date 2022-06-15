@@ -1360,5 +1360,9 @@
   <string name="gps_prompt_context">Выкарыстоўваць для спампоўкі мабільны інтэрнэт?</string>
   <string name="gps_prompt_title">Увага</string>
   <string name="party">Вечарынка</string>
-  <string name="content_failed_to_load">Не атрымалася загрузіць кантэнт</string>
+  <string name="content_failed_to_load">Не атрымалася загрузіць змесціва</string>
+  <string name="entertainment">Забавы</string>
+  <string name="ludo_tab_guide">Новыя музычныя пакоі</string>
+  <string name="welcome_to_entertainment">Азнаёмцеся з новай функцыяй «Забавы» для музычных гульняў і шмат чаго іншага</string>
+  <string name="yandex_ads_internal_after_timer_value">сек.</string>
 </resources>

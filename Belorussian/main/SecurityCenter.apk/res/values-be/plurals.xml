@@ -1310,4 +1310,9 @@
         <item quantity="other">%d хв.</item>
         <item quantity="one">%d хв.</item>
     </plurals>
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="other">%d новых апавяшчэнняў</item>
+    <item quantity="few">%d новых апавяшчэння</item>
+    <item quantity="one">%d новае апавяшчэнне</item>
+  </plurals>
 </resources>

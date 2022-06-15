@@ -86,7 +86,7 @@
   <string name="check_WI_FI">Выяўленая сетка Wi-Fi</string>
   <string name="choose_open_code_app">Выбраць праграму</string>
   <string name="choose_pay_title">Выберыце спосаб аплаты</string>
-  <string name="choose_picture">Выбраць выяву з QR-кодам</string>
+  <string name="choose_picture">Выбраць малюнак з QR-кодам</string>
   <string name="choosed_title">Абрана</string>
   <string name="classes_canfirmTitle">Пацвердзіце вынікі і пачніце імпарт</string>
   <string name="classes_company">Імпарт</string>
@@ -187,7 +187,7 @@
   <string name="error_camera_disabled">Доступ да камеры быў забаронены з-за меркаванняў бяспекі</string>
   <string name="error_cannot_connect_camera">Не атрымалася падключыцца да камеры</string>
   <string name="error_empty_result">Нічога не знайшлося</string>
-  <string name="error_get_image">Немагчыма атрымаць выяву</string>
+  <string name="error_get_image">Немагчыма атрымаць малюнак</string>
   <string name="error_media_storage_failure">Не атрымалася захаваць фота</string>
   <string name="error_not_found_activity">Праграма для адкрыцця файла ў фармаце PDF не знойдзена</string>
   <string name="error_permissions">Сканар не мае дазволаў, патрэбных для яго звычайнай работы. Каб працягнуць, перайдзіце ў Налады і праверце дазволы.</string>
@@ -246,7 +246,7 @@
   <string name="fmt_time_second_millis">s.S</string>
   <string name="fmt_weekday_long">EEEE</string>
   <string name="fmt_weekday_short">E</string>
-  <string name="food_identification_fail_tips">Сканаванне садавіны, гародніны і іншай ежы. Гэтая функцыя таксама працуе з выявамі.</string>
+  <string name="food_identification_fail_tips">Сканаванне садавіны, гародніны і іншай ежы. Гэтая функцыя таксама працуе з малюнкамі.</string>
   <string name="food_identification_tip_msg">Распазнаванне ежы…</string>
   <string name="food_make_complaints_hint">Увядзіце водгук тут</string>
   <string name="food_module_feedback_str">Зваротная сувязь</string>
@@ -304,7 +304,7 @@
   <string name="keywords_search_study">Сканар; праблемы; Вырашыць праблемы; Хатняе заданне; школа; фізіка; хімія; матэматыка; матэматыка; англійская; гісторыя; кітайскі</string>
   <string name="keywords_search_translation">Сканар; перавесці; слоўнік; англійская; Замежная мова; мова; Мовы; Англійская на кітайскі; італьянскі; нямецкі; японскі; карэйская; іспанскі; французскі; Пераклад Baidu; Слоўнік Youdao; Слоўнік Baidu; перакладчык Google</string>
   <string name="kuaidi100_data">Прадастаўлена Kuaidi 100</string>
-  <string name="label_choose_picture">Выберыце выяву</string>
+  <string name="label_choose_picture">Выберыце малюнак</string>
   <string name="label_flash_light">Успышка</string>
   <string name="label_flash_light_off">Ліхтарык выключаны</string>
   <string name="label_flash_light_on">Ліхтарык уключаны</string>
@@ -399,7 +399,7 @@
   <string name="monitoringCHeck_pause">Тайм-аўт</string>
   <string name="monitoringCheck_success">Паспяхова</string>
   <string name="monitoringCheck_title">Калі ласка, сядзьце прама і паглядзіце на экран анлайн-ўрока</string>
-  <string name="monitoringCheck_titleFail">Выяўленне не ўдалося\nРазмесціце прыладу як на выяве і паспрабуйце яшчэ раз</string>
+  <string name="monitoringCheck_titleFail">Выяўленне не ўдалося\nРазмесціце прыладу як на малюнку і паспрабуйце яшчэ раз</string>
   <string name="monitoringCheck_willStart">Запіс вось-вось пачнецца</string>
   <string name="monitoringHistory_rename">Перайменаваць</string>
   <string name="monitoringHistory_renameAlert">Перайменаваць запіс</string>
@@ -470,7 +470,7 @@
   <string name="online_ocr_recognition_str">Ужо перайшлі на анлайн-пераклад</string>
   <string name="online_translation">Анлайн-пераклад</string>
   <string name="open_url">Перайсцi</string>
-  <string name="original_image">Зыходная выява</string>
+  <string name="original_image">Зыходны малюнак</string>
   <string name="page_does_not_exist">Старонка не існуе, перайсці нельга</string>
   <string name="password_toggle_content_description">Паказаць пароль</string>
   <string name="pay_no_tip">Больш не паказваць</string>
@@ -598,7 +598,7 @@
   <string name="savaPhoto">QR-код не створаны</string>
   <string name="save">Захаваць</string>
   <string name="save_as_PDF">Захаваць як PDF</string>
-  <string name="save_as_picture">Захаваць як выяву</string>
+  <string name="save_as_picture">Захаваць як малюнак</string>
   <string name="save_fail">Не ўдалося захаваць</string>
   <string name="save_pictures_repeatedly">Паўторнае захаванне выяў</string>
   <string name="save_sucess">Паспяхова захавана</string>
@@ -628,9 +628,9 @@
   <string name="setting_title">Налады</string>
   <string name="setting_use_last_choose">Запомніць папярэдні выбар</string>
   <string name="setting_wechat">WeChat</string>
-  <string name="share">Адправiць</string>
-  <string name="share_as_PDF">Адправiць як PDF</string>
-  <string name="share_as_picture">Адправiць як выяву</string>
+  <string name="share">Падзяліцца</string>
+  <string name="share_as_PDF">Падзяліцца ў PDF</string>
+  <string name="share_as_picture">Падзяліцца як малюнак</string>
   <string name="share_format">Фармат дакумента</string>
   <string name="shopping_searching">Пошук…</string>
   <string name="shopping_title">Зрабіце фота тавару</string>
@@ -881,7 +881,7 @@
   <string name="scan_form_top_tip">Сканаваць, захоўваць і рэдагаваць табліцы</string>
   <string name="scan_general_top_tip">Распазнаванне раслін, людзей і прадуктаў</string>
   <string name="scan_support_type_new">Сканаваць QR або штрых-код</string>
-  <string name="scan_text">Сканаванне тэксту</string>
+  <string name="scan_text">Сканаваць тэкст</string>
   <string name="scan_text_top_tip">Распазнаванне і капіяванне тэксту</string>
   <string name="scan_translate_top_tip">Перавесці ўвесь тэкст на фатаграфіі</string>
   <string name="share_error">Не атрымалася падзяліцца</string>
@@ -907,4 +907,10 @@
   <string name="toast_net_timeout">Час чакання запыту скончыўся. Паўтарыце спробу пазней.</string>
   <string name="location_permission_message">Для падлучэння кода Wi-Fi</string>
   <string name="location_permissions_text">Націсніце кнопку \"Налады\", каб дазволіць выкарыстоўваць месцазнаходжанне</string>
+  <string name="not_permissions_hint">Камерай можна нармальна карыстацца толькі пасля прадастаўлення дазволу камеры!</string>
+  <string name="not_permissions_title">Напамін</string>
+  <string name="word_limit_prompt">Перавышана %d слоў</string>
+  <string name="xiaomi_market_sdk_update_dialog_cancel">Не цяпер</string>
+  <string name="xiaomi_market_sdk_update_dialog_ok">Абнавіць</string>
+  <string name="xiaomi_market_sdk_update_dialog_title">Даступна абнаўленне</string>
 </resources>

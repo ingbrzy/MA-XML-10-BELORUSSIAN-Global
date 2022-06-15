@@ -1488,4 +1488,6 @@
   <string name="system_permission_user_privacy">Перш чым працягнуць, прачытайце і прыміце наступныя палажэнні і ўмовы.</string>
   <string name="title_not_show_read_mms_perm_req">Патрабуюцца дазволы</string>
   <string name="toast_not_show_read_mms_perm_req">Каб мець магчымасць праглядаць атрыманыя паведамленнi, вам неабходна даць Паведамленням дазвол на чытанне SMS і MMS. Вы можаце надаць гэты дазвол у наладах.</string>
+  <string name="sticked">Замацавана паспяхова</string>
+  <string name="unsticked">Адмацавана паспяхова</string>
 </resources>

@@ -202,7 +202,7 @@
   <string name="vivo">vivo</string>
   <string name="vivo_phone">vivo</string>
   <string name="wait_receive_file">У чаканні атрымання</string>
-  <string name="wait_remote_receive_tips">Чаканне…</string>
+  <string name="wait_remote_receive_tips">Пераканайцеся, што на абедзвюх прыладах уключаны Wi-Fi і Bluetooth, і ўключаны экран</string>
   <string name="wifi_is_not_enabled">Спачатку уключыце Wi-Fi</string>
   <string name="xiaomi">Mi</string>
   <string name="xiaomi_6">Mi 6</string>
@@ -424,4 +424,9 @@
   <string name="menu_pc_open">Адкрыць на кап\'ютары</string>
   <string name="lenovo_phone">Lenovo</string>
   <string name="error_ble_connect_failure">Немагчыма падключыць Bluetooth атрымальніка</string>
+  <string name="error_ble_connect_timeout">Злучэнне па Bluetooth не ўдалося, рэкамендуецца перазапусціць Bluetooth абедзвюх прылад і адправіць зноў</string>
+  <string name="error_msg_wlan_error">Немагчыма ўсталяваць злучэнне, рэкамендуецца перазапусціць Wi-Fi абедзвюх прылад і адправіць зноўку</string>
+  <string name="error_p2p_create_group_failure">Не атрымалася ўсталяваць злучэнне, рэкамендуецца перазапусціць Wi-Fi абедзвюх прылад і адправіць зноў</string>
+  <string name="error_p2p_recv_connect_timeout">Не атрымалася ўсталяваць злучэнне, рэкамендуецца перазапусціць Wi-Fi абедзвюх прылад і паўтарыць адпраўку</string>
+  <string name="tips_p2p_support_use5g">Для адпраўкі і атрымання паведамленняў рэкамендуецца выкарыстоўваць сетку Wi-Fi 5G</string>
 </resources>

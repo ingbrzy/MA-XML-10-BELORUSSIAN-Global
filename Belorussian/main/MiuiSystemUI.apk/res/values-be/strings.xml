@@ -2651,4 +2651,5 @@
   <string name="traffic_unit_kilobyte">" КБ"</string>
   <string name="traffic_unit_megabyte">" МБ"</string>
   <string name="tip_close_flares">Вы не будзеце атрымліваць апавяшчэнні аб дзеяннях праграмы падчас гэтага сеансу</string>
+  <string name="quick_settings_low_battery_toast_text">Немагчыма выкарыстоўваць ліхтарык. Занадта нізкі зарад батарэі.</string>
 </resources>

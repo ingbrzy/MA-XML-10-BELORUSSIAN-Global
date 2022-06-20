@@ -255,7 +255,7 @@
   <string name="notificationxylophone">Ксілафон</string>
   <string name="onehour">30 хвілін</string>
   <string name="open_close_tip_action">OK</string>
-  <string name="open_close_tip_content">Каб закрыць ўсплывальнае акно, націсніце і ўтрымлівайце панэль дзеянняў, а затым правядзіце уверх</string>
+  <string name="open_close_tip_content">Каб закрыць ўсплываючае акно, націсніце і ўтрымлівайце панэль дзеянняў, а затым правядзіце уверх</string>
   <string name="orange">Памяранец</string>
   <string name="package_delete_confirm_step_1">Выдаліць %s?</string>
   <string name="package_delete_confirm_step_2">Выдаленне гэтай праграмы можа прывесці да нестабільнасці сістэмы.</string>
@@ -357,7 +357,7 @@
   <string name="security_permission_open_wifi_settings">Налады Wi-Fi</string>
   <string name="security_permission_validate_warning">Дзякуй, вы дапамагаеце зрабіць MIUI лепш!</string>
   <string name="security_permission_wifi_and_data_opened_text">Wi-Fi і мабільны інтэрнэт уключаны</string>
-  <string name="security_permission_xiaomi_account_missed_text">Увядзіце ID свайго Mi Акаўнта</string>
+  <string name="security_permission_xiaomi_account_missed_text">Увядзіце ID свайго Xiaomi акаўнта</string>
   <string name="security_share_text">Абарона прыватнасці</string>
   <string name="select">Выбраць</string>
   <string name="select_all">Выбраць усё</string>
@@ -396,7 +396,7 @@
   <string name="standard_description">Адключэнне гуку для ўваходных выклікаў і апавяшчэнняў</string>
   <string name="standard_title">Без гуку</string>
   <string name="start_dump_log">Пачаць збор журналаў праблем</string>
-  <string name="start_security_permission_verify_text">Праверце дазволы з дапамогай вашага Mi Акаўнта</string>
+  <string name="start_security_permission_verify_text">Праверце дазволы з дапамогай вашага Xiaomi акаўнта</string>
   <string name="status_bar_toggle_auto_brightness">Яркасць</string>
   <string name="status_bar_toggle_battery_saver">Энергазберажэнне</string>
   <string name="status_bar_toggle_bluetooth">Bluetooth</string>
@@ -558,5 +558,10 @@
   <string name="unreplace_freeform_count_max">Не атрымлiваецца адкрыць дадатковыя плаваючыя вокны</string>
   <string name="disable_nfc_haptic_reverse">NFC і вібрацыя адключаныя для зваротнай бесправадной зарадкі</string>
   <string name="enable_nfc_haptic_reverse">Рэверсіўная зарадка спынена. NFC і вібрацыя зноў уключаныя.</string>
-  <string name="kb_reset_toast">Клавіятура паспяхова скінута</string>
+  <string name="kb_reset_toast">Налады клавіятуры скінуты</string>
+  <string name="nps_ContentText">Націсніце, каб даведацца падрабязней</string>
+  <string name="nps_ContentTitle">Пошук GPS</string>
+  <string name="nps_description">Апавяшчэнне аб стане GPS</string>
+  <string name="nps_mock_description">Выкарыстоўваецца віртуальнае месцазнаходжанне, для аднаўлення патрабуецца перазагрузка</string>
+  <string name="nps_monitor_name">Месцазнаходжанне GPS</string>
 </resources>

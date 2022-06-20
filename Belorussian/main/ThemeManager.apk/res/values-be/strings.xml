@@ -1574,4 +1574,6 @@
   <string name="de_order">№ %1$d</string>
   <string name="no_used_title">Не выкарыстоўваецца</string>
   <string name="no_used_wallpaper">Не выкарыстоўваецца</string>
+  <string name="wallpaper_apply_inner">Ужыць да ўнутранага экрана</string>
+  <string name="wallpaper_apply_outer">Ужыць да знешняга экрана</string>
 </resources>

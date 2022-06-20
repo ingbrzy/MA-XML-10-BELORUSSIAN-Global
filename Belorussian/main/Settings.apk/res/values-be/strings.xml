@@ -10573,4 +10573,5 @@ ID:%s
   <string name="sunlight_low_power_notification">Немагчыма ўключыць рэжым сонечнага святла. Занадта нізкі ўзровень зарада батарэі.</string>
   <string name="sim_status_title_sim_softbank">SIM статус %1$d</string>
   <string name="status_number_sim_softbank">Нумар тэлефона %1$d</string>
+  <string name="location_description_no_gps">Гэтыя прылады не падтрымліваюць спадарожнікавую навігацыю. Інфармацыя аб месцазнаходжанні, створаная на аснове сеткавых дадзеных, можа быць недастатковай для некаторых функцый.</string>
 </resources>

@@ -61,9 +61,9 @@
   <string name="enable_midrop">Адкрыць</string>
   <string name="error_ap_in_use">Немагчыма адправіць файлы на іншыя прылады, калі ўключаны пунет доступу</string>
   <string name="error_ap_or_screen_already_hosting">Немагчыма адпраўляць элементы на іншыя прылады падчас трансляцыі або выкарыстання мабільнага пункту доступу.</string>
-  <string name="error_device_lost">Падобна на тое, што іншая прылада недаступна. Пачакайце хвіліну ці дзве, і паспрабуйце зноў.</string>
+  <string name="error_device_lost">Падобна, іншая прылада не адказвае. Пачакайце хвіліну ці дзве і паспрабуйце яшчэ раз.</string>
   <string name="error_has_occurred">Адбылася памылка</string>
-  <string name="error_msg_network_error">Адбылася памылка сеткі. Паспрабуйце зноў.</string>
+  <string name="error_msg_network_error">Не атрымалася падлучыцца да сеткі. Праверце злучэнні Wi-Fi і Bluetooth абедзвюх прылад.</string>
   <string name="error_receive_file_cannot_read">Не атрымалася атрымаць файл</string>
   <string name="error_receive_file_changed">файл быў зменены, атрыманне перапынена</string>
   <string name="error_receive_file_file_opened">Не атрымалася атрымаць гэты элемент. Падобна на тое, што ён зараз выкарыстоўваецца.</string>
@@ -78,7 +78,7 @@
   <string name="error_send_file_no_enough_space">У іншага боку недастаткова месцы для захоўвання</string>
   <string name="error_send_file_not_found">Файл быў зменены, паўтарыце...</string>
   <string name="error_send_file_service_disabled">Адмененая выходная перадача</string>
-  <string name="error_send_transfer_error">Узнікаюць праблемы перадачы, калі ласка, паўтарыце</string>
+  <string name="error_send_transfer_error">Немагчыма адправіць элементы. Пачакайце хвіліну ці дзве і паспрабуйце яшчэ раз.</string>
   <string name="error_slave_wifi_in_use">Абмен файламі не будзе працаваць, калі уключаны двайны Wi-Fi. Адключыце двайны Wi-Fi у наладах і паспрабуйце зноў.</string>
   <string name="error_timeout">Час сеансу скончыўся. Пачакайце хвіліну ці дзве, і паспрабуйце зноў.</string>
   <string name="error_user_refuse">Не магу адправіць. Перадача была адхіленая.</string>
@@ -202,7 +202,7 @@
   <string name="vivo">vivo</string>
   <string name="vivo_phone">vivo</string>
   <string name="wait_receive_file">У чаканні атрымання</string>
-  <string name="wait_remote_receive_tips">Пераканайцеся, што на абедзвюх прыладах уключаны Wi-Fi і Bluetooth, і ўключаны экран</string>
+  <string name="wait_remote_receive_tips">Пераканайцеся, што экраны абедзвюх прылад уключаны і на прыладах уключаны Wi-Fi і Bluetooth.</string>
   <string name="wifi_is_not_enabled">Спачатку уключыце Wi-Fi</string>
   <string name="xiaomi">Mi</string>
   <string name="xiaomi_6">Mi 6</string>
@@ -423,10 +423,16 @@
   <string name="menu_new_display_open">Адкрыць у новым акне</string>
   <string name="menu_pc_open">Адкрыць на кап\'ютары</string>
   <string name="lenovo_phone">Lenovo</string>
-  <string name="error_ble_connect_failure">Немагчыма падключыць Bluetooth атрымальніка</string>
-  <string name="error_ble_connect_timeout">Злучэнне па Bluetooth не ўдалося, рэкамендуецца перазапусціць Bluetooth абедзвюх прылад і адправіць зноў</string>
-  <string name="error_msg_wlan_error">Немагчыма ўсталяваць злучэнне, рэкамендуецца перазапусціць Wi-Fi абедзвюх прылад і адправіць зноўку</string>
-  <string name="error_p2p_create_group_failure">Не атрымалася ўсталяваць злучэнне, рэкамендуецца перазапусціць Wi-Fi абедзвюх прылад і адправіць зноў</string>
-  <string name="error_p2p_recv_connect_timeout">Не атрымалася ўсталяваць злучэнне, рэкамендуецца перазапусціць Wi-Fi абедзвюх прылад і паўтарыць адпраўку</string>
-  <string name="tips_p2p_support_use5g">Для адпраўкі і атрымання паведамленняў рэкамендуецца выкарыстоўваць сетку Wi-Fi 5G</string>
+  <string name="error_ble_connect_failure">Прымаючая прылада не можа падлучыцца да Bluetooth. Упэўніцеся, што яе экран уключаны.</string>
+  <string name="error_ble_connect_timeout">Не атрымалася падлучыцца да Bluetooth. Паўторна падлучыцеся да Bluetooth на абедзвюх прыладах і паспрабуйце яшчэ раз.</string>
+  <string name="error_msg_wlan_error">Не атрымалася падлучыцца. Перападлучыцеся да Wi-Fi і паспрабуйце яшчэ раз.</string>
+  <string name="error_p2p_create_group_failure">Не атрымалася падлучыцца. Паўторна падлучыцеся да Wi-Fi на абедзвюх прыладах і паспрабуйце яшчэ раз.</string>
+  <string name="error_p2p_recv_connect_timeout">Не атрымалася падлучыцца. Паўторна падлучыцеся да Wi-Fi на абедзвюх прыладах і паспрабуйце яшчэ раз.</string>
+  <string name="tips_p2p_support_use5g">Для дасягнення найлепшых вынікаў выкарыстоўвайце сетку Wi-Fi з частатой 5 ГГц.</string>
+  <string name="error_msg_network_error_china">Немагчыма падлучыцца да сеткі. Праверце злучэнні Wi-Fi і Bluetooth абедзвюх прылад.</string>
+  <string name="error_msg_wlan_error_china">Немагчыма падлучыцца. Паўторна падлучыцеся да Wi-Fi і паспрабуйце яшчэ раз.</string>
+  <string name="error_p2p_create_group_failure_china">Немагчыма падлучыцца. Паўторна падлучыцеся да Wi-Fi на абедзвюх прыладах і паспрабуйце яшчэ раз.</string>
+  <string name="error_p2p_recv_connect_timeout_china">Немагчыма падлучыцца. Паўторна падлучыцеся да Wi-Fi на абедзвюх прыладах і паспрабуйце яшчэ раз.</string>
+  <string name="tips_p2p_support_use5g_china">Для дасягнення найлепшых вынікаў выкарыстоўвайце сетку Wi-Fi з частатой 5 ГГц.</string>
+  <string name="wait_remote_receive_tips_china">Пераканайцеся, што экраны абедзвюх прылад уключаны і на прыладах уключаны Wi-Fi і Bluetooth.</string>
 </resources>

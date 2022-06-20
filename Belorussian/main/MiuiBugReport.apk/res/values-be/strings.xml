@@ -781,7 +781,7 @@
   <string name="toast_report_copied_to_clipboard">Справаздача скапіявана ў буфер абмену</string>
   <string name="toast_report_sent_failed">Не атрымалася адправіць справаздачу</string>
   <string name="toast_report_sent_succeed">Справаздача паспяхова адпраўлена</string>
-  <string name="toast_screenshot_too_large">Немагчыма запампаваць выявы або відэа больш за 100 МБ.</string>
+  <string name="toast_screenshot_too_large">Немагчыма загрузіць выявы або відэа памерам больш за %d Мб.</string>
   <string name="toast_third_packagename_required">Увядзіце назву праграмы</string>
   <string name="today">Сёння</string>
   <string name="tomorrow">Заўтра</string>

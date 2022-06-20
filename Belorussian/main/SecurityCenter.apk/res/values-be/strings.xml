@@ -6060,10 +6060,10 @@
   <string name="sp_unshelf_dialog_continue_pay">Аплаціць</string>
   <string name="sp_unshelf_dialog_title">Выяўлены рызыкі</string>
   <string name="bottomsheet_action_expand_halfway">Раскрыць напалову</string>
-  <string name="bubble_app_manage">Кіраванне ўсплываючымі апавяшчэннямі</string>
-  <string name="bubble_notification">Усплываючыя апавяшчэнні</string>
-  <string name="bubble_notification_switch">Дазволіць усплываючыя апавяшчэнні</string>
-  <string name="bubble_notification_switch_desc">Калі плаваючае акно ўтоена на краі экрана, адлюстроўваць яго апавяшчэння ў бурбалках</string>
+  <string name="bubble_app_manage">Кіраванне апавяшчэннямі</string>
+  <string name="bubble_notification">Апавяшчэнні ў выглядзе \"бурбалак\"</string>
+  <string name="bubble_notification_switch">Дазволіць апавяшчэнні ў выглядзе \"бурбалак\"</string>
+  <string name="bubble_notification_switch_desc">Калі плаваючае акно ўтоена ў боку экрана, яго апавяшчэнні будуць адлюстроўвацца ў выглядзе \"бурбалак\"</string>
   <string name="character_counter_content_description">Уведзена %1$d з %2$d сімвалаў</string>
   <string name="character_counter_overflowed_content_description">Перавышаны ліміт сімвалаў: %1$d з %2$d</string>
   <string name="clear_text_end_icon_content_description">Ачысціць тэкст</string>
@@ -6114,4 +6114,7 @@
   <string name="mtrl_picker_toggle_to_text_input_mode">Пераключыцца ў рэжым уводу тэксту</string>
   <string name="mtrl_picker_toggle_to_year_selection">Націсніце, каб пераключыцца на выбар года</string>
   <string name="password_toggle_content_description">Паказаць пароль</string>
+  <string name="app_predict_folder_tips">Прапановы, заснаваныя на вашых звычках выкарыстання</string>
+  <string name="app_predict_settings_train_tip">Аўтаматычная аптымізацыя дакладнасці прапаноў</string>
+  <string name="gb_game_tips_restart">Гульня будзе перазапушчана, каб змены ўступілі ў сілу</string>
 </resources>

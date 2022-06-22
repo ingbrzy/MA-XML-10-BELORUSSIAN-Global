@@ -106,7 +106,7 @@
   <string name="err_user_abort">Скасавана карыстальнікам.</string>
   <string name="err_version_too_old">Файл рэзервовай копіі састарэў.</string>
   <string name="err_version_unsupported">Версія рэзервовай копіі не падтрымліваецца.</string>
-  <string name="error_forbidden">Сінхранізацыя адключана з-за праблем з вашым Mi Акаўнтам.</string>
+  <string name="error_forbidden">Сінхранізацыя адключана з-за праблем з вашым Xiaomi акаўнтам.</string>
   <string name="error_not_acceptable">Сінхранізацыя адключана.</string>
   <string name="error_permissions">Праграма не мае дазволаў, неабходных для доступу да Календара. Каб працягнуць, перайдзіце ў раздзел Налады і праверце дазволы.</string>
   <string name="error_title">Немагчыма сінхранізаваць</string>
@@ -726,7 +726,7 @@
   <string name="install_mi_cloud_app_summary">Адскануйце гэты QR-код на сваім iPhone, каб загрузіць і ўсталяваць праграму.</string>
   <string name="install_mi_cloud_app_title">Усталюйце Воблака Xiaomi</string>
   <string name="recovery_progress">Аднаўленне элементаў (%1$d/%2$d)…</string>
-  <string name="restore_data_to_device_content">Вашы элементы былі сінхранізаваныя з Воблакам Xiaomi. Увайдзіце ў свой Mi акаўнт, каб аднавіць іх.</string>
+  <string name="restore_data_to_device_content">Вашы элементы былі сінхранізаваныя з Воблакам Xiaomi. Увайдзіце ў свой Xiaomi акаўнт, каб аднавіць іх.</string>
   <string name="restore_data_to_device_title">Аднавіць элементы на гэтай прыладзе</string>
   <string name="restore_right_now">Аднавіць</string>
   <string name="retry">Паспрабаваць iзноў</string>
@@ -970,7 +970,7 @@
   <string name="provisiion_set_old_phone_summary">Выкарыстоўвайце Mi Трансфер для імпарту дадзеных са старой прылады без падлучэння да Інтэрнэту</string>
   <string name="provision_set_new_phone">Выкарыстоўваць як новую прыладу</string>
   <string name="recommend_hint">Рэкамендуецца</string>
-  <string name="set_new_device_account">Сінхранізацыя з Mi акаўнтам</string>
+  <string name="set_new_device_account">Сінхранізацыя з Xiaomi акаўнтам</string>
   <string name="set_new_device_lock">Усталяванне блакіроўкі экрана</string>
   <string name="set_new_device_more">Дадатковыя налады сістэмы…</string>
   <string name="set_new_device_navigationbar">Налада сістэмнай навігацыі</string>

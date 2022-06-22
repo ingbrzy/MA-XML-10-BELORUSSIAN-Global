@@ -1830,4 +1830,13 @@
   <string name="restart_detail_conversation_options4">30 хвілін</string>
   <string name="restart_detail_conversation_title">Перазапусціць у фонавым рэжыме</string>
   <string name="title_setting_email_filter_add_rules">Дадаць правілы фільтрацыі пошты</string>
+  <string name="how_to_login_icloud">Як увайсці ў пошту iCloud</string>
+  <string name="icloud_login_tips">Вы можаце стварыць пароль для сваёй пошты iCloud тут: iCloud.com</string>
+  <string name="icoud_login_pw_hint">Увядзіце пароль</string>
+  <string name="login_des_icloud">Увайсці ў пошту iCloud</string>
+  <string name="miuix_search_action_mode_cancel">Адмена</string>
+  <string name="miuix_search_history_clear">Ачысціць гісторыю пошуку</string>
+  <string name="miuix_search_history_default_title">Гісторыя пошуку</string>
+  <string name="miuix_search_recommendation_default_title">Магчыма, вам гэта будзе цікава</string>
+  <string name="miuix_search_recommendation_item_del_des">Выдаліць</string>
 </resources>

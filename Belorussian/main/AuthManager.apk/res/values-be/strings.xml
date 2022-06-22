@@ -472,4 +472,5 @@
   <string name="permdesc_use_sip">Дазволіць %1$s выкарыстоўваць пратакол ініцыяцыі сеансу для струменевай перадачы відэа?</string>
   <string name="permdesc_write_call_log">Дазволіць %1$s рэдагаваць гісторыю выклікаў?</string>
   <string name="permdesc_write_contacts">Дазволіць %1$s рэдагаваць кантакты?</string>
+  <string name="precise_location_title">Дакладнае месцазнаходжанне</string>
 </resources>

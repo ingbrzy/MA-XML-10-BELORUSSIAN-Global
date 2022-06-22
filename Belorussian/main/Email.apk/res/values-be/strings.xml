@@ -1834,9 +1834,4 @@
   <string name="icloud_login_tips">Вы можаце стварыць пароль для сваёй пошты iCloud тут: iCloud.com</string>
   <string name="icoud_login_pw_hint">Увядзіце пароль</string>
   <string name="login_des_icloud">Увайсці ў пошту iCloud</string>
-  <string name="miuix_search_action_mode_cancel">Адмена</string>
-  <string name="miuix_search_history_clear">Ачысціць гісторыю пошуку</string>
-  <string name="miuix_search_history_default_title">Гісторыя пошуку</string>
-  <string name="miuix_search_recommendation_default_title">Магчыма, вам гэта будзе цікава</string>
-  <string name="miuix_search_recommendation_item_del_des">Выдаліць</string>
 </resources>

@@ -937,4 +937,6 @@ ID:%s
   <string name="network_error">Адбылася памылка сеткі.</string>
   <string name="network_error_hint">Праверце URL-адрас і паспрабуйце яшчэ раз або скапіюйце URL-адрас і адкрыйце яго ў браўзэры.</string>
   <string name="page_load_failed">Немагчыма адкрыць старонку</string>
+  <string name="user_agreement_network_permission_msg">Нам неабходна падлучэнне да Інтэрнэту, каб мець магчымасць надаваць вам сэрвісы.</string>
+  <string name="user_agreement_use_account_msg">Xiaomi акаўнт дазваляе вам атрымаць доступ да ўсіх сэрвісаў, якія прадстаўляюцца Xiaomi.</string>
 </resources>

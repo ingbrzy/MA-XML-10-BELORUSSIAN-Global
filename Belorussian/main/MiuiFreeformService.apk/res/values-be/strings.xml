@@ -211,4 +211,6 @@
   <string name="freeform_guide_to_sidehide_summary">Хутка перацягнiце праграму да краю экрана, каб схаваць яе</string>
   <string name="freeform_guide_to_sidehide_title">Утойванне плаваючага акна</string>
   <string name="freeform_guide_to_sidehide_summary_pad">Хутка перацягнiце праграму да краю экрана, каб схаваць яе</string>
+  <string name="bottom_bar_smallwindow_drag_text">Перацягнеце сюды, каб замацаваць</string>
+  <string name="fullscreen_slide_to_small_freeform_summary_squarehot">Правядзіце пальцам ад ніжняга да верхняга краю экрана</string>
 </resources>

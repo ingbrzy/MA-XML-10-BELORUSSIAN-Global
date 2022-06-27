@@ -323,15 +323,15 @@
   <string name="contact_edit_set_black_list_receive">Перамясціць лісты з гэтым атрымальнікам ў Сметніцу (толькі для новых лістоў)</string>
   <string name="contact_edit_set_black_list_receive_summary">Выдаліць пошту, якая ўключае ў сябе гэтага атрымальніка ў полі Каму ці Копія</string>
   <string name="contact_edit_set_black_list_title">Дадаць да чорнага спісу</string>
-  <string name="contact_edit_set_phone_contact">Змяніць кантакты тэлефона</string>
-  <string name="contact_edit_title_phone_contact">Спіс кантактаў тэлефона</string>
+  <string name="contact_edit_set_phone_contact">Рэдагаваць сістэмны кантакт</string>
+  <string name="contact_edit_title_phone_contact">Рэдагаваць кантакт</string>
   <string name="contact_in_filter_title">Адпраўнік</string>
   <string name="contact_info_string">Паказаць кантактную інфармацыю пра %1$s</string>
   <string name="contact_info_string_default">Паказаць кантактную інфармацыю</string>
   <string name="contact_list_add_btn">Дадаць</string>
   <string name="contact_list_search_hint">Пошук кантактаў</string>
   <string name="contact_list_title">Кантакты</string>
-  <string name="contact_permission_error">Доступ да кантактаў тэлефона абмежаваны</string>
+  <string name="contact_permission_error">Патрабуецца доступ да сістэмных кантактаў</string>
   <string name="contact_select">Выбраць кантакты</string>
   <string name="content_description">%1$s пра %2$s, %3$s на %4$s, %5$s</string>
   <string name="content_description_today">%1$s пра %2$s, %3$s у %4$s, %5$s</string>
@@ -386,7 +386,7 @@
   <string name="default_">ПА ЗМАЎЧАННІ</string>
   <string name="default_opening_attchemnt_mode">Адкрывайце прымацаванні з дапамогай прадвызначаных праграм</string>
   <string name="default_setup">НАЛАДЫ ПА ЗМАЎЧАННІ</string>
-  <string name="default_signature">Адпраўлена з майго Mi Тэлефона</string>
+  <string name="default_signature">Адпраўлена з маёй прылады Xiaomi</string>
   <string name="default_signature_2">Адпраўлена з майго %s</string>
   <string name="del_account_questionnair_hint">Не маглі б вы расказаць нам, чаму выдаляеце гэты акаўнт?</string>
   <string name="delete">Выдаліць</string>
@@ -423,7 +423,7 @@
   <string name="downlaod_cancel_confirm_download">Спыніць</string>
   <string name="downlaod_cancel_continue_download">Не спыняць</string>
   <string name="downlaod_confirm_download">Спампаваць</string>
-  <string name="downlaod_nonWifi_confirm_message">Выкарыстаць мабільную перадачу даных, каб спампаваць гэтае прымацаванне?</string>
+  <string name="downlaod_nonWifi_confirm_message">Пры загрузцы без Wi-Fi можа выкарыстоўвацца значны аб\'ём мабільных дадзеных. Усё роўна спампаваць?</string>
   <string name="downlaod_nonWifi_confirm_title">Спампаваць гэтае прымацаванне?</string>
   <string name="download_again">Спампаваць зноў</string>
   <string name="download_before_sharing">" яшчэ не спампавана."</string>
@@ -471,8 +471,8 @@
   <string name="failed">Не атрымалася загрузіць выяву</string>
   <string name="failed_parse_eml_file">Не атрымалася адкрыць файл EML, паспрабуйце яшчэ раз.</string>
   <string name="failed_read_phone_state_permission">Дазволіць доступ да статусу прылады</string>
-  <string name="failed_read_write_calendar_permission">Доступ да Календара абмежаваны</string>
-  <string name="failed_read_write_contacts_permission">Доступ да кантактаў абмежаваны</string>
+  <string name="failed_read_write_calendar_permission">Патрабуюцца дазволы календара</string>
+  <string name="failed_read_write_contacts_permission">Дазвольце доступ да кантактаў, каб выкарыстоўваць гэтую функцыю</string>
   <string name="feedback">Адправіць водгук</string>
   <string name="feedback_body">Паведамленне</string>
   <string name="feedback_sent">Дзякуй за ваш водгук</string>
@@ -837,7 +837,7 @@
   <string name="permission_access_provider_desc">Дазваляе праграме атрымаць доступ да электроннай пошты, імёнам карыстальнікаў і паролям</string>
   <string name="permission_access_provider_label">Доступ да даных карыстальніка</string>
   <string name="permission_des_calendar">Для сінхранізацыі падзей календара</string>
-  <string name="permission_des_contact">Для доступу да адрасоў электроннай пошты вашых кантактаў у мэтах аўтазапаўнення атрымальнікаў</string>
+  <string name="permission_des_contact">Для сінхранізацыі вашых кантактаў электроннай пошты як сістэмных кантактаў. Мы рэкамендуем выбраць \"Заўсёды дазваляць\", каб пазбегнуць перапыненняў.</string>
   <string name="permission_des_detail">Калі вы не згодныя прадастаўляць такія дазволы або дзяліцца асабістай інфармацыяй і загружаць яе, вы не зможаце скарыстацца гэтай праграмай. Вы можаце выдаліць яе, выйсці з сістэмы або абмежаваць дазволы ў Наладах.</string>
   <string name="permission_des_external_storage">Для стварэння новых лістоў, а таксама захавання і дадання прымацаванняў</string>
   <string name="permission_des_phone_status">Для доступу да IMEI ў мэтах ідэнтыфікацыі вашай прылады</string>
@@ -883,7 +883,7 @@
   <string name="policy_text_truncation">Абмежаваць памер тэксту Email-ліста</string>
   <string name="pop3_name">POP3</string>
   <string name="preference_eas_tips">Націсніце “Актываваць”, каб наладзіць паштовы сервер.</string>
-  <string name="preference_pop_tips">Пры выкарыстанні пратакола POP3 прымацаванні электронных лістоў будуць спампоўвацца аўтаматычна. Гэта можа павялічыць выкарыстанне мабільнай перадачы даных.</string>
+  <string name="preference_pop_tips">Укладанне будзе загружана разам з лістом. Гэта можа выкарыстоўваць значныя мабільныя дадзеныя. Усё роўна спампаваць?</string>
   <string name="preference_sender_image_description">Паказваць выяву профілю побач з імем адпраўніка ва Уваходных</string>
   <string name="preference_sender_image_title">Паказваць выяву профілю ва Уваходных</string>
   <string name="preferences_signature_dialog_title">Подпіс</string>
@@ -1102,11 +1102,11 @@
   <string name="subject_hint">Тэма</string>
   <string name="sync_calendra_fail_per_content">Націсніце, каб дазволіць</string>
   <string name="sync_calendra_fail_per_title">Не атрымалася сінхранізаваць падзеі календара</string>
-  <string name="sync_calendra_fail_permission">Не атрымалася сінхранізаваць падзеі календара. Спачатку дазвольце WPS Mail доступ да Календара.</string>
+  <string name="sync_calendra_fail_permission">Надайце дазволы календару ў раздзеле \"Налады\" > \"Дазволы на сінхранізацыю падзей календара\".</string>
   <string name="sync_contacts_fail_per_content">Націсніце, каб дазволіць доступ да кантактаў</string>
   <string name="sync_contacts_fail_per_title">Не атрымалася сінхранізацыя кантактаў</string>
   <string name="sync_contacts_fail_permission">Не атрымалася сінхранізацыя кантактаў, дазвольце праграме Пошта доступ да вашых кантактаў у меню Налады</string>
-  <string name="sync_contacts_req_per_ignored">Дазвольце праграме Пошта доступ да вашых кантактаў для сінхранізацыі</string>
+  <string name="sync_contacts_req_per_ignored">Дазволіце гэтай праграме сінхранізаваць кантакты, каб выкарыстоўваць гэтую функцыю</string>
   <string name="sync_error">Не атрымалася сінхранізаваць.</string>
   <string name="sync_error_message">Недастаткова месца ў сховішчы прылады для сінхранізацыі.</string>
   <string name="sync_failed_mi_authority_view_detail">Падрабязнасці</string>
@@ -1123,7 +1123,7 @@
   <string name="system_folders_trash_summary">Выберыце тэчку \"Сметніца\" на вашым серверы</string>
   <string name="system_folders_trash_title">Сметніца</string>
   <string name="system_root_path">Налады ўнутранага сховішча</string>
-  <string name="system_security_open_error">Каб рэгуляваць параметры бяспекі, надайце праграме Пошта неабходныя дазволы ў Наладах</string>
+  <string name="system_security_open_error">Надайце дазволы ў Наладах, каб адкрыць Бяспеку</string>
   <string name="system_setup_open_error">Уключыце сінхранізацыю пошты ў Наладах</string>
   <string name="tablet">планшэтам</string>
   <string name="tap_to_configure">Націсніце, каб наладзіць.</string>
@@ -1139,13 +1139,13 @@
   <string name="toast_bar_open_gmail_synchronization">Не атрымалася злучыцца з Gmail. Праверце налады сеткі і паспрабуйце зноў.</string>
   <string name="toast_bar_send_fail_remind">Не атрымалася адправіць ліст. Ён захаваны ў тэчцы \"Выходныя\".</string>
   <string name="toast_bar_sync_failed_client_cert">Немагчыма сінхранізаваць з-за адсутнасці сертыфіката. Даткніцеся, каб дадаць сертыфікат яшчэ раз.</string>
-  <string name="toast_bar_sync_failed_mi_authority">Увайдзіце, каб аўтарызаваць вашу прыладу</string>
+  <string name="toast_bar_sync_failed_mi_authority">Гэтая прылада не аўтарызавана. Праверце свае SMS на наяўнасць паведамлення аўтарызацыі.</string>
   <string name="toastbar_calendar_and_contacts_permission_switch_close">Каб сінхранізаваць інфармацыю каляндара і кантакты, надайце праграме Пошта неабходныя дазволы ў Наладах</string>
   <string name="toastbar_calendar_permission_switch_close">Каб атрымліваць напаміны календара, надайце праграме Пошта неабходныя дазволы ў Наладах</string>
-  <string name="toastbar_contacts_permission_switch_close">Каб дадаць кантакты, надайце праграме Пошта неабходныя дазволы ў Наладах</string>
+  <string name="toastbar_contacts_permission_switch_close">Дазвольце доступ да кантактаў, каб мець магчымасць дадаваць іх у якасці сістэмных кантактаў</string>
   <string name="toastbar_local_calendar_and_contacts_sync_switch_close">Уключыце сінхранізацыю каляндара і кантактаў, каб іх сінхранізаваць</string>
   <string name="toastbar_local_calendar_sync_switch_close">Уключыце сінхранізацыю каляндара, каб атрымліваць напаміны</string>
-  <string name="toastbar_local_contacts_sync_swtich_close">Уключыце сінхранізацыю кантактаў, каб дадаваць іх</string>
+  <string name="toastbar_local_contacts_sync_swtich_close">Дазволіце гэтй праграме сінхранізаваць кантакты, каб мець магчымасць дадаваць іх у якасці сістэмных кантактаў</string>
   <string name="today_text">Сёння</string>
   <string name="too_large_to_attach_additional">Памер файла не можа перавышаць %1$s.</string>
   <string name="too_large_to_attach_multiple">Адзін або некалькі файлаў не былі прымацаваныя. Памер не можа перавышаць %1$s.</string>
@@ -1640,7 +1640,7 @@
   <string name="chip_text">Тэкст чыпа</string>
   <string name="clear_text_end_icon_content_description">Ачысціць тэкст</string>
   <string name="compose_add_attachment_permission_denied">Не ўдаецца перасылаць электронную пошту. Патрабуюцца дазволы для доступу да знешняга сховішча.</string>
-  <string name="default_signature_pad">Отправлено з майго Mi Pad</string>
+  <string name="default_signature_pad">Адпраўлена з маёй Mi прылады</string>
   <string name="download_before_sharing2">Некаторыя з выбраных элементаў не загружаныя. Спачатку загрузіце іх.</string>
   <string name="error_icon_content_description">Памылка</string>
   <string name="exposed_dropdown_menu_content_description">Паказаць раскрываючаяся меню</string>
@@ -1751,7 +1751,7 @@
   <string name="oauth_find_browser_error_description">Калі ласка, усталюйце браўзэр перад уваходам у сістэму</string>
   <string name="close_custom_folder">Схаваць падтэчкі</string>
   <string name="open_custom_folder">Паказаць падтэчкі</string>
-  <string name="default_signature_phone">Адпраўлена з майго Mi тэлефона</string>
+  <string name="default_signature_phone">Адпраўлена з маёй Mi прылады</string>
   <string name="error_message_account_or_password">Няправільны ідэнтыфікатар акаўнта або пароль.</string>
   <string name="error_message_auth_error">Выкарыстоўвайце код праверкі для ўваходу.</string>
   <string name="error_message_blacklist">Ваш уліковы запіс дададзены ў чорны спіс. Звярніцеся да пастаўшчыка паслуг электроннай пошты для вырашэння гэтай праблемы.</string>
@@ -1834,4 +1834,8 @@
   <string name="icloud_login_tips">Вы можаце стварыць пароль для сваёй пошты iCloud тут: iCloud.com</string>
   <string name="icoud_login_pw_hint">Увядзіце пароль</string>
   <string name="login_des_icloud">Увайсці ў пошту iCloud</string>
+  <string name="error_message_respond_revert_24">Ваш IP-адрас заблакаваны. Звяжыцеся са службай падтрымкі Sohu Mail, каб вырашыць гэтую праблему.</string>
+  <string name="error_message_respond_revert_26">Ваш акаўнт заблакаваны. Увайдзіце ў Sohu Mail у сваім браўзэры, каб актываваць яго.</string>
+  <string name="error_message_respond_revert_27">Тэрмін дзеяння вашага пароля скончыўся. Увайдзіце ў Sohu Mail у сваім браўзэры, каб атрымаць згенераваны серверам пароль.</string>
+  <string name="quick_translation">Перавесці</string>
 </resources>

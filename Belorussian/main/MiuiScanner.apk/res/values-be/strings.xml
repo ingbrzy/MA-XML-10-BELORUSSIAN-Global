@@ -903,14 +903,16 @@
   <string name="agree_camera_permission_message">Для выкарыстання камеры для сканавання прадметаў</string>
   <string name="agree_storage_permission_message">Для доступу і імпарту выяў Галерэі і захавання файлаў</string>
   <string name="come_back_picture">Назад</string>
-  <string name="toast_net_2g">Дрэнная якасць сеткі. Змяніце сетку і паспрабуйце яшчэ раз</string>
-  <string name="toast_net_timeout">Час чакання запыту скончыўся. Паўтарыце спробу пазней.</string>
-  <string name="location_permission_message">Для падлучэння кода Wi-Fi</string>
-  <string name="location_permissions_text">Націсніце кнопку \"Налады\", каб дазволіць выкарыстоўваць месцазнаходжанне</string>
-  <string name="not_permissions_hint">Камерай можна нармальна карыстацца толькі пасля прадастаўлення дазволу камеры!</string>
-  <string name="not_permissions_title">Напамін</string>
+  <string name="toast_net_2g">Не атрымалася падлучыцца да сеткі. Пераключыцеся на іншую сетку і паспрабуйце яшчэ раз.</string>
+  <string name="toast_net_timeout">Час чакання запыту скончыўся. Пачакайце хвіліну ці дзве і паспрабуйце яшчэ раз.</string>
+  <string name="location_permission_message">Для падлучэння да Wi-Fi</string>
+  <string name="location_permissions_text">Дазвольце доступ да месцазнаходжання ў наладах, каб выкарыстоўваць гэтую функцыю.</string>
+  <string name="not_permissions_hint">Дазвольце доступ да камеры, каб выкарыстоўваць гэтую функцыю.</string>
+  <string name="not_permissions_title">Патрабуюцца дазволы</string>
   <string name="word_limit_prompt">Перавышана %d слоў</string>
   <string name="xiaomi_market_sdk_update_dialog_cancel">Не цяпер</string>
   <string name="xiaomi_market_sdk_update_dialog_ok">Абнавіць</string>
   <string name="xiaomi_market_sdk_update_dialog_title">Даступна абнаўленне</string>
+  <string name="crop_frame_you_box_selection_cannot_crop_this_picture">Вобласць выдзялення павінна мець чатыры бакі</string>
+  <string name="form_preview_title">Папярэдні прагляд табліцы Excel</string>
 </resources>

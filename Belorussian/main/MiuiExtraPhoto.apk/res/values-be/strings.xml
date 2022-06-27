@@ -84,4 +84,8 @@
   <string name="refocus_type_static">Размыццё</string>
   <string name="refocus_type_video">Напрамак\nсвятла</string>
   <string name="save">Захаваць</string>
+  <string name="doc_photo_not_save">Не захоўваць</string>
+  <string name="doc_photo_save_effect_toast">Захаваць змены?</string>
+  <string name="open">Укл.</string>
+  <string name="close">Выкл.</string>
 </resources>

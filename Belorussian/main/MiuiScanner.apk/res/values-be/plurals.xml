@@ -125,4 +125,9 @@
         <item quantity="few">%d хвіліны таму</item>
         <item quantity="many">%d хвілін таму</item>
     </plurals>
+    <plurals name="word_limit_prompt">
+     <item quantity="one">%d сімвал перавышае ліміт</item>
+     <item quantity="other">%d сімвалаў перавышае ліміт</item>
+     <item quantity="few">%d сімвала перавышае ліміт</item>
+   </plurals>
 </resources>

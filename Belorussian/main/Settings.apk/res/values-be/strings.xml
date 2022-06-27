@@ -2692,7 +2692,8 @@
   <string name="face_unlock_offset_right">Пасуньцеся налева</string>
   <string name="face_unlock_offset_top">Трохі падніміце свой тэлефон</string>
   <string name="face_unlock_open_eye">Адкрыйце вочы ледзь шырэй</string>
-  <string name="face_unlock_prompt">Запыт на разблакіроўку па твару</string>
+  <string name="face_unlock_prompt">"Запісаць дадзеныя твару,
+які глядзіць на вонкавы экран"</string>
   <string name="face_unlock_quality">Не атрымалася цалкам убачыць ваш твар</string>
   <string name="face_unlock_reveal_eye">Зрабіце вашы вочы бачнымі</string>
   <string name="face_unlock_reveal_mouth">Зрабіце вашы вусны бачнымі</string>
@@ -10574,4 +10575,7 @@ ID:%s
   <string name="sim_status_title_sim_softbank">SIM статус %1$d</string>
   <string name="status_number_sim_softbank">Нумар тэлефона %1$d</string>
   <string name="location_description_no_gps">Гэтыя прылады не падтрымліваюць спадарожнікавую навігацыю. Інфармацыя аб месцазнаходжанні, створаная на аснове сеткавых дадзеных, можа быць недастатковай для некаторых функцый.</string>
+  <string name="freeform_guide_slide_to_small_freeform_summary_squarehot">"Націсніце і ўтрымлівайце ніжнюю частку акна, а затым перацягнуць яе да верхняга краю экрана.
+Гэтая функцыя працуе, толькі калі для сістэмнай навігацыі абраны жэсты."</string>
+  <string name="miheadset_auto_upgrade_reminder">Адключыце аўтаматычныя абнаўленні і зноў праверце наяўнасць абнаўленняў</string>
 </resources>

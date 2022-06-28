@@ -1817,7 +1817,7 @@
   <string name="pref_adjust_traffic_data">Задаць трафік</string>
   <string name="pref_allow_connect_network_title">Мабільны інтэрнэт у роўмінгу</string>
   <string name="pref_auto_adjust_settings">Налады сінхранізацыі трафіку</string>
-  <string name="pref_auto_adjust_traffic">Аўтаабнаўленне статыстыкі трафіка</string>
+  <string name="pref_auto_adjust_traffic">Аўтаабнаўленне статыстыкі</string>
   <string name="pref_automatic_adjust">Сінхранізацыя трафіка з аператарам</string>
   <string name="pref_avaible_traffic">Месяцовы ліміт</string>
   <string name="pref_bg_network_title">Фонавае падлучэнне</string>
@@ -6117,4 +6117,9 @@
   <string name="app_predict_folder_tips">Прапановы, заснаваныя на вашых звычках выкарыстання</string>
   <string name="app_predict_settings_train_tip">Аўтаматычная аптымізацыя дакладнасці прапаноў</string>
   <string name="gb_game_tips_restart">Гульня будзе перазапушчана, каб змены ўступілі ў сілу</string>
+  <string name="na_open_at_once">Уключыць</string>
+  <string name="na_query_and_correction">Праверка і каліброўка балансу</string>
+  <string name="na_query_and_correction_msg">"Вы можаце праверыць і адкалібраваць баланс свайго акаўнта і статыстыку мабільных дадзеных, даслаўшы бясплатнае SMS свайму аператару сувязі. Гэтыя паведамленні зашыфраваны.
+Паведамленні з запытам балансу не захоўваюцца ў Паведамленнях і не будуць адлюстроўвацца.
+Вы можаце адключыць параметр \"Аўтаабнаўленне статыстыкі\" ў любы час."</string>
 </resources>

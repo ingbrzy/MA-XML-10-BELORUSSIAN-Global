@@ -564,4 +564,7 @@
   <string name="nps_description">Апавяшчэнне аб стане GPS</string>
   <string name="nps_mock_description">Выкарыстоўваецца віртуальнае месцазнаходжанне, для аднаўлення патрабуецца перазагрузка</string>
   <string name="nps_monitor_name">Месцазнаходжанне GPS</string>
+  <string name="mw_guide_dialog_button_confirm">Зразумела</string>
+  <string name="mw_guide_dialog_message">Падобна, гэта праграма не падтрымлівае паралельныя вокны. Замест гэтага абраны іншы сумяшчальны макет.</string>
+  <string name="mw_guide_dialog_title">Паралельныя вокны не падтрымліваюцца</string>
 </resources>

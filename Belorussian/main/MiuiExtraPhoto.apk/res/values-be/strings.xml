@@ -88,4 +88,18 @@
   <string name="doc_photo_save_effect_toast">Захаваць змены?</string>
   <string name="open">Укл.</string>
   <string name="close">Выкл.</string>
+  <string name="doc_photo_close">Выключэнне</string>
+  <string name="doc_photo_close_toast">Калі вы выключыце гэтую функцыю зараз, сцёртыя нататкі з\'явяцца зноў. Выключыць?</string>
+  <string name="doc_photo_crop_left_rotate">Налева</string>
+  <string name="doc_photo_crop_right_rotate">Направа</string>
+  <string name="doc_photo_crop_toast">Выдаленыя нататкі зноў з\'явяцца пасля кадравання. Працягнуць?</string>
+  <string name="doc_photo_enhance_crop">Абрэзаць</string>
+  <string name="doc_photo_enhance_dehandwrite">Выдаліць нататкі</string>
+  <string name="doc_photo_enhance_dehandwrite_desc">Сцірайце рукапісныя нататкі адным націскам</string>
+  <string name="doc_photo_enhance_effect">Эфекты</string>
+  <string name="doc_photo_enhance_handmode_remove">Выдаліць уручную</string>
+  <string name="doc_photo_enhance_undistortion_version4">Выпрастаць</string>
+  <string name="doc_photo_handwrite_recover">Аднавіць</string>
+  <string name="doc_photo_handwrite_remove">Выдаліць</string>
+  <string name="doc_photo_no_remind">Больш не паказваць</string>
 </resources>

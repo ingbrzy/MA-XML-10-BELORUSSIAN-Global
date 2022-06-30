@@ -51,7 +51,7 @@
   <string name="backup_action_retry_now">Паўтарыць спробу</string>
   <string name="backup_failed_reason_app_data_error">Не атрымалася стварыць рэзервовую копію дадзеных WeChat</string>
   <string name="backup_failed_reason_app_usage_denied">Надайце неабходныя дазволы для рэзервовага капіявання элементаў</string>
-  <string name="backup_failed_reason_cloud_space_not_enough">У Воблаке Xiaomi недастаткова месца. Павысьце ўзровень свайго плана або вызваліце ​​месца ў сховішчы.</string>
+  <string name="backup_failed_reason_cloud_space_not_enough">У Воблаку Xiaomi недастаткова месца. Павысьце ўзровень свайго плана або вызваліце ​​месца ў сховішчы.</string>
   <string name="backup_failed_reason_disk_space_not_enough">Недастаткова вольнага месца ў сховішчы. Спачатку вызваліце ​​сховішча.</string>
   <string name="backup_failed_reason_network_error">Памылка сеткі. Пачакайце хвіліну ці дзве і паўторыце спробу.</string>
   <string name="backup_finished_notification_content">Стварэнне рэзервовай копіі завершана.</string>
@@ -106,7 +106,7 @@
   <string name="cloud_app_restore_success">Праграмы адноўлены</string>
   <string name="cloud_app_restore_wifi_prompt">Аднавіць з Воблака Xiaomi.</string>
   <string name="cloud_back_up_date_format">HH:mm d.MM.yyyy</string>
-  <string name="cloud_back_up_detail_discription">Пры злучэнні праз Wi-Fi у Воблаке Xiaomi будзе створана рэзервовае копія для наступных аб\'ектаў: \n*  Праграмы, знешні выгляд працоўнага стала і шпалеры; \n*  Будзільнік, гадзіннік і налады часу \n*  Налады апавяшчэнняў \n*  Налады Miui і сістэмы \n\"Увага: дадзеныя ўсталяваных праграм не будуць захоўвацца ў Воблака Xiaomi.\"</string>
+  <string name="cloud_back_up_detail_discription">Пры злучэнні праз Wi-Fi у Воблаку Xiaomi будзе створана рэзервовае копія для наступных аб\'ектаў: \n*  Праграмы, знешні выгляд працоўнага стала і шпалеры; \n*  Будзільнік, гадзіннік і налады часу \n*  Налады апавяшчэнняў \n*  Налады Miui і сістэмы \n\"Увага: дадзеныя ўсталяваных праграм не будуць захоўвацца ў Воблака Xiaomi.\"</string>
   <string name="cloud_back_up_detail_discription_china">Гэтыя элементы будуць скапіяваныя ў Воблака Xiaomi, калі ваша прылада падлучана да Wi-Fi:\n* Праграмы і размяшчэнне працоўнага стала\n* Мелодыi, шпалеры і шрыфты\n* Будзільнік і налады часу\n* Налады апавяшчэнняў\n* Налады MIUI і сістэмы\nЗаўвага: Дадзеныя ўсталяваных праграм не будуць захоўвацца ў Воблака Xiaomi.</string>
   <string name="cloud_back_up_frequence_choice_title">Стварэнне рэзервовых копій па раскладу</string>
   <string name="cloud_back_up_frequence_long">Кожныя %d дзён</string>
@@ -115,9 +115,9 @@
   <string name="cloud_back_up_opening">Хвілінку…</string>
   <string name="cloud_back_up_subscribe_vip_confirm">Палепшыць</string>
   <string name="cloud_back_up_subscribe_vip_discription">Пічэнне памераў воблачнага сховішча, штодзённыя рэзервовыя копіі і іншыя магчымасці.</string>
-  <string name="cloud_back_up_subscribe_vip_title">Палепшыць Mi Акаўнт</string>
+  <string name="cloud_back_up_subscribe_vip_title">Палепшыць Xiaomi акаўнт</string>
   <string name="cloud_back_up_task">Стварэнне рэзервовай копіі…</string>
-  <string name="cloud_backup">Резервовыя копіі ў Воблаке Xiaomi</string>
+  <string name="cloud_backup">Резервовыя копіі ў Воблаку Xiaomi</string>
   <string name="cloud_backup_derail_size_summary">Памер: %s</string>
   <string name="cloud_backup_detail_app_data">Усе дадзеныя WeChat</string>
   <string name="cloud_backup_detail_app_data_summary">Уключае гісторыю чатаў і файлы</string>
@@ -334,8 +334,8 @@
   <string name="msg_restore_with_metered_network_pattern">Будзе загружана файлаў: %s</string>
   <string name="network_error">Падлучыцца да сеткі</string>
   <string name="night">Вечар</string>
-  <string name="no_account">Не выкананы ўваход у Mi Акаўнт.</string>
-  <string name="no_backup">Няма рэзервовых копій у Воблаке Xiaomi.</string>
+  <string name="no_account">Не выкананы ўваход у Xiaomi акаўнт.</string>
+  <string name="no_backup">Няма рэзервовых копій у Воблаку Xiaomi.</string>
   <string name="noon">Сярэдзіна дня</string>
   <string name="not_set">Не зададзена</string>
   <string name="notification_channel_remind">Нагадванне</string>
@@ -355,7 +355,7 @@
   <string name="provision_restore_data">Аднаўленне аб\'ектаў</string>
   <string name="provision_skip_underline">Прапусціць</string>
   <string name="query_restore_description">Калі вы адновіце макет і налады працоўнага стала, ужо ўсталяваныя праграмы будуць адноўлены на зыходных месцах на працоўным стале. Праграмы, якія не з\'яўляюцца часткай гэтай рэзервовай копіі, будуць перамешчаныя на апошнюю старонку працоўнага стала.</string>
-  <string name="query_restore_summary">Знойдзена рэзервовая копія ў Воблаке Xiaomi для гэтай прылады. Аднавіць праграмы і налады або адзначыць прыладу як новая і выдаліць папярэднія рэзервовыя копіі?</string>
+  <string name="query_restore_summary">Знойдзена рэзервовая копія ў Воблаку Xiaomi для гэтай прылады. Аднавіць праграмы і налады або адзначыць прыладу як новая і выдаліць папярэднія рэзервовыя копіі?</string>
   <string name="recover_home_settings">Аднаўленне налад працоўнага стала</string>
   <string name="recover_miui_settings">Аднаўленне сістэмных налад</string>
   <string name="recover_settings_description">Не адключайце прыладу</string>
@@ -416,7 +416,7 @@
   <string name="send">Даслаць</string>
   <string name="settings_backup">Сістэмныя налады</string>
   <string name="size_unknown">Невядомы памер</string>
-  <string name="start_backup_to_micloud">Стварэнне рэзервовай копіі дадзеных праграм у Воблаке Xiaomi</string>
+  <string name="start_backup_to_micloud">Стварэнне рэзервовай копіі дадзеных праграм у Воблаку Xiaomi</string>
   <string name="start_recover">Аднавіць %s</string>
   <string name="status_bar_notification_info_overflow">999+</string>
   <string name="storage_unit_gb">%s Гб</string>

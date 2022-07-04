@@ -102,4 +102,6 @@
   <string name="doc_photo_handwrite_recover">Аднавіць</string>
   <string name="doc_photo_handwrite_remove">Выдаліць</string>
   <string name="doc_photo_no_remind">Больш не паказваць</string>
+  <string name="doc_photo_enter_hand_remove">Націсніце, каб сцерці ўручную</string>
+  <string name="doc_photo_remind">Увага</string>
 </resources>

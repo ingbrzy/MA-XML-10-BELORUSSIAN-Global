@@ -98,7 +98,7 @@
   <string name="category_type_other">Іншыя</string>
   <string name="category_video">Відэа</string>
   <string name="category_zip">Архівы</string>
-  <string name="cdd_message">З-за абмежаванняў Android 11 вы не зможаце праглядаць некаторыя файлы ў дыспетчару файлаў, створаныя ў іншых праграмах.</string>
+  <string name="cdd_message">З-за абмежаванняў Android 11 вы не зможаце праглядаць некаторыя файлы ў Правадыру, створаныя ў іншых праграмах.</string>
   <string name="cdd_title">Увага</string>
   <string name="character_counter_content_description">Уведзена знакаў %1$d з %2$d</string>
   <string name="character_counter_overflowed_content_description">Перавышаны абмежаванне на колькасць знакаў %1$d з %2$d</string>
@@ -557,7 +557,7 @@
   <string name="private_folder_update_tips">Новая функцыя</string>
   <string name="promot_enctypt_password">Увядзіце пароль, які выкарыстоўваецца для разблакоўкі прылады</string>
   <string name="pull_to_enter_private">Пацягніце ўніз, каб адкрыць схаваную тэчку</string>
-  <string name="qq_msg">З-за абмежаванняў Android 11 дыспетчар файлаў не можа атрымаць доступ і адлюстраваць дакументы QQ.</string>
+  <string name="qq_msg">З-за абмежаванняў Android 11 Правадыр не можа атрымаць доступ і адлюстраваць дакументы QQ.</string>
   <string name="qq_title">Няма доступу да дакументаў QQ</string>
   <string name="recent_hide_camera_and_screenshots">Не паказваць элементы Галерэі сярод нядаўніх файлаў</string>
   <string name="refresh_success">Абнаўленне будзе выканана</string>
@@ -573,7 +573,7 @@
   <string name="repair_error">Не атрымалася аднавіць. Паспрабуйце яшчэ раз.</string>
   <string name="repair_file">Аднавіць зашыфраваныя файлы</string>
   <string name="replace">Замяніць</string>
-  <string name="request_document_permission">Для кіравання файламі на вашай SD-карце прадастаўце Правадніку неабходныя дазволы.</string>
+  <string name="request_document_permission">Для кіравання файламі на вашай SD-карце прадастаўце Правадыру неабходныя дазволы.</string>
   <string name="request_document_permission_title">Патрабуюцца дазволы</string>
   <string name="request_timeout">Час падключэння выйшаў</string>
   <string name="reset_password">Скінуць пароль</string>
@@ -770,7 +770,7 @@
   <string name="v7_preference_off">ВЫКЛ.</string>
   <string name="v7_preference_on">УКЛ.</string>
   <string name="view_type">Выгляд</string>
-  <string name="wechat_msg">З-за абмежаванняў Android 11 дыспетчар файлаў не можа атрымаць доступ і адлюстраваць дакументы, папярэдне прагледжаныя WeChat. Адкрывайце і захоўвайце дакументы ў WeChat, каб яны адлюстроўваліся тут</string>
+  <string name="wechat_msg">З-за абмежаванняў Android 11 Правадыр не можа атрымаць доступ і адлюстраваць дакументы, папярэдне прагледжаныя WeChat. Адкрывайце і захоўвайце дакументы ў WeChat, каб яны адлюстроўваліся тут</string>
   <string name="wechat_title">Няма доступу да дакументаў WeChat</string>
   <string name="wechat_video">Відэа з %s</string>
   <string name="wednesday">Серада</string>
@@ -784,4 +784,12 @@
   <string name="year_month_day_format">d MMMM yyyy</string>
   <string name="yes">Так</string>
   <string name="yesterday">Учора</string>
+  <string name="lack_perm_msg">Правадыру для нармальнай працы патрабуюцца наступныя дазволы: &lt;b>%s&lt;/b></string>
+  <string name="lack_perm_title">Патрабуюцца дазволы</string>
+  <string name="main_button_continue">Налады</string>
+  <string name="main_button_ok">ОК</string>
+  <string name="main_button_quit">Адмена</string>
+  <string name="message_request_manage_external_storage_perm">Правадыру патрабуецца дазвол на доступ да файлаў, каб мець магчымасць кіраваць файламі на вашым прыладзе. Вы можаце прадаставіць гэты дазвол у наладах.</string>
+  <string name="perm_manage_external_storage">Доступ да ўсіх файлаў</string>
+  <string name="title_request_manage_external_storage_perm">Патрабуюцца дазволы</string>
 </resources>

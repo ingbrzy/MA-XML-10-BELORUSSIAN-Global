@@ -133,8 +133,6 @@
         <item>Няслушны лагін ці пароль</item>
         <item>IP-адрас XXXXXXX у чорным спісе. Пераключыце сетку ці ўвайдзіце на https://mail.sohu.com, каб наладзіць белы спіс IP-адрасоў кліента</item>
         <item>java.net.UnknownHostException: Немагчыма вызначыць хост</item>
-        <item>кліент адключаны, калі ласка, змяніце статус на сайце https://mail.sohu.com</item>
-        <item>няма пачатковага пароля, увайдзіце на https://mail.sohu.com, каб згенераваць кліенцкі пароль</item>
     </string-array>
     <string-array name="invoice_card_keyword">
         <item>Рахунак</item>

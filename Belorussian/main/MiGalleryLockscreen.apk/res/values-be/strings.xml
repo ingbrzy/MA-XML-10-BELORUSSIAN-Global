@@ -1117,4 +1117,11 @@
   <string name="detail_recomm_excellent">Прапанаваныя</string>
   <string name="detail_recomm_personal">Рэкамендаваныя</string>
   <string name="main_fragment_title_home_excellent">Прапанаваныя</string>
+  <string name="back">Назад</string>
+  <string name="close_country_code_content_description">Выдаліць код краіны</string>
+  <string name="facebook_login_btn_content_description">Увайсці з дапамогай Facebook</string>
+  <string name="google_login_btn_content_description">Увайсці з дапамогай Google</string>
+  <string name="qq_login_btn_content_description">Увайсці з дапамогай QQ</string>
+  <string name="weibo_login_btn_content_description">Увайсці з дапамогай Weibo</string>
+  <string name="weixin_login_btn_content_description">Увайсці з дапамогай WeChat</string>
 </resources>

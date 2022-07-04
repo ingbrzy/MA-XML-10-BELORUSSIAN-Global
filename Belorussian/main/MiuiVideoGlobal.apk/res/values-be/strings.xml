@@ -1953,7 +1953,7 @@
   <string name="local_diversion_all_local_videos">Усе відэа на прыладзе</string>
   <string name="local_diversion_view_more">Прагледзець</string>
   <string name="mi_video_pip_mode">Відарыс у відарысе</string>
-  <string name="small_video_tab_expose_hint">Адкрыйце для сябе кароткія відэа, якія вам спадабаюцца</string>
+  <string name="small_video_tab_expose_hint">Націсніце, каб убачыць больш кароткіх відэа</string>
   <string name="tip_playlist_guide_hint_a">Прагляд відэа з вашых плэйлістоў Google</string>
   <string name="tip_playlist_guide_hint_b">Прайгравайце відэа з вашых плэйлістоў YouTube без рэкламы</string>
   <string name="tip_subscribe_guide_hint_a">Прагляд аўтараў з вашых падпісак Google</string>
@@ -1967,4 +1967,21 @@
   <string name="toast_incentive_redeem_fail_short_of_storage_2002">Гэтая ўзнагарода ў цяперашні час недаступная. Паспрабуйце яшчэ раз пазней.</string>
   <string name="trending_history_continue_watching">Працягнуць прагляд</string>
   <string name="yt_subscription_notification_setting_title">Апавяшчэнні пра падпіску</string>
+  <string name="dialog_look_offline_btn">Прагледзець аўтаномны кантэнт</string>
+  <string name="dialog_no_internet_des">Вы не падлучаныя да сеткі. Замест гэтага прагледзець аўтаномны кантэнт?</string>
+  <string name="dialog_open_internet_btn">Падлучыцца да сеткі</string>
+  <string name="incentive_exchange_empty_tip">Тут пакуль нічога няма. Выкарыстайце балы, каб пачаць.</string>
+  <string name="incentive_login_success_for_already_claimd">Уваход выкананы. Вы атрымалі балы.</string>
+  <string name="item_title_for_search_page_hot">Папулярныя</string>
+  <string name="no_app_found_error">Не ўдалося знайсці праграму</string>
+  <string name="online_play_start_loading_tip">Хвілінку…</string>
+  <string name="online_play_start_ready_loading_tip_b">Загрузка %.2f Б/с</string>
+  <string name="online_play_start_ready_loading_tip_kb">Загрузка %.2f Кб/с</string>
+  <string name="online_play_start_ready_loading_tip_mb">Загрузка %.2f Мб/с</string>
+  <string name="widget_local_video">Відэа на прыладзе</string>
+  <string name="widget_local_video_click">Націсніце, каб прагледзець відэа, якія захаваны на вашай прыладзе</string>
+  <string name="widget_more_channel">Больш каналаў</string>
+  <string name="widget_more_channel_click">Націсніце для прагляду тэлеканалаў</string>
+  <string name="widget_trending_click">Націсніце, каб убачыць самыя папулярныя сённяшнія відэа</string>
+  <string name="widget_trending_today">Папулярныя сёння</string>
 </resources>

@@ -368,4 +368,8 @@
   <string name="invisible_mode_toast">Спачатку выключыце рэжым інкогніта</string>
   <string name="loading_view_abort_close_text">Закрыць</string>
   <string name="loading_view_abort_text">Скончыўся час чакання падлучэння.\nЗакрыйце гэты экран і паспрабуйце яшчэ раз.</string>
+  <string name="app_no_storage_permission">Дазволіць %1$s доступ да сховішча ў меню Налады > Праграмы > %2$s > Дазволы</string>
+  <string name="app_opened_in_new_window">Гэта праграма адкрыта ў новым акне</string>
+  <string name="settings_bluetooth_enable_summary">Уключыце Bluetooth, каб мець магчымасць знаходзіць прылады паблізу. Уключыць?</string>
+  <string name="settings_handoff_enable_bluetooth">Уключыце Bluetooth, каб знаходзіць прылады паблізу</string>
 </resources>

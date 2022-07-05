@@ -10578,4 +10578,13 @@ ID:%s
   <string name="freeform_guide_slide_to_small_freeform_summary_squarehot">"Націсніце і ўтрымлівайце ніжнюю частку акна, а затым перацягнуць яе да верхняга краю экрана.
 Гэтая функцыя працуе, толькі калі для сістэмнай навігацыі абраны жэсты."</string>
   <string name="miheadset_auto_upgrade_reminder">Адключыце аўтаматычныя абнаўленні і зноў праверце наяўнасць абнаўленняў</string>
+  <string name="bottom_to_top_slide">Зрух уверх</string>
+  <string name="left_to_right_slide">Зрух направа</string>
+  <string name="miheadset_keyconfig_click_thrice">Патройны націск кнопкі</string>
+  <string name="miheadset_keyconfig_click_twice">Падвойны націск кнопкі</string>
+  <string name="miheadset_keyconfig_press_long">Націснуць і ўтрымліваць кнопку %d сек.</string>
+  <string name="right_to_left_slide">Зрух налева</string>
+  <string name="top_to_bottom_slide">Зрух уніз</string>
+  <string name="wlan_switch_tips">Пераключэнне сетак Wi-Fi</string>
+  <string name="wlan_switch_tips_message">Пры пераключэнні паміж дапаможнай і асноўнай сеткамі Wi-Fi ваша прылада будзе часова адключана ад дапаможнай Wi-Fi. Пераключыцца?</string>
 </resources>

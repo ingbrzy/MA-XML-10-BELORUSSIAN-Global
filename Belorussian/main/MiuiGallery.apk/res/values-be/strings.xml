@@ -878,7 +878,7 @@
   <string name="functions_are_being_developed">Гэтая функцыя будзе даступная ў бліжэйшы час. Сачыце за абнаўленнямі!</string>
   <string name="gallery_setting">Налады</string>
   <string name="gallery_sync_disable_toast">Сінхранізацыя галерэі не ўключаная</string>
-  <string name="generate_story_summary">Зрабіце дастаткова фота, падключыце зарадную прыладу і выключыце экран для стварэння гісторый.</string>
+  <string name="generate_story_summary">Зрабіце дастаткова фота, падлучыце зарадную прыладу і выключыце экран, каб з\'явіліся гісторыі. Ужо створаныя гісторыі не знікнуць, калі вы адключыце гэтую функцыю.</string>
   <string name="generate_story_title">Гісторыі</string>
   <string name="get_album_info_in_process">Спампоўка інфармацыі воблачнага альбома...</string>
   <string name="gif_tip">GIF</string>
@@ -3183,4 +3183,15 @@
   <string name="feedback_my_reports">Водгук</string>
   <string name="feedback_problem">Паведаміць аб праблеме</string>
   <string name="feedback_suggest">Адправіць прапанову</string>
+  <string name="continue_feedback">Дадатковы водгук</string>
+  <string name="dolby_vision_icon">Абразок Dolby Vision</string>
+  <string name="pref_today_of_year_summary">Атрымлівайце напамін пра моманты, якія вы адлюстравалі ў гэты дзень на працягу многіх гадоў. Ужо створаныя гісторыі не знікнуць, калі вы адключыце гэтую функцыю.</string>
+  <string name="send_dolby_vision_duration_more_than_40s">Відэа Dolby Vision працягласцю больш за 4 хвілін можна публікаваць толькі ў зыходным відэафармаце. Працягнуць?</string>
+  <string name="send_dolby_vision_video_continue">Працягнуць</string>
+  <string name="today_of_year_function_closed_btn_tip">Уключыць</string>
+  <string name="today_of_year_function_closed_tip">Вы яшчэ не ўключылі функцыю \"У гэты дзень\"</string>
+  <string name="double_tap_for_hr_preview_200m">Двойчы націсніце яшчэ раз, каб пераключыцца на папярэдні прагляд 200MP</string>
+  <string name="hr_preview_200m">Пераключана на прадпрагляд 200MP</string>
+  <string name="install_media_editor_download_description">Загрузка…</string>
+  <string name="install_media_editor_download_title">Загрузка плагіна рэдактара галерэі…</string>
 </resources>

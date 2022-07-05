@@ -1577,4 +1577,5 @@
   <string name="wallpaper_apply_inner">Ужыць да ўнутранага экрана</string>
   <string name="wallpaper_apply_outer">Ужыць да знешняга экрана</string>
   <string name="label">Цэтлік</string>
+  <string name="wallpaper_apply_outer_and_inner">Ужыць да ўнутранага і знешняга экранаў</string>
 </resources>

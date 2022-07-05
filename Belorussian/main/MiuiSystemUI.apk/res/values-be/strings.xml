@@ -2652,4 +2652,8 @@
   <string name="traffic_unit_megabyte">" МБ"</string>
   <string name="tip_close_flares">Вы не будзеце атрымліваць апавяшчэнні аб дзеяннях праграмы падчас гэтага сеансу</string>
   <string name="quick_settings_low_battery_toast_text">Немагчыма выкарыстоўваць ліхтарык. Занадта нізкі зарад батарэі.</string>
+  <string name="dialog_forget_password_cancel">Адмена</string>
+  <string name="dialog_forget_password_message">Калі вы забылі свой PUK-код, вы можаце адключыць гэтую eSIM, каб не страціць доступ да сваёй прылады. Пасля гэтага вы можаце звярнуцца за дапамогай да свайго аператара сувязі.</string>
+  <string name="dialog_forget_password_ok">Адключыць</string>
+  <string name="forget_password_string_for_esim"><u>Забылі PUK-код</u></string>
 </resources>

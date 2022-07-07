@@ -2634,7 +2634,7 @@
   <string name="ethernet_data_template">^1 дадзеныя Ethernet</string>
   <string name="ethernet_data_usage">Выкарыстанне дадзеных Ethernet</string>
   <string name="ethernet_tether_checkbox_text">Ethernet-мадэм</string>
-  <string name="ethernet_tethering_subtext">Агульны доступ да інтэрнэт-падлучэння тэлефона праз Ethernet</string>
+  <string name="ethernet_tethering_subtext">Агульны доступ да інтэрнэт-падлучэння праз Ethernet</string>
   <string name="every_day">Штодня</string>
   <string name="exceptional_case">Выключныя выпадкі</string>
   <string name="expand_button_title">Высокая</string>
@@ -10587,4 +10587,5 @@ ID:%s
   <string name="top_to_bottom_slide">Зрух уніз</string>
   <string name="wlan_switch_tips">Пераключэнне сетак Wi-Fi</string>
   <string name="wlan_switch_tips_message">Пры пераключэнні паміж дапаможнай і асноўнай сеткамі Wi-Fi ваша прылада будзе часова адключана ад дапаможнай Wi-Fi. Пераключыцца?</string>
+  <string name="miheadset_double_toast">Устаўце абодва навушнікі, каб выкарыстоўваць гэтую функцыю.</string>
 </resources>

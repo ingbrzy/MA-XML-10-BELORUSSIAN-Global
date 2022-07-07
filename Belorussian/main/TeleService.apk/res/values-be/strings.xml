@@ -1476,7 +1476,7 @@
   <string name="msim_setting_sim_info_editor_title">Інфармацыя SIM-карты</string>
   <string name="msim_sim_lock">Заблакавана</string>
   <string name="msim_sim_radio_off">Выключаны</string>
-  <string name="msim_switch_data_conn_toast">Вы замянілі SIM-карту. Тып сеткі зменены. Глядзіце дадатковую інфармацыю ў меню Налады SIM-карты і мабільныя сеткі.</string>
+  <string name="msim_switch_data_conn_toast">Вы замянілі SIM-карту. Тып сеткі зменены.</string>
   <string name="msim_switch_data_conn_toast_for_h2xct">Слот 2 SIM-карты падтрымлівае толькі сеткі GSM. Тып пераважнай сеткі для гэтага слота будзе зменены на 2G.</string>
   <string name="mtn_simlock_emergency">Экстранны выклік</string>
   <string name="mtn_simlock_text_tip">Устаўленая SIM-карта не адпавядае патрабаванням. Перад выкарыстаннем тэлефона вам неабходна ўставіць SIM-карту, прадугледжаную дамовай. Па падрабязнасці звяртайцеся да свайго аператара сувязі.</string>

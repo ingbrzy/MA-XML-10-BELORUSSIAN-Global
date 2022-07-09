@@ -785,8 +785,8 @@
   <string name="sync_dspt_entrance_provision_confirm_content_v2">Сістэмным праграмам MIUI патрабуецца воблака Xiaomi для рэзервовага капіявання вашых фатаграфій, паведамленняў, нататак і шмат чаго іншага. Воблака Xiaomi бясплатнае і гатова да выкарыстання прама з скрынкі.</string>
   <string name="sync_dspt_entrance_provision_confirm_open">Выкарыстоўваць Воблака Xiaomi</string>
   <string name="sync_dspt_entrance_provision_confirm_title">Не выкарыстоўваць Воблака Xiaomi?</string>
-  <string name="sync_dspt_entrance_provision_network">Для звычайнай працы дадатку неабходнае падлучэнне да інтэрнэту. Сінхранізацыя магчыма праз мабільную сетку і Wi-Fi.</string>
-  <string name="sync_dspt_entrance_provision_network_china">Гэтай праграме трэба падключэнне да Інтэрнэт для нармальнай працы. Дадзеныя могуць сінхранізавацца праз сеткі перадачы дадзеных або Wi-Fi.</string>
+  <string name="sync_dspt_entrance_provision_network">Для звычайнай працы праграме неабходна падлучэнне да Інтэрнэту. Сінхранізацыя магчыма праз мабільную сетку і Wi-Fi.</string>
+  <string name="sync_dspt_entrance_provision_network_china">Гэтай праграме трэба падключэнне да Інтэрнэту для нармальнай працы. Дадзеныя могуць сінхранізавацца праз сеткі перадачы дадзеных або Wi-Fi.</string>
   <string name="sync_dspt_entrance_provision_v2">Сінхранізуйце свае фатаграфіі, нататкі і іншыя элементы на ўсіх сваіх прыладах. Атрымвайце доступ да сiнхранiзаваных дадзеных з любога браўзэра на %s.</string>
   <string name="sync_item_autofill_summary">Шыфруйце свае паролі і аўтаматычна сінхранізуйце іх з воблакам</string>
   <string name="sync_item_autofill_title">Аўтасінхранізацыя</string>

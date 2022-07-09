@@ -45,7 +45,7 @@
   <string name="close_twice_auth_note">Звярніце ўвагу:\nПасля стварэння новых кантрольных пытанняў і пацвярджэння даты нараджэння двухфактарная аўтэнтыфікацыя будзе адключана. Калі на старонцы ўліковага запісу Apple ID адсутнічае пункт для адключэння двухфактарнай аўтэнтыфікацыі, значыць, яе нельга адключыць.</string>
   <string name="close_twice_auth_operation">Спасылка для адключэння:\nhttps://appleid.apple.com/#!&amp;page=signin</string>
   <string name="close_twice_auth_step_1">1. Адкрыйце любы вэб-браўзэр на любым кампутары і перайдзіце па адрасе appleid.apple.com.</string>
-  <string name="close_twice_auth_step_2">2. Увайдзіце ў Apple ID, для якога вы хочаце адключыць двухфактарную аўтэнтыфікацыю, перайдзіце ў раздзел \"Бяспека\" параметраў уліковага запісу і выберыце \"Праўка\".</string>
+  <string name="close_twice_auth_step_2">2. Увайдзіце ў Apple ID, для якога вы хочаце адключыць двухфактарную аўтэнтыфікацыю, перайдзіце ў раздзел \"Бяспека\" параметраў уліковага запісу і абярыце \"Праўка\".</string>
   <string name="close_twice_auth_step_3">3. Націсніце \"Адключыць двухфактарную аўтэнтыфікацыю\". Націсніце яшчэ раз, каб пацвердзіць.</string>
   <string name="close_twice_auth_steps">Для адключэння двухфактарнай аўтэнтыфікацыі Apple ID выканайце наступныя дзеянні:</string>
   <string name="close_twice_auth_tutor">Адключыце двухфактарную ідэнтыфікацыю Apple ID</string>
@@ -146,7 +146,7 @@
   <string name="friday_shortest">П</string>
   <string name="get_known_tip">Паспрабуйце зноў</string>
   <string name="group_info_scanning">Разлік…</string>
-  <string name="guest_hint_connect_new_device">Выберыце новую прыладу</string>
+  <string name="guest_hint_connect_new_device">Абярыце новую прыладу</string>
   <string name="guest_install_app_hint_ensure">Спампаваць</string>
   <string name="guest_install_app_hint_summary">Новая версія Mi Трансфер не сумяшчальная з усталяванай на гэтай прыладзе. Спампуйце і ўсталюйце новую версію.</string>
   <string name="guest_install_app_hint_title">Спампаваць новую версію Mi Трансфер</string>
@@ -160,11 +160,11 @@
   <string name="host_boot_installation_content">1. Зайдзіце ў налады на вашым старым прыладзе.\n2. Увядзіце Mi Трансфер ў радку пошуку.\n3. Націсніце «Mi Трансфер» ў выніках пошуку.</string>
   <string name="host_boot_installation_dialog_message">Версія Mi Трансфер на вашай старой прыладзе несумяшчальная з усталяванай тут. Абновіце Mi Трансфер на старой прыладзе.</string>
   <string name="host_boot_installation_first_title">Адкрыйце Mi Трансфер на вашай старой прыладзе</string>
-  <string name="host_boot_installation_message">Выберыце старонку, якую вы бачыце на старой прыладзе. Калі вы карыстаецеся старую версію Mi Трансфер, мы раскажам вам, як яе абнавіць.</string>
+  <string name="host_boot_installation_message">Абярыце старонку, якую вы бачыце на старой прыладзе. Калі вы карыстаецеся старую версію Mi Трансфер, мы раскажам вам, як яе абнавіць.</string>
   <string name="host_boot_installation_second_title">Пацвердзіць версію Mi Трансфер</string>
   <string name="host_boot_installation_step_one_messege">Перайдзіце ў налады, увядзіце \"Mi Трансфер\" у радку пошуку і націсніце \"Mi Трансфер\" ў выніках пошуку.</string>
   <string name="host_boot_installation_step_one_title">1. Адкрыйце Mi Трансфер на вашай старой прыладзе</string>
-  <string name="host_boot_installation_step_two_title">2. Выберыце старонку, якую бачыце на старой прыладзе.</string>
+  <string name="host_boot_installation_step_two_title">2. Абярыце старонку, якую бачыце на старой прыладзе.</string>
   <string name="host_boot_installation_tips">Не можаце знайсці Mi Трансфер? Націсніце, каб спампаваць.</string>
   <string name="host_connect_timeout_tip">Не ўдаецца падлучыцца на працягу доўгага часу</string>
   <string name="host_dialog_install_button">Усталяваць на іншую прыладу</string>
@@ -172,7 +172,7 @@
   <string name="host_dialog_message">Пераканайцеся, што на іншай прыладзе ўстаноўлена апошняя версія Mi Трансфер, у адваротным выпадку дзве прылады не змогуць падлучыцца.</string>
   <string name="host_dialog_title">Не ўдаецца падлучыцца на працягу доўгага часу</string>
   <string name="host_memory_insuff_cancel">Адмяніць</string>
-  <string name="host_memory_insuff_confirm">Выберыце зноў</string>
+  <string name="host_memory_insuff_confirm">Абярыце зноў</string>
   <string name="host_memory_insuff_summary">На новай прыладзе недастаткова месца для запуску перадачы.</string>
   <string name="host_memory_insuff_title">Недастаткова месца для захоўвання</string>
   <string name="hsa_code_null">Код пацвярджэння не можа быць пустым</string>
@@ -193,7 +193,7 @@
   <string name="icloud_how_to_backup_tip_steps">Увага\n1. Каб імпартаваць элементы з прылады iOS, выкарыстоўвайце апошнюю рэзервовую копію або сінхранізуе ўсе элементы да пачатку перадачы.</string>
   <string name="icloud_how_to_backup_tip_steps_two">2. Ваш Apple ID і пароль будуць выкарыстоўвацца толькі для ўваходу. Яны не будуць захаваны або запісаныя Mi Трансфер.</string>
   <string name="icloud_login_title">Увайсці ў iCloud</string>
-  <string name="icloud_need_sync">Выберыце элементы для імпарту</string>
+  <string name="icloud_need_sync">Абярыце элементы для імпарту</string>
   <string name="icloud_need_traffic_message">У цяперашні час WI-Fi не падлучаны. Пры імпарце дадзеных з iCloud будзе выкарыстоўвацца трафік дадзеных. Калі ласка, пацвердзіце, ці варта пачынаць перадачу неадкладна.</string>
   <string name="icloud_need_traffic_title">З дапамогай мабільных дадзеных</string>
   <string name="icloud_need_wifi_message">Вы не падлучаныя да Wi-Fi. Для імпарту дадзеных з iCloud падключыцеся да Wi-Fi.</string>
@@ -235,12 +235,12 @@
   <string name="main_chooser_item_android_mi">Імпарт з прылады Android</string>
   <string name="main_chooser_item_android_others">Імпарт з іншага тэлефона Android</string>
   <string name="main_chooser_item_ios">Імпарт з прылады iOS</string>
-  <string name="main_chooser_title">Выберыце старую прыладу</string>
+  <string name="main_chooser_title">Абярыце старую прыладу</string>
   <string name="message_request_package_stats_perm">Mi Трансфер патрабуецца гэты дазвол, каб даведацца, якія праграмы ўстаноўлены на адной прыладзе, і перанесці гэтыя праграмы на іншую.</string>
   <string name="midnight">АМ</string>
-  <string name="miui_need_location_permission_summary">З-за абмежаванняў палітыкі бяспекі сістэмы для пошуку іншых мабільных кропак доступу ў дадатку неабходна ўключыць службу вызначэння месцазнаходжання.</string>
+  <string name="miui_need_location_permission_summary">З-за абмежаванняў палітыкі бяспекі сістэмы для пошуку іншых мабільных пунктаў доступу ў праграме неабходна ўключыць службу вызначэння месцазнаходжання.</string>
   <string name="miui_need_location_permission_title">Уключыце GPS!</string>
-  <string name="miui_need_open_high_accuracy_summary">З-за абмежаванняў палітыкі бяспекі сістэмы для пошуку іншых мабільных кропак доступу ў праграме патрабуецца ўключыць рэжым высокай дакладнасці ў службе вызначэння месцазнаходжання.</string>
+  <string name="miui_need_open_high_accuracy_summary">З-за абмежаванняў палітыкі бяспекі сістэмы для пошуку іншых мабільных пунктаў доступу ў праграме патрабуецца ўключыць рэжым высокай дакладнасці ў службе вызначэння месцазнаходжання.</string>
   <string name="miui_need_open_high_accuracy_title">Уключыце GPS!</string>
   <string name="mms">MMS</string>
   <string name="mms_contacts_calllog">Паведамленні, кантакты і гісторыя званкоў</string>
@@ -323,7 +323,7 @@
   <string name="no_sim">SIM-карта адсутнічае.</string>
   <string name="noon">ПП</string>
   <string name="note">Нататка</string>
-  <string name="nothing_chosen">Спачатку выберыце элементы</string>
+  <string name="nothing_chosen">Спачатку абярыце элементы</string>
   <string name="notif_icloud_canceled_summary">Скасавана</string>
   <string name="notif_icloud_canceling_summary">Скасаванне…</string>
   <string name="notif_icloud_import_title">Імпарт дадзеных з iCloud</string>
@@ -348,7 +348,7 @@
   <string name="ok">ОК</string>
   <string name="old_app_name">Старая версія</string>
   <string name="old_task_cleared">Паспяхова выдаленыя старыя задачы</string>
-  <string name="old_wait_link">Выберыце элементы для перадачы на ​​старой прыладзе</string>
+  <string name="old_wait_link">Абярыце элементы для перадачы на ​​старой прыладзе</string>
   <string name="old_wait_link_extra">Націсніце «Перадача»</string>
   <string name="option_feedback_title">Зваротная сувязь</string>
   <string name="organization">Арганізацыя</string>
@@ -388,7 +388,7 @@
   <string name="saving_data_not_close_wifi">Не выключайце Wi-Fi</string>
   <string name="saving_data_space_low">Недастаткова вольнага месца.\nВызваліце не менш %s.</string>
   <string name="scan_soft_ap_label">Падключэнне да новай прылады</string>
-  <string name="scanner_bottom_tip">Выберыце толькі важныя элементы, каб паскорыць перадачу.</string>
+  <string name="scanner_bottom_tip">Абярыце толькі важныя элементы, каб паскорыць перадачу.</string>
   <string name="scanner_permission_alert_cancel">Зразумела</string>
   <string name="scanner_permission_alert_ok">Налады</string>
   <string name="scanner_quit_alert_btn_negative">Выйсці</string>
@@ -399,7 +399,7 @@
   <string name="scanner_send_dialog_message">Ня выключайце Wi-Fi і не пераключайцеся паміж сеткамі падчас перадачы.</string>
   <string name="scanner_size_selected">Выбрана: %s</string>
   <string name="scanner_time_remained">Разліковы час перадачы: %s</string>
-  <string name="scanner_title_tip">Выберыце элементы для перадачы</string>
+  <string name="scanner_title_tip">Абярыце элементы для перадачы</string>
   <string name="scanner_wechat_overwrite_hit">З-за абмежаванняў іншых праграм гісторыі чатаў і іншыя дадзеныя на вашай новай прыладзе будуць замененыя дадзенымі са старой праграмы пасля завяршэння перадачы.</string>
   <string name="search_action_mode_cancel">Адмена</string>
   <string name="search_input_description">Пошук</string>
@@ -407,8 +407,8 @@
   <string name="searching_for_new_device">Пошук новай прылады…</string>
   <string name="select_all">Выбраць усё</string>
   <string name="select_all_description">Выбраць усё</string>
-  <string name="select_empty">Выберыце элементы для імпарту</string>
-  <string name="select_item">Выберыце аб\'екты</string>
+  <string name="select_empty">Абярыце элементы для імпарту</string>
+  <string name="select_item">Абярыце аб\'екты</string>
   <string name="select_item_calendar">Каляндар</string>
   <string name="select_item_contacts">Кантакты</string>
   <string name="select_item_empty_summary">Няма аб\'ектаў</string>
@@ -541,7 +541,7 @@
   <string name="trans_receive_time_remained">Атрымана: %1$s | Засталося: %2$s</string>
   <string name="trans_send_time_remained">Адпраўлена: %1$s | Засталося: %2$s</string>
   <string name="trans_show_qr_code_label">Адкрыйце Mi Трансфер на старой прыладзе</string>
-  <string name="trans_sync_transfer_data_list">Выберыце элементы для перадачы на ​​старой прыладзе</string>
+  <string name="trans_sync_transfer_data_list">Абярыце элементы для перадачы на ​​старой прыладзе</string>
   <string name="trans_time_format_second">Менш за хвіліну</string>
   <string name="trans_time_spent">Прайшло часу: %s</string>
   <string name="transfer_bottom_tip">Вы не зможаце выкарыстоўваць Wi-Fi або Bluetooth падчас перадачы. Не пакідай гэты экран.</string>
@@ -660,8 +660,8 @@
   <string name="ble_host_verification_title">Падлучэнне да старой прылады…</string>
   <string name="ble_manual_connect">Падлучыцца ўручную</string>
   <string name="ble_refuse_button">Адхіліць</string>
-  <string name="ble_start_ap_successed">Паспяхова створана кропка доступу. Чаканне падлучэння…</string>
-  <string name="ble_starting_ap">Стварэнне кропкi доступу…</string>
+  <string name="ble_start_ap_successed">Паспяхова створаны пункт доступу. Чаканне падлучэння…</string>
+  <string name="ble_starting_ap">Стварэнне пункту доступу…</string>
   <string name="ble_wait_verify_code">Генерацыя кода на новай прыладзе…</string>
   <string name="ble_waiting_verify_code">Праверка кода…</string>
   <string name="ble_waiting_verify_code_error">Уведзены вамі код няправільны</string>
@@ -672,12 +672,12 @@
   <string name="dialog_request_permission_title">Увага</string>
   <string name="miui_wait_link_message_1">Кнопка «Я адпраўнік» знаходзіцца прама на стартавай старонцы Mi Трансфер.</string>
   <string name="miui_wait_link_title_1">%d. Націсніце «Я адпраўнік» і пачакайце крыху.</string>
-  <string name="miui_wait_link_title_2">%d. Выберыце гэтую кропку доступу на старой прыладзе для падлучэння.</string>
+  <string name="miui_wait_link_title_2">%d. Абярыце гэты пункт доступу на старой прыладзе для падлучэння.</string>
   <string name="new_wait_link_message_1">Зайдзіце ў «Налады», увядзіце «Mi Трансфер» у радку пошуку і націсніце «Mi Трансфер» ў выніках пошуку.</string>
   <string name="new_wait_link_message_2">Кнопка «Я адпраўнік» знаходзіцца прама на стартавай старонцы Mi Трансфер.</string>
   <string name="new_wait_link_title_1">1. Зайдзіце ў налады на вашай старой прыладзе.</string>
   <string name="new_wait_link_title_2">1. Націсніце «Я адпраўнік» і пачакайце крыху.</string>
-  <string name="new_wait_link_title_3">2. Абярыце наступную кропку доступу Wi-Fi на старой прыладзе.</string>
+  <string name="new_wait_link_title_3">2. Абярыце наступны пункт доступу Wi-Fi на старой прыладзе.</string>
   <string name="option_privacy_policy">Палітыка прыватнасці</string>
   <string name="permission_bluetooth_summary">Для пошуку даступных прылад паблізу</string>
   <string name="permission_bluetooth_title">Уключэнне і выключэнне Bluetooth</string>
@@ -752,9 +752,9 @@
   <string name="guest_manual_connect_link_text">Падлучыцца да новай прылады ўручную</string>
   <string name="host_manual_connect_link_text">Калі старой прыладзе патрабуецца занадта шмат часу для пошуку пункту доступу, паспрабуйце падлучыцца ўручную.</string>
   <string name="manual_connection_content1">1. Націсніце «Падлучыцца да новай прылады ўручную» на старой прыладзе.</string>
-  <string name="manual_connection_content2">2. Выберыце наступную кропку доступу Wi-Fi.</string>
+  <string name="manual_connection_content2">2. Абярыце наступны пункт доступу Wi-Fi.</string>
   <string name="manual_connection_content3">3. Калі ласка, увядзіце гэты пароль на старой прыладзе для падлучэння.</string>
-  <string name="manual_connection_summary2">Калі вы не можаце знайсці гэтую кропку доступу, абновіце спіс даступных сетак Wi-Fi і паспрабуйце ізноў.</string>
+  <string name="manual_connection_summary2">Калі вы не можаце знайсці гэты пункт доступу, абновіце спіс даступных сетак Wi-Fi і паспрабуйце ізноў.</string>
   <string name="manual_connection_title">Падлучыцца да старой прылады ўручную</string>
   <string name="not_support_data_content1">1. Элементы, якія адносяцца да мадэлі прылады</string>
   <string name="not_support_data_content2">2. Дадзеныя выбраных праграм</string>
@@ -786,7 +786,7 @@
   <string name="receiver_finish_title">Усё гатова!</string>
   <string name="select_android_summary">Huawei, OPPO, Vivo і іншыя</string>
   <string name="select_mi_summary">Xiaomi і Redmi</string>
-  <string name="select_old_device_title">Выберыце мадэль старой прылады</string>
+  <string name="select_old_device_title">Абярыце мадэль старой прылады</string>
   <string name="sender_finish_bottom_tips">Пераканайцеся, што вы стварылі рэзервовыя копіі ўсіх важных элементаў, перш чым сціраць дадзеныя на гэтай прыладзе.</string>
   <string name="sender_finish_title">Перададзена паспяхова</string>
   <string name="transfer_finish_summary">Перададзена %1$s (%2$s)</string>
@@ -803,7 +803,7 @@
   <string name="abc_action_menu_overflow_description">Дадатковыя параметры</string>
   <string name="abc_action_mode_done">Гатова</string>
   <string name="abc_activity_chooser_view_see_all">Паказаць усе</string>
-  <string name="abc_activitychooserview_choose_application">Выберыце праграму</string>
+  <string name="abc_activitychooserview_choose_application">Абярыце праграму</string>
   <string name="abc_capital_off">ВЫКЛ.</string>
   <string name="abc_capital_on">УКЛ.</string>
   <string name="abc_menu_alt_shortcut_label">Alt +</string>
@@ -947,7 +947,7 @@
   <string name="apple_contacts">Кантакты</string>
   <string name="apple_image">Фота</string>
   <string name="apple_video">Відэа</string>
-  <string name="soft_ap_create_failed_apple">Не атрымалася ўсталяваць кропку доступу</string>
+  <string name="soft_ap_create_failed_apple">Не атрымалася ўсталяваць пункт доступу</string>
   <string name="trans_apple">Падлучыце свой iPhone</string>
   <string name="trans_apple_button_cancel">Адмяніць перанос</string>
   <string name="trans_apple_button_cancel_hint">Адмяніць перанос?</string>

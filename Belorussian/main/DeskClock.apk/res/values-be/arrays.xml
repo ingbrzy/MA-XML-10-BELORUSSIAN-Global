@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="alarm_in_furture">
-        <item>Да сігналу будзільніка застаецца менш за хвіліну</item>
-        <item>Да сігналу будзільніка: %1$s</item>
-        <item>Да сігналу будзільніка: %2$s</item>
-        <item>Да сігналу будзільніка: %1$s %2$s</item>
-        <item>Да сігналу будзільніка: %3$s</item>
-        <item>Да сігналу будзільніка: %1$s %3$s</item>
-        <item>Да сігналу будзільніка: %2$s %3$s</item>
-        <item>Да сігналу будзільніка: %1$s %2$s %3$s</item>
+        <item>Да сігналу менш за хвіліну</item>
+        <item>Да сігналу: %1$s</item>
+        <item>Да сігналу: %2$s</item>
+        <item>Да сігналу: %1$s %2$s</item>
+        <item>Да сігналу: %3$s</item>
+        <item>Да сігналу: %1$s %3$s</item>
+        <item>Да сігналу: %2$s %3$s</item>
+        <item>Да сігналу: %1$s %2$s %3$s</item>
     </string-array>
     <string-array name="alarm_repeat_type">
-        <item>Аднакроць</item>
+        <item>Аднаразова</item>
         <item>Штодня</item>
         <item>Працоўныя дні</item>
         <item>Выхадныя дні</item>
@@ -19,20 +19,20 @@
         <item>Свая</item>
     </string-array>
     <string-array name="alarm_repeat_type_no_workdays">
-        <item>Адзін раз</item>
+        <item>Аднаразова</item>
         <item>Штодня</item>
         <item>З ПН па ПТ</item>
         <item>Усталяваць сваю</item>
     </string-array>
     <string-array name="alarm_set">
-        <item>Будзільнік зазвініць менш чым праз хвіліну.</item>
-        <item>Будзільнік зазвініць праз %1$s.</item>
-        <item>Будзільнік зазвініць праз %2$s.</item>
-        <item>Будзільнік зазвініць праз %1$s і %2$s.</item>
-        <item>Будзільнік зазвініць праз %3$s.</item>
-        <item>Будзільнік зазвініць праз %1$s і %3$s.</item>
-        <item>Будзільнік зазвініць праз %2$s і %3$s.</item>
-        <item>Будзільнік зазвініць праз %1$s %2$s і %3$s.</item>
+        <item>Спрацуе менш чым праз хвіліну.</item>
+        <item>Спрацуе праз %1$s.</item>
+        <item>Спрацуе праз %2$s.</item>
+        <item>Спрацуе праз %1$s і %2$s.</item>
+        <item>Спрацуе праз %3$s.</item>
+        <item>Спрацуе праз %1$s і %3$s.</item>
+        <item>Спрацуе праз %2$s і %3$s.</item>
+        <item>БСпрацуе праз %1$s %2$s і %3$s.</item>
     </string-array>
     <string-array name="aqi_value">
         <item>Добры</item>

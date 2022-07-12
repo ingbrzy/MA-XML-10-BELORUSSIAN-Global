@@ -297,7 +297,7 @@
   <string name="silent_alarm_summary">Без гука</string>
   <string name="skip_alarm_once_hint">Адключыць адзін раз %s</string>
   <string name="sleep_analysis">Статыстыка</string>
-  <string name="sleep_date_provider_text">Дадзеныя пра сон прадастаўлены Mi Здароўе</string>
+  <string name="sleep_date_provider_text">Дадзеныя пра сон прадастаўлены Mi Здароўем</string>
   <string name="sleep_duration">Працягласць сну:</string>
   <string name="sleep_duration_avg_text_diff">Сярэдняя працягласць сну (%1$s-%2$s)</string>
   <string name="sleep_duration_desc">Сон %1$s %2$s</string>
@@ -390,8 +390,8 @@
   <string name="turn_off_this_repeat_alarm">Адключыць назаўсёды</string>
   <string name="upcoming_alarm">Будучы будзільнік: %s</string>
   <string name="upcoming_alarm_hint">Вы можаце адключыць гэты будзільнік зараз</string>
-  <string name="update_health_app">Абнаўленне Mi Здароўе</string>
-  <string name="update_health_app_desc">Функцыя адсочвання сну прадастаўляецца Mi Здароўе. Абновіце Mi Здароўе да апошняй версіі, каб атрымаць доступ да адпаведных функцый.</string>
+  <string name="update_health_app">Абнаўленне Mi Здароўя</string>
+  <string name="update_health_app_desc">Функцыя адсочвання сну прадастаўляецца Mi Здароўем. Абновіце Mi Здароўе да апошняй версіі, каб атрымаць доступ да адпаведных функцый.</string>
   <string name="update_it">Абнаўленне</string>
   <string name="update_notification_info">Абнаўленне дадзеных ў фонавым рэжыме…</string>
   <string name="usage_start">Пачаць</string>
@@ -713,7 +713,7 @@
   <string name="show_life_post_desc">Ранішняя зводка не будзе адлюстроўвацца, калі вы адключыце гэтую функцыю</string>
   <string name="show_life_post_lable">Паказаць ранішнюю зводку</string>
   <string name="sleep_date_provider_text_new">Дадзеныя аб сне прадастаўлены Mi Здароўем</string>
-  <string name="sleep_record_desc_detailed_new">Адсочванне сну забяспечваецца функцыяй Mi Здароўя . Калі вы ўключыце гэтую функцыю, Mi Здароўе будзе аўтаматычна збіраць і адлюстроўваць дадзеныя аб вашым сне на аснове выкарыстання тэлефона, актыўнасці, а таксама ўсталяванага вамі часу сну і абуджэння. Каб дакладней адсочваць сон, дазвольце аўтазапуск Mi Здароўя.</string>
+  <string name="sleep_record_desc_detailed_new">Адсочванне сну забяспечваецца функцыяй Mi Здароўя. Калі вы ўключыце гэтую функцыю, Mi Здароўе будзе аўтаматычна збіраць і адлюстроўваць дадзеныя аб вашым сне на аснове выкарыстання тэлефона, актыўнасці, а таксама ўсталяванага вамі часу сну і абуджэння. Каб дакладней адсочваць сон, дазвольце аўтазапуск Mi Здароўя.</string>
   <string name="update_health_app_desc_new">Функцыя адсочвання сну прадастаўляецца Mi Здароўем. Абнавіце Mi Здароўе да апошняй версіі, каб атрымаць доступ да адпаведных функцый.</string>
   <string name="update_health_app_new">Абнавіць Mi Здароўе</string>
   <string name="read_phone_state">Доступ да інфармацыі аб прыладзе</string>
@@ -736,4 +736,6 @@
   <string name="white_noise_not_selected">Не абраная</string>
   <string name="white_noise_selected">Абраная</string>
   <string name="your_sounds">Мае мелодыі</string>
+  <string name="xiaomi_deskclock_uninstall_description_content">\"Гадзіннік\" - гэта сістэмная праграма. Вы не зможаце правяраць час, усталёўваць будзільнікі ці выкарыстоўваць іншыя функцыі гадзінніка пасля выдалення праграмы.</string>
+  <string name="xiaomi_deskclock_uninstall_description_title">Выдаліць \"Гадзіннік\"?</string>
 </resources>

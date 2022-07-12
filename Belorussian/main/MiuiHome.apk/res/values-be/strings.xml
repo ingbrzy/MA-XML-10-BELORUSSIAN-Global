@@ -1068,4 +1068,7 @@
   <string name="external_not_support_split_screen_j18">Падзел экрана не падтрымліваецца на знешнім экране</string>
   <string name="unstable_dialog_message">Гэтая прылада зарэгістравана ў праграме папярэдняй версіі Android 13 для распрацоўшчыкаў. Праграма дазваляе распрацоўшчыкам Android і энтузіястам апрабаваць папярэднія версіі Android 13. Гэтая папярэдняя версія можа змяшчаць памылкі і дэфекты, якія могуць паўплываць на нармальную працу вашай прылады.</string>
   <string name="unstable_dialog_title">Праграма папярэдняй версіі Android для распрацоўшчыкаў</string>
+  <string name="xiaomi_market_sdk_update_dialog_cancel">Не цяпер</string>
+  <string name="xiaomi_market_sdk_update_dialog_ok">Абнавіць</string>
+  <string name="xiaomi_market_sdk_update_dialog_title">Даступна абнаўленне</string>
 </resources>

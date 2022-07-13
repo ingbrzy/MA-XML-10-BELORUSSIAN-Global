@@ -10588,4 +10588,6 @@ ID:%s
   <string name="wlan_switch_tips">Пераключэнне сетак Wi-Fi</string>
   <string name="wlan_switch_tips_message">Пры пераключэнні паміж дапаможнай і асноўнай сеткамі Wi-Fi ваша прылада будзе часова адключана ад дапаможнай Wi-Fi. Пераключыцца?</string>
   <string name="miheadset_double_toast">Устаўце абодва навушнікі, каб выкарыстоўваць гэтую функцыю.</string>
+  <string name="miheadset_close_leaudio_first">Адключыце LE Audio у дадатковых наладах, каб выкарыстоўваць гэтую функцыю</string>
+  <string name="miheadset_openAnc2">Шумапрыглушэнне</string>
 </resources>

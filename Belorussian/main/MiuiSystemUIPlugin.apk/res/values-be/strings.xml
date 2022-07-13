@@ -333,7 +333,7 @@
   <string name="quick_settings_cellular_detail_dialog_positive_button_turnoff">Выключыць</string>
   <string name="quick_settings_cellular_detail_title">Мабільны інтэрнэт</string>
   <string name="quick_settings_cellular_detail_unable_change">Немагчыма ўсталяваць падчас выкліку</string>
-  <string name="quick_settings_circulate_workd_label">Картка трансляцыi</string>
+  <string name="quick_settings_circulate_workd_label">Цэнтр трансляцыі</string>
   <string name="quick_settings_drivemode_label">Аўтамабільны рэжым</string>
   <string name="quick_settings_edit_label">Змяніць</string>
   <string name="quick_settings_extreme_batterysaver_label">Максімальнае энергазберажэнне</string>
@@ -502,4 +502,9 @@
   <string name="wireless_charging_tips_sub_message">Іншая прылада павінна падтрымліваць стандарт бесправадной зарадкі Qi.</string>
   <string name="wireless_charging_tips_title">Зваротная бесправадная зарадка</string>
   <string name="yesterday">Учора</string>
+  <string name="controls_media_title">Мультымедыя</string>
+  <string name="miuix_access_state_desc">Абрана</string>
+  <string name="miuix_alphabet_indexer_name">Алфавітная лінейка</string>
+  <string name="miuix_indexer_selected">Абрана: %s</string>
+  <string name="miuix_indexer_collect">Калекцыі</string>
 </resources>

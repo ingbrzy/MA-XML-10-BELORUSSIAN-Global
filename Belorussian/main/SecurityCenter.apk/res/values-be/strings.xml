@@ -739,7 +739,7 @@
   <string name="doze_optimization_title">Аптымізаванае сэнсарнае кіраванне</string>
   <string name="dual_setting_simcard1">SIM 1</string>
   <string name="dual_setting_simcard2">SIM 2</string>
-  <string name="email">Email</string>
+  <string name="email">Пошта</string>
   <string name="empty_app">Няма праграм</string>
   <string name="empty_title_auto_start_list">Няма праграм з аўтазапускам.</string>
   <string name="empty_title_garbage_virus_white_list">Утрымлівайце аб\'ект, каб дадаць яго ў выключэнні</string>
@@ -940,7 +940,7 @@
   <string name="function_shield_summary_m">Абмежаваць аўтаматычную яркасць і жэст здымка экрана</string>
   <string name="function_shield_three_finger">Адключыць жэст здымка экрана</string>
   <string name="function_shield_title">Палепшаны вопыт</string>
-  <string name="function_shield_voice_trigger">Не запускаць Mi ІІ галасавымі камандамі</string>
+  <string name="function_shield_voice_trigger">Не запускаць Mi ШІ галасавымі камандамі</string>
   <string name="fw_blocked">Чорны спіс</string>
   <string name="fw_blocked_count">"Заблакавана "</string>
   <string name="fw_blocked_join">" і "</string>
@@ -3446,12 +3446,12 @@
   <string name="privacy_pop_location">Доступ да месцазнаходжання сёння</string>
   <string name="privacy_pop_record">Запіс аўдыё сёння</string>
   <string name="privacy_pop_storage">Доступ да сховішча сёння</string>
-  <string name="privacy_protect_summary">Абарона інфармацыі</string>
-  <string name="privacy_protect_title">Абарона прыватнасці</string>
+  <string name="privacy_protect_summary">Абарона прыватнасці</string>
+  <string name="privacy_protect_title">Абарона</string>
   <string name="privacy_provision_back">Назад</string>
   <string name="privacy_provision_more">Даведайцеся больш аб абароне прыватнасці</string>
   <string name="privacy_provision_next">Далей</string>
-  <string name="privacy_provision_summary">Абарона прыватнасці з\'яўляецца абавязацельствам за дызайн нашых прадуктаў</string>
+  <string name="privacy_provision_summary">Абарона прыватнасці - гэта абавязацельства, якое стаіць за дызайнам нашых прадуктаў</string>
   <string name="privacy_provision_text">Мы імкнемся паважаць і абараняць вашу прыватнасць. Надаючы прыярытэтнае значэнне да навуковых даследаванняў і распрацовак у вобласці інфармацыйнай бяспекі, Xiaomi ўвесь час працуе над паляпшэннем метадаў, практык і тэхнічных рашэнняў, якія забяспечваюць абарону вашых дадзеных. Мы таксама дзелімся нашымі апошнімі дасягненнямі з нашымі партнёрамі, каб забяспечыць прыватнасць вашай інфармацыі.</string>
   <string name="privacy_provision_title">Прыватнасць</string>
   <string name="privacy_search_key_1">Прыватнасць</string>

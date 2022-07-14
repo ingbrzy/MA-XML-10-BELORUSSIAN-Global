@@ -10231,8 +10231,8 @@
   <string name="transparent_normal">Звычайны</string>
   <string name="Sound_Settings">Гукавыя эфекты</string>
   <string name="search_gmscore_settings_title">Google;Асноўныя сэрвісы Google;GMS;Gmail</string>
-  <string name="virtual_surround_sound_switch_summary">Павялічыць глыбіню гуку для прайгравання аўдыё і відэа ў навушніках (гэтая функцыя не будзе працаваць пры прайграванні гуку %.1f)</string>
-  <string name="virtual_surround_sound_switch_title">Імерсіўны гук</string>
+  <string name="virtual_surround_sound_switch_summary">Павелічэнне глыбіні гуку ў навушніках пры прайграванні аўдыё і відэа</string>
+  <string name="virtual_surround_sound_switch_title">Імерсіўныя гукавыя эфекты</string>
   <string name="miheadset_audio_quality">Якасць гуку</string>
   <string name="miheadset_audio_quality_summary">Абярыце аўдыёкодэк Bluetooth</string>
   <string name="miheadset_auto_answer_call">Аўтаматычна адказваць на выклікі</string>
@@ -10590,4 +10590,5 @@ ID:%s
   <string name="miheadset_double_toast">Устаўце абодва навушнікі, каб выкарыстоўваць гэтую функцыю.</string>
   <string name="miheadset_close_leaudio_first">Адключыце LE Audio у дадатковых наладах, каб выкарыстоўваць гэтую функцыю</string>
   <string name="miheadset_openAnc2">Шумапрыглушэнне</string>
+  <string name="virtual_surround_sound_switch_summary_global">Павелічэнне глыбіні гуку ў навушніках пры прайграванні аўдыё і відэа. Гэтая функцыя не будзе працаваць пры ўключаным LDAC.</string>
 </resources>

@@ -467,7 +467,7 @@
   <string name="permdesc_read_contacts">Дазволіць %1$s доступ да кантактаў?</string>
   <string name="permdesc_read_mms">Дазволіць %1$s чытаць мультымедыйныя паведамленні?</string>
   <string name="permdesc_read_phone_state">Дазволіць %1$s доступ да статусу прылады і інфармацыі аб мабільнай сетцы?</string>
-  <string name="permdesc_read_sms">Дазволіць %1$s чытаць ці адпраўляць тэкставыя і мультымедыйныя паведамленні?</string>
+  <string name="permdesc_read_sms">Дазволіць %1$s чытаць тэкставыя і мультымедыйныя паведамленні?</string>
   <string name="permdesc_send_sms">Дазволіць %1$s адпраўляць тэкставыя паведамленні?</string>
   <string name="permdesc_use_sip">Дазволіць %1$s выкарыстоўваць пратакол ініцыяцыі сеансу для струменевай перадачы відэа?</string>
   <string name="permdesc_write_call_log">Дазволіць %1$s рэдагаваць гісторыю выклікаў?</string>

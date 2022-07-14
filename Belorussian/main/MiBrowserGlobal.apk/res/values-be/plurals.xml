@@ -163,10 +163,10 @@
         <item quantity="many">праз %d хвілін</item>
     </plurals>
     <plurals name="le_notification_download_completed">
-        <item quantity="other">"Спампоўка %d аб'ектаў паспяхова завершана"</item>
-        <item quantity="one">"Спампоўка %d аб'екта паспяхова завершана"</item>
-        <item quantity="few">"Спампоўка %d аб'ектаў паспяхова завершана"</item>
-        <item quantity="many">"Спампоўка %d аб'ектаў паспяхова завершана"</item>
+        <item quantity="other">"Спампоўка %1$s аб'ектаў паспяхова завершана"</item>
+        <item quantity="one">"Спампоўка %%1$s аб'екта паспяхова завершана"</item>
+        <item quantity="few">"Спампоўка %1$s аб'ектаў паспяхова завершана"</item>
+        <item quantity="many">"Спампоўка %1$s аб'ектаў паспяхова завершана"</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Толькі што</item>

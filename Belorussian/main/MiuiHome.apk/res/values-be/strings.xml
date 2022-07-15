@@ -1071,4 +1071,5 @@
   <string name="xiaomi_market_sdk_update_dialog_cancel">Не цяпер</string>
   <string name="xiaomi_market_sdk_update_dialog_ok">Абнавіць</string>
   <string name="xiaomi_market_sdk_update_dialog_title">Даступна абнаўленне</string>
+  <string name="miui_widget_menu_replace_text">Пераключыць</string>
 </resources>

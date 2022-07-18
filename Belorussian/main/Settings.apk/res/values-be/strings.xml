@@ -5782,7 +5782,7 @@
   <string name="sdcard_unmount">Адключыць SD-карту</string>
   <string name="se_route_ese">Убудаваны элемент бяспекі</string>
   <string name="se_route_uicc">Элемент бяспекі на SIM-карце</string>
-  <string name="se_wallet_ese">Мі-кашалёк</string>
+  <string name="se_wallet_ese">Мі кашалёк</string>
   <string name="se_wallet_hce">Выкарыстоўваць HCE кашалёк</string>
   <string name="se_wallet_uicc">Выкарыстоўваць SIM %1$s кашалёк</string>
   <string name="search_about_settings">Пра тэлефон;Мадэль;Версія Android;Версія MIUI;Працэсар;Аператыўная памяць;Унутраная памяць;Памяць;Сховішча;Унутранае сховішча;Прашыўка модуля связі;Версія ядра;Нумар зборкі;Мая прылада;Тэлефон;Прылада</string>
@@ -10591,4 +10591,5 @@ ID:%s
   <string name="miheadset_close_leaudio_first">Адключыце LE Audio у дадатковых наладах, каб выкарыстоўваць гэтую функцыю</string>
   <string name="miheadset_openAnc2">Шумапрыглушэнне</string>
   <string name="virtual_surround_sound_switch_summary_global">Павелічэнне глыбіні гуку ў навушніках пры прайграванні аўдыё і відэа. Гэтая функцыя не будзе працаваць пры ўключаным LDAC.</string>
+  <string name="card_holder_header_title">Кашалёк</string>
 </resources>

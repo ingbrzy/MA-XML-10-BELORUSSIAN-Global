@@ -493,7 +493,7 @@
   <string name="wednesday_shortest">Сер</string>
   <string name="yesterday">Учора</string>
   <string name="cancel_restore">Адмена…</string>
-  <string name="cloud_backup_detail_header_msg">"Цяпер вы можаце ствараць рэзервовыя копіі макета працоўнага стала вашай прылады, праграм, сістэмных налад і дадзеных WeChat. &lt;font color=#0D84FF>&lt;a href=>Націсніце, каб даведацца больш.&lt;/a>&lt;/font>"</string>
+  <string name="cloud_backup_detail_header_msg">"Вы можаце зрабіць рэзервовыя копіі працоўнага стала, праграм, сістэмных налад і дадзеных WeChat. &lt;font color=#0D84FF>&lt;a href=>Падрабязней.&lt;/a>&lt;/font>"</string>
   <string name="cloud_backup_detail_local_backup_size">Прыблізны памер рэзервовай копіі: %s</string>
   <string name="cloud_backup_detail_no_time">Няма рэзервовай копіі</string>
   <string name="dialog_wechat_data_close_agree">Працягнуць</string>
@@ -577,4 +577,5 @@
   <string name="dialog_positive_btn_cancel_restore">Працягнуць</string>
   <string name="dialog_title_cancel_backup">Рэзервовае капіяванне</string>
   <string name="dialog_title_cancel_restore">Аднаўленне</string>
+  <string name="cloud_backup_detail_header_msg_no_wechat_backup">"Вы можаце зрабіць рэзервовыя копіі працоўнага стала, праграм, сістэмных налад. &lt;font color=#0D84FF>&lt;a href=>Падрабязней&lt;/a>&lt;/font>."</string>
 </resources>

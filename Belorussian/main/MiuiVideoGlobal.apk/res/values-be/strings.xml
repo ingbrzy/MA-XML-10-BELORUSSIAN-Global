@@ -1984,4 +1984,14 @@
   <string name="widget_more_channel_click">Націсніце для прагляду тэлеканалаў</string>
   <string name="widget_trending_click">Націсніце, каб убачыць самыя папулярныя сённяшнія відэа</string>
   <string name="widget_trending_today">Папулярныя сёння</string>
+  <string name="desktop_widget_local_media">Медыя файлы</string>
+  <string name="desktop_widget_new">Новае</string>
+  <string name="dialog_edit_hint_bookmarks_url">URL-адрас</string>
+  <string name="dialog_edit_hint_url">URL-адрас</string>
+  <string name="galleryplus_notification_type_link_video">Пераключэнне на лакальныя відэа</string>
+  <string name="incentive_exchange_code_copy_and_start">Выкарыстаць</string>
+  <string name="incentive_toast_share_success_new">Даслана паспяхова</string>
+  <string name="incentive_toast_subscribe_success_new">Вы паспяхова падпісаліся</string>
+  <string name="incentive_ui_tab_earn_credits">Балы</string>
+  <string name="notification_type_channel_music">Прайграванне музыкі</string>
 </resources>

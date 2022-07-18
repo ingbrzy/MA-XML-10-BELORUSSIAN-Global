@@ -418,4 +418,16 @@
         <item quantity="few">%d прагляда</item>
         <item quantity="many">%d праглядаў</item>
     </plurals>
+    <plurals name="incentive_popup_window_share_success">
+    <item quantity="other">Вы падзяліліся і зарабілі %d балаў.</item>
+    <item quantity="one">Вы падзяліліся і зарабілі %d бал.</item>
+    <item quantity="few">Вы падзяліліся і зарабілі %d бала.</item>
+    <item quantity="many">Вы падзяліліся і зарабілі %d балаў.</item>
+  </plurals>
+  <plurals name="incentive_popup_window_subscribe_success">
+    <item quantity="other">Вы падпісаліся і зарабілі %d балаў.</item>
+    <item quantity="one">Вы падпісаліся і зарабілі %d бал.</item>
+    <item quantity="few">Вы падпісаліся і зарабілі %d бала.</item>
+    <item quantity="many">Вы падпісаліся і зарабілі %d балаў.</item>
+  </plurals>
 </resources>

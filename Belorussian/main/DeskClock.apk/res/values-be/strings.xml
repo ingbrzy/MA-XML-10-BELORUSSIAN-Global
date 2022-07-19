@@ -738,4 +738,8 @@
   <string name="your_sounds">Мае мелодыі</string>
   <string name="xiaomi_deskclock_uninstall_description_content">\"Гадзіннік\" - гэта сістэмная праграма. Вы не зможаце правяраць час, усталёўваць будзільнікі ці выкарыстоўваць іншыя функцыі гадзінніка пасля выдалення праграмы.</string>
   <string name="xiaomi_deskclock_uninstall_description_title">Выдаліць \"Гадзіннік\"?</string>
+  <string name="miuix_access_state_desc">Абрана</string>
+  <string name="miuix_alphabet_indexer_name">Алфавітная лінейка</string>
+  <string name="miuix_indexer_selected">Абрана: %s</string>
+  <string name="miuix_indexer_collect">Калекцыі</string>
 </resources>

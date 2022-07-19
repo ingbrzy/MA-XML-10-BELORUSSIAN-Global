@@ -5988,7 +5988,7 @@
   <string name="storage_file_list_form_default">SD-карта</string>
   <string name="storage_file_list_from">Ад %s</string>
   <string name="storage_fob_date_format">dd.MM</string>
-  <string name="storage_item_system_data">Сістэма</string>
+  <string name="storage_item_system_data">Сістэмныя файлы</string>
   <string name="storage_system_log">Сістэмныя часопісы</string>
   <string name="storage_system_log_tip">Сістэмныя часопісы будуць чысціцца аўтаматычна пры неабходнасці</string>
   <string name="storage_system_memory_expansion">Пашырэнне памяці</string>
@@ -6125,4 +6125,21 @@
   <string name="gb_performace_guide_disable_desc"><Data>"Немагчыма пераключыцца ў збалансаваны рэжым у паскарэнні гульняў, калі ўключаны агульнасістэмны рэжым прадукцыйнасці. Вы можаце змяніць налады ў раздзеле \"Бяспека\".&lt;br>&lt;a href=\"#\">Адкрыць бяспеку&lt;/a>"</Data></string>
   <string name="bubble_app_empty_page">Не атрымалася знайсці праграмы, якія падтрымліваюць апавяшчэнні ў выглядзе \"бурбалак\", на гэтай прыладзе</string>
   <string name="storage_my_device">Мая прылада</string>
+  <string name="HIPS_Perm_External_READ_FILES">Доступ да файлаў і дакументаў</string>
+  <string name="HIPS_Perm_External_READ_FILES_Desc">Доступ да файлаў і дакументаў на прыладзе</string>
+  <string name="HIPS_Perm_External_READ_MEDIA_AUDIO">Доступ да аўдыё</string>
+  <string name="HIPS_Perm_External_READ_MEDIA_AUDIO_Desc">Доступ да музыкі і іншых гукаў на прыладзе</string>
+  <string name="HIPS_Perm_External_READ_MEDIA_PIC_VIDEO">Доступ да фота і відэа</string>
+  <string name="HIPS_Perm_External_READ_MEDIA_PIC_VIDEO_Desc">Доступ да фота і відэа на прыладзе</string>
+  <string name="category_no_scoped">Непрыдатныя праграмы</string>
+  <string name="category_scoped">Адаптаваныя праграмы</string>
+  <string name="gb_performace_switch_toast">Пераключана ў прадукцыйны рэжым. Ваша прылада можа награвацца і спажываць больш энергіі.</string>
+  <string name="gb_performace_tips_button">Пераключыць</string>
+  <string name="gb_performace_tips_title">Пераключыцеся ў прадукцыйны рэжым для лепшага ўражання</string>
+  <string name="permission_instruction_media_audio">Прадаставіўшы гэты дазвол, вы дазволіце праграмам атрымліваць доступ да музыкі і іншым гукам на вашай прыладзе. Звярніце ўвагу, што гэтая асабістая інфармацыя вельмі важная, і вы павінны прадастаўляць гэты дазвол з асцярожнасцю, каб прадухіліць непатрэбнае раскрыццё асабістай інфармацыі.</string>
+  <string name="permission_instruction_media_files">Прадаставіўшы гэты дазвол, вы дазволіце праграмам атрымліваць доступ да файлаў і дакументаў на вашай прыладзе. Звярніце ўвагу, што гэтая асабістая інфармацыя вельмі важная, і вы павінны прадастаўляць гэты дазвол з асцярожнасцю, каб прадухіліць непатрэбнае раскрыццё асабістай інфармацыі.</string>
+  <string name="permission_instruction_read_media_pic">Прадаставіўшы гэты дазвол, вы дазволіце праграмам атрымліваць доступ да фатаграфій і відэа на вашай прыладзе. Звярніце ўвагу, што гэтая асабістая інфармацыя вельмі важная, і вы павінны прадастаўляць гэты дазвол з асцярожнасцю, каб прадухіліць непатрэбнае раскрыццё асабістай інфармацыі.</string>
+  <string name="permission_instruction_scoped">У сістэму дададзены механізм абароны прыватнасці падзелаў сховішча, а адаптаваныя праграмы могуць падтрымліваць больш дэталёвы кантроль правоў доступу да сховішча.</string>
+  <string name="storage_compact_warning">Некалькі станаў дазволаў будуць скарэкціраваны</string>
+  <string name="storage_compact_warning_desc">Праграма падтрымлівае наладу правоў доступу толькі для фота і відэа, аўдыё, файлаў і дакументаў адначасова, а не па асобнасці</string>
 </resources>

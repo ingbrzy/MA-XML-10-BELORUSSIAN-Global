@@ -2656,4 +2656,6 @@
   <string name="dialog_forget_password_message">Калі вы забылі свой PUK-код, вы можаце адключыць гэтую eSIM, каб не страціць доступ да сваёй прылады. Пасля гэтага вы можаце звярнуцца за дапамогай да свайго аператара сувязі.</string>
   <string name="dialog_forget_password_ok">Адключыць</string>
   <string name="forget_password_string_for_esim"><u>Забылі PUK-код</u></string>
+  <string name="miui_notification_slide_menu_msg_ongoing">Забараніць пастаянныя апавяшчэнні для \"%1$s\"?</string>
+  <string name="miui_notification_slide_menu_ongoing">Забараніць пастаянныя апавяшчэнні</string>
 </resources>

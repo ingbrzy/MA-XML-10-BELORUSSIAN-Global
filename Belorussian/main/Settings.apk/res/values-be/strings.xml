@@ -10592,4 +10592,5 @@ ID:%s
   <string name="miheadset_openAnc2">Шумапрыглушэнне</string>
   <string name="virtual_surround_sound_switch_summary_global">Павелічэнне глыбіні гуку ў навушніках пры прайграванні аўдыё і відэа. Гэтая функцыя не будзе працаваць пры ўключаным LDAC.</string>
   <string name="card_holder_header_title">Кашалёк</string>
+  <string name="allow_ongoing_title">Дазволіць пастаянныя апавяшчэнні</string>
 </resources>

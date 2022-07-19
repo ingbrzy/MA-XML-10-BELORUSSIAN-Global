@@ -1578,4 +1578,6 @@
   <string name="wallpaper_apply_outer">Ужыць да знешняга экрана</string>
   <string name="label">Цэтлік</string>
   <string name="wallpaper_apply_outer_and_inner">Ужыць да ўнутранага і знешняга экранаў</string>
+  <string name="clock">Усталяваць гадзіннік</string>
+  <string name="install_clock">Гадзіннік яшчэ не ўсталяваны. Спампаваць?</string>
 </resources>

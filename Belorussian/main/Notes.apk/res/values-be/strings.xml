@@ -1006,4 +1006,5 @@
   <string name="warn_cannot_add_new_content">Немагчыма дадаць новы кантэнт, бо нататка занадта доўгая</string>
   <string name="widget_size_item_super_big">Вельмі вялікі</string>
   <string name="widget_size_not_support">Вельмі вялікія віджэты не падтрымліваюцца на гэтай прыладзе</string>
+  <string name="select_up_limit_toast">Абярыце да %d элементаў</string>
 </resources>

@@ -1982,7 +1982,7 @@
   <string name="pref_camera_heic_image_format_description_global">Высокаэфектыўны фармат файла выявы эканоміць месца для захоўвання, але не падтрымліваецца некаторымі праграмамі іншых распрацоўнікаў. Вы не можаце выдаляць вадзяныя знакі ў фармаце HEIF.</string>
   <string name="pref_camera_suspend_shutter_button_summary">Перацягнеце кнопку спуску засаўкі ўверх, каб стварыць дадатковую плаваючую засаўку</string>
   <string name="pref_camera_suspend_shutter_button_title">Дадатковая засаўка</string>
-  <string name="pref_cv_watermark_summary">Прадпрагляды прадастаўляюцца толькі для азнаямлення. Вадзяны знак Leica з\'явіцца на фота, зробленых у рэжымах «Фота» і «Партрэт».</string>
+  <string name="pref_cv_watermark_summary">Прадпрагляды прадастаўляюцца толькі для азнаямлення. Вадзяны знак Leica з\'явіцца на фота, зробленых у рэжымах «Фота» і «Ручны».</string>
   <string name="pref_cv_watermark_title">Вадзяны знак Leica</string>
   <string name="pref_privacy_watermark_edit_title">Змяніць вадзяны знак</string>
   <string name="stop_save_low_battery">Захаваць (%d сек.)</string>

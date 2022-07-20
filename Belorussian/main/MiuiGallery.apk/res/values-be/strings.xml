@@ -878,7 +878,7 @@
   <string name="functions_are_being_developed">Гэтая функцыя будзе даступная ў бліжэйшы час. Сачыце за абнаўленнямі!</string>
   <string name="gallery_setting">Налады</string>
   <string name="gallery_sync_disable_toast">Сінхранізацыя галерэі не ўключаная</string>
-  <string name="generate_story_summary">Зрабіце дастаткова фота, падлучыце зарадную прыладу і выключыце экран, каб з\'явіліся гісторыі. Ужо створаныя гісторыі не знікнуць, калі вы адключыце гэтую функцыю.</string>
+  <string name="generate_story_summary">Зрабіце дастаткова фота, падключыце зарадную прыладу і выключыце экран для стварэння гісторый. Ужо створаныя гісторыі не знікнуць, калі вы адключыце гэтую функцыю.</string>
   <string name="generate_story_title">Гісторыі</string>
   <string name="get_album_info_in_process">Спампоўка інфармацыі воблачнага альбома...</string>
   <string name="gif_tip">GIF</string>
@@ -907,7 +907,7 @@
   <string name="hybrid_network_access_denied">Адмоўлена ў доступе да сеткі</string>
   <string name="hybrid_network_unavaliable">Немагчыма злучыцца з сеткай</string>
   <string name="hybrid_pull_to_refresh_pull_label">Пацягніце для абнаўлення…</string>
-  <string name="hybrid_pull_to_refresh_refreshing_label">Хвілінку…</string>
+  <string name="hybrid_pull_to_refresh_refreshing_label">Пачакайце…</string>
   <string name="hybrid_pull_to_refresh_release_label">Адпусціце для абнаўлення…</string>
   <string name="hybrid_service_unavailiable">Сэрвіс недаступны</string>
   <string name="hybrid_try_again">Паспрабаваць зноў</string>
@@ -954,9 +954,9 @@
   <string name="live_photo">Жывое фота</string>
   <string name="load_complete">Больш няма аб\'ектаў</string>
   <string name="load_failed">Не атрымалася спампаваць, націсніце, каб паўтарыць</string>
-  <string name="load_relations">Хвілінку…</string>
-  <string name="loading">Хвілінку</string>
-  <string name="loading_dots">Хвілінку…</string>
+  <string name="load_relations">Пачакайце…</string>
+  <string name="loading">Пачакайце</string>
+  <string name="loading_dots">Пачакайце…</string>
   <string name="loading_dual_tip">Спампоўка падвойных фота…</string>
   <string name="loading_fail">Не атрымліваецца спампаваць</string>
   <string name="loading_fail_sync_off">Уключыце сінхранізацыю з Воблакам Xiaomi для спампоўкі</string>
@@ -1414,7 +1414,7 @@
   <string name="pick_from_contact">Выбраць з кантактаў</string>
   <string name="pick_people_cover_fail">Адбылася памылка. Паспрабуйце яшчэ раз.</string>
   <string name="pick_people_cover_page_title">Выберыце вокладку</string>
-  <string name="pick_people_cover_processing">Хвiлiнку…</string>
+  <string name="pick_people_cover_processing">Пачакайце…</string>
   <string name="pick_people_cover_success">Фота вокладкі паспяхова ўжыта</string>
   <string name="pick_too_many_recipients">Занадта шмат атрымальнікаў</string>
   <string name="picker_cancel_download">Скасаваць спампаванне</string>
@@ -1443,7 +1443,7 @@
   <string name="pm">ПП</string>
   <string name="preference_copied">\"%1$s\" скапіявана ў буфер абмену</string>
   <string name="prepare_to_drop">Захаваць у %s</string>
-  <string name="preparing_data">Хвілінку…</string>
+  <string name="preparing_data">Пачакайце…</string>
   <string name="print_log">Друк часопіса</string>
   <string name="privacy_permission_request_message"><Data>Галерэі патрабуецца доступ да %3$s. Сабраная намі інфармацыя будзе выкарыстоўвацца ў адпаведнасці з нашымі  &lt;a href=\"%1$s\">\"Умовамі выкарыстання\"&lt;/a> i &lt;a href=\"%2$s\">\"Палітыкай прыватнасці\"&lt;/a>. Дазволіць?</Data></string>
   <string name="privacy_permission_request_negative">Абмежаваць</string>
@@ -3153,7 +3153,7 @@
 Падлучыце зарадную прыладу і выключыце экран, каб з\'явіліся гісторыі."</string>
   <string name="all_story_title">Усе гісторыі</string>
   <string name="download_library_dialog_message">Галерэі патрэбны шаблоны, каб ствараць гісторыі лакальна на гэтай прыладзе. Рэкамендуем выкарыстоўваць Wi-Fi для загрузкі шаблонаў.</string>
-  <string name="download_library_dialog_title">Загрузіць шаблоны</string>
+  <string name="download_library_dialog_title">Загрузіце шаблоны</string>
   <string name="empty_tip_btn">Зрабіць фота</string>
   <string name="home_page_empty_action_new">Імпарт са старой прылады</string>
   <string name="is_in_ocr">Разпазнаванне…</string>
@@ -3162,11 +3162,11 @@
   <string name="ocr_text_copied_selected">Паспяхова скапіявана</string>
   <string name="ocr_translation">Перавесці</string>
   <string name="story_guide_tip_download_btn">Загрузіць</string>
-  <string name="story_guide_tip_download_desc">Загрузіце шаблоны для вашых гісторый</string>
-  <string name="story_guide_tip_download_title">Загрузіць шаблоны</string>
+  <string name="story_guide_tip_download_desc">Шаблоны для вашых гісторый</string>
+  <string name="story_guide_tip_download_title">Загрузіце шаблоны</string>
   <string name="story_guide_tip_generate_btn">Пачаць</string>
   <string name="story_guide_tip_generate_desc">Зрабіце фатаграфіі. Падлучыце зарадную прыладу. Заблакуйце прыладу.</string>
-  <string name="story_guide_tip_generate_title">Прымусьце гісторыі з\'явіцца</string>
+  <string name="story_guide_tip_generate_title">Новыя гісторыі</string>
   <string name="story_guide_tip_open_btn">Уключыць</string>
   <string name="story_guide_tip_open_desc">Зноў успомніце свае самыя яркія моманты</string>
   <string name="story_guide_tip_open_title">Гісторыі</string>
@@ -3193,4 +3193,9 @@
   <string name="hr_preview_200m">Пераключана на прадпрагляд 200MP</string>
   <string name="install_media_editor_download_description">Загрузка…</string>
   <string name="install_media_editor_download_title">Загрузка плагіна рэдактара галерэі…</string>
+  <string name="assistant_today_of_year_function_closed_tip">Уключыць</string>
+  <string name="assistant_today_of_year_function_no_address_tip">Назад у мінулае</string>
+  <string name="assistant_today_of_year_function_no_photo_tip">Пачаць</string>
+  <string name="ocr_switch_hint">Разнаваць тэкст на выявах, каб мець магчымасць абраць яго ці выканаць дзеянне</string>
+  <string name="ocr_switch_title">Разнаваць тэкст на выявах</string>
 </resources>

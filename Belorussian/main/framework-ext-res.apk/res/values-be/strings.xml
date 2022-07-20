@@ -567,4 +567,5 @@
   <string name="mw_guide_dialog_button_confirm">Зразумела</string>
   <string name="mw_guide_dialog_message">Падобна, гэта праграма не падтрымлівае паралельныя вокны. Замест гэтага абраны іншы сумяшчальны макет.</string>
   <string name="mw_guide_dialog_title">Паралельныя вокны не падтрымліваюцца</string>
+  <string name="open_miui_optimization">Спачатку ўключыце аптымізацыю MIUI</string>
 </resources>

@@ -939,4 +939,6 @@ ID:%s
   <string name="page_load_failed">Немагчыма адкрыць старонку</string>
   <string name="user_agreement_network_permission_msg">Нам неабходна падлучэнне да Інтэрнэту, каб мець магчымасць надаваць вам сэрвісы.</string>
   <string name="user_agreement_use_account_msg">Xiaomi акаўнт дазваляе вам атрымаць доступ да ўсіх сэрвісаў, якія прадстаўляюцца Xiaomi.</string>
+  <string name="child_account_system_ad_disable_hint">Гэтая функцыя недаступная для дзіцячых акаўнтаў</string>
+  <string name="family_service">Сямейныя сэрвісы</string>
 </resources>

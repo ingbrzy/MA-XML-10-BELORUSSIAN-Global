@@ -3194,7 +3194,7 @@
   <string name="install_media_editor_download_description">Загрузка…</string>
   <string name="install_media_editor_download_title">Загрузка плагіна рэдактара галерэі…</string>
   <string name="assistant_today_of_year_function_closed_tip">Уключыць</string>
-  <string name="assistant_today_of_year_function_no_address_tip">Назад у мінулае</string>
+  <string name="assistant_today_of_year_function_no_address_tip">У мінулае…</string>
   <string name="assistant_today_of_year_function_no_photo_tip">Пачаць</string>
   <string name="ocr_switch_hint">Разнаваць тэкст на выявах, каб мець магчымасць абраць яго ці выканаць дзеянне</string>
   <string name="ocr_switch_title">Разнаваць тэкст на выявах</string>

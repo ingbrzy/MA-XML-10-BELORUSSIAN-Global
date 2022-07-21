@@ -343,11 +343,11 @@
   <string name="pad_settings_handoff_wps_summary">Прагляд, рэдагаванне і захаванне дакументаў пры пераключэнні паміж прыладамі</string>
   <string name="pad_settings_handoff_wps_title">Дакументы</string>
   <string name="pad_settings_how_use">Выкарыстанне перадачы абслугоўвання</string>
-  <string name="pad_settings_pad_handoff_summary">Выкарыстоўвайце перадачу абслугоўвання з праграмамі, буферам абмену, відэа і іншымі элементамі на іншай прыладзе, звязанай з вашым Mi акаўнтам.</string>
+  <string name="pad_settings_pad_handoff_summary">Выкарыстоўвайце перадачу абслугоўвання з праграмамі, буферам абмену, відэа і іншымі элементамі на іншай прыладзе, звязанай з вашым Xiaomi акаўнтам.</string>
   <string name="pad_settings_pc_history_title">Гісторыя падлучэнняў</string>
   <string name="pad_settings_pc_trusted_title">Аўтаматычнае падлучэнне</string>
   <string name="pad_settings_pc_use_tile">Аб гэтай функцыі</string>
-  <string name="pad_settings_phone_handoff_summary">Выкарыстоўвайце перадачу абслугоўвання з праграмамі, буферам абмену, відэа і іншымі элементамі на іншай прыладзе, звязанай з вашым Mi акаўнтам.</string>
+  <string name="pad_settings_phone_handoff_summary">Выкарыстоўвайце перадачу абслугоўвання з праграмамі, буферам абмену, відэа і іншымі элементамі на іншай прыладзе, звязанай з вашым Xiaomi акаўнтам.</string>
   <string name="pad_settings_phone_handoff_title">Перадача абслугоўвання</string>
   <string name="pad_settings_scanner_summary">Падлучэнне з дапамогай QR-коду</string>
   <string name="pad_settings_trusted_delete_dialog_msg">Вы не зможаце падлучыцца да гэтай прылады аўтаматычна пасля выдалення яе са спісу.</string>

@@ -1838,4 +1838,10 @@
   <string name="error_message_respond_revert_26">Ваш акаўнт заблакаваны. Увайдзіце ў Sohu Mail у сваім браўзэры, каб актываваць яго.</string>
   <string name="error_message_respond_revert_27">Тэрмін дзеяння вашага пароля скончыўся. Увайдзіце ў Sohu Mail у сваім браўзэры, каб атрымаць згенераваны серверам пароль.</string>
   <string name="quick_translation">Перавесці</string>
+  <string name="account_settings_background_attachments_security_summary">Правяраць укладанні, якія змяшчаюць усталявальныя пакеты, на наяўнасць пагроз бяспекі</string>
+  <string name="account_settings_background_attachments_security_title">Правяраць укладанні на наяўнасць пагроз</string>
+  <string name="attachments_security_alert_install_message">Гэтае ўкладанне з\'яўляецца ўсталявальным пакетам. Пераканайцеся, што вы давяраеце крыніцы, перш чым адчыняць яго. Усталяваць?</string>
+  <string name="attachments_security_alert_install_title">Увага</string>
+  <string name="attachments_security_alert_message">Гэтае паведамленне змяшчае ўсталявальны пакет. Пераканайцеся, што вы давяраеце крыніцы, перш чым адкрываць яго.</string>
+  <string name="attachments_security_install">Усталяваць</string>
 </resources>

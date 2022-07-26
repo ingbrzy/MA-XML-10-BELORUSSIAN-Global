@@ -27,7 +27,7 @@
   </string-array>
   <string-array name="daily_brand">
     <item>Карыстацкая</item>
-    <item>Mi Fan карта</item>
+    <item>Xiaomi Fan карта</item>
     <item>Xiao Tiansheng карта</item>
     <item>Карта Tencent King</item>
   </string-array>
@@ -176,7 +176,7 @@
 	<string-array name="daily_rent_card_brands">
         <item>Карыстацкі</item>
         <item>Mi Mobile</item>
-        <item>Карта Mi Fan</item>
+        <item>Карта Xiaomi Fan</item>
         <item>Карта Tianshen</item>
         <item>Карта Tencent</item>
     </string-array>

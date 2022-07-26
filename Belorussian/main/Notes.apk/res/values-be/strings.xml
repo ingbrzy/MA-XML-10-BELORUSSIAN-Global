@@ -36,7 +36,7 @@
   <string name="actionbar_button_up_description">Назад</string>
   <string name="actionbar_close_description">Закрыць</string>
   <string name="actionbar_home_description">Назад</string>
-  <string name="add_account_desc">Сінхранізаваць нататкі з Mi Акаўнтам?</string>
+  <string name="add_account_desc">Сінхранізаваць нататкі з Xiaomi акаўнтам?</string>
   <string name="afternoon">Поўдзень</string>
   <string name="alarm_bar_title">Напамін</string>
   <string name="alert_action_edit_anyway">Працягнуць рэдагаванне</string>
@@ -121,7 +121,7 @@
   <string name="empty_folder_import_notes">Імпарт нататак</string>
   <string name="empty_folder_no_notes">Няма нататак</string>
   <string name="enable_sync">Сінхранізаваць</string>
-  <string name="enable_sync_desc">Сінхранізаваць вашыя нататкі з Mi Акаўнтам (%1$s)?</string>
+  <string name="enable_sync_desc">Сінхранізаваць вашыя нататкі з Xiaomi акаўнтам (%1$s)?</string>
   <string name="eras_ad">н. э.</string>
   <string name="eras_bc">до н. э.</string>
   <string name="error_contact_not_exist">Кантакт не існуе</string>
@@ -1007,4 +1007,10 @@
   <string name="widget_size_item_super_big">Вельмі вялікі</string>
   <string name="widget_size_not_support">Вельмі вялікія віджэты не падтрымліваюцца на гэтай прыладзе</string>
   <string name="select_up_limit_toast">Абярыце да %d элементаў</string>
+  <string name="dlg_info_save_to_local_message">Захаванне…</string>
+  <string name="permission_storage_desc_new_v12">Для дадання выяў у нататкі і захавання нататак як выяў</string>
+  <string name="permission_storage_desc_pad_new_v12">Для дадання выяў у нататкі і захавання нататак як выяў</string>
+  <string name="save_to_local_failure_message">Немагчыма захаваць</string>
+  <string name="save_to_local_icon_name">Захаваць</string>
+  <string name="save_to_local_success_message">Паспяхова захавана</string>
 </resources>

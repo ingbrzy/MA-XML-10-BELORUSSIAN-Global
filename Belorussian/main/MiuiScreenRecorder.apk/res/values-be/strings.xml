@@ -328,6 +328,8 @@
   <string name="wednesday">Серада</string>
   <string name="wednesday_short">Сер</string>
   <string name="wednesday_shortest">Сер</string>
-  <string name="yesterday">Учора</string>+
+  <string name="yesterday">Учора</string>
   <string name="invisible_mode_error_tip">Вы інкогніта. Немагчыма запісаць гук.</string>
+  <string name="app_notification_record_saved">"Запіс паспяхова захаваная.
+Націсніце для прагляду."</string>
 </resources>

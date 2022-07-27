@@ -1310,9 +1310,25 @@
         <item quantity="other">%d хв.</item>
         <item quantity="one">%d хв.</item>
     </plurals>
-    <plurals name="mtrl_badge_content_description">
+   <plurals name="mtrl_badge_content_description">
     <item quantity="other">%d новых апавяшчэнняў</item>
     <item quantity="few">%d новых апавяшчэння</item>
     <item quantity="one">%d новае апавяшчэнне</item>
+  </plurals>
+  <plurals name="power_battery_hour">
+    <item quantity="other">%s г.</item>
+    <item quantity="one">%s г.</item>
+  </plurals>
+  <plurals name="power_battery_minute">
+    <item quantity="other">%s хв.</item>
+    <item quantity="one">%s хв.</item>
+  </plurals>
+  <plurals name="power_main_battery_last_minute_screen_on">
+    <item quantity="other">Засталося %s хв. экраннага часу</item>
+    <item quantity="one">Засталося %s хв. экраннага часу</item>
+  </plurals>
+  <plurals name="power_main_open_last_minute_screen_on">
+    <item quantity="other">Уключыце, каб дадаць %s хв. экраннага часу</item>
+    <item quantity="one">Уключыце, каб дадаць %s хв. экраннага часу</item>
   </plurals>
 </resources>

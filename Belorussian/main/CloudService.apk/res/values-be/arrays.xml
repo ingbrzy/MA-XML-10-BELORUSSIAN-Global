@@ -211,4 +211,16 @@
         <item>"Прагляд сінхранізаваных аб'ектаў"</item>
         <item>Падрабязнасці пра сховішча</item>
     </string-array>
+    <string-array name="priv_dialog_finddevice_runtime_perm_desc">
+         <item>Для ідэнтыфікацыі прылады</item>
+         <item>Для пошуку прылады і пераключэння ў рэжым страты</item>
+     </string-array>
+     <string-array name="priv_dialog_sync_runtime_perm_desc">
+         <item>Для сінхранізацыі падзей</item>
+         <item>Для сінхранізацыі паведамленняў</item>
+         <item>Для сінхранізацыі паведамленняў</item>
+         <item>Для сінхранізацыі кантактаў</item>
+         <item>Для сінхранізацыі кантактаў</item>
+         <item>Для захавання файлаў на прыладзе (выявы, відэа, песні і іншае)</item>
+     </string-array>
 </resources>

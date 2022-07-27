@@ -965,4 +965,8 @@
   <string name="backup_notification_title">Працуе \"Рэзервовае капіяванне\"…</string>
   <string name="backup_notice_content">Вашыя рэзервовыя копіі не будуць зашыфраваныя, а гэта значыць, што яны могуць быць даступныя або змененыя іншымі праграмамі. Таксама могуць узнікнуць іншыя рызыкі бяспекі. Упэўніцеся, што вы захоўваеце рэзервовыя копіі ў добра абароненым асяроддзі.</string>
   <string name="backup_notice_title">Увага</string>
+  <string name="category_contacts">Кантакты</string>
+  <string name="category_message_contacts">Паведамленні і кантакты</string>
+  <string name="permission_read_write_sys_app1">Дазволіце гэтай функцыі доступ да вашых паведамленняў і кантактаў, каб мець магчымасць ствараць рэзервовыя копіі і аднаўляць гэтыя элементы.</string>
+  <string name="permission_read_write_sys_app2">Дазвольце гэтай функцыі доступ да вашых кантактаў, каб мець магчымасць ствараць рэзервовыя копіі і аднаўляць гэтыя элементы.</string>
 </resources>

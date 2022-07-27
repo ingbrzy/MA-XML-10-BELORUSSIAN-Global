@@ -395,4 +395,12 @@
   <string name="yesterday">Учора</string>
   <string name="mi_drop">Абмен файламі</string>
   <string name="tips_prompt_enable_midrop">Абмен файламі</string>
+  <string name="device_list_all">Усе прылады</string>
+  <string name="device_list_more">Яшчэ</string>
+  <string name="global_pad">Мой планшэт</string>
+  <string name="global_pc">Мой наўтбук</string>
+  <string name="global_phone">Мой тэлефон</string>
+  <string name="lenovo_phone">Lenovo</string>
+  <string name="pc_redmi_device_model_name">Наўтбук Redmi</string>
+  <string name="pc_xiaomi_device_model_name">Наўтбук Xiaomi</string>
 </resources>

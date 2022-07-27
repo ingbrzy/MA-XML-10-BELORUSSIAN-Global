@@ -6218,4 +6218,26 @@
   <string name="track_switch_off">Выкл.</string>
   <string name="track_switch_on">Укл.</string>
   <string name="track_yes">Так</string>
+  <string name="added_game_notification_summary">Пачаць гуляць</string>
+  <string name="added_game_notification_title">%s зараз у паскарэнні гульняў</string>
+  <string name="added_game_start_game">Гуляць</string>
+  <string name="bubble_mode_barrage_switch_tips">Уключыце, каб адлюстроўваць апавяшчэнні ў выглядзе \"бурбалак\" для згорнутых праграм у выглядзе каментароў на экране</string>
+  <string name="bubble_mode_barrage_tips">Апавяшчэнні ў выглядзе \"бурбалак\" для згорнутых праграм будуць адлюстроўвацца як каментары на экране</string>
+  <string name="dialog_btn_delete_icon">Выдаліць</string>
+  <string name="dialog_btn_no_create_icon">Адмена</string>
+  <string name="dialog_btn_yes_create_icon">Дадаць</string>
+  <string name="dialog_msg_create_icon_content">Дадаць цэтлiк на працоўны стол?</string>
+  <string name="dialog_msg_create_icon_not_remain_anymore">Больш не паказваць</string>
+  <string name="dialog_msg_delete_icon_content">Бяспека дазваляе чысціць кошык на вашай прыладзе, знаходзіць і абясшкоджваць вірусы, эканоміць зарад батарэі, кіраваць дазволамі і г.д.</string>
+  <string name="dialog_msg_delete_icon_title">Выдаліць гэты цэтлік на працоўным стале?</string>
+  <string name="gb_beauty_cold_light">Халодны</string>
+  <string name="gb_beauty_face">Упрыгожванне</string>
+  <string name="gb_beauty_light">Запаўняльнае святло</string>
+  <string name="gb_beauty_nature_light">Натуральны</string>
+  <string name="gb_beauty_warm_light">Цёплы</string>
+  <string name="manual_item_create_icon_title">Цэтлiк на працоўным стале</string>
+  <string name="power_center_battery_duration_screen_on">Засталося экраннага часу</string>
+  <string name="power_center_dialog_msg_title_screen_on">Вы атрымаеце %1$s экраннага часу, калі ўключыце гэтую функцыю. Вось парады па эканоміі зарада батарэі:</string>
+  <string name="power_main_battery_last_hour_minute_screen_on">%1$s %2$s засталося экраннага часу</string>
+  <string name="power_main_open_last_hour_minute_screen_on">Уключыце, каб дадаць %1$s %2$s экраннага часу</string>
 </resources>

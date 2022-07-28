@@ -474,4 +474,5 @@
   <string name="permdesc_write_contacts">Дазволіць %1$s рэдагаваць кантакты?</string>
   <string name="precise_location_title">Дакладнае месцазнаходжанне</string>
   <string name="HIPS_Perm_NEARBY_DEVICES_Desc_T">Выяўленне прылад паблізу і падлучэнне да іх праз Bluetooth і Wi-Fi</string>
+  <string name="HIPS_Perm_NEARBY_DEVICES_Desc_T_china">Выяўленне прылад паблізу і падлучэнне да іх праз Bluetooth і Wi-Fi</string>
 </resources>

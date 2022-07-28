@@ -269,7 +269,7 @@
   <string name="local_main_backup_time">Апошняя рэзервовая копія: %1$s</string>
   <string name="local_main_date_format">dd.MM.yyyy HH:mm</string>
   <string name="local_main_encrypt_backup_summary">Зашыфраваць элементы, для якіх вы стварылі рэзервовую копію, выкарыстоўваючы свой Xiaomi акаўнт</string>
-  <string name="local_main_encrypt_backup_title">Пацвердзіце акаўнт для аднаўлення элементаў</string>
+  <string name="local_main_encrypt_backup_title">Праверыць акаўнт для аднаўлення элементаў</string>
   <string name="local_main_latest_backup_time_loading">Хвiлiнку…</string>
   <string name="local_no_backup">Няма рэзервовых копій.</string>
   <string name="local_no_backup_data">Тут пакуль няма рэзервовых копій</string>
@@ -963,7 +963,7 @@
   <string name="revoke_permission_dialog_content">Вы не зможаце ствараць рэзервовыя копіі або аднаўляць элементы без усіх абавязковых дазволаў. Адклікаць дазволы?</string>
   <string name="user_know_button_text">Зразумела</string>
   <string name="backup_notification_title">Працуе \"Рэзервовае капіяванне\"…</string>
-  <string name="backup_notice_content">Вашыя рэзервовыя копіі не будуць зашыфраваныя, а гэта значыць, што яны могуць быць даступныя або змененыя іншымі праграмамі. Таксама могуць узнікнуць іншыя рызыкі бяспекі. Упэўніцеся, што вы захоўваеце рэзервовыя копіі ў добра абароненым асяроддзі.</string>
+  <string name="backup_notice_content">Вашыя рэзервовыя копіі не будуць зашыфраваныя, а гэта азначае, што іншыя праграмы могуць атрымаць да іх доступ або змяніць іх. Таксама могуць узнікнуць іншыя рызыкі бяспекі. Упэўніцеся, што вы захоўваеце рэзервовыя копіі элементаў у добра абароненым асяроддзі.</string>
   <string name="backup_notice_title">Увага</string>
   <string name="category_contacts">Кантакты</string>
   <string name="category_message_contacts">Паведамленні і кантакты</string>

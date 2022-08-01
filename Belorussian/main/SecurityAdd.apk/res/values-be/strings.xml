@@ -661,4 +661,6 @@
   <string name="wednesday_shortest">Сер</string>
   <string name="xunyou_pay_webview">Сэрвісы Xunyou</string>
   <string name="yesterday">Учора</string>
+  <string name="power_center_battery_duration_screen_on">Засталося экраннага часу</string>
+  <string name="power_main_battery_last_hour_minute_screen_on">%1$s %2$s засталося экраннага часу</string>
 </resources>

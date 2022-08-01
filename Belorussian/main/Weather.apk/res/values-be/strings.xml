@@ -579,4 +579,11 @@
   <string name="card_item_ad_popular">Папулярнае</string>
   <string name="card_item_download_recommend">Рэкамендуецца</string>
   <string name="content_desc_activity_main_page">Старонка %1$d з %2$d</string>
+  <string name="indices_title_uv">УФ</string>
+  <string name="indices_wind_direction_east">У</string>
+  <string name="indices_wind_direction_north">Пн</string>
+  <string name="indices_wind_direction_south">Пд</string>
+  <string name="indices_wind_direction_west">З</string>
+  <string name="setting_notification_manager">Апавяшчэнні</string>
+  <string name="setting_used_to_push_reminder">Атрымліваць абвесткі і папярэджанні аб надвор\'і</string>
 </resources>

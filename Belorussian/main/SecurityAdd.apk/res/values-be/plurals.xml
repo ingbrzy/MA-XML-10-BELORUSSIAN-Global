@@ -110,4 +110,16 @@
     <item quantity="one">Абраны %d элемент</item>
     <item quantity="few">Абрана %d элемента</item>
   </plurals>
+  <plurals name="power_battery_hour">
+        <item quantity="other">%s г.</item>
+        <item quantity="one">%s г.</item>
+    </plurals>
+    <plurals name="power_battery_minute">
+        <item quantity="other">%s хв.</item>
+        <item quantity="one">%s хв.</item>
+    </plurals>
+    <plurals name="power_main_battery_last_minute_screen_on">
+        <item quantity="other">Засталося %s хв. экраннага часу</item>
+        <item quantity="one">Засталося %s хв. экраннага часу</item>
+    </plurals>
 </resources>

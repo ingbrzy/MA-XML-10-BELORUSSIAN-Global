@@ -262,7 +262,7 @@
   <string name="forward_prefix">"Ад: "</string>
   <string name="found_old_messages">Запампаваць паведамленнi з %1$s у %2$s?</string>
   <string name="found_old_messages_title">Запампаваць паведамленнi з іншых SIM-картак?</string>
-  <string name="found_wild_messages_guide_cloud_desc">Для сінхранізацыі паведамленняў з Mi Cloud, увайдзіце ў свой Mi Акаўнт і актывуйце сінхранізацыю SMS.</string>
+  <string name="found_wild_messages_guide_cloud_desc">Для сінхранізацыі паведамленняў з Mi Cloud, увайдзіце ў свой Xiaomi акаўнт і актывуйце сінхранізацыю SMS.</string>
   <string name="found_wild_messages_guide_settings_desc">Сінхранізаваць SMS з Mi Cloud у наладах паведамленняў.</string>
   <string name="found_wild_messages_guide_sync_not_started">Сінхранізацыя яшчэ не пачалася</string>
   <string name="found_wild_messages_title">Сінхранізацыя з Mi Cloud</string>
@@ -1468,8 +1468,8 @@
   <string name="service_abandon_retry_deny">Назад</string>
   <string name="service_abandon_retry_setting">Налады</string>
   <string name="sim_activation_service_retry_main_purpose">Актывацыя SIM-карты павінна быць уключаная для нармальнай працы Mi Паведамленняў. Вы можаце ўключыць актывацыю SIM-карты ў раздзеле Налады - Праграмы.</string>
-  <string name="xiaomi_account_service_retry_main_purpose">Для нармальнай працы гэтай функцыі неабходна ўключыць службы Mi акаўнта. Вы можаце ўключыць службы Mi акаўнта ў раздзеле Налады - Праграмы.</string>
-  <string name="add_to_block_by_number">Дададзены %s\nу чорны спіс</string>
+  <string name="xiaomi_account_service_retry_main_purpose">Для нармальнай працы гэтай функцыі неабходна ўключыць службы Xiaomi акаўнта. Вы можаце ўключыць службы Xiaomi акаўнта ў раздзеле Налады - Праграмы.</string>
+  <string name="add_to_block_by_number">%s дададзены\nу чорны спіс</string>
   <string name="add_to_block_by_tag">Паведамленні, якія змяшчаюць \"%s\",\nдададзеныя ў чорны спіс</string>
   <string name="suspected_fraud_action">Націсніце, каб паскардзіцца.</string>
   <string name="suspected_fraud_action_tip">"Магчымае махлярства. "</string>
@@ -1490,4 +1490,5 @@
   <string name="toast_not_show_read_mms_perm_req">Каб мець магчымасць праглядаць атрыманыя паведамленнi, вам неабходна даць Паведамленням дазвол на чытанне SMS і MMS. Вы можаце надаць гэты дазвол у наладах.</string>
   <string name="sticked">Замацавана паспяхова</string>
   <string name="unsticked">Адмацавана паспяхова</string>
+  <string name="sim_not_support_mms">Гэтая SIM-карта не падтрымлівае MMS</string>
 </resources>

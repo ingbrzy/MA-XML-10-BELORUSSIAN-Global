@@ -766,4 +766,5 @@
   <string name="downloadCount">Спампоўкі</string>
   <string name="nowInstall">Усталяваць</string>
   <string name="size">Памер</string>
+  <string name="storage_permission_deny">Патрабуюцца правы доступу да сховішча</string>
 </resources>

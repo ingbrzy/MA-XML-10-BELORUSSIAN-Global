@@ -30,4 +30,14 @@
         <item quantity="few">Спампавана: %1$d</item>
         <item quantity="many">Спампавана: %1$d</item>
     </plurals>
+    <plurals name="dialog_confirm_delete_downloads_message">
+        <item quantity="other">Выдаліць %d спамповак?</item>
+        <item quantity="one">Выдаліць %d спампоўку?</item>
+        <item quantity="few">Выдаліць %d спампоўкi?</item>
+    </plurals>
+    <plurals name="download_info_count_deleted_tasks">
+        <item quantity="other">Паспяхова выдалена %s спамповак</item>
+        <item quantity="one">Паспяхова выдалена %s спампоўка</item>
+        <item quantity="few">Паспяхова выдалена %s спампоўкi</item>
+    </plurals>
 </resources>

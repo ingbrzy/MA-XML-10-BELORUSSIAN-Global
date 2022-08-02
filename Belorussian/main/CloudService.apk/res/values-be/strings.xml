@@ -417,7 +417,7 @@
   <string name="micloud_space_soundrecorder_detail">Кіраванне запісамі дыктафон на прыладзе</string>
   <string name="micloud_space_soundrecorder_title">Запісы дыктафону</string>
   <string name="micloud_storage_detail">Падрабязнасці</string>
-  <string name="micloud_storage_family_quota">Сямейны доступ</string>
+  <string name="micloud_storage_family_quota">Агульная прастора</string>
   <string name="micloud_storage_full_tip">Сховішча запоўнена</string>
   <string name="micloud_storage_normal_tip">Засталося %s</string>
   <string name="micloud_storage_share_family">Сямейны доступ</string>

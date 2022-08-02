@@ -950,4 +950,5 @@ ID:%s
   <string name="cloud_member_vipname_mega">Мега</string>
   <string name="cloud_member_vipname_premium">Прэміум</string>
   <string name="cloud_member_vipname_ultra">Ультра</string>
+  <string name="passport_vcode_what_app_send_prompt">Ваш код пацверджання WhatsApp будзе дастаўлены на рэзервовы тэлефон &lt;font color=#1F93FF>%s&lt;/font></string>
 </resources>

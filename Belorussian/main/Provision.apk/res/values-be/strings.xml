@@ -140,7 +140,7 @@
   <string name="locale_picker_other_locale_title">Дадатковыя рэгіёны</string>
   <string name="locale_picker_title">Выберыце свой рэгіён</string>
   <string name="location_content">У адпаведнасці з законам аператары мабільнай сувязі могуць атрымліваць інфармацыю пра месцазнаходжанне мабільных прылад для выканання патрабаванняў аварыйна-ратавальных органаў (аддзелаў пажарнай аховы і паліцыі), што прад\'яўляюцца ў мэтах бяспекі і выратавання ў надзвычайных абставінах.</string>
-  <string name="location_introduction">Геалакацыйныя службы знаходзяць тавары і паслугі побач з вамі.</string>
+  <string name="location_introduction">Службы вызначэння месцазнаходжання выкарыстоўваюць пазіцыянаванне для прадастаўлення паслуг, якія залежаць ад месцазнаходжання.</string>
   <string name="location_location">Аварыйна-выратавальныя органы могуць па запыце атрымліваць інфармацыю аб вашым бягучым месцазнаходжанні</string>
   <string name="lockscreen_introduction">Чаргаванне тэмаў забяспечвае штодзённую дастаўку новых выяў на Экран блакавання.</string>
   <string name="message_introduction">Вы можаце выкарыстоўваць гэтую праграму для адпраўкі і атрымання SMS.</string>
@@ -224,7 +224,7 @@
   <string name="permission_location_describe_fast_pairing_summary">Для адлюстравання даступных прылад Bluetooth з нізкім энергаспажываннем;</string>
   <string name="permission_location_describe_interconnection_communication_summary">Для доступу да вашага месцазнаходжання з мэтай прадастаўлення паслуг выяўлення і падлучэння з дапамогай Bluetooth або Wi-Fi;</string>
   <string name="permission_location_describe_location_summary">Для доступу да вашага дакладнага месцазнаходжання для прадастаўлення розных паслуг на аснове вызначэння месцазнаходжання.</string>
-  <string name="permission_location_introduction">Для прадастаўлення геалакацыйных паслуг</string>
+  <string name="permission_location_introduction">Для прадастаўлення паслуг вызначэння месцазнаходжання</string>
   <string name="permission_log_introduction">Для захавання журналаў</string>
   <string name="permission_login_introduction">Для ўваходу ў сістэмныя акаўнты і кіравання імі</string>
   <string name="permission_make_a_call">Здзяйсняць выклікі</string>
@@ -510,4 +510,5 @@
 Вы можаце адключыць аўтаматычныя абнаўленні ў GetApps > Налады > Аўтаабнаўленні."</string>
   <string name="other_settings_auto_update_summary_v1">Дазволіць MIUI выбіраць лепшы час для загрузкі і ўсталёўкі абнаўленняў. Ваша прылада будзе аўтаматычна перазагружана, каб змены набылі моц.</string>
   <string name="is_prepare_install_go">Падрыхтоўка…</string>
+  <string name="location_introduction_qcom">Службы вызначэння месцазнаходжання выкарыстоўваюць пазіцыянаванне для прадастаўлення паслуг, якія залежаць ад месцазнаходжання. Калі ваша прылада выкарыстоўвае службы вызначэння месцазнаходжання, модуль QCC падключаецца да сеткі, каб паскорыць працэс вызначэння месцазнаходжання.</string>
 </resources>

@@ -1580,4 +1580,6 @@
   <string name="wallpaper_apply_outer_and_inner">Ужыць да ўнутранага і знешняга экранаў</string>
   <string name="clock">Усталяваць гадзіннік</string>
   <string name="install_clock">Гадзіннік яшчэ не ўсталяваны. Спампаваць?</string>
+  <string name="install_gallery_content">Вы яшчэ не ўсталявалі Галерэю. Спампаваць?</string>
+  <string name="install_gallery_title">Усталяваць галерэю</string>
 </resources>

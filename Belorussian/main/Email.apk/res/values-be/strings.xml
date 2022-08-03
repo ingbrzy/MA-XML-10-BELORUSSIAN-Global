@@ -1844,4 +1844,7 @@
   <string name="attachments_security_alert_install_title">Увага</string>
   <string name="attachments_security_alert_message">Гэтае паведамленне змяшчае ўсталявальны пакет. Пераканайцеся, што вы давяраеце крыніцы, перш чым адкрываць яго.</string>
   <string name="attachments_security_install">Усталяваць</string>
+  <string name="close_tips">Закрыць напамін</string>
+  <string name="folder_junk_name_en5">Спам</string>
+  <string name="message_invite_calendar_download_prompt">Спампуйце Каляндар, каб выкарыстоўваць гэтую функцыю</string>
 </resources>

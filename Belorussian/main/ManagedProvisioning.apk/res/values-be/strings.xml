@@ -275,4 +275,8 @@
   <string name="your_org_app_used">%1$s будзе кіраваць гэтай прыладай, а таксама сачыць за ёй з дапамогай наступнай праграмы:</string>
   <string name="your_organization_beginning">Ваша арганізацыя</string>
   <string name="your_organization_middle">ваша арганізацыя</string>
+  <string name="error_role_holder_download_install_failed">Паўтарыце спробу пазней або звярніцеся па дапамогу да ІТ-адміністратара</string>
+  <string name="error_role_holder_hash_mismatch">Не ўдалося наладзіць прыладу. Звярніцеся да ІТ-адміністратара і ў якасці прычыны памылкі ўкажыце \"Няправільная кантрольная сума\".</string>
+  <string name="error_role_holder_package_invalid">Не ўдалося наладзіць прыладу. Звярніцеся да ІТ-адміністратара і ў якасці прычыны памылкі ўкажыце \"Асобныя кампаненты адсутнічаюць ці пашкоджаны\".</string>
+  <string name="setting_up">Наладжванне…</string>
 </resources>

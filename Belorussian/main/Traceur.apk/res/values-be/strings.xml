@@ -503,4 +503,7 @@
   <string name="zen_mode_enable_dialog_turn_on">Уключыць</string>
   <string name="zen_mode_settings_summary_off">Ніколі</string>
   <string name="zen_mode_settings_turn_on_dialog_title">Уключэнне рэжыму \"Не турбаваць\"</string>
+  <string name="long_traces_summary_betterbug">Пастаянна захоўваецца ў сховішчы прылады (не будзе аўтаматычна далучацца да справаздач аб памылках)</string>
+  <string name="num_categories_selected">{count, plural, =1 {# абраны} other {# абрана} }</string>
+  <string name="turn_screen_on_title">Уключыць экран</string>
 </resources>

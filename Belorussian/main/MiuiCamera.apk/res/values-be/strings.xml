@@ -2157,4 +2157,15 @@
   <string name="wednesday_short">Сер</string>
   <string name="wednesday_shortest">Сер</string>
   <string name="yesterday">Учора</string>
+  <string name="accessibility_beauty_compare">Прагляд выявы з паляпшэннем і без яго</string>
+  <string name="camera_newcta_storage_message_1">Для захоўвання і адлюстравання выяў, відэа і файлаў</string>
+  <string name="moiton_detection_960_fps_video_tip" formatted="false">Відэа %1d кадр/с можа доўжыцца да %2d сек.</string>
+  <string name="moiton_detection_tip">Выяўленне руху… Трымайце прыладу нерухома.</string>
+  <string name="moiton_detection_video_3840fps_3840">%d кадр/с</string>
+  <string name="moiton_detection_video_electric_quantity_tip">Зарадзіце прыладу, каб выкарыстоўваць гэтую функцыю</string>
+  <string name="moiton_detection_video_temperature_stop_tip">Ваша прылада перагрэлася. Запіс спыніцца праз %d сек.</string>
+  <string name="moiton_detection_video_temperature_tip">Астудзіце прыладу, каб выкарыстоўваць гэтую функцыю</string>
+  <string name="pixel_mode_capture_hint">Пераканайцеся, што навакольнае асяроддзе добра асветлена</string>
+  <string name="pref_motioon_detection">Выяўленне руху</string>
+  <string name="qvga_shelter_tip_text">Не закрывайце лінзу</string>
 </resources>

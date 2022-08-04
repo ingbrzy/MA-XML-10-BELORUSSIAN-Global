@@ -27,14 +27,6 @@
         <item>Ружовы</item>
         <item>Аранжавы</item>
     </string-array>
-    <string-array name="ingress_rate_limit_entries">
-        <item>@string/ingress_rate_limit_no_limit_entry</item>
-        <item>128 кб/сек</item>
-        <item>256 кб/сек</item>
-        <item>1 Мб/сек</item>
-        <item>5 Мб/сек</item>
-        <item>15 Мб/сек</item>
-    </string-array>
     <string-array name="inputdebuglog_select_Узровень_entries">
         <item>Узровень 0</item>
         <item>Узровень 1</item>

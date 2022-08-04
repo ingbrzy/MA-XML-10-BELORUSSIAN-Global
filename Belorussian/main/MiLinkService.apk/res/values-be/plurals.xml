@@ -102,4 +102,22 @@
         <item quantity="few">%d хвіліны таму</item>
         <item quantity="many">%d хвілін таму</item>
     </plurals>
+    <plurals name="circulate_audio_group_subtitle_format">
+         <item quantity="other">%1$d прылад</item>
+         <item quantity="one">%1$d прылада</item>
+         <item quantity="few">%1$d прылады</item>
+         <item quantity="many">%1$d прылад</item>
+    </plurals>
+    <plurals name="circulate_audio_group_title_format">
+         <item quantity="other">%1$d прылад</item>
+         <item quantity="one">%1$d прылада</item>
+         <item quantity="few">%1$d прылады</item>
+         <item quantity="many">%1$d прылад</item>
+    </plurals>
+     <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d новых апавяшчэнняў</item>
+        <item quantity="one">%d новае апавяшчэнне</item>
+        <item quantity="few">%d новых апавяшчэння</item>
+        <item quantity="many">%d новых апавяшчэнняў</item>
+    </plurals>
 </resources>

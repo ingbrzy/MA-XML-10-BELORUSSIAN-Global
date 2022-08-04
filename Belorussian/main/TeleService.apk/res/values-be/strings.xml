@@ -2791,9 +2791,13 @@
   <string name="unfold_show_bublle_pref_summary">Разгарніце прыладу падчас размовы, каб паказаць яго ў плывучым акне</string>
   <string name="unfold_show_bublle_pref_title">Разгарнуць, каб мінімізаваць выклік</string>
   <string name="nrca_need_reset">Перазагрузіце прыладу, каб прымяніць змены</string>
-  <string name="data_interruption_remind">Падобна на тое, ваша сеткавае асяроддзе ненадзейная. Каб палепшыць злучэнне, дазвольце прыладзе выкарыстоўваць мабільныя дадзеныя падчас выклікаў VoLTE на дадатковай SIM-карце.</string>
+  <string name="data_interruption_remind">Для паляпшэння злучэння дазвольце прыладзе падчас VoLTE выклікаў выкарыстоўваць мабільны інтэрнэт на другаснай SIM-карце.</string>
   <string name="low_battery_flash_when_ring_button_tip">Немагчыма выкарыстоўваць выбліск пры выкліку з-за нізкага зарада батарэі</string>
   <string name="no_volte_call_service_notification_content2_for_cbn">Немагчыма здзяйсняць выклікі. Служба галасавой сувязі HD не зарэгістраваная для SIM-карты %d (China Broadnet).</string>
   <string name="no_volte_call_service_notification_content_for_cbn">Немагчыма здзяйсняць выклікі. Служба галасавой сувязі HD не зарэгістраваная для SIM-карты China Broadnet.</string>
   <string name="hide_stk_name">Інструменты USIM</string>
+  <string name="data_interruption_remind_for_t">Для паляпшэння злучэння дазвольце прыладзе падчас VoLTE выклікаў выкарыстоўваць мабільны інтэрнэт на другаснай SIM-карце.</string>
+  <string name="smart_switch_dual_sim_prompt">Падключэнне да мабільнай сеткі перадачы даных з выкарыстаннем SIM-карты %1$s можа прывесці да дадатковай платы за перадачу даных. Усталюйце ліміт выкарыстання дадзеных, каб пазбегнуць дадатковых збораў.</string>
+  <string name="smart_switch_dual_sim_summary">Аўтаматычнае пераключэнне паміж SIM-картамі для перадачы дадзеных у залежнасці ад якасці сеткавага падлучэння і станы прылады</string>
+  <string name="smart_switch_dual_sim_title">Пераключэнне паміж SIM-картамі для перадачы даных</string>
 </resources>

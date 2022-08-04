@@ -27,7 +27,7 @@
         <item>Ружовы</item>
         <item>Аранжавы</item>
     </string-array>
-    <string-array name="inputdebuglog_select_Узровень_entries">
+    <string-array name="inputdebuglog_select_level_entries">
         <item>Узровень 0</item>
         <item>Узровень 1</item>
         <item>Узровень 2</item>

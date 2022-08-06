@@ -2168,4 +2168,6 @@
   <string name="pixel_mode_capture_hint">Пераканайцеся, што навакольнае асяроддзе добра асветлена</string>
   <string name="pref_motioon_detection">Выяўленне руху</string>
   <string name="qvga_shelter_tip_text">Не закрывайце лінзу</string>
+  <string name="pref_cv_watermark_location_title">Каардынаты</string>
+  <string name="pref_cv_watermark_time_title">Час</string>
 </resources>

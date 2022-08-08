@@ -792,4 +792,15 @@
   <string name="message_request_manage_external_storage_perm">Правадыру патрабуецца дазвол на доступ да файлаў, каб мець магчымасць кіраваць файламі на вашым прыладзе. Вы можаце прадаставіць гэты дазвол у наладах.</string>
   <string name="perm_manage_external_storage">Доступ да ўсіх файлаў</string>
   <string name="title_request_manage_external_storage_perm">Патрабуюцца дазволы</string>
+  <string name="add_to_widget">Дадаць у віджэт</string>
+  <string name="dialog_keep_choice">Запомніць выбар</string>
+  <string name="tips_add_to_widget">Вы можаце дадаць да %d файлаў у гэты віджэт. Калі вы дадасце больш файлаў, раней дададзеныя будуць заменены.</string>
+  <string name="widget_add_files">Дадаць файл</string>
+  <string name="widget_added_fail_content">%1$s ужо знаходзіцца на працоўным стале</string>
+  <string name="widget_added_fail_tips">Не атрымалася дадаць</string>
+  <string name="widget_added_success_content">%1$s даддзены на на працоўны стол</string>
+  <string name="widget_added_success_tips">Паспяхова дададзены</string>
+  <string name="widget_choose_file">Націсніце, каб дадаць файлы</string>
+  <string name="widget_choose_fragment_title">Абярыце тып файла</string>
+  <string name="widget_finish">Гатова</string>
 </resources>

@@ -132,7 +132,7 @@
   <string name="HIPS_Perm_add_voicemail">Галасавыя паведамленні</string>
   <string name="HIPS_Perm_add_voicemail_Desc">Дадаваць сістэмныя галасавыя паведамленні</string>
   <string name="HIPS_Perm_AudioRecorder">Запіс аўдыя</string>
-  <string name="HIPS_Perm_AudioRecorder_Desc">Доступ да запісу гуку і тэлефонных выклікаў</string>
+  <string name="HIPS_Perm_AudioRecorder_Desc">Доступ да запісу гуку</string>
   <string name="HIPS_Perm_AutoStart">Аўтазапуск</string>
   <string name="HIPS_Perm_AutoStart_Desc">Аўтазапуск</string>
   <string name="HIPS_Perm_background_start_activity">Адлюстроўваць усплывальныя вокны падчас працы ў фонавым рэжыме</string>
@@ -162,8 +162,8 @@
   <string name="HIPS_Perm_get_tasks">Задачы</string>
   <string name="HIPS_Perm_get_tasks_Desc">Атрыманне задач</string>
   <string name="HIPS_Perm_install_shortcut">Цэтлікі на працоўным стале</string>
-  <string name="HIPS_Perm_install_shortcut_Desc">Дадаць цэтлікі на галоўны экран</string>
-  <string name="HIPS_Perm_Intl_group_desc_audio_recorder">Запіс аўдыё і выклікаў</string>
+  <string name="HIPS_Perm_install_shortcut_Desc">Дадаць цэтлікі на працоўны стол</string>
+  <string name="HIPS_Perm_Intl_group_desc_audio_recorder">Запіс аўдыё</string>
   <string name="HIPS_Perm_Intl_group_desc_auto_start">Аўтазапуск праграм у фонавым рэжыме</string>
   <string name="HIPS_Perm_Intl_group_desc_calendar">Доступ да падзей календара</string>
   <string name="HIPS_Perm_Intl_group_desc_call_log">Доступ да часопіса выклікаў</string>
@@ -332,7 +332,7 @@
   <string name="permdesc_in_calls">Адсочванне ўваходных выклікаў</string>
   <string name="permdesc_location">Дазволіць %1$s доступ да інфармацыі аб месцазнаходжанні?</string>
   <string name="permdesc_location_background">Дазволіць %1$s доступ да інфармацыі аб месцазнаходжанні ў фонавым рэжыме?</string>
-  <string name="permdesc_microphone">Дазволіць %1$s выкарыстоўваць мікрафон для запісу гуку і здзяйснення выклікаў?</string>
+  <string name="permdesc_microphone">Дазволіць %1$s выкарыстоўваць мікрафон для запісу гуку?</string>
   <string name="permdesc_out_calls">Адсочванне выходных выклікаў</string>
   <string name="permdesc_read_calendar">Дазволіць %1$s доступ і рэдагаванне падзей календара?</string>
   <string name="permdesc_read_storage">Дазволіць %1$s доступ да файлаў і фота на гэтай прыладзе?</string>

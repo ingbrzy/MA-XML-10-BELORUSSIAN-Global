@@ -183,8 +183,8 @@
   <string name="cw_added_fav_no_pic">Нічога няма</string>
   <string name="cw_added_toast">Ужо дададзена</string>
   <string name="cw_adding">Даданне (%1$d)</string>
-  <string name="cw_album_no_pic">Не атрымалася знайсці выявы на прыладзе</string>
-  <string name="cw_album_no_right">Дазволіць Каруселі шпалер доступ да Галерэі</string>
+  <string name="cw_album_no_pic">Тут пакуль нічога няма</string>
+  <string name="cw_album_no_right">Патрабуюцца дазволы</string>
   <string name="cw_all_folder">Нядаўнія</string>
   <string name="cw_batch_all_added_tip">Нельга дадаць выявы, якія ўжо ёсць.</string>
   <string name="cw_batch_part_tip_fail">Дададзены не усё выявы</string>
@@ -195,7 +195,7 @@
   <string name="cw_delete">Выдаліць</string>
   <string name="cw_delete2">Выдаліць (%d)</string>
   <string name="cw_deleting">Выдаленне (%1$d/%2$d)</string>
-  <string name="cw_local_pic">Галерэя</string>
+  <string name="cw_local_pic">Абраць выявы</string>
   <string name="cw_my_fav">Абраныя</string>
   <string name="cw_permission_tip">Дазвольце Каруселі шпалер доступ да сховішча ў Дазволах праграм.</string>
   <string name="cw_wallpaper_empty_dlg_btn">ОК</string>
@@ -222,7 +222,7 @@
   <string name="detail_menu_history">Гісторыі</string>
   <string name="detail_menu_home">Дадому</string>
   <string name="detail_menu_setting">Налады праграмы</string>
-  <string name="detail_menu_settingbtn_save">Захаваць у Галерэі</string>
+  <string name="detail_menu_settingbtn_save">Захаваць</string>
   <string name="detail_menu_settingbtn_setting">Налады</string>
   <string name="detail_menu_settingbtn_share">Падзяліцца</string>
   <string name="detail_menu_wall">Шпалеры сёння</string>
@@ -806,7 +806,7 @@
   <string name="saturday_shortest">Суб</string>
   <string name="save_hdpicture_in_favor">Прагляд HD выяў у \"Абраным\"</string>
   <string name="save_picture_success">Паспяхова захавана</string>
-  <string name="save_to_album">Захавана ў Галерэі</string>
+  <string name="save_to_album">Паспяхова захавана</string>
   <string name="save_to_album_fail">Немагчыма захаваць</string>
   <string name="scribe_btn_ok">Уключыць</string>
   <string name="scribe_title1">Уключыць Карусель шпалер</string>
@@ -818,7 +818,7 @@
   <string name="see_more">Паглядзець яшчэ</string>
   <string name="see_more_content">Паглядзець яшчэ</string>
   <string name="select_package">Абярыце версію</string>
-  <string name="select_photo_album">Абярыце альбом</string>
+  <string name="select_photo_album">Абярыце выявы</string>
   <string name="select_picture">Выбар выяў</string>
   <string name="select_picture_des">Дадайце свае фатаграфіі і анлайн-выявы для адлюстравання ў слайд-шоў.</string>
   <string name="send">Даслаць</string>

@@ -44,7 +44,7 @@
   <string name="auto_task_now_city">Бягучае месцазнаходжанне</string>
   <string name="auto_task_search_address_point">Пошук месцазнаходжання</string>
   <string name="auto_task_select_city">Выбраць горад</string>
-  <string name="btn_connecting">Падключэнне</string>
+  <string name="btn_connecting">Падлучэнне</string>
   <string name="btn_holding">Чаканне</string>
   <string name="btn_install">Устанавіць</string>
   <string name="btn_installed">Устаноўлена</string>
@@ -197,8 +197,8 @@
   <string name="fmt_weekday_long">EEEE</string>
   <string name="fmt_weekday_short">E</string>
   <string name="free_send_net_booster">Бясплатнае павышэнне хуткасці сеткі</string>
-  <string name="free_send_net_booster_busniess">Атрымаеце бясплатнае паскарэнне Xunlei</string>
-  <string name="free_send_net_booster_busniess_tip">Націсніце для атрымання</string>
+  <string name="free_send_net_booster_busniess">Паспрабаваць Паскарэнне гульняў бясплатна</string>
+  <string name="free_send_net_booster_busniess_tip">Павысьце свой гульнявы досвед і выйграйце гульнявы скін. Гэтая прапанова даступна толькі сёння!</string>
   <string name="free_send_net_booster_tip">Атрымлівайце асалоду ад плыўных гульняў з бясплатным паскарэннем сеткі.</string>
   <string name="friday">Пятніца</string>
   <string name="friday_short">Птн</string>
@@ -426,10 +426,10 @@
   <string name="mtrl_picker_toggle_to_day_selection">Націсніце, каб перайсці да выбару дня</string>
   <string name="mtrl_picker_toggle_to_text_input_mode">Пераключыцца ў рэжым уводу тэксту</string>
   <string name="mtrl_picker_toggle_to_year_selection">Націсніце, каб перайсці да выбару года</string>
-  <string name="need_network_when_bind">Перад прывязкай неабходна падключыцца да сеткі</string>
+  <string name="need_network_when_bind">Перад прывязкай неабходна падлучыцца да сеткі</string>
   <string name="net_booster_expire_notification">Сеанс павышэння хуткасці сеткі падыходзіць да канца</string>
   <string name="net_booster_overdue_notification">Сеанс павышэння хуткасці сеткі падыходзіць да канца</string>
-  <string name="net_booster_overdue_notification_tip">Сесія павышэння хуткасці сеткі хутка скончыцца. Падоўжыць сесію?</string>
+  <string name="net_booster_overdue_notification_tip">Сеанс павышэння хуткасці сеткі завершаны. Вы можаце пачаць адчуваць затрымкі ў сетцы. Падоўжыць сеанс?</string>
   <string name="net_retry_btn_text">Паўтор</string>
   <string name="net_switch_to_owner_space_text">Вярнуцца у першае прастору</string>
   <string name="net_unavailable_tip">Сетка недаступная, праверце налады сеткі і паспрабуйце яшчэ раз</string>
@@ -439,15 +439,15 @@
   <string name="network_daliy_net_usage_limit_tips">Пры дасягненні ліміту трафіку сістэма абмяжуе доступ да мабільнаму інтэрнэту</string>
   <string name="network_data_net_checkbox_title">Уключыць мабільны інтэрнэт</string>
   <string name="network_data_net_custom_setting">Устанавіць ліміт трафіку</string>
-  <string name="network_not_available">Не ўдаецца падключыцца да сеткі</string>
+  <string name="network_not_available">Не ўдаецца падлучыцца да сеткі</string>
   <string name="network_setting">Наладкі сеткі</string>
   <string name="network_wlan_net_checkbox_title">Уключыць Wi-Fi</string>
   <string name="night">Вечар</string>
-  <string name="no_net_dialog_msg">Калі вы ўпершыню ствараеце дзіцячую прастору, вам неабходна падключыцца да інтэрнэту, каб загрузіць неабходны кантэнт.</string>
+  <string name="no_net_dialog_msg">Калі вы ўпершыню ствараеце дзіцячую прастору, вам неабходна падлучыцца да інтэрнэту, каб загрузіць неабходны кантэнт.</string>
   <string name="no_net_dialog_negative_text">Адмена</string>
   <string name="no_net_dialog_positive_text">Падлучыць</string>
   <string name="no_net_dialog_title">Папярэджанне</string>
-  <string name="no_network">Не ўдаецца падключыцца да сеткі</string>
+  <string name="no_network">Не ўдаецца падлучыцца да сеткі</string>
   <string name="no_network_btn">Паўтор</string>
   <string name="noon">Сярэдзіна дня</string>
   <string name="not_set">Не зададзена</string>
@@ -635,7 +635,7 @@
   <string name="title_share_link">Адправіць URL</string>
   <string name="toast_create_fail_text">Ня атрымалася стварыць</string>
   <string name="toast_founction_not_support">Функцыя не падтрымліваецца у бягучай версіі</string>
-  <string name="toast_network_error">Няма падключэння да інтэрнэту, паўтарыце спробу пазней</string>
+  <string name="toast_network_error">Няма падлучэння да інтэрнэту, паўтарыце спробу пазней</string>
   <string name="toast_text_kid_space_delete_success">Прастора выдалена</string>
   <string name="toast_text_kid_space_deleted">Дзіцячая прастора выдалена</string>
   <string name="toast_text_kid_space_deleting">Выдаленне</string>
@@ -647,7 +647,7 @@
   <string name="tuesday">Аўторак</string>
   <string name="tuesday_short">Аўт</string>
   <string name="tuesday_shortest">Аўт</string>
-  <string name="uninstall">Выдаліць дадатак</string>
+  <string name="uninstall">Выдаліць праграму</string>
   <string name="usage_sorted_loading_text">Спампоўка…</string>
   <string name="user_notification">Увага</string>
   <string name="user_notification_content">Вы павінны пагадзіцца з %s, перш чым мы зможам працягваць прадастаўляць вам паслугі. Вы згодныя з абноўленай Палітыкай прыватнасці?</string>
@@ -663,4 +663,6 @@
   <string name="yesterday">Учора</string>
   <string name="power_center_battery_duration_screen_on">Засталося экраннага часу</string>
   <string name="power_main_battery_last_hour_minute_screen_on">%1$s %2$s засталося экраннага часу</string>
+  <string name="gamebooster_dialog_recover">Падоўжыць</string>
+  <string name="gamebooster_dialog_start_booster">Пачаць</string>
 </resources>

@@ -523,10 +523,10 @@
     <item quantity="many">Увядзіце не менш за %d сімвалаў</item>
   </plurals>
   <plurals name="net_booster_expire_notification_tip">
-    <item quantity="other">Сеанс паскарэння сеткі завершыцца праз %d дзён. Падоўжыце сеанс, каб пазбегнуць праблем з хуткасцю сеткі.</item>
-    <item quantity="one">Сеанс паскарэння сеткі завершыцца праз %d дзень. Падоўжыце сеанс, каб пазбегнуць праблем з хуткасцю сеткі.</item>
-    <item quantity="few">Сеанс паскарэння сеткі завершыцца праз %d дні. Падоўжыце сеанс, каб пазбегнуць праблем з хуткасцю сеткі.</item>
-    <item quantity="many">Сеанс паскарэння сеткі завершыцца праз %d дзён. Падоўжыце сеанс, каб пазбегнуць праблем з хуткасцю сеткі.</item>
+    <item quantity="other">Сеанс паскарэння сеткі завершыцца праз %d дзён. Вы можаце пачаць адчуваць затрымкі ў сетцы. Падоўжыць сеанс?</item>
+    <item quantity="one">Сеанс паскарэння сеткі завершыцца праз %d дзень. Вы можаце пачаць адчуваць затрымкі ў сетцы. Падоўжыць сеанс?</item>
+    <item quantity="few">Сеанс паскарэння сеткі завершыцца праз %d дні. Вы можаце пачаць адчуваць затрымкі ў сетцы. Падоўжыць сеанс?</item>
+    <item quantity="many">Сеанс паскарэння сеткі завершыцца праз %d дзён. Вы можаце пачаць адчуваць затрымкі ў сетцы. Падоўжыць сеанс?</item>
   </plurals>
   <plurals name="network_restrict_count">
     <item quantity="other">Доступ да сеткі абмежаваны для &lt;font color=\'#ff0000\'&gt;%d&lt;/font&gt; праграм</item>
@@ -1298,11 +1298,11 @@
         <item quantity="one">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> фрагмент</item>
         <item quantity="few">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> фрагменты</item>
     </plurals>
-    <plurals name="gb_smart_battery_surplus">
-        <item quantity="other">Засталося %2$1.2f г.</item>
-        <item quantity="one">Засталося %2$1.2f г.</item>
-    </plurals>
-    <plurals name="gb_smart_battery_hrs">
+  <plurals name="gb_smart_battery_surplus">
+    <item quantity="other">Засталося %2$1.2f г.</item>
+    <item quantity="one">Засталося %2$1.2f г.</item>
+  </plurals>
+  <plurals name="gb_smart_battery_hrs">
         <item quantity="other">%d г.</item>
         <item quantity="one">%d г.</item>
     </plurals>
@@ -1310,14 +1310,14 @@
         <item quantity="other">%d хв.</item>
         <item quantity="one">%d хв.</item>
     </plurals>
-   <plurals name="mtrl_badge_content_description">
-    <item quantity="other">%d новых апавяшчэнняў</item>
-    <item quantity="few">%d новых апавяшчэння</item>
-    <item quantity="one">%d новае апавяшчэнне</item>
-  </plurals>
-  <plurals name="power_battery_hour">
-    <item quantity="other">%s г.</item>
-    <item quantity="one">%s г.</item>
+    <plurals name="mtrl_badge_content_description">
+     <item quantity="other">%d новых апавяшчэнняў</item>
+     <item quantity="few">%d новых апавяшчэння</item>
+     <item quantity="one">%d новае апавяшчэнне</item>
+    </plurals>
+    <plurals name="power_battery_hour">
+     <item quantity="other">%s г.</item>
+     <item quantity="one">%s г.</item>
   </plurals>
   <plurals name="power_battery_minute">
     <item quantity="other">%s хв.</item>
@@ -1331,4 +1331,12 @@
     <item quantity="other">Уключыце, каб дадаць %s хв. экраннага часу</item>
     <item quantity="one">Уключыце, каб дадаць %s хв. экраннага часу</item>
   </plurals>
+  <plurals name="gamebooster_push_expiring_soon_link_message">
+        <item quantity="other">Тэрмін дзеяння вашай падпіскі скончыцца праз %d дз.</item>
+        <item quantity="one">Тэрмін дзеяння вашай падпіскі скончыцца праз %d дзень.</item>
+    </plurals>
+    <plurals name="gamebooster_push_expiring_soon_message">
+        <item quantity="other">Тэрмін дзеяння вашай падпіскі скончыцца праз %d дз. Падоўжыце падпіску зараз, каб атрымліваць асалоду ад гульнёй без праблем.</item>
+        <item quantity="one">Тэрмін дзеяння вашай падпіскі скончыцца праз %d дзень. Падоўжыце падпіску зараз, каб атрымліваць асалоду ад гульнёй без праблем.</item>
+    </plurals>
 </resources>

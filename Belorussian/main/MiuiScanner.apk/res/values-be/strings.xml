@@ -915,4 +915,5 @@
   <string name="xiaomi_market_sdk_update_dialog_title">Даступна абнаўленне</string>
   <string name="crop_frame_you_box_selection_cannot_crop_this_picture">Вобласць выдзялення павінна мець чатыры бакі</string>
   <string name="form_preview_title">Папярэдні прагляд табліцы Excel</string>
+  <string name="save_documents_ui">Захавана ў Правадыр</string>
 </resources>

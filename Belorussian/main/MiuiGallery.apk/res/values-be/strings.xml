@@ -3198,4 +3198,6 @@
   <string name="assistant_today_of_year_function_no_photo_tip">Пачаць</string>
   <string name="ocr_switch_hint">Разнаваць тэкст на выявах, каб мець магчымасць абраць яго ці выканаць дзеянне</string>
   <string name="ocr_switch_title">Разнаваць тэкст на выявах</string>
+  <string name="gallery_uninstall_description_content">Галерэя – гэта сістэмная праграма, якая дазваляе праглядаць, кіраваць і сінхранізаваць фота і відэа на ўсіх падлучаных прыладах. Калі вы выдаліце Галерэю, вы страціце элементы, якія вы зрабілі асабістымі. Усё роўна выдаліць?</string>
+  <string name="gallery_uninstall_description_title">Выдаліць Галерэю?</string>
 </resources>

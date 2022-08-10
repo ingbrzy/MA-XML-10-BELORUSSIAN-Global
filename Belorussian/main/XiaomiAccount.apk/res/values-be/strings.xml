@@ -937,7 +937,7 @@ ID:%s
   <string name="network_error">Адбылася памылка сеткі.</string>
   <string name="network_error_hint">Праверце URL-адрас і паспрабуйце яшчэ раз або скапіюйце URL-адрас і адкрыйце яго ў браўзэры.</string>
   <string name="page_load_failed">Немагчыма адкрыць старонку</string>
-  <string name="user_agreement_network_permission_msg">Нам неабходна падлучэнне да Інтэрнэту, каб мець магчымасць надаваць вам сэрвісы.</string>
+  <string name="user_agreement_network_permission_msg">Гэтай праграме неабходна падлучэнне да Інтэрнэту і наступныя дазволы для нармальнай працы:</string>
   <string name="user_agreement_use_account_msg">Xiaomi акаўнт дазваляе вам атрымаць доступ да ўсіх сэрвісаў, якія прадстаўляюцца Xiaomi.</string>
   <string name="child_account_system_ad_disable_hint">Гэтая функцыя недаступная для дзіцячых акаўнтаў</string>
   <string name="family_service">Сямейныя сэрвісы</string>
@@ -951,4 +951,11 @@ ID:%s
   <string name="cloud_member_vipname_premium">Прэміум</string>
   <string name="cloud_member_vipname_ultra">Ультра</string>
   <string name="passport_vcode_what_app_send_prompt">Ваш код пацверджання WhatsApp будзе дастаўлены на рэзервовы тэлефон &lt;font color=#1F93FF>%s&lt;/font></string>
+  <string name="user_agreement_device_permission_desc">Для забеспячэння бяспекі асяроддзя ўваходу</string>
+  <string name="user_agreement_device_permission_title">Доступ да інфармацыі аб прыладзе</string>
+  <string name="user_agreement_must_permission_msg">Абавязковыя дазволы (выкарыстоўваюцца для асноўных функцый і службаў гэтай праграмы)</string>
+  <string name="user_agreement_permission_summary_msg">Xiaomi акаўнт дазваляе вам атрымаць доступ да ўсіх паслуг, якія прадстаўляюцца Xiaomi. Гэта праграма павінна быць падлучана да Інтэрнэту і патрабуе наступных дазволаў для нармальнай працы:</string>
+  <string name="user_agreement_wifi_permission_title">Уключэнне і выключэнне Wi-Fi</string>
+  <string name="user_agreement_wlan_permission_desc">Для праверкі асяроддзя ўваходу на наяўнасць праблем з бяспекай</string>
+  <string name="user_agreement_wlan_permission_title_china">Уключэнне і выключэнне Wi-Fi</string>
 </resources>

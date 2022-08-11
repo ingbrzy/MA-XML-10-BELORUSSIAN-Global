@@ -2658,4 +2658,6 @@
   <string name="forget_password_string_for_esim"><u>Забылі PUK-код</u></string>
   <string name="miui_notification_slide_menu_msg_ongoing">Забараніць пастаянныя апавяшчэнні для \"%1$s\"?</string>
   <string name="miui_notification_slide_menu_ongoing">Забараніць пастаянныя апавяшчэнні</string>
+  <string name="quick_settings_bluetooth_connected_tip">Паспяховае падлучэнне праз Bluetooth</string>
+  <string name="quick_settings_bluetooth_disconnected_tip">Сёння ўсе прылады Bluetooth застануцца адключанымі</string>
 </resources>

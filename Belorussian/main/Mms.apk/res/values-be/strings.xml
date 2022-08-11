@@ -1491,4 +1491,8 @@
   <string name="sticked">Замацавана паспяхова</string>
   <string name="unsticked">Адмацавана паспяхова</string>
   <string name="sim_not_support_mms">Гэтая SIM-карта не падтрымлівае MMS</string>
+  <string name="download_miui_calendar_detail">Спампуйце Каляндар, каб мець магчымасць дадаваць у яго падзеі і напамінкі. Спампаваць?</string>
+  <string name="download_miui_calendar_title">Спампуйце каляндар</string>
+  <string name="notes_not_found">Спачатку ўсталюйце Нататкі</string>
+  <string name="soundrecorder_not_found">Спачатку ўсталюйце Дыктафон</string>
 </resources>

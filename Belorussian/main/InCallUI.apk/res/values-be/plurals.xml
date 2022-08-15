@@ -153,4 +153,44 @@
     <item quantity="few">%d хвіліны таму</item>
     <item quantity="many">%d хвілін таму</item>
   </plurals>
+  <plurals name="call_log_day_in">
+        <item quantity="other">Гэты нумар тэлефанаваў вам %1$s дзён. таму</item>
+        <item quantity="one">Гэты нумар тэлефанаваў вам %1$s дзень таму</item>
+    </plurals>
+    <plurals name="call_log_day_out">
+        <item quantity="other">Вы тэлефанавалі па гэтым нумары %1$s¸д. таму</item>
+        <item quantity="one">Вы тэлефанавалі на гэты нумар %1$s дзень таму</item>
+    </plurals>
+    <plurals name="call_log_hour_in">
+        <item quantity="other">Гэты нумар тэлефанаваў вам %1$s г. назад</item>
+        <item quantity="one">Гэты нумар тэлефанаваў вам %1$s гадзіну назад</item>
+    </plurals>
+    <plurals name="call_log_hour_out">
+        <item quantity="other">Вы тэлефанавалі па гэтым нумары %1$s ч. назад</item>
+        <item quantity="one">Вы тэлефанавалі па гэтым нумары %1$s гадзіну таму</item>
+    </plurals>
+    <plurals name="call_log_minute_in">
+        <item quantity="other">Гэты нумар тэлефанаваў вам %1$s мін. таму</item>
+        <item quantity="one">Гэты нумар тэлефанаваў вам %1$s мін. таму</item>
+    </plurals>
+    <plurals name="call_log_minute_out">
+        <item quantity="other">Вы тэлефанавалі на гэты нумар %1$s мін. таму</item>
+        <item quantity="one">Вы тэлефанавалі на гэты нумар %1$s мін. таму</item>
+    </plurals>
+    <plurals name="call_log_month_in">
+        <item quantity="other">Гэты нумар тэлефанаваў вам %1$sмес. таму</item>
+        <item quantity="one">Гэты нумар тэлефанаваў вам %1$s месяц таму</item>
+    </plurals>
+    <plurals name="call_log_month_out">
+        <item quantity="other">Вы тэлефанавалі па гэтым нумары %1$sмес. таму</item>
+        <item quantity="one">Вы тэлефанавалі па гэтым нумары %1$s месяц таму</item>
+    </plurals>
+    <plurals name="call_log_year_in">
+        <item quantity="other">Гэты нумар тэлефанаваў вам %1$s гадоў назад</item>
+        <item quantity="one">Гэты нумар тэлефанаваў вам %1$s год таму</item>
+    </plurals>
+    <plurals name="call_log_year_out">
+        <item quantity="other">Вы тэлефанавалі па гэтым нумары %1$s гадоў назад</item>
+        <item quantity="one">Вы тэлефанавалі па гэтым нумары %1$s год таму</item>
+    </plurals>
 </resources>

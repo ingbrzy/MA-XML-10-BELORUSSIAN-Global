@@ -531,4 +531,6 @@
   <string name="dsda_not_incall_sim_mo_fail_desc">Цяпер немагчыма выкарыстоўваць SIM-карту %1$d для выклікаў. Бягучы сеткавае асяроддзе не падтрымлівае працу з двума SIM-картамі.</string>
   <string name="dsda_swap_call_prompt">Калі вы працягнеце, вы будзеце пераключаны на галасавы выклік.</string>
   <string name="select_other_sim_card_dial">Выкарыстоўваць SIM-карту %1$d</string>
+  <string name="call_log_short_in">З гэтага нумара вам толькі што тэлефанавалі</string>
+  <string name="call_log_short_out">Вы толькі што тэлефанавалі на гэты нумар</string>
 </resources>

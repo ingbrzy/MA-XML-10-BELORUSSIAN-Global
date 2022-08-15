@@ -905,4 +905,6 @@
   <string name="micloud_share_cloud_storage_entrance_title">Падзяліцеся воблачным сховішчам са сваёй сямейнай групай</string>
   <string name="am">ДП</string>
   <string name="pm">ПП</string>
+  <string name="find_permission_phone_sim_info_summary">Для доступу да вашага месцазнаходжання праз SMS пры адсутнасці падлучэння да сеткі</string>
+  <string name="find_permission_phone_sim_info_title">Доступ да інфармацыі аб прыладзе</string>
 </resources>

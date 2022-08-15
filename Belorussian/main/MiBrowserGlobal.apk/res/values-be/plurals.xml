@@ -91,16 +91,28 @@
         <item quantity="many">%1$d дзён таму</item>
     </plurals>
     <plurals name="download_business_v5_edit_mode_title">
-        <item quantity="other">Абрана: %1$d</item>
-        <item quantity="one">Абрана: %1$d</item>
-        <item quantity="few">Абрана: %1$d</item>
-        <item quantity="many">Абрана: %1$d</item>
+        <item quantity="other">"Выбраны %1$d аб'ектаў"</item>
+        <item quantity="one">"Выбраны %1$d аб'ект"</item>
+        <item quantity="few">"Выбраны %1$d аб'екта"</item>
+        <item quantity="many">"Выбраны %1$d аб'ектаў"</item>
     </plurals>
     <plurals name="download_dialog_confirm_delete_downloads_message">
         <item quantity="other">Выдаліць %d задач?</item>
         <item quantity="one">Выдаліць задачу (%d)?</item>
         <item quantity="few">Выдаліць %d задачы?</item>
         <item quantity="many">Выдаліць %d задач?</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Пераматаць уперад на %d секунды</item>
+        <item quantity="one">Пераматаць уперад на %d секунду</item>
+        <item quantity="few">Пераматаць уперад на %d секунды</item>
+        <item quantity="many">Пераматаць уперад на %d секунд</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Пераматаць назад на %d секунды</item>
+        <item quantity="one">Пераматаць назад на %d секунду</item>
+        <item quantity="few">Пераматаць назад на %d секунды</item>
+        <item quantity="many">Пераматаць назад на %d секунд</item>
     </plurals>
     <plurals name="file_count">
         <item quantity="other">%1$d элементаў</item>
@@ -162,11 +174,23 @@
         <item quantity="few">праз %d хвіліны</item>
         <item quantity="many">праз %d хвілін</item>
     </plurals>
+    <plurals name="intercept_panel_img_text">
+        <item quantity="other">%d</item>
+        <item quantity="one">%d</item>
+        <item quantity="few">%d</item>
+        <item quantity="many">%d</item>
+    </plurals>
+    <plurals name="intercept_panel_protection_total">
+        <item quantity="other">Абаронена %d разоў</item>
+        <item quantity="one">Абаронена %d раз</item>
+        <item quantity="few">Абаронена %d разы</item>
+        <item quantity="many">Абаронена %d разоў</item>
+    </plurals>
     <plurals name="le_notification_download_completed">
-        <item quantity="other">"Спампоўка %1$s аб'ектаў паспяхова завершана"</item>
-        <item quantity="one">"Спампоўка %%1$s аб'екта паспяхова завершана"</item>
-        <item quantity="few">"Спампоўка %1$s аб'ектаў паспяхова завершана"</item>
-        <item quantity="many">"Спампоўка %1$s аб'ектаў паспяхова завершана"</item>
+        <item quantity="other">"Спампоўка %1$s аб'ектаў завершана"</item>
+        <item quantity="one">"Спампоўка %1$s аб'екта завершана"</item>
+        <item quantity="few">"Спампоўка %1$s аб'ектаў завершана"</item>
+        <item quantity="many">"Спампоўка %1$s аб'ектаў завершана"</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Толькі што</item>
@@ -264,17 +288,29 @@
         <item quantity="few">Папулярных песень: %d</item>
         <item quantity="many">Папулярных песень: %d</item>
     </plurals>
+    <plurals name="tag_count">
+        <item quantity="other">%d укладак</item>
+        <item quantity="one">%d ўкладка</item>
+        <item quantity="few">%d ўкладкі</item>
+        <item quantity="many">%d укладак</item>
+    </plurals>
     <plurals name="v5_edit_mode_title">
-        <item quantity="other">"Выбрана %1$d аб'екта"</item>
-        <item quantity="one">"Выбраны %1$d аб'ект"</item>
-        <item quantity="few">"Выбрана %1$d аб'екта"</item>
-        <item quantity="many">"Выбрана %1$d аб'екта"</item>
+        <item quantity="other">"Абрана %1$d аб'екта"</item>
+        <item quantity="one">"Абраны %1$d аб'ект"</item>
+        <item quantity="few">"Абрана %1$d аб'екта"</item>
+        <item quantity="many">"Абрана %1$d аб'екта"</item>
     </plurals>
     <plurals name="video_collection_reminder_view">
         <item quantity="other">Вы не глядзелі %d абраных відэа на працягу доўгага часу.</item>
         <item quantity="one">Вы не глядзелі %d абранае відэа на працягу доўгага часу.</item>
         <item quantity="few">Вы не глядзелі %d абраных відэа на працягу доўгага часу.</item>
         <item quantity="many">Вы не глядзелі %d абраных відэа на працягу доўгага часу.</item>
+    </plurals>
+    <plurals name="video_views">
+        <item quantity="other">%s праглядаў</item>
+        <item quantity="one">%s прагляд</item>
+        <item quantity="few">%s прагляда</item>
+        <item quantity="many">%s праглядаў</item>
     </plurals>
     <plurals name="videos_updated_amount">
         <item quantity="other">Паглядзіце %1$d новых відэа</item>
@@ -289,13 +325,73 @@
         <item quantity="many">%1$d праглядаў</item>
     </plurals>
     <plurals name="views">
-    <item quantity="other">%d тыс. праглядаў</item>
-    <item quantity="one">%d тыс. праглядаў</item>
-  </plurals>
+        <item quantity="other">%d тыс. праглядаў</item>
+        <item quantity="one">%d тыс. праглядаў</item>
+    </plurals>
     <plurals name="vote_all_people">
         <item quantity="other">Усяго %d галасоў</item>
         <item quantity="one">Усяго %d голас</item>
         <item quantity="few">Усяго %d галасы</item>
         <item quantity="many">Усяго %d галасоў</item>
+    </plurals>
+    <plurals name="web_intercept_record_behavior_hint_ad">
+        <item quantity="other">"Заблакаваны %d рэкламных аб'яваў"</item>
+        <item quantity="one">"Заблакавана %d рэкламная аб'ява"</item>
+        <item quantity="few">"Заблакаваны %d рэкламных аб'явы"</item>
+        <item quantity="many">"Заблакаваны %d рэкламных аб'яваў"</item>
+    </plurals>
+    <plurals name="web_intercept_record_behavior_hint_allow_times">
+        <item quantity="other">Дазволена %d разоў</item>
+        <item quantity="one">Дазволена %d раз</item>
+        <item quantity="few">Дазволена %d разы</item>
+        <item quantity="many">Дазволена %d разоў</item>
+    </plurals>
+    <plurals name="web_intercept_record_behavior_hint_disallow_times">
+        <item quantity="other">Забаронена %d разоў</item>
+        <item quantity="one">Забаронена %d раз</item>
+        <item quantity="few">Забаронена %d разы</item>
+        <item quantity="many">Забаронена %d разоў</item>
+    </plurals>
+    <plurals name="web_intercept_record_behavior_hint_privacy">
+        <item quantity="other">Спынена %d разоў</item>
+        <item quantity="one">Спынена %d раз</item>
+        <item quantity="few">Спынена %d разы</item>
+        <item quantity="many">Спынена %d разоў</item>
+    </plurals>
+    <plurals name="web_permission_ad_subtitle">
+        <item quantity="other">"Заблакаваны %s рэкламных аб'яваў"</item>
+        <item quantity="one">"Заблакавана %s рэкламная аб'ява"</item>
+        <item quantity="few">"Заблакаваны %s рэкламных аб'явы"</item>
+        <item quantity="many">"Заблакаваны %s рэкламных аб'яваў"</item>
+    </plurals>
+    <plurals name="web_permission_allow_default_subtitle">
+        <item quantity="other">Дазволена %s разоў</item>
+        <item quantity="one">Дазволена %s раз</item>
+        <item quantity="few">Дазволена %s разы</item>
+        <item quantity="many">Дазволена %s разоў</item>
+    </plurals>
+    <plurals name="web_permission_deny_default_subtitle">
+        <item quantity="other">Забаронена %s разоў</item>
+        <item quantity="one">Забаронена %s раз</item>
+        <item quantity="few">Забаронена %s разы</item>
+        <item quantity="many">Забаронена %s разоў</item>
+    </plurals>
+    <plurals name="web_permission_privacy_subtitle">
+        <item quantity="other">Спынена %s разоў</item>
+        <item quantity="one">Спынена %s раз</item>
+        <item quantity="few">Спынена %s разы</item>
+        <item quantity="many">Спынена %s разоў</item>
+    </plurals>
+    <plurals name="web_permission_protect_subtitle_day">
+        <item quantity="other">%s дзён</item>
+        <item quantity="one">%s дзень</item>
+        <item quantity="few">%s дні</item>
+        <item quantity="many">%s дзён</item>
+    </plurals>
+    <plurals name="web_permission_protect_subtitle_time">
+        <item quantity="other">%s разоў</item>
+        <item quantity="one">%s раз</item>
+        <item quantity="few">%s разы</item>
+        <item quantity="many">%s разоў</item>
     </plurals>
 </resources>

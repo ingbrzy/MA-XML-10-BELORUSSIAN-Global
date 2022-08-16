@@ -6312,4 +6312,9 @@
   <string name="pc_endurance_calculation">Разлік…</string>
   <string name="size_embedded">Паралельныя вокны</string>
   <string name="size_full">На ўвесь экран</string>
+  <string name="global_satisfaction_notification_button">Ацэнка</string>
+  <string name="global_satisfaction_notification_subhead">Раскажыце нам пра свой вопыт</string>
+  <string name="global_satisfaction_notification_title">Ацэніце гэтую прыладу</string>
+  <string name="bh_order_details_title_content">Інфармацыя аб замове</string>
+  <string name="widget_cleaner_size_unit">Мб</string>
 </resources>

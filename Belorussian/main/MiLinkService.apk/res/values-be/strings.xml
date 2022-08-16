@@ -454,7 +454,7 @@
   <string name="send">Адправіць</string>
   <string name="debug_mode_merge_support">Ці падтрымліваць аб\'яднанне праграм</string>
   <string name="debug_mode_milink_version">Версія праграмы</string>
-  <string name="dialog_scanning_precondition_new_china">Уключыце Wi-Fi, Bluetooth і службы вызначэння месцазнаходжання, каб выкарыстоўваць трансляцыю. Уключыць?</string>
+  <string name="dialog_scanning_precondition_new_china">Уключыце Wi-Fi i Bluetooth, каб выкарыстоўваць трансляцыю. Уключыць?</string>
   <string name="dialog_scanning_precondition_new_global">Уключыце Wi-Fi і службы вызначэння месцазнаходжання, каб выкарыстоўваць трансляцыю. Уключыць?</string>
   <string name="audio_record_des">Для перадачы гуку з прылады на знешнія маніторы</string>
   <string name="dialog_location_permission_message">Гэтай праграме патрабуецца доступ да вашага месцазнаходжання, каб мець магчымасць знаходзіць знешнія маніторы паблізу. Абярыце \"Дазволіць на ўвесь час\", даючы гэты дазвол, каб пазбегнуць магчымых памылак.</string>
@@ -542,7 +542,7 @@
   <string name="appcirculate_toast_success_2">Трансляцыя экрана выканана паспяхова, абарона прыватнасцi ўключана.</string>
   <string name="auth_check_loading">Пачакайце…</string>
   <string name="auth_MIUI_and_phone_model">Гэтая старонка прызначана толькі для бэта-карыстальнікаў.\nАдлюстраванне версіі сістэмы MIUI 13.</string>
-  <string name="auth_no_user">Гэтая старонка адлюстроўваецца толькі для карыстальнікаў бэта-версіі.\nКалі вы не ўвайшлі ў Mi акаўнт, перайдзіце ў Налады і ўвайдзіце ў свой Mi акаўнт.</string>
+  <string name="auth_no_user">Гэтая старонка адлюстроўваецца толькі для карыстальнікаў бэта-версіі.\nКалі вы не ўвайшлі ў Xiaomi акаўнт, перайдзіце ў Налады і ўвайдзіце ў свой Xiaomi акаўнт.</string>
   <string name="auth_phone_model">Гэтая старонка не падтрымлівае гэтую мадэль</string>
   <string name="auth_show_to_test_user">Гэтая старонка адлюстроўваецца толькі для тэставых карыстальнікаў</string>
   <string name="ball_hint_connect_fail">Перадача не ўдалася, паспрабуйце пазней</string>
@@ -601,12 +601,12 @@
   <string name="circulate_cta_agreement_screen">Трансляцыі, а таксама «Угода карыстальніка» і «Палітыка прыватнасці» Xiaomi</string>
   <string name="circulate_cta_app_name">Цэнтр трансляцыі</string>
   <string name="circulate_cta_desc">Сардэчна запрашаем у Цэнтр трансляцыі. Вы можаце выкарыстоўваць гэта дадатак для кіравання трансляцыяй экрана, функцыямі MIUI+ і трансляцыі лакальнай музыкі на іншыя прылады. У працэсе выкарыстання гэтага прыкладання мы падключымся да Інтэрнэту і запытаем у вас наступныя дазволы:</string>
-  <string name="circulate_cta_exit">Выхад</string>
-  <string name="circulate_cta_premission_sound_subtitle">Для перадачы гук на іншыя прылады для прайгравання падчас трансляцыі</string>
+  <string name="circulate_cta_exit">Не згодзен</string>
+  <string name="circulate_cta_premission_sound_subtitle">Для перадачы прайгравання гуку на падлучаныя прылады</string>
   <string name="circulate_cta_premission_sound_title">Запісваць аўдыё</string>
   <string name="circulate_cta_premission_storage_subtitle">Для адпраўкі і атрымання перададзеных файлаў</string>
-  <string name="circulate_cta_premission_storage_title">Чытанне і запіс фота і файлаў на прыладзе</string>
-  <string name="circulate_cta_premission_wlan_subtitle">Выкарыстоўваць Wi-Fi для сканавання абсталявання і струменевай перадачы аўдыё і відэа</string>
+  <string name="circulate_cta_premission_storage_title">Доступ і захаванне элементаў у сховішча</string>
+  <string name="circulate_cta_premission_wlan_subtitle">Для перадачы элементаў і падлучэнні прылад праз Wi-Fi</string>
   <string name="circulate_cta_premission_wlan_subtitle_miui_plus">Выкарыстоўваць Wi-Fi для струменевай перадачы аўдыё і відэа</string>
   <string name="circulate_cta_premission_wlan_title">Уключаць і выключаць Wi-Fi</string>
   <string name="circulate_device_type_name_pad">Планшэт</string>
@@ -693,8 +693,8 @@
   <string name="character_counter_content_description">Перавышаны ліміт сімвалаў: %1$d з %2$d</string>
   <string name="circulate_card_mirror_help"><u>Больш падрабязна аб падтрымцы прылад</u></string>
   <string name="circulate_card_mirror_pad_subtitle">Перацягнеце карту \"Планшэт\" на тэлевізар,\nлёгка адлюстраваць вялікі экран</string>
-  <string name="circulate_cta_desc_pad">Сардэчна запрашаем у цэнтр трансляцыі. Вы можаце выкарыстоўваць гэту праграму для кіравання трансляцыяй, а таксама для перадачы аўдыё- і відэакантэнту на іншыя прылады. У працэсе выкарыстання гэтага прыкладання мы падключымся да Інтэрнэту і запытаем у вас наступныя дазволы:</string>
-  <string name="circulate_cta_desc_phone">Сардэчна запрашаем у цэнтр трансляцыі. Вы можаце выкарыстоўваць гэту праграму для кіравання трансляцыяй, функцыямі MIUI+ і рэтрансляцыі відэа і кантэнту праграм на іншыя прылады. У працэсе выкарыстання гэтага прыкладання мы падключымся да Інтэрнэту і запытаем у вас наступныя дазволы:</string>
+  <string name="circulate_cta_desc_pad">Сардэчна запрашаем у Цэнтр трансляцыі. Вы можаце выкарыстоўваць гэту праграму для кіравання трансляцыяй, а таксама для перадачы аўдыё- і відэакантэнту на іншыя прылады. У працэсе выкарыстання гэтага прыкладання мы падключымся да Інтэрнэту і запытаем у вас наступныя дазволы:</string>
+  <string name="circulate_cta_desc_phone">Сардэчна запрашаем у Цэнтр трансляцыі. Вы можаце выкарыстоўваць гэту праграму для кіравання трансляцыяй, функцыямі MIUI+ і рэтрансляцыі відэа і кантэнту праграм на іншыя прылады. У працэсе выкарыстання гэтага прыкладання мы падключымся да Інтэрнэту і запытаем у вас наступныя дазволы:</string>
   <string name="circulate_cta_premission_wlan_subtitle_global">Выкарыстоўваць Wi-Fi для сканавання прылад і струменевай перадачы кантэнту</string>
   <string name="circulate_cta_premission_wlan_subtitle_miui_plus_global">Выкарыстоўваць Wi-Fi для струменевай перадачы кантэнту</string>
   <string name="circulate_cta_premission_wlan_title_global">Уключаць і выключаць Wi-Fi</string>
@@ -773,4 +773,83 @@
   <string name="mtrl_picker_toggle_to_day_selection">Дакраніцеся, каб пераключыцца на выбар дня</string>
   <string name="mtrl_picker_toggle_to_text_input_mode">Пераключыцца ў рэжым уводу \"Тэкст\"</string>
   <string name="mtrl_picker_toggle_to_year_selection">Дакраніцеся, каб пераключыцца на выбар года</string>
+  <string name="appcirculate_toast_not_support_device_phone">Немагчыма адкрыць гэту праграму на тэлефоне</string>
+  <string name="cast_image_des">Падручнік па трансляцыі</string>
+  <string name="circulate_cta_premission_storage_pad_title">Доступ да сховішча</string>
+  <string name="circulate_cta_user_agreement">Прачытайце і прыміце нашы &lt;txt href=\"%1$s\">Угоду карыстальніка&lt;/txt> і &lt;txt href=\"%2$s\">Палітыку прыватнасцi&lt;/txt>, перш чым працягнуць.</string>
+  <string name="circulate_headset_back_to_box_desc">"1. Змясціце абодва навушнікі ў футарал для зарадкі.
+2. Націсніце і ўтрымлівайце кнопку на корпусе.
+3. Завяршыце спалучэнне на мэтавай прыладзе."</string>
+  <string name="circulate_headset_back_to_box_desc_pad">"1. Змясціце абодва навушнікі ў футарал.
+2. Націсніце і ўтрымлівайце кнопку на корпусе.
+3. Завяршыце спалучэнне ў настройках Bluetooth або з дапамогай ўсплывальнага дыялогавага акна на гэтай прыладзе."</string>
+  <string name="circulate_headset_back_to_box_desc_phone">"1. Змясціце абодва навушнікі ў футарал.
+2. Націсніце і ўтрымлівайце кнопку на корпусе.
+3. Завяршыце спалучэнне ў настройках Bluetooth або з дапамогай ўсплывальнага дыялогавага акна на гэтай прыладзе."</string>
+  <string name="circulate_headset_back_to_box_subtitle">Немагчыма выканаць аўтаматычнае спалучэнне гэтых навушнікаў. Замест гэтага выканайце спалучэнне ўручную на мэтавай прыладзе.</string>
+  <string name="circulate_headset_back_to_box_title">Спачатку падключыце навушнікі</string>
+  <string name="circulate_headset_back_to_box_title_pad">Спалучэнне навушнікаў з гэтай прыладай</string>
+  <string name="circulate_headset_back_to_box_title_phone">Спалучэнне навушнікаў з гэтай прыладай</string>
+  <string name="circulate_headset_duplicate_cancel">Адмена</string>
+  <string name="circulate_headset_duplicate_dialog_message">Здаецца, да вашага %1$s падлучаны іншы камплект навушнікаў. Замяніць іх бягучым наборам?</string>
+  <string name="circulate_headset_duplicate_dialog_title">Замяніце навушнікі, падлучаныя да %1$s</string>
+  <string name="circulate_headset_duplicate_ok">Замяніць</string>
+  <string name="circulate_headset_error_default">Час чакання падключэння скончыўся</string>
+  <string name="circulate_headset_error_device_not_support">Немагчыма падлучыць навушнікі да гэтай прылады</string>
+  <string name="circulate_headset_error_headset_not_support">Немагчыма падлучыць навушнікі да гэтага кампутара</string>
+  <string name="circulate_headset_error_timeout">Час чакання падключэння скончыўся</string>
+  <string name="circulate_headset_error_upgrade">Спачатку абновіце Цэнтр трансляцыі на мэтавай прыладзе</string>
+  <string name="connect_success">Падлучана %1$s</string>
+  <string name="upgrade_cancel">Адмяніць</string>
+  <string name="upgrade_cancel_all">Адмяніць абнаўленні</string>
+  <string name="upgrade_check_upgrade">Абнавіць</string>
+  <string name="upgrade_checking">Праверка абнаўленняў…</string>
+  <string name="upgrade_help_menu">Даведка</string>
+  <string name="upgrade_help_title">Дапамога з абнаўленнем</string>
+  <string name="upgrade_login_dialog_message">Увайдзіце ў свой акаўнт Xiaomi, каб мець магчымасць праглядаць падлучаныя прылады.</string>
+  <string name="upgrade_login_dialog_sure">Увайсці</string>
+  <string name="upgrade_login_dialog_title">Увайдзіце ў акаўнт Xiaomi</string>
+  <string name="upgrade_no_devices">Няма даступных абнаўленняў</string>
+  <string name="upgrade_scan">Праверыць наяўнасць абнаўленняў</string>
+  <string name="upgrade_start">Абнавіць</string>
+  <string name="upgrade_start_all">Абнавіць</string>
+  <string name="upgrade_title">Абнавіць падлучаныя прылады</string>
+  <string name="upgrade_toast_no_wifi">Не ўдалося падлучыцца</string>
+  <string name="upgrade_tv_device_tip">* Абнаўленні прадастаўляюцца Xiaomi TV</string>
+  <string name="upgrade_ver_can_upgrade">Даступнае абнаўленне</string>
+  <string name="upgrade_ver_can_upgrade_1to2">Абнаўленне з версіі %1$d да %2$d</string>
+  <string name="upgrade_ver_can_upgrade_to1">Абнавіць да версіі %1$d</string>
+  <string name="upgrade_ver_latest">Бягучая версія актуальная</string>
+  <string name="upgrade_ver_latest1">Бягучая версія (%1$d) актуальная</string>
+  <string name="circulate_headset_control_anc_clear">Празрысты</string>
+  <string name="circulate_headset_control_anc_disable_hint">Гарнітура падлучаная да падвойнай прылады, на гэтай прыладзе можна рэгуляваць толькі гучнасць гарнітуры</string>
+  <string name="circulate_headset_control_anc_noise_cancel">Шумапрыглушэнне</string>
+  <string name="circulate_headset_control_anc_off">Закрыць</string>
+  <string name="circulate_headset_control_battery_case">Футарал для зарадкі</string>
+  <string name="circulate_headset_control_battery_left">Левы</string>
+  <string name="circulate_headset_control_battery_right">Правы</string>
+  <string name="circulate_headset_control_more_settings">Дадатковыя налады</string>
+  <string name="circulate_headset_error_headset_not_worn">Выкарыстоўвайце абодва навушнікі</string>
+  <string name="circulate_headset_error_headset_not_worn_both">Выкарыстоўвайце абодва навушнікі</string>
+  <string name="circulate_more_button_content_description">Яшчэ</string>
+  <string name="circulate_ringfind_button_hint_play">Уключыць гук</string>
+  <string name="circulate_ringfind_button_hint_stop">Выключыць гук</string>
+  <string name="circulate_ringfind_error_hint_ringing">Прылада тэлефануе</string>
+  <string name="circulate_ringfind_error_hint_start">Памылка, паспрабуйце яшчэ раз</string>
+  <string name="circulate_ringfind_error_hint_stop">Немагчыма выключыць гук. Націсніце яшчэ раз, каб паўтарыць спробу.</string>
+  <string name="circulate_ringfind_title">Пошук званка</string>
+  <string name="circulate_ringfind_title_stop">Выключыць гук</string>
+  <string name="circulate_speaker_control_header_title">Кіраванне дынамікамі</string>
+  <string name="circulate_speaker_control_view">Ад %1$s</string>
+  <string name="device_type_name_pad">Планшэт</string>
+  <string name="device_type_name_phone">Тэлефон</string>
+  <string name="err_toast_msg_bluetooth_support_only">Прылада падтрымлівае перадачу дадзеных праз навушнікі, карту навушнікаў можна перацягваць</string>
+  <string name="err_toast_msg_mirror_and_bluetooth_support_only">Прылада падтрымлівае сумесную працу паміж экранамі і струменевую перадачу праз гарнітуру, і вы можаце перацягваць карту экрана ці гарнітуры</string>
+  <string name="find_device_close">Закрыць</string>
+  <string name="find_device_notification_content">%2$s з %1$s шукае гэты %3$s, разблакуйце, каб спыніць званок</string>
+  <string name="find_device_notification_content_single">%1$s шукае гэты %2$s, разблакуйце, каб спыніць званок</string>
+  <string name="find_device_popup_content">%2$s з %1$s шукае гэты %3$s</string>
+  <string name="find_device_popup_content_single">%1$s шукае гэты %2$s</string>
+  <string name="find_device_title">Прылада тэлефануе</string>
+  <string name="upgrade_toast_cannot_cancel_while_installing">Ідзе ўсталёўка, яе нельга перапыніць</string>
 </resources>

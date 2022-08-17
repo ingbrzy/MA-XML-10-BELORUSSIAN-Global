@@ -76,7 +76,7 @@
   <string name="accessor_never_expires_text">Бестэрміновая арэнда.</string>
   <string name="add_guest_failed">Не ўдалося стварыць новага госця</string>
   <string name="all_supported_app_locales_title">Усе мовы</string>
-  <string name="allow_bind_app_widget_activity_allow_bind">Пасля стварэння віджэта праграма зможа атрымаць доступ да ўсяго змесціва, якое паказваецца на экране.\n\nПраграма: %1$s\nВіджэт: %2$\n</string>
+  <string name="allow_bind_app_widget_activity_allow_bind">Пасля стварэння віджэта праграма зможа атрымаць доступ да ўсяго змесціва, якое паказваецца на экране.\n\nПраграма: %1$s\nВіджэт: %2$s\n</string>
   <string name="allow_mock_modem">Дазволіць фіктыўны мадэм</string>
   <string name="allow_mock_modem_summary">Дазвольце гэтай прыладзе запускаць паслугу фіктыўнага мадэма для тэсціравання апаратуры. Не ўключайце гэту функцыю падчас звычайнага выкарыстання тэлефона</string>
   <string name="allow_turn_screen_on">Дазволіць уключэнне экрана</string>

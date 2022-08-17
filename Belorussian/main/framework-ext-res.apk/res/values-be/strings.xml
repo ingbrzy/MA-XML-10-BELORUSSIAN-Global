@@ -439,7 +439,7 @@
   <string name="throwing_screen">Трансляцыя</string>
   <string name="tip_close_screen_phone">Пераключыцеся на гучную сувязь або складзiце прыладу, каб выкарыстоўваць убудаваны дынамік</string>
   <string name="tip_for_phone_and_camera">Складзіце прыладу, каб выкарыстоўваць убудаваны дынамік ці пярэднюю камеру</string>
-  <string name="tip_use_front_camera">Складзіце прыладу, каб выкарыстоўваць пярэднюю камеру</string>
+  <string name="tip_use_front_camera">Складзіце прыладу, каб\nвыкарыстоўваць пярэднюю камеру</string>
   <string name="tips_prompt_enable_midrop">Абмен файламі</string>
   <string name="total">Не турбаваць</string>
   <string name="total_description">Адключэнне гуку і вібрацыі для ўсіх рэжымаў, акрамя будзільніка</string>

@@ -817,7 +817,7 @@
   <string name="pa_accessibility_picker_home_search">Пошук віджэтаў</string>
   <string name="pa_accessibility_picker_home_smallBanner_slected">Абрана %1$s, радок %2$d, нумар %3$d. Націсніце двойчы, каб пачаць.</string>
   <string name="pa_accessibility_picker_home_title">Дадаць віджэт</string>
-  <string name="pa_accessibility_picker_home_widget_slected">Абрана %1$s, Памер: %2$s, Статус усталёўкі: %3$s, Радок %4$d, Нумар %5$d, націсніце двойчы, каб даведацца падрабязнасці, націсніце двойчы і ўтрымлівайце, каб рухаць.</string>
+  <string name="pa_accessibility_picker_home_widget_slected">Абрана %1$s, радок %2$d, нумар %3$d. Двойчы націсніце, каб прагледзець падрабязную інфармацыю. Націсніце і ўтрымлівайце, каб перацягнуць элемент.</string>
   <string name="pa_accessibility_picker_home_widget_with_add_slected">Абрана %1$s, радок %2$d, нумар %3$d. Націсніце двойчы, каб паглядзець падрабязнасці.</string>
   <string name="pa_express_main_mul_choice_title">Абраны элемент %d</string>
   <string name="pa_lite_setting_service_shopping">Гандлёвыя прапановы</string>

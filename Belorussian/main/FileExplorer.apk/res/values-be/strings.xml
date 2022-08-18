@@ -803,4 +803,6 @@
   <string name="widget_choose_file">Націсніце, каб дадаць файлы</string>
   <string name="widget_choose_fragment_title">Абярыце тып файла</string>
   <string name="widget_finish">Гатова</string>
+  <string name="widget_choose_document_please">Абярыце дакумент</string>
+  <string name="widget_name">Нядаўна прагледжаныя файлы</string>
 </resources>

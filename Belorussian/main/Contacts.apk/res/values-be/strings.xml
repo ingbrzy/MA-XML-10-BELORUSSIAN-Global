@@ -1405,4 +1405,8 @@
   <string name="invisible_mode_title">Вы інкогніта</string>
   <string name="invisible_mode_unable_connect_camera">Выключыце рэжым інкогніта, каб мець магчымасць выкарыстоўваць камеру. Выключыць?</string>
   <string name="invisible_mode_unable_get_location">Выключыце рэжым інкогніта, каб мець магчымасць выкарыстоўваць службы вызначэння месцазнаходжання і імпартаваць кантакты з іншых прылад праз Bluetooth. Выключыць?</string>
+  <string name="presentation_payphone">Таксафон</string>
+  <string name="presentation_private">Асабісты нумар</string>
+  <string name="presentation_unknown">Невядомы нумар</string>
+  <string name="view_more_call_logs">Больш падрабязна</string>
 </resources>

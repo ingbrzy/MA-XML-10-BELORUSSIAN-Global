@@ -1583,4 +1583,5 @@
   <string name="install_gallery_content">Вы яшчэ не ўсталявалі Галерэю. Спампаваць?</string>
   <string name="install_gallery_title">Усталяваць галерэю</string>
   <string name="recommend_bottom_tips">Унізе</string>
+  <string name="apply_4k_video_wallpaper_warning">Відэа 4K і 8K нельга выкарыстоўваць у якасці відэашпалер.</string>
 </resources>

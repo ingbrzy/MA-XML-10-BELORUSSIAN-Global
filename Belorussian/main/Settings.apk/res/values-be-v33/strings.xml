@@ -391,7 +391,7 @@
   <string name="auto_rotate_screen_summary">Аўтаматычна змяняць арыентацыю экрана пры паваротах тэлефона</string>
   <string name="auto_rotate_summary_a11y">Калі вы паварочваеце тэлефон для змянення арыентацыі экрана</string>
   <string name="back_navigation_animation">Анімацыя падказкі для жэста вяртання</string>
-  <string name="back_navigation_animation_dialog">Гэта налада ўключае сістэмную анімацыю падказкі для жэста вяртання. Для гэтага неабходна задаць у файле маніфеста для параметра enableOnBackInvokedCallback значэнне \"True\" для кожнай праграмы.</string>
+  <string name="back_navigation_animation_dialog">Гэта налада ўключае сістэмную анімацыю падказкі для жэста вяртання. Для гэтага патрабуецца ўсталяваць для параметра enableOnBackInvokedCallback значэнне true у файле маніфесту кожнай праграмы.</string>
   <string name="back_navigation_animation_summary">Уключыць сістэмную анімацыю падказкі для жэстаў вяртання.</string>
   <string name="bluetooth_broadcast_dialog_broadcast_app">Трансліраваць праграму \"%1$s\"</string>
   <string name="bluetooth_broadcast_dialog_broadcast_message">Трансліруйце мультымедыя на прылады паблізу або праслухвайце трансляцыі іншых карыстальнікаў</string>

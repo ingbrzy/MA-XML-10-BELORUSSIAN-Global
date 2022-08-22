@@ -6317,4 +6317,6 @@
   <string name="global_satisfaction_notification_title">Ацэніце гэтую прыладу</string>
   <string name="bh_order_details_title_content">Інфармацыя аб замове</string>
   <string name="widget_cleaner_size_unit">Мб</string>
+  <string name="antispam_guangdian_card_hint">Ваша SIM-карта не падтрымлівае пераключэнне на іншае паведамленне аб адсутнасці. За падрабязнасцямі звярніцеся да свайго аператара сувязі.</string>
+  <string name="antispam_guangdian_card_title">Пераключэнне не падтрымліваецца</string>
 </resources>

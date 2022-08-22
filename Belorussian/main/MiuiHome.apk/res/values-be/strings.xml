@@ -1074,4 +1074,8 @@
   <string name="miui_widget_menu_replace_text">Пераключыць</string>
   <string name="monochrome_summary">Змяніць колер фону для сумяшчальных абразкоў</string>
   <string name="monochrome_title">Колер фону</string>
+  <string name="work_mode_off_detailed_text">Вашыя працоўныя праграмы не могуць адпраўляць вам апавяшчэнні, выкарыстоўваць батарэю або атрымліваць доступ да вашага месцазнаходжання</string>
+  <string name="work_mode_off_text">Працоўныя праграмы прыпыненыя</string>
+  <string name="work_mode_toggle_off">Выключыць працоўныя праграмы</string>
+  <string name="work_mode_toggle_on">Уключыць працоўныя праграмы</string>
 </resources>

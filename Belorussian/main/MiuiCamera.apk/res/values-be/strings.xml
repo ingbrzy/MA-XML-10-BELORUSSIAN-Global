@@ -2194,22 +2194,54 @@
   <string name="pref_ambient_lighting_title">Асвятленне</string>
   <string name="pref_camera_crop_preferred_description">Ужывайце інтэлектуальнае абразанне, каб палепшыць кампазіцыю малюнкаў з высокім дазволам. Гэтая функцыя не падтрымлівае выявы HEIF.</string>
   <string name="pref_true_colour_video_mode_introduction">Узрушаючыя візуальныя эфекты, рэалістычныя дэталі і дзіўны кантраст</string>
-  <string name="pref_video_prompter">Відэасуфлёр</string>
-  <string name="pref_video_prompter_edit">Рэдагаваць відэасуфлёр</string>
+  <string name="pref_video_prompter">Тэлесуфлер</string>
+  <string name="pref_video_prompter_edit">Рэдагаваць тэлесуфлер</string>
   <string name="sorftlight_style_cold">Халодны</string>
   <string name="sorftlight_style_nature">Натуральны</string>
   <string name="sorftlight_style_warm">Цёплы</string>
   <string name="video_prompter_adjust_size">Памер тэксту</string>
   <string name="video_prompter_adjust_speed">Хуткасць пракруткі</string>
-  <string name="video_prompter_default_txt">\nТэлесуфлер:\nПракручвайце радкі падчас запісу відэа\n\nВыкарыстоўвайце падручнік:\nЗначкі ўнізе: \"Імпартаваць тэкст\", \"Папярэдні прагляд\" і \"Рэдагаваць копію\" ". Націсніце і ўтрымлівайце абодва бакі ніжняй часткі, каб павялічыць плавае акно, і націсніце і ўтрымлівайце ніжнюю і верхнюю частку, каб перамясціць плавае акно.</string>
-  <string name="video_prompter_edit_exit_dialog_message">Зварот не захавае тое, што было ўведзена</string>
-  <string name="video_prompter_edit_exit_dialog_title">Адмяніць рэдагаванне</string>
+  <string name="video_prompter_default_txt">"
+Тэлесуфлер
+Выкарыстоўвайце тэлесуфлер, каб чытаць сцэнар падчас запісу відэа.
+
+Як працуе тэлесуфлер
+Вы можаце выкарыстоўваць кнопкі ніжэй для імпарту тэксту, папярэдняга прагляду прайгравання і рэдагавання радкоў. Каб змяніць памер плаваючага акна, націсніце і ўтрымлівайце яго ніжнія куты. Каб перамясціць акно, перацягнеце яго за ніжні або верхні край."</string>
+  <string name="video_prompter_edit_exit_dialog_message">Калі вы спыніце рэдагаванне зараз, усе незахаваныя змены будуць страчаныя. Усё роўна спыніцца?</string>
+  <string name="video_prompter_edit_exit_dialog_title">Спыніць рэдагаванне?</string>
   <string name="video_prompter_edit_import_fail">Памылка імпарту</string>
   <string name="video_prompter_edit_import_success">Імпарт выкананы паспяхова</string>
-  <string name="video_prompter_edit_import_success_partially">Перавышаны ліміт сімвалаў, будзе імпартаваная толькі частка кантэнту</string>
+  <string name="video_prompter_edit_import_success_partially">Перавышаны ліміт сімвалаў, будзе імпартаваная толькі частка тэксту.</string>
   <string name="video_prompter_edit_tip_dialog_cancel">Адмена</string>
-  <string name="video_prompter_edit_tip_dialog_message">Падтрымліваюцца толькі файлы фарматаў doc, docx, txt. Не падтрымлівае адлюстраванне выяў, табліц, гіперспасылак і г.д. у файле</string>
+  <string name="video_prompter_edit_tip_dialog_message">Вы можаце імпартаваць файлы DOC, DOCX і TXT. Выявы, табліцы і гіперспасылкі адлюстроўвацца не будуць.</string>
   <string name="video_prompter_edit_tip_dialog_ok">ОК</string>
   <string name="video_prompter_edit_tip_dialog_title">Імпарт тэксту</string>
   <string name="video_prompter_edit_total_words" formatted="false">%d/%d слоў</string>
+  <string name="shine_hair_puffy">Валасы</string>
+  <string name="sorftlight_style_cold_alert">Офіс</string>
+  <string name="sorftlight_style_nature_alert">На вуліцы</string>
+  <string name="sorftlight_style_warm_alert">Рэстаран</string>
+  <string name="vlog_pro_cancel_reset_record_hint">Адмена</string>
+  <string name="vlog_pro_first_into_vlog_dumy_hint">Выберыце шаблон і націсніце, каб пачаць</string>
+  <string name="vlog_pro_first_record_hint">Націсніце, каб аб\'яднаць у паслядоўнасць</string>
+  <string name="vlog_pro_reset_record_hint">Перазняць</string>
+  <string name="vlog_pro_workspace_continue_recording">Працягнуць запіс</string>
+  <string name="vlog_pro_workspace_video_delete">Выдаліць</string>
+  <string name="vlog_pro_workspace_video_rename">Перайменаваць</string>
+  <string name="desc_doc4_tip">Атрымаць тэкст выяўлення папярэдняга прагляду</string>
+  <string name="guide_pop_window_msg_mimoji">Націсніце, каб выкарыстоўваць выяву</string>
+  <string name="mimoji_body_emoticon">Аватар у поўны рост</string>
+  <string name="mimoji_body_horizontal_screen_tips">У цяперашні час выява ўсяго цела не падтрымлівае гарызантальнае выкарыстанне экрана</string>
+  <string name="mimoji_check_no_body">Цела не выяўлена</string>
+  <string name="mimoji_cloth_shoes">Абутак</string>
+  <string name="mimoji_cloth_suit">Касцюм</string>
+  <string name="mimoji_cloth_trousers">Ніжняя частка цела</string>
+  <string name="mimoji_cloth_upper">Верхняя частка цела</string>
+  <string name="mimoji_head_emoticon">Аватар з галавой</string>
+  <string name="msg_bubble_doc4_first_use">Націсніце, каб хутка атрымаць тэкст</string>
+  <string name="msg_toast_doc4_text_not_found">Распазнаны тэкст не знойдзены</string>
+  <string name="summary_pref_camera_doc4">Зрабіце здымак і выраўнуйце тэкст, каб хутка ідэнтыфікаваць тэкст і атрымаць яго для выкарыстання. Падтрымліваюцца толькі кітайская і англійская мовы</string>
+  <string name="title_doc4_recognize_page_hint">Перацягнеце ці нацiснiце, каб вылучыць тэкст</string>
+  <string name="title_item_context_menu_doc4_copy_done">Скапіявана</string>
+  <string name="title_pref_camera_doc4">Выманне тэксту ў рэальным часе</string>
 </resources>

@@ -621,7 +621,7 @@ ID:%s
   <string name="passport_setting">Наладка…</string>
   <string name="passport_skip_login">Прапусціць</string>
   <string name="passport_skip_register">Прапусціць рэгістрацыю</string>
-  <string name="passport_skip_setup_account_msg">Уваход у Xiaomi акаўнт Mi дазваляе выкарыстоўваць сэрвісы Воблака Xiaomi. Усё роўна прапусціць гэты крок?</string>
+  <string name="passport_skip_setup_account_msg">Уваход у Xiaomi акаўнт дазваляе выкарыстоўваць сэрвісы Воблака Xiaomi. Усё роўна прапусціць гэты крок?</string>
   <string name="passport_skip_setup_account_title">Xiaomi акаўнт і сэрвісы Xiaomi</string>
   <string name="passport_sms_send_success">Дасланы</string>
   <string name="passport_sms_verification_code_login">Увайсці з дапамогай SMS</string>
@@ -653,7 +653,7 @@ ID:%s
   <string name="passport_use_generated_pwd_message">Упэўніцеся, што вы запомнілі свой пароль. Вы можаце скарыстаць яго для ўваходу ў іншыя Мі Сэрвісы.</string>
   <string name="passport_use_generated_pwd_title">Запомніце свой пароль!</string>
   <string name="passport_user_agreement">Карыстальніцкае пагадненне</string>
-  <string name="passport_user_agreement_link">&lt;Data>Я прачытаў(-ла) &lt;a href=%1$s>Карыстальніцкае пагадненне&lt;/a> і &lt;a href=%2$s>Палітыку прыватнасці&lt;/a> Xiaomi і згодны(-ая) з імі.&lt;/Data></string>
+  <string name="passport_user_agreement_link"><Data>Я прачытаў(-ла) &lt;a href=%1$s>Карыстальніцкае пагадненне&lt;/a> і &lt;a href=%2$s>Палітыку прыватнасці&lt;/a> Xiaomi і згодны(-ая) з імі.</Data></string>
   <string name="passport_user_agreement_required">Карыстальніцкае пагадненне (абавязкова)</string>
   <string name="passport_user_id_notice">ID вашага Xiaomi акаўнта %s.</string>
   <string name="passport_user_reg_region">Краіна/Рэгіён</string>
@@ -850,16 +850,16 @@ ID:%s
   <string name="user_avatar_uploading">Хвілінку…</string>
   <string name="user_instruction_all_purpose">Сардэчна запрашаем у Xiaomi акаўнт! Вы можаце выкарыстоўваць свой акаўнт, каб атрымаць доступ да паслуг, якія прадстаўляюцца Xiaomi і яе даччынымі кампаніямі, такім як Mi.Com, Воблака Xiaomi і GetApps. Вы можаце атрымліваць Mi манеты, купляць віртуальныя тавары і карыстацца дадатковымі сэрвісамі, уключаючы гульні, тэмы і электронныя кнігі.</string>
   <string name="user_instruction_tip">Для ўваходу прачытайце палажэнні і ўмовы і пагадзіцеся з імі.</string>
-  <string name="user_license_with_3rd_app">&lt;Data>Уваходзячы ў мой Xiaomi акаўнт, я пацвярджаю, што прачытаў(-ла) &lt;a href=%1$s>Карыстальніцкае пагадненне&lt;/a> і &lt;a href=%2$s>Палітыку прыватнасці&lt;/a> і &lt;a href=%3$s>Карыстальніцкае пагадненне&lt;/a> і &lt;a href=%4$s>Палітыку прыватнасці&lt;/a> і пагадзіўся(-лась) з імі.&lt;/Data></string>
-  <string name="user_license_with_3rd_app_mobile">&lt;Data>Я прачытаў(-ла) &lt;a href=%1$s>Карыстальніцкае пагадненне&lt;/a> і &lt;a href=%2$s>Палітыку прыватнасці&lt;/a>, &lt;a href=%3$s>Карыстальніцкае пагадненне&lt;/a> і &lt;a href=%4$s>Палітыку прыватнасці&lt;/a> Xiaomi акаўнта і &lt;a href=%5$s>Палажэння і ўмовы паслуг праверкі China Mobile&lt;/a> і пагадзіўся(-лась) з імі.&lt;/Data></string>
-  <string name="user_license_with_3rd_app_no_operator">&lt;Data>Я прачытаў(-ла) &lt;a href=%1$s>Карыстальніцкае пагадненне&lt;/a> і &lt;a href=%2$s>Палітыку прыватнасці&lt;/a> і &lt;a href=%3$s>Карыстальніцкае пагадненне&lt;/a> і &lt;a href=%4$s>Палітыку прыватнасці&lt;/a> Xiaomi акаўнта і пагадзіўся(-лась) з імі.&lt;/Data></string>
-  <string name="user_license_with_3rd_app_telcom">&lt;Data>Я прачытаў(-ла) &lt;a href=%1$s>Карыстальніцкае пагадненне&lt;/a> і &lt;a href=%2$s>Палітыку прыватнасці&lt;/a>, &lt;a href=%3$s>Карыстальніцкае пагадненне&lt;/a> і &lt;a href=%4$s>Палітыку прыватнасці&lt;/a> Xiaomi акаўнта і &lt;a href=%5$s>Палажэння і ўмовы паслуг праверкі акаўнта eSurfing&lt;/a> і пагадзіўся(-лась) з імі.&lt;/Data></string>
-  <string name="user_license_with_3rd_app_unicom">&lt;Data>Я прачытаў(-ла) &lt;a href=%1$s>Карыстальніцкае пагадненне&lt;/a> і &lt;a href=%2$s>Палітыку прыватнасці&lt;/a>, &lt;a href=%3$s>Карыстальніцкае пагадненне&lt;/a> і &lt;a href=%4$s>Палітыку прыватнасці&lt;/a> Xiaomi акаўнта і &lt;a href=%5$s>Палажэння і ўмовы паслуг праверкі China Unicom&lt;/a> і пагадзіўся(-лась) з імі.&lt;/Data></string>
-  <string name="user_license_with_out_3rd_app_no_operator">&lt;Data>Я прачытаў(-ла) &lt;a href=%1$s>Карыстальніцкае пагадненне&lt;/a> і &lt;a href=%2$s>Палітыку прыватнасці&lt;/a> Xiaomi акаўнта і пагадзіўся(-лась) з імі.&lt;/Data></string>
-  <string name="user_license_without_3rd_app">&lt;Data>Я прачытаў(-ла) &lt;a href=%1$s>Карыстальніцкае пагадненне&lt;/a> і &lt;a href=%2$s>Палітыку прыватнасці&lt;/a> Xiaomi акаўнта і згодны(-ая) з імі.&lt;/Data></string>
-  <string name="user_license_without_3rd_mobile">&lt;Data>Я прачытаў(-ла) &lt;a href=%1$s>Карыстальніцкае пагадненне&lt;/a> і &lt;a href=%2$s>Палітыку прыватнасці&lt;/a> Xiaomi акаўнта і &lt;a href=%3$s>Палажэння і ўмовы паслуг праверкі China Mobile&lt;/a> і пагадзіўся(-лась) з імі.&lt;/Data></string>
-  <string name="user_license_without_3rd_telcom">&lt;Data>Я прачытаў(-ла) &lt;a href=%1$s>Карыстальніцкае пагадненне&lt;/a> і &lt;a href=%2$s>Палітыку прыватнасці&lt;/a> Xiaomi акаўнта і &lt;a href=%3$s>Палажэння і ўмовы паслуг праверкі акаўнта eSurfing&lt;/a> і пагадзіўся(-лась) з імі.&lt;/Data></string>
-  <string name="user_license_without_3rd_unicom">&lt;Data>Я прачытаў(-ла) &lt;a href=%1$s>Карыстальніцкае пагадненне&lt;/a> і &lt;a href=%2$s>Палітыку прыватнасці&lt;/a> Xiaomi акаўнта і &lt;a href=%3$s>Палажэння і ўмовы паслуг праверкі China Unicom&lt;/a> і пагадзіўся(-лась) з імі.&lt;/Data></string>
+  <string name="user_license_with_3rd_app"><Data>Уваходзячы ў мой Xiaomi акаўнт, я пацвярджаю, што прачытаў(-ла) &lt;a href=%1$s>Карыстальніцкае пагадненне&lt;/a> і &lt;a href=%2$s>Палітыку прыватнасці&lt;/a> і &lt;a href=%3$s>Карыстальніцкае пагадненне&lt;/a> і &lt;a href=%4$s>Палітыку прыватнасці&lt;/a> і пагадзіўся(-лась) з імі.</Data></string>
+  <string name="user_license_with_3rd_app_mobile"><Data>Я прачытаў(-ла) &lt;a href=%1$s>Карыстальніцкае пагадненне&lt;/a> і &lt;a href=%2$s>Палітыку прыватнасці&lt;/a>, &lt;a href=%3$s>Карыстальніцкае пагадненне&lt;/a> і &lt;a href=%4$s>Палітыку прыватнасці&lt;/a> Xiaomi акаўнта і &lt;a href=%5$s>Палажэння і ўмовы паслуг праверкі China Mobile&lt;/a> і пагадзіўся(-лась) з імі.</Data></string>
+  <string name="user_license_with_3rd_app_no_operator"><Data>Я прачытаў(-ла) &lt;a href=%1$s>Карыстальніцкае пагадненне&lt;/a> і &lt;a href=%2$s>Палітыку прыватнасці&lt;/a> і &lt;a href=%3$s>Карыстальніцкае пагадненне&lt;/a> і &lt;a href=%4$s>Палітыку прыватнасці&lt;/a> Xiaomi акаўнта і пагадзіўся(-лась) з імі.</Data></string>
+  <string name="user_license_with_3rd_app_telcom"><Data>Я прачытаў(-ла) &lt;a href=%1$s>Карыстальніцкае пагадненне&lt;/a> і &lt;a href=%2$s>Палітыку прыватнасці&lt;/a>, &lt;a href=%3$s>Карыстальніцкае пагадненне&lt;/a> і &lt;a href=%4$s>Палітыку прыватнасці&lt;/a> Xiaomi акаўнта і &lt;a href=%5$s>Палажэння і ўмовы паслуг праверкі акаўнта eSurfing&lt;/a> і пагадзіўся(-лась) з імі.</Data></string>
+  <string name="user_license_with_3rd_app_unicom"><Data>Я прачытаў(-ла) &lt;a href=%1$s>Карыстальніцкае пагадненне&lt;/a> і &lt;a href=%2$s>Палітыку прыватнасці&lt;/a>, &lt;a href=%3$s>Карыстальніцкае пагадненне&lt;/a> і &lt;a href=%4$s>Палітыку прыватнасці&lt;/a> Xiaomi акаўнта і &lt;a href=%5$s>Палажэння і ўмовы паслуг праверкі China Unicom&lt;/a> і пагадзіўся(-лась) з імі.</Data></string>
+  <string name="user_license_with_out_3rd_app_no_operator"><Data>Я прачытаў(-ла) &lt;a href=%1$s>Карыстальніцкае пагадненне&lt;/a> і &lt;a href=%2$s>Палітыку прыватнасці&lt;/a> Xiaomi акаўнта і пагадзіўся(-лась) з імі.</Data></string>
+  <string name="user_license_without_3rd_app"><Data>Я прачытаў(-ла) &lt;a href=%1$s>Карыстальніцкае пагадненне&lt;/a> і &lt;a href=%2$s>Палітыку прыватнасці&lt;/a> Xiaomi акаўнта і згодны(-ая) з імі.</Data></string>
+  <string name="user_license_without_3rd_mobile"><Data>Я прачытаў(-ла) &lt;a href=%1$s>Карыстальніцкае пагадненне&lt;/a> і &lt;a href=%2$s>Палітыку прыватнасці&lt;/a> Xiaomi акаўнта і &lt;a href=%3$s>Палажэння і ўмовы паслуг праверкі China Mobile&lt;/a> і пагадзіўся(-лась) з імі.</Data></string>
+  <string name="user_license_without_3rd_telcom"><Data>Я прачытаў(-ла) &lt;a href=%1$s>Карыстальніцкае пагадненне&lt;/a> і &lt;a href=%2$s>Палітыку прыватнасці&lt;/a> Xiaomi акаўнта і &lt;a href=%3$s>Палажэння і ўмовы паслуг праверкі акаўнта eSurfing&lt;/a> і пагадзіўся(-лась) з імі.</Data></string>
+  <string name="user_license_without_3rd_unicom"><Data>Я прачытаў(-ла) &lt;a href=%1$s>Карыстальніцкае пагадненне&lt;/a> і &lt;a href=%2$s>Палітыку прыватнасці&lt;/a> Xiaomi акаўнта і &lt;a href=%3$s>Палажэння і ўмовы паслуг праверкі China Unicom&lt;/a> і пагадзіўся(-лась) з імі.</Data></string>
   <string name="v7_preference_off">ВЫКЛ.</string>
   <string name="v7_preference_on">УКЛ.</string>
   <string name="vip_account_settings">Налады VIP</string>
@@ -958,4 +958,7 @@ ID:%s
   <string name="user_agreement_wifi_permission_title">Уключэнне і выключэнне Wi-Fi</string>
   <string name="user_agreement_wlan_permission_desc">Для праверкі асяроддзя ўваходу на наяўнасць праблем з бяспекай</string>
   <string name="user_agreement_wlan_permission_title_china">Уключэнне і выключэнне Wi-Fi</string>
+  <string name="xiaomi_market_sdk_update_dialog_cancel">Не зараз</string>
+  <string name="xiaomi_market_sdk_update_dialog_ok">Абнавіць</string>
+  <string name="xiaomi_market_sdk_update_dialog_title">Даступнае абнаўленне</string>
 </resources>

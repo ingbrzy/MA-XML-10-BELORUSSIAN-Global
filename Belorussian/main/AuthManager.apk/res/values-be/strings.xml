@@ -475,6 +475,6 @@
   <string name="precise_location_title">Дакладнае месцазнаходжанне</string>
   <string name="HIPS_Perm_NEARBY_DEVICES_Desc_T">Выяўленне прылад паблізу і падлучэнне да іх праз Bluetooth і Wi-Fi</string>
   <string name="HIPS_Perm_NEARBY_DEVICES_Desc_T_china">Выяўленне прылад паблізу і падлучэнне да іх праз Bluetooth і Wi-Fi</string>
+  <string name="perm_educate_post_notification">Апавяшчэнні могуць суправаджацца гукам і вібрацыяй, паколькі яны адлюстроўваюцца ў вобласці апавяшчэнняў і на абразках працоўнага стала. Вы можаце змяніць параметры апавяшчэнняў у наладах.</string>
   <string name="permdesc_post_notification">Дазволіць %1$s адпраўляць апавяшчэнні?</string>
-  <string name="perm_educate_post_notification">У \"Наладах\" можна змяніць тып апавяшчэння (гук, вібрацыя, лічыльнік на абразку і г.д.)</string>
 </resources>

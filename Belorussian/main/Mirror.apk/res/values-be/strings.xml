@@ -506,4 +506,8 @@
   <string name="worker_try_join_pc_when_pad_adv_connected">Гэтая прылада зараз падлучана да іншай прылады. Пачакайце хвіліну ці дзве і паспрабуйце яшчэ раз.</string>
   <string name="worker_try_join_pc_when_pad_adv_connected_title">Немагчыма падлучыцца да MIUI+</string>
   <string name="yesterday">Учора</string>
+  <string name="call_error_notify_button">Пераключыць</string>
+  <string name="call_error_notify_content">Вы можаце зноў пераключыцца на тэлефон, каб працягнуць гэты выклік</string>
+  <string name="call_error_notify_title">Нестабільнае сеткавае злучэнне</string>
+  <string name="toast_calling_warning">Завяршыць бягучы выклік і паўтарыць спробу</string>
 </resources>

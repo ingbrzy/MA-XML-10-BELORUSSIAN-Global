@@ -907,4 +907,10 @@
   <string name="pm">ПП</string>
   <string name="find_permission_phone_sim_info_summary">Для доступу да вашага месцазнаходжання праз SMS пры адсутнасці падлучэння да сеткі</string>
   <string name="find_permission_phone_sim_info_title">Доступ да інфармацыі аб прыладзе</string>
+  <string name="onetrack_value_storage_almost_full">Сховішча амаль запоўненае</string>
+  <string name="onetrack_value_storage_dialog_upgrade_later">Пазней</string>
+  <string name="onetrack_value_storage_dialog_upgrade_now">Абнавіць зараз</string>
+  <string name="onetrack_value_storage_dialog_version_new">Версія 22.7.28</string>
+  <string name="onetrack_value_storage_dialog_version_old">Старая версія</string>
+  <string name="onetrack_value_storage_full">Сховішча запоўнена</string>
 </resources>

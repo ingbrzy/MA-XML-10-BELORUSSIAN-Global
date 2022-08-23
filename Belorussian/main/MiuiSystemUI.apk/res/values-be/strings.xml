@@ -2660,4 +2660,9 @@
   <string name="miui_notification_slide_menu_ongoing">Забараніць пастаянныя апавяшчэнні</string>
   <string name="quick_settings_bluetooth_connected_tip">Паспяховае падлучэнне праз Bluetooth</string>
   <string name="quick_settings_bluetooth_disconnected_tip">Сёння ўсе прылады Bluetooth застануцца адключанымі</string>
+  <string name="quick_settings_screen_rotation_inner_locked">Паварот унутранага экрана выключаны</string>
+  <string name="quick_settings_screen_rotation_inner_unlocked">Паварот унутранага экрана ўключаны</string>
+  <string name="quick_settings_screen_rotation_outer_landscape_locked">Вонкавы экран заблакаваны ў ландшафтным рэжыме</string>
+  <string name="quick_settings_screen_rotation_outer_portrait_locked">Вонкавы экран заблакаваны ў партрэтным рэжыме</string>
+  <string name="quick_settings_screen_rotation_outer_unlocked">Паварот вонкавага экрана ўключаны</string>
 </resources>

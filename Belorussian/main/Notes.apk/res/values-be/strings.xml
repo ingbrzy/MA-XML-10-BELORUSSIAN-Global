@@ -36,7 +36,7 @@
   <string name="actionbar_button_up_description">Назад</string>
   <string name="actionbar_close_description">Закрыць</string>
   <string name="actionbar_home_description">Назад</string>
-  <string name="add_account_desc">Сінхранізаваць нататкі з Xiaomi акаўнтам?</string>
+  <string name="add_account_desc">Сінхранізаваць нататкі з Mi Акаўнтам?</string>
   <string name="afternoon">Поўдзень</string>
   <string name="alarm_bar_title">Напамін</string>
   <string name="alert_action_edit_anyway">Працягнуць рэдагаванне</string>
@@ -121,7 +121,7 @@
   <string name="empty_folder_import_notes">Імпарт нататак</string>
   <string name="empty_folder_no_notes">Няма нататак</string>
   <string name="enable_sync">Сінхранізаваць</string>
-  <string name="enable_sync_desc">Сінхранізаваць вашыя нататкі з Xiaomi акаўнтам (%1$s)?</string>
+  <string name="enable_sync_desc">Сінхранізаваць вашыя нататкі з Mi Акаўнтам (%1$s)?</string>
   <string name="eras_ad">н. э.</string>
   <string name="eras_bc">до н. э.</string>
   <string name="error_contact_not_exist">Кантакт не існуе</string>
@@ -1013,4 +1013,13 @@
   <string name="save_to_local_failure_message">Немагчыма захаваць</string>
   <string name="save_to_local_icon_name">Захаваць</string>
   <string name="save_to_local_success_message">Паспяхова захавана</string>
+  <string name="access_denied_info">Занадта шмат спробаў. Пачакайце хвіліну ці дзве і паспрабуйце зноў.</string>
+  <string name="network_error_info">Адбылася памылка сеткі. Праверце налады сеткі і паспрабуйце зноў.</string>
+  <string name="network_timeout_info">Не атрымалася злучыцца з сеткай. Паспрабуйце яшчэ раз.</string>
+  <string name="note_mindnote_not_support_in_phone_model">На гэтай прыладзе нельга рэдагаваць асацыятыўныя карты</string>
+  <string name="note_write_hint">Пачаць пісаць</string>
+  <string name="progressbar_title">Праверка на наяўнасць праблем з бяспекай…</string>
+  <string name="recognition_failure">Ня атрымалася распазнаць</string>
+  <string name="system_error_info">Сістэма занятая. Пачакайце хвіліну ці дзве і паспрабуйце зноў.</string>
+  <string name="unknown_error_info">Невядомая памылка</string>
 </resources>

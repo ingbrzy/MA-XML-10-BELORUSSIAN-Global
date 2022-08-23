@@ -36,7 +36,7 @@
   <string name="actionbar_button_up_description">Назад</string>
   <string name="actionbar_close_description">Закрыць</string>
   <string name="actionbar_home_description">Назад</string>
-  <string name="add_account_desc">Сінхранізаваць нататкі з Mi Акаўнтам?</string>
+  <string name="add_account_desc">Сінхранізаваць нататкі з Xiaomi акаўнтам?</string>
   <string name="afternoon">Поўдзень</string>
   <string name="alarm_bar_title">Напамін</string>
   <string name="alert_action_edit_anyway">Працягнуць рэдагаванне</string>
@@ -121,7 +121,7 @@
   <string name="empty_folder_import_notes">Імпарт нататак</string>
   <string name="empty_folder_no_notes">Няма нататак</string>
   <string name="enable_sync">Сінхранізаваць</string>
-  <string name="enable_sync_desc">Сінхранізаваць вашыя нататкі з Mi Акаўнтам (%1$s)?</string>
+  <string name="enable_sync_desc">Сінхранізаваць вашыя нататкі з Xiaomi акаўнтам (%1$s)?</string>
   <string name="eras_ad">н. э.</string>
   <string name="eras_bc">до н. э.</string>
   <string name="error_contact_not_exist">Кантакт не існуе</string>

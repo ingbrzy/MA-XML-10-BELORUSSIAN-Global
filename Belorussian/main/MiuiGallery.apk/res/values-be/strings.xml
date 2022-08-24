@@ -277,7 +277,7 @@
   <string name="burst_save_video">Захаваць як відэа</string>
   <string name="burst_save_video_fail">Не атрымалася захаваць</string>
   <string name="burst_save_video_progerss">Стварэнне відэа...</string>
-  <string name="burst_save_video_title">Разрозненне відэа</string>
+  <string name="burst_save_video_title">Раздзяляльнасць відэа</string>
   <string name="buy_member_tip">Набыць падпіску</string>
   <string name="by_email">Email</string>
   <string name="by_others">Іншае</string>
@@ -2524,7 +2524,7 @@
   <string name="cloud_login_ok">Зразумела</string>
   <string name="cloud_login_settings_title">Налады сінхранізацыі</string>
   <string name="mi_mover_working_desc">Mi Трансфер перадае элементы...</string>
-  <string name="photo_size_not_support">Гэта разрознасць выявы не падтрымліваецца</string>
+  <string name="photo_size_not_support">Гэта раздзяляльнасць выявы не падтрымліваецца</string>
   <string name="see_more_settings">Дадатковыя налады</string>
   <string name="sync_backup_disable_confirm_message_downloading">Калі вы выключыце сінхранізацыю зараз, бягучая загрузка зыходных файлаў, якія захоўваюцца ў воблаку, будзе перапыненая. Выявы высокай якасці, якія захоўваюцца на гэтай прыладзе, таксама больш не будуць даступныя. Усё роўна выключыць?</string>
   <string name="sync_backup_disable_confirm_message_wait">Выявы высокай якасці, якія захоўваюцца на гэтай прыладзе, больш не будуць даступныя пасля выключэння сінхранізацыі. Вы можаце спампаваць зыходныя файлы з воблака і пасля гэтага адключыць сінхранізацыю.</string>

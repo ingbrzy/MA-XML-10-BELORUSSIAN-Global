@@ -901,8 +901,8 @@
   <string name="ovp_playlist">Плэйліст</string>
   <string name="ovp_plugin_install_failure">Не атрымалася ўсталяваць убудову</string>
   <string name="ovp_resolution_auto">Аўта</string>
-  <string name="ovp_resolution_not_support">Нельга змяніць разрознасць для гэтага відэа</string>
-  <string name="ovp_resolution_title">Разрознасць</string>
+  <string name="ovp_resolution_not_support">Нельга змяніць раздзяляльнасць для гэтага відэа</string>
+  <string name="ovp_resolution_title">Раздзяляльнасць</string>
   <string name="ovp_search_key_not_null">Увядзіце ключавыя словы для пошуку</string>
   <string name="ovp_select_ci">Выберыце эпізод</string>
   <string name="ovp_select_related_video">Падобныя відэа</string>
@@ -1135,7 +1135,7 @@
   <string name="plus_properties_media">Медыя</string>
   <string name="plus_properties_path">Месцазнаходжанне</string>
   <string name="plus_properties_playback_history">Гісторыя прайгравання</string>
-  <string name="plus_properties_resolution">Разрознасць</string>
+  <string name="plus_properties_resolution">Раздзяляльнасць</string>
   <string name="plus_properties_sample_rate">Частата дыскрэтызацыі</string>
   <string name="plus_properties_size">Памер</string>
   <string name="plus_properties_status">Статус</string>

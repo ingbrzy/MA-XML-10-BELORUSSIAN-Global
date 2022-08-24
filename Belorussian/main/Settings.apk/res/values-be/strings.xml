@@ -2210,7 +2210,7 @@
   <string name="device_opcust_version">Версія для аператара</string>
   <string name="device_picker">Абярыце прыладу Bluetooth</string>
   <string name="device_rear_camera">Асноўная камера</string>
-  <string name="device_screen_resolution">Разрознасць экрана</string>
+  <string name="device_screen_resolution">Раздзяляльнасць экрана</string>
   <string name="device_screen_size">Памер экрана</string>
   <string name="device_screen_usage">Выкарыстанне экрана пасля поўнай зарадкі</string>
   <string name="device_sd_memory">SD-карта</string>
@@ -5472,7 +5472,7 @@
   <string name="resident_timezone_summary">Другі гадзіннік</string>
   <string name="resolution_fhd_summary" formatted="false">%d×%d (эканомія зарада)</string>
   <string name="resolution_qhd_summary" formatted="false">%d×%d (падвышэнне выразнасці)</string>
-  <string name="resolution_sub_title">Пры пераключэнні разрознасцi MIUI можа зачыняць праграмы, якія працуюць у фонавым рэжыме</string>
+  <string name="resolution_sub_title">Пры пераключэнні раздзяляльнасцi MIUI можа зачыняць праграмы, якія працуюць у фонавым рэжыме</string>
   <string name="resolver_settings_label">Сартаванне</string>
   <string name="restore_default_apn">Аднаўленне параметраў APN па змаўчанні</string>
   <string name="restore_default_apn_completed">Скід налад пункту доступу па змаўчанні завершаны.</string>
@@ -5571,7 +5571,7 @@
   <string name="safety_and_regulatory_info">Кіраўніцтва па эксплуатацыі і бяспецы</string>
   <string name="save">Захаваць</string>
   <string name="save_battery_mode">Эканомія зарада з WQHD+</string>
-  <string name="save_battery_mode_summary">Аўтаматычнае пераключэнне разрознасцi для эканоміі зарада</string>
+  <string name="save_battery_mode_summary">Аўтаматычнае пераключэнне раздзяляльнасцi для эканоміі зарада</string>
   <string name="saved_network">Захавана%1$s</string>
   <string name="saved_wifi">Кіраванне захаванымі сеткамі</string>
   <string name="saved_wifi_delete">Выдаліць</string>
@@ -5600,7 +5600,7 @@
   <string name="screen_enhance_engine_ai_open">Паляпшэнне выявы</string>
   <string name="screen_enhance_engine_ai_pic_summary">"Вызначэнне аб\'ектаў (напрыклад, раслін, жывёл, будынкаў) і дынамічная налада эфектаў адлюстравання. "</string>
   <string name="screen_enhance_engine_ai_title">Паляпшэнне выявы ШІ</string>
-  <string name="screen_enhance_engine_memc_note">Немагчыма палепшыць відэа пры ўключанай суперразрознасцi. Уключыўшы палепшанае відэа, вы адключыце суперразрознасць.</string>
+  <string name="screen_enhance_engine_memc_note">Немагчыма палепшыць відэа пры ўключанай суперраздзяляльнасцi. Уключыўшы палепшанае відэа, вы адключыце суперраздзяляльнасцi.</string>
   <string name="screen_enhance_engine_memc_note_1">%d. Гэтая функцыя нязначна павялічвае энергаспажыванне.</string>
   <string name="screen_enhance_engine_memc_note_2">%d. Гэтая функцыя працуе, толькі калі ўключана панэль інструментаў відэа.</string>
   <string name="screen_enhance_engine_memc_open">MEMC</string>
@@ -5611,11 +5611,11 @@
   <string name="screen_enhance_engine_s2h_title">Паляпшэнне ШІ HDR</string>
   <string name="screen_enhance_engine_sr_for_pic">Паляпшэнне выявы</string>
   <string name="screen_enhance_engine_sr_for_video">Паляпшэнне відэа</string>
-  <string name="screen_enhance_engine_sr_for_video_note">Суперразрознасць не працуе з палепшанымі відэа. Уключыўшы суперразрознасць, вы адключыце палепшанае відэа.</string>
+  <string name="screen_enhance_engine_sr_for_video_note">Суперраздзяляльнасць не працуе з палепшанымі відэа. Уключыўшы суперраздзяляльнасць, вы адключыце палепшанае відэа.</string>
   <string name="screen_enhance_engine_sr_note">Гэтая функцыя трохі павялічвае энергаспажыванне.</string>
-  <string name="screen_enhance_engine_sr_pic_summary">"Павялічце разрознасць выявы і відэа. "</string>
-  <string name="screen_enhance_engine_sr_pic_summary_video_only">"Павялічце разрознасць відэа. "</string>
-  <string name="screen_enhance_engine_sr_title">Суперразрознасць</string>
+  <string name="screen_enhance_engine_sr_pic_summary">"Павялічце раздзяляльнасць выявы і відэа. "</string>
+  <string name="screen_enhance_engine_sr_pic_summary_video_only">"Павялічце раздзяляльнасць відэа. "</string>
+  <string name="screen_enhance_engine_sr_title">Суперраздзяляльнасць</string>
   <string name="screen_enhance_engine_title">Апрацоўшчык выявы ШІ</string>
   <string name="screen_enhance_status_disable">Выкл.</string>
   <string name="screen_enhance_status_enable">Укл.</string>
@@ -5714,12 +5714,12 @@
   <string name="screen_projection_sample_title">Дэма</string>
   <string name="screen_projection_title">Трансляцыя</string>
   <string name="screen_reader_category_title">Праграмы чытання з экрана</string>
-  <string name="screen_resolution_dialog_title">Змяніць разрознасць экрана</string>
+  <string name="screen_resolution_dialog_title">Змяніць раздзяляльнасць экрана</string>
   <string name="screen_resolution_high_format">Высокае (%1$s)</string>
   <string name="screen_resolution_normal_format">Звычайнае (%1$s)</string>
-  <string name="screen_resolution_summary">Памяншэнне разрознасці экрана можа павялічыць час працы ад батарэі і хуткадзейнасць сістэмы, але выява можа стаць менш выразнай.</string>
+  <string name="screen_resolution_summary">Памяншэнне раздзяляльнасцi экрана можа павялічыць час працы ад батарэі і хуткадзейнасць сістэмы, але выява можа стаць менш выразнай.</string>
   <string name="screen_resolution_switch">Ужыць</string>
-  <string name="screen_resolution_title">Разрознасць экрана</string>
+  <string name="screen_resolution_title">Раздзяляльнасць экрана</string>
   <string name="screen_resolution_ultrahigh_format">Вельмі высокае (%1$s)</string>
   <string name="screen_saturation">Насычанасць</string>
   <string name="screen_shot">Здымак экрана</string>
@@ -10411,14 +10411,14 @@
   <string name="device_description_camera">Камера</string>
   <string name="device_description_cpu">Працэсар</string>
   <string name="device_description_ram">АЗП</string>
-  <string name="device_description_resolution">Разрознасць</string>
+  <string name="device_description_resolution">Раздзяляльнасць</string>
   <string name="device_description_screen">Экран</string>
   <string name="extended_power_menu">Пашыранае меню сiлкавання</string>
   <string name="keyboard_back_light">Падсветка клавіятуры</string>
   <string name="lockscreen_sidepanel_shortcuts_summary">Налады цэтлікаў праграм на бакавой панэлі экрана блакавання</string>
   <string name="lockscreen_sidepanel_shortcuts_title">Цэтлiкі бакавой панэлі</string>
   <string name="model_number_pad">Мадэль прылады</string>
-  <string name="my_device_disclaimer">Нататка: інфармацыя аб абсталяванні, уключаючы працэсар, ёмістасць акумулятара, камеру, памер і разрознасць экрана, прадстаўлена лабараторыямі, дызайнерамі і пастаўшчыкамі Xiaomi.</string>
+  <string name="my_device_disclaimer">Нататка: інфармацыя аб абсталяванні, уключаючы працэсар, ёмістасць акумулятара, камеру, памер і раздзяляльнасць экрана, прадстаўлена лабараторыямі, дызайнерамі і пастаўшчыкамі Xiaomi.</string>
   <string name="pad_add_fingerprint_finish_message">Націсніце кнопку \"Гатова\", каб адкрыць дадатковыя налады.</string>
   <string name="pad_add_fingerprint_message">Пакладзіце палец на кнопку сiлкавання. Палец павінен быць чыстым.</string>
   <string name="power_menu_under_keyguard_summary">Доступ да меню сiлкавання на экране блакавання</string>

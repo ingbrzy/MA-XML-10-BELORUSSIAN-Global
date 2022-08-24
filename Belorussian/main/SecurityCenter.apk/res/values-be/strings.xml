@@ -4343,7 +4343,7 @@
   <string name="power_center_optimize_title">Прапановы</string>
   <string name="power_center_problem_title">Рашэнне праблем</string>
   <string name="power_center_reduce_dpi_summary">QHD+ спажывае больш энергіі</string>
-  <string name="power_center_reduce_resolution">Больш нізкая разрознасць экрана</string>
+  <string name="power_center_reduce_resolution">Больш нізкая раздзяляльнасць экрана</string>
   <string name="power_center_used_time_Introduction">Час працы ад батарэі з моманту апошняй зарадкі больш, чым на %s</string>
   <string name="power_optimize__set_lockscreen_time_holder">Заблакаваць прыладу пасля %d сек. бяздзейнасці</string>
   <string name="power_optimize__set_lockscreen_time_summary">Больш хуткая блакіроўка вашай прылады эканоміць зарад батарэі</string>

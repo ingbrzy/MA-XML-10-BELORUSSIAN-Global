@@ -535,7 +535,7 @@
   <string name="config_name_setting">Налады</string>
   <string name="config_name_sound">Аўдыё</string>
   <string name="config_name_straighten">Выраўноўванне</string>
-  <string name="config_name_super_resolution">Супер разрознасць</string>
+  <string name="config_name_super_resolution">Супер раздзяляльнасць</string>
   <string name="config_name_tilt">Размыццё</string>
   <string name="config_name_timer">Таймер</string>
   <string name="confirm">Ok</string>
@@ -1480,7 +1480,7 @@
   <string name="pref_camera_snap_label_take_picture">Фота</string>
   <string name="pref_camera_sound_title">Гук затвора</string>
   <string name="pref_camera_square_mode_title">Квадрат</string>
-  <string name="pref_camera_sr_enable_title">Суперразрозненне</string>
+  <string name="pref_camera_sr_enable_title">Супер раздзяляльнасць</string>
   <string name="pref_camera_stereo_mode_title">Стэрэа</string>
   <string name="pref_camera_super_resolution_title">Уключыць SR</string>
   <string name="pref_camera_tap_shoot_summary">Націсніце на экран з папярэднім праглядам, каб зрабіць фота</string>
@@ -1573,7 +1573,7 @@
   <string name="pref_front_mirror_title">Рэжым адлюстравання</string>
   <string name="pref_google_lens">Аб\'ектыў Google</string>
   <string name="pref_groupshot_with_primitive_title">Захоўваць арыгінальнае фота</string>
-  <string name="pref_hdr10_hdr10plus_video_mode_description">Запісвайце відэа высокай разрознасці ў HDR10+/HDR10 для аптымізацыі колераў і дынамічнага дыяпазону. Запісаныя відэа можна прайграваць толькі на сумяшчальных прыладах HDR10+/HDR10.</string>
+  <string name="pref_hdr10_hdr10plus_video_mode_description">Запісвайце відэа высокай раздзяляльнасцi ў HDR10+/HDR10 для аптымізацыі колераў і дынамічнага дыяпазону. Запісаныя відэа можна прайграваць толькі на сумяшчальных прыладах HDR10+/HDR10.</string>
   <string name="pref_hdr10_video_mode_description">Аўтаматычна аптымізаваць колеры і кантраснасць для відэа 4K і 8K. Аптымізаваныя відэа могуць быць прайграныя толькі на прыладах з падтрымкай HDR10.</string>
   <string name="pref_hdr10plus_video_mode_description">Аптымізацыя колераперадачы і кантраснасці відэа 4K і 8K. Функцыя сумяшчальная толькі з прыладамі з падтрымкай HDR10 +.</string>
   <string name="pref_hybrid_video_mode_description">Выкарыстоўвайце тэхналогію HLG для паляпшэння колераў і дынамічнага дыяпазону відэа, запісаных у высокім дазволе</string>

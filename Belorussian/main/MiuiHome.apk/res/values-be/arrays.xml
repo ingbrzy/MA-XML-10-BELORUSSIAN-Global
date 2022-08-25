@@ -64,6 +64,7 @@
           <item>Выдаленне цэтліка</item>
           <item>Перацягнуць</item>
           <item>Выдаліць</item>
+          <item>Змена цэтліка</item>
       </string-array>
       <string-array name="widget_package_install_status">
           <item>Ня усталяваны</item>

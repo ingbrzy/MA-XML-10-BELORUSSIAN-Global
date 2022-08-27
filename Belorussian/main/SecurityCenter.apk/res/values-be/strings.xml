@@ -6319,4 +6319,13 @@
   <string name="widget_cleaner_size_unit">Мб</string>
   <string name="antispam_guangdian_card_hint">Ваша SIM-карта не падтрымлівае пераключэнне на іншае паведамленне аб адсутнасці. За падрабязнасцямі звярніцеся да свайго аператара сувязі.</string>
   <string name="antispam_guangdian_card_title">Пераключэнне не падтрымліваецца</string>
+  <string name="app_name_pad">Бяспека</string>
+  <string name="app_name_phone">Бяспека</string>
+  <string name="beauty_portrait_center">Трымаць твары ў цэнтры</string>
+  <string name="beauty_portrait_center_desc">Аўтаматычнае вызначэнне і цэнтраванне твараў падчас вiдэавыклiкаў і канферэнцый. Гэтая функцыя не падтрымліваецца некаторымі праграмамі.</string>
+  <string name="dialog_msg_delete_icon_content_pad">Бяспека дазваляе чысціць прыладу ад смецця, знаходзіць і абясшкоджваць вірусы, эканоміць зарад батарэі, кіраваць дазволамі і г. д.</string>
+  <string name="dialog_msg_delete_icon_content_phone">Бяспека дазваляе чысціць прыладу ад смецця, знаходзіць і абясшкоджваць вірусы, эканоміць зарад батарэі, кіраваць дазволамі і г. д.</string>
+  <string name="dialog_msg_delete_icon_title_pad">Выдаліць гэты цэтлік на працоўным стале?</string>
+  <string name="dialog_msg_delete_icon_title_phone">Выдаліць гэты цэтлік на працоўным стале?</string>
+  <string name="pc_xiaoai_create_auto_task">Новая задача ад Mi ШІ</string>
 </resources>

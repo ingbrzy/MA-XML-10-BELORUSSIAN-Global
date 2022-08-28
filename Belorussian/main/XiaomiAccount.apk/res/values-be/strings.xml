@@ -311,7 +311,7 @@ ID:%s
   <string name="kr_permission_storage_desc">Захаванне дадзеных дыягностыкі</string>
   <string name="loading_micloud_sync_data">Хвілінку…</string>
   <string name="login_3rd_app_with_system_account">Увайсці ў %s</string>
-  <string name="login_check_find_device">Атрымаць інфармацыю аб бяспецы прылады…</string>
+  <string name="login_check_find_device">Атрыманне інфармацыі аб бяспецы прылады…</string>
   <string name="login_check_find_device_failed_title">Не атрымалася праверыць інфармацыю аб бяспецы прылады</string>
   <string name="login_find_device_bind">Гэтая прылада прывязаная да існуючага ідэнтыфікатара Xiaomi акаўнта (%s).</string>
   <string name="login_with_other">Дадатковыя параметры</string>

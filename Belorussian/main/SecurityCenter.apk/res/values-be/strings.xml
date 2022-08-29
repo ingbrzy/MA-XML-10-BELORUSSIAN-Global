@@ -2883,10 +2883,10 @@
   <string name="battery_can_use_time">%s засталося</string>
   <string name="battery_low_button_not_open_power_save">Не цяпер</string>
   <string name="battery_low_button_open_power_save">Уключыць</string>
-  <string name="battery_low_percent_format_save_mode_closed">Засталося менш, чым %s батарэі. Не забудзьцеся зарадзіць сваю прыладу.</string>
-  <string name="battery_low_percent_format_save_mode_open">Засталося менш, чым %1$s батарэі. Уключыце энергазберажэнне, каб дадаць %2$s дадатковага часу.</string>
+  <string name="battery_low_percent_format_save_mode_closed">Зарад менш %s. Не забудзьцеся зарадзіць прыладу.</string>
+  <string name="battery_low_percent_format_save_mode_open">Зарад менш %1$s. Уключыце энергазберажэнне, каб дадаць %2$s.</string>
   <string name="battery_low_title">Батарэя разраджана</string>
-  <string name="battery_low_title_power_save">Энергазберажэнне</string>
+  <string name="battery_low_title_power_save">Уключыць</string>
   <string name="dlg_cancel">Адмена</string>
   <string name="dlg_confirm">Уключыць</string>
   <string name="dlg_summary_close_app">Прыкладання не будуць працаваць у фонавым рэжыме. Апавяшчэнні будуць абмежаваныя.</string>
@@ -2897,13 +2897,13 @@
   <string name="enable_extreme_power_save_mode">Максімальнае энергазберажэнне</string>
   <string name="invalid_charger">Не ўдаецца зарадзіць праз USB. Выкарыстоўвайце зарадную прыладу, якая пастаўляецца з вашай прыладай.</string>
   <string name="low_temperature_button_ok">Зразумела</string>
-  <string name="low_temperature_warning_message">Падобна на тое, што занадта холадна, і ваш тэлефон можа выключыцца раней, чым вы чакаеце. Захавайце ўсе важныя змены.</string>
-  <string name="low_temperature_warning_title">Тэмпература паветра нізкая</string>
+  <string name="low_temperature_warning_message">Занадта нізкая тэмпература. Тэлефон можа выключыцца раней, чым вы чакаеце. Захавайце ўсе важныя змены.</string>
+  <string name="low_temperature_warning_title">Нізкая тэмпература паветра нізкая</string>
   <string name="notification_channel_battery">Батарэя</string>
   <string name="notification_low_battery_action_btn">Уключыць</string>
   <string name="notification_low_battery_need_charge">Падлучыце зарадную прыладу</string>
-  <string name="notification_low_battery_open_save_mode">Уключыць функцыю энергазберажэння</string>
-  <string name="notification_low_battery_title">Засталося менш, чым %s зарада</string>
+  <string name="notification_low_battery_open_save_mode">Уключыце энергазберажэнне</string>
+  <string name="notification_low_battery_title">Зарад менш %s</string>
   <string name="open_extreme_power_save_mode_title">Уключыць максімальнае энергазберажэнне</string>
   <string name="save_mode_btn_ok">Зразумела</string>
   <string name="app_running_tip_dialog_negative">Адмена</string>
@@ -4784,8 +4784,8 @@
   <string name="warningcenter_policeassist_open_title">Паведамляць паліцыі пра сваё месцазнаходжанне падчас выкліку службы экстранай дапамогі</string>
   <string name="warningcenter_policeassist_privacy">&lt;Data>\"Я прачытаў і прыняў &lt;a href=\"%1$s\">Карыстацкае пагадненне&lt;/a> i &lt;a href=\"%2$s\">Палітыку прыватнасці&lt;/a>.\"&lt;/Data></string>
   <string name="warningcenter_policeassist_title">Месцазнаходжанне</string>
-  <string name="battery_low_percent_format_save_mode_closed_new_version">Батарэя разраджана. Зарадзіце сваю прыладу прама цяпер.</string>
-  <string name="battery_low_percent_format_save_mode_open_new_version">Уключыце рэжым энергазберажэння, каб дадаць %s.</string>
+  <string name="battery_low_percent_format_save_mode_closed_new_version">Батарэя разраджана. Падлучыце зарадную прыладу.</string>
+  <string name="battery_low_percent_format_save_mode_open_new_version">Уключыце энергазберажэнне, каб дадаць %s.</string>
   <string name="notification_enter_power_save_mode_subtitle">Адключыць, калі прылада на %s ці цалкам зараджана</string>
   <string name="notification_enter_power_save_mode_title">Уключана энергазберажэнне</string>
   <string name="notification_exit_power_save_mode_full_subtitle">Ваша прылада цалкам зараджана</string>

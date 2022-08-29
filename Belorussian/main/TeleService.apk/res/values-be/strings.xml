@@ -111,8 +111,8 @@
   <string name="advertisements_disable">Рэклама выключана</string>
   <string name="advertisements_enable">Рэклама ўключана</string>
   <string name="afternoon">Поўдзень</string>
-  <string name="ai_assistant_not_installed">Спачатку ўсталюйце Памочніка выклікаў</string>
-  <string name="ai_assistant_setting_title">Памочнік выклікаў</string>
+  <string name="ai_assistant_not_installed">Спачатку ўсталюйце Асістэнт выклікаў</string>
+  <string name="ai_assistant_setting_title">Асістэнт выклікаў</string>
   <string name="alarm_template">у %1$s</string>
   <string name="alarm_template_far">у %1$s</string>
   <string name="alarms_and_reminders_footer_title">Дазвольце гэтай праграме ўключаць будзільнікі і задаваць час дзеянняў. З такім дазволам праграма можа працаваць у фонавым рэжыме і ў выніку хутчэй разраджаць акумулятар.\n\nКалі вы не ўключыце гэты дазвол, існуючыя будзільнікі і запланаваны праграмай час падзей не будуць працаваць.</string>
@@ -2340,7 +2340,7 @@
   <string name="telephony_setting">Тэлефон</string>
   <string name="telocation_auto_country_code">Дадаць код краіны</string>
   <string name="telocation_auto_country_code_summary">Аўтаматычна дадаваць код краіны перад пачаткам набору</string>
-  <string name="telocation_call_assistant">Памочнік набору нумара</string>
+  <string name="telocation_call_assistant">Асістэнт набору нумара</string>
   <string name="telocation_confim_delete_title">Выдаліць гэтае паведамленне?</string>
   <string name="telocation_contacts_countrycode">Код краіны па змаўчанні</string>
   <string name="telocation_contacts_countrycode_hint">Увядзіце код краіны</string>
@@ -2800,4 +2800,5 @@
   <string name="smart_switch_dual_sim_prompt">Падключэнне да мабільнай сеткі перадачы даных з выкарыстаннем SIM-карты %1$s можа прывесці да дадатковай платы за перадачу даных. Усталюйце ліміт выкарыстання дадзеных, каб пазбегнуць дадатковых збораў.</string>
   <string name="smart_switch_dual_sim_summary">Аўтаматычнае пераключэнне паміж SIM-картамі для перадачы дадзеных у залежнасці ад якасці сеткавага падлучэння і станы прылады</string>
   <string name="smart_switch_dual_sim_title">Пераключэнне паміж SIM-картамі для перадачы даных</string>
+  <string name="xiaoai_assistant_setting_title">Асістэнт выклікаў Mi ШІ</string>
 </resources>

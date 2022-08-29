@@ -394,4 +394,16 @@
         <item quantity="few">%s разы</item>
         <item quantity="many">%s разоў</item>
     </plurals>
+    <plurals name="person_menu_protect_count">
+        <item quantity="other">Абаронена %s разоў</item>
+        <item quantity="one">Абаронена %s раз</item>
+        <item quantity="few">Абаронена %s разы</item>
+        <item quantity="many">Абаронена %s разоў</item>
+    </plurals>
+    <plurals name="reading__search_resultful">
+        <item quantity="other">Знойдзены %1$d вынікаў</item>
+        <item quantity="one">Знойдзены %1$d вынік</item>
+        <item quantity="few">Знойдзены %1$d выніка</item>
+        <item quantity="many">Знойдзены %1$d вынікаў</item>
+    </plurals>
 </resources>

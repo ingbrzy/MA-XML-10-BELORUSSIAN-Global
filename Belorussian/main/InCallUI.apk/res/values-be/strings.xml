@@ -259,8 +259,8 @@
   <string name="manager_conference_done">Гатова</string>
   <string name="change_to_voice_tips_when_background">Іншы бок пераключыўся на галасавы выклік</string>
   <string name="wifi_call">Выклік VoWiFi</string>
-  <string name="ai_assistant">Памочнік выклікаў</string>
-  <string name="ai_assistant_not_installed">Памочнік выклікаў не усталяваны</string>
+  <string name="ai_assistant">Асістэнт выклікаў</string>
+  <string name="ai_assistant_not_installed">Асістэнт выклікаў не усталяваны</string>
   <string name="enter_ai_assistant">Выкарыстоўваць</string>
   <string name="enter_ai_assistant_tip">ШІ можа канвертаваць тэкст у гаворку, калі вам зараз нязручна размаўляць. Выкарыстоўваць ШІ для гэтага выкліку?</string>
   <string name="video_call_downgrade_insufficient_bandwidth">Недастатковая прапускная здольнасць, пераход на галасавы выклік</string>
@@ -533,4 +533,5 @@
   <string name="select_other_sim_card_dial">Выкарыстоўваць SIM-карту %1$d</string>
   <string name="call_log_short_in">З гэтага нумара вам толькі што тэлефанавалі</string>
   <string name="call_log_short_out">Вы толькі што тэлефанавалі на гэты нумар</string>
+  <string name="xiaoai_assistant">Асістэнт выклікаў Mi ШІ</string>
 </resources>

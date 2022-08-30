@@ -2665,4 +2665,5 @@
   <string name="quick_settings_screen_rotation_outer_landscape_locked">Вонкавы экран заблакаваны ў ландшафтным рэжыме</string>
   <string name="quick_settings_screen_rotation_outer_portrait_locked">Вонкавы экран заблакаваны ў партрэтным рэжыме</string>
   <string name="quick_settings_screen_rotation_outer_unlocked">Паварот вонкавага экрана ўключаны</string>
+  <string name="toast_for_first_use_three_gesture">Правядзіце чатырма пальцамі па гарызанталі, каб пераключацца паміж праграмамі</string>
 </resources>

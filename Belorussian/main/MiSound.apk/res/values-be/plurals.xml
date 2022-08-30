@@ -106,4 +106,8 @@
         <item quantity="one">%d новых апавяшчэнне</item>
         <item quantity="few">%d новае апавяшчэння</item>
     </plurals>
+    <plurals name="rename_error_longer_effect_name">
+        <item quantity="other">Вы можаце ўвесці тут да %d сімвалаў</item>
+        <item quantity="one">Вы можаце ўвесці тут да %d сімвала</item>
+    </plurals>
 </resources>

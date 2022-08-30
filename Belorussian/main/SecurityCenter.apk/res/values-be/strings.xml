@@ -2011,7 +2011,7 @@
   <string name="safe_result_item_info_system_scan">Маніторынг плацяжоў уключаны</string>
   <string name="safe_result_item_info_system_version">Усталявана апошняя версія MIUI</string>
   <string name="safepay_alert_dialog_button_continue">Працягнуць</string>
-  <string name="safepay_alert_dialog_button_fix">Выправіць</string>
+  <string name="safepay_alert_dialog_button_fix">Больш падрабязна</string>
   <string name="save_energy_text">Забарона сінхранізацыі дадзеных і аўтазапуску праграм ў фонавым рэжыме</string>
   <string name="save_energy_title">Энергазберажэнне</string>
   <string name="sc_allow_network_dialog_message">Вы абмежавалі праграме \"Бяспека\" доступ да сеткі і месцазнаходжання. Каб карыстацца гэтай функцыяй, надайце ёй неабходныя дазволы.</string>
@@ -2107,9 +2107,9 @@
   <string name="sorted_dialog_title">Сартаванне</string>
   <string name="sp_background_risk_dialog_summary">, праверце і выпраўце праблемы з аплатай.</string>
   <string name="sp_background_risk_dialog_summary_wifi_approve">Вы падлучыліся да публічнай сеткі Wi-Fi, якая можа быць небяспечнай. Пераканайцеся ў яе бяспечнасці, перш чым пачаць аплату.</string>
-  <string name="sp_background_risk_dialog_title">Увага</string>
+  <string name="sp_background_risk_dialog_title">Пагроза, выяўленая MIUI</string>
   <string name="sp_background_risk_dialog_title_wifi_approve">Папярэджанне публічнай сеткі Wi-Fi</string>
-  <string name="sp_background_risk_type_messaging">Сістэмная праграма для паведамленняў была зменена</string>
+  <string name="sp_background_risk_type_messaging">Сістэмная праграма для абмену паведамленнямі была зменена</string>
   <string name="sp_background_risk_type_root">Сістэме дазволены Root-доступ</string>
   <string name="sp_background_risk_type_sign">Запушчана неафіцыйная праграма</string>
   <string name="sp_background_risk_type_virus">Вірус працуе ў фонавым рэжыме</string>
@@ -3129,7 +3129,7 @@
   <string name="google_base_app_title">Усталёўка службаў Google</string>
   <string name="google_base_app_toast">Google Services Framework усталёўваецца ў фонавым рэжыме. Пачакайце хвіліну ці дзве і паспрабуйце зноў.</string>
   <string name="button_text_trust">Давяраць гэтай сетцы</string>
-  <string name="sp_background_risk_dialog_summary_new">Бягучая плацежнае асяроддзе можа прадстаўляць пагрозу бяспецы. Знайдзіце хвілінку, каб вырашыць існуючыя праблемы.</string>
+  <string name="sp_background_risk_dialog_summary_new">Бягучая плацежнае асяроддзе можа прадстаўляць пагрозу бяспецы. Знайдзіце хвілінку, каб даведацца падрабязней.</string>
   <string name="wifi_danger_dialog_messgae">Бягучая сетка Wi-Fi можа прадстаўляць пагрозу бяспецы. Выкарыстоўвайце яе з асцярогай.</string>
   <string name="wifi_danger_dialog_tips">"Вы можаце кіраваць бяспекай Wi-Fi у раздзеле Бяспека > Антывірус > Налады > Wi-Fi."</string>
   <string name="wifi_danger_dialog_title">Сетка Wi-Fi не абаронена</string>
@@ -6328,4 +6328,8 @@
   <string name="dialog_msg_delete_icon_title_pad">Выдаліць гэты цэтлік на працоўным стале?</string>
   <string name="dialog_msg_delete_icon_title_phone">Выдаліць гэты цэтлік на працоўным стале?</string>
   <string name="pc_xiaoai_create_auto_task">Новая задача ад Mi ШІ</string>
+  <string name="eletric_no_grant_dialog_message_for_phone">Надайце неабходныя дазволы, каб мець магчымасць ідэнтыфікаваць невядомыя нумары.</string>
+  <string name="eletric_no_grant_dialog_negative_button">Адмена</string>
+  <string name="eletric_no_grant_dialog_positive_button">Налады</string>
+  <string name="eletric_no_grant_dialog_title">Патрабуюцца дазволы</string>
 </resources>

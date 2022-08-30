@@ -459,4 +459,9 @@
         <item>П</item>
         <item>С</item>
     </string-array>
+    <string-array name="prefEntries_alerts_popup_new">
+    <item>Выключана</item>
+    <item>Для ўсіх падзей</item>
+    <item>Для падзей, адчувальных да часу</item>
+  </string-array>
 </resources>

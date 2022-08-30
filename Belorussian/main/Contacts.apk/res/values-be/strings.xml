@@ -1000,7 +1000,7 @@
   <string name="unknown_details_new_contact">Новы</string>
   <string name="update_sim_contact_photo_toast">Нельга ўсталяваць фота для кантакту на SIM-карце</string>
   <string name="upgrade_in_progress">Спіс кантактаў абнаўляецца.</string>
-  <string name="upgrade_out_of_memory">Спіс кантактаў абнаўляецца. \n\nПрацэс абнаўлення патрабуе каля %s МБ памяці.\n\nВыберыце адзін з наступных варыянтаў:</string>
+  <string name="upgrade_out_of_memory">Спіс кантактаў абнаўляецца. \n\nПрацэс абнаўлення патрабуе каля %s Мб памяці.\n\nВыберыце адзін з наступных варыянтаў:</string>
   <string name="use_photo_as_primary2">Выкарыстаць фота кантакту %1$s</string>
   <string name="v7_preference_off">ВЫКЛ.</string>
   <string name="v7_preference_on">УКЛ.</string>
@@ -1409,4 +1409,5 @@
   <string name="presentation_private">Асабісты нумар</string>
   <string name="presentation_unknown">Невядомы нумар</string>
   <string name="view_more_call_logs">Больш падрабязна</string>
+  <string name="callrecordview_menu_xiaoaiphone">Асістэнт выклікаў Mi ШІ</string>
 </resources>

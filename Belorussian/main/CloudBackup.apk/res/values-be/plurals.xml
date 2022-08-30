@@ -135,4 +135,14 @@
         <item quantity="one">Вы не стваралі рэзервовыя копіі %s тыдзень. Выканайце рэзервовае капіяванне, каб захаваць важныя дадзеныя.</item>
         <item quantity="few">Вы не стваралі рэзервовыя копіі %s тыдня. Выканайце рэзервовае капіяванне, каб захаваць важныя дадзеныя.</item>
     </plurals>
+    <plurals name="session_starting_app_count_backup_text">
+        <item quantity="other">Скапіявана %d праграм</item>
+        <item quantity="one">Скапіяваны %d праграма</item>
+        <item quantity="few">Скапіявана %d праграмы</item>
+    </plurals>
+    <plurals name="session_starting_app_count_restore_text">
+        <item quantity="other">Адноўлена %d праграм</item>
+        <item quantity="one">Адноўлена %d праграма</item>
+        <item quantity="few">Адноўлена %d праграмы</item>
+    </plurals>
 </resources>

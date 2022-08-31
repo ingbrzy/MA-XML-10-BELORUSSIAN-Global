@@ -767,7 +767,7 @@
   <string name="nowInstall">Усталяваць</string>
   <string name="size">Памер</string>
   <string name="storage_permission_deny">Патрабуецца дазвол на доступ да сховішча</string>
-  <string name="storage_dialog_content">Вы можаце надаць дазвол на доступ да сховішча для выкарыстання функцый, звязаных з кіраваннем спампоўкай</string>
-  <string name="storage_dialog_go">Адкрыць</string>
-  <string name="storage_dialog_title">Дазвол на доступ да сховішча</string>
+  <string name="storage_dialog_content">Надаць дазвол на доступ да сховішча для выкарыстання функцый праграмы, звязаных з кіраваннем загрузкай</string>
+  <string name="storage_dialog_go">Налады</string>
+  <string name="storage_dialog_title">Доступ да сховішча прылады</string>
 </resources>

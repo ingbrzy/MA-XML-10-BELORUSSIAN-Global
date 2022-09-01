@@ -629,4 +629,5 @@
   <string name="periodiccacheclear_notification_indefinite">Сховішча было аўтаматычна вызвалена для вас.</string>
   <string name="periodiccacheclear_notification_post">" сховішча было аўтаматычна вызвалена для вас."</string>
   <string name="periodiccacheclear_notification_title">Разумная ачыстка</string>
+  <string name="swipe_up_to_continue_using">Ссуньце ўверх, каб працягнуць</string>
 </resources>

@@ -4414,7 +4414,7 @@
   <string name="navigation_type_radio_text_virtual_key">Клавішы</string>
   <string name="navigation_type_settings">Выкарыстоўваць для навігацыі</string>
   <string name="nearby_wifi">Даступныя сеткі</string>
-  <string name="need_reboot_now">Перазагрузіць, каб усталяваць абнаўленні.</string>
+  <string name="need_reboot_now">Патрабуецца перазагрузка</string>
   <string name="netcheck_title">Дыягностыка сеткі</string>
   <string name="network_2G_3G_preferred">2G/3G пераважна</string>
   <string name="network_2G_only">Толькі 2G</string>
@@ -10610,4 +10610,10 @@ ID:%s
   <string name="bt_always_show_icon">Заўсёды паказваць абразок у радку стану</string>
   <string name="external_auto_rotate_title">Заблакаваць арыентацыю вонкавага экрана</string>
   <string name="internal_auto_rotate_title">Заблакаваць арыентацыю ўнутранага экрана</string>
+  <string name="close_lid_display_settings_title">Пасля складання</string>
+  <string name="intelligent_keep_screen_on">Трымаць экран уключаным пры неабходнасці</string>
+  <string name="intelligent_keep_screen_on_summary">Трымаць вонкавы экран уключаным, калі ён накіраваны ўверх</string>
+  <string name="lock_screen_now">Заблакаваць экран</string>
+  <string name="swipe_up_to_continue_using">Ссуньце ўверх, каб працягнуць</string>
+  <string name="swipe_up_to_continue_using_summary">Блакіраваць праз %d сек. бяздзейнасці</string>
 </resources>

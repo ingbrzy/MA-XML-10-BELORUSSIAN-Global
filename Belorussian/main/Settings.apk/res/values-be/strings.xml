@@ -10616,4 +10616,5 @@ ID:%s
   <string name="lock_screen_now">Заблакаваць экран</string>
   <string name="swipe_up_to_continue_using">Ссуньце ўверх, каб працягнуць</string>
   <string name="swipe_up_to_continue_using_summary">Блакіраваць праз %d сек. бяздзейнасці</string>
+  <string name="shoulder_key_shortcut_settings_summary">Гэтая функцыя не будзе працаваць, калі вы гуляеце ў гульні.</string>
 </resources>

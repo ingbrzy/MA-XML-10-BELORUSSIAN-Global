@@ -152,8 +152,8 @@
   <string name="friday_shortest">Птн</string>
   <string name="gesture_function_dialog_message">%1$s выкарыстоўваецца для \"%2$s\". Замяніць на \"%3$s\"?</string>
   <string name="gesture_settings_title">Ярлыкі жэстаў</string>
-  <string name="global_stylus_summary">Пераўтвараць рукапісны ўваход у тэкст у любой вобласці, дзе ён падтрымліваецца</string>
-  <string name="global_stylus_title">Рукапісны ўвод</string>
+  <string name="global_stylus_summary">Пішыце ў любым тэкставым полі і пераўтварыце рукапісны ўвод у тэкст (падтрымліваюцца толькі англійская і кітайская мовы)</string>
+  <string name="global_stylus_title">Рэдагаваць рукапісны тэкст</string>
   <string name="go_to_sleep">Адключэнне экрана</string>
   <string name="home_app">Працоўны стол</string>
   <string name="home_key">Дадому</string>
@@ -174,8 +174,8 @@
   <string name="key_gesture_function_optional">Дадатковыя жэсты і кнопкі</string>
   <string name="key_gesture_function_preview">Папярэдні прагляд кнопак ды жэстаў</string>
   <string name="key_gesture_function_shortcut">Функцыянальныя ярлыкі</string>
-  <string name="key_handwriting_input_summary">Рэдагуйце тэкст з дапамогай стілуса. Вы можаце выконваць такія дзеянні, як выдаленне, выбар, устаўка і пачатак новага абзаца.</string>
-  <string name="key_handwriting_input_title">Рукапісны ўвод</string>
+  <string name="key_handwriting_input_summary">Рэдагуйце рукапісны тэкст на кітайскай ці англійскай мове з дапамогай стілуса</string>
+  <string name="key_handwriting_input_title">Рэдагаваць тэкст</string>
   <string name="key_none">Няма</string>
   <string name="key_operation_diagram">Папярэдні прагляд</string>
   <string name="key_position_cat">Размяшчэнне кнопак</string>
@@ -344,6 +344,7 @@
   <string name="mtrl_picker_a11y_next_month">Перайсці да наступнага месяца</string>
   <string name="mtrl_picker_a11y_prev_month">Перайсці да папярэдняга месяца</string>
   <string name="mtrl_picker_announce_current_selection">Бягучае вылучэнне: %1$s</string>
+  <string name="mtrl_picker_confirm">@android:string/ok</string>
   <string name="mtrl_picker_date_header_selected">%1$s</string>
   <string name="mtrl_picker_date_header_title">Выберыце дату</string>
   <string name="mtrl_picker_date_header_unselected">Выбраная дата</string>
@@ -548,4 +549,10 @@
   <string name="wednesday_short">Сер</string>
   <string name="wednesday_shortest">Сер</string>
   <string name="yesterday">Учора</string>
+  <string name="global_stylus_title_beta">Клерк (бэта)</string>
+  <string name="google_assistant_guide_cancel">Адмена</string>
+  <string name="google_assistant_guide_message">Вы можаце націснуць і ўтрымліваць кнопку сiлкавання на працягу %s сек., каб пачаць зносіны з Google Асістэнтам. Усталяваць гэты цэтлiк зараз?</string>
+  <string name="google_assistant_guide_ok">Усталяваць</string>
+  <string name="google_assistant_guide_tip">*Націсніце і ўтрымлівайце кнопку сiлкавання на працягу %s сек., каб адкрыць меню выключэння.</string>
+  <string name="google_assistant_guide_title">Google Асістэнт</string>
 </resources>

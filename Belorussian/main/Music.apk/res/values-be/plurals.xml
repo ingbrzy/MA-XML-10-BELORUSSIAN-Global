@@ -347,4 +347,10 @@
         <item quantity="few">Пераматаць назад на %d секунды</item>
         <item quantity="many">Пераматаць назад на %d секунд</item>
     </plurals>
+    <plurals name="task_guide">
+        <item quantity="other">Зарабіце %1$d манет сёння</item>
+        <item quantity="one">Зарабіце %1$d манету сёння</item>
+        <item quantity="few">Зарабіце %1$d манеты сёння</item>
+        <item quantity="many">Зарабіце %1$d манет сёння</item>
+    </plurals>
 </resources>

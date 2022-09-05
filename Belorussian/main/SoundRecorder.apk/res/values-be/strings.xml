@@ -665,4 +665,6 @@
   <string name="progressbar_title">Праверка на наяўнасць праблем з бяспекай…</string>
   <string name="system_error_info">Сістэма занятая. Пачакайце хвіліну ці дзве і паспрабуйце яшчэ раз.</string>
   <string name="unknown_error_info">Невядомая памылка</string>
+  <string name="text_btn_copy">Капіяваць</string>
+  <string name="text_copy_complete">Скапіявана ў буфер абмену</string>
 </resources>

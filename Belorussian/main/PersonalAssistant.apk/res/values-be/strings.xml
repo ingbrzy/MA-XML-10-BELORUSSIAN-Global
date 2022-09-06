@@ -860,4 +860,5 @@
   <string name="pa_filter_accessibility_filter_item">Выбраны %s. Націсніце двойчы, каб адфільтраваць іншыя варыянты.</string>
   <string name="pa_filter_accessibility_filter_popup_item_selected">Націсніце двойчы, каб выбраць %s.</string>
   <string name="pa_filter_accessibility_filter_popup_item_unselected">%s. Націсніце двойчы, каб выбраць.</string>
+  <string name="pa_setting_perm_empty">Тут яшчэ нічога няма</string>
 </resources>

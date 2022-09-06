@@ -1078,4 +1078,20 @@
   <string name="work_mode_off_text">Працоўныя праграмы прыпыненыя</string>
   <string name="work_mode_toggle_off">Выключыць працоўныя праграмы</string>
   <string name="work_mode_toggle_on">Уключыць працоўныя праграмы</string>
+  <string name="all_apps_setting_jeejen_title">Палегчаны рэжым</string>
+  <string name="edit_folder">Змяніць тэчку</string>
+  <string name="fold_pair_install_shortcut_launcher_success">Паспяхова створаны</string>
+  <string name="folder_picker_big_text">Павялічаны</string>
+  <string name="folder_picker_default_text">Звычайны</string>
+  <string name="folder_picker_options_tab_text">Памер</string>
+  <string name="folder_picker_sliding_button_tab_text">Прапаноўваць вылучаныя праграмы</string>
+  <string name="folder_picker_tab_text">Тэчка</string>
+  <string name="intelligent_exposed_button_summary_text">Выкарыстоўваць прапановы, заснаваныя на дадзеных аб выкарыстанні праграм, для вылучэння праграм у павялічаных тэчках.</string>
+  <string name="jeejen_description">Больш буйныя элементы карыстацкага інтэрфейсу.\nБольш танныя выклiкі.\nУзмоцненая бяспека.</string>
+  <string name="menu_only_widget_no_word">Выдаліць тэкст з віджэтаў</string>
+  <string name="open_personal_assistant_settings_off">Выкл.</string>
+  <string name="open_personal_assistant_settings_on">Укл.</string>
+  <string name="open_personal_assistant_settings_simplified">Стужка віджэтаў</string>
+  <string name="recent_menu_item_add_pair">Стварыць цэтлiк на працоўным стале для гэтай камбінацыі праграм у рэжыме падзелу экрана</string>
+  <string name="recent_menu_item_add_pair_first_toast">Стварыць цэтлiк на працоўным стале для гэтай камбінацыі праграм у рэжыме падзелу экрана</string>
 </resources>

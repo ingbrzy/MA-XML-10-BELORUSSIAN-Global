@@ -422,4 +422,20 @@
   <string name="miuix_indexer_collect">Калекцыі</string>
   <string name="miuix_indexer_selected">Абрана: %s</string>
   <string name="add_from_local">Абярыце выяву</string>
+  <string name="aod_dual_togother">HH:mm</string>
+  <string name="bottomsheet_action_expand_halfway">Разгарнуць напалову</string>
+  <string name="material_clock_toggle_content_description">Абярыце ДП або ПП</string>
+  <string name="material_hour_selection">Гадзіны</string>
+  <string name="material_hour_suffix">%1$s г.</string>
+  <string name="material_minute_selection">Хвіліны</string>
+  <string name="material_minute_suffix">%1$s хв.</string>
+  <string name="material_timepicker_am">ДП</string>
+  <string name="material_timepicker_clock_mode_description">Увод часу ў рэжыме гадзін</string>
+  <string name="material_timepicker_hour">Гадзіны</string>
+  <string name="material_timepicker_minute">Хвіліны</string>
+  <string name="material_timepicker_pm">ПП</string>
+  <string name="material_timepicker_select_time">Усталюйце час</string>
+  <string name="material_timepicker_text_input_mode_description">Увод часу ў тэкставым рэжыме</string>
+  <string name="super_wallpaper_date_lunar">YY\nN e</string>
+   <string name="label">Пазнака</string>
 </resources>

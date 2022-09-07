@@ -10617,4 +10617,8 @@ ID:%s
   <string name="swipe_up_to_continue_using">Ссуньце ўверх, каб працягнуць</string>
   <string name="swipe_up_to_continue_using_summary">Блакіраваць праз %d сек. бяздзейнасці</string>
   <string name="shoulder_key_shortcut_settings_summary">Гэтая функцыя не будзе працаваць, калі вы гуляеце ў гульні.</string>
+  <string name="emulate_sd_data">Эмуляцыя дадзеных SD-карты</string>
+  <string name="launch_accessibility_environmental_speech_recognition">Разнаванне навакольнага гуку</string>
+  <string name="launch_accessibility_hear_sound_subtitle">Субтытры Mi Ditto</string>
+  <string name="launch_accessibility_voice_control">Галасавое кіраванне</string>
 </resources>

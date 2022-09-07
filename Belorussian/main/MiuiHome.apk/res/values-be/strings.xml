@@ -1087,8 +1087,8 @@
   <string name="folder_picker_sliding_button_tab_text">Прапаноўваць вылучаныя праграмы</string>
   <string name="folder_picker_tab_text">Тэчка</string>
   <string name="intelligent_exposed_button_summary_text">Выкарыстоўваць прапановы, заснаваныя на дадзеных аб выкарыстанні праграм, для вылучэння праграм у павялічаных тэчках.</string>
-  <string name="jeejen_description">Больш буйныя элементы карыстацкага інтэрфейсу.\nБольш танныя выклiкі.\nУзмоцненая бяспека.</string>
-  <string name="menu_only_widget_no_word">Выдаліць тэкст з віджэтаў</string>
+  <string name="jeejen_description">Павялічаныя элементы.\nСпрошчаныя выклікі.\nУзмоцненая бяспека.</string>
+  <string name="menu_only_widget_no_word">Схаваць подпісы віджэтаў</string>
   <string name="open_personal_assistant_settings_off">Выкл.</string>
   <string name="open_personal_assistant_settings_on">Укл.</string>
   <string name="open_personal_assistant_settings_simplified">Стужка віджэтаў</string>

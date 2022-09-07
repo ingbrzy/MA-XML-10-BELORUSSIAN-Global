@@ -1265,7 +1265,13 @@
   <string name="dialog_btn_yes_create_icon">Дадаць</string>
   <string name="dialog_msg_create_icon_content">Дадаць цэтлiк на працоўны стол?</string>
   <string name="dialog_msg_create_icon_not_remain_anymore">Больш не паказваць</string>
-  <string name="dialog_msg_delete_icon_content">Бяспека дазваляе чысціць кошык на вашай прыладзе, знаходзіць і абясшкоджваць вірусы, эканоміць зарад батарэі, кіраваць дазволамі і г. д.</string>
+  <string name="dialog_msg_delete_icon_content">Бяспека дазваляе чысціць прыладу ад смецця, знаходзіць і абясшкоджваць вірусы, эканоміць зарад батарэі, кіраваць дазволамі і г. д.</string>
   <string name="dialog_msg_delete_icon_title">Выдаліць гэты цэтлiк з працоўнага стала?</string>
   <string name="manual_item_create_icon_title">Цэтлiк на працоўным стале</string>
+  <string name="app_name_pad">Бяспека</string>
+  <string name="app_name_phone">Бяспека</string>
+  <string name="dialog_msg_delete_icon_content_pad">Бяспека дазваляе чысціць прыладу ад смецця, знаходзіць і абясшкоджваць вірусы, эканоміць зарад батарэі, кіраваць дазволамі і г. д.</string>
+  <string name="dialog_msg_delete_icon_content_phone">Бяспека дазваляе чысціць прыладу ад смецця, знаходзіць і абясшкоджваць вірусы, эканоміць зарад батарэі, кіраваць дазволамі і г. д.</string>
+  <string name="dialog_msg_delete_icon_title_pad">Выдаліць гэты цэтлік з працоўнага стала?</string>
+  <string name="dialog_msg_delete_icon_title_phone">Выдаліць гэты цэтлік з працоўнага стала?</string>
 </resources>

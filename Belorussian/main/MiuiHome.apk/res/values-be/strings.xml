@@ -1094,4 +1094,5 @@
   <string name="open_personal_assistant_settings_simplified">Стужка віджэтаў</string>
   <string name="recent_menu_item_add_pair">Стварыць цэтлiк на працоўным стале для гэтай камбінацыі праграм у рэжыме падзелу экрана</string>
   <string name="recent_menu_item_add_pair_first_toast">Стварыць цэтлiк на працоўным стале для гэтай камбінацыі праграм у рэжыме падзелу экрана</string>
+  <string name="split_screen_position_top">Падзяліць уверсе</string>
 </resources>

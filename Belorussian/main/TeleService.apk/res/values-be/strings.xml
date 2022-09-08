@@ -2801,4 +2801,8 @@
   <string name="smart_switch_dual_sim_summary">Аўтаматычнае пераключэнне паміж SIM-картамі для перадачы дадзеных у залежнасці ад якасці сеткавага падлучэння і станы прылады</string>
   <string name="smart_switch_dual_sim_title">Пераключэнне паміж SIM-картамі для перадачы даных</string>
   <string name="xiaoai_assistant_setting_title">Асістэнт выклікаў Mi ШІ</string>
+  <string name="smart_switch_dual_sim_diag_cancel">Адмена</string>
+  <string name="smart_switch_dual_sim_diag_message">Здаецца, ваша бягучая SIM-карта для перадачы дадзеных не забяспечвае стабільнае сеткавае злучэнне. Аўтаматычнае пераключэнне паміж SIM-картамі для перадачы даных можа палепшыць якасць злучэння. Гэтую функцыю можна ўключыць у Наладах.</string>
+  <string name="smart_switch_dual_sim_diag_ok">Налады</string>
+  <string name="smart_switch_dual_sim_diag_title">Увага</string>
 </resources>

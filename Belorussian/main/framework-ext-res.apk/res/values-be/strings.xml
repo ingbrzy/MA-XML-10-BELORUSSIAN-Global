@@ -631,4 +631,7 @@
   <string name="periodiccacheclear_notification_title">Разумная ачыстка</string>
   <string name="swipe_up_to_continue_using">Ссуньце ўверх, каб працягнуць</string>
   <string name="backup_suspend_hint">Гэта праграма зараз захоўваецца. Дачакайцеся завяршэння рэзервовага капіявання і паспрабуйце яшчэ раз.</string>
+  <string name="rescueparty_package_tips">Выяўлена пашкоджанне сістэмнай службы {0}</string>
+  <string name="rescuepartyplus_config_reset_context">Некаторыя дадзеныя маглі быць выдаленыя. Націсніце, каб прагледзець падрабязнасці.</string>
+  <string name="rescuepartyplus_config_reset_title">Аднаўленне сістэмы завершана</string>
 </resources>

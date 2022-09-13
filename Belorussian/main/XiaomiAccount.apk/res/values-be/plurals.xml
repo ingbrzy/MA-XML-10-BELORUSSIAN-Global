@@ -113,4 +113,9 @@
        <item quantity="one">Знойдзены %d вынік</item>
        <item quantity="few">Знойдзена %d выніка</item>
     </plurals>
+    <plurals name="family_service_member_count">
+        <item quantity="other">%d чалавек</item>
+        <item quantity="one">%d чалавек</item>
+        <item quantity="few">%d чалавека</item>
+    </plurals>
 </resources>

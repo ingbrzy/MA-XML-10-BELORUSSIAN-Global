@@ -961,4 +961,16 @@ ID:%s
   <string name="xiaomi_market_sdk_update_dialog_cancel">Не зараз</string>
   <string name="xiaomi_market_sdk_update_dialog_ok">Абнавіць</string>
   <string name="xiaomi_market_sdk_update_dialog_title">Даступнае абнаўленне</string>
+  <string name="cloud_service_cloud_open">Уключыць</string>
+  <string name="cloud_service_space_full">Сховішча запоўнена</string>
+  <string name="cloud_service_space_not_enough">Недастаткова месца для захоўвання</string>
+  <string name="cloud_service_space_used">Занята</string>
+  <string name="cloud_service_state_error">Не атрымалася загрузіць</string>
+  <string name="dind_device_service_not_open">Выкл.</string>
+  <string name="dind_device_service_opened">Укл.</string>
+  <string name="family_service_not_open">Запрасіць удзельнікаў</string>
+  <string name="mi_account">Мой акаўнт</string>
+  <string name="unit_gb">" Гб"</string>
+  <string name="unit_mb">" Мб"</string>
+  <string name="xiaomi_cloud_service">Воблака Xiaomi</string>
 </resources>

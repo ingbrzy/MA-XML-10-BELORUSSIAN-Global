@@ -10580,7 +10580,7 @@ ID:%s
   <string name="bluetooth_enable_opp_high_speed_dialog_title">Перазапусціце Bluetooth</string>
   <string name="dsda_close_toast">Падвойны актыўны рэжым адключаны. Перазагрузіце прыладу, каб прымяніць змены.</string>
   <string name="dsda_open_toast">Падвойны актыўны рэжым уключаны. Перазагрузіце прыладу, каб прымяніць змены.</string>
-  <string name="dsda_switch_summary">Дазволіць абедзвюм SIM-картам адначасова выкарыстоўваць мабільныя дадзеныя і здзяйсняць выклікі</string>
+  <string name="dsda_switch_summary">У сетцы 5G дазволіць абедзвюм SIM-картам адначасова выкарыстоўваць мабільныя дадзеныя і здзяйсняць выклікі</string>
   <string name="dsda_switch_title">Падвойны актыўны рэжым</string>
   <string name="sunlight_low_power_notification">Немагчыма ўключыць рэжым сонечнага святла. Занадта нізкі ўзровень зарада батарэі.</string>
   <string name="sim_status_title_sim_softbank">SIM статус %1$d</string>

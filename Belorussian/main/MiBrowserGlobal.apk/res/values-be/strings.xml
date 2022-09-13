@@ -2343,7 +2343,7 @@
   <string name="tab_refresh_description">Абнавіць старонку</string>
   <string name="tab_search_description">Пошук</string>
   <string name="tab_share_description">Падзяліцца гэтай старонкай</string>
-  <string name="tab_shorts">Shorts</string>
+  <string name="tab_shorts">Відэа</string>
   <string name="tab_stop_loading_description">Спыніць загрузку старонкі</string>
   <string name="tab_videos">Відэа</string>
   <string name="tag_undo">Адмена</string>
@@ -2490,4 +2490,19 @@
   <string name="reading__search_searching">Пошук…</string>
   <string name="unload_residue">Смецце</string>
   <string name="view_details">Падрабязнасці</string>
+  <string name="click_clean">Ачысціць</string>
+  <string name="display__quick_entry_of_search">Паказваць ярлыкі функцый у Панэлі апавяшчэнняў</string>
+  <string name="enable_notification_permission_in_settings">Дазвольце паведамлення ў Наладах, каб мець магчымасць выкарыстоўваць гэтую функцыю.</string>
+  <string name="garbage_cleaning">Ачыстка</string>
+  <string name="home_page_simple">Спрошчаны выгляд</string>
+  <string name="homepage_default">Па змаўчанні</string>
+  <string name="homepage_setting">Налады галоўнай старонкі</string>
+  <string name="junk_files_found">Знойдзена смецце</string>
+  <string name="notice_bar_shortcut_entry">Ярлыкі у Панэлі апавяшчэнняў</string>
+  <string name="quick_search_and_access_to_functions">Хуткі пошук дазваляе лёгка атрымаць доступ да функцый, якія вы выкарыстоўваеце часцей за ўсё.</string>
+  <string name="simple_page_toast">Вы можаце змяніць выгляд галоўнай старонкі ў раздзеле \"Налады\" &gt; \"Налады галоўнай старонкі\"</string>
+  <string name="web_tag_desc">Паказваць мініяцюры наведаных раней старонак</string>
+  <string name="web_tag_tips">Націсніце тут, каб наведаць старонку</string>
+  <string name="web_tag_title">Мініяцюры вэб-старонак</string>
+  <string name="branch_trending_google_news">Навіны Google</string>
 </resources>

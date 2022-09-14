@@ -675,4 +675,21 @@
         <item quantity="other">%d гісторый</item>
         <item quantity="few">%d гісторыі</item>
     </plurals>
+    <plurals name="share_album_detail_photo_count">
+         <item quantity="other">%d фота загружана</item>
+         <item quantity="one">%d фота загружана</item>
+     </plurals>
+     <plurals name="title_age_hint_day">
+         <item quantity="other">%d д.</item>
+         <item quantity="one">%d д.</item>
+     </plurals>
+     <plurals name="title_age_hint_month">
+         <item quantity="other">%d м.</item>
+         <item quantity="one">%d м.</item>
+     </plurals>
+     <plurals name="title_age_hint_year">
+         <item quantity="other">%d г.</item>
+         <item quantity="few">%d г.</item>
+         <item quantity="one">%d г.</item>
+     </plurals>
 </resources>

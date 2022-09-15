@@ -6332,4 +6332,25 @@
   <string name="eletric_no_grant_dialog_negative_button">Адмена</string>
   <string name="eletric_no_grant_dialog_positive_button">Налады</string>
   <string name="eletric_no_grant_dialog_title">Патрабуюцца дазволы</string>
+  <string name="HIPS_Perm_External_READ_MEDIA_AUDIO_PIC_VIDEO_Desc">Доступ да выяў, відэа і аўдыёфайлаў і іх захаванне ва ўнутранай памяці</string>
+  <string name="applock_biometric_recognition">Біяметрычныя дадзеныя</string>
+  <string name="function_oncall_not_close_network">Не адключацца для выклікаў</string>
+  <string name="function_oncall_not_close_network_detail">"Пра гэтую функцыю
+ %1$d. Гэтая функцыя дазваляе вам заставацца ў сетцы падчас гульнявых сесій, не адцягваючыся на ўваходныя выклікі, калі гэта прылада падлучана да пэўных сетак 5G.
+ %2$d. Калі ніводная з вашых SIM-картак не падлучаная да сеткі 5G, уваходныя выклікі будуць аўтаматычна адхіляцца вашай асноўнай SIM-картай.
+ %3$d. Гэтая функцыя падтрымліваецца толькі ў мацерыковым Кітаі.
+ %4$d. Гэтая функцыя працуе толькі ў сетках 5G-SA."</string>
+  <string name="gb_barrage_chat_desc">Заўсёды верце, што вось-вось адбудзецца нешта прыгожае</string>
+  <string name="gb_barrage_chat_text_color">Колер</string>
+  <string name="gb_barrage_chat_text_size">Памер тэксту</string>
+  <string name="gb_barrage_chat_text_size_big">Вялікі</string>
+  <string name="gb_barrage_chat_text_size_small">Маленькі</string>
+  <string name="gb_barrage_chat_text_speed">Хуткасць</string>
+  <string name="gb_barrage_chat_text_speed_faster">Хуткая</string>
+  <string name="gb_barrage_chat_text_speed_slow">Павольная</string>
+  <string name="pc_fast_charge_switch_summary_new">Напамінаць аб павышэнні хуткасці зарадкі, калі падключана прыкладзеная зарадная прылада, а ўзровень зарада батарэі падае ніжэй за ўсталяваны ўзровень</string>
+  <string name="power_5g_popups_content">Сеткі 5G забяспечваюць высокую хуткасць злучэння і меншую затрымку.</string>
+  <string name="power_5g_popups_title">Выкарыстоўваць сеткі 5G</string>
+  <string name="vtb_ai_subtitle">Субтытры</string>
+  <string name="confirm_package_type">Пацвердзіце тып пакета</string>
 </resources>

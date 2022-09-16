@@ -2805,4 +2805,6 @@
   <string name="smart_switch_dual_sim_diag_message">Здаецца, ваша бягучая SIM-карта для перадачы дадзеных не забяспечвае стабільнае сеткавае злучэнне. Аўтаматычнае пераключэнне паміж SIM-картамі для перадачы даных можа палепшыць якасць злучэння. Гэтую функцыю можна ўключыць у Наладах.</string>
   <string name="smart_switch_dual_sim_diag_ok">Налады</string>
   <string name="smart_switch_dual_sim_diag_title">Увага</string>
+  <string name="vice_slot_volte_data_dialog_message"><Data>Падобна, ваша бягучае сеткавае злучэнне нестабільна. Вы можаце паспрабаваць аўтаматычна пераключацца паміж SIM-картамі для перадачы дадзеных. &lt;font color=#ff0000>&lt;b>Выкарыстанне гэтай функцыі можа прывесці да дадатковых збораў аператара сувязі&lt;/b>&lt;/font>.</Data></string>
+  <string name="vice_slot_volte_data_dialog_open">Уключыць</string>
 </resources>

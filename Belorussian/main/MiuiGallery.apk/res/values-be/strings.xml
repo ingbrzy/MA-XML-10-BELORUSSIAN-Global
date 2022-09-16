@@ -3205,8 +3205,8 @@
   <string name="change_baby_album_name">Змяніць аватар</string>
   <string name="change_baby_album_take_photos">Зрабіць фота</string>
   <string name="create_new_share_album">Новы агульны альбом</string>
-  <string name="disable_secret_album_upload_message">Калі перамыкач выключаны, новыя дададзеныя лакальныя фота не будуць загружацца ў воблака.</string>
-  <string name="enable_secret_album_upload_message">Калі перамыкач уключаны, у воблака будуць загружаныя як новыя, так і існуючыя асабістыя фота.</string>
+  <string name="disable_secret_album_upload_message">Новыя фота больш не будуць сінхранізавацца з воблакам, калі вы адключыце гэтую функцыю. Усё роўна выключыць?</string>
+  <string name="enable_secret_album_upload_message">Пасля ўключэння гэтай функцыі ўсе асабістыя элементы будуць сінхранізаваныя з воблакам. Уключыць?</string>
   <string name="get_user_info_btn_text">Пошук</string>
   <string name="get_user_info_edit_text_hint">Нумар мабільнага тэлефона/электронная пошта/Xiaomi акаўнт</string>
   <string name="get_user_info_failed_hint">Немагчыма знайсці карыстальніка</string>
@@ -3218,7 +3218,7 @@
   <string name="invite_user_now">Адправіць запрашэнне</string>
   <string name="invite_user_success_toast">Запрашэнне адпраўлена</string>
   <string name="invite_wechat_user_title">Запрасіць вас у агульны альбом \"%1$s\"</string>
-  <string name="local_secret_tip">Падтрымліваецца лакальнае шыфраванне. Калі ўключана воблачная сінхранізацыя, дадзеныя будуць загружаныя ў воблака. Вы можаце змяніць гэта ў \"Налады\"&gt;\"Сінхранізацыя з воблакам\"&gt;\"Кіраванне сінхранізаванымі альбомамі\"&gt;\"Асабісты альбом\".</string>
+  <string name="local_secret_tip">Усе асабістыя элементы сінхранізуюцца з воблакам, калі гэтая функцыя ўключана. Вы можаце змяніць наладкі ў раздзеле \"Налады\" &gt; \"Сінхранізацыя з воблакам\" &gt; \"Кіраванне сінхранізаванымі альбомамі\" &gt; \"Асабісты альбом\".</string>
   <string name="look_baby_info">Прагледзець інфармацыю аб дзіцяці</string>
   <string name="menu_album_new_share_album">Новы агульны альбом</string>
   <string name="people_page_photo">Мініяцюра чалавека</string>

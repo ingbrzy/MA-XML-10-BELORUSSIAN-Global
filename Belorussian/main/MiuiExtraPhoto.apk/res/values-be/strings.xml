@@ -118,4 +118,8 @@
   <string name="miuix_alphabet_indexer_name">Алфавітная лінейка</string>
   <string name="miuix_indexer_collect">Калекцыі</string>
   <string name="miuix_indexer_selected">Абрана: %s</string>
+  <string name="grant_permission_go_and_set_2">Налады</string>
+  <string name="grant_permission_remind_title">Патрабуюцца дазволы</string>
+  <string name="grant_permission_storage">Дазволіць гэтай праграме доступ да сховішча.</string>
+  <string name="grant_permission_text">Рэдактару галерэі для нармальнай працы патрабуецца наступны дазвол: %s. Націсніце \"Налады\", каб надаць іх.</string>
 </resources>

@@ -586,4 +586,7 @@
   <string name="indices_wind_direction_west">З</string>
   <string name="setting_notification_manager">Апавяшчэнні</string>
   <string name="setting_used_to_push_reminder">Атрымліваць абвесткі і папярэджанні аб надвор\'і</string>
+  <string name="save_to_local_failure_message">Немагчыма захаваць</string>
+  <string name="save_to_local_icon_name">Захаваць</string>
+  <string name="save_to_local_success_message">Паспяхова захавана</string>
 </resources>

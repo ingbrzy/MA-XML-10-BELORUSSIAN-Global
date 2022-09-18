@@ -10621,4 +10621,6 @@ ID:%s
   <string name="launch_accessibility_environmental_speech_recognition">Разнаванне навакольнага гуку</string>
   <string name="launch_accessibility_hear_sound_subtitle">Субтытры Mi Ditto</string>
   <string name="launch_accessibility_voice_control">Галасавое кіраванне</string>
+  <string name="var_font_switch_dialog_summary">Каб змяніць гэты параметр, вам трэба перазагрузіць прыладу.</string>
+  <string name="var_font_switch_dialog_title">Перазагрузіць прыладу?</string>
 </resources>

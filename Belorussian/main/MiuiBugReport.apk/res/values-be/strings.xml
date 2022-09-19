@@ -902,4 +902,6 @@
   <string name="weixin_login_btn_content_description">Увайсці з дапамогай WeChat</string>
   <string name="back">Назад</string>
   <string name="please_download_gallery">Усталюйце Галерэю для прагляду</string>
+  <string name="bugreport_dialog_informed_consent_content">Мы выявілі памылку, звязаную з вашым паролем экрана блакавання. Вы можаце адправіць часопісы сваёй прылады, каб дапамагчы нам знайсці і вырашыць праблему. Інфармацыя часопіса будзе загружана ананімна, будзе выкарыстоўвацца толькі для ўхілення непаладак, і будзе выдаленая пасля завяршэння ўхілення непаладак.</string>
+  <string name="bugreport_dialog_informed_consent_title">Усвядомленая згода</string>
 </resources>

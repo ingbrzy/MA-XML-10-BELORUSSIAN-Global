@@ -1607,4 +1607,9 @@
         <item>4 Мб</item>
         <item>8 Мб</item>
     </string-array>
+    <string-array name="typing_style_entries">
+        <item>Стандарт</item>
+        <item>Дотык</item>
+        <item>Прамы дотык</item>
+    </string-array>
 </resources>

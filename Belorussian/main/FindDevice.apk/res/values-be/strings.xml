@@ -306,4 +306,8 @@
   <string name="wednesday_short">Сер</string>
   <string name="wednesday_shortest">Сер</string>
   <string name="yesterday">Учора</string>
+  <string name="miuix_access_state_desc">Абрана</string>
+  <string name="miuix_alphabet_indexer_name">Алфавітная лінейка</string>
+  <string name="miuix_indexer_selected">Абрана: %s</string>
+  <string name="miuix_indexer_collect">Калекцыі</string>
 </resources>

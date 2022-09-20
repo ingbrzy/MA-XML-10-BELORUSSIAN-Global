@@ -405,7 +405,7 @@
   <string name="callFailed_cdma_activation">SIM-карта актывавала паслугі і абнавіла магчымасці роўмінгу.</string>
   <string name="callFailed_cdma_call_limit">Занадта шмат актыўных выклікаў. Каб выканаць новы выклік, завяршыце або аб\'яднайце існуючыя.</string>
   <string name="callFailed_channel_unacceptable">Канал непрымальны</string>
-  <string name="callFailed_concurrent_calls_not_possible">Немагчыма завяршыць выклік.</string>
+  <string name="callFailed_concurrent_calls_not_possible">Выклік завершаны. Адначасовыя выклікі не падтрымліваюцца.</string>
   <string name="callFailed_conditional_IE_error">Умоўная памылка IE</string>
   <string name="callFailed_congestion">Сетка занята</string>
   <string name="callFailed_data_disabled">Выклік скончаны, паколькі сотавая перадача даных была адключана.</string>

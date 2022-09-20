@@ -10599,7 +10599,7 @@ ID:%s
   <string name="wlan_switch_tips">Пераключэнне сетак Wi-Fi</string>
   <string name="wlan_switch_tips_message">Пры пераключэнні паміж дапаможнай і асноўнай сеткамі Wi-Fi ваша прылада будзе часова адключана ад дапаможнай Wi-Fi. Пераключыцца?</string>
   <string name="miheadset_double_toast">Устаўце абодва навушнікі, каб выкарыстоўваць гэтую функцыю.</string>
-  <string name="miheadset_close_leaudio_first">Адключыце LE Audio у дадатковых наладах, каб выкарыстоўваць гэтую функцыю</string>
+  <string name="miheadset_close_leaudio_first">Адключыце LE Аўдыё у дадатковых наладах, каб выкарыстоўваць гэтую функцыю</string>
   <string name="miheadset_openAnc2">Шумапрыглушэнне</string>
   <string name="virtual_surround_sound_switch_summary_global">Павелічэнне глыбіні гуку ў навушніках пры прайграванні аўдыё і відэа. Гэтая функцыя не будзе працаваць пры ўключаным LDAC.</string>
   <string name="card_holder_header_title">Кашалёк</string>
@@ -10623,4 +10623,14 @@ ID:%s
   <string name="launch_accessibility_voice_control">Галасавое кіраванне</string>
   <string name="var_font_switch_dialog_summary">Каб змяніць гэты параметр, вам трэба перазагрузіць прыладу.</string>
   <string name="var_font_switch_dialog_title">Перазагрузіць прыладу?</string>
+  <string name="bt_low_energy_audio_summary">Атрымлівайце асалоду ад высакаякаснага гука з нізкім энергаспажываннем і паменшанай затрымкай</string>
+  <string name="bt_low_energy_audio_title">Аўдыё Bluetooth LE</string>
+  <string name="miheadset_ancMode">Рэжым шумапрыглушэння</string>
+  <string name="miheadset_atuo_download_title">Загружаць аўтаматычна</string>
+  <string name="miheadset_auto_download_summary">Аўтаматычная загрузка найбольш прыдатных версій</string>
+  <string name="miheadset_automatic">Аўта</string>
+  <string name="miheadset_manual_operation">Уручную</string>
+  <string name="miui_type_style_summary">Стыль набору тэксту, які ўжываецца пры ўключанай праграме чытання з экрана</string>
+  <string name="miui_type_style_title">Стыль уводу</string>
+  <string name="stylus_not_connect_message_new">Падлучыце стілус для спалучэння</string>
 </resources>

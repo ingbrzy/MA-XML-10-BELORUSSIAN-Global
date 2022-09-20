@@ -418,8 +418,8 @@
   <string name="wednesday_short">Сер</string>
   <string name="wednesday_shortest">С</string>
   <string name="yesterday">Учора</string>
-  <string name="spatial_audio">Адсочваць рух галавы</string>
-  <string name="spatial_audio_summary">Налада імерсіўнага гуку ў залежнасці ад руху галавы</string>
+  <string name="spatial_audio">Імерсіўны гук</string>
+  <string name="spatial_audio_summary">Адчуванне глыбінi і прасторы пры прайграванні гуку праз навушнікі</string>
   <string name="effect_3dsurround">Імерсіўны гук</string>
   <string name="effect_3dsurround_summary">Павялічыць глыбіню прайгравання гуку для навушнікаў і дынамікаў</string>
   <string name="effect_3dsurround_summary_headphone">Павялічыць глыбіню прайгравання гуку для навушнікаў</string>
@@ -500,9 +500,9 @@
   <string name="sound_id_function_description">Персаналізуйце крывую эквалайзера ў адпаведнасці са сваімі перавагамі</string>
   <string name="sound_id_function_name">Персаналізаваны гук</string>
   <string name="sound_id_headset_status">Бягучыя навушнікі</string>
-  <string name="sound_id_hz_high">Высокія частоты\n%d Гц</string>
-  <string name="sound_id_hz_low">Бас\n%d Гц</string>
-  <string name="sound_id_hz_media">Сярэднія частоты\n%d Гц</string>
+  <string name="sound_id_hz_high">Высокія частоты %d Гц</string>
+  <string name="sound_id_hz_low">Бас %d Гц</string>
+  <string name="sound_id_hz_media">Сярэднія частоты %d Гц</string>
   <string name="sound_id_music_one_description">Лёгкая | %d сек.</string>
   <string name="sound_id_music_one_title">Даждлівы горад</string>
   <string name="sound_id_music_three_description">Меладычная | %d сек.</string>

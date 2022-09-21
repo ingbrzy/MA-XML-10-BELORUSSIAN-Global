@@ -2807,4 +2807,11 @@
   <string name="smart_switch_dual_sim_diag_title">Увага</string>
   <string name="vice_slot_volte_data_dialog_message"><Data>Падобна, ваша бягучае сеткавае злучэнне нестабільна. Вы можаце паспрабаваць аўтаматычна пераключацца паміж SIM-картамі для перадачы дадзеных. &lt;font color=#ff0000>&lt;b>Выкарыстанне гэтай функцыі можа прывесці да дадатковых збораў аператара сувязі&lt;/b>&lt;/font>.</Data></string>
   <string name="vice_slot_volte_data_dialog_open">Уключыць</string>
+  <string name="business_hall_settings_summary">Кантралюйце свае выклікі і выкарыстанне дадзеных</string>
+  <string name="business_hall_settings_title">Налады тарыфнага плана</string>
+  <string name="default_data_title">Дадзеныя</string>
+  <string name="default_sim_setting">SIM-карты па змаўчанні</string>
+  <string name="default_voice_title">Выклікі</string>
+  <string name="pref_sim_item_no_default">Няма па змаўчанні</string>
+  <string name="sim_select_dialog_title">Абярыце SIM-карту</string>
 </resources>

@@ -1706,7 +1706,8 @@
   <string name="fallback_menu_item_copy_link">Капіяваць спасылку</string>
   <string name="fallback_menu_item_open_in_browser">Адкрыць у браўзэры</string>
   <string name="fallback_menu_item_share_link">Падзяліцца спасылкай</string>
-  <string name="sign_in_dialog_outlook_enterprise">Outlook для бізнесу (без календара)</string>
+  <string name="sign_in_dialog_office365">Office 365 Персанальны</string>
+  <string name="sign_in_dialog_outlook_enterprise">Office 365 Карпаратыўны</string>
   <string name="sign_in_dialog_outlook_exchange">EXCHANGE (з календаром)</string>
   <string name="sign_in_dialog_outlook_imap">IMAP (без календара)</string>
   <string name="gmail_invalid_tip_cancel">Адмена</string>

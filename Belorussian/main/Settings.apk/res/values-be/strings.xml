@@ -6441,7 +6441,7 @@
   <string name="sound_dashboard_summary">Гучнасць, вібрацыя, рэжым \"Не турбаваць\"</string>
   <string name="sound_effects_enable_title">Гукі пры дотыку</string>
   <string name="sound_haptic_settings">Гук і вібрацыя</string>
-  <string name="sound_mode">Рэжым \"Без гуку\"</string>
+  <string name="sound_mode">Параметры гуку</string>
   <string name="sound_settings">Гук</string>
   <string name="sound_settings_example_summary">Гучнасць званка – 80 %</string>
   <string name="sound_settings_summary">Гучнасць званка – %1$s</string>

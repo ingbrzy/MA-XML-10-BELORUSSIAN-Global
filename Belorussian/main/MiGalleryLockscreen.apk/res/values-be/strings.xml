@@ -1128,4 +1128,9 @@
   <string name="miuix_alphabet_indexer_name">Алфавітная лінейка</string>
   <string name="miuix_indexer_selected">Абрана: %s</string>
   <string name="miuix_indexer_collect">Калекцыі</string>
+  <string name="apply_warning_content">Вы выкарыстоўваеце супершпалеры. Калі вы зменіце шпалеры, яны будуць прымяняцца як да працоўнага стала, так і да экрана блакавання. Прымяніць?</string>
+  <string name="apply_warning_content_with_aod">Вы выкарыстоўваеце супершпалеры. Калі вы зменіце шпалеры, яны будуць прымяняцца як да працоўнага стала, так і да экрана блакавання, а функцыя «Заўжды на экране» можа быць скінута да значэнняў па змаўчанні. Прымяніць?</string>
+  <string name="apply_warning_content_with_maml">Вы выкарыстоўваеце тэму трэцяга боку. Калі вы зменіце шпалеры, гадзіннік экрана блакавання можа быць скінуты да стандартных налад. Прымяніць?</string>
+  <string name="apply_warning_title">Прымяніць шпалеры</string>
+  <string name="dlg_ok">Прымяніць</string>
 </resources>

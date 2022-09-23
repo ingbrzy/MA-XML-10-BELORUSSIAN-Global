@@ -1496,4 +1496,5 @@
   <string name="notes_not_found">Спачатку ўсталюйце Нататкі</string>
   <string name="soundrecorder_not_found">Спачатку ўсталюйце Дыктафон</string>
   <string name="pref_summary_voice_report_disable">Усталюйце галасавы рухавік Mi ШІ, каб выкарыстоўваць гэтую функцыю</string>
+  <string name="button_copy">Капіяваць</string>
 </resources>

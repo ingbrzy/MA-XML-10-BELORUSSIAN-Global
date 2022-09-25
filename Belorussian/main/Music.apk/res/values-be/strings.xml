@@ -1693,4 +1693,6 @@
   <string name="task_card_button_exchange">Выкарыстаць</string>
   <string name="task_card_message_received_successfully">Вы выканалі сённяшнія заданні. Выкарыстайце свае манеты прама зараз!</string>
   <string name="task_card_title_received_successfully">Паспяхова атрымана</string>
+  <string name="app_disable_description_content">Музыка - гэта сістэмная праграма. Калі вы адключыце яе, гэта можа паўплываць на выкарыстанне вамі іншых праграм. Усё роўна адключыць?</string>
+  <string name="app_disable_description_title">Адключыць сістэмную праграму?</string>
 </resources>

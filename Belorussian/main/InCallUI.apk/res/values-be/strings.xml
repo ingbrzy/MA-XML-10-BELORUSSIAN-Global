@@ -534,4 +534,17 @@
   <string name="call_log_short_in">З гэтага нумара вам толькі што тэлефанавалі</string>
   <string name="call_log_short_out">Вы толькі што тэлефанавалі на гэты нумар</string>
   <string name="xiaoai_assistant">Асістэнт выклікаў Mi ШІ</string>
+  <string name="camera_on">Іншы чалавек жадае ўключыць вашу камеру.</string>
+  <string name="camera_on_agree">Дазволіць</string>
+  <string name="camera_on_refuse">Не дазваляць</string>
+  <string name="camera_on_title">Камера</string>
+  <string name="onscreen_collapsed">Згарнуць</string>
+  <string name="onscreen_collapsed_dialpad">Паказаць панэль набору нумара</string>
+  <string name="onscreen_expand">Яшчэ</string>
+  <string name="onscreen_expand_dialpad">Схаваць панэль набору нумара</string>
+  <string name="screen_share">Дыстанцыйная дапамога</string>
+  <string name="screen_share_agree">Дазволіць</string>
+  <string name="screen_share_connecting">Падключэнне…</string>
+  <string name="screen_share_message">Дазволіць іншаму чалавеку праглядаць ваш экран у рэжыме рэальнага часу?</string>
+  <string name="screen_share_refuse">Адмена</string>
 </resources>

@@ -885,12 +885,12 @@
   <string name="wednesday_short">Ср</string>
   <string name="wednesday_shortest">Ср</string>
   <string name="wipe_data_dialog_button_check_sync">Праверыць сінхранізацыю</string>
-  <string name="wipe_data_dialog_msg">Некаторыя аб\'екты (%s) не сінхранізаваны. Яны будуць захаваны на прыладзе і не будуць выдалены.</string>
-  <string name="wipe_data_dialog_msg_and_on">, і некаторыя іншыя аб\'екты</string>
-  <string name="wipe_data_dialog_title">Аб\'екты не сінхранізаваны</string>
+  <string name="wipe_data_dialog_msg">Некаторыя элементы (%s) не сінхранізаваныя. Яны будуць захаваны на вашым прыладзе і не будуць выдалены.</string>
+  <string name="wipe_data_dialog_msg_and_on">, і некаторыя іншыя элементы</string>
+  <string name="wipe_data_dialog_title">Элементы не сінхранізаваныя</string>
   <string name="wipe_data_query_progress_title">Праверка…</string>
   <string name="xiaomi_cloud_service">Воблака Xiaomi</string>
-  <string name="xiaomi_cloud_service_subtitle">Усе важныя аб\'екты ў адным месцы</string>
+  <string name="xiaomi_cloud_service_subtitle">Усё важнае ў адным месцы</string>
   <string name="xiaomi_market_sdk_update_dialog_cancel">Не зараз</string>
   <string name="xiaomi_market_sdk_update_dialog_ok">Абнавіць</string>
   <string name="xiaomi_market_sdk_update_dialog_title">Даступнае абнаўленне</string>
@@ -913,4 +913,6 @@
   <string name="onetrack_value_storage_dialog_version_new">Версія 22.7.28</string>
   <string name="onetrack_value_storage_dialog_version_old">Старая версія</string>
   <string name="onetrack_value_storage_full">Сховішча запоўнена</string>
+  <string name="phone_guarantee_service_description" formatted="false">Абарону ад пашкоджання экрана і няшчасных выпадкаў можна набыць на працягу %d дзён пасля актывацыі. Пашыраную гарантыю можна набыць на працягу %d дзён пасля актывацыі.</string>
+  <string name="phone_guarantee_service_name">Гарантыя на прыладу</string>
 </resources>

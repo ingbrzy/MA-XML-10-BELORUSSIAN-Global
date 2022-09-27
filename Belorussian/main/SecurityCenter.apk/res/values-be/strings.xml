@@ -6353,4 +6353,8 @@
   <string name="power_5g_popups_title">Выкарыстоўваць сеткі 5G</string>
   <string name="vtb_ai_subtitle">Субтытры</string>
   <string name="confirm_package_type">Пацвердзіце тып пакета</string>
+  <string name="app_manager_restricted_settings_title">Дазволіць абмежаваныя налады</string>
+  <string name="gb_barrage_chat_pre_desc">Папярэдні прагляд</string>
+  <string name="gb_barrage_chat_text_speed_moderate">Сярэдняя</string>
+  <string name="power_dialog_performance_mode_checkbox">Пераключыцца на частату абнаўлення 120 Гц</string>
 </resources>

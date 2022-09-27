@@ -10633,6 +10633,6 @@ ID:%s
   <string name="miui_type_style_summary">Стыль набору тэксту, які ўжываецца пры ўключанай праграме чытання з экрана</string>
   <string name="miui_type_style_title">Стыль уводу</string>
   <string name="stylus_not_connect_message_new">Падлучыце стілус для спалучэння</string>
-  <string name="external_ram_intro">Стварыце дадатковую аператыўную памяць, заняўшы месца ў сховішчы. Выкарыстоўвайце гэтую функцыю, толькі калі на вашай прыладзе дастаткова месца для захоўвання.</string>
+  <string name="external_ram_intro">Пашырэнне АЗП за кошт сховішча. Выкарыстоўвайце гэтую функцыю толькі калі на прыладзе дастаткова месца.</string>
   <string name="kid_space_forbidden_set_unlock_password_msg">Немагчыма ўсталяваць або змяніць пароль у дзіцячай прасторы</string>
 </resources>

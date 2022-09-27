@@ -1695,4 +1695,12 @@
   <string name="task_card_title_received_successfully">Паспяхова атрымана</string>
   <string name="app_disable_description_content">Музыка - гэта сістэмная праграма. Калі вы адключыце яе, гэта можа паўплываць на выкарыстанне вамі іншых праграм. Усё роўна адключыць?</string>
   <string name="app_disable_description_title">Адключыць сістэмную праграму?</string>
+  <string name="ucrop_crop">Абрэзка</string>
+  <string name="ucrop_error_input_data_is_absent">Неабходна пазначыць уваходны і выходны Uri</string>
+  <string name="ucrop_label_edit_photo">Рэдагаванне фота</string>
+  <string name="ucrop_label_original">Зыходнае</string>
+  <string name="ucrop_menu_crop">Абрэзка</string>
+  <string name="ucrop_mutate_exception_hint">Перавызначце каляровы рэсурс (ucrop_color_toolbar_widget) у праграме, каб яна працавала на прыладах pre-L</string>
+  <string name="ucrop_rotate">Паварот</string>
+  <string name="ucrop_scale">Маштаб</string>
 </resources>

@@ -990,13 +990,13 @@
   <string name="usage_new_category_limit_summary">Усталюйце дзённыя ліміты выкарыстання для ўсіх праграм у гэтай катэгорыі</string>
   <string name="usage_new_category_limit_title">Абмежаванне выкарыстання катэгорыі праграм</string>
   <string name="workday_limit">Працоўныя дні</string>
-  <string name="closed_high_refresh_options">Праграмы, якія не выкарыстоўваюць высокую частату абнаўлення</string>
-  <string name="customize_high_refresh_summary">Гэтая функцыя падтрымлівае частату абнаўлення да %d Гц. Падыходная частата абнаўлення можа выбірацца аўтаматычна ў залежнасці ад налад прылады.</string>
-  <string name="customize_high_refresh_title">Праграмы, якія выкарыстоўваюць высокую частату абнаўлення</string>
+  <string name="closed_high_refresh_options">Без высокай частаты абнаўлення</string>
+  <string name="customize_high_refresh_summary">Функцыя падтрымлівае частату абнаўлення да %d Гц. Частата абнаўлення можа выбірацца аўтаматычна ў залежнасці ад налад прылады.</string>
+  <string name="customize_high_refresh_title">З высокай частатой абнаўлення</string>
   <string name="follow_apps_settings">На аснове налад праграмы</string>
   <string name="high_refresh_options_title">Падтрымліваемыя праграмы</string>
   <string name="new_customize_high_refresh_title">Высокая частата абнаўлення</string>
-  <string name="opened_high_refresh_options">Праграмы, якія выкарыстоўваюць высокую частату абнаўлення</string>
+  <string name="opened_high_refresh_options">З высокай частатой абнаўлення</string>
   <string name="search_app_tips">Пошук праграм</string>
   <string name="size_byte">Б</string>
   <string name="size_giga_byte">Гб</string>

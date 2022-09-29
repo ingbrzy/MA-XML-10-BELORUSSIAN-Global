@@ -10635,4 +10635,6 @@ ID:%s
   <string name="stylus_not_connect_message_new">Падлучыце стілус для спалучэння</string>
   <string name="external_ram_intro">Пашырэнне АЗП за кошт сховішча. Выкарыстоўвайце гэтую функцыю толькі калі на прыладзе дастаткова месца.</string>
   <string name="kid_space_forbidden_set_unlock_password_msg">Немагчыма ўсталяваць або змяніць пароль у дзіцячай прасторы</string>
+  <string name="lite_font_weight_title">Таўшчыня шрыфта</string>
+  <string name="more_font_pref_title">Іншыя шрыфты</string>
 </resources>

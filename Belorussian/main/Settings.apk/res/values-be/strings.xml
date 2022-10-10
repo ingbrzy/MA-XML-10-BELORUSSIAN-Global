@@ -10637,4 +10637,8 @@ ID:%s
   <string name="kid_space_forbidden_set_unlock_password_msg">Немагчыма ўсталяваць або змяніць пароль у дзіцячай прасторы</string>
   <string name="lite_font_weight_title">Таўшчыня шрыфта</string>
   <string name="more_font_pref_title">Іншыя шрыфты</string>
+  <string name="headset_find_left_tip">Падобна на тое, што левы навушнік у футарале ці ў вуху</string>
+  <string name="headset_find_right_tip">Падобна на тое, што правы навушнік у футарале ці ў вуху</string>
+  <string name="miheadset_connect_device_hfp">Падлучыце навушнікі і пераканайцеся, што прайграванне гуку падчас тэлефонных выклікаў дазволена</string>
+  <string name="miheadset_firmware_version_update">Абнавіць прашыўку</string>
 </resources>

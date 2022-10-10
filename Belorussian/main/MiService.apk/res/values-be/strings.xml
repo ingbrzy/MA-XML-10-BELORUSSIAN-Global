@@ -416,4 +416,8 @@
   <string name="wednesday_shortest">Сер</string>
   <string name="yesterday">Учора</string>
   <string name="mi_service_back">Назад</string>
+  <string name="miui_main_icon_callback">Цэтлік на працоўным стале</string>
+  <string name="miui_main_icon_callback_create">Стварыць</string>
+  <string name="miui_main_icon_callback_desc">Стварыць цэтлік на працоўным стале?</string>
+  <string name="miui_main_icon_callback_nocreate">Адмена</string>
 </resources>

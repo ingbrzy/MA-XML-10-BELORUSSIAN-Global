@@ -1210,4 +1210,16 @@
   <string name="tab_view_month">Месяц</string>
   <string name="tab_view_week">Тыдзень</string>
   <string name="tab_view_year">Год</string>
+  <string name="calendar_account_settings">Налады акаўнта</string>
+  <string name="check_new_version">Праверыць наяўнасць абнаўленняў</string>
+  <string name="display_to_calendar">Паказаць у календары</string>
+  <string name="hour_1">%d гадзіна</string>
+  <string name="minutes_10">%d хвілін</string>
+  <string name="minutes_15">%d хвілін</string>
+  <string name="minutes_30">%d хвілін</string>
+  <string name="minutes_5">%d хвілін</string>
+  <string name="shortcut_new_event">Дадаць падзею</string>
+  <string name="shortcut_next_agenda">Наступная падзея</string>
+  <string name="shortcut_settings">Налады</string>
+  <string name="suggestions_and_feedback">Зваротная сувязь</string>
 </resources>

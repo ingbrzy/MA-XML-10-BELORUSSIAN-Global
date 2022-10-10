@@ -309,4 +309,5 @@
   <string name="new_cta_app_purpose">Адлюстраванне напрамкаў i каардынатаў</string>
   <string name="calibrating">Каліброўка</string>
   <string name="miuix_indexer_collect">Калекцыі</string>
+  <string name="calibrate_new_tip">Нахіляйце прыладу рэзка так, каб шар каціўся па крузе</string>
 </resources>

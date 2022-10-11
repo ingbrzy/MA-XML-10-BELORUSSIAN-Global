@@ -1022,4 +1022,8 @@
   <string name="recognition_failure">Ня атрымалася распазнаць</string>
   <string name="system_error_info">Сістэма занятая. Пачакайце хвіліну ці дзве і паспрабуйце зноў.</string>
   <string name="unknown_error_info">Невядомая памылка</string>
+  <string name="new_lite_audio_create_talkback_des">Націсніце, каб стварыць нататку</string>
+  <string name="widget_all_notes_name">Усе нататкі</string>
+  <string name="widget_all_todo_name">Усе задачы</string>
+  <string name="widget_click_check">Націснце для прагляду</string>
 </resources>

@@ -915,4 +915,15 @@
   <string name="onetrack_value_storage_full">Сховішча запоўнена</string>
   <string name="phone_guarantee_service_description" formatted="false">Абарону ад пашкоджання экрана і няшчасных выпадкаў можна набыць на працягу %d дзён пасля актывацыі. Пашыраную гарантыю можна набыць на працягу %d дзён пасля актывацыі.</string>
   <string name="phone_guarantee_service_name">Гарантыя на прыладу</string>
+  <string name="download_gallery_data_summary">Перайдзіце на сайт i.mi.com, каб загрузіць сінхранізаваныя фота і відэа на сваю прыладу.</string>
+  <string name="download_gallery_data_title">Загрузіць элементы на сваю прыладу</string>
+  <string name="gallery_data_transfer_ddl">Крайні тэрмін: %s</string>
+  <string name="gallery_data_transfer_summary">Элементы галерэі больш нельга сінхранізаваць з Воблакам Xiaomi. Мы рэкамендуем перанесці фота і відэа, якія вы сінхранізавалі з воблакам, у Google Фота і выкарыстоўваць іх службы для рэзервовага капіявання вашых элементаў.</string>
+  <string name="gallery_data_transfer_title">Перанос сінхранізаваных фота і відэа ў Google Фота</string>
+  <string name="gallery_service_termination_announcement">Заўвага. Элементы галерэі больш нельга сінхранізаваць з Аблокам Xiaomi.</string>
+  <string name="gallery_service_termination_announcement_title">Элементы галерэі больш нельга сінхранізаваць з Воблакам Xiaomi. Мы рэкамендуем перанесці фота і відэа, якія вы сінхранізавалі з воблакам, у Google Фота або наведаць i.mi.com, каб загрузіць сінхранізаваныя фота і відэа на сваю прыладу. Загрузка будзе даступная да %s, пасля чаго ўсе элементы Галерэі, сінхранізаваныя з вашым уліковым запісам у Воблаку Xiaomi, будуць беззваротна выдалены.</string>
+  <string name="gallery_service_termination_btn_continue">Працягнуць</string>
+  <string name="gallery_service_termination_more_info">Больш падрабязна глядзіце \"%s\"</string>
+  <string name="menu_migrate_to_google_photos">Перанос дадзеных у Google Фота</string>
+  <string name="start_transfer_gallery_data">Перанос дадзеных</string>
 </resources>

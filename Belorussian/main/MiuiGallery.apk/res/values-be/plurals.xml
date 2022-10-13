@@ -692,4 +692,43 @@
          <item quantity="few">%d г.</item>
          <item quantity="one">%d г.</item>
      </plurals>
+     <plurals name="share_album_home_pref_rooms">
+        <item quantity="other">%1$d пакояў</item>
+        <item quantity="one">%1$d пакой</item>
+        <item quantity="few">%1$d пакоя</item>
+    </plurals>
+    <plurals name="share_album_home_pref_screens">
+        <item quantity="other">%1$d экранаў</item>
+        <item quantity="one">%1$d экран</item>
+        <item quantity="few">%1$d экрана</item>
+    </plurals>
+    <plurals name="share_album_home_pref_share_home_summary">
+        <item quantity="other">%1$d агульных экранаў</item>
+        <item quantity="one">%1$d агульны экран</item>
+        <item quantity="few">%1$d агульных экрана</item>
+    </plurals>
+    <plurals name="share_album_home_pref_unshare_home_summary">
+        <item quantity="other">Даступна асяроддзяў разумнай хаты: %1$d</item>
+        <item quantity="one">Даступна асяроддзяў разумнай хаты: %1$d</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_oversize">
+        <item quantity="other">%d элементаў занадта вялікія для сінхранізацыі</item>
+        <item quantity="one">%d элемент занадта вялікі для сінхранізацыі</item>
+        <item quantity="few">%d элемента занадта вялікія для сінхранізацыі</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_owner_upload_error">
+        <item quantity="other">Немагчыма сінхранізаваць %d элементаў. Абнавіце план сховішча.</item>
+        <item quantity="one">Немагчыма сінхранізаваць %d элемент. Абнавіце план сховішча.</item>
+        <item quantity="few">Немагчыма сінхранізаваць %d элемента. Абнавіце план сховішча.</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_retry">
+        <item quantity="other">Немагчыма сінхранізаваць %d элементаў. Паўтарыце спробу.</item>
+        <item quantity="one">Немагчыма сінхранізаваць %d элемент. Паўтарыце спробу.</item>
+        <item quantity="few">Немагчыма сінхранізаваць %d элемента. Паўтарыце спробу.</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_sharer_upload_error">
+        <item quantity="other">Немагчыма сінхранізаваць %d элементаў. Ва ўладальніка гэтага альбома няма воблачнага сховішча.</item>
+        <item quantity="one">Немагчыма сінхранізаваць %d элемент. Ва ўладальніка гэтага альбома няма воблачнага сховішча.</item>
+        <item quantity="few">Немагчыма сінхранізаваць %d элемента. Ва ўладальніка гэтага альбома няма воблачнага сховішча.</item>
+    </plurals>
 </resources>

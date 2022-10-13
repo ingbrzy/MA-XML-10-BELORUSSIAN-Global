@@ -1849,7 +1849,7 @@
   <string name="preferred_network_type_pref_entries_4g_preferred_cdma">Пераважна 4G (CDMA)</string>
   <string name="preferred_network_type_pref_entries_4g_preferred_custom">Пераважна 4G</string>
   <string name="preferred_network_type_pref_entries_4g_preferred_lm_cr">LTE/WCDMA/GSM аўта</string>
-  <string name="preferred_network_type_pref_entries_4g_preferred_mx_at">4G/3G/2G (4G пераважна)</string>
+  <string name="preferred_network_type_pref_entries_4g_preferred_mx_at">4G/3G/2G аўта</string>
   <string name="preferred_network_type_pref_entries_4g_preferred_uk_ee">4G/3G/2G аўта</string>
   <string name="preferred_network_type_pref_entries_4g_preferred_vd">4G/3G/2G аўта</string>
   <string name="preferred_network_type_pref_entries_4g_preferred_za_mt">2G/3G/4G аўта</string>
@@ -1857,7 +1857,7 @@
   <string name="preferred_network_type_pref_entries_5g_preferred">Пераважна 5G</string>
   <string name="preferred_network_type_pref_entries_5g_preferred_jp_sb">5G/4G/3G/GSM</string>
   <string name="preferred_network_type_pref_entries_5g_preferred_lm_cr">5G/LTE/WCDMA/GSM аўта</string>
-  <string name="preferred_network_type_pref_entries_5g_preferred_mx_at">5G/4G/3G/2G (5G/4G пераважна)</string>
+  <string name="preferred_network_type_pref_entries_5g_preferred_mx_at">5G/4G/3G/2G аўта</string>
   <string name="preferred_network_type_pref_entries_5g_preferred_uk_ee">5G/4G/3G/2G аўта</string>
   <string name="preferred_network_type_pref_entries_5g_preferred_vd">5G/4G/3G/2G аўта</string>
   <string name="preferred_network_type_pref_entries_5g_preferred_za_mt">2G/3G/4G/5G аўта</string>
@@ -2814,4 +2814,5 @@
   <string name="default_voice_title">Выклікі</string>
   <string name="pref_sim_item_no_default">Не ўстаноўлена</string>
   <string name="sim_select_dialog_title">Абярыце SIM-карту</string>
+  <string name="speed_limit_card_toast">Вы выдаткавалі дадзеныя на поўнай хуткасці. Цяпер хуткасць злучэння будзе абмежаваная.</string>
 </resources>

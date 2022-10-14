@@ -1704,4 +1704,5 @@
   <string name="ucrop_rotate">Паварот</string>
   <string name="ucrop_scale">Маштаб</string>
   <string name="tips_click_here_to_continue">Націсніце, каб аднавіць прайграванне</string>
+  <string name="passport_dialog_captcha_title">Код</string>
 </resources>

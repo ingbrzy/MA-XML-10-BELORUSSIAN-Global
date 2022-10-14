@@ -430,4 +430,34 @@
     <item quantity="few">Вы падпісаліся і зарабілі %d бала.</item>
     <item quantity="many">Вы падпісаліся і зарабілі %d балаў.</item>
   </plurals>
+  <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Пераматаць уперад на %d секунды</item>
+        <item quantity="one">Пераматаць уперад на %d секунду</item>
+        <item quantity="few">Пераматаць уперад на %d секунды</item>
+        <item quantity="many">Пераматаць уперад на %d секунд</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Пераматаць назад на %d секунды</item>
+        <item quantity="one">Пераматаць назад на %d секунду</item>
+        <item quantity="few">Пераматаць назад на %d секунды</item>
+        <item quantity="many">Пераматаць назад на %d секунд</item>
+    </plurals>
+    <plurals name="fcmpts_dialog_one">
+        <item quantity="other">Паглядзіце яшчэ %s секунд відэа, каб зарабіць балы і выкарыстоўваць ўзнагароды</item>
+        <item quantity="one">Паглядзіце яшчэ %s секунду відэа, каб зарабіць балы і выкарыстоўваць ўзнагароды</item>
+        <item quantity="few">Паглядзіце яшчэ %s секунды відэа, каб зарабіць балы і выкарыстоўваць ўзнагароды</item>
+        <item quantity="many">Паглядзіце яшчэ %s секунд відэа, каб зарабіць балы і выкарыстоўваць ўзнагароды</item>
+    </plurals>
+    <plurals name="music_playlist_title_count">
+        <item quantity="other">%d песень</item>
+        <item quantity="one">%d песня</item>
+        <item quantity="few">%d песні</item>
+        <item quantity="many">%d песень</item>
+    </plurals>
+    <plurals name="v_confirm_hide_videos_new">
+        <item quantity="other">Схаваць %d абраных файлаў?</item>
+        <item quantity="one">Схаваць %d абраны файл?</item>
+        <item quantity="few">Схаваць %d абраных файла?</item>
+        <item quantity="many">Схаваць %d абраных файлаў?</item>
+    </plurals>
 </resources>

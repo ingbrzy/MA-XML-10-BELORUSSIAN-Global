@@ -118,7 +118,7 @@
   <string name="cast_casting_to_device">Трансляцыя на %1$s</string>
   <string name="cast_closed_captions">Схаваныя цітры</string>
   <string name="cast_closed_captions_unavailable">Схаваныя цітры недаступныя</string>
-  <string name="cast_connecting_to_device">Падключэнне да прылады %1$s</string>
+  <string name="cast_connecting_to_device">Падлучэнне да прылады %1$s</string>
   <string name="cast_disconnect">Адключыць</string>
   <string name="cast_expanded_controller_ad_image_description">Відарыс, які адлюстроўваецца ў той час, калі на прыёмніку Cast прайграецца рэклама</string>
   <string name="cast_expanded_controller_ad_in_progress">Паказваецца рэклама…</string>
@@ -133,8 +133,8 @@
   <string name="cast_forward_30">Трыццаць секунд наперад</string>
   <string name="cast_live_label">У ЖЫВЫМ ЭФІРЫ</string>
   <string name="cast_mute">Адключыць гук</string>
-  <string name="cast_notification_connected_message">Падключэнне да %1$s выканана</string>
-  <string name="cast_notification_connecting_message">Падключэнне да %1$s</string>
+  <string name="cast_notification_connected_message">Падлучэнне да %1$s выканана</string>
+  <string name="cast_notification_connecting_message">Падлучэнне да %1$s</string>
   <string name="cast_notification_default_channel_name">Cast</string>
   <string name="cast_notification_disconnect">Адключыць</string>
   <string name="cast_pause">Паўза</string>
@@ -277,7 +277,7 @@
   <string name="dialog_privacy_revoke_cancel">Скасаваць</string>
   <string name="dialog_privacy_revoke_count_down">Адклікаць (%1$d)</string>
   <string name="dialog_privacy_revoke_description">Вы збіраецеся адклікаць сваю згоду з Палітыкай канфідэнцыйнасці Mi Відэа. Мы спынім збор вашай асабістай інфармацыі. Ужо сабраная і захаваная асабістая інфармацыя будзе выдалена на працягу вызначанага перыяду. Ваш водгук згоды з Палітыкай прыватнасцi будзе расцэнены як адмова прымаць анлайн-паслугі на аснове сабранай асабістай інфармацыі.</string>
-  <string name="dialog_privacy_revoke_fail">Ваша прылада павінна падключыцца да сеткі, каб вы змаглі адклікаць згоду. Праверце налады сеткі і паспрабуйце яшчэ раз.</string>
+  <string name="dialog_privacy_revoke_fail">Ваша прылада павінна падлучыцца да сеткі, каб вы змаглі адклікаць згоду. Праверце налады сеткі і паспрабуйце яшчэ раз.</string>
   <string name="dialog_privacy_revoke_ok">Адклікаць</string>
   <string name="dialog_privacy_revoke_success">Паспяхова адкліканая</string>
   <string name="dialog_privacy_revoking">Адкліканне згоды…</string>
@@ -468,7 +468,7 @@
   <string name="galleryplus_gallery_view_tags">Паказаць пазнакі</string>
   <string name="galleryplus_is_higher_definition">HD прагляд</string>
   <string name="galleryplus_network_connect_check">Не атрымалася падлучыцца да сеткі</string>
-  <string name="galleryplus_network_connect_confirm">Падключыцеся да Wi-Fi або уключыце мабільны інтэрнэт у наладах сеткі.</string>
+  <string name="galleryplus_network_connect_confirm">Падлучыцеся да Wi-Fi або уключыце мабільны інтэрнэт у наладах сеткі.</string>
   <string name="galleryplus_network_error">Не атрымалася падлучыцца да сеткі</string>
   <string name="galleryplus_network_not_wifi">Выкарыстанне мабільнага інтэрнэту для трансляцыі відэа можа прывесці да спагнання дадатковых збораў аператарам</string>
   <string name="galleryplus_online_cta">Mi Відэа трэба падлучыцца да Інтэрнэту, каб працаваць звычайна. Дазволіць?</string>
@@ -1658,10 +1658,10 @@
   <string name="offline_notification_text">Націсніце, каб адкрыць рэкламу</string>
   <string name="offline_notification_title">Праглядзіце рэкламу, захаваную вамі, калі вы былі па-за сеткай</string>
   <string name="offline_opt_in_confirm">ОК</string>
-  <string name="offline_opt_in_confirmation">Вы атрымаеце апавяшчэнне са спасылкай, калі зноў падключыцеся да інтэрнэту</string>
+  <string name="offline_opt_in_confirmation">Вы атрымаеце апавяшчэнне са спасылкай, калі зноў падлучыцеся да інтэрнэту</string>
   <string name="offline_opt_in_decline">Не, дзякуй</string>
   <string name="offline_opt_in_message">Мы адправім вам апавяшчэнне са спасылкай на сайт рэкламадаўца.</string>
-  <string name="offline_opt_in_title">Адкрыйце рэкламу, калі зноў падключыцеся да інтэрнэту.</string>
+  <string name="offline_opt_in_title">Адкрыйце рэкламу, калі зноў падлучыцеся да інтэрнэту.</string>
   <string name="plus_gallery_files">Файлы</string>
   <string name="sign_in_google_account">Увайсці праз Google</string>
   <string name="sign_in_google_account_hint">Увайдзіце ў акаўнт Google, каб убачыць больш відэа, якія могуць вам спадабацца</string>
@@ -1992,12 +1992,17 @@
   <string name="incentive_toast_subscribe_success_new">Вы паспяхова падпісаліся</string>
   <string name="incentive_ui_tab_earn_credits">Балы</string>
   <string name="notification_type_channel_music">Прайграванне музыкі</string>
-  <string name="chromecast_connecting">Злучэнне з Chromecast…</string>
+  <string name="chromecast_connecting">Падлучэнне да Chromecast…</string>
   <string name="chromecast_playing">Вы глядзіце гэта відэа праз Chromecast</string>
+  <string name="inline_mute_click_tip">Націсніце, каб уключыць гук</string>
+  <string name="local_play_end_drag_up_guide">Націсніце або ссуньце ўверх, каб прайграць кароткае відэа</string>
+  <string name="lv_airkan_device_my_device">Мая прылада</string>
+  <string name="mr_dialog_default_group_name">Група</string>
+  <string name="mr_dialog_groupable_header">Дадаць прыладу</string>
+  <string name="mr_dialog_transferable_header">Прайграць у групе</string>
   <string name="incentive_exchange_details_dotask">Зарабіце балы</string>
   <string name="inline_auto_play_tip">"Выкарыстоўваецца мабільны інтэрнэт… "</string>
   <string name="inline_auto_play_to_set">Налады</string>
-  <string name="inline_mute_click_tip">Націсніце, каб уключыць гук</string>
   <string name="live_tv_dialog_item_passed">Гэтая перадача скончылася. Не прапусціце яе ў наступны раз!</string>
   <string name="live_tv_dialog_subscirbe_button">Падпісацца</string>
   <string name="live_tv_dialog_subscirbe_tips">Падпішыцеся на %1$s, каб не прапусціць новыя серыі</string>
@@ -2005,23 +2010,59 @@
   <string name="local_adjust_zoom_mode_hint">Прагляд у фармаце %s</string>
   <string name="local_crop_zoom_mode">Выява абрэзана</string>
   <string name="local_play_end_close_tip">Сёння рэкамендацыі больш не будуць паказвацца</string>
-  <string name="local_play_end_drag_up_guide">Націсніце або ссуньце ўверх, каб прайграць кароткія відэа</string>
   <string name="local_stretch_zoom_mode">Выява расцягнута</string>
   <string name="local_zoom_adjust_button">Пераключыць рэжым адлюстравання</string>
-  <string name="lv_airkan_device_my_device">Мая прылада</string>
   <string name="lv_subtitle_offset_add_dot5s_new">+%.1f сек.</string>
   <string name="lv_subtitle_offset_sub_dot5s_new">-%.1f сек.</string>
-  <string name="mr_dialog_default_group_name">Група</string>
-  <string name="mr_dialog_groupable_header">Дадаць прыладу</string>
-  <string name="mr_dialog_transferable_header">Прайграць на групе прылад</string>
   <string name="popup_recommend_text">Адкрыйце для сябе іншыя відэа, якія вам спадабаюцца</string>
   <string name="settings_inline_auto_play">Заўсёды ўкл. аўтапрайграванне</string>
   <string name="settings_inline_auto_play_close">Аўтапрайграванне выкл.</string>
-  <string name="settings_inline_auto_play_tip_close_forever">Заўсёды выключана</string>
+  <string name="settings_inline_auto_play_tip_close_forever">Заўсёды адключана</string>
   <string name="settings_inline_auto_play_tip_close_month">Выкл. на месяц</string>
   <string name="settings_inline_auto_play_tip_open">Укл.</string>
   <string name="settings_inline_auto_play_tip_title">Папярэджанне аб выкарыстанні мабільнага інтэрнэту</string>
   <string name="settings_inline_auto_play_title">Аўтапрайграванне</string>
   <string name="settings_inline_auto_play_wify">Укл. аўтапрайграванне толькі па Wi-Fi</string>
   <string name="settings_inline_title">Аўтапрайграванне на галоўнай старонцы</string>
+  <string name="copy_toast_msg">Спасылка скапіявана ў буфер абмену</string>
+  <string name="exo_controls_cc_disabled_description">Уключыць субцітры</string>
+  <string name="exo_controls_cc_enabled_description">Выключыць субцітры</string>
+  <string name="exo_controls_fullscreen_enter_description">Уключыць поўнаэкранны рэжым</string>
+  <string name="exo_controls_fullscreen_exit_description">Выключыць поўнаэкранны рэжым</string>
+  <string name="exo_controls_hide">Схаваць элементы кіравання прайгравальнікам</string>
+  <string name="exo_controls_overflow_hide_description">Схаваць дадатковыя налады</string>
+  <string name="exo_controls_overflow_show_description">Паказаць дадатковыя налады</string>
+  <string name="exo_controls_playback_speed">Хуткасць</string>
+  <string name="exo_controls_playback_speed_normal">Звычайная</string>
+  <string name="exo_controls_seek_bar_description">Ход прайгравання</string>
+  <string name="exo_controls_settings_description">Налады</string>
+  <string name="exo_controls_show">Паказаць элементы кіравання прайгравальнікам</string>
+  <string name="exo_controls_shuffle_off_description">Перамешванне выключана</string>
+  <string name="exo_controls_shuffle_on_description">Перамешванне ўключана</string>
+  <string name="exo_controls_vr_description">VR-рэжым</string>
+  <string name="exo_download_paused">Спампоўкі прыпынены</string>
+  <string name="exo_download_paused_for_network">Спампоўкі чакаюць падлучэння да сеткі</string>
+  <string name="exo_download_paused_for_wifi">Спампоўкі чакаюць падлучэння да Wi-Fi</string>
+  <string name="exo_track_role_alternate">Альтэрнатыўны запіс</string>
+  <string name="exo_track_role_closed_captions">Цітры</string>
+  <string name="exo_track_role_commentary">Каментарыі</string>
+  <string name="exo_track_role_supplementary">Дадатковы запіс</string>
+  <string name="fallback_menu_item_copy_link">Скапіраваць спасылку</string>
+  <string name="fallback_menu_item_open_in_browser">Адкрыць у браўзеры</string>
+  <string name="fallback_menu_item_share_link">Абагуліць спасылку</string>
+  <string name="fast_channel_popular">Папулярныя каналы</string>
+  <string name="fcmpts_dialog_continue">Глядзець</string>
+  <string name="fcmpts_dialog_not_interested">Не, дзякуй</string>
+  <string name="fcmpts_dialog_two" formatted="false">Паглядзіце яшчэ %d секунд(-ы) відэа %d, каб атрымаць купон Mi Store</string>
+  <string name="fcmpts_popup_final">Паспяхова атрымана! Націсніце, каб выкарыстоўваць узнагароды.</string>
+  <string name="fcmpts_popup_final_redeem">Выкарыстаць</string>
+  <string name="fcmpts_popup_four" formatted="false">Паспяхова атрымана! Паглядзіце яшчэ %d секунд(-ы) відэа %d, каб атрымаць купон Mi Store.</string>
+  <string name="fcmpts_popup_one" formatted="false">Паглядзіце сёння %d відэа, каб атрымаць купон Mi Store на %d бала(-оў)</string>
+  <string name="fcmpts_popup_one_cts">Глядзець</string>
+  <string name="fcmpts_popup_three" formatted="false">Прагледжана %d секунд(-ы). Вы зарабілі %d бала(-ў)!</string>
+  <string name="fcmpts_popup_three_claim">Атрымаць</string>
+  <string name="fcmpts_popup_three_login_claim">Увайсці</string>
+  <string name="fcmpts_popup_two" formatted="false">Паглядзіце %d секунд(-ы) гэтага відэа, каб атрымаць %d бала(-аў)</string>
+  <string name="plus_sort_type_duration">Даўжыня</string>
+  <string name="recommend_slide_to_more">Правядзіце, каб паглядзець яшчэ</string>
 </resources>

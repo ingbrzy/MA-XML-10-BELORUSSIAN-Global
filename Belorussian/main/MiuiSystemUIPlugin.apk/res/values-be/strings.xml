@@ -522,4 +522,6 @@
   <string name="controls_offline_device_toast">Гэтая прылада не ў сетцы. Націсніце і ўтрымлівайце, каб адкрыць праграму.</string>
   <string name="controls_unsupport_toggle_toast">Немагчыма кіраваць гэтай прыладай адсюль. Націсніце і ўтрымлівайце, каб адкрыць праграму.</string>
   <string name="offline">Не ў сетцы</string>
+  <string name="accessibility_desc_add">Дадаць</string>
+  <string name="accessibility_desc_remove">Выдаліць</string>
 </resources>

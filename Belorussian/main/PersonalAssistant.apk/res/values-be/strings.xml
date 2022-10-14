@@ -861,4 +861,7 @@
   <string name="pa_filter_accessibility_filter_popup_item_selected">Націсніце двойчы, каб выбраць %s.</string>
   <string name="pa_filter_accessibility_filter_popup_item_unselected">%s. Націсніце двойчы, каб выбраць.</string>
   <string name="pa_setting_perm_empty">Тут яшчэ нічога няма</string>
+  <string name="pa_open_personal_assistant_dialog_desc">Калі вы адключыце Стужку віджэтаў, вы не зможаце выкарыстоўваць віджэты ці атрымліваць да іх доступ, праводзячы пальцам направа на працоўным стале. Усё роўна адключыць?</string>
+  <string name="pa_open_personal_assistant_dialog_title">Адключыць Стужку віджэтаў?</string>
+  <string name="pa_setting_simplify_title_bar">Стужка віджэтаў</string>
 </resources>

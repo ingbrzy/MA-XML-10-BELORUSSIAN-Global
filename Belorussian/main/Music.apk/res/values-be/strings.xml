@@ -1703,4 +1703,5 @@
   <string name="ucrop_mutate_exception_hint">Перавызначце каляровы рэсурс (ucrop_color_toolbar_widget) у праграме, каб яна працавала на прыладах pre-L</string>
   <string name="ucrop_rotate">Паварот</string>
   <string name="ucrop_scale">Маштаб</string>
+  <string name="tips_click_here_to_continue">Націсніце, каб аднавіць прайграванне</string>
 </resources>

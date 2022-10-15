@@ -1026,4 +1026,9 @@
   <string name="widget_all_notes_name">Усе нататкі</string>
   <string name="widget_all_todo_name">Усе задачы</string>
   <string name="widget_click_check">Націснце для прагляду</string>
+  <string name="access_photos_and_videos">Доступ да фота і відэа</string>
+  <string name="permission_photos_desc">Для дадання выяў у нататкі</string>
+  <string name="permission_photos_desc_pad">Для дадання выяў у нататкі</string>
+  <string name="send_notifications_for_reminder">Для адпраўкі напамінкаў</string>
+  <string name="toast_refuse_to_use_photos_in_excerpt">Каб дадаваць выявы ў нататкі, дазвольце гэтай праграме доступ да фота</string>
 </resources>

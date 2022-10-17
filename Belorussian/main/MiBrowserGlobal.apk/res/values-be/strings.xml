@@ -2505,4 +2505,21 @@
   <string name="web_tag_tips">Націсніце тут, каб наведаць старонку</string>
   <string name="web_tag_title">Мініяцюры вэб-старонак</string>
   <string name="branch_trending_google_news">Навіны Google</string>
+  <string name="back">Назад</string>
+  <string name="error_contert_failed">Фармат дакумента не падтрымліваецца, для прагляду выкарыстоўвайце іншую праграму</string>
+  <string name="error_invalid_file_name">Імя файла не можа быць пустым</string>
+  <string name="error_invalid_file_path">Памылка шляху да файла:</string>
+  <string name="error_out_of_memeory">Недастаткова памяці для адкрыцця бягучага дакумента</string>
+  <string name="files_stored_in_the_phone">Файлы, якія захоўваюцца на гэтай прыладзе</string>
+  <string name="local_file">Лакальныя файлы</string>
+  <string name="more_convenient_features_and_content">Паглядзіце, якія новыя інструменты і кантэнт можа прапанаваць Браўзер!</string>
+  <string name="no_other_app">У сістэме няма іншых праграм для прагляду</string>
+  <string name="plguin_more_open_dialog_title">Выкарыстоўваць іншы спосаб адкрыцця</string>
+  <string name="quick_access_to_common_functions">Хуткі доступ да вашых пажаданых функцый</string>
+  <string name="read_failed">Не атрымалася адкрыць дакумент у іншай праграме</string>
+  <string name="settings_search_online_apps">Крамы праграм</string>
+  <string name="settings_search_online_apps_desc">Кантэнт з крам праграм</string>
+  <string name="share_dialog_title">Падзяліцца</string>
+  <string name="trash_cleaner_unit">Мб</string>
+  <string name="web_video_float_drag_msg">Пацягніце, каб змяніць памер</string>
 </resources>

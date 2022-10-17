@@ -283,4 +283,9 @@
     <item quantity="few">%1$s | %2$d аб\'екты</item>
     <item quantity="many">%1$s | %2$d аб\'ектаў</item>
   </plurals>
+  <plurals name="pay_mibi">
+        <item quantity="other">Заплаціць %1$s Mi манет</item>
+        <item quantity="one">Заплаціць %1$s Mi манету</item>
+        <item quantity="few">Заплаціць %1$s Mi манеты</item>
+    </plurals>
 </resources>

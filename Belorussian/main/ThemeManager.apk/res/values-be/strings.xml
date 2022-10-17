@@ -1589,4 +1589,7 @@
   <string name="apply_wallpaper_warning_use_super_wallpaper">У цяперашні час вы выкарыстоўваеце супершпалеры. Калі вы вылучыце новыя шпалеры, яны будуць ужытыя як да працоўнага стала, так і да экрана блакавання. Ужыць?</string>
   <string name="personalize_second_space_not_support_buy_widget">Немагчыма набыць віджэты ў другой прасторы</string>
   <string name="use_now">Дадаць</string>
+  <string name="component_title_widget_suit">Віджэты</string>
+  <string name="paying">Купля…</string>
+  <string name="search_view_description_clear">Ачысціць пошук</string>
 </resources>

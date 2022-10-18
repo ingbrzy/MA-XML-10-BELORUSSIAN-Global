@@ -285,4 +285,6 @@
   <string name="wednesday_short">Сер</string>
   <string name="wednesday_shortest">С</string>
   <string name="yesterday">Учора</string>
+  <string name="disable_description_content">Апавяшчэнні — гэта сістэмная праграма. Калі вы адключыце яе, вы не зможаце кіраваць апавяшчэннямі праграм. Усё роўна адключыць?</string>
+  <string name="disable_description_title">Адключыць сістэмную праграму?</string>
 </resources>

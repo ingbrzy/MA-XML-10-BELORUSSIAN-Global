@@ -437,5 +437,7 @@
   <string name="material_timepicker_select_time">Усталюйце час</string>
   <string name="material_timepicker_text_input_mode_description">Увод часу ў тэкставым рэжыме</string>
   <string name="super_wallpaper_date_lunar">YY\nN e</string>
-   <string name="label">Пазнака</string>
+  <string name="label">Пазнака</string>
+  <string name="settings_view_btn_check_off">Выкл.</string>
+  <string name="settings_view_btn_check_on">Укл.</string>
 </resources>

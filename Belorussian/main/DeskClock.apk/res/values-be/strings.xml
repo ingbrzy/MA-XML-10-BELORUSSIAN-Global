@@ -331,7 +331,7 @@
   <string name="stat_repeat_weekdays">Па буднях</string>
   <string name="stat_repeat_weekends">Па выхадных</string>
   <string name="status_bar_clock_date_time_format">H:mm:ss</string>
-  <string name="status_bar_clock_date_time_format_12">h:mm:ss aa</string>
+  <string name="status_bar_clock_date_time_format_12">h:mm:ss</string>
   <string name="status_bar_clock_date_time_format_seconds_12">h:mm:ss</string>
   <string name="stopwatch_lap_empty_text">Няма кругоў</string>
   <string name="stopwatch_title">Секундамер</string>

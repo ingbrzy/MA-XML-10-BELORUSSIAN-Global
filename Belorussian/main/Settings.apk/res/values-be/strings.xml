@@ -10607,7 +10607,7 @@ ID:%s
   <string name="miheadset_open_closeAnc">Уключэнне/выключэнне шумапрыглушэння</string>
   <string name="accept_new_connection">Дазволіць падлучэнне да новых прылад</string>
   <string name="accept_new_connection_detail">Новыя падлучэнні былі абмежаваныя ў Цэнтры кіравання</string>
-  <string name="bt_always_show_icon">Заўсёды паказваць абразок у радку стану</string>
+  <string name="bt_always_show_icon">Не паказваць абразок Bluetooth у радку стану</string>
   <string name="external_auto_rotate_title">Заблакаваць арыентацыю вонкавага экрана</string>
   <string name="internal_auto_rotate_title">Заблакаваць арыентацыю ўнутранага экрана</string>
   <string name="close_lid_display_settings_title">Пасля складання</string>
@@ -10641,4 +10641,5 @@ ID:%s
   <string name="headset_find_right_tip">Падобна на тое, што правы навушнік у футарале ці ў вуху</string>
   <string name="miheadset_connect_device_hfp">Падлучыце навушнікі і пераканайцеся, што прайграванне гуку падчас тэлефонных выклікаў дазволена</string>
   <string name="miheadset_firmware_version_update">Абнавіць прашыўку</string>
+  <string name="bt_always_show_icon_summary">Паказваць абразок Bluetooth толькі ў панэлі апавяшчэнняў і цэнтры кіравання</string>
 </resources>

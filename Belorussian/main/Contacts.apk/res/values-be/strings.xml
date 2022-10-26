@@ -1410,4 +1410,8 @@
   <string name="presentation_unknown">Невядомы нумар</string>
   <string name="view_more_call_logs">Больш падрабязна</string>
   <string name="callrecordview_menu_xiaoaiphone">Асістэнт выклікаў Mi ШІ</string>
+  <string name="notification_missedCallTitle">Прапушчаны выклік</string>
+  <string name="notification_missedCall_call_back">Ператэлефанаваць</string>
+  <string name="notification_missedCall_message">Адправіць SMS</string>
+  <string name="notification_missedCallsTitle">Прапушчаныя выклікі</string>
 </resources>

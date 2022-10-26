@@ -291,4 +291,9 @@
         <item quantity="one">Абраны %d элемент</item>
         <item quantity="few">Абрана %d элемента</item>
    </plurals>
+   <plurals name="notification_missedCallsMsg">
+        <item quantity="other">%d прапушчаных выклікаў</item>
+        <item quantity="one">%d прапушчаны выклік</item>
+        <item quantity="few">%d прапушчаных выкліка</item>
+    </plurals>
 </resources>

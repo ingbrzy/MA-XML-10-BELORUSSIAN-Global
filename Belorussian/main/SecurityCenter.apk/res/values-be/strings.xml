@@ -6352,11 +6352,11 @@
   <string name="power_5g_popups_content">Сеткі 5G забяспечваюць высокую хуткасць злучэння і меншую затрымку.</string>
   <string name="power_5g_popups_title">Выкарыстоўваць сеткі 5G</string>
   <string name="vtb_ai_subtitle">Субтытры</string>
-  <string name="confirm_package_type">Пацвердзіце тып пакета</string>
+  <string name="confirm_package_type">Пацвердзіце свой тарыфны план</string>
   <string name="app_manager_restricted_settings_title">Дазволіць абмежаваныя налады</string>
   <string name="gb_barrage_chat_pre_desc">Папярэдні прагляд</string>
   <string name="gb_barrage_chat_text_speed_moderate">Сярэдняя</string>
-  <string name="power_dialog_performance_mode_checkbox">Пераключыцца на частату абнаўлення 120 Гц</string>
+  <string name="power_dialog_performance_mode_checkbox">Пераключыцца на частату абнаўлення %d Гц</string>
   <string name="ew_monitor_bad_request_tips">Бяспека не можа атрымаць доступ да інфармацыі аб прыладзе</string>
   <string name="exo_download_paused">Спампоўкі прыпыненыя</string>
   <string name="exo_download_paused_for_network">Спампоўкі ў чаканні падключэння да сеткі</string>
@@ -6383,4 +6383,7 @@
   <string name="terminal_privacy_ability_voice_summary">Галасавыя каманды Mi ШІ і разумныя субтытры</string>
   <string name="terminal_privacy_instruction">Абарона канфідэнцыйнасці на прыладзе ўключае функцыі, якія гарантуюць, што ваша асабістая інфармацыя будзе захоўвацца на гэтай прыладзе, а не загружацца ў воблака</string>
   <string name="terminal_privacy_summary">Апрацоўваць асабістую інфармацыю на гэтай прыладзе</string>
+  <string name="gamebox_game_center_app_not_find">Спачатку ўсталюеце гульні</string>
+  <string name="gb_barrage_dnd_conflict_toast">Каб выкарыстоўваць каментары на экране, спачатку адключыце функцыю \"Не турбаваць\"</string>
+  <string name="gb_dnd_barrage_conflict_toast">Вы не зможаце выкарыстоўваць каментары на экране, калі ўключаны рэжым \"Не турбаваць\"</string>
 </resources>

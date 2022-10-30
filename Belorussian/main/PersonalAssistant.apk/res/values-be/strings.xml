@@ -864,4 +864,20 @@
   <string name="pa_open_personal_assistant_dialog_desc">Калі вы адключыце Стужку віджэтаў, вы не зможаце выкарыстоўваць віджэты ці атрымліваць да іх доступ, праводзячы пальцам направа на працоўным стале. Усё роўна адключыць?</string>
   <string name="pa_open_personal_assistant_dialog_title">Адключыць Стужку віджэтаў?</string>
   <string name="pa_setting_simplify_title_bar">Стужка віджэтаў</string>
+  <string name="pa_accessibility_picker_bigBanner_widget_collection">Калекцыі віджэтаў</string>
+  <string name="pa_accessibility_picker_home_maml_slected">Абрана: %1$s. Памер: %2$s. Націсніце двойчы, каб прагледзець старонку звестак. Двойчы націсніце і ўтрымлівайце, каб перацягнуць.</string>
+  <string name="pa_accessibility_picker_home_widget_replace_card_content_desc_status" formatted="false">%s. Статус усталёўкі: %3$s. Кнопка \"Пераключыць\" знаходзіцца ніжэй. Націсніце двойчы для пераключэння.</string>
+  <string name="pa_accessibility_picker_status_installed">Усталяваны</string>
+  <string name="pa_accessibility_picker_status_uninstalled">Не ўсталяваны</string>
+  <string name="pa_accessibility_picker_status_unkonw">Невядома</string>
+  <string name="pa_accessibility_picker_status_upgraded">Чаканне абнаўлення</string>
+  <string name="pa_accessibility_widget_slected_status">Абрана: %1$s. Статус усталёўкі: %2$s.</string>
+  <string name="pa_setting_privacy_revoke_cta_negative">Вы можаце адклікаць згоду праз дзесяць секунд</string>
+  <string name="pa_world_cup_widget_authority_tip">Надаць дазволы на прагляд інфармацыі аб матчах чэмпіянату свету па футболе.</string>
+  <string name="pa_world_cup_widget_authorize">Надаць</string>
+  <string name="pa_world_cup_widget_operation_fail_toast">Немагчыма выканаць дзеянне. Пачакайце хвіліну ці дзве і паспрабуйце яшчэ раз.</string>
+  <string name="pa_world_cup_widget_request_error_tip">Адбылася памылка сеткі</string>
+  <string name="pa_world_cup_widget_request_retry">Паспрабаваць яшчэ раз</string>
+  <string name="pa_world_cup_widget_reserve_success_toast">Вы атрымаеце напамін перад пачаткам матчу</string>
+  <string name="pa_world_cup_widget_title">Чэмпіянат свету па футболе</string>
 </resources>

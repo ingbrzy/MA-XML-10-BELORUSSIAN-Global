@@ -2522,4 +2522,8 @@
   <string name="share_dialog_title">Падзяліцца</string>
   <string name="trash_cleaner_unit">Мб</string>
   <string name="web_video_float_drag_msg">Пацягніце, каб змяніць памер</string>
+  <string name="local_video_player_label">Відэаплэер (Mi Браўзер)</string>
+  <string name="search_card_online_rec_app">Крамы праграм</string>
+  <string name="search_card_online_rec_app_install">Усталяваць</string>
+  <string name="search_card_online_rec_app_open">Адкрыць</string>
 </resources>

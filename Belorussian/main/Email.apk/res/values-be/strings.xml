@@ -1848,4 +1848,5 @@
   <string name="close_tips">Закрыць напамін</string>
   <string name="folder_junk_name_en5">Спам</string>
   <string name="message_invite_calendar_download_prompt">Спампуйце Каляндар, каб выкарыстоўваць гэтую функцыю</string>
+  <string name="translated_text_too_long">Змест перакладу занадта доўгі, паменшыце змест і паспрабуйце яшчэ раз.</string>
 </resources>

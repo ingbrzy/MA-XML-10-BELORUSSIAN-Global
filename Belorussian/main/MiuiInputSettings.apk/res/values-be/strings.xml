@@ -30,8 +30,8 @@
   <string name="actionbar_button_up_description">Назад</string>
   <string name="advanced_gesture">Карыстальніцкія жэсты</string>
   <string name="afternoon">Поўдзень</string>
-  <string name="ai_button_title">Кнопка Mi AI</string>
-  <string name="ai_button_title_global">Кнопка AI</string>
+  <string name="ai_button_title">Кнопка Mi ШI</string>
+  <string name="ai_button_title_global">Кнопка ШI</string>
   <string name="am">ДП</string>
   <string name="app_switch_key">Апошнія</string>
   <string name="auto_disable_screenbuttons_ask">Пытаць перад адключэннем</string>
@@ -196,10 +196,10 @@
   <string name="knock_edge_area_invalid">Гэты жэст не працуе побач з бакамі экрана</string>
   <string name="knock_guide_dialog_title">Выберыце дзеянне для гэтага жэсту. Вы можаце змяніць яго пазней у раздзеле \"Налады &gt; Дадатковыя налады &gt; Ярлыкі кнопак\".</string>
   <string name="knock_guide_drive_desc">Рабіць здымкі экрана за рулём</string>
-  <string name="knock_guide_launch_desc">Актываваць Mi AI, калі прылада ляжыць на стале</string>
+  <string name="knock_guide_launch_desc">Актываваць Mi ШI, калі прылада ляжыць на стале</string>
   <string name="knock_guide_set_screenshot">Здымак экрана</string>
   <string name="knock_guide_set_voiceassist">Mi ШI</string>
-  <string name="knock_guide_sub_title">Вы можаце актываваць Mi AI або зрабіць здымак экрана пры дапамозе пастуквання па экране костачкай пальца</string>
+  <string name="knock_guide_sub_title">Вы можаце актываваць Mi ШI або зрабіць здымак экрана пры дапамозе пастуквання па экране костачкай пальца</string>
   <string name="knock_guide_title">Падвойны націск косткай</string>
   <string name="knock_long_press_horizontal_slid">Націсніце і правядзіце гарызантальна пры дапамозе сустава пальца</string>
   <string name="knock_slide_shape">Намалюйце круг пры дапамозе сустава пальца</string>
@@ -226,7 +226,7 @@
   <string name="ks_screenshot">Скрыншот</string>
   <string name="ks_search_summary">Пошук</string>
   <string name="ks_title">Гарачыя кнопкі</string>
-  <string name="launch_ai_shortcut">Цэтлік Mi AI</string>
+  <string name="launch_ai_shortcut">Цэтлік Mi ШI</string>
   <string name="launch_alipay_health_code">Код здароўя Alipay</string>
   <string name="launch_alipay_health_code_auto_close">Ярлык кода здароўя Alipay больш не даступны. Вы можаце пераключыцца на іншы ярлык.</string>
   <string name="launch_alipay_payment_code">Код плацяжу Alipay</string>
@@ -554,4 +554,5 @@
   <string name="google_assistant_guide_ok">Усталяваць</string>
   <string name="google_assistant_guide_tip">*Націсніце і ўтрымлівайце кнопку сiлкавання на працягу %s сек., каб адкрыць меню выключэння.</string>
   <string name="google_assistant_guide_title">Google Асістэнт</string>
+  <string name="none">Няма</string>
 </resources>

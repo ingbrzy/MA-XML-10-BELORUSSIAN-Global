@@ -12,4 +12,12 @@
         <item>Збалансавана</item>
         <item>Высокая якасць</item>
     </string-array>
+    <string-array name="gb_gpu_custom_cut_texture">
+        <item>Збалансавана</item>
+        <item>Высокая якасць</item>
+    </string-array>
+    <string-array name="gb_gpu_custom_cut_texture_value">
+        <item>Збалансавана</item>
+        <item>Па змаўчанні</item>
+    </string-array>
 </resources>

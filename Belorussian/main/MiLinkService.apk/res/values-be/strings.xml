@@ -653,7 +653,7 @@
   <string name="miplay_accessibility_prev">Папярэдняя песня</string>
   <string name="miplay_accessibility_seekbar">Індыкатар выканання</string>
   <string name="miplay_accessibility_volume">Гучнасць</string>
-  <string name="miplay_detail_divider_title">Тэлевізары і калонкі</string>
+  <string name="miplay_detail_divider_title">Калонкі</string>
   <string name="miplay_detail_header_no_song">Няма гісторыі прайгравання</string>
   <string name="miplay_device_full_name">%2$s з %1$s</string>
   <string name="miplay_headset_lc3_hint">Адключыце LC3, каб мець магчымасць пераключаць аўдыёвыхад на гэтую прыладу</string>
@@ -855,4 +855,14 @@
   <string name="global_privacy_screencast">Падчас запісу або трансляцыі служба, якая прадстаўляе гэтую функцыю, можа захопліваць любую канфідэнцыйную інфармацыю, якая адлюстроўваецца на вашым экране або прайграваецца з вашай прылады, уключаючы канфідэнцыйную інфармацыю, такую ​​як аўдыё, паролі, інфармацыя аб аплаце, фота і паведамленні.</string>
   <string name="privacy_permission_screencast">Доступ да інфармацыі на экране</string>
   <string name="privacy_permission_screencast_desc">Падчас запісу або трансляцыі служба, якая прадстаўляе гэтую функцыю, можа захопліваць любую канфідэнцыйную інфармацыю, якая адлюстроўваецца на вашым экране або прайграваецца з вашай прылады, уключаючы канфідэнцыйную інфармацыю, такую ​​як аўдыё, паролі, інфармацыя аплаце, фота і паведамленні.</string>
+  <string name="err_toast_msg_try_switch_network">Падлучыце мабільную прыладу і кампутар да адной і той жа сеткі Wi-Fi</string>
+  <string name="err_toast_msg_upgrade_pc_version">Абнавіце MIUI+ на сваім кампутары, каб выкарыстоўваць гэтую функцыю</string>
+  <string name="privacy_permission_read_write_mobile_phone_storage">Доступ і захаванне элементаў у сховішча</string>
+  <string name="privacy_permission_read_write_mobile_phone_storage_desc">Для доступу і захавання файлаў і фота на гэтай прыладзе</string>
+  <string name="privacy_permission_sound_recording">Запіс гуку</string>
+  <string name="privacy_permission_sound_recording_desc">Для здзяйснення галасавых выклікаў ці запісу гуку</string>
+  <string name="upgrade_phone_device_tip">*Абнаўленні прадастаўляюцца тэлефонам Xiaomi</string>
+  <string name="upgrade_ver_can_upgrade_1to2s">Абнаўленне з версіі %1$s да %2$s</string>
+  <string name="upgrade_ver_latest1s">Бягучая версія (%1$s) актуальная</string>
+  <string name="upgrade_log_title">Часопіс змен</string>
 </resources>

@@ -76,7 +76,7 @@
   <string name="dialog_backup_password_cancel">Скасаваць</string>
   <string name="dialog_backup_password_change_machine_tips">Вы не зможаце перадаваць рэзервовыя копіі, абароненыя паролем. Перад выкарыстаннем Mi Трансфер адключыце абарону рэзервовых копій.</string>
   <string name="dialog_backup_password_verify">праверыць</string>
-  <string name="dialog_forbidden_use_tips">У цяперашні час Mi Трансфер не падтрымлівае перадачу дадзеных на планшэты або з іх.</string>
+  <string name="dialog_forbidden_use_tips">Выкарыстоўваемая вамі версія сістэмы састарэлая. Абнавіце прыладу, каб выкарыстоўваць Mi Трансфер.</string>
   <string name="dialog_rating_desc_ask">Як вы ставіцеся да Mi Трансфер?</string>
   <string name="dialog_rating_desc_less">У вас ёсць прапановы па паляпшэнню праграмы?</string>
   <string name="dialog_rating_desc_perfect">Дзякуй! Ацэніце Mi Трансфер у GetApps?</string>

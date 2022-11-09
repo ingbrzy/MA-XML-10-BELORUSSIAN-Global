@@ -166,7 +166,6 @@
   <string name="ppt_no_note">Няма каментарыяў</string>
   <string name="ppt_no_slide_for_play">Немагчыма паказаць файл, таму што ў ім няма слайдаў.</string>
   <string name="ppt_note_null">(Пуста)</string>
-  <string name="ppt_sharedplay">Meeting</string>
   <string name="ppt_sharedplay_by_miracast">Трансляцыя</string>
   <string name="ppt_sharedplay_device_searching">Ідзе пошук бачных прылад Miracast</string>
   <string name="ppt_sharedplay_miracast_device_list_title">Прылады</string>
@@ -455,11 +454,6 @@
   <string name="oppo_scre_dialog_title">Заява</string>
   <string name="oppo_search_next">Далей</string>
   <string name="oppo_search_prev">Назад</string>
-  <string name="phone_ss_sheet_op_extract_sheet">Выняць ліст</string>
-  <string name="phone_ss_sheet_op_merge_sheet">Аб\'яднаць лісты</string>
-  <string name="ppt_audio_cannot_find_external_audio">Немагчыма знайсці аўдыёфайл. Праверце, ці знаходзіцца ён у той жа тэчцы, што і дакумент.</string>
-  <string name="ppt_audio_cannot_play_online_audio">Анлайн-аўдыё ў цяперашні час не падтрымліваецца</string>
-  <string name="ppt_audio_extracting_audio_file">Разбор аўдыёфайла</string>
   <string name="ppt_play_pen">Пэндзаль</string>
   <string name="ppt_sharedplay">Сумеснае прайграванне</string>
 </resources>

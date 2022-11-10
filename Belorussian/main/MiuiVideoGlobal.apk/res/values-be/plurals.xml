@@ -460,4 +460,10 @@
         <item quantity="few">Схаваць %d абраных файла?</item>
         <item quantity="many">Схаваць %d абраных файлаў?</item>
     </plurals>
+    <plurals name="hint_local_guide_views">
+        <item quantity="other">%s праглядаў</item>
+        <item quantity="one">%s прагляд</item>
+        <item quantity="few">%s прагляда</item>
+        <item quantity="many">%s праглядаў</item>
+    </plurals>
 </resources>

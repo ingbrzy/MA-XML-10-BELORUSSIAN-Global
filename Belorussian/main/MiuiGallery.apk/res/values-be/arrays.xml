@@ -485,4 +485,8 @@
         <item>Зімовыя дні</item>
         <item>Зімовая краіна цудаў</item>
     </string-array>
+    <string-array name="account_user_gender_name">
+    <item>Мужчынскі</item>
+    <item>Жаночы</item>
+  </string-array>
 </resources>

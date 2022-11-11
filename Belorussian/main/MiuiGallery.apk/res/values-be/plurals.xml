@@ -731,4 +731,27 @@
         <item quantity="one">Немагчыма сінхранізаваць %d элемент. Ва ўладальніка гэтага альбома няма воблачнага сховішча.</item>
         <item quantity="few">Немагчыма сінхранізаваць %d элемента. Ва ўладальніка гэтага альбома няма воблачнага сховішча.</item>
     </plurals>
+    <plurals name="migrate_gp_data_num">
+        <item quantity="other">%1$d элементаў</item>
+        <item quantity="one">%1$d элемент</item>
+        <item quantity="few">%1$d элемента</item>
+    </plurals>
+    <plurals name="tran_notification_complete_msg">
+        <item quantity="other">Немагчыма перадаць %1$d элементаў</item>
+        <item quantity="one">Немагчыма перадаць %1$d элемент</item>
+        <item quantity="few">Немагчыма перадаць %1$d элемента</item>
+    </plurals>
+    <plurals name="transfer_status_banner_msg_file_failed">
+        <item quantity="other">Немагчыма перадаць %1$d элементаў. Наведайце i.mi.com, каб загрузіць іх.</item>
+        <item quantity="one">Немагчыма перадаць %1$d элемент. Наведайце i.mi.com, каб загрузіць яго.</item>
+        <item quantity="few">Немагчыма перадаць %1$d элемента. Наведайце i.mi.com, каб загрузіць іх.</item>
+    </plurals>
+    <plurals name="trash_vip_info_text_login_medium_or_low_level">
+        <item quantity="other">Элементы могуць захоўвацца тут на працягу %1$s дзён. Націсніце, каб падоўжыць гэты перыяд.</item>
+        <item quantity="one">Элементы могуць захоўвацца тут на працягу %1$s дня. Націсніце, каб падоўжыць гэты перыяд.</item>
+    </plurals>
+    <plurals name="trash_vip_info_text_no_sync_server">
+        <item quantity="other">Выдаленыя элементы захоўваюцца ў воблаку на працягу %1$d дзён</item>
+        <item quantity="one">Выдаленыя элементы захоўваюцца ў воблаку на працягу %1$d дня</item>
+    </plurals>
 </resources>

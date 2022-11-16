@@ -2526,4 +2526,15 @@
   <string name="search_card_online_rec_app">Крамы праграм</string>
   <string name="search_card_online_rec_app_install">Усталяваць</string>
   <string name="search_card_online_rec_app_open">Адкрыць</string>
+  <string name="application_upgrade">Абнаўленні</string>
+  <string name="clean_cache">Ачысціць кэш</string>
+  <string name="clear_result_page_more_content">Агляд</string>
+  <string name="clear_result_page_show_more">Паказаць яшчэ</string>
+  <string name="game_center">Гульні</string>
+  <string name="memory_management">Кіраванне сховішчам</string>
+  <string name="no_scalable_applications">Абнаўленне не патрабуецца</string>
+  <string name="occupy" formatted="false">Занята %d%</string>
+  <string name="power_saving_settings">Эканомія энергіі</string>
+  <string name="third_image_viewer_label">Сродак прагляду выяў (Mi Браўзэр)</string>
+  <string name="upgrade">Абнавіць</string>
 </resources>

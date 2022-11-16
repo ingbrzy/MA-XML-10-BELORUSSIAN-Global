@@ -406,4 +406,16 @@
         <item quantity="few">Знойдзены %1$d выніка</item>
         <item quantity="many">Знойдзены %1$d вынікаў</item>
     </plurals>
+   <plurals name="hour">
+    <item quantity="other">%d г.</item>
+    <item quantity="one">%d г.</item>
+    <item quantity="few">%d г.</item>
+    <item quantity="many">%d г.</item>
+  </plurals>
+  <plurals name="minute">
+    <item quantity="other">%d хв.</item>
+    <item quantity="one">%d хв.</item>
+    <item quantity="few">%d хв.</item>
+    <item quantity="many">%d хв.</item>
+  </plurals>
 </resources>

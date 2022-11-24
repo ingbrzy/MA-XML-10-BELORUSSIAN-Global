@@ -3578,4 +3578,10 @@
   <string name="user_name_phone_number">Нумар тэлефона</string>
   <string name="weibo_login_btn_content_description">Увайсці праз Weibo</string>
   <string name="weixin_login_btn_content_description">Увайсці праз WeChat</string>
+  <string name="stop_use_secret_cancel">Не зараз</string>
+   <string name="stop_use_secret_msg">"Вашы фота і відэа больш не сінхранізуюцца з Воблакам Xiaomi. Вы не зможаце выкарыстоўваць свой асабісты альбом, бо ён выкарыстоўвае воблачнае шыфраванне.
+Да %1$s вы можаце перамяшчаць свае элементы ў Google Фота ці загружаць іх на сайце i.mi.com. Пасля гэтага элементы, якія ўсё яшчэ захоўваюцца ў Воблаку Xiaomi, будуць беззваротна выдалены.
+%2$s"</string>
+   <string name="stop_use_secret_ok">Перанос элементаў</string>
+   <string name="stop_use_secret_title">Асабісты альбом больш недаступны</string>
 </resources>

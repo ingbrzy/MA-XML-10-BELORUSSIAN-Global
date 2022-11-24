@@ -524,4 +524,10 @@
   <string name="offline">Не ў сетцы</string>
   <string name="accessibility_desc_add">Дадаць</string>
   <string name="accessibility_desc_remove">Выдаліць</string>
+  <string name="airplane">У самалёце</string>
+  <string name="bootloader">Fastboot</string>
+  <string name="recovery">Recovery</string>
+  <string name="silent">Без гуку</string>
+  <string name="slider_view_content_left_description">Ссуньце ўверх, каб перазагрузіцца ў рэжым \"Fastboot\", або ссуньце ўніз, каб перазагрузіцца ў рэжым \"Recovery\"</string>
+  <string name="slider_view_content_right_description">Ссуньце ўверх, каб пераключыць рэжым \"У самалёце\", або ссуньце ўніз, каб пераключыць рэжым \"Без гуку\"</string>
 </resources>

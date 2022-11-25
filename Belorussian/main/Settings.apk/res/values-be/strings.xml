@@ -10642,4 +10642,11 @@ ID:%s
   <string name="miheadset_connect_device_hfp">Падлучыце навушнікі і пераканайцеся, што прайграванне гуку падчас тэлефонных выклікаў дазволена</string>
   <string name="miheadset_firmware_version_update">Абнавіць прашыўку</string>
   <string name="bt_always_show_icon_summary">Паказваць абразок Bluetooth толькі ў панэлі апавяшчэнняў і цэнтры кіравання</string>
+  <string name="automatic_brightness_close_for_virtual_light_sensor">Каб мець магчымасць аўтаматычна рэгуляваць яркасць, спачатку адключыце разблакоўку па твару</string>
+  <string name="dark_mode_display_enable_summary">Пераключэнне на карыстацкі інтэрфейс з нізкім падсвятленнем, які адлюстроўвае ў асноўным цёмныя паверхні</string>
+  <string name="miui_face_data_input_dialog_cancel_btn_for_sensor_light_virtual">Адмена</string>
+  <string name="miui_face_data_input_dialog_message_for_sensor_light_virtual">Для дасягнення найлепшых вынікаў пры разблакаваннi па твару не дазваляйце прыладзе аўтаматычна рэгуляваць яркасць экрана</string>
+  <string name="miui_face_data_input_dialog_ok_btn_for_sensor_light_virtual">ОК</string>
+  <string name="miui_face_data_input_dialog_title_for_sensor_light_virtual">Разблакаванне па твару</string>
+  <string name="miui_face_unlock_open_toast_for_sensor_light_virtual">Яркасць экрана не будзе рэгулявацца аўтаматычна</string>
 </resources>

@@ -1499,4 +1499,5 @@
   <string name="button_copy">Капіяваць</string>
   <string name="mms_main_purpose_new">Гэтай праграме неабходна падлучэнне да Інтэрнэту, каб прадастаўляць вам асноўныя сэрвісы. Мы рэкамендуем вам уключыць сэрвіс Mi Паведамленняў.</string>
   <string name="system_permission_declare_exit">Выхад</string>
+  <string name="wait_for_sp_mark_as_read">Секунду…</string>
 </resources>

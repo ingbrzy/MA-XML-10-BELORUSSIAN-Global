@@ -578,4 +578,6 @@
   <string name="dialog_title_cancel_backup">Рэзервовае капіяванне</string>
   <string name="dialog_title_cancel_restore">Аднаўленне</string>
   <string name="cloud_backup_detail_header_msg_no_wechat_backup">"Вы можаце зрабіць рэзервовыя копіі працоўнага стала, праграм, сістэмных налад. &lt;font color=#0D84FF>&lt;a href=>Падрабязней&lt;/a>&lt;/font>."</string>
+  <string name="cta_dialog_all_purpose">Сардэчна запрашаем у воблачнае рэзервовае капіяванне! Вы можаце выкарыстоўваць гэту праграму для рэзервовага капіявання макета працоўнага стала, праграм, сістэмных налад і даных WeChat ў воблака. Упэўніцеся, што вы карыстаецеся апошняй версіяй, каб выкарыстоўваць усе нашы магчымасці.</string>
+  <string name="cta_dialog_permission_description_storage">Для рэзервовага капіявання і аднаўлення элементаў</string>
 </resources>

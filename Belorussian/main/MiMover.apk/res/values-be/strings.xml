@@ -987,4 +987,26 @@
   <string name="apple_install_skip">Прапусціць</string>
   <string name="apple_install_sub_title">Вылучаныя праграмы будуць загружаныя з GetApps</string>
   <string name="apple_install_title">Праграмы са старой прылады</string>
+  <string name="android_id">Ідэнтыфікатар Android</string>
+  <string name="android_id_usage">Для распазнання версіі праграмы і сумяшчальнасці паміж старымі і новымі прыладамі</string>
+  <string name="android_oaid">OAID</string>
+  <string name="collect_content">Сабраны кантэнт</string>
+  <string name="collect_situation">Статус калекцыі</string>
+  <string name="collected">Сабрана</string>
+  <string name="not_support">Не падтрымліваецца</string>
+  <string name="oaid_usage">Для забеспячэння бяспекі перадаваных элементаў</string>
+  <string name="option_personal_info_list">Збор асабістай інфармацыі</string>
+  <string name="option_privacy_settings">Прыватнасць</string>
+  <string name="ooption_third_party_shared_info_instruction">Абмен дадзенымі трэціх бакоў</string>
+  <string name="option_user_agreement">Угода карыстальніка</string>
+  <string name="option_user_device_info">Інфармацыя аб прыладзе</string>
+  <string name="recent_one_year">За апошні год</string>
+  <string name="recent_seven_days">За апошнія 7 дзён</string>
+  <string name="recent_thirty_days">За апошнія 30 дзён</string>
+  <string name="ssid_name">Імя SSID/Wi-Fi</string>
+  <string name="uncollected">Не сабрана</string>
+  <string name="use_purpose">Мэта выкарыстання</string>
+  <string name="use_purpose_description">Для падлучэння да пункту доступу новай прылады</string>
+  <string name="use_scene">Сцэнар выкарыстання</string>
+  <string name="use_scene_description">Для пераносу элементаў са старой прылады на новую</string>
 </resources>
